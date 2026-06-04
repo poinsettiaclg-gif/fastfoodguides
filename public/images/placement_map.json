@@ -1,0 +1,722 @@
+{
+  "arbys-meat-slicer": [
+    {
+      "image_path": "/images/arbys-meat-slicer/arbys-meat-slicer-carriage-schematic.webp",
+      "alt_text": "Technical schematic of the Arby's commercial deli slicer carriage assembly",
+      "placement_header": "The Deli Slicer Station"
+    },
+    {
+      "image_path": "/images/arbys-meat-slicer/arbys-meat-slicer-thickness-gauge.webp",
+      "alt_text": "Blueprint illustration of the Arby's deli slicer blade thickness gauge and calibration mechanism",
+      "placement_header": "The Morning Calibration Routine"
+    }
+  ],
+  "burger-king-broiler-closing": [
+    {
+      "image_path": "/images/burger-king-broiler-closing/burger-king-broiler-grease-catch-pans.webp",
+      "alt_text": "Technical diagram showing the grease catch pans located beneath a Burger King broiler",
+      "placement_header": "The Breakdown and Scrub: Where the Real Work Begins"
+    },
+    {
+      "image_path": "/images/burger-king-broiler-closing/burger-king-broiler-conveyor-belt-links.webp",
+      "alt_text": "Blueprint style graphic of the Burger King broiler chain-link conveyor belts",
+      "placement_header": "The Reassembly: Getting It Right the First Time"
+    }
+  ],
+  "burger-king-broiler": [
+    {
+      "image_path": "/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp",
+      "alt_text": "Schematic diagram of the Burger King flame broiler continuous conveyor belt feed mechanism",
+      "placement_header": "How the Flame Broiler Actually Works"
+    },
+    {
+      "image_path": "/images/burger-king-broiler/burger-king-broiler-igniter-assembly.webp",
+      "alt_text": "Technical illustration of the Burger King broiler gas igniter and burner assembly",
+      "placement_header": "When the Broiler Goes Down"
+    }
+  ],
+  "burger-king-expeditor-role": [
+    {
+      "image_path": "/images/burger-king-expeditor-role/burger-king-expeditor-station-layout.webp",
+      "alt_text": "Minimalist blueprint layout of a Burger King expeditor station and kitchen sightlines",
+      "placement_header": "The Bridge Between Kitchen and Customer"
+    },
+    {
+      "image_path": "/images/burger-king-expeditor-role/burger-king-expeditor-verification-workflow.webp",
+      "alt_text": "Flat vector operational workflow diagram for order modification verification at Burger King",
+      "placement_header": "The Modification Nightmare"
+    }
+  ],
+  "chick-fil-a-core-4": [
+    {
+      "image_path": "/images/chick-fil-a-core-4/chick-fil-a-core-4-evaluation-matrix.webp",
+      "alt_text": "Flat design schematic of the Chick-fil-A Core 4 evaluation rubric and scoring matrix",
+      "placement_header": "The Chick-fil-A Core 4 Explained"
+    },
+    {
+      "image_path": "/images/chick-fil-a-core-4/chick-fil-a-core-4-feedback-loop.webp",
+      "alt_text": "Instructional workflow diagram showing the Chick-fil-A customer interaction feedback loop",
+      "placement_header": "How to Demonstrate the Core 4 in Your Interview"
+    }
+  ],
+  "chick-fil-a-ipos-system": [
+    {
+      "image_path": "/images/chick-fil-a-ipos-system/chick-fil-a-ipos-tablet-interface.webp",
+      "alt_text": "Clean vector illustration of the Chick-fil-A iPOS tablet interface and mobile card reader",
+      "placement_header": "Bypassing the Speaker Box Bottleneck"
+    },
+    {
+      "image_path": "/images/chick-fil-a-ipos-system/chick-fil-a-ipos-parallel-processing.webp",
+      "alt_text": "Technical diagram showing the parallel processing order workflow of a Chick-fil-A drive-thru",
+      "placement_header": "The \"Send\" Before the Window"
+    }
+  ],
+  "taco-bell-rehydrate-beans": [
+    {
+      "image_path": "/images/taco-bell-rehydrate-beans/taco-bell-rehydrate-beans-water-tower.webp",
+      "alt_text": "Technical schematic of a hot water tower dispensing boiling water into a metal hotel pan",
+      "placement_header": "The Rehydration Process Step by Step"
+    },
+    {
+      "image_path": "/images/taco-bell-rehydrate-beans/taco-bell-rehydrate-beans-whisk.webp",
+      "alt_text": "Technical schematic of a commercial whisk mixing bean pellets in a metal pan",
+      "placement_header": "The Rehydration Process Step by Step"
+    }
+  ],
+  "wendys-4-corner-press": [
+    {
+      "image_path": "/images/wendys-4-corner-press/wendys-4-corner-press-curling.webp",
+      "alt_text": "Technical schematic of a square meat patty curling on a flat top grill",
+      "placement_header": "Why Fresh Beef Fights Back"
+    },
+    {
+      "image_path": "/images/wendys-4-corner-press/wendys-4-corner-press-technique.webp",
+      "alt_text": "Technical schematic of a heavy metal spatula pressing the corner of a square meat patty",
+      "placement_header": "The 4-Corner Press Technique"
+    }
+  ],
+  "wendys-chili-leftover-hamburgers": [
+    {
+      "image_path": "/images/wendys-chili-leftover-hamburgers/wendys-chili-meat-chopping.webp",
+      "alt_text": "Technical schematic of a flat metal chopping tool breaking up meat in a metal pan",
+      "placement_header": "The Chili Meat Process: Step by Step"
+    },
+    {
+      "image_path": "/images/wendys-chili-leftover-hamburgers/wendys-chili-stirring.webp",
+      "alt_text": "Technical schematic of a long ladle stirring chili from the bottom of a large commercial pot",
+      "placement_header": "Holding, Rotation, and Daily Production"
+    }
+  ],
+  "wendys-clamshell-grill": [
+    {
+      "image_path": "/images/wendys-clamshell-grill/wendys-clamshell-grill-closing.webp",
+      "alt_text": "Technical schematic of a double-sided clamshell grill lowering onto meat patties",
+      "placement_header": "How the Clamshell Actually Works"
+    },
+    {
+      "image_path": "/images/wendys-clamshell-grill/wendys-clamshell-cleaning.webp",
+      "alt_text": "Technical schematic of a grill brick scrubbing the top platen of a clamshell grill",
+      "placement_header": "Cleaning the Clamshell: The Nightly Battle"
+    }
+  ],
+  "wendys-closing-duties": [
+    {
+      "image_path": "/images/wendys-closing-duties/wendys-three-compartment-sink.webp",
+      "alt_text": "Technical schematic of a three-compartment commercial sink with metal inserts",
+      "placement_header": "Phase 3: The Three-Compartment Sink"
+    },
+    {
+      "image_path": "/images/wendys-closing-duties/wendys-wrapped-food-pans.webp",
+      "alt_text": "Technical schematic of metal food pans tightly sealed with plastic wrap",
+      "placement_header": "Phase 2: Breaking Down the Boards"
+    }
+  ],
+  "wendys-frosty-machine-boil-out": [
+    {
+      "image_path": "/images/wendys-frosty-machine-boil-out/wendys-frosty-auger.webp",
+      "alt_text": "Technical schematic of a Frosty machine auger with sharp plastic scraper blades",
+      "placement_header": "Step 2: The Mechanical Teardown"
+    },
+    {
+      "image_path": "/images/wendys-frosty-machine-boil-out/wendys-frosty-orings.webp",
+      "alt_text": "Technical schematic of food-grade lubricant being applied to rubber O-rings",
+      "placement_header": "Step 4: Reassembly and the Lube"
+    }
+  ],
+  "chipotle-fajita-veggie-cut": [
+    {
+      "image_path": "/images/chipotle-fajita-veggie-cut/chipotle-fajita-veggie-claw-grip-schematic.webp",
+      "alt_text": "Technical schematic of the claw grip technique for cutting bell peppers, showing proper knuckle positioning",
+      "placement_header": "The 1/4-Inch Rule and Why It's Non-Negotiable"
+    },
+    {
+      "image_path": "/images/chipotle-fajita-veggie-cut/chipotle-bell-pepper-ridge-guide.webp",
+      "alt_text": "Blueprint-style diagram of a halved bell pepper showing natural internal ridges used as 1/4-inch cutting guides",
+      "placement_header": "The Color Separation Challenge"
+    }
+  ],
+  "chipotle-grill-validation": [
+    {
+      "image_path": "/images/chipotle-grill-validation/chipotle-grill-thermometer-calibration-diagram.webp",
+      "alt_text": "Technical illustration of a digital meat thermometer being calibrated in 32-degree ice water",
+      "placement_header": "3. Food Safety and Temp Logs"
+    },
+    {
+      "image_path": "/images/chipotle-grill-validation/chipotle-grill-station-cutting-board-layout.webp",
+      "alt_text": "Schematic top-down view of a Chipotle grill station showing separate cutting boards to prevent cross-contamination",
+      "placement_header": "4. Clean As You Go"
+    }
+  ],
+  "chipotle-massive-burrito-rolling": [
+    {
+      "image_path": "/images/chipotle-massive-burrito-rolling/chipotle-burrito-ushape-ingredient-layout.webp",
+      "alt_text": "Vector diagram showing the proper U-shaped distribution of heavy ingredients on a flat tortilla",
+      "placement_header": "Step 1: The U-Shape Placement"
+    },
+    {
+      "image_path": "/images/chipotle-massive-burrito-rolling/chipotle-burrito-pull-back-technique.webp",
+      "alt_text": "Technical schematic demonstrating the backward pull and tuck motion used to compress a burrito during rolling",
+      "placement_header": "Step 2: The Stretch and Tuck"
+    }
+  ],
+  "dairy-queen-blizzard-flip": [
+    {
+      "image_path": "/images/dairy-queen-blizzard-flip/dairy-queen-blizzard-spindle-blending-diagram.webp",
+      "alt_text": "Blueprint illustration of a vertical spindle blender showing the up-and-down pumping motion required for mixing",
+      "placement_header": "The Blending Technique That Makes or Breaks the Flip"
+    },
+    {
+      "image_path": "/images/dairy-queen-blizzard-flip/dairy-queen-blizzard-flip-vacuum-schematic.webp",
+      "alt_text": "Technical diagram illustrating the vacuum seal and density forces holding soft serve inside an inverted cup",
+      "placement_header": "The Science Behind the Flip"
+    }
+  ],
+  "dairy-queen-perfect-cone-curl": [
+    {
+      "image_path": "/images/dairy-queen-perfect-cone-curl/dairy-queen-soft-serve-tier-structure.webp",
+      "alt_text": "Schematic diagram of a medium Dairy Queen cone showing the internal foundation and three distinct soft serve tiers",
+      "placement_header": "The Technique: Base, Tiers, and the Snap"
+    },
+    {
+      "image_path": "/images/dairy-queen-perfect-cone-curl/dairy-queen-chocolate-dip-motion-vector.webp",
+      "alt_text": "Vector illustration of the precise vertical dipping motion used to coat a soft serve cone in liquid chocolate",
+      "placement_header": "The Chocolate Dip: Where Cones Go to Die"
+    }
+  ],
+  "dominos-20-bank-rule": [
+    {
+      "image_path": "/images/dominos-20-bank-rule/dominos-driver-smart-safe-drop-system.webp",
+      "alt_text": "Technical blueprint of a store smart safe showing the cash drop deposit mechanism",
+      "placement_header": "The Cash Drop System"
+    },
+    {
+      "image_path": "/images/dominos-20-bank-rule/dominos-driver-cash-bank-segregation-diagram.webp",
+      "alt_text": "Diagram illustrating the separation of a $20 driver bank from collected store cash during a multi-delivery run",
+      "placement_header": "The Double and Triple Run Complication"
+    }
+  ],
+  "dominos-gas": [
+    {
+      "image_path": "/images/dominos-gas/dominos-gas-dispatch-computer-schematic.webp",
+      "alt_text": "Technical schematic of a Domino's dispatch computer mileage tracking workflow",
+      "placement_header": "The Short Answer: You Pay at the Pump, They Pay You Back"
+    },
+    {
+      "image_path": "/images/dominos-gas/dominos-gas-vehicle-wear-brakes-schematic.webp",
+      "alt_text": "Technical diagram of vehicle brake pad wear mechanics from delivery driving",
+      "placement_header": "The Hidden Costs Nobody Mentions in the Interview"
+    }
+  ],
+  "dominos-oven-tender-role": [
+    {
+      "image_path": "/images/dominos-oven-tender-role/dominos-oven-tender-conveyor-belt-schematic.webp",
+      "alt_text": "Technical schematic of a Domino's conveyor belt pizza oven",
+      "placement_header": "The Catch: A Conveyor Belt That Never Stops"
+    },
+    {
+      "image_path": "/images/dominos-oven-tender-role/dominos-oven-tender-pizza-peel-blade-schematic.webp",
+      "alt_text": "Technical schematic of a Domino's pizza peel and rocking blade",
+      "placement_header": "The Cut and Box: 15 Seconds Per Pizza or You're Drowning"
+    }
+  ],
+  "dunkin-flavor-shot-vs-swirl": [
+    {
+      "image_path": "/images/dunkin-flavor-shot-vs-swirl/dunkin-flavor-pump-mechanism-schematic.webp",
+      "alt_text": "Technical schematic of a Dunkin syrup pump mechanism",
+      "placement_header": "The Pump Count Standard: Getting the Ratio Right"
+    },
+    {
+      "image_path": "/images/dunkin-flavor-shot-vs-swirl/dunkin-flavor-shot-swirl-viscosity-schematic.webp",
+      "alt_text": "Technical diagram comparing Dunkin flavor swirl and flavor shot viscosities",
+      "placement_header": "Flavor Shots: The Sugar-Free, Nearly Invisible Alternative"
+    }
+  ],
+  "five-guys-fry-calibration": [
+    {
+      "image_path": "/images/five-guys-fry-calibration/five-guys-fry-calibration-dual-fryer-schematic.webp",
+      "alt_text": "Technical schematic of a Five Guys dual-stage deep fryer setup",
+      "placement_header": "The Two-Stage Cook: Why Five Guys Fries Are Different From Every Other Chain"
+    },
+    {
+      "image_path": "/images/five-guys-fry-calibration/five-guys-fry-calibration-mush-test-schematic.webp",
+      "alt_text": "Technical schematic of potato starch breakdown during the Five Guys mush test",
+      "placement_header": "The Calibration: What Actually Happens and Why It's Non-Negotiable"
+    }
+  ],
+  "five-guys-no-freezers": [
+    {
+      "image_path": "/images/five-guys-no-freezers/five-guys-no-freezers-walkin-cooler-schematic.webp",
+      "alt_text": "Technical schematic of a Five Guys walk-in cooler storage layout",
+      "placement_header": "The Walk-In Cooler: The Single Most Important Piece of Equipment in the Building"
+    },
+    {
+      "image_path": "/images/five-guys-no-freezers/five-guys-no-freezers-patty-rolling-schematic.webp",
+      "alt_text": "Technical diagram of the Five Guys manual burger patty rolling workflow",
+      "placement_header": "The Morning Prep: Why Five Guys Openers Work Harder Than Almost Anyone in Fast Food"
+    }
+  ],
+  "hardees-biscuit-maker-shift": [
+    {
+      "image_path": "/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-dough-folding-schematic.webp",
+      "alt_text": "Technical schematic of the Hardee's biscuit dough folding and kneading process",
+      "placement_header": "The From-Scratch Process: Where Most New Hires Fail"
+    },
+    {
+      "image_path": "/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-metal-cutter-schematic.webp",
+      "alt_text": "Technical diagram demonstrating proper straight-down metal biscuit cutter technique",
+      "placement_header": "The From-Scratch Process: Where Most New Hires Fail"
+    }
+  ],
+  "in-n-out-board-station": [
+    {
+      "image_path": "/images/in-n-out-board-station/in-n-out-board-station-layout-schematic.webp",
+      "alt_text": "Technical schematic of the In-N-Out Board station layout showing the stainless steel prep table, spread pump, and standardized vegetable bin positions",
+      "placement_header": "The Board Setup and Station Layout"
+    },
+    {
+      "image_path": "/images/in-n-out-board-station/in-n-out-burger-wrapping-method-diagram.webp",
+      "alt_text": "Flat vector illustration of the wax paper tuck-and-fold wrapping method for In-N-Out burgers, demonstrating the diagonal placement",
+      "placement_header": "The Wrapping Speed That Separates Good from Great"
+    }
+  ],
+  "in-n-out-level-system": [
+    {
+      "image_path": "/images/in-n-out-level-system/in-n-out-fry-station-equipment-schematic.webp",
+      "alt_text": "Technical blueprint of the In-N-Out fry station equipment showing fresh potato dicer, washing sinks, and oil temperature monitors",
+      "placement_header": "Levels 2 Through 4: Front-of-House Fundamentals"
+    },
+    {
+      "image_path": "/images/in-n-out-level-system/in-n-out-grill-station-layout-diagram.webp",
+      "alt_text": "Flat schematic diagram of an In-N-Out Grill station layout highlighting the cooking zones for multiple rows of meat patties",
+      "placement_header": "Levels 5 Through 7: Kitchen Mastery and Management"
+    }
+  ],
+  "in-n-out-secret-menu": [
+    {
+      "image_path": "/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp",
+      "alt_text": "Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items",
+      "placement_header": "The POS System Is Built for Speed"
+    },
+    {
+      "image_path": "/images/in-n-out-secret-menu/in-n-out-kitchen-display-codes-diagram.webp",
+      "alt_text": "Technical illustration of a kitchen display system screen showing abbreviated In-N-Out modifier codes like DD AS MF",
+      "placement_header": "What the Kitchen Sees When You Hit Send"
+    }
+  ],
+  "jack-in-the-box-tacos-made": [
+    {
+      "image_path": "/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-deep-fryer-schematic.webp",
+      "alt_text": "Schematic diagram of frozen Jack in the Box tacos submerged in a 350-degree deep fryer basket",
+      "placement_header": "The Deep Fryer Does All the Heavy Lifting"
+    },
+    {
+      "image_path": "/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-assembly-technique.webp",
+      "alt_text": "Flat vector illustration showing the mechanical pry-and-stuff technique to insert cheese and lettuce into a fried taco shell",
+      "placement_header": "The Pry-and-Stuff Technique"
+    }
+  ],
+  "jersey-mikes-hot-sub-grill": [
+    {
+      "image_path": "/images/jersey-mikes-hot-sub-grill/jersey-mikes-grill-station-meat-zones.webp",
+      "alt_text": "Flat technical layout of a Jersey Mike's flat-top grill showing strictly separated raw beef and raw chicken cooking zones",
+      "placement_header": "Raw Beef, Raw Chicken, and Zero Margin for Error"
+    },
+    {
+      "image_path": "/images/jersey-mikes-hot-sub-grill/jersey-mikes-cheesesteak-chopping-technique.webp",
+      "alt_text": "Blueprint-style diagram of heavy metal spatulas executing the chop-and-flip technique on shaved steak on a flat-top grill",
+      "placement_header": "The Chop-and-Flip Technique That Destroys Your Forearms"
+    }
+  ],
+  "jersey-mikes-mikes-way": [
+    {
+      "image_path": "/images/jersey-mikes-mikes-way/jersey-mikes-mikes-way-ingredient-layers.webp",
+      "alt_text": "Cross-section schematic of a Mike's Way sub showing the structural layers of onions, lettuce, tomatoes, juice, and spices",
+      "placement_header": "The Exact Mike's Way Sequence: O-L-T-J-S"
+    },
+    {
+      "image_path": "/images/jersey-mikes-mikes-way/jersey-mikes-deli-meat-slicer-diagram.webp",
+      "alt_text": "Technical diagram of a commercial deli meat slicer featuring the spinning blade and heavy metal safety guard",
+      "placement_header": "The Meat Slicer: Speed, Danger, and Respect"
+    }
+  ],
+  "kfc-coleslaw-secret": [
+    {
+      "image_path": "/images/kfc-coleslaw-secret/kfc-coleslaw-vertical-cutter-mixer-schematic.webp",
+      "alt_text": "Technical schematic of a commercial vertical cutter mixer with forearm-sized blades",
+      "placement_header": "## The Fine Chop: Why Confetti, Not Shreds"
+    },
+    {
+      "image_path": "/images/kfc-coleslaw-secret/kfc-coleslaw-maceration-osmosis-diagram.webp",
+      "alt_text": "Technical diagram illustrating the overnight maceration process and osmosis of cabbage in coleslaw dressing",
+      "placement_header": "## The Mandatory 12-Hour Maceration"
+    }
+  ],
+  "kfc-original-vs-extra-crispy": [
+    {
+      "image_path": "/images/kfc-original-vs-extra-crispy/kfc-collectramatic-pressure-fryer-schematic.webp",
+      "alt_text": "Blueprint-style diagram of a Collectramatic pressure fryer showing internal steam and pressure mechanics",
+      "placement_header": "## Original Recipe: The Pressure Fryer"
+    },
+    {
+      "image_path": "/images/kfc-original-vs-extra-crispy/kfc-extra-crispy-double-dip-breading-process.webp",
+      "alt_text": "Flat vector illustration showing the double-dip breading technique and steam expansion in an open fryer",
+      "placement_header": "## Extra Crispy: The Open Fryer and the Double Dip"
+    }
+  ],
+  "kfc-pressure-fryers": [
+    {
+      "image_path": "/images/kfc-pressure-fryers/kfc-pressure-fryer-mechanical-safety-lock-pin.webp",
+      "alt_text": "Technical diagram of the mechanical safety locking pin mechanism on a commercial pressure fryer",
+      "placement_header": "## The Machine and Its Safety Engineering"
+    },
+    {
+      "image_path": "/images/kfc-pressure-fryers/kfc-fryer-oil-filtration-system-schematic.webp",
+      "alt_text": "Schematic of a commercial fryer oil filtration system showing drainage and pumping of hot oil",
+      "placement_header": "## Oil Filtration: The Closing Shift's Most Dangerous Task"
+    }
+  ],
+  "little-caesars-hot-n-ready-system": [
+    {
+      "image_path": "/images/little-caesars-hot-n-ready-system/little-caesars-cvap-holding-cabinet-diagram.webp",
+      "alt_text": "Technical diagram showing air temperature and humidity control within a CVap holding cabinet",
+      "placement_header": "## The CVap Holding Cabinets: Not Just a Heat Lamp"
+    },
+    {
+      "image_path": "/images/little-caesars-hot-n-ready-system/little-caesars-pizza-box-time-stamp-system.webp",
+      "alt_text": "Flat vector illustration of the 30-minute grease pencil clock marking system on a pizza box",
+      "placement_header": "## The Clock Marking System: 30 Minutes to Live"
+    }
+  ],
+  "little-caesars-sheetout-machine": [
+    {
+      "image_path": "/images/little-caesars-sheetout-machine/little-caesars-sheetout-machine-rollers-calibration.webp",
+      "alt_text": "Blueprint-style schematic of a pizza dough sheetout machine's calibrated rollers and gap width",
+      "placement_header": "## What the Sheeter Actually Is"
+    },
+    {
+      "image_path": "/images/little-caesars-sheetout-machine/little-caesars-dough-sheeter-two-pass-turn.webp",
+      "alt_text": "Technical diagram illustrating the 90-degree turn between the first and second pass through a dough sheeter",
+      "placement_header": "## The Two-Pass Technique"
+    }
+  ],
+  "mcdonalds-abs-system": [
+    {
+      "image_path": "/images/mcdonalds-abs-system/mcdonalds-automated-beverage-system-conveyor-process.webp",
+      "alt_text": "Schematic of the McDonald's Automated Beverage System showing the cup hopper, ice chute, and pouring arm",
+      "placement_header": "## The Three-Step Fill Process"
+    },
+    {
+      "image_path": "/images/mcdonalds-abs-system/mcdonalds-coca-cola-brix-meter-calibration.webp",
+      "alt_text": "Technical illustration of a Brix meter used to calibrate syrup-to-water ratios from stainless steel tanks",
+      "placement_header": "## Why McDonald's Coke Actually Tastes Better"
+    }
+  ],
+  "mcdonalds-pos-crash": [
+    {
+      "image_path": "/images/mcdonalds-pos-crash/mcdonalds-pos-crash-kit-schematic.webp",
+      "alt_text": "Technical schematic of a McDonald's manual POS crash kit on a dark blue background",
+      "placement_header": "The Manual Crash Kit"
+    },
+    {
+      "image_path": "/images/mcdonalds-pos-crash/mcdonalds-kitchen-manual-order-workflow.webp",
+      "alt_text": "Diagram of manual paper order workflow in a fast food kitchen on a dark navy background",
+      "placement_header": "The Chaos in the Kitchen"
+    }
+  ],
+  "panda-express-leftover-food": [
+    {
+      "image_path": "/images/panda-express-leftover-food/panda-express-food-waste-scale-diagram.webp",
+      "alt_text": "Flat vector technical diagram of a digital food scale and measuring bins for waste logging",
+      "placement_header": "The Strict Waste Logging Policy"
+    },
+    {
+      "image_path": "/images/panda-express-leftover-food/panda-express-steam-table-consolidation.webp",
+      "alt_text": "Schematic diagram of steam table pan consolidation workflow in neon green and light blue",
+      "placement_header": "The Cut-Off Time Strategy"
+    }
+  ],
+  "panda-express-wok-chef": [
+    {
+      "image_path": "/images/panda-express-wok-chef/panda-express-wok-burner-heat-diagram.webp",
+      "alt_text": "Technical illustration of a commercial wok burner showing heat distribution and flames",
+      "placement_header": "The Heat and the Fire"
+    },
+    {
+      "image_path": "/images/panda-express-wok-chef/panda-express-wok-chuan-spatula.webp",
+      "alt_text": "Blueprint style vector of a heavy commercial wok and chuan spatula with neon green accents",
+      "placement_header": "The Physical Toll of the Wok"
+    }
+  ],
+  "panera-bread-consolidator-role": [
+    {
+      "image_path": "/images/panera-bread-consolidator-role/panera-bread-kitchen-consolidation-layout.webp",
+      "alt_text": "Schematic diagram of a Panera kitchen consolidation staging area for multi-station orders",
+      "placement_header": "The Master of the \"You Pick Two\""
+    },
+    {
+      "image_path": "/images/panera-bread-consolidator-role/panera-bread-quality-control-tray.webp",
+      "alt_text": "Technical layout diagram of a quality control tray with soup and sandwich presentation standards",
+      "placement_header": "The Quality Control Check"
+    }
+  ],
+  "panera-overnight-baker": [
+    {
+      "image_path": "/images/panera-overnight-baker/panera-overnight-baker-equipment-setup.webp",
+      "alt_text": "Technical diagram of proofing boxes and rotating rack ovens used by an overnight baker",
+      "placement_header": "The Baker's Timeline"
+    },
+    {
+      "image_path": "/images/panera-overnight-baker/panera-bread-scoring-angle-schematic.webp",
+      "alt_text": "Blueprint schematic showing the correct 30-degree razor blade angle for scoring bread dough",
+      "placement_header": "The Scoring Technique"
+    }
+  ],
+  "papa-johns-dough-slapping": [
+    {
+      "image_path": "/images/papa-johns-dough-slapping/papa-johns-dough-proofing-trays.webp",
+      "alt_text": "Technical flat design of stacked dough proofing trays in a walk-in cooler environment",
+      "placement_header": "The Dough Management Process"
+    },
+    {
+      "image_path": "/images/papa-johns-dough-slapping/papa-johns-dough-edge-stretch-diagram.webp",
+      "alt_text": "Instructional schematic showing hand placement for the dough edge stretch technique",
+      "placement_header": "The Edge Stretch and the Slap"
+    }
+  ],
+  "papa-johns-dough-spinner": [
+    {
+      "image_path": "/images/papa-johns-dough-spinner/papa-johns-dough-spinner-schematic.webp",
+      "alt_text": "Technical schematic of a Papa John's Dough Spinner machine with heated platens and hydraulic arm",
+      "placement_header": "What the Dough Spinner Actually Is"
+    },
+    {
+      "image_path": "/images/papa-johns-dough-spinner/papa-johns-dough-spinner-platen-centering.webp",
+      "alt_text": "Top-down technical diagram of a dough ball centered perfectly on a Dough Spinner platen",
+      "placement_header": "How the Machine Actually Works"
+    }
+  ],
+  "pizza-delivery-driver-accident": [
+    {
+      "image_path": "/images/pizza-delivery-driver-accident/pizza-delivery-dashcam-setup-schematic.webp",
+      "alt_text": "Technical schematic of a dashcam installation for a pizza delivery vehicle on a dark blue background",
+      "placement_header": "Vehicle Requirements You Should Actually Follow"
+    },
+    {
+      "image_path": "/images/pizza-delivery-driver-accident/pizza-delivery-vehicle-inspection-schematic.webp",
+      "alt_text": "Blueprint diagram of a delivery vehicle highlighting required safety inspection points like headlights and tires",
+      "placement_header": "Exactly What to Do if You Crash on the Clock"
+    }
+  ],
+  "pizza-hut-dispatch": [
+    {
+      "image_path": "/images/pizza-hut-dispatch/pizza-hut-dispatch-terminal-schematic.webp",
+      "alt_text": "Technical wireframe diagram of a Pizza Hut dispatch terminal touchscreen interface",
+      "placement_header": "The Drag-and-Drop System"
+    },
+    {
+      "image_path": "/images/pizza-hut-dispatch/pizza-hut-delivery-routing-algorithm-map.webp",
+      "alt_text": "Flat vector diagram of a delivery routing map showing a double order path",
+      "placement_header": "Doubles, Triples, and the Routing Algorithm"
+    }
+  ],
+  "popeyes-chicken-battering-process": [
+    {
+      "image_path": "/images/popeyes-chicken-battering-process/popeyes-chicken-marinade-tub-schematic.webp",
+      "alt_text": "Blueprint diagram of a commercial walk-in cooler shelf holding a 12-hour marinade tub",
+      "placement_header": "The 12-Hour Marinade: Where the Flavor Actually Comes From"
+    },
+    {
+      "image_path": "/images/popeyes-chicken-battering-process/popeyes-chicken-toss-and-fold-battering-station.webp",
+      "alt_text": "Technical top-down schematic of a stainless steel flour battering bin and wet dip station",
+      "placement_header": "The Toss and Fold: Where the Magic Happens"
+    }
+  ],
+  "raising-canes-bird-specialist": [
+    {
+      "image_path": "/images/raising-canes-bird-specialist/raising-canes-24-hour-marinade-schematic.webp",
+      "alt_text": "Blueprint diagram showing a 24-hour marination timeline for chicken tenders",
+      "placement_header": "The 24-Hour Marinade and Why It Can't Be Rushed"
+    },
+    {
+      "image_path": "/images/raising-canes-bird-specialist/raising-canes-bird-specialist-breading-station.webp",
+      "alt_text": "Technical top-down schematic of a Bird Specialist flour bin and fryer basket setup",
+      "placement_header": "The Art of the Drop"
+    }
+  ],
+  "sonic-carhops-roller-skate": [
+    {
+      "image_path": "/images/sonic-carhops-roller-skate/sonic-carhop-quad-roller-skate-schematic.webp",
+      "alt_text": "Technical wireframe diagram comparing the footprint of quad roller skates to inline skates",
+      "placement_header": "The Skates: What You Actually Wear"
+    },
+    {
+      "image_path": "/images/sonic-carhops-roller-skate/sonic-carhop-palm-tray-technique.webp",
+      "alt_text": "Flat vector diagram of the Sonic carhop single-palm tray carrying technique",
+      "placement_header": "How They Don't Spill: The Tray Technique"
+    }
+  ],
+  "sonic-switchboard-how-it-works": [
+    {
+      "image_path": "/images/sonic-switchboard-how-it-works/sonic-switchboard-console-schematic.webp",
+      "alt_text": "Technical schematic of a Sonic switchboard console with stall buttons and two-way radio channels",
+      "placement_header": "The Physical Switchboard Console"
+    },
+    {
+      "image_path": "/images/sonic-switchboard-how-it-works/sonic-drive-thru-headset-schematic.webp",
+      "alt_text": "Technical diagram of a fast food drive-thru headset system transceiver",
+      "placement_header": "The Drive-Thru Lane and Staffing"
+    }
+  ],
+  "starbucks-cold-bar-frappuccino": [
+    {
+      "image_path": "/images/starbucks-cold-bar-frappuccino/starbucks-vitamix-blender-pitcher-schematic.webp",
+      "alt_text": "Blueprint-style schematic of a commercial blender pitcher and blade assembly",
+      "placement_header": "The Frappuccino Build: Step by Step"
+    },
+    {
+      "image_path": "/images/starbucks-cold-bar-frappuccino/starbucks-cbs-syrup-pump-schematic.webp",
+      "alt_text": "Flat vector technical schematic of a CBS syrup pump dispenser mechanism",
+      "placement_header": "CBS Pumps vs. Hot Bar Pumps: The Mistake That Ruins Drinks"
+    }
+  ],
+  "starbucks-customer-support-cycle": [
+    {
+      "image_path": "/images/starbucks-customer-support-cycle/starbucks-coffee-brewer-urn-schematic.webp",
+      "alt_text": "Technical schematic of a commercial coffee brewer urn and timer mechanism",
+      "placement_header": "Step 1: Brew Coffee"
+    },
+    {
+      "image_path": "/images/starbucks-customer-support-cycle/starbucks-customer-support-workflow-diagram.webp",
+      "alt_text": "Operational workflow diagram of the four-step Customer Support cycle cadence",
+      "placement_header": "The Four Steps of Every CS Cycle"
+    }
+  ],
+  "starbucks-morning-rush": [
+    {
+      "image_path": "/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp",
+      "alt_text": "Blueprint-style layout diagram of a commercial hot bar espresso station",
+      "placement_header": "Respect the Beverage Routine"
+    },
+    {
+      "image_path": "/images/starbucks-morning-rush/starbucks-espresso-machine-steam-wand-schematic.webp",
+      "alt_text": "Technical schematic of a commercial espresso machine steam wand and tip",
+      "placement_header": "Keep Your Station Immaculate"
+    }
+  ],
+  "starbucks-pull-to-thaw": [
+    {
+      "image_path": "/images/starbucks-pull-to-thaw/starbucks-rolling-bakers-rack-schematic.webp",
+      "alt_text": "Technical schematic of a commercial rolling baker's rack for pastry thawing",
+      "placement_header": "The 18-Hour Thaw Cycle"
+    },
+    {
+      "image_path": "/images/starbucks-pull-to-thaw/starbucks-walk-in-freezer-fifo-shelving.webp",
+      "alt_text": "Operational layout diagram of a walk-in freezer shelving system using FIFO rotation",
+      "placement_header": "Freezer Organization: FIFO or Chaos"
+    }
+  ],
+  "subway-bain-fill-line-rule": [
+    {
+      "image_path": "/images/subway-bain-fill-line-rule/subway-bain-cooling-system-schematic.webp",
+      "alt_text": "Technical diagram of a sandwich line Bain forced-air cooling system and fill line",
+      "placement_header": "The Fill Line Rule: Why Overfilling Is Dangerous"
+    },
+    {
+      "image_path": "/images/subway-bain-fill-line-rule/subway-calibrated-probe-thermometer-schematic.webp",
+      "alt_text": "Technical schematic of a calibrated food safety probe thermometer",
+      "placement_header": "Temperature Logging: The Paper Trail That Saves You"
+    }
+  ],
+  "subway-bread-baking-process": [
+    {
+      "image_path": "/images/subway-bread-baking-process/subway-proofer-cabinet-schematic.webp",
+      "alt_text": "Technical schematic of a Subway proofer cabinet with humidity controls",
+      "placement_header": "Step 1: The Proofer Cabinet"
+    },
+    {
+      "image_path": "/images/subway-bread-baking-process/subway-bread-scoring-forms-diagram.webp",
+      "alt_text": "Flat vector technical diagram of Subway silicone bread baking forms",
+      "placement_header": "Step 2: Scoring the Bread"
+    }
+  ],
+  "subway-pos-out-of-order": [
+    {
+      "image_path": "/images/subway-pos-out-of-order/subway-pos-cash-drawer-override.webp",
+      "alt_text": "Technical diagram of a Subway POS terminal cash drawer manual override mechanism",
+      "placement_header": "Emergency Cash Drawer Access"
+    },
+    {
+      "image_path": "/images/subway-pos-out-of-order/subway-offline-receipt-printer.webp",
+      "alt_text": "Blueprint style diagram of an offline receipt printer data flow",
+      "placement_header": "Handling Offline Transactions"
+    }
+  ],
+  "subway-wrap-folding": [
+    {
+      "image_path": "/images/subway-wrap-folding/subway-silicone-toasting-boat.webp",
+      "alt_text": "Technical schematic of a Subway silicone meat toasting boat",
+      "placement_header": "Step 1: Warm the Tortilla"
+    },
+    {
+      "image_path": "/images/subway-wrap-folding/subway-wrap-diagonal-cut-diagram.webp",
+      "alt_text": "Structural diagram showing the diagonal cut pressure distribution for a Subway wrap",
+      "placement_header": "Step 4: The Diagonal Cut"
+    }
+  ],
+  "taco-bell-drive-thru-timer": [
+    {
+      "image_path": "/images/taco-bell-drive-thru-timer/taco-bell-drive-thru-induction-loop.webp",
+      "alt_text": "Technical diagram of a Taco Bell drive-thru induction loop sensor",
+      "placement_header": "How the Timer System Works"
+    },
+    {
+      "image_path": "/images/taco-bell-drive-thru-timer/taco-bell-order-confirmation-screen.webp",
+      "alt_text": "Blueprint style diagram of an order confirmation screen matrix",
+      "placement_header": "Order Accuracy Tracking"
+    }
+  ],
+  "taco-bell-linebacker-role": [
+    {
+      "image_path": "/images/taco-bell-linebacker-role/taco-bell-heated-holding-cabinet.webp",
+      "alt_text": "Technical schematic of a Taco Bell heated holding cabinet rails",
+      "placement_header": "Managing Holding Cabinet Times"
+    },
+    {
+      "image_path": "/images/taco-bell-linebacker-role/taco-bell-makeline-ingredient-layout.webp",
+      "alt_text": "Flat vector diagram of the Taco Bell makeline ingredient pan layout",
+      "placement_header": "Restocking the Makeline"
+    }
+  ],
+  "taco-bell-menu": [
+    {
+      "image_path": "/images/taco-bell-menu/taco-bell-portion-control-scoop.webp",
+      "alt_text": "Technical diagram of the Taco Bell blue portion control scoop",
+      "placement_header": "The Portion Control System"
+    },
+    {
+      "image_path": "/images/taco-bell-menu/taco-bell-grill-press-elements.webp",
+      "alt_text": "Blueprint style schematic of the Taco Bell clamshell grill press heating elements",
+      "placement_header": "The Crunchwrap Supreme Cheat Code"
+    }
+  ]
+}
