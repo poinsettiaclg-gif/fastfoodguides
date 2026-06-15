@@ -1,0 +1,250 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION } from '../../consts';
+
+const allPosts = (await getCollection('articles')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] as string[];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="All Articles | Fast Food Guides" description={SITE_DESCRIPTION} />
+		<style>
+			body {
+				background: #0a0f1c;
+				color: #F1F5F9;
+			}
+
+			main {
+				width: 100%;
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 2rem 1rem 4rem;
+			}
+
+			/* — Page header — */
+			.page-header {
+				margin-bottom: 2rem;
+			}
+
+			.page-header h1 {
+				margin: 0 0 0.25rem 0;
+				font-size: 2rem;
+				font-weight: 800;
+				color: #F1F5F9;
+				letter-spacing: -0.02em;
+			}
+
+			.guide-count {
+				font-size: 0.875rem;
+				color: #64748B;
+			}
+
+			.guide-count strong {
+				color: #10B981;
+				font-weight: 600;
+			}
+
+			/* — Chain filter pills — */
+			.chain-filters {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5rem;
+				margin-bottom: 2rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.chain-pill {
+				display: inline-block;
+				padding: 0.3em 0.75em;
+				font-size: 0.8rem;
+				font-weight: 500;
+				color: #94A3B8;
+				background: #111827;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 2rem;
+				cursor: pointer;
+				transition: all 0.2s ease;
+				text-decoration: none;
+				line-height: 1.4;
+			}
+
+			.chain-pill:hover,
+			.chain-pill.active {
+				color: #10B981;
+				background: rgba(16, 185, 129, 0.1);
+				border-color: rgba(16, 185, 129, 0.3);
+			}
+
+			/* — Article grid — */
+			.article-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.25rem;
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+
+			/* — Article card — */
+			.article-card {
+				display: flex;
+				flex-direction: column;
+				background: #1a2332;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.75rem;
+				overflow: hidden;
+				transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+			}
+
+			.article-card:hover {
+				background: #1f2b3d;
+				border-color: rgba(16, 185, 129, 0.3);
+				transform: translateY(-2px);
+			}
+
+			.article-card a {
+				display: flex;
+				flex-direction: column;
+				flex: 1;
+				padding: 1.25rem;
+				text-decoration: none;
+				color: inherit;
+			}
+
+			.card-meta {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+				margin-bottom: 0.6rem;
+			}
+
+			.card-chain {
+				font-size: 0.7rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				color: #10B981;
+				background: rgba(16, 185, 129, 0.12);
+				border: 1px solid rgba(16, 185, 129, 0.25);
+				padding: 0.15em 0.5em;
+				border-radius: 0.25rem;
+				line-height: 1.4;
+			}
+
+			.card-date {
+				font-size: 0.75rem;
+				color: #64748B;
+			}
+
+			.card-title {
+				margin: 0 0 0.5rem 0;
+				font-size: 1.05rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				line-height: 1.35;
+				transition: color 0.2s ease;
+			}
+
+			.article-card:hover .card-title {
+				color: #34D399;
+			}
+
+			.card-description {
+				margin: 0;
+				font-size: 0.875rem;
+				color: #94A3B8;
+				line-height: 1.55;
+				flex: 1;
+			}
+
+			/* — Responsive — */
+			@media (max-width: 720px) {
+				main {
+					padding: 1.5rem 0.75rem 3rem;
+				}
+
+				.page-header h1 {
+					font-size: 1.6rem;
+				}
+
+				.article-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<h1>All Guides</h1>
+				<p class="guide-count">Showing <strong>{allPosts.length}</strong> guides</p>
+			</div>
+
+			{chains.length > 0 && (
+				<nav class="chain-filters" aria-label="Filter by chain">
+					<button class="chain-pill active" data-chain="all" type="button">All</button>
+					{chains.sort().map((chain) => (
+						<button class="chain-pill" data-chain={chain} type="button">{chain}</button>
+					))}
+				</nav>
+			)}
+
+			<ul class="article-grid" role="list">
+				{allPosts.map((post) => {
+					const desc = post.data.description;
+					const truncated = desc.length > 120 ? desc.slice(0, 117) + '…' : desc;
+					return (
+						<li class="article-card" data-chain={post.data.chain || ''}>
+							<a href={`/articles/${post.id}/`}>
+								<div class="card-meta">
+									{post.data.chain && <span class="card-chain">{post.data.chain}</span>}
+									<span class="card-date"><FormattedDate date={post.data.pubDate} /></span>
+								</div>
+								<h2 class="card-title">{post.data.title}</h2>
+								<p class="card-description">{truncated}</p>
+							</a>
+						</li>
+					);
+				})}
+			</ul>
+		</main>
+		<Footer />
+
+		<script>
+			document.addEventListener('astro:page-load', () => {
+				const pills = document.querySelectorAll<HTMLButtonElement>('.chain-pill');
+				const cards = document.querySelectorAll<HTMLLIElement>('.article-card');
+				const countEl = document.querySelector<HTMLElement>('.guide-count strong');
+
+				pills.forEach((pill) => {
+					pill.addEventListener('click', () => {
+						pills.forEach((p) => p.classList.remove('active'));
+						pill.classList.add('active');
+
+						const chain = pill.dataset.chain;
+						let visible = 0;
+
+						cards.forEach((card) => {
+							const match = chain === 'all' || card.dataset.chain === chain;
+							card.style.display = match ? '' : 'none';
+							if (match) visible++;
+						});
+
+						if (countEl) countEl.textContent = String(visible);
+					});
+				});
+			});
+		</script>
+	</body>
+</html>

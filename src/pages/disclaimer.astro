@@ -1,0 +1,142 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead
+    title="Disclaimer | Fast Food Guides"
+    description="Disclaimer for Fast Food Guides — editorial independence, advertising disclosure, and content accuracy standards."
+  />
+</head>
+<body>
+  <Header />
+  <main>
+    <article class="prose">
+      <h1>Disclaimer</h1>
+      <p class="last-updated">Last updated: June 15, 2026</p>
+
+      <h2>General Information Disclaimer</h2>
+      <p>The information provided on Fast Food Guides (fastfoodguides.com) is for general informational purposes only. All content is written from personal industry experience and publicly available information. While we strive for accuracy, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information contained on this website.</p>
+
+      <h2>Not Official Training Material</h2>
+      <div class="warning-box">
+        <p><strong>Fast Food Guides is not affiliated with, endorsed by, or sponsored by any of the fast food restaurants, corporations, or brands mentioned on this website.</strong> All trademarks, logos, and brand names are the property of their respective owners.</p>
+        <p>The content on this site should not be used as a substitute for official corporate training materials, standard operating procedures, or direct guidance from your employer. Always follow your specific location's protocols, your manager's instructions, and your company's official training program.</p>
+      </div>
+
+      <h2>Food Safety Disclaimer</h2>
+      <div class="caution-box">
+        <p><strong>⚠️ Food safety procedures described on this site are based on general industry knowledge and personal experience.</strong> Food safety regulations vary by state, county, and municipality. Always follow your local health department requirements, your employer's specific food safety protocols, and current ServSafe or equivalent certification guidelines.</p>
+        <p>Improper food handling can cause serious illness or death. When in doubt, consult your manager, your local health department, or a certified food safety professional.</p>
+      </div>
+
+      <h2>Advertising Disclosure</h2>
+      <p>Fast Food Guides may display advertisements through Google AdSense and other advertising networks. These advertisements are served by third parties and are not endorsements of the products or services advertised. We have no control over the content of third-party advertisements.</p>
+      <p>Any revenue generated from advertising helps support the continued operation and maintenance of this website. Our editorial content is independent and not influenced by advertisers.</p>
+
+      <h2>Accuracy and Timeliness</h2>
+      <p>The fast food industry changes rapidly. Menu items, equipment, procedures, and policies described on this site may have been updated or discontinued since the time of writing. We make reasonable efforts to update our content regularly, but we cannot guarantee that all information reflects the most current practices at every location.</p>
+      <p>If you notice inaccurate or outdated information, please <a href="/contact">contact us</a> so we can review and update the content.</p>
+
+      <h2>External Links</h2>
+      <p>This website may contain links to external websites. These links are provided for convenience and informational purposes only. We do not control the content of external websites and are not responsible for their content, privacy practices, or availability.</p>
+
+      <h2>Limitation of Liability</h2>
+      <p>In no event shall Fast Food Guides, its authors, or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of or reliance on any information on this website. This includes, but is not limited to, damages for loss of employment, personal injury, food safety incidents, or any other losses.</p>
+
+      <h2>Contact</h2>
+      <p>If you have questions about this disclaimer, please contact us at <a href="mailto:contact@fastfoodguides.com">contact@fastfoodguides.com</a>.</p>
+    </article>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  body {
+    background-color: #0a0f1c;
+    color: #F1F5F9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+    width: 100%;
+  }
+
+  .prose h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 0.25rem;
+    color: #F1F5F9;
+  }
+
+  .last-updated {
+    color: #64748B;
+    font-size: 0.875rem;
+    margin-bottom: 2rem;
+    font-style: italic;
+  }
+
+  .prose h2 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #F1F5F9;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid rgba(16, 185, 129, 0.2);
+  }
+
+  .prose p {
+    color: #94A3B8;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+  }
+
+  .prose a {
+    color: #10B981;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .prose a:hover {
+    color: #34D399;
+  }
+
+  .warning-box {
+    background: rgba(16, 185, 129, 0.06);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+    border-left: 3px solid #10B981;
+    border-radius: 0.5rem;
+    padding: 1.25rem 1.5rem;
+    margin: 1rem 0 1.5rem;
+  }
+
+  .caution-box {
+    background: rgba(245, 158, 11, 0.06);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    border-left: 3px solid #F59E0B;
+    border-radius: 0.5rem;
+    padding: 1.25rem 1.5rem;
+    margin: 1rem 0 1.5rem;
+  }
+
+  .warning-box p,
+  .caution-box p {
+    margin-bottom: 0.75rem;
+  }
+  .warning-box p:last-child,
+  .caution-box p:last-child {
+    margin-bottom: 0;
+  }
+</style>

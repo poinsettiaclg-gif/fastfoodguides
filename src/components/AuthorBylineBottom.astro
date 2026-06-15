@@ -1,0 +1,115 @@
+---
+interface Props {
+	author: string;
+	authorTitle: string;
+}
+
+const { author, authorTitle } = Astro.props;
+---
+
+<aside class="author-card" aria-label="About the author">
+	<div class="author-card-inner">
+		<div class="author-avatar" aria-hidden="true">
+			<span class="avatar-initials">RR</span>
+		</div>
+		<div class="author-info">
+			<p class="author-name">{author}</p>
+			<p class="author-title">{authorTitle}</p>
+			<p class="author-bio">
+				Russell Roseberry spent 10 years in the QSR industry, working his way from crew member to
+				multi-unit kitchen manager across major fast food chains. Every guide on this site comes
+				from direct operational experience.
+			</p>
+			<a href="/about" class="editorial-link">
+				Read more about our editorial standards
+				<span aria-hidden="true">→</span>
+			</a>
+		</div>
+	</div>
+</aside>
+
+<style>
+	.author-card {
+		margin-top: 3rem;
+		padding: 1.5rem;
+		background: #1a2332;
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		border-radius: 0.75rem;
+		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.2);
+	}
+
+	.author-card-inner {
+		display: flex;
+		gap: 1.25rem;
+		align-items: flex-start;
+	}
+
+	.author-avatar {
+		flex-shrink: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 3.5rem;
+		height: 3.5rem;
+		border-radius: 50%;
+		background: linear-gradient(135deg, #10B981, #06D6A0);
+	}
+
+	.avatar-initials {
+		font-size: 1.125rem;
+		font-weight: 700;
+		color: #0a0f1c;
+		letter-spacing: 0.025em;
+	}
+
+	.author-info {
+		flex: 1;
+		min-width: 0;
+	}
+
+	.author-name {
+		margin: 0 0 0.125rem 0;
+		font-size: 1.05rem;
+		font-weight: 700;
+		color: #F1F5F9;
+		line-height: 1.3;
+	}
+
+	.author-title {
+		margin: 0 0 0.75rem 0;
+		font-size: 0.85rem;
+		color: #10B981;
+		font-weight: 500;
+		line-height: 1.3;
+	}
+
+	.author-bio {
+		margin: 0 0 0.75rem 0;
+		font-size: 0.9rem;
+		color: #94A3B8;
+		line-height: 1.6;
+	}
+
+	.editorial-link {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.25em;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: #10B981;
+		text-decoration: none;
+		transition: color 0.2s ease;
+	}
+
+	.editorial-link:hover {
+		color: #34D399;
+	}
+
+	@media (max-width: 480px) {
+		.author-card-inner {
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+		}
+	}
+</style>

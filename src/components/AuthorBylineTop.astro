@@ -1,0 +1,49 @@
+---
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	author: string;
+	authorTitle: string;
+	pubDate: Date;
+}
+
+const { author, authorTitle, pubDate } = Astro.props;
+---
+
+<div class="author-byline-top" role="doc-subtitle">
+	<span class="author-name">By {author}</span>
+	<span class="separator" aria-hidden="true">·</span>
+	<span class="author-title">{authorTitle}</span>
+	<span class="separator" aria-hidden="true">·</span>
+	<span class="pub-date">Published <FormattedDate date={pubDate} /></span>
+</div>
+
+<style>
+	.author-byline-top {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.35em;
+		font-size: 0.875rem;
+		color: #94A3B8;
+		line-height: 1.5;
+	}
+
+	.separator {
+		color: #10B981;
+		font-weight: 700;
+	}
+
+	.author-name {
+		font-weight: 600;
+		color: #CBD5E1;
+	}
+
+	.author-title {
+		font-style: italic;
+	}
+
+	.pub-date {
+		color: #64748B;
+	}
+</style>

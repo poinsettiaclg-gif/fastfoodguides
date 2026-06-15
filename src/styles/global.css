@@ -1,127 +1,372 @@
-/*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+/* ==========================================================================
+   FastFoodGuides.com — Global Styles (Dark Theme)
+   ========================================================================== */
 
+/* --- Design System Custom Properties --- */
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 16px 32px rgba(var(--gray), 33%);
+	/* Backgrounds */
+	--bg-body: #0a0f1c;
+	--bg-surface: #111827;
+	--bg-card: #1a2332;
+	--bg-card-hover: #1f2b3d;
+
+	/* Borders */
+	--border-subtle: rgba(255, 255, 255, 0.08);
+	--border-accent: rgba(16, 185, 129, 0.3);
+
+	/* Text */
+	--text-primary: #F1F5F9;
+	--text-secondary: #94A3B8;
+	--text-muted: #64748B;
+
+	/* Accent */
+	--accent: #10B981;
+	--accent-light: #34D399;
+	--accent-gradient: linear-gradient(135deg, #10B981, #06D6A0);
+
+	/* Utility */
+	--danger: #F59E0B;
+
+	/* Sizing */
+	--max-content: 720px;
+	--max-page: 1100px;
+	--radius-card: 0.75rem;
+	--radius-btn: 0.5rem;
+
+	/* Motion */
+	--transition: 0.2s ease;
+
+	/* Shadows */
+	--shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.3),
+		0 2px 4px -2px rgba(0, 0, 0, 0.2);
+	--shadow-card-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.4),
+		0 4px 6px -4px rgba(0, 0, 0, 0.3);
 }
+
+/* --- Base Reset & Defaults --- */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+	-webkit-text-size-adjust: 100%;
+}
+
+::selection {
+	background-color: rgba(16, 185, 129, 0.3);
+	color: #F1F5F9;
+}
+
 body {
-	font-family: var(--font-atkinson);
+	font-family: var(--font-atkinson), system-ui, sans-serif;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: linear-gradient(var(--gray-gradient)) no-repeat;
-	background-size: 100% 600px;
+	background: var(--bg-body);
+	color: var(--text-primary);
+	font-size: 18px;
+	line-height: 1.7;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
-	font-size: 20px;
-	line-height: 1.7;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
+
 main {
-	width: 720px;
+	width: var(--max-content);
 	max-width: calc(100% - 2em);
 	margin: auto;
 	padding: 3em 1em;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+/* --- Typography --- */
+h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
+	color: var(--text-primary);
 	line-height: 1.2;
-}
-h1 {
-	font-size: 3.052em;
-}
-h2 {
-	font-size: 2.441em;
-}
-h3 {
-	font-size: 1.953em;
-}
-h4 {
-	font-size: 1.563em;
-}
-h5 {
-	font-size: 1.25em;
-}
-strong,
-b {
 	font-weight: 700;
 }
-a {
-	color: var(--accent);
+
+h1 {
+	font-size: 2.75em;
+	letter-spacing: -0.02em;
 }
-a:hover {
-	color: var(--accent);
+h2 {
+	font-size: 2.2em;
+	letter-spacing: -0.015em;
 }
+h3 {
+	font-size: 1.75em;
+}
+h4 {
+	font-size: 1.4em;
+}
+h5 {
+	font-size: 1.15em;
+}
+h6 {
+	font-size: 1em;
+	color: var(--text-secondary);
+}
+
+strong, b {
+	font-weight: 700;
+	color: var(--text-primary);
+}
+
 p {
 	margin-bottom: 1em;
+	color: var(--text-secondary);
 }
-.prose p {
-	margin-bottom: 2em;
+
+/* --- Links --- */
+a {
+	color: var(--accent);
+	text-decoration: none;
+	transition: color var(--transition);
 }
-textarea {
-	width: 100%;
-	font-size: 16px;
+a:hover {
+	color: var(--accent-light);
 }
-input {
-	font-size: 16px;
+a:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: 2px;
+	border-radius: 2px;
 }
-table {
-	width: 100%;
+
+/* --- Lists --- */
+ul, ol {
+	color: var(--text-secondary);
+	padding-left: 1.5em;
 }
+li {
+	margin-bottom: 0.35em;
+}
+li::marker {
+	color: var(--accent);
+}
+
+/* --- Images --- */
 img {
 	max-width: 100%;
 	height: auto;
-	border-radius: 8px;
+	border-radius: var(--radius-card);
+	display: block;
 }
-code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
+
+/* Lazy-load fade-in */
+img[loading="lazy"] {
+	opacity: 0;
+	animation: fadeIn 0.4s ease forwards;
 }
-pre {
-	padding: 1.5em;
-	border-radius: 8px;
-}
-pre > code {
-	all: unset;
-}
-blockquote {
-	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0;
-	font-size: 1.333em;
-}
-hr {
-	border: none;
-	border-top: 1px solid rgb(var(--gray-light));
-}
-@media (max-width: 720px) {
-	body {
-		font-size: 18px;
-	}
-	main {
-		padding: 1em;
+@keyframes fadeIn {
+	to {
+		opacity: 1;
 	}
 }
 
+/* --- Code --- */
+code {
+	padding: 0.15em 0.4em;
+	background-color: rgba(255, 255, 255, 0.08);
+	border: 1px solid var(--border-subtle);
+	border-radius: 4px;
+	font-size: 0.875em;
+	color: var(--accent-light);
+	font-family: "Fira Code", "JetBrains Mono", ui-monospace, monospace;
+}
+
+pre {
+	padding: 1.25em 1.5em;
+	border-radius: var(--radius-card);
+	background-color: var(--bg-surface) !important;
+	border: 1px solid var(--border-subtle);
+	overflow-x: auto;
+	line-height: 1.5;
+}
+
+pre > code {
+	all: unset;
+	font-family: "Fira Code", "JetBrains Mono", ui-monospace, monospace;
+	font-size: 0.875em;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+	border-left: 4px solid var(--accent);
+	padding: 0.5em 0 0.5em 1.25em;
+	margin: 1.5em 0;
+	font-size: 1.1em;
+	color: var(--text-secondary);
+	background-color: rgba(16, 185, 129, 0.05);
+	border-radius: 0 var(--radius-btn) var(--radius-btn) 0;
+}
+blockquote p {
+	margin-bottom: 0;
+}
+
+/* --- Tables --- */
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1.5em 0;
+	font-size: 0.95em;
+}
+thead {
+	border-bottom: 2px solid var(--border-accent);
+}
+th {
+	text-align: left;
+	padding: 0.75em 1em;
+	color: var(--text-primary);
+	font-weight: 600;
+	background-color: var(--bg-surface);
+}
+td {
+	padding: 0.75em 1em;
+	border-bottom: 1px solid var(--border-subtle);
+	color: var(--text-secondary);
+}
+tbody tr:hover {
+	background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* --- Horizontal Rule --- */
+hr {
+	border: none;
+	border-top: 1px solid var(--border-subtle);
+	margin: 2.5em 0;
+}
+
+/* --- Form Elements --- */
+input,
+textarea {
+	width: 100%;
+	font-size: 1rem;
+	font-family: inherit;
+	padding: 0.75em 1em;
+	background-color: var(--bg-surface);
+	color: var(--text-primary);
+	border: 1px solid var(--border-subtle);
+	border-radius: var(--radius-btn);
+	transition: border-color var(--transition), box-shadow var(--transition);
+	outline: none;
+}
+input:focus,
+textarea:focus {
+	border-color: var(--accent);
+	box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
+}
+input::placeholder,
+textarea::placeholder {
+	color: var(--text-muted);
+}
+textarea {
+	resize: vertical;
+	min-height: 120px;
+}
+label {
+	display: block;
+	margin-bottom: 0.5em;
+	font-weight: 600;
+	color: var(--text-primary);
+	font-size: 0.95em;
+}
+button,
+.btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5em;
+	padding: 0.7em 1.5em;
+	font-family: inherit;
+	font-size: 1rem;
+	font-weight: 600;
+	color: var(--bg-body);
+	background: var(--accent-gradient);
+	border: none;
+	border-radius: var(--radius-btn);
+	cursor: pointer;
+	transition: transform var(--transition), box-shadow var(--transition), opacity var(--transition);
+}
+button:hover,
+.btn:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+	opacity: 0.95;
+}
+button:active,
+.btn:active {
+	transform: translateY(0);
+}
+button:focus-visible,
+.btn:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: 2px;
+}
+
+/* --- Prose (Article Content) --- */
+.prose p {
+	margin-bottom: 1.75em;
+	line-height: 1.8;
+}
+.prose h2 {
+	margin-top: 2.5em;
+	margin-bottom: 0.75em;
+	padding-bottom: 0.3em;
+	border-bottom: 1px solid var(--border-subtle);
+}
+.prose h3 {
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+}
+.prose a {
+	text-decoration: underline;
+	text-underline-offset: 3px;
+	text-decoration-color: rgba(16, 185, 129, 0.4);
+}
+.prose a:hover {
+	text-decoration-color: var(--accent-light);
+}
+.prose img {
+	margin: 2em 0;
+	box-shadow: var(--shadow-card);
+}
+.prose ul,
+.prose ol {
+	margin-bottom: 1.75em;
+}
+.prose blockquote {
+	margin: 2em 0;
+}
+.prose pre {
+	margin: 2em 0;
+}
+.prose hr {
+	margin: 3em 0;
+}
+
+/* --- Card Utility --- */
+.card {
+	background-color: var(--bg-card);
+	border: 1px solid var(--border-subtle);
+	border-radius: var(--radius-card);
+	box-shadow: var(--shadow-card);
+	padding: 1.5em;
+	transition: background-color var(--transition), border-color var(--transition),
+		box-shadow var(--transition), transform var(--transition);
+}
+.card:hover {
+	background-color: var(--bg-card-hover);
+	border-color: var(--border-accent);
+	box-shadow: var(--shadow-card-hover);
+	transform: translateY(-2px);
+}
+
+/* --- Accessibility: Screen Reader Only --- */
 .sr-only {
 	border: 0;
 	padding: 0;
@@ -130,12 +375,49 @@ hr {
 	height: 1px;
 	width: 1px;
 	overflow: hidden;
-	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
 	clip: rect(1px 1px 1px 1px);
-	/* maybe deprecated but we need to support legacy browsers */
 	clip: rect(1px, 1px, 1px, 1px);
-	/* modern browsers, clip-path works inwards from each corner */
 	clip-path: inset(50%);
-	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
+}
+
+/* --- Responsive --- */
+@media (max-width: 720px) {
+	body {
+		font-size: 16px;
+	}
+	main {
+		padding: 2em 1em;
+	}
+	h1 {
+		font-size: 2em;
+	}
+	h2 {
+		font-size: 1.6em;
+	}
+	h3 {
+		font-size: 1.35em;
+	}
+}
+
+@media (max-width: 480px) {
+	main {
+		padding: 1.5em 0.75em;
+	}
+	h1 {
+		font-size: 1.75em;
+	}
+	h2 {
+		font-size: 1.4em;
+	}
+	pre {
+		padding: 1em;
+		font-size: 0.85em;
+	}
+	table {
+		font-size: 0.85em;
+	}
+	th, td {
+		padding: 0.5em 0.6em;
+	}
 }

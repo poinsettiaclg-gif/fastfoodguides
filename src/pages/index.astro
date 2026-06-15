@@ -1,8 +1,64 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('articles')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const latestPosts = posts.slice(0, 6);
+
+const chainCounts = posts.reduce(
+	(acc, post) => {
+		const chain = post.data.chain;
+		if (chain) {
+			acc[chain] = (acc[chain] || 0) + 1;
+		}
+		return acc;
+	},
+	{} as Record<string, number>
+);
+
+const chains = Object.entries(chainCounts)
+	.sort((a, b) => b[1] - a[1])
+	.map(([name, count]) => ({ name, count }));
+
+const chainEmojis: Record<string, string> = {
+	"McDonald's": '🍟',
+	'Burger King': '🍔',
+	"Wendy's": '🟥',
+	'Taco Bell': '🌮',
+	"Chick-fil-A": '🐔',
+	'Subway': '🥖',
+	'Starbucks': '☕',
+	"Popeyes": '🍗',
+	'KFC': '🪣',
+	'Chipotle': '🌯',
+	"Sonic": '🧊',
+	"Dairy Queen": '🍦',
+	"Panera Bread": '🍞',
+	"Domino's": '🍕',
+	"Pizza Hut": '🍕',
+	"Five Guys": '🥤',
+	"In-N-Out": '🌴',
+	"Jack in the Box": '📦',
+	"Whataburger": '🧡',
+	"Arby's": '🥩',
+	"Raising Cane's": '🍗',
+	"Panda Express": '🐼',
+	"Wingstop": '🍗',
+	"Culver's": '🧈',
+	"Zaxby's": '🍗',
+	"Shake Shack": '🍔',
+};
+
+function getChainEmoji(chainName: string): string {
+	return chainEmojis[chainName] || '🍽️';
+}
 ---
 
 <!doctype html>
@@ -12,38 +68,657 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	</head>
 	<body>
 		<Header />
+
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<!-- ═══════════════ HERO SECTION ═══════════════ -->
+			<section class="hero" aria-label="Site introduction">
+				<div class="hero-bg" aria-hidden="true"></div>
+				<div class="hero-content">
+					<p class="hero-eyebrow">From Behind the Counter</p>
+					<h1 class="hero-title">
+						The <span class="gradient-text">Real Guide</span> to Fast Food
+					</h1>
+					<p class="hero-subtitle">
+						Behind-the-counter knowledge from a 10-year QSR veteran. What the training manual leaves out.
+					</p>
+					<a href="/articles" class="hero-cta" aria-label="Browse all guides">
+						Browse All Guides
+						<svg
+							width="16"
+							height="16"
+							viewBox="0 0 16 16"
+							fill="none"
+							aria-hidden="true"
+						>
+							<path
+								d="M3 8h10M9 4l4 4-4 4"
+								stroke="currentColor"
+								stroke-width="2"
+								stroke-linecap="round"
+								stroke-linejoin="round"
+							/>
+						</svg>
+					</a>
+
+					<div class="hero-stats" role="list" aria-label="Site statistics">
+						<div class="stat" role="listitem">
+							<span class="stat-number">60+</span>
+							<span class="stat-label">Guides</span>
+						</div>
+						<div class="stat-divider" aria-hidden="true"></div>
+						<div class="stat" role="listitem">
+							<span class="stat-number">22</span>
+							<span class="stat-label">Chains</span>
+						</div>
+						<div class="stat-divider" aria-hidden="true"></div>
+						<div class="stat" role="listitem">
+							<span class="stat-number">90K+</span>
+							<span class="stat-label">Words</span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- ═══════════════ LATEST ARTICLES ═══════════════ -->
+			<section class="section latest-section" aria-labelledby="latest-heading">
+				<div class="section-container">
+					<div class="section-header">
+						<h2 id="latest-heading" class="section-title">Latest Guides</h2>
+						<a href="/articles" class="section-link">
+							View all
+							<svg
+								width="14"
+								height="14"
+								viewBox="0 0 16 16"
+								fill="none"
+								aria-hidden="true"
+							>
+								<path
+									d="M3 8h10M9 4l4 4-4 4"
+									stroke="currentColor"
+									stroke-width="2"
+									stroke-linecap="round"
+									stroke-linejoin="round"
+								/>
+							</svg>
+						</a>
+					</div>
+					<div class="articles-grid">
+						{
+							latestPosts.map((post) => (
+								<a href={`/articles/${post.id}/`} class="article-card">
+									<div class="card-body">
+										{post.data.chain && (
+											<span class="chain-badge">
+												<span class="chain-emoji" aria-hidden="true">
+													{getChainEmoji(post.data.chain)}
+												</span>
+												{post.data.chain}
+											</span>
+										)}
+										<h3 class="card-title">{post.data.title}</h3>
+										<p class="card-description">
+											{post.data.description.length > 120
+												? post.data.description.slice(0, 120) + '…'
+												: post.data.description}
+										</p>
+									</div>
+									<div class="card-footer">
+										<FormattedDate date={post.data.pubDate} />
+									</div>
+								</a>
+							))
+						}
+					</div>
+				</div>
+			</section>
+
+			<!-- ═══════════════ BROWSE BY CHAIN ═══════════════ -->
+			<section class="section chains-section" aria-labelledby="chains-heading">
+				<div class="section-container">
+					<div class="section-header">
+						<h2 id="chains-heading" class="section-title">Browse by Chain</h2>
+						<p class="section-subtitle">
+							Insider knowledge for every drive-thru window
+						</p>
+					</div>
+					<div class="chains-grid">
+						{
+							chains.map(({ name, count }) => (
+								<a href="/articles" class="chain-card">
+									<span class="chain-card-emoji" aria-hidden="true">
+										{getChainEmoji(name)}
+									</span>
+									<span class="chain-card-name">{name}</span>
+									<span class="chain-card-count">
+										{count} {count === 1 ? 'guide' : 'guides'}
+									</span>
+								</a>
+							))
+						}
+					</div>
+				</div>
+			</section>
+
+			<!-- ═══════════════ ABOUT BLURB ═══════════════ -->
+			<section class="section about-section" aria-labelledby="about-heading">
+				<div class="section-container">
+					<div class="about-card">
+						<div class="about-avatar" aria-hidden="true">
+							<span>RR</span>
+						</div>
+						<div class="about-content">
+							<h2 id="about-heading" class="about-name">
+								Written by <span class="gradient-text">Russell Roseberry</span>
+							</h2>
+							<p class="about-credentials">
+								10-Year QSR Veteran &bull; Former Shift Lead &bull; Menu Hacker
+							</p>
+							<p class="about-bio">
+								I spent a decade working the line at America's biggest fast food chains. Now I share everything the
+								training manuals leave out — from secret menu hacks to the best ways to customize your order. No
+								sponsorships, no ads, just real talk from someone who's made thousands of Big Macs.
+							</p>
+							<a href="/about" class="about-link">
+								Read more about the mission
+								<svg
+									width="14"
+									height="14"
+									viewBox="0 0 16 16"
+									fill="none"
+									aria-hidden="true"
+								>
+									<path
+										d="M3 8h10M9 4l4 4-4 4"
+										stroke="currentColor"
+										stroke-width="2"
+										stroke-linecap="round"
+										stroke-linejoin="round"
+									/>
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+			</section>
 		</main>
+
 		<Footer />
+
+		<style>
+			/* ───────────── Page Layout Override ───────────── */
+			main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+
+			/* ───────────── Hero Section ───────────── */
+			.hero {
+				position: relative;
+				overflow: hidden;
+				padding: 6rem 1.5rem 4rem;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				min-height: 520px;
+			}
+
+			.hero-bg {
+				position: absolute;
+				inset: 0;
+				background:
+					radial-gradient(ellipse 80% 60% at 50% 0%, rgba(16, 185, 129, 0.08) 0%, transparent 60%),
+					radial-gradient(ellipse 60% 50% at 80% 100%, rgba(6, 214, 160, 0.05) 0%, transparent 50%);
+				z-index: 0;
+			}
+
+			.hero-bg::before {
+				content: '';
+				position: absolute;
+				inset: 0;
+				background-image: radial-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+				background-size: 32px 32px;
+				animation: heroPulse 8s ease-in-out infinite;
+			}
+
+			@keyframes heroPulse {
+				0%,
+				100% {
+					opacity: 0.4;
+				}
+				50% {
+					opacity: 1;
+				}
+			}
+
+			.hero-content {
+				position: relative;
+				z-index: 1;
+				text-align: center;
+				max-width: 720px;
+			}
+
+			.hero-eyebrow {
+				display: inline-block;
+				font-size: 0.8rem;
+				font-weight: 600;
+				letter-spacing: 0.12em;
+				text-transform: uppercase;
+				color: #10B981;
+				margin-bottom: 1rem;
+				padding: 0.35rem 1rem;
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-radius: 999px;
+				background: rgba(16, 185, 129, 0.06);
+			}
+
+			.hero-title {
+				font-size: clamp(2.2rem, 5vw, 3.6rem);
+				font-weight: 800;
+				line-height: 1.1;
+				color: #F1F5F9;
+				margin-bottom: 1.25rem;
+				letter-spacing: -0.02em;
+			}
+
+			.gradient-text {
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
+			}
+
+			.hero-subtitle {
+				font-size: clamp(1rem, 2vw, 1.2rem);
+				color: #94A3B8;
+				line-height: 1.6;
+				max-width: 560px;
+				margin: 0 auto 2rem;
+			}
+
+			.hero-cta {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				padding: 0.85rem 2rem;
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+				color: #0a0f1c;
+				font-weight: 700;
+				font-size: 1rem;
+				border-radius: 0.5rem;
+				text-decoration: none;
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+				box-shadow: 0 4px 16px rgba(16, 185, 129, 0.25);
+			}
+
+			.hero-cta:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 24px rgba(16, 185, 129, 0.35);
+				color: #0a0f1c;
+			}
+
+			.hero-cta svg {
+				transition: transform 0.2s ease;
+			}
+
+			.hero-cta:hover svg {
+				transform: translateX(3px);
+			}
+
+			.hero-stats {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				gap: 1.5rem;
+				margin-top: 3rem;
+				padding-top: 2.5rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.stat {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				gap: 0.15rem;
+			}
+
+			.stat-number {
+				font-size: 1.6rem;
+				font-weight: 800;
+				color: #F1F5F9;
+				letter-spacing: -0.02em;
+			}
+
+			.stat-label {
+				font-size: 0.8rem;
+				color: #64748B;
+				text-transform: uppercase;
+				letter-spacing: 0.08em;
+				font-weight: 500;
+			}
+
+			.stat-divider {
+				width: 1px;
+				height: 36px;
+				background: rgba(255, 255, 255, 0.08);
+			}
+
+			/* ───────────── Shared Section Styles ───────────── */
+			.section {
+				padding: 4.5rem 1.5rem;
+			}
+
+			.section-container {
+				max-width: 1100px;
+				margin: 0 auto;
+			}
+
+			.section-header {
+				display: flex;
+				align-items: baseline;
+				justify-content: space-between;
+				margin-bottom: 2rem;
+				flex-wrap: wrap;
+				gap: 0.5rem;
+			}
+
+			.section-title {
+				font-size: 1.75rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 0;
+			}
+
+			.section-subtitle {
+				color: #64748B;
+				font-size: 1rem;
+				margin: 0.25rem 0 0;
+				width: 100%;
+			}
+
+			.section-link {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.35rem;
+				font-size: 0.9rem;
+				font-weight: 600;
+				color: #10B981;
+				text-decoration: none;
+				transition: gap 0.2s ease;
+			}
+
+			.section-link:hover {
+				gap: 0.6rem;
+				color: #34D399;
+			}
+
+			/* ───────────── Latest Articles Grid ───────────── */
+			.latest-section {
+				background: linear-gradient(
+					180deg,
+					transparent 0%,
+					rgba(17, 24, 39, 0.4) 20%,
+					rgba(17, 24, 39, 0.4) 80%,
+					transparent 100%
+				);
+			}
+
+			.articles-grid {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 1.25rem;
+			}
+
+			.article-card {
+				display: flex;
+				flex-direction: column;
+				background: #1a2332;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.75rem;
+				padding: 1.5rem;
+				text-decoration: none;
+				transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+				cursor: pointer;
+			}
+
+			.article-card:hover {
+				transform: translateY(-4px);
+				border-color: rgba(16, 185, 129, 0.3);
+				box-shadow:
+					0 4px 6px -1px rgba(0, 0, 0, 0.3),
+					0 2px 4px -2px rgba(0, 0, 0, 0.2),
+					0 0 0 1px rgba(16, 185, 129, 0.1),
+					0 12px 28px -6px rgba(16, 185, 129, 0.08);
+			}
+
+			.card-body {
+				flex: 1;
+			}
+
+			.chain-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.35rem;
+				font-size: 0.72rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.06em;
+				color: #10B981;
+				background: rgba(16, 185, 129, 0.08);
+				border: 1px solid rgba(16, 185, 129, 0.15);
+				border-radius: 999px;
+				padding: 0.25rem 0.7rem;
+				margin-bottom: 0.85rem;
+			}
+
+			.chain-emoji {
+				font-size: 0.85rem;
+				line-height: 1;
+			}
+
+			.card-title {
+				font-size: 1.1rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 0 0 0.6rem;
+				line-height: 1.35;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+			}
+
+			.card-description {
+				font-size: 0.88rem;
+				color: #94A3B8;
+				line-height: 1.55;
+				margin: 0;
+			}
+
+			.card-footer {
+				margin-top: 1rem;
+				padding-top: 0.85rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.06);
+				font-size: 0.78rem;
+				color: #64748B;
+			}
+
+			/* ───────────── Browse by Chain Grid ───────────── */
+			.chains-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+				gap: 1rem;
+			}
+
+			.chain-card {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				gap: 0.4rem;
+				padding: 1.4rem 1rem;
+				background: #1a2332;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.75rem;
+				text-decoration: none;
+				transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+			}
+
+			.chain-card:hover {
+				transform: translateY(-3px);
+				border-color: rgba(16, 185, 129, 0.3);
+				background: #1f2b3d;
+			}
+
+			.chain-card-emoji {
+				font-size: 2rem;
+				line-height: 1;
+			}
+
+			.chain-card-name {
+				font-size: 0.92rem;
+				font-weight: 600;
+				color: #F1F5F9;
+				text-align: center;
+			}
+
+			.chain-card-count {
+				font-size: 0.75rem;
+				color: #64748B;
+				font-weight: 500;
+			}
+
+			/* ───────────── About Blurb ───────────── */
+			.about-section {
+				padding-bottom: 5rem;
+			}
+
+			.about-card {
+				display: flex;
+				gap: 2rem;
+				align-items: flex-start;
+				padding: 2.5rem;
+				background: #1a2332;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.75rem;
+				position: relative;
+				overflow: hidden;
+			}
+
+			.about-card::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				height: 3px;
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+			}
+
+			.about-avatar {
+				flex-shrink: 0;
+				width: 64px;
+				height: 64px;
+				border-radius: 50%;
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+
+			.about-avatar span {
+				font-size: 1.25rem;
+				font-weight: 800;
+				color: #0a0f1c;
+			}
+
+			.about-content {
+				flex: 1;
+				min-width: 0;
+			}
+
+			.about-name {
+				font-size: 1.35rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 0 0 0.25rem;
+			}
+
+			.about-credentials {
+				font-size: 0.82rem;
+				color: #10B981;
+				font-weight: 500;
+				margin: 0 0 1rem;
+			}
+
+			.about-bio {
+				font-size: 0.95rem;
+				color: #94A3B8;
+				line-height: 1.65;
+				margin: 0 0 1.25rem;
+			}
+
+			.about-link {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4rem;
+				font-size: 0.9rem;
+				font-weight: 600;
+				color: #10B981;
+				text-decoration: none;
+				transition: gap 0.2s ease;
+			}
+
+			.about-link:hover {
+				gap: 0.65rem;
+				color: #34D399;
+			}
+
+			/* ───────────── Responsive ───────────── */
+			@media (max-width: 900px) {
+				.articles-grid {
+					grid-template-columns: repeat(2, 1fr);
+				}
+			}
+
+			@media (max-width: 640px) {
+				.hero {
+					padding: 4rem 1.25rem 3rem;
+					min-height: auto;
+				}
+
+				.hero-stats {
+					gap: 1rem;
+				}
+
+				.stat-number {
+					font-size: 1.3rem;
+				}
+
+				.articles-grid {
+					grid-template-columns: 1fr;
+				}
+
+				.chains-grid {
+					grid-template-columns: repeat(2, 1fr);
+				}
+
+				.about-card {
+					flex-direction: column;
+					align-items: center;
+					text-align: center;
+					padding: 2rem 1.5rem;
+				}
+
+				.about-link {
+					justify-content: center;
+				}
+
+				.section {
+					padding: 3rem 1.25rem;
+				}
+			}
+		</style>
 	</body>
 </html>

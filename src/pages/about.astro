@@ -1,63 +1,527 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = 'About | Fast Food Guides';
+const description =
+	"About Fast Food Guides — the internet's most detailed insider resource for fast food workers, written by a 10-year QSR veteran.";
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Hero Section -->
+			<section class="hero" aria-label="About Fast Food Guides">
+				<h1 class="page-title">About Fast Food Guides</h1>
+				<p class="page-subtitle">
+					The internet's most brutally honest, operationally detailed resource for fast food and
+					restaurant workers. This isn't a corporate training manual. This is what the training manual
+					<em>leaves out</em>.
+				</p>
+			</section>
 
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
+			<!-- Founder Card -->
+			<section class="founder-card" aria-label="Founder information">
+				<div class="founder-card-inner">
+					<div class="avatar" aria-hidden="true">RR</div>
+					<div class="founder-info">
+						<h2 class="founder-name">Russell Roseberry</h2>
+						<p class="founder-role">Founder &amp; Head Writer</p>
+						<p class="founder-tagline">
+							Former Multi-Unit Kitchen Manager · 10-Year QSR &amp; Culinary Veteran
+						</p>
+					</div>
+				</div>
+			</section>
 
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
+			<!-- Bio Section -->
+			<article class="prose">
+				<p>
+					My name is Russell Roseberry, and I have spent the last decade of my life inside restaurant
+					kitchens — from the fryer station at a high-volume drive-thru to the back office managing
+					labor costs, food safety audits, and multi-unit operational assessments.
+				</p>
+				<p>
+					I started in the industry the same way most people do: as a crew member making minimum
+					wage, burning myself on a flat-top grill, and learning how to survive a Friday night dinner
+					rush with a skeleton crew. Over the next ten years, I worked my way through the ranks
+					across multiple major QSR and fast-casual chains. I have run prep shifts that started at
+					4:00 AM. I have closed kitchens at 2:00 AM while scrubbing down equipment that should have
+					been condemned years ago. I have trained hundreds of new hires, managed full kitchen
+					operations during peak volume, and maintained the kind of Operational Assessment scores
+					that keep district managers off your back.
+				</p>
+				<p>
+					I have been the person who has to explain to a seventeen-year-old on their first shift why
+					the holding time on that chicken is not a suggestion. I have written the schedules, managed
+					the inventory, handled the health department walk-throughs, and made the call on whether to
+					shut down a piece of equipment mid-rush or keep pushing through.
+				</p>
+				<p>
+					I started Fast Food Guides because I noticed something missing from the internet: the real
+					information. Not the sanitized corporate FAQ. Not the vague Reddit threads. The actual,
+					granular, behind-the-counter knowledge that you need to walk into your first shift at
+					<em>any</em> chain and not feel completely lost.
+				</p>
+				<p>
+					Every guide on this site is written from direct operational experience. When I describe how
+					to break down a Frosty machine for the nightly boil-out, it is because I have personally
+					done it over a hundred times. When I explain the difference between a flavor shot and a
+					flavor swirl at Dunkin', it is because I have watched new baristas get it wrong and had to
+					fix the drinks.
+				</p>
 
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
+				<!-- What We Cover -->
+				<section class="what-we-cover" aria-labelledby="what-we-cover-heading">
+					<h2 id="what-we-cover-heading" class="section-heading">What We Cover</h2>
+					<ul class="coverage-list" role="list">
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+							</span>
+							<div>
+								<strong>Behind-the-scenes operational guides</strong>
+								<span class="coverage-desc">for every major fast food and fast-casual chain in the country</span>
+							</div>
+						</li>
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
+							</span>
+							<div>
+								<strong>Kitchen equipment breakdowns</strong>
+								<span class="coverage-desc">— how machines actually work, not how the manufacturer says they work</span>
+							</div>
+						</li>
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+							</span>
+							<div>
+								<strong>Station guides and shift survival advice</strong>
+								<span class="coverage-desc">— what each role actually demands during a real rush</span>
+							</div>
+						</li>
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
+							</span>
+							<div>
+								<strong>Food preparation processes</strong>
+								<span class="coverage-desc">— the precise cuts, temps, hold times, and techniques that corporate audits actually check</span>
+							</div>
+						</li>
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+							</span>
+							<div>
+								<strong>Drive-thru technology and automation</strong>
+								<span class="coverage-desc">— the systems that run the modern QSR and how employees interact with them</span>
+							</div>
+						</li>
+						<li class="coverage-item">
+							<span class="coverage-icon" aria-hidden="true">
+								<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+							</span>
+							<div>
+								<strong>Closing duties and teardown procedures</strong>
+								<span class="coverage-desc">— the unglamorous reality of what happens after the lobby closes</span>
+							</div>
+						</li>
+					</ul>
+				</section>
 
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+				<!-- Why This Site Exists -->
+				<section aria-labelledby="why-heading">
+					<h2 id="why-heading" class="section-heading">Why This Site Exists</h2>
+					<p>
+						The fast food and restaurant industry employs over 12 million people in the United States
+						alone. It is one of the largest entry points into the workforce for young workers,
+						immigrants, and people rebuilding their careers. And yet, the quality of publicly available
+						information for these workers is abysmal.
+					</p>
+					<p>
+						You can find a thousand articles about "how to ace a fast food interview" written by people
+						who have never worked a register. You will struggle to find a single detailed guide on how
+						to actually run the Oven Tender station at Domino's during a Friday night rush, or how to
+						calibrate a Five Guys fry station at 7:00 AM, or what really happens when the McDonald's
+						POS system crashes and you are staring at a line of 30 cars.
+					</p>
+					<p>
+						That is the gap Fast Food Guides fills. <strong>Real answers. Real procedures. Real insider
+						knowledge.</strong>
+					</p>
+				</section>
+
+				<!-- Editorial Standards -->
+				<section class="standards-section" aria-labelledby="standards-heading">
+					<h2 id="standards-heading" class="section-heading">Editorial Standards</h2>
+					<div class="standards-box">
+						<p class="standards-intro">Every article published on this site is:</p>
+						<ul class="standards-list" role="list">
+							<li>
+								<strong>Written from direct experience</strong> — not scraped from corporate press
+								releases or rewritten from other blogs
+							</li>
+							<li>
+								<strong>Operationally accurate</strong> — procedures, equipment names, and protocols
+								are verified against current corporate standards where possible
+							</li>
+							<li>
+								<strong>Updated regularly</strong> — chains change their equipment, menus, and
+								procedures frequently, and we update our guides to reflect those changes
+							</li>
+							<li>
+								<strong>Independent</strong> — we are not affiliated with, endorsed by, or sponsored
+								by any of the fast food restaurants, corporations, or brands mentioned on this site.
+								All trademarks, logos, and brand names are the property of their respective owners.
+							</li>
+						</ul>
+					</div>
+				</section>
+
+				<!-- Contact -->
+				<section class="contact-section" aria-labelledby="contact-heading">
+					<h2 id="contact-heading" class="section-heading">Contact</h2>
+					<p>
+						If you have questions, corrections, business inquiries, or if you are a current or former
+						restaurant worker who wants to contribute a guide, I genuinely want to hear from you. The
+						best guides come from people who have lived it.
+					</p>
+					<div class="contact-cta">
+						<a href="mailto:contact@fastfoodguides.com" class="email-link" aria-label="Send email to contact@fastfoodguides.com">
+							<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+							contact@fastfoodguides.com
+						</a>
+					</div>
+				</section>
+			</article>
+		</main>
+		<Footer />
+
+		<style>
+			/* ── Page-level dark overrides ── */
+			body {
+				background: #0a0f1c;
+				background-image: none;
+				color: #F1F5F9;
+			}
+
+			main {
+				width: 100%;
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 0 1.5rem 4rem;
+			}
+
+			/* ── Hero ── */
+			.hero {
+				text-align: center;
+				padding: 4rem 0 2rem;
+				max-width: 720px;
+				margin: 0 auto;
+			}
+
+			.page-title {
+				font-size: 2.75rem;
+				font-weight: 800;
+				color: #F1F5F9;
+				margin-bottom: 1rem;
+				letter-spacing: -0.02em;
+				line-height: 1.15;
+			}
+
+			.page-subtitle {
+				font-size: 1.15rem;
+				color: #94A3B8;
+				line-height: 1.75;
+				max-width: 600px;
+				margin: 0 auto;
+			}
+
+			.page-subtitle em {
+				color: #10B981;
+				font-style: italic;
+			}
+
+			/* ── Founder Card ── */
+			.founder-card {
+				max-width: 720px;
+				margin: 2rem auto 3rem;
+			}
+
+			.founder-card-inner {
+				display: flex;
+				align-items: center;
+				gap: 1.5rem;
+				background: #1a2332;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-left: 3px solid #10B981;
+				border-radius: 0.75rem;
+				padding: 2rem;
+				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.2);
+			}
+
+			.avatar {
+				flex-shrink: 0;
+				width: 80px;
+				height: 80px;
+				border-radius: 50%;
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				font-size: 1.5rem;
+				font-weight: 800;
+				color: #0a0f1c;
+				letter-spacing: 0.05em;
+			}
+
+			.founder-info {
+				min-width: 0;
+			}
+
+			.founder-name {
+				font-size: 1.5rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 0 0 0.25rem;
+				line-height: 1.3;
+			}
+
+			.founder-role {
+				font-size: 1rem;
+				font-weight: 600;
+				color: #10B981;
+				margin: 0 0 0.25rem;
+			}
+
+			.founder-tagline {
+				font-size: 0.875rem;
+				color: #94A3B8;
+				margin: 0;
+				line-height: 1.5;
+			}
+
+			/* ── Prose ── */
+			.prose {
+				max-width: 720px;
+				margin: 0 auto;
+			}
+
+			.prose p {
+				color: #CBD5E1;
+				font-size: 1.05rem;
+				line-height: 1.85;
+				margin-bottom: 1.5rem;
+			}
+
+			.prose em {
+				color: #F1F5F9;
+			}
+
+			/* ── Section headings ── */
+			.section-heading {
+				font-size: 1.75rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 3rem 0 1.5rem;
+				padding-bottom: 0.75rem;
+				border-bottom: 2px solid rgba(16, 185, 129, 0.3);
+				display: inline-block;
+			}
+
+			/* ── What We Cover ── */
+			.what-we-cover .section-heading {
+				display: block;
+			}
+
+			.coverage-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.75rem;
+			}
+
+			.coverage-item {
+				display: flex;
+				align-items: flex-start;
+				gap: 1rem;
+				background: #111827;
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.75rem;
+				padding: 1.25rem 1.5rem;
+				transition: border-color 0.2s ease, background 0.2s ease;
+			}
+
+			.coverage-item:hover {
+				border-color: rgba(16, 185, 129, 0.3);
+				background: #1f2b3d;
+			}
+
+			.coverage-icon {
+				flex-shrink: 0;
+				width: 40px;
+				height: 40px;
+				border-radius: 0.5rem;
+				background: rgba(16, 185, 129, 0.1);
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				color: #10B981;
+				margin-top: 0.125rem;
+			}
+
+			.coverage-item strong {
+				color: #F1F5F9;
+				font-weight: 600;
+				display: block;
+				font-size: 1rem;
+				margin-bottom: 0.125rem;
+			}
+
+			.coverage-desc {
+				color: #94A3B8;
+				font-size: 0.9rem;
+				line-height: 1.5;
+			}
+
+			/* ── Editorial Standards ── */
+			.standards-box {
+				background: #111827;
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-radius: 0.75rem;
+				padding: 2rem;
+				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.2);
+			}
+
+			.standards-intro {
+				color: #94A3B8;
+				font-size: 1rem;
+				margin-bottom: 1.25rem;
+			}
+
+			.standards-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 1rem;
+			}
+
+			.standards-list li {
+				position: relative;
+				padding-left: 1.75rem;
+				color: #CBD5E1;
+				font-size: 0.95rem;
+				line-height: 1.7;
+			}
+
+			.standards-list li::before {
+				content: '';
+				position: absolute;
+				left: 0;
+				top: 0.55em;
+				width: 8px;
+				height: 8px;
+				border-radius: 50%;
+				background: #10B981;
+			}
+
+			.standards-list li strong {
+				color: #F1F5F9;
+			}
+
+			/* ── Contact ── */
+			.contact-section p {
+				color: #CBD5E1;
+			}
+
+			.contact-cta {
+				margin-top: 1.5rem;
+			}
+
+			.email-link {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.75rem;
+				background: linear-gradient(135deg, #10B981, #06D6A0);
+				color: #0a0f1c;
+				font-weight: 700;
+				font-size: 1.05rem;
+				padding: 0.875rem 2rem;
+				border-radius: 0.5rem;
+				text-decoration: none;
+				transition: opacity 0.2s ease, transform 0.2s ease;
+			}
+
+			.email-link:hover {
+				opacity: 0.9;
+				transform: translateY(-1px);
+				color: #0a0f1c;
+			}
+
+			.email-link:active {
+				transform: translateY(0);
+			}
+
+			/* ── Responsive ── */
+			@media (max-width: 720px) {
+				.hero {
+					padding: 2.5rem 0 1.5rem;
+				}
+
+				.page-title {
+					font-size: 2rem;
+				}
+
+				.page-subtitle {
+					font-size: 1rem;
+				}
+
+				.founder-card-inner {
+					flex-direction: column;
+					text-align: center;
+					padding: 1.5rem;
+					gap: 1rem;
+				}
+
+				.avatar {
+					margin: 0 auto;
+				}
+
+				.founder-info {
+					text-align: center;
+				}
+
+				.section-heading {
+					font-size: 1.4rem;
+				}
+
+				.coverage-item {
+					padding: 1rem 1.25rem;
+				}
+
+				.standards-box {
+					padding: 1.5rem;
+				}
+
+				.email-link {
+					width: 100%;
+					justify-content: center;
+					text-align: center;
+				}
+			}
+		</style>
+	</body>
+</html>

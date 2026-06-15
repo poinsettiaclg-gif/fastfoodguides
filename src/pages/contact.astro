@@ -1,0 +1,334 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Contact | ${SITE_TITLE}`} description="Get in touch with Fast Food Guides. Reach out for general questions, content corrections, business inquiries, or contributor applications." />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="contact-page">
+				<div class="page-header">
+					<h1>Get in Touch</h1>
+					<p class="subtitle">
+						Have a question, correction, or business proposal? We'd love to hear from you.
+						Choose the category that best fits your inquiry below.
+					</p>
+				</div>
+
+				<a href="mailto:contact@fastfoodguides.com" class="email-card" aria-label="Send us an email at contact@fastfoodguides.com">
+					<div class="email-icon" aria-hidden="true">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<rect width="20" height="16" x="2" y="4" rx="2"></rect>
+							<path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+						</svg>
+					</div>
+					<div class="email-content">
+						<span class="email-label">Email us directly</span>
+						<span class="email-address">contact@fastfoodguides.com</span>
+					</div>
+					<div class="email-arrow" aria-hidden="true">
+						<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<path d="M5 12h14"></path>
+							<path d="m12 5 7 7-7 7"></path>
+						</svg>
+					</div>
+				</a>
+
+				<h2 class="section-heading">What Can We Help With?</h2>
+
+				<div class="inquiry-grid" role="list">
+					<div class="inquiry-card" role="listitem">
+						<div class="card-icon" aria-hidden="true">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+								<circle cx="12" cy="12" r="10"></circle>
+								<path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+								<path d="M12 17h.01"></path>
+							</svg>
+						</div>
+						<h3>General Questions</h3>
+						<p>
+							Curious about something on the site? Have a suggestion for a new guide or topic
+							you'd like us to cover? We're always open to hearing from our readers.
+						</p>
+					</div>
+
+					<div class="inquiry-card" role="listitem">
+						<div class="card-icon" aria-hidden="true">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M12 20h9"></path>
+								<path d="M16.376 3.622a1 1 0 0 1 3.002 3.002L7.368 18.635a2 2 0 0 1-.855.506l-2.872.838a.5.5 0 0 1-.62-.62l.838-2.872a2 2 0 0 1 .506-.854z"></path>
+							</svg>
+						</div>
+						<h3>Corrections &amp; Updates</h3>
+						<p>
+							Noticed outdated information or an error in one of our guides? Menu items change
+							frequently — let us know and we'll get it updated as soon as possible.
+						</p>
+					</div>
+
+					<div class="inquiry-card" role="listitem">
+						<div class="card-icon" aria-hidden="true">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M20 7h-9"></path>
+								<path d="M14 17H5"></path>
+								<circle cx="17" cy="17" r="3"></circle>
+								<circle cx="7" cy="7" r="3"></circle>
+							</svg>
+						</div>
+						<h3>Business Inquiries</h3>
+						<p>
+							Interested in advertising, sponsorships, or partnerships? We're open to
+							collaborating with brands and businesses that align with our audience and values.
+						</p>
+					</div>
+
+					<div class="inquiry-card" role="listitem">
+						<div class="card-icon" aria-hidden="true">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+								<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
+								<circle cx="9" cy="7" r="4"></circle>
+								<line x1="19" x2="19" y1="8" y2="14"></line>
+								<line x1="22" x2="16" y1="11" y2="11"></line>
+							</svg>
+						</div>
+						<h3>Contributor Applications</h3>
+						<p>
+							Have QSR experience and a passion for writing? We're always looking for
+							knowledgeable contributors who can share authentic, behind-the-counter insights.
+						</p>
+					</div>
+				</div>
+
+				<div class="response-notice">
+					<div class="notice-icon" aria-hidden="true">
+						<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<circle cx="12" cy="12" r="10"></circle>
+							<polyline points="12 6 12 12 16 14"></polyline>
+						</svg>
+					</div>
+					<p>
+						We typically respond within <strong>1–2 business days</strong>. Please include as
+						much detail as possible in your message so we can assist you effectively.
+					</p>
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	body {
+		background-color: #0a0f1c;
+		color: #F1F5F9;
+		font-family: var(--font-atkinson), system-ui, sans-serif;
+		margin: 0;
+	}
+
+	main {
+		padding: 3rem 1.5rem 4rem;
+	}
+
+	.contact-page {
+		max-width: 720px;
+		margin: 0 auto;
+	}
+
+	.page-header {
+		text-align: center;
+		margin-bottom: 2.5rem;
+	}
+
+	.page-header h1 {
+		font-size: 2.5rem;
+		font-weight: 800;
+		background: linear-gradient(135deg, #10B981, #06D6A0);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		margin-bottom: 0.75rem;
+	}
+
+	.page-header .subtitle {
+		color: #94A3B8;
+		font-size: 1.125rem;
+		line-height: 1.7;
+		max-width: 560px;
+		margin: 0 auto;
+	}
+
+	/* Email Card */
+	.email-card {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		background: #1a2332;
+		border: 1px solid rgba(16, 185, 129, 0.3);
+		border-radius: 0.75rem;
+		padding: 1.25rem 1.5rem;
+		text-decoration: none;
+		transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -2px rgba(0, 0, 0, 0.2);
+		margin-bottom: 3rem;
+	}
+
+	.email-card:hover {
+		background: #1f2b3d;
+		border-color: #10B981;
+		transform: translateY(-2px);
+	}
+
+	.email-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 52px;
+		height: 52px;
+		background: linear-gradient(135deg, #10B981, #06D6A0);
+		border-radius: 0.75rem;
+		color: #0a0f1c;
+		flex-shrink: 0;
+	}
+
+	.email-content {
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+		flex: 1;
+		min-width: 0;
+	}
+
+	.email-label {
+		font-size: 0.8rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: #64748B;
+	}
+
+	.email-address {
+		font-size: 1.125rem;
+		font-weight: 700;
+		color: #10B981;
+	}
+
+	.email-arrow {
+		color: #64748B;
+		transition: color 0.2s ease, transform 0.2s ease;
+		flex-shrink: 0;
+	}
+
+	.email-card:hover .email-arrow {
+		color: #10B981;
+		transform: translateX(4px);
+	}
+
+	/* Section heading */
+	.section-heading {
+		font-size: 1.375rem;
+		font-weight: 700;
+		color: #F1F5F9;
+		margin-bottom: 1.25rem;
+	}
+
+	/* Inquiry Cards Grid */
+	.inquiry-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1rem;
+		margin-bottom: 2.5rem;
+	}
+
+	.inquiry-card {
+		background: #1a2332;
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		transition: background-color 0.2s ease, border-color 0.2s ease;
+	}
+
+	.inquiry-card:hover {
+		background: #1f2b3d;
+		border-color: rgba(16, 185, 129, 0.3);
+	}
+
+	.card-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 40px;
+		height: 40px;
+		background: rgba(16, 185, 129, 0.1);
+		border-radius: 0.5rem;
+		color: #10B981;
+		margin-bottom: 1rem;
+	}
+
+	.inquiry-card h3 {
+		font-size: 1.05rem;
+		font-weight: 700;
+		color: #F1F5F9;
+		margin: 0 0 0.5rem;
+	}
+
+	.inquiry-card p {
+		font-size: 0.9rem;
+		color: #94A3B8;
+		line-height: 1.6;
+		margin: 0;
+	}
+
+	/* Response Notice */
+	.response-notice {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.75rem;
+		background: #111827;
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		border-radius: 0.75rem;
+		padding: 1.25rem 1.5rem;
+	}
+
+	.notice-icon {
+		color: #10B981;
+		flex-shrink: 0;
+		margin-top: 0.1rem;
+	}
+
+	.response-notice p {
+		color: #94A3B8;
+		font-size: 0.9rem;
+		line-height: 1.6;
+		margin: 0;
+	}
+
+	.response-notice strong {
+		color: #F1F5F9;
+	}
+
+	/* Responsive */
+	@media (max-width: 600px) {
+		.inquiry-grid {
+			grid-template-columns: 1fr;
+		}
+
+		.page-header h1 {
+			font-size: 2rem;
+		}
+
+		.email-card {
+			flex-wrap: wrap;
+		}
+
+		.email-arrow {
+			display: none;
+		}
+	}
+</style>
