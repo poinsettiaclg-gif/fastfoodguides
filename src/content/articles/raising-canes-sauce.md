@@ -15,6 +15,10 @@ I spent time working alongside Cane's employees during a consulting stint, and w
 
 ## The Ingredients Are Not a Secret
 
+![Blueprint illustration of The Ingredients Are Not a Secret](/images/raising-canes-sauce/raising-canes-sauce-the-ingredients-are-not-a-secr.png)
+
+
+
 Cane's has never officially published their sauce recipe, but the ingredients have been widely confirmed by employees, food scientists, and the company's own ingredient disclosures. The base components are:
 
 - **Mayonnaise** — the primary base, gives the sauce its creamy body
@@ -28,6 +32,10 @@ That's it. Five ingredients. No exotic spices, no secret chemicals, no proprieta
 So if the ingredients are this simple, why can't anyone perfectly replicate it at home?
 
 ## The Ratio Is Everything
+
+![Blueprint illustration of The Ratio Is Everything](/images/raising-canes-sauce/raising-canes-sauce-the-ratio-is-everything.png)
+
+
 
 The difference between Cane's Sauce and the hundred copycat recipes online comes down to proportions. Most home versions use roughly equal parts mayo and ketchup, which produces something that tastes like a generic burger sauce. Cane's Sauce is mayo-dominant — significantly more mayo than ketchup.
 

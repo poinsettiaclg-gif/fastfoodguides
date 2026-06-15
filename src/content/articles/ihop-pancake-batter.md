@@ -25,6 +25,10 @@ I spent time working alongside IHOP kitchen staff during my years in the QSR ind
 
 ## The Batter: Proprietary Dry Mix, Not Scratch
 
+![Blueprint illustration of The Batter: Proprietary Dry Mix, Not Scratch](/images/ihop-pancake-batter/ihop-pancake-batter-the-batter-proprietary-dry-mix.png)
+
+
+
 ![Cook pouring pancake batter from a ladle onto a large flat-top commercial griddle with multiple pancakes in various stages of cooking](/images/ihop-pancake-batter/grill-pour.webp)
 
 Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor.
@@ -34,6 +38,10 @@ Each bag is labeled with IHOP’s specific product code. You can’t walk into a
 Now, does using a dry mix mean the pancakes aren’t “real”? I’d push back on that. The mix still needs to be properly hydrated, properly mixed, and properly cooked by someone who knows what they’re doing. Plenty of restaurants—including sit-down diners that would never admit it—use dry mixes as their base. The difference between a good pancake and a bad one rarely comes down to whether you measured out your own baking powder. It comes down to what happens after the dry ingredients hit the liquid.
 
 ## Mixing the Batter: The Bucket, the Whisk, and the Ribbon Test
+
+![Blueprint illustration of Mixing the Batter: The Bucket, the Whisk, and the Ribbon Test](/images/ihop-pancake-batter/ihop-pancake-batter-mixing-the-batter-the-bucket-t.png)
+
+
 
 ![Diagram of the IHOP pancake batter preparation process from dry mix bag to ready-to-pour batter](/images/ihop-pancake-batter/batter-process.webp)
 

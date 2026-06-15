@@ -27,6 +27,10 @@ Let me break down exactly how it works, where it doesn’t apply, and why it mat
 
 ## The Beef Arrives Refrigerated, Not Frozen
 
+![Blueprint illustration of The Beef Arrives Refrigerated, Not Frozen](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-the-beef-arrives-refrigerated-.png)
+
+
+
 ![Flat vector illustration showing a refrigerated Wendy's delivery truck unloading fresh beef to a walk-in cooler](/images/wendys-fresh-never-frozen/wendys-fresh-beef-delivery.webp)
 
 A Wendy’s location receives beef deliveries multiple times per week — typically three to four times, depending on the volume of the store. The beef arrives in refrigerated trucks, packed in sealed cases, held at a temperature between 32°F and 40°F. That’s the standard refrigeration range. Cold enough to keep the beef safe and fresh, nowhere near the 0°F threshold required for frozen storage.
@@ -36,6 +40,10 @@ When the delivery shows up, the crew unloads the cases directly into the walk-in
 The shelf life of fresh beef stored at proper refrigeration temps is roughly 5 to 7 days. That’s a tight window compared to frozen patties, which can sit in a freezer for months without degrading. This short shelf life is the entire reason Wendy’s needs so many deliveries per week. A McDonald’s or Burger King can take one big frozen delivery and be set for a while. Wendy’s is constantly receiving new product, and if a delivery gets delayed or shorted, the store can run out of beef within a day or two. I’ve heard of stores in rural areas or during bad weather hitting genuine beef shortages, and there’s no backup plan. You can’t defrost your way out of it because there’s nothing in the freezer to defrost.
 
 ## What This Costs — And Why Most Chains Don’t Bother
+
+![Blueprint illustration of What This Costs — And Why Most Chains Don’t Bother](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-what-this-costs-and-why-most-c.png)
+
+
 
 Running a fresh beef program is significantly more expensive than using frozen patties. The cost difference breaks down into several categories:
 

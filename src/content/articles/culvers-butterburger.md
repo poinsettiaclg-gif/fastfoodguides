@@ -27,6 +27,10 @@ Let me walk through the entire process, because the ButterBurger is more than ju
 
 ## The Buttered Crown: What’s Actually Happening
 
+![Blueprint illustration of The Buttered Crown: What’s Actually Happening](/images/culvers-butterburger/culvers-butterburger-the-buttered-crown-what-s-actu.png)
+
+
+
 ![A Culver's cook toasting a buttered bun on the flat-top grill next to a cooking patty](/images/culvers-butterburger/buttered-bun-on-flattop.webp)
 
 When a ButterBurger order comes in, here’s the sequence at the grill station:
@@ -54,6 +58,10 @@ Butter is roughly 80% fat, 15% water, and 5% milk solids. When you spread it on 
 That third point is the practical reason this matters for a burger. A toasted, buttered bun holds up structurally. It doesn’t turn into wet cardboard by the time you’re three bites in. The butter fat creates a seal on the bread surface that repels moisture. If you’ve ever wondered why your Culver’s burger still has a coherent bun by the last bite while your McDonald’s bun has disintegrated into a condiment-soaked mess—the butter toast is a big part of the answer.
 
 ## The Patty: Fresh Beef, Pressed on the Flat-Top
+
+![Blueprint illustration of The Patty: Fresh Beef, Pressed on the Flat-Top](/images/culvers-butterburger/culvers-butterburger-the-patty-fresh-beef-pressed-o.png)
+
+
 
 The bun gets the name recognition, but the ButterBurger patty is doing serious work on its own. Culver’s uses fresh, never frozen beef for their burgers. The patties are pressed and cooked on a flat-top griddle—not broiled, not grilled, not microwaved—in a process that has more in common with Shake Shack’s approach than with most national fast-food chains. For a deep dive on the smash technique at Shake Shack and how flat-top cooking creates that signature crust, check out [the Shake Shack smash burger breakdown](/articles/shake-shack-smash-burger).
 

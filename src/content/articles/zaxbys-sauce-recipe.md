@@ -25,6 +25,10 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 
 ## What’s Actually in Zax Sauce
 
+![Blueprint illustration of What’s Actually in Zax Sauce](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.png)
+
+
+
 ![Flat vector illustration of Zaxby's chicken fingers with a cup of Zax Sauce for dipping, styled on a branded tray](/images/zaxbys-sauce-recipe/zaxbys-chicken-fingers-zax-sauce.webp)
 
 Here’s the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that’s been around forever in the American South and parts of Utah. At its core, it’s a blend of:
@@ -41,6 +45,10 @@ Some copycat recipes online throw in smoked paprika, cayenne, or hot sauce. Thos
 The reason employees don’t bother guarding the ingredient list is because it doesn’t matter if you know what’s in it. What matters is how much of each thing goes in. And that’s where most people mess up, badly.
 
 ## The Ratio Problem
+
+![Blueprint illustration of The Ratio Problem](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-the-ratio-problem.png)
+
+
 
 ![Flat vector diagram showing the ingredient components of Zax Sauce as a ratio breakdown](/images/zaxbys-sauce-recipe/zax-sauce-ingredient-ratio.webp)
 

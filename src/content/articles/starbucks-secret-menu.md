@@ -27,6 +27,10 @@ I’ve spent enough time in and around QSR kitchens to appreciate what this phen
 
 ## How the “Secret Menu” Myth Got Started
 
+![Blueprint illustration of How the “Secret Menu” Myth Got Started](/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.png)
+
+
+
 ![Flat vector illustration of a confused Starbucks barista looking at a customer's phone showing a TikTok secret menu recipe](/images/starbucks-secret-menu/starbucks-barista-secret-menu-phone.webp)
 
 The concept took off around 2012-2013, when Tumblr and early Instagram food accounts started posting elaborate custom Starbucks drinks with catchy names. A user would figure out that if you ordered a Vanilla Bean Frappuccino with raspberry syrup and java chips, it tasted vaguely like a raspberry cheesecake. They’d name it the “Raspberry Cheesecake Frappuccino,” photograph it with good lighting, and post it online. Other people would see it, want to try it, and show up at Starbucks asking for a drink that doesn’t exist on any menu.
@@ -38,6 +42,10 @@ Starbucks corporate has never endorsed the concept. They’ve never published a 
 That’s a perfectly reasonable position. The problem is that most customers don’t hear it — or don’t care.
 
 ## Why This Drives Baristas Up the Wall
+
+![Blueprint illustration of Why This Drives Baristas Up the Wall](/images/starbucks-secret-menu/starbucks-secret-menu-why-this-drives-baristas-up-th.png)
+
+
 
 Imagine you’re working the bar during the [morning rush](/articles/starbucks-morning-rush), which at most Starbucks locations means a steady stream of 30 to 50 drinks per half hour. The store is loud. The espresso machine is pulling shots. The blender is running. The mobile order printer is spitting out tickets faster than you can read them. You are in survival mode.
 

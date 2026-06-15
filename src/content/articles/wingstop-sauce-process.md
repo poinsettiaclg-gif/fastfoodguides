@@ -25,6 +25,10 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 ## The Plain Fry — Everything Starts Bare
 
+![Blueprint illustration of The Plain Fry — Everything Starts Bare](/images/wingstop-sauce-process/wingstop-sauce-process-the-plain-fry-everything-start.png)
+
+
+
 ![Wingstop employee tossing fried wings in a large metal bowl with sauce](/images/wingstop-sauce-process/toss-and-coat.webp)
 
 This is the part that surprises most customers when they learn about it. Wingstop wings are not marinated. They’re not brined overnight. They’re not pre-seasoned before frying. The raw wings are simply breaded with a seasoned flour dredge and dropped into the fryer plain.
@@ -42,6 +46,10 @@ The reason Wingstop fries everything plain before saucing is flexibility and fre
 More importantly, saucing to order means the wings are always freshly coated. The sauce hasn’t had time to soak into the breading and turn it mushy. When you bite into a Wingstop wing, you get that layered experience — crispy coating, then sauce, then tender chicken. That layering is the entire point.
 
 ## The Toss-and-Coat Technique
+
+![Blueprint illustration of The Toss-and-Coat Technique](/images/wingstop-sauce-process/wingstop-sauce-process-the-toss-and-coat-technique.png)
+
+
 
 This is the heart of Wingstop’s operation and the step that every new team member has to master before they can work the saucing station.
 

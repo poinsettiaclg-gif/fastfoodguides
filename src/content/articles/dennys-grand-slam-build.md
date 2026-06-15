@@ -15,6 +15,10 @@ Here's how the whole thing actually works, from the ticket printer to the pass.
 
 ## The Flat-Top Is the Entire Operation
 
+![Blueprint illustration of The Flat-Top Is the Entire Operation](/images/dennys-grand-slam-build/dennys-grand-slam-build-the-flat-top-is-the-entire-ope.png)
+
+
+
 Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant.
 
 The surface temperature sits between 350°F and 375°F depending on the zone. Most cooks run the left side slightly hotter for pancakes and the right side a touch cooler for eggs. You don't get separate temperature dials for each section on most units, so you learn where the hot spots and dead spots are through repetition. After a few weeks, you know that the back-left corner runs about 15 degrees hotter than the front-right.
@@ -29,6 +33,10 @@ During a typical breakfast shift, that flat-top is divided into informal zones:
 Nobody draws lines on the grill or anything — you just learn to keep your real estate organized. The moment you start letting bacon drift into your egg zone, you're going to have grease popping into someone's over-easy eggs, and that's when tickets start backing up.
 
 ## Breaking Down Each Component
+
+![Blueprint illustration of Breaking Down Each Component](/images/dennys-grand-slam-build/dennys-grand-slam-build-breaking-down-each-component.png)
+
+
 
 ### Pancakes: Mixed From Powder, Poured by Hand
 

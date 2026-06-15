@@ -25,6 +25,10 @@ I spent several years working in QSR kitchens across Texas, and I can tell you t
 
 ## The Grill Setup and Patty Cook
 
+![Blueprint illustration of The Grill Setup and Patty Cook](/images/whataburger-patty-melt/whataburger-patty-melt-the-grill-setup-and-patty-cook.png)
+
+
+
 ![Whataburger grill station with a patty melt being assembled on griddled Texas toast](/images/whataburger-patty-melt/grill-station.webp)
 
 Whataburger uses flat-top grills — large commercial griddles that run at around 375°F to 400°F during normal service. The patty melt uses the same fresh beef patties as the rest of the burger menu. These aren’t frozen pucks shipped from a central warehouse. Whataburger’s beef comes in fresh and gets portioned in-house.
@@ -36,6 +40,10 @@ The key with the patty melt patty is that you want a solid sear but you don’t 
 Cook time runs about 3 to 4 minutes per side, depending on grill position and how busy the kitchen is. The patty gets flipped once, and cheese goes on immediately after the flip — two slices of American cheese, one on each side of the patty if you’re doing it right. Some locations stack both slices on top, but the proper build calls for wrapping the patty in cheese so it melts around the edges.
 
 ## The Texas Toast — This Is Where It Gets Good
+
+![Blueprint illustration of The Texas Toast — This Is Where It Gets Good](/images/whataburger-patty-melt/whataburger-patty-melt-the-texas-toast-this-is-where-.png)
+
+
 
 The Texas toast is what separates the patty melt from a regular cheeseburger, and Whataburger does not phone this step in.
 

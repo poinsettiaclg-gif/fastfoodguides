@@ -25,6 +25,10 @@ I’ve worked in operations where verbal orders caused constant rework. Wrong ch
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
+![Blueprint illustration of The Touchscreen Kiosk: Where Every Hoagie Starts](/images/wawa-hoagie-build/wawa-hoagie-build-the-touchscreen-kiosk-where-ev.png)
+
+
+
 ![Wawa touchscreen ordering kiosk displaying a hoagie builder interface with bread, meat, and topping options](/images/wawa-hoagie-build/touchscreen-kiosk.webp)
 
 Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here.
@@ -52,6 +56,10 @@ There’s another benefit that doesn’t get talked about enough: shy customers.
 From a throughput perspective, it’s also faster. Multiple customers can build orders simultaneously on separate kiosks while the deli team works the queue. A traditional deli counter is bottlenecked by one-at-a-time ordering. Wawa can have six customers building hoagies at once while three deli associates work the assembly line. That’s how they push volume during the lunch rush without the line snaking around the store.
 
 ## Behind the Deli Counter: How the Build Actually Happens
+
+![Blueprint illustration of Behind the Deli Counter: How the Build Actually Happens](/images/wawa-hoagie-build/wawa-hoagie-build-behind-the-deli-counter-how-th.png)
+
+
 
 When your order hits the deli station, it prints on a small thermal ticket — the same kind of ticket printer you’d see in any restaurant kitchen. The ticket lists everything: bread type, size, protein, cheese, toppings, sauces, and any special instructions. Each ticket gets clipped to a rail or placed in the queue.
 

@@ -27,6 +27,10 @@ I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to h
 
 ## How the Conveyor Steamer Actually Works
 
+![Blueprint illustration of How the Conveyor Steamer Actually Works](/images/firehouse-subs-steaming-process/firehouse-subs-steaming-process-how-the-conveyor-steamer-actua.png)
+
+
+
 ![Flat vector illustration of a Firehouse Subs conveyor steamer machine with a sub sandwich riding through on a tray, steam visible rising from the chamber](/images/firehouse-subs-steaming-process/conveyor-steamer.webp)
 
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It’s not a modified oven, not a repurposed bakery proofer — it’s specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
@@ -51,6 +55,10 @@ After the steamed meats and cheese come out, they’re placed back onto the brea
 Some locations will lightly warm the bread in a separate low-heat unit, but the standard process is soft bread with steamed fillings. The contrast between the room-temperature roll and the hot, steamy interior is part of the intended eating experience.
 
 ## Why Steam Instead of Toasting? The Science Behind the Choice
+
+![Blueprint illustration of Why Steam Instead of Toasting? The Science Behind the Choice](/images/firehouse-subs-steaming-process/firehouse-subs-steaming-process-why-steam-instead-of-toasting-.png)
+
+
 
 The decision to steam instead of toast isn’t arbitrary. It solves specific problems that every sub shop deals with when heating sandwiches.
 

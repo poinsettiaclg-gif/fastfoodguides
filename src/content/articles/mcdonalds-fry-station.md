@@ -27,6 +27,10 @@ Here’s the full picture — from potato field to the cardboard sleeve in your 
 
 ## What Happens Before the Fries Reach the Restaurant
 
+![Blueprint illustration of What Happens Before the Fries Reach the Restaurant](/images/mcdonalds-fry-station/mcdonalds-fry-station-what-happens-before-the-fries-.png)
+
+
+
 ![McDonald's fry station showing fryer baskets, salt dispensing tray, and holding bin with heat lamp](/images/mcdonalds-fry-station/fry-station-layout.webp)
 
 Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do.
@@ -58,6 +62,10 @@ The oil used at the factory stage historically included beef tallow, which is wh
 After par-frying, the fries are flash-frozen and packaged into cases. They’re shipped to restaurants frozen and stored in the walk-in freezer until they’re needed. At no point between the factory and the fryer are they thawed — they go from the freezer case directly into the fry basket.
 
 ## The In-Store Fry Station
+
+![Blueprint illustration of The In-Store Fry Station](/images/mcdonalds-fry-station/mcdonalds-fry-station-the-in-store-fry-station.png)
+
+
 
 The fry station at McDonald’s is one of the most heavily used positions in the restaurant. During peak hours — lunch rush, dinner rush, late-night drive-thru — the fry person is running continuously with almost no downtime.
 

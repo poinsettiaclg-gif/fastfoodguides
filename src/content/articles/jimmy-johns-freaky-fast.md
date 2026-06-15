@@ -23,6 +23,10 @@ By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 13 min re
 
 ## The 5-Minute Delivery Radius Is Not a Suggestion
 
+![Blueprint illustration of The 5-Minute Delivery Radius Is Not a Suggestion](/images/jimmy-johns-freaky-fast/jimmy-johns-freaky-fast-the-5-minute-delivery-radius-i.png)
+
+
+
 ![Flat vector diagram showing the delivery radius concept — a store at center with a 5-minute driving circle around it](/images/jimmy-johns-freaky-fast/delivery-radius-diagram.webp)
 
 Most pizza delivery operations will drive 15, 20, even 30 minutes to reach a customer. Jimmy John’s will not. The standard delivery zone is capped at roughly a 5-minute driving radius from the store — sometimes slightly more in rural markets, sometimes even tighter in dense urban areas with heavy traffic. This is not because Jimmy John’s is lazy. It is because the entire promise of the brand collapses if a sandwich takes 45 minutes to arrive.
@@ -40,6 +44,10 @@ During the pandemic and the years following it, a handful of Jimmy John’s loca
 It is a controversial decision within the system. “Freaky Fast Delivery” is so central to the brand identity that removing it feels like a Domino’s that stops delivering pizza. But the franchise model means individual owners can make that call based on their local economics. Corporate is not thrilled about it, but they have not forced a universal mandate either.
 
 ## The Morning Prep: Everything Gets Sliced Before Open
+
+![Blueprint illustration of The Morning Prep: Everything Gets Sliced Before Open](/images/jimmy-johns-freaky-fast/jimmy-johns-freaky-fast-the-morning-prep-everything-ge.png)
+
+
 
 The speed you see at the sandwich line during lunch did not start at 11 AM. It started at 6:30 or 7:00 AM when the opening crew showed up and began the single most important part of a Jimmy John’s day: prep.
 

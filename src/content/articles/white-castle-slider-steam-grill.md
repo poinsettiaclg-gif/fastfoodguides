@@ -27,6 +27,10 @@ I’ve spent a decade in QSR kitchens, and the White Castle method remains one o
 
 ## The Grill and the Onion Bed
 
+![Blueprint illustration of The Grill and the Onion Bed](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.png)
+
+
+
 ![Cross-section of a White Castle grill showing onion bed, patties with holes, steam rising, and buns on top](/images/white-castle-slider-steam-grill/cross-section-grill.webp)
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you’d find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn’t searing their patties. They’re steaming them.
@@ -53,6 +57,10 @@ After the war ended and fresh onions became available again, White Castle discov
 So White Castle kept using them. What started as a wartime substitution became a permanent part of the recipe, and the dehydrated onions are now inseparable from the White Castle slider identity. It’s one of those cases where a limitation forced a change that turned out to be better than the original.
 
 ## The Five-Hole Patty
+
+![Blueprint illustration of The Five-Hole Patty](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-five-hole-patty.png)
+
+
 
 This is the most visually distinctive feature of a White Castle slider, and it’s also the most functionally important part of the entire cooking process.
 

@@ -23,6 +23,10 @@ If there is one fast food item that has generated more conspiracy theories, urba
 
 ## What McNuggets Are Actually Made Of
 
+![Blueprint illustration of What McNuggets Are Actually Made Of](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.png)
+
+
+
 Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass.
 
 There is a small amount of chicken skin mixed in. This is not a secret, and it is not a cost-cutting measure. The skin is included for texture and flavor — without it, a ground chicken breast nugget would taste dry and bland. Chicken skin contains fat and collagen that contribute moisture and a richer mouthfeel to the finished product. The amount is small — we are talking about a minor percentage of the total blend, not a 50/50 meat-to-skin ratio.
@@ -36,6 +40,10 @@ They are not made from mechanically separated chicken (MSC). This is the “pink
 Mechanically separated chicken involves forcing chicken carcasses (bones and all) through a high-pressure sieve that extracts every scrap of tissue. The result is a paste-like substance. That is not what happens with McNuggets. The breast meat is deboned by hand or machine, then ground into a coarse mixture. The difference is significant both in process and in the final product.
 
 ## The Factory Process: Breast to Nugget
+
+![Blueprint illustration of The Factory Process: Breast to Nugget](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-the-factory-process-breast-to-.png)
+
+
 
 ![Flat vector factory-to-restaurant pipeline showing chicken breast → ground → shaped → battered → par-fried → frozen → shipped → final fried](/images/mcdonalds-nugget-process/factory-to-restaurant-pipeline.webp)
 

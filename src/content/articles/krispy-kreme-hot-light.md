@@ -27,6 +27,10 @@ I want to walk you through exactly what’s happening behind the scenes when tha
 
 ## The Production Line: A Factory Inside a Restaurant
 
+![Blueprint illustration of The Production Line: A Factory Inside a Restaurant](/images/krispy-kreme-hot-light/krispy-kreme-hot-light-the-production-line-a-factory-.png)
+
+
+
 ![The Krispy Kreme production line showing doughnuts floating through a fryer river and passing under a glaze waterfall](/images/krispy-kreme-hot-light/production-line-fryer-glaze.webp)
 
 Most Krispy Kreme locations with a Hot Light have the production line visible to customers through a large window. This is intentional—watching doughnuts being made is part of the brand experience, and the visible production line serves as a constant advertisement. But what you’re seeing through that glass is genuinely impressive from an engineering standpoint. Here’s the step-by-step process:
@@ -72,6 +76,10 @@ The doughnuts pass under the curtain once, receiving a uniform coating of glaze 
 When a doughnut emerges from under the glaze curtain, it’s glistening, wet, warm, and ready to eat. This is the moment. This is what the Hot Light is signaling. These doughnuts—right here, right now, still warm from the fryer, still wet with fresh glaze—are what people drive across town for.
 
 ## Why Hot Doughnuts Taste Dramatically Different
+
+![Blueprint illustration of Why Hot Doughnuts Taste Dramatically Different](/images/krispy-kreme-hot-light/krispy-kreme-hot-light-why-hot-doughnuts-taste-dramat.png)
+
+
 
 If you’ve only ever eaten a room-temperature Krispy Kreme Original Glazed from a grocery store display or a gas station box, you’ve genuinely never experienced what the product is designed to taste like. The difference between a hot and a room-temperature Krispy Kreme isn’t subtle. It’s a different food.
 

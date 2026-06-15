@@ -25,6 +25,10 @@ I’ve watched this technique executed thousands of times across different burge
 
 ## The Smash: What Actually Happens on the Flat-Top
 
+![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.png)
+
+
+
 ![A cook pressing a beef ball flat onto a hot griddle with a heavy metal press](/images/shake-shack-smash-burger/smash-press-on-griddle.webp)
 
 The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it’s designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle.
@@ -38,6 +42,10 @@ The cook takes a heavy stainless steel press—a flat-bottomed, weighted tool th
 That single motion is the entire technique. And everything that makes the burger taste the way it does flows from that one moment of contact.
 
 ## Why the Crust Is the Whole Point
+
+![Blueprint illustration of Why the Crust Is the Whole Point](/images/shake-shack-smash-burger/shake-shack-smash-burger-why-the-crust-is-the-whole-poi.png)
+
+
 
 Here’s the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 

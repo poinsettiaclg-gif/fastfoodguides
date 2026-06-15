@@ -27,6 +27,10 @@ I’ve talked with plenty of Chick-fil-A operators and team members about this s
 
 ## The iPOS System: What Those Tablets Actually Are
 
+![Blueprint illustration of The iPOS System: What Those Tablets Actually Are](/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-the-ipos-system-what-those-tab.png)
+
+
+
 ![Chick-fil-A drive-thru lane with team members holding tablets approaching cars in queue](/images/chick-fil-a-drive-thru-tablets/drive-thru-tablets.webp)
 
 The tablets Chick-fil-A team members carry outside are part of what’s internally called the iPOS system — iPad Point of Sale. They’re iPads loaded with a proprietary Chick-fil-A ordering application that connects directly to the restaurant’s POS and kitchen display system (KDS) over the store’s Wi-Fi network.
@@ -38,6 +42,10 @@ The tablets aren’t consumer-grade iPads in flimsy cases. They’re housed in r
 The software is specifically designed for outdoor use. Large buttons, high-contrast display elements, and a simplified interface that minimizes the number of taps needed to complete a standard order. A team member can take a typical order — say, a Chick-fil-A Sandwich meal with a lemonade — in about 20 to 30 seconds, including payment processing.
 
 ## Why It Reduces Drive-Thru Times by 30-50%
+
+![Blueprint illustration of Why It Reduces Drive-Thru Times by 30-50%](/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-why-it-reduces-drive-thru-time.png)
+
+
 
 The math behind face-to-face ordering is straightforward, and it explains why Chick-fil-A invested so heavily in this approach.
 
