@@ -49,6 +49,50 @@ const chainMap: Record<string, string> = {
   'zaxbys': "Zaxby's",
 };
 
+// SEO descriptions to fix "Thin Content" issues on single-article chain pages
+const chainDescriptions: Record<string, string> = {
+  'arbys': "Arby's is a fast food sandwich restaurant chain with more than 3,300 restaurants system-wide. Famous for its classic roast beef sandwiches, Arby's focuses on deli-style meats and curly fries. Read our insider guides on how their commercial deli slicers and fry stations operate during a rush.",
+  'burger-king': "Burger King is a multinational chain of hamburger fast food restaurants. Known for the Whopper, Burger King relies heavily on its automated broiler system to give burgers a signature flame-grilled taste. Discover how their kitchen and expeditor roles function behind the scenes.",
+  'chick-fil-a': "Chick-fil-A is one of the largest American fast food restaurant chains and the largest specializing in chicken sandwiches. Famous for its exceptional customer service and drive-thru efficiency, explore our guides on their iPad POS systems, breading procedures, and the 'Core 4' training protocol.",
+  'chipotle': "Chipotle Mexican Grill is an American chain of fast casual restaurants specializing in bowls, tacos and Mission burritos made to order. Our guides cover their intensive prep work, grill validation processes, and exactly how they manage high-volume throughput on the assembly line.",
+  'culvers': "Culver's is a primarily Midwestern fast-food chain famous for its 'ButterBurgers' and fresh frozen custard. Operating with a unique cook-to-order system, Culver's kitchens are designed for quality over pure speed. Learn how their grill team manages smash techniques and custard rotation.",
+  'dairy-queen': "Dairy Queen is an American multinational chain of soft serve ice cream and fast-food restaurants. While famous for the Blizzard, their kitchen operations handle a diverse menu of 'Grill & Chill' items. Read our guides on soft serve machine maintenance, the perfect curl, and the iconic Blizzard flip.",
+  'dennys': "Denny's is an American diner-style restaurant chain famous for being open 24/7. Operating a full-service diner requires a completely different kitchen flow than a standard drive-thru. Dive into our guides on managing the egg station, building a Grand Slam, and handling the overnight rush.",
+  'dominos': "Domino's is a multinational pizza restaurant chain and the largest pizza seller worldwide. Their speed relies on a highly optimized makeline and advanced oven routing systems. Explore our insider knowledge on dough slapping, oven tending, and delivery dispatch logistics.",
+  'dunkin': "Dunkin' is a multinational coffee and doughnut company. While originally known for baked goods, their operations are heavily optimized around high-speed beverage production. Learn the difference between flavor shots and swirls, and how baristas survive the morning coffee rush.",
+  'firehouse-subs': "Firehouse Subs is a fast casual restaurant chain specializing in hot subs. Their unique competitive advantage is their custom steamer setup, which heats meats and cheeses while retaining moisture. Read our breakdown of their steaming process and assembly line flow.",
+  'five-guys': "Five Guys is an American fast casual restaurant chain focused on hamburgers, hot dogs, and French fries. Famous for having absolutely no freezers in their stores, their daily prep is legendary. Discover the secrets of their fry calibration, potato washing, and peanut oil frying.",
+  'hardees-carls-jr': "Hardee's and Carl's Jr. operate as sister fast-food chains primarily known for large burgers and made-from-scratch biscuits. The biscuit maker shift is one of the most demanding roles in the restaurant. Learn how they mix, knead, and bake their signature breakfast items.",
+  'ihop': "IHOP is a multinational pancake house restaurant chain. Like Denny's, it operates as a full-service diner with a massive, complex menu. Our guides break down the secrets of their pancake batter consistency, griddle temperature control, and high-volume breakfast service.",
+  'in-n-out-burger': "In-N-Out Burger is an American regional chain of fast food restaurants with a cult following. Famous for its simple menu and high quality standards, their kitchen operates on a strict, multi-tiered level system. Explore how their board station, fry cooks, and secret menu modifiers work.",
+  'jack-in-the-box': "Jack in the Box is an American fast-food restaurant chain known for a diverse menu that includes burgers, tacos, and all-day breakfast. Their deep-fried tacos are a late-night staple. Learn how their kitchens handle the immense variety of fryers, grills, and assembly stations.",
+  'jersey-mikes': "Jersey Mike's Subs is an American submarine sandwich chain offering premium cold cuts and hot subs. Famous for slicing meats to order and dressing subs 'Mike's Way', their cold table and hot grill operations are distinct. Read our guides on their slicing techniques and grill management.",
+  'jimmy-johns': "Jimmy John's is a franchised sandwich restaurant chain specializing in delivery. Their entire operation is built around 'Freaky Fast' execution. Discover how their cold table layout, bread baking schedule, and strict ingredient placement rules enable 30-second sandwich builds.",
+  'kfc': "KFC (Kentucky Fried Chicken) is a global fast food restaurant chain specializing in fried chicken. Their kitchen operations revolve around large-scale commercial pressure fryers. Learn the differences in breading techniques for Original Recipe versus Extra Crispy, and how their sides are prepped.",
+  'krispy-kreme': "Krispy Kreme is an American doughnut company and coffeehouse chain. The iconic 'Hot Light' signals fresh doughnuts coming straight off the conveyor belt line. Explore our guides on their proofing boxes, the glaze waterfall, and the strict temperature controls required for the perfect ring.",
+  'little-caesars': "Little Caesars is the third-largest pizza chain in the United States, famous for its 'Hot-N-Ready' model. This business model requires aggressive prep and holding strategies. Learn about their dough sheetout machines, sauce ladling techniques, and warming cabinet algorithms.",
+  'mcdonalds': "McDonald's is the world's largest fast food restaurant chain. Their kitchens are marvels of food science and operational engineering. Dive deep into our guides on their ABS (Automated Beverage System), high-tech vat fryers, clam-shell grills, and the legendary fry station.",
+  'multi-chain': "These guides cover operational concepts, food safety protocols, and management strategies that apply across multiple fast food and QSR (Quick Service Restaurant) brands.",
+  'panda-express': "Panda Express is the largest Asian-segment restaurant chain in the United States. Unlike burger joints, Panda Express relies on highly skilled Wok Chefs cooking in large batches. Read our guides on wok maintenance, batch cooking flow, and how they handle leftover food safely.",
+  'panera-bread': "Panera Bread is an American chain store of bakery-café fast casual restaurants. Their operations are split between daytime service and the intensive overnight baking shift. Discover the responsibilities of the overnight baker, the consolidator role, and soup thermalization.",
+  'papa-johns': "Papa John's is an American pizza restaurant franchise known for its 'Better Ingredients' marketing. Their crust requires specific stretching techniques. Learn the mechanics of their dough slapping process, the dough spinner tool, and how their make-line is structured for speed.",
+  'pizza-hut': "Pizza Hut is an American multinational pizza restaurant chain. Famous for their Pan Pizza, their kitchens require extensive proofing protocols. Explore our insider guides on deep-dish prep, the dispatch system for delivery drivers, and oven management.",
+  'popeyes': "Popeyes is an American multinational chain of fried chicken fast food restaurants. Their signature shatter-crunch crust comes from a labor-intensive hand-battering process. Learn why their kitchens often experience bottlenecks, how the battering station works, and their marination process.",
+  'raising-canes': "Raising Cane's is an American fast-food chain specializing entirely in chicken fingers. Their hyper-focused menu allows for incredible kitchen efficiency. Read our guides on their proprietary sauce mixing, the 'Bird Specialist' role, and their continuous-flow frying strategy.",
+  'shake-shack': "Shake Shack is an American fast casual restaurant chain that started as a hot dog cart. Now famous for premium smash burgers, their kitchens focus on quality crusts over speed. Discover the exact technique behind their flat-top smash, their proprietary meat blend, and bun toasting.",
+  'sonic-drive-in': "Sonic Drive-In is an American drive-in fast-food restaurant chain. Operating with a massive menu and carhop service, their layout is unique. Learn how their switchboard routing system works, the logistics of carhop skating, and their extensive beverage mixing station.",
+  'starbucks': "Starbucks is a multinational chain of coffeehouses and roastery reserves. Their behind-the-bar operations are heavily choreographed to handle massive volume. Dive into our guides on the Customer Support cycle, Frappuccino cold bar sequencing, and the reality of the 'Secret Menu'.",
+  'subway': "Subway is a multinational fast food restaurant franchise that primarily sells submarine sandwiches. With the customer directly driving the assembly line, efficiency is key. Explore our guides on their bread baking proofers, the Bain fill line rules, and how to execute the perfect wrap fold.",
+  'taco-bell': "Taco Bell is an American multinational chain of fast food restaurants serving Mexican-inspired food. Their kitchens are optimized for ridiculous speed using a standard ingredient matrix. Learn about the 'Linebacker' role, drive-thru timer hacks, and the hydration of their beans.",
+  'waffle-house': "Waffle House is an American restaurant chain with locations largely in the South, famous for being open 24/7/365. Their unique ordering system relies entirely on physical markers on plates rather than printed tickets. Read our guide explaining the legendary 'Marking System'.",
+  'wawa': "Wawa is an American chain of convenience stores and gas stations famous for its high-quality made-to-order hoagies. Their touch-screen ordering revolutionized the deli flow. Learn how their par-baked bread station and digital ticketing system manage morning rushes.",
+  'wendys': "Wendy's is an American international fast food restaurant chain known for its square hamburgers. Their 'Fresh, Never Frozen' beef promise dictates a totally different supply chain and grill protocol than competitors. Discover how their 4-corner press works and how chili is made.",
+  'whataburger': "Whataburger is an American regional fast food restaurant chain specializing in hamburgers. Their made-to-order model and extensive customization options require a highly adaptable grill line. Read our guides on their patty melt construction, Texas Toast preparation, and grill setup.",
+  'white-castle': "White Castle is an American regional hamburger restaurant chain credited as the first fast-food chain in the US. Their square sliders are steam-grilled over a bed of onions rather than seared. Learn about their five-hole patty design and the unique mechanics of the steam grill.",
+  'wingstop': "Wingstop is an American multinational chain of nostalgic, aviation-themed restaurants specializing in chicken wings. Their operation is surprisingly simple but highly focused. Explore our guides on their fry cook timing, the plain fry start, and the heavy toss-and-coat technique.",
+  'zaxbys': "Zaxby's is an American chain of fast casual restaurants offering chicken wings, chicken fingers, and signature sauces. Their kitchen balances fried items with fresh salads. Read our guides on the composition of Zax Sauce, the ratio problem, and their breading station flow."
+};
+
 function slugifyChain(chain: string): string {
   return chain
     .toLowerCase()
@@ -102,6 +146,9 @@ const displayName = chainMap[chainSlug] || chainName;
       <a href="/articles/" class="back-link">← All Guides</a>
       <h1>{displayName} Guides</h1>
       <p class="subtitle">{posts.length} insider guide{posts.length !== 1 ? 's' : ''} from real {displayName} workers.</p>
+      {chainDescriptions[chainSlug] && (
+        <p class="chain-description">{chainDescriptions[chainSlug]}</p>
+      )}
     </div>
 
     <div class="articles-grid">
@@ -164,7 +211,22 @@ const displayName = chainMap[chainSlug] || chainName;
 
   .subtitle {
     color: #94A3B8;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
+    max-width: 600px;
+  }
+
+  .chain-description {
+    color: #CBD5E1;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin-top: 1rem;
+    padding: 1rem 1.25rem;
+    background: rgba(14, 165, 233, 0.05);
+    border-left: 3px solid #0EA5E9;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .articles-grid {

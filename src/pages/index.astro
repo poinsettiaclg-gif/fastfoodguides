@@ -200,41 +200,37 @@ function getChainEmoji(chainName: string): string {
 				</div>
 			</section>
 
-			<!-- ═══════════════ ABOUT BLURB ═══════════════ -->
+			<!-- ═══════════════ TRUST & E-E-A-T SECTION ═══════════════ -->
 			<section class="section about-section" aria-labelledby="about-heading">
 				<div class="section-container">
-					<div class="about-card">
-						<div class="about-avatar" aria-hidden="true">
-							<span>RR</span>
+					<div class="about-card" style="display: flex; flex-direction: column; gap: 1.5rem;">
+						<div style="display: flex; gap: 1.5rem; align-items: flex-start;">
+							<div class="about-avatar" aria-hidden="true" style="flex-shrink: 0;">
+								<span>RR</span>
+							</div>
+							<div class="about-content">
+								<h2 id="about-heading" class="about-name">
+									Why Trust <span class="gradient-text">Fast Food Guides?</span>
+								</h2>
+								<p class="about-credentials" style="margin-bottom: 1rem;">
+									Written by Russell Roseberry &bull; 10-Year QSR Veteran &bull; Former Multi-Unit Kitchen Manager
+								</p>
+							</div>
 						</div>
-						<div class="about-content">
-							<h2 id="about-heading" class="about-name">
-								Written by <span class="gradient-text">Russell Roseberry</span>
-							</h2>
-							<p class="about-credentials">
-								10-Year QSR Veteran &bull; Former Shift Lead &bull; Menu Hacker
+						<div class="about-bio" style="font-size: 1.05rem; line-height: 1.7; color: #CBD5E1;">
+							<p style="margin-bottom: 1rem;">
+								Welcome to Fast Food Guides, the internet's most comprehensive resource for understanding what actually happens behind the drive-thru window. For over a decade, I worked in the kitchens of America's largest Quick Service Restaurant (QSR) chains—from scrubbing fry vats at 2:00 AM to managing multi-unit operational assessments.
 							</p>
-							<p class="about-bio">
-								I spent a decade working the line at America's biggest fast food chains. Now I share everything the
-								training manuals leave out — from secret menu hacks to the best ways to customize your order. No
-								sponsorships, no ads, just real talk from someone who's made thousands of Big Macs.
+							<p style="margin-bottom: 1rem;">
+								Most fast food content online is either corporate PR or written by people who have never actually worked a Friday night dinner rush. I created this site to provide brutally honest, operationally accurate guides on how the food is prepped, how the technology works, and what the training manuals deliberately leave out.
 							</p>
-							<a href="/about" class="about-link">
-								Read more about the mission
-								<svg
-									width="14"
-									height="14"
-									viewBox="0 0 16 16"
-									fill="none"
-									aria-hidden="true"
-								>
-									<path
-										d="M3 8h10M9 4l4 4-4 4"
-										stroke="currentColor"
-										stroke-width="2"
-										stroke-linecap="round"
-										stroke-linejoin="round"
-									/>
+							<p style="margin-bottom: 1.5rem;">
+								Whether you're looking for the truth about how McDonald's makes their legendary fries, the exact temperature protocol for a Culver's smash burger, or you just want to know if the Starbucks "Secret Menu" is real (spoiler: it's not), you'll find it here. Every article is meticulously researched and based on real, behind-the-counter experience to ensure you get the highest quality information.
+							</p>
+							<a href="/about" class="about-link" style="display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 600; color: #38BDF8; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.2s ease;">
+								Read my full background and editorial standards
+								<svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+									<path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 								</svg>
 							</a>
 						</div>

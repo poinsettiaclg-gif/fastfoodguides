@@ -11,7 +11,7 @@ const { author, authorTitle, pubDate } = Astro.props;
 ---
 
 <div class="author-byline-top" role="doc-subtitle">
-	<span class="author-name">By {author}</span>
+	<a href="/about" class="author-name" aria-label={`Read more about ${author}`}>By {author}</a>
 	<span class="separator" aria-hidden="true">·</span>
 	<span class="author-title">{authorTitle}</span>
 	<span class="separator" aria-hidden="true">·</span>
@@ -36,7 +36,14 @@ const { author, authorTitle, pubDate } = Astro.props;
 
 	.author-name {
 		font-weight: 600;
-		color: #CBD5E1;
+		color: #38BDF8;
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: border-color 0.2s ease;
+	}
+	
+	.author-name:hover {
+		border-bottom-color: #38BDF8;
 	}
 
 	.author-title {
