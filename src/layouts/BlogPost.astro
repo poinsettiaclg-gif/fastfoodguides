@@ -211,10 +211,12 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 			}
 
 			.prose :global(img) {
-				max-width: 100%;
+				max-width: 75%;
 				height: auto;
 				border-radius: 0.5rem;
-				margin: 1.5em 0;
+				margin: 1.5em auto;
+				display: block;
+				border: 1px solid rgba(255, 255, 255, 0.08);
 			}
 
 			/* — Responsive — */
@@ -229,6 +231,12 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 
 				.prose {
 					font-size: 1rem;
+				}
+
+				.prose :global(img) {
+					max-width: 60%;
+					margin: 1.25em auto;
+					border-radius: 0.375rem;
 				}
 			}
 		</style>
