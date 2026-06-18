@@ -273,5 +273,12 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 			</article>
 		</main>
 		<Footer />
+		<script>
+			// Add lazy loading to all article images for better Core Web Vitals
+			document.querySelectorAll('.prose img').forEach((img) => {
+				img.setAttribute('loading', 'lazy');
+				img.setAttribute('decoding', 'async');
+			});
+		</script>
 	</body>
 </html>

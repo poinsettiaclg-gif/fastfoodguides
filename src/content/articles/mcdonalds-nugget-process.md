@@ -23,9 +23,7 @@ If there is one fast food item that has generated more conspiracy theories, urba
 
 ## What McNuggets Are Actually Made Of
 
-![Blueprint illustration of What McNuggets Are Actually Made Of](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.png)
-
-
+![Blueprint illustration of What McNuggets Are Actually Made Of](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.webp)
 
 Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass.
 
@@ -41,11 +39,7 @@ Mechanically separated chicken involves forcing chicken carcasses (bones and all
 
 ## The Factory Process: Breast to Nugget
 
-![Blueprint illustration of The Factory Process: Breast to Nugget](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-the-factory-process-breast-to-.png)
-
-
-
-![Flat vector factory-to-restaurant pipeline showing chicken breast → ground → shaped → battered → par-fried → frozen → shipped → final fried](/images/mcdonalds-nugget-process/factory-to-restaurant-pipeline.webp)
+![Blueprint illustration of The Factory Process: Breast to Nugget](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-the-factory-process-breast-to-.webp)
 
 The journey from whole chicken to finished McNugget happens in a processing facility and follows a specific sequence:
 
@@ -65,8 +59,6 @@ This is the part that surprises people the most. McNuggets come in exactly four 
 *   **The Ball** — a roughly spherical nugget, the most compact of the four
 *   **The Boot** — an elongated shape with a curve, resembling a boot or the state of Texas, depending on who you ask
 *   **The Bone** — a longer, thinner shape that looks like a cartoon dog bone
-
-![Flat vector illustration showing the 4 McNugget shapes (bell, ball, boot, bone) laid out with labels](/images/mcdonalds-nugget-process/four-mcnugget-shapes.webp)
 
 These shapes were not chosen randomly. McDonald’s designed them deliberately for consistency in cooking and eating. Different shapes and sizes cook at different rates — if McNuggets came in random, freeform shapes, some would be overcooked while others were undercooked. The four standardized shapes ensure that every nugget in the fryer reaches the correct internal temperature at roughly the same time.
 
@@ -162,15 +154,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 A Sandwich Artist's step-by-step guide to warming, stacking, rolling, and cutting a heavily loaded S...
 
-
-
 ](/articles/subway-wrap-folding/)[
 
 ### What is the Five Guys "Fry Calibration" Every Morning?
 
 Five Guys calibrates their fries every single morning with the Mush Test. Different potatoes need di...
-
-
 
 ](/articles/five-guys-fry-calibration/)[
 
@@ -178,15 +166,11 @@ Five Guys calibrates their fries every single morning with the Mush Test. Differ
 
 A barista's guide to surviving the Starbucks Cold Bar, mastering the Frappuccino build sequence, and...
 
-
-
 ](/articles/starbucks-cold-bar-frappuccino/)[
 
 ### How Does the Sonic Drive-In Switchboard Actually Work?
 
 Inside the Sonic switchboard: how one employee manages 30 drive-in stalls, juggles Happy Hour chaos,...
-
-
 
 ](/articles/sonic-switchboard-how-it-works/)
 

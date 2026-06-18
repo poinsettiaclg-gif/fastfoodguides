@@ -13,10 +13,6 @@ Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* 
 
 ## The Chicken Takes 25 Minutes to Cook
 
-![Blueprint illustration of The Chicken Takes 25 Minutes to Cook](/images/popeyes-slow-kitchen/popeyes-slow-kitchen-the-chicken-takes-25-minutes-t.png)
-
-
-
 This is the core issue that everything else flows from.
 
 Popeyes uses commercial pressure fryers — the same type of equipment KFC uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size.
@@ -28,10 +24,6 @@ During those 25 minutes, that fryer is occupied. You can't open it, you can't ch
 Now think about what happens during a lunch rush. A single family order might be 12 pieces. Four family orders in line and you've just wiped out your entire available inventory, and the next batch won't be ready for another 20+ minutes.
 
 ## The Demand Forecasting Problem
-
-![Blueprint illustration of The Demand Forecasting Problem](/images/popeyes-slow-kitchen/popeyes-slow-kitchen-the-demand-forecasting-problem.png)
-
-
 
 Here's where it gets worse. Popeyes has to predict how much chicken to cook before the rush hits. If they start a batch at 11:15 AM, it won't be ready until 11:40. If the lunch rush starts at 11:30, there's a 10-minute window where demand is spiking but the kitchen is still waiting for chicken to finish.
 

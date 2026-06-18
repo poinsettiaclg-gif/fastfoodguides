@@ -25,11 +25,7 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 
 ## What’s Actually in Zax Sauce
 
-![Blueprint illustration of What’s Actually in Zax Sauce](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.png)
-
-
-
-![Flat vector illustration of Zaxby's chicken fingers with a cup of Zax Sauce for dipping, styled on a branded tray](/images/zaxbys-sauce-recipe/zaxbys-chicken-fingers-zax-sauce.webp)
+![Blueprint illustration of What’s Actually in Zax Sauce](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.webp)
 
 Here’s the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that’s been around forever in the American South and parts of Utah. At its core, it’s a blend of:
 
@@ -46,11 +42,7 @@ The reason employees don’t bother guarding the ingredient list is because it d
 
 ## The Ratio Problem
 
-![Blueprint illustration of The Ratio Problem](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-the-ratio-problem.png)
-
-
-
-![Flat vector diagram showing the ingredient components of Zax Sauce as a ratio breakdown](/images/zaxbys-sauce-recipe/zax-sauce-ingredient-ratio.webp)
+![Blueprint illustration of The Ratio Problem](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-the-ratio-problem.webp)
 
 I’ll put it this way: mayo is roughly 70 to 75 percent of the sauce. That’s a lot more mayo than most home cooks expect. People tend to go heavy on the ketchup because they want that tangy pink color, and they end up with something that tastes like Thousand Island dressing. That’s the number one mistake.
 
@@ -142,15 +134,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 A behind-the-scenes look at Jersey Mike's grill station, from raw beef protocols and the chop-and-fl...
 
-
-
 ](/articles/jersey-mikes-hot-sub-grill/)[
 
 ### How the Chick-fil-A iPOS Drive-Thru System Works
 
 Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per hour through a single...
-
-
 
 ](/articles/chick-fil-a-ipos-system/)[
 
@@ -158,15 +146,11 @@ Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per h
 
 Learn how the Subway Bain-Marie keeps food cold with forced air, why overfilling pans is a health co...
 
-
-
 ](/articles/subway-bain-fill-line-rule/)[
 
 ### Why Does Chick-fil-A Have Employees Standing Outside With Tablets?
 
 An insider look at Chick-fil-A's iPad-based drive-thru ordering system, how it cuts wait times by up...
-
-
 
 ](/articles/chick-fil-a-drive-thru-tablets/)
 

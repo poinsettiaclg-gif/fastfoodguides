@@ -23,11 +23,7 @@ There are roughly two dozen fountain drink options across all of fast food, and 
 
 ## The PepsiCo Partnership: Built From Scratch for Taco Bell
 
-![Blueprint illustration of The PepsiCo Partnership: Built From Scratch for Taco Bell](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-pepsico-partnership-built-.png)
-
-
-
-![Flat vector illustration of a Taco Bell fountain drink station with the distinctive teal/tropical colored Baja Blast dispenser highlighted](/images/taco-bell-baja-blast/fountain-drink-station.webp)
+![Blueprint illustration of The PepsiCo Partnership: Built From Scratch for Taco Bell](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-pepsico-partnership-built-.webp)
 
 Baja Blast was not an existing Mountain Dew flavor that Taco Bell licensed for its fountains. It was co-developed from the ground up by Taco Bell and PepsiCo’s beverage R&D team specifically for the Taco Bell restaurant experience. The collaboration launched in 2004, and the flavor profile was engineered with a specific goal: create a drink that pairs with Taco Bell’s food better than standard Mountain Dew, Pepsi, or any other existing option.
 
@@ -39,9 +35,7 @@ This arrangement is mutually beneficial in a way that both companies understand 
 
 ## The Fountain Syrup Ratio: Why It Tastes Different at Different Locations
 
-![Blueprint illustration of The Fountain Syrup Ratio: Why It Tastes Different at Different Locations](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-fountain-syrup-ratio-why-i.png)
-
-
+![Blueprint illustration of The Fountain Syrup Ratio: Why It Tastes Different at Different Locations](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-fountain-syrup-ratio-why-i.webp)
 
 Here is something that drove me nuts when I worked the fountain station, and that Baja Blast fanatics notice immediately: the drink does not taste exactly the same at every Taco Bell. Some locations pour a Baja Blast that is electric — bright, tangy, perfectly carbonated, with that clean citrus finish. Other locations pour something that tastes flat, watery, or overly sweet. Same brand, same syrup, wildly different result.
 
@@ -56,8 +50,6 @@ Most Taco Bell locations are supposed to check their Brix levels (the measuremen
 The ice-to-liquid ratio matters too, and it is something customers rarely think about. A cup packed with ice gets less liquid and produces a more diluted drink as the ice melts. A cup with light ice gets more syrup-water mixture and tends to taste stronger and sweeter initially. When Baja Blast regulars tell me they always order “light ice,” this is why — they want the full-strength flavor without the dilution. It is a legitimate hack, and it works.
 
 ## The Limited Retail Releases: Manufactured Scarcity
-
-![Flat vector infographic showing the Mountain Dew + Taco Bell partnership timeline from launch to cult status](/images/taco-bell-baja-blast/baja-blast-partnership-timeline.webp)
 
 Starting in 2014 — a full decade after the original fountain launch — PepsiCo began releasing Baja Blast in retail bottles and cans for limited periods. These drops were positioned as “limited-time only” events, available in grocery stores and convenience stores for a few weeks before disappearing again.
 
@@ -134,15 +126,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 A veteran QSR manager breaks down the Chick-fil-A Core 4 customer service model, what it looks like ...
 
-
-
 ](/articles/chick-fil-a-core-4/)[
 
 ### Does Wendy's Really Use 'Fresh, Never Frozen' Beef?
 
 The full truth behind Wendy's famous 'fresh, never frozen' beef claim — how the supply chain works, ...
-
-
 
 ](/articles/wendys-fresh-never-frozen/)[
 
@@ -150,15 +138,11 @@ The full truth behind Wendy's famous 'fresh, never frozen' beef claim — how th
 
 Learn about the strict $20 Bank Rule every Domino's driver must follow, how the Cash Drop system wor...
 
-
-
 ](/articles/dominos-20-bank-rule/)[
 
 ### What is "Mike's Way" at Jersey Mike's (And the Exact Sequence)
 
 Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's, why the order matters, plus meat...
-
-
 
 ](/articles/jersey-mikes-mikes-way/)
 

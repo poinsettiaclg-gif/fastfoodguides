@@ -25,11 +25,7 @@ I spent time working alongside Waffle House crew members during a cross-training
 
 ## The Nine Modifications, Explained
 
-![Blueprint illustration of The Nine Modifications, Explained](/images/waffle-house-hash-brown-system/waffle-house-hash-brown-system-the-nine-modifications-explain.png)
-
-
-
-![Waffle House grill station with hash browns on the flat-top and order tickets clipped above](/images/waffle-house-hash-brown-system/grill-station.webp)
+![Blueprint illustration of The Nine Modifications, Explained](/images/waffle-house-hash-brown-system/waffle-house-hash-brown-system-the-nine-modifications-explain.webp)
 
 Every order of Waffle House hash browns starts with a base: a portion of dehydrated potato that gets rehydrated and then cooked on the flat-top. From there, customers can add up to nine modifications. Here’s what each one actually means in the kitchen:
 
@@ -55,9 +51,7 @@ You can order any combination of these. All nine at once if you want. And yes, p
 
 ## The Marking System: How Tickets Actually Work
 
-![Blueprint illustration of The Marking System: How Tickets Actually Work](/images/waffle-house-hash-brown-system/waffle-house-hash-brown-system-the-marking-system-how-tickets.png)
-
-
+![Blueprint illustration of The Marking System: How Tickets Actually Work](/images/waffle-house-hash-brown-system/waffle-house-hash-brown-system-the-marking-system-how-tickets.webp)
 
 This is the part that fascinates most people, and it’s the part that’s hardest to explain without seeing it in person. Waffle House uses a physical marking system on the plates and tickets to communicate orders from the server to the grill operator without verbal callouts.
 
@@ -80,8 +74,6 @@ The exact markers can vary slightly by location because some stores have evolved
 The beauty of this system is speed. During a busy late-night rush, the grill operator doesn’t have time to read every ticket word by word. They glance at the markers, read the visual shorthand, and immediately know what goes on the grill. It cuts seconds off every order, and when you’re pushing out 40 or 50 plates an hour, those seconds add up fast.
 
 ## How Grill Operators Handle 8+ Modifications at Once
-
-![Visual reference chart showing the 9 hash brown modification options from scattered through country](/images/waffle-house-hash-brown-system/modification-chart.webp)
 
 Here’s where it gets real. A single customer ordering hash browns “all the way” — meaning all nine modifications — is one thing. But a grill operator during a Saturday night rush might have six or seven different hash brown orders working simultaneously, each with a different combination of modifications, all sharing the same flat-top with eggs, bacon, and waffle batter dripping down from the iron station.
 
@@ -153,15 +145,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 The Oven Tender catches every pizza coming out of a 500-degree conveyor oven, cuts it, boxes it, and...
 
-
-
 ](/articles/dominos-oven-tender-role/)[
 
 ### How Does the Taco Bell Drive-Thru Timer Actually Work?
 
 An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors under the asphalt, the 50...
-
-
 
 ](/articles/taco-bell-drive-thru-timer/)[
 
@@ -169,15 +157,11 @@ An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors under
 
 Wendy's square patties would shrink into circles without the 4-Corner Press technique. Here's how gr...
 
-
-
 ](/articles/wendys-4-corner-press/)[
 
 ### Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)
 
 Everything you need to know about working as a Sonic Carhop — skating vs walking, the tray balancing...
-
-
 
 ](/articles/sonic-carhops-roller-skate/)
 

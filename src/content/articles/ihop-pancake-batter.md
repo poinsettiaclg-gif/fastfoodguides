@@ -25,12 +25,6 @@ I spent time working alongside IHOP kitchen staff during my years in the QSR ind
 
 ## The Batter: Proprietary Dry Mix, Not Scratch
 
-![Blueprint illustration of The Batter: Proprietary Dry Mix, Not Scratch](/images/ihop-pancake-batter/ihop-pancake-batter-the-batter-proprietary-dry-mix.png)
-
-
-
-![Cook pouring pancake batter from a ladle onto a large flat-top commercial griddle with multiple pancakes in various stages of cooking](/images/ihop-pancake-batter/grill-pour.webp)
-
 Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor.
 
 Each bag is labeled with IHOP’s specific product code. You can’t walk into a restaurant supply store and buy this stuff. It’s manufactured exclusively for the chain and the exact formulation is proprietary. Employees don’t get a full ingredient breakdown beyond what’s on the allergen sheet—they just know what the bag looks like and how to use it.
@@ -38,12 +32,6 @@ Each bag is labeled with IHOP’s specific product code. You can’t walk into a
 Now, does using a dry mix mean the pancakes aren’t “real”? I’d push back on that. The mix still needs to be properly hydrated, properly mixed, and properly cooked by someone who knows what they’re doing. Plenty of restaurants—including sit-down diners that would never admit it—use dry mixes as their base. The difference between a good pancake and a bad one rarely comes down to whether you measured out your own baking powder. It comes down to what happens after the dry ingredients hit the liquid.
 
 ## Mixing the Batter: The Bucket, the Whisk, and the Ribbon Test
-
-![Blueprint illustration of Mixing the Batter: The Bucket, the Whisk, and the Ribbon Test](/images/ihop-pancake-batter/ihop-pancake-batter-mixing-the-batter-the-bucket-t.png)
-
-
-
-![Diagram of the IHOP pancake batter preparation process from dry mix bag to ready-to-pour batter](/images/ihop-pancake-batter/batter-process.webp)
 
 The mixing process happens in large food-safe buckets—the heavy-duty kind with measurement markings on the side. You measure out the dry mix, then add the liquid. Depending on the specific recipe card the location follows, the liquid component is either water, milk, or a combination. Some menu items call for buttermilk to be added. The Original Buttermilk recipe gets its flavor profile partly from the dry mix formulation itself (which contains buttermilk powder) and partly from liquid dairy additions.
 
@@ -151,15 +139,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 An insider look at the Papa John's Dough Spinner machine — how it works, why veterans hate it, and w...
 
-
-
 ](/articles/papa-johns-dough-spinner/)[
 
 ### How Does the Little Caesars Hot-N-Ready System Actually Work?
 
 Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minute clock marking sys...
-
-
 
 ](/articles/little-caesars-hot-n-ready-system/)[
 
@@ -167,15 +151,11 @@ Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minu
 
 An insider breakdown of how Jimmy John's achieves its legendary speed — from the 5-minute delivery r...
 
-
-
 ](/articles/jimmy-johns-freaky-fast/)[
 
 ### How Hard Is It to Clean the Burger King Broiler at Closing?
 
 A brutally honest walkthrough of the most dreaded closing task in fast food—breaking down, scrubbing...
-
-
 
 ](/articles/burger-king-broiler-closing/)
 

@@ -23,12 +23,6 @@ By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 13 min re
 
 ## The 5-Minute Delivery Radius Is Not a Suggestion
 
-![Blueprint illustration of The 5-Minute Delivery Radius Is Not a Suggestion](/images/jimmy-johns-freaky-fast/jimmy-johns-freaky-fast-the-5-minute-delivery-radius-i.png)
-
-
-
-![Flat vector diagram showing the delivery radius concept — a store at center with a 5-minute driving circle around it](/images/jimmy-johns-freaky-fast/delivery-radius-diagram.webp)
-
 Most pizza delivery operations will drive 15, 20, even 30 minutes to reach a customer. Jimmy John’s will not. The standard delivery zone is capped at roughly a 5-minute driving radius from the store — sometimes slightly more in rural markets, sometimes even tighter in dense urban areas with heavy traffic. This is not because Jimmy John’s is lazy. It is because the entire promise of the brand collapses if a sandwich takes 45 minutes to arrive.
 
 Here is the math that corporate drilled into us: the sandwich is built in under a minute. It is bagged in seconds. The driver is out the door within two minutes of the order printing. If the delivery address is within a five-minute drive, the customer is holding a fresh sandwich roughly seven to eight minutes after they placed the order. That is the target. That is “Freaky Fast.”
@@ -45,10 +39,6 @@ It is a controversial decision within the system. “Freaky Fast Delivery” is 
 
 ## The Morning Prep: Everything Gets Sliced Before Open
 
-![Blueprint illustration of The Morning Prep: Everything Gets Sliced Before Open](/images/jimmy-johns-freaky-fast/jimmy-johns-freaky-fast-the-morning-prep-everything-ge.png)
-
-
-
 The speed you see at the sandwich line during lunch did not start at 11 AM. It started at 6:30 or 7:00 AM when the opening crew showed up and began the single most important part of a Jimmy John’s day: prep.
 
 Every piece of meat, every slice of tomato, every shred of lettuce is prepped before the store opens. There is no slicing to order. There is no pulling a tomato off the shelf and cutting it when a customer asks for it. Everything is done in bulk, portioned into containers, and staged in the cold table before the first order prints.
@@ -60,8 +50,6 @@ Meats come pre-sliced from the distributor in most locations, though some stores
 I have seen what happens when a store falls behind on prep. Somebody called in sick, or the opener overslept, and suddenly you’re trying to slice tomatoes while tickets are printing at noon. The line backs up within minutes. Customers wait. Drivers wait. The entire “Freaky Fast” promise turns into “Moderately Prompt,” and nobody is happy about it.
 
 ## The Assembly Line: Under 30 Seconds, Every Time
-
-![Flat vector illustration of a Jimmy John's sandwich assembly line showing bread, pre-sliced meats, and a completed sub being wrapped in paper](/images/jimmy-johns-freaky-fast/sandwich-assembly-line.webp)
 
 Here is where the engineering really shows. A Jimmy John’s sandwich line is not like a Subway, where the customer stands there and directs every ingredient. At Jimmy John’s, there is no customer involvement in the build. The order prints, the sandwich maker reads it, and they build it from memory at full speed.
 
@@ -167,15 +155,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minute clock marking sys...
 
-
-
 ](/articles/little-caesars-hot-n-ready-system/)[
 
 ### The Strict Science of the Chipotle Fajita Veggie Cut
 
 Chipotle's 1/4-inch fajita veggie rule is no joke. Learn why the exact cut size matters for grill ti...
-
-
 
 ](/articles/chipotle-fajita-veggie-cut/)[
 
@@ -183,15 +167,11 @@ Chipotle's 1/4-inch fajita veggie rule is no joke. Learn why the exact cut size 
 
 The Hardee's Biscuit Maker starts at 4 AM, makes biscuits from scratch by hand, and any batch older ...
 
-
-
 ](/articles/hardees-biscuit-maker-shift/)[
 
 ### What is the Starbucks Customer Support (CS) Cycle?
 
 Inside the Starbucks CS Cycle: the 10-minute timed cadence that keeps the entire store running durin...
-
-
 
 ](/articles/starbucks-customer-support-cycle/)
 

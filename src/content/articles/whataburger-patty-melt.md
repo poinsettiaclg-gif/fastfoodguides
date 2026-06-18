@@ -25,11 +25,7 @@ I spent several years working in QSR kitchens across Texas, and I can tell you t
 
 ## The Grill Setup and Patty Cook
 
-![Blueprint illustration of The Grill Setup and Patty Cook](/images/whataburger-patty-melt/whataburger-patty-melt-the-grill-setup-and-patty-cook.png)
-
-
-
-![Whataburger grill station with a patty melt being assembled on griddled Texas toast](/images/whataburger-patty-melt/grill-station.webp)
+![Blueprint illustration of The Grill Setup and Patty Cook](/images/whataburger-patty-melt/whataburger-patty-melt-the-grill-setup-and-patty-cook.webp)
 
 Whataburger uses flat-top grills — large commercial griddles that run at around 375°F to 400°F during normal service. The patty melt uses the same fresh beef patties as the rest of the burger menu. These aren’t frozen pucks shipped from a central warehouse. Whataburger’s beef comes in fresh and gets portioned in-house.
 
@@ -41,9 +37,7 @@ Cook time runs about 3 to 4 minutes per side, depending on grill position and ho
 
 ## The Texas Toast — This Is Where It Gets Good
 
-![Blueprint illustration of The Texas Toast — This Is Where It Gets Good](/images/whataburger-patty-melt/whataburger-patty-melt-the-texas-toast-this-is-where-.png)
-
-
+![Blueprint illustration of The Texas Toast — This Is Where It Gets Good](/images/whataburger-patty-melt/whataburger-patty-melt-the-texas-toast-this-is-where-.webp)
 
 The Texas toast is what separates the patty melt from a regular cheeseburger, and Whataburger does not phone this step in.
 
@@ -82,8 +76,6 @@ One of the common mistakes I saw from new team members was grilling the onions t
 During heavy volume periods — Friday nights, post-game rushes, late-night service — many locations will pre-grill a batch of onions and hold them in a hotel pan on the side of the grill. This is technically allowed by Whataburger’s procedures as long as the onions are used within a certain hold time. But there’s a noticeable quality difference between freshly griddled onions and ones that have been sitting for 20 minutes. If you’re ordering during a slow period, your onions are probably cooked to order. That’s the sweet spot.
 
 ## The Assembly — Putting It All Together
-
-![Exploded-view diagram of a Whataburger patty melt showing each layer](/images/whataburger-patty-melt/exploded-view.webp)
 
 The build order for a Whataburger Patty Melt goes like this, bottom to top:
 
@@ -171,15 +163,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 An insider look at the Collectramatic pressure fryers at KFC—the safety locks, the terrifying 'drop,...
 
-
-
 ](/articles/kfc-pressure-fryers/)[
 
 ### What Happens to Leftover Panda Express Food at Closing?
 
 Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, ...
-
-
 
 ](/articles/panda-express-leftover-food/)[
 
@@ -187,15 +175,11 @@ Ever wonder what happens to all that leftover Orange Chicken at closing? Learn a
 
 An inside look at the physical toll, extreme heat, grease burns, and the strict Wok Test required to...
 
-
-
 ](/articles/panda-express-wok-chef/)[
 
 ### What Are the Exact Closing Duties for a Wendy's Sandwich Maker?
 
 Wendy's closing shift starts with pre-close at 9 PM and ends with a final walkthrough. Here's the co...
-
-
 
 ](/articles/wendys-closing-duties/)
 

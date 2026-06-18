@@ -27,11 +27,7 @@ I’ve spent enough time in and around QSR kitchens to appreciate what this phen
 
 ## How the “Secret Menu” Myth Got Started
 
-![Blueprint illustration of How the “Secret Menu” Myth Got Started](/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.png)
-
-
-
-![Flat vector illustration of a confused Starbucks barista looking at a customer's phone showing a TikTok secret menu recipe](/images/starbucks-secret-menu/starbucks-barista-secret-menu-phone.webp)
+![Blueprint illustration of How the “Secret Menu” Myth Got Started](/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.webp)
 
 The concept took off around 2012-2013, when Tumblr and early Instagram food accounts started posting elaborate custom Starbucks drinks with catchy names. A user would figure out that if you ordered a Vanilla Bean Frappuccino with raspberry syrup and java chips, it tasted vaguely like a raspberry cheesecake. They’d name it the “Raspberry Cheesecake Frappuccino,” photograph it with good lighting, and post it online. Other people would see it, want to try it, and show up at Starbucks asking for a drink that doesn’t exist on any menu.
 
@@ -43,9 +39,7 @@ That’s a perfectly reasonable position. The problem is that most customers don
 
 ## Why This Drives Baristas Up the Wall
 
-![Blueprint illustration of Why This Drives Baristas Up the Wall](/images/starbucks-secret-menu/starbucks-secret-menu-why-this-drives-baristas-up-th.png)
-
-
+![Blueprint illustration of Why This Drives Baristas Up the Wall](/images/starbucks-secret-menu/starbucks-secret-menu-why-this-drives-baristas-up-th.webp)
 
 Imagine you’re working the bar during the [morning rush](/articles/starbucks-morning-rush), which at most Starbucks locations means a steady stream of 30 to 50 drinks per half hour. The store is loud. The espresso machine is pulling shots. The blender is running. The mobile order printer is spitting out tickets faster than you can read them. You are in survival mode.
 
@@ -64,8 +58,6 @@ The frustration isn’t about making complicated drinks. Baristas make complicat
 The frustration is about being expected to know recipes that don’t exist in any Starbucks system, while simultaneously being judged on speed and accuracy. A barista who takes two minutes to decode a TikTok video is a barista who falls behind on the bar, which backs up the line, which slows down the entire store, which affects [the customer support cycle](/articles/starbucks-customer-support-cycle) and triggers complaints from every other customer waiting.
 
 ## How the Starbucks Customization System Actually Works
-
-![Flat vector diagram showing how the Starbucks customization system works: base drink plus size plus milk plus syrup pumps plus add-ons plus temperature](/images/starbucks-secret-menu/starbucks-customization-system.webp)
 
 Here’s what most customers don’t understand: Starbucks already has one of the most flexible customization systems in the entire food and beverage industry. You don’t need a “secret menu” because you can build virtually anything from the components that are already available. Every drink is assembled from a set of modular building blocks:
 
@@ -185,15 +177,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors under the asphalt, the 50...
 
-
-
 ](/articles/taco-bell-drive-thru-timer/)[
 
 ### The Secret to Rolling a Massive Double-Meat Chipotle Burrito
 
 Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required to safely wrap a massive, o...
-
-
 
 ](/articles/chipotle-massive-burrito-rolling/)[
 
@@ -201,15 +189,11 @@ Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required to safe
 
 Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per hour through a single...
 
-
-
 ](/articles/chick-fil-a-ipos-system/)[
 
 ### How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
 A detailed look at how McDonald's fries are made, from the factory process to the in-store fry stati...
-
-
 
 ](/articles/mcdonalds-fry-station/)
 

@@ -25,11 +25,7 @@ I’ve watched this technique executed thousands of times across different burge
 
 ## The Smash: What Actually Happens on the Flat-Top
 
-![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.png)
-
-
-
-![A cook pressing a beef ball flat onto a hot griddle with a heavy metal press](/images/shake-shack-smash-burger/smash-press-on-griddle.webp)
+![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.webp)
 
 The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it’s designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle.
 
@@ -43,9 +39,7 @@ That single motion is the entire technique. And everything that makes the burger
 
 ## Why the Crust Is the Whole Point
 
-![Blueprint illustration of Why the Crust Is the Whole Point](/images/shake-shack-smash-burger/shake-shack-smash-burger-why-the-crust-is-the-whole-poi.png)
-
-
+![Blueprint illustration of Why the Crust Is the Whole Point](/images/shake-shack-smash-burger/shake-shack-smash-burger-why-the-crust-is-the-whole-poi.webp)
 
 Here’s the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 
@@ -74,8 +68,6 @@ Shake Shack’s supply chain is built around maintaining this fresh-never-frozen
 ## How It Differs from Five Guys
 
 This is the comparison that comes up constantly, and it’s worth addressing head-on because the two chains are often mentioned in the same breath as “premium fast-casual burgers.” But the cooking techniques are fundamentally different.
-
-![Comparison of smash burger technique versus traditional formed patty, showing surface area and crust differences](/images/shake-shack-smash-burger/smash-vs-formed-patty-comparison.webp)
 
 Five Guys does not smash their burgers. Full stop. At Five Guys, the beef is hand-portioned and loosely formed into patties, then placed on a flat-top grill and cooked without pressing. The patties are thicker, cooked at a somewhat lower temperature, and the goal is a juicy, beefy patty with moderate browning—not the aggressive, edge-to-edge crust that defines a smash burger.
 
@@ -158,15 +150,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Learn about the strict $20 Bank Rule every Domino's driver must follow, how the Cash Drop system wor...
 
-
-
 ](/articles/dominos-20-bank-rule/)[
 
 ### Does Five Guys Really Not Have Any Freezers?
 
 Five Guys has no freezers in any location. Everything is stored in walk-in coolers and prepped fresh...
-
-
 
 ](/articles/five-guys-no-freezers/)[
 
@@ -174,15 +162,11 @@ Five Guys has no freezers in any location. Everything is stored in walk-in coole
 
 The BK flame broiler is a conveyor belt of fire � patties ride through open gas flames and come out ...
 
-
-
 ](/articles/burger-king-broiler/)[
 
 ### What is the Difference Between a Dunkin' Flavor Shot and a Flavor Swirl?
 
 Flavor Shots are unsweetened and sugar-free. Swirls are thick, sweet, and add 150+ calories. Most Du...
-
-
 
 ](/articles/dunkin-flavor-shot-vs-swirl/)
 

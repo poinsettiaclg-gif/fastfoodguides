@@ -27,11 +27,7 @@ Let me break down exactly how it works, where it doesn’t apply, and why it mat
 
 ## The Beef Arrives Refrigerated, Not Frozen
 
-![Blueprint illustration of The Beef Arrives Refrigerated, Not Frozen](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-the-beef-arrives-refrigerated-.png)
-
-
-
-![Flat vector illustration showing a refrigerated Wendy's delivery truck unloading fresh beef to a walk-in cooler](/images/wendys-fresh-never-frozen/wendys-fresh-beef-delivery.webp)
+![Blueprint illustration of The Beef Arrives Refrigerated, Not Frozen](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-the-beef-arrives-refrigerated-.webp)
 
 A Wendy’s location receives beef deliveries multiple times per week — typically three to four times, depending on the volume of the store. The beef arrives in refrigerated trucks, packed in sealed cases, held at a temperature between 32°F and 40°F. That’s the standard refrigeration range. Cold enough to keep the beef safe and fresh, nowhere near the 0°F threshold required for frozen storage.
 
@@ -41,9 +37,7 @@ The shelf life of fresh beef stored at proper refrigeration temps is roughly 5 t
 
 ## What This Costs — And Why Most Chains Don’t Bother
 
-![Blueprint illustration of What This Costs — And Why Most Chains Don’t Bother](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-what-this-costs-and-why-most-c.png)
-
-
+![Blueprint illustration of What This Costs — And Why Most Chains Don’t Bother](/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-what-this-costs-and-why-most-c.webp)
 
 Running a fresh beef program is significantly more expensive than using frozen patties. The cost difference breaks down into several categories:
 
@@ -58,8 +52,6 @@ Running a fresh beef program is significantly more expensive than using frozen p
 Wendy’s absorbs all of these costs because the fresh beef commitment is the foundation of their brand identity. Dave Thomas built the company on it, and the corporate team has reinforced it relentlessly for decades. When Wendy’s launched their “Where’s the beef?” campaign in the 1980s, the underlying message wasn’t just about patty size — it was about quality. Fresh beef tastes different than frozen beef. The texture is different. The sear is different. And Wendy’s bets everything on the idea that customers can tell the difference, even subconsciously.
 
 ## How Fresh Beef Changes the Cooking Process
-
-![Flat vector comparison chart showing fresh vs frozen beef supply chains side by side](/images/wendys-fresh-never-frozen/fresh-vs-frozen-beef-supply-chain.webp)
 
 If you’ve ever cooked a frozen burger at home versus a fresh one, you know the difference. A frozen patty releases a lot of water as it cooks because ice crystals that formed during freezing rupture the cell walls of the meat, and all that moisture comes flooding out on the grill. That’s why frozen patties tend to shrink more and can end up drier if overcooked.
 
@@ -143,15 +135,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Inside the most physically demanding role at Taco Bell: the Linebacker who restocks the makeline mid...
 
-
-
 ](/articles/taco-bell-linebacker-role/)[
 
 ### What Does the Krispy Kreme Hot Light Actually Mean?
 
 When the Krispy Kreme Hot Light turns on, doughnuts are rolling off a 25-foot automated production l...
-
-
 
 ](/articles/krispy-kreme-hot-light/)[
 
@@ -159,15 +147,11 @@ When the Krispy Kreme Hot Light turns on, doughnuts are rolling off a 25-foot au
 
 Ever wonder why Jack in the Box tacos look fried shut? Learn the weird frozen-to-fryer process, the ...
 
-
-
 ](/articles/jack-in-the-box-tacos-made/)[
 
 ### Do Domino's Delivery Drivers Pay For Their Own Gas?
 
 Domino's mileage reimbursement varies wildly by franchise. Here's the per-mile vs per-delivery break...
-
-
 
 ](/articles/dominos-gas/)
 

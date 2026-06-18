@@ -27,12 +27,6 @@ I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to h
 
 ## How the Conveyor Steamer Actually Works
 
-![Blueprint illustration of How the Conveyor Steamer Actually Works](/images/firehouse-subs-steaming-process/firehouse-subs-steaming-process-how-the-conveyor-steamer-actua.png)
-
-
-
-![Flat vector illustration of a Firehouse Subs conveyor steamer machine with a sub sandwich riding through on a tray, steam visible rising from the chamber](/images/firehouse-subs-steaming-process/conveyor-steamer.webp)
-
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It’s not a modified oven, not a repurposed bakery proofer — it’s specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
 
 Here’s the sequence: after the sandwich artist lays out the sliced meats and cheese on the open sub roll, the meat and cheese portion gets placed onto a small tray or directly onto the conveyor belt. The belt carries it through a steam chamber that runs at approximately 200°F. The ride takes roughly 30 to 45 seconds, depending on the location’s specific machine calibration and how heavily the sub is loaded.
@@ -56,10 +50,6 @@ Some locations will lightly warm the bread in a separate low-heat unit, but the 
 
 ## Why Steam Instead of Toasting? The Science Behind the Choice
 
-![Blueprint illustration of Why Steam Instead of Toasting? The Science Behind the Choice](/images/firehouse-subs-steaming-process/firehouse-subs-steaming-process-why-steam-instead-of-toasting-.png)
-
-
-
 The decision to steam instead of toast isn’t arbitrary. It solves specific problems that every sub shop deals with when heating sandwiches.
 
 **The cheese problem.** When you toast a sub in a conveyor toaster oven — the way Subway does — you’re hitting it with dry heat at 400°F or higher. At that temperature, the bread toasts quickly, but the cheese doesn’t always melt evenly. The edges of the cheese closest to the heat source can start to brown and bubble while the center is still cool. You end up with a sub where some bites have fully melted cheese and others have a cold, semi-solid slab. Steam eliminates this because it heats from all sides simultaneously at a uniform temperature.
@@ -69,8 +59,6 @@ The decision to steam instead of toast isn’t arbitrary. It solves specific pro
 **The meat problem.** Deli meats are pre-cooked and sliced thin. They don’t need to be cooked — they just need to be warmed. But dry heat at high temperatures can actually start to re-cook the edges of thin deli meats, making them stiff and slightly tough. Steam warms them gently without changing their texture. The turkey still tastes like turkey. The ham doesn’t develop dried-out edges. The roast beef stays tender.
 
 ## Firehouse vs. Subway vs. Jersey Mike’s: Three Approaches to Heating a Sub
-
-![Flat vector comparison diagram showing three sub heating methods side by side: Firehouse Subs steam chamber, Subway toaster oven, and Jersey Mike's flat-top grill, with pros and cons listed under each](/images/firehouse-subs-steaming-process/heating-comparison.webp)
 
 If you eat regularly at sub shops, you’ve probably noticed that Firehouse, Subway, and Jersey Mike’s all produce fundamentally different hot subs. That’s because they’re using three completely different heating methods.
 
@@ -180,15 +168,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 A veteran's system for quickly memorizing Taco Bell's massive menu using base builds, color-coded sc...
 
-
-
 ](/articles/taco-bell-menu/)[
 
 ### How to Make the Perfect Dairy Queen Cone Curl
 
 Mastering the signature Dairy Queen curl is the hardest skill for new employees. Learn the exact tie...
-
-
 
 ](/articles/dairy-queen-perfect-cone-curl/)[
 
@@ -196,15 +180,11 @@ Mastering the signature Dairy Queen curl is the hardest skill for new employees.
 
 Everything you need to know to pass the strict Chipotle Grill Validation test, from cut sizes to tem...
 
-
-
 ](/articles/chipotle-grill-validation/)[
 
 ### Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)
 
 The science behind Dairy Queen's famous Blizzard flip, how overrun and blending technique prevent di...
-
-
 
 ](/articles/dairy-queen-blizzard-flip/)
 

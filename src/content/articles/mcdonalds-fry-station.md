@@ -27,12 +27,6 @@ Here’s the full picture — from potato field to the cardboard sleeve in your 
 
 ## What Happens Before the Fries Reach the Restaurant
 
-![Blueprint illustration of What Happens Before the Fries Reach the Restaurant](/images/mcdonalds-fry-station/mcdonalds-fry-station-what-happens-before-the-fries-.png)
-
-
-
-![McDonald's fry station showing fryer baskets, salt dispensing tray, and holding bin with heat lamp](/images/mcdonalds-fry-station/fry-station-layout.webp)
-
 Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do.
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. The potatoes are sourced from farms across the Pacific Northwest, the Midwest, and parts of Canada.
@@ -63,10 +57,6 @@ After par-frying, the fries are flash-frozen and packaged into cases. They’re 
 
 ## The In-Store Fry Station
 
-![Blueprint illustration of The In-Store Fry Station](/images/mcdonalds-fry-station/mcdonalds-fry-station-the-in-store-fry-station.png)
-
-
-
 The fry station at McDonald’s is one of the most heavily used positions in the restaurant. During peak hours — lunch rush, dinner rush, late-night drive-thru — the fry person is running continuously with almost no downtime.
 
 The station layout is standardized across locations. You have:
@@ -95,8 +85,6 @@ Here’s how a batch of fries goes from freezer to customer, step by step:
 **Step 7: Holding timer starts.** Any fries that aren’t immediately served go into the holding bin. A timer is set — standard holding time is 7 minutes. After 7 minutes, the fries are supposed to be discarded. In practice, during slow periods, this rule sometimes gets stretched, and that’s a big part of why fries taste different depending on when you order.
 
 ## Why McDonald’s Fries Taste Different at Different Locations
-
-![Factory-to-restaurant fry pipeline: potato, cut, blanch, par-fry, freeze, ship, final fry, salt](/images/mcdonalds-fry-station/fry-pipeline.webp)
 
 This is one of the most common complaints I hear, and it has a real answer. The factory process is identical everywhere — same potatoes, same blanching, same dextrose, same par-fry. So the fries arrive at every McDonald’s in the same condition. The difference is entirely in-store execution.
 
@@ -170,15 +158,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and r...
 
-
-
 ](/articles/arbys-meat-slicer/)[
 
 ### KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?
 
 The real difference between KFC Original Recipe and Extra Crispy isn't seasoning—it's completely dif...
-
-
 
 ](/articles/kfc-original-vs-extra-crispy/)[
 
@@ -186,15 +170,11 @@ The real difference between KFC Original Recipe and Extra Crispy isn't seasoning
 
 The BK flame broiler is a conveyor belt of fire � patties ride through open gas flames and come out ...
 
-
-
 ](/articles/burger-king-broiler/)[
 
 ### The Bizarre Way Jack in the Box Tacos Are Made
 
 Ever wonder why Jack in the Box tacos look fried shut? Learn the weird frozen-to-fryer process, the ...
-
-
 
 ](/articles/jack-in-the-box-tacos-made/)
 

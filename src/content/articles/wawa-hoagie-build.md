@@ -25,12 +25,6 @@ I’ve worked in operations where verbal orders caused constant rework. Wrong ch
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-![Blueprint illustration of The Touchscreen Kiosk: Where Every Hoagie Starts](/images/wawa-hoagie-build/wawa-hoagie-build-the-touchscreen-kiosk-where-ev.png)
-
-
-
-![Wawa touchscreen ordering kiosk displaying a hoagie builder interface with bread, meat, and topping options](/images/wawa-hoagie-build/touchscreen-kiosk.webp)
-
 Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here.
 
 The hoagie builder interface walks you through every decision in sequence:
@@ -56,10 +50,6 @@ There’s another benefit that doesn’t get talked about enough: shy customers.
 From a throughput perspective, it’s also faster. Multiple customers can build orders simultaneously on separate kiosks while the deli team works the queue. A traditional deli counter is bottlenecked by one-at-a-time ordering. Wawa can have six customers building hoagies at once while three deli associates work the assembly line. That’s how they push volume during the lunch rush without the line snaking around the store.
 
 ## Behind the Deli Counter: How the Build Actually Happens
-
-![Blueprint illustration of Behind the Deli Counter: How the Build Actually Happens](/images/wawa-hoagie-build/wawa-hoagie-build-behind-the-deli-counter-how-th.png)
-
-
 
 When your order hits the deli station, it prints on a small thermal ticket — the same kind of ticket printer you’d see in any restaurant kitchen. The ticket lists everything: bread type, size, protein, cheese, toppings, sauces, and any special instructions. Each ticket gets clipped to a rail or placed in the queue.
 
@@ -104,8 +94,6 @@ The finished hoagie gets wrapped in Wawa’s branded deli paper and then into a 
 The entire build process from ticket to shelf takes around two to three minutes for a cold hoagie and maybe four minutes for a hot one. During peak lunch hours (11 a.m. to 1 p.m.), a well-staffed Wawa deli can push out 80 to 100 hoagies per hour.
 
 ## Shorti vs. Classic: The Sizing Breakdown
-
-![Wawa hoagie process flow from touchscreen order to wrapped and bagged](/images/wawa-hoagie-build/hoagie-flow.webp)
 
 Wawa offers two main sizes for most hoagies:
 
@@ -188,15 +176,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 The Frosty machine boil-out is a multi-hour process involving drain, chemical flush, reassembly, and...
 
-
-
 ](/articles/wendys-frosty-machine-boil-out/)[
 
 ### What is the Panera Bread "Consolidator" Role?
 
 Inside the most demanding role at Panera Bread: the Consolidator who acts as air traffic control for...
-
-
 
 ](/articles/panera-bread-consolidator-role/)[
 
@@ -204,15 +188,11 @@ Inside the most demanding role at Panera Bread: the Consolidator who acts as air
 
 Wendy's square patties would shrink into circles without the 4-Corner Press technique. Here's how gr...
 
-
-
 ](/articles/wendys-4-corner-press/)[
 
 ### How Does the Pizza Hut Dispatch System Work?
 
 A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating t...
-
-
 
 ](/articles/pizza-hut-dispatch/)
 

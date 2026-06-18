@@ -27,11 +27,7 @@ I’ve spent a decade in QSR kitchens, and the White Castle method remains one o
 
 ## The Grill and the Onion Bed
 
-![Blueprint illustration of The Grill and the Onion Bed](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.png)
-
-
-
-![Cross-section of a White Castle grill showing onion bed, patties with holes, steam rising, and buns on top](/images/white-castle-slider-steam-grill/cross-section-grill.webp)
+![Blueprint illustration of The Grill and the Onion Bed](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.webp)
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you’d find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn’t searing their patties. They’re steaming them.
 
@@ -58,9 +54,7 @@ So White Castle kept using them. What started as a wartime substitution became a
 
 ## The Five-Hole Patty
 
-![Blueprint illustration of The Five-Hole Patty](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-five-hole-patty.png)
-
-
+![Blueprint illustration of The Five-Hole Patty](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-five-hole-patty.webp)
 
 This is the most visually distinctive feature of a White Castle slider, and it’s also the most functionally important part of the entire cooking process.
 
@@ -97,8 +91,6 @@ The steam does several things at once:
 The steam cook takes roughly 4 to 5 minutes for a batch of sliders. Kitchen staff monitor the process visually — when the patties have changed color from pink to gray-brown throughout and the onions are soft and fragrant, the batch is approaching done.
 
 ## Buns on Top — The Final Step
-
-![Process diagram showing 4 steps: onion bed, patties placed, water added with steam, buns placed on top](/images/white-castle-slider-steam-grill/process-diagram.webp)
 
 Here’s the step that completes the White Castle system and makes it genuinely efficient: the buns go on top of the patties while they’re still on the grill.
 
@@ -214,15 +206,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Inside the Sonic switchboard: how one employee manages 30 drive-in stalls, juggles Happy Hour chaos,...
 
-
-
 ](/articles/sonic-switchboard-how-it-works/)[
 
 ### What Happens to Leftover Panda Express Food at Closing?
 
 Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, ...
-
-
 
 ](/articles/panda-express-leftover-food/)[
 
@@ -230,15 +218,11 @@ Ever wonder what happens to all that leftover Orange Chicken at closing? Learn a
 
 The real process behind McDonald's Chicken McNuggets — from whole chicken breast to the 4 signature ...
 
-
-
 ](/articles/mcdonalds-nugget-process/)[
 
 ### How Does the Arby's Slicer Work (And Is the Meat Real)?
 
 Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and r...
-
-
 
 ](/articles/arbys-meat-slicer/)
 

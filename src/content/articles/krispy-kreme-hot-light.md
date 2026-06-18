@@ -27,12 +27,6 @@ I want to walk you through exactly what’s happening behind the scenes when tha
 
 ## The Production Line: A Factory Inside a Restaurant
 
-![Blueprint illustration of The Production Line: A Factory Inside a Restaurant](/images/krispy-kreme-hot-light/krispy-kreme-hot-light-the-production-line-a-factory-.png)
-
-
-
-![The Krispy Kreme production line showing doughnuts floating through a fryer river and passing under a glaze waterfall](/images/krispy-kreme-hot-light/production-line-fryer-glaze.webp)
-
 Most Krispy Kreme locations with a Hot Light have the production line visible to customers through a large window. This is intentional—watching doughnuts being made is part of the brand experience, and the visible production line serves as a constant advertisement. But what you’re seeing through that glass is genuinely impressive from an engineering standpoint. Here’s the step-by-step process:
 
 ### Step 1: The Dough Mix
@@ -77,10 +71,6 @@ When a doughnut emerges from under the glaze curtain, it’s glistening, wet, wa
 
 ## Why Hot Doughnuts Taste Dramatically Different
 
-![Blueprint illustration of Why Hot Doughnuts Taste Dramatically Different](/images/krispy-kreme-hot-light/krispy-kreme-hot-light-why-hot-doughnuts-taste-dramat.png)
-
-
-
 If you’ve only ever eaten a room-temperature Krispy Kreme Original Glazed from a grocery store display or a gas station box, you’ve genuinely never experienced what the product is designed to taste like. The difference between a hot and a room-temperature Krispy Kreme isn’t subtle. It’s a different food.
 
 Here’s what changes as the doughnut cools:
@@ -94,8 +84,6 @@ Here’s what changes as the doughnut cools:
 The net effect is that a hot Krispy Kreme is a light, warm, sweet, melt-in-your-mouth experience, while a room-temperature Krispy Kreme is a decent but unremarkable glazed doughnut. The product is literally engineered to be consumed hot, and the Hot Light is the signal that says the product is in its optimal state.
 
 ## The Glaze Crystallization Process
-
-![The iconic Krispy Kreme HOT NOW neon sign glowing red](/images/krispy-kreme-hot-light/hot-now-neon-sign.webp)
 
 It’s worth understanding the crystallization process in a bit more detail because it explains the shelf-life behavior of these doughnuts.
 
@@ -192,15 +180,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 The Hardee's Biscuit Maker starts at 4 AM, makes biscuits from scratch by hand, and any batch older ...
 
-
-
 ](/articles/hardees-biscuit-maker-shift/)[
 
 ### How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)
 
 Wendy's chili is made from leftover hamburger patties that sat on the grill too long to serve. They ...
-
-
 
 ](/articles/wendys-chili-leftover-hamburgers/)[
 
@@ -208,15 +192,11 @@ Wendy's chili is made from leftover hamburger patties that sat on the grill too 
 
 Inside the Sonic switchboard: how one employee manages 30 drive-in stalls, juggles Happy Hour chaos,...
 
-
-
 ](/articles/sonic-switchboard-how-it-works/)[
 
 ### How Does the Arby's Slicer Work (And Is the Meat Real)?
 
 Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and r...
-
-
 
 ](/articles/arbys-meat-slicer/)
 

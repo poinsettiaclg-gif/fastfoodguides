@@ -27,12 +27,6 @@ Let me walk through the entire process, because the ButterBurger is more than ju
 
 ## The Buttered Crown: What’s Actually Happening
 
-![Blueprint illustration of The Buttered Crown: What’s Actually Happening](/images/culvers-butterburger/culvers-butterburger-the-buttered-crown-what-s-actu.png)
-
-
-
-![A Culver's cook toasting a buttered bun on the flat-top grill next to a cooking patty](/images/culvers-butterburger/buttered-bun-on-flattop.webp)
-
 When a ButterBurger order comes in, here’s the sequence at the grill station:
 
 1.  The cook takes a standard hamburger bun and separates the crown (the top) from the heel (the bottom).
@@ -59,10 +53,6 @@ That third point is the practical reason this matters for a burger. A toasted, b
 
 ## The Patty: Fresh Beef, Pressed on the Flat-Top
 
-![Blueprint illustration of The Patty: Fresh Beef, Pressed on the Flat-Top](/images/culvers-butterburger/culvers-butterburger-the-patty-fresh-beef-pressed-o.png)
-
-
-
 The bun gets the name recognition, but the ButterBurger patty is doing serious work on its own. Culver’s uses fresh, never frozen beef for their burgers. The patties are pressed and cooked on a flat-top griddle—not broiled, not grilled, not microwaved—in a process that has more in common with Shake Shack’s approach than with most national fast-food chains. For a deep dive on the smash technique at Shake Shack and how flat-top cooking creates that signature crust, check out [the Shake Shack smash burger breakdown](/articles/shake-shack-smash-burger).
 
 The beef arrives at each Culver’s location in fresh, refrigerated form. Crew members portion the beef and press patties in-house. The patties are cooked to order—when you order a ButterBurger, that patty starts cooking when your order comes in, not before. This is a critical difference from the pre-cooked, heat-lamp burger model that most major fast-food chains use.
@@ -80,8 +70,6 @@ If you bite into a ButterBurger expecting the flavor to be overwhelmingly butter
 Craig Culver, the founder, has spoken about this publicly. The name came from the family tradition of buttering the bun before toasting it—something his family did at home and then brought to the restaurant. It wasn’t designed as a gimmick or a marketing hook. It was just how they made burgers, and the name described what they did. The fact that it sounds more indulgent than the reality has probably helped from a marketing perspective, but the technique itself is genuinely modest.
 
 ## The Midwest Cult Following
-
-![Exploded-view diagram of a ButterBurger showing the buttered toasted crown, lettuce, tomato, pickles, patty, and bun](/images/culvers-butterburger/butterburger-exploded-view.webp)
 
 If you live in Wisconsin, Minnesota, Iowa, Illinois, or Michigan, trying to explain Culver’s to someone from the coasts feels like trying to explain a local holiday tradition. The loyalty runs deep, and it’s not performative social media loyalty—it’s “I’ve been eating here every Friday night with my family since 1990” loyalty.
 
@@ -165,15 +153,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 The Frosty machine boil-out is a multi-hour process involving drain, chemical flush, reassembly, and...
 
-
-
 ](/articles/wendys-frosty-machine-boil-out/)[
 
 ### KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?
 
 The real difference between KFC Original Recipe and Extra Crispy isn't seasoning—it's completely dif...
-
-
 
 ](/articles/kfc-original-vs-extra-crispy/)[
 
@@ -181,15 +165,11 @@ The real difference between KFC Original Recipe and Extra Crispy isn't seasoning
 
 Popeyes chicken takes 25+ minutes to cook in pressure fryers, and when a rush hits, there's no way t...
 
-
-
 ](/articles/popeyes-slow-kitchen/)[
 
 ### What Does a "Bird Specialist" Actually Do at Raising Cane's?
 
 Everything you need to know about the Raising Cane's Bird Specialist role — the 24-hour marinade, 6-...
-
-
 
 ](/articles/raising-canes-bird-specialist/)
 

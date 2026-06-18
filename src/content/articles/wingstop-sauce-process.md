@@ -25,11 +25,7 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 ## The Plain Fry — Everything Starts Bare
 
-![Blueprint illustration of The Plain Fry — Everything Starts Bare](/images/wingstop-sauce-process/wingstop-sauce-process-the-plain-fry-everything-start.png)
-
-
-
-![Wingstop employee tossing fried wings in a large metal bowl with sauce](/images/wingstop-sauce-process/toss-and-coat.webp)
+![Blueprint illustration of The Plain Fry — Everything Starts Bare](/images/wingstop-sauce-process/wingstop-sauce-process-the-plain-fry-everything-start.webp)
 
 This is the part that surprises most customers when they learn about it. Wingstop wings are not marinated. They’re not brined overnight. They’re not pre-seasoned before frying. The raw wings are simply breaded with a seasoned flour dredge and dropped into the fryer plain.
 
@@ -47,9 +43,7 @@ More importantly, saucing to order means the wings are always freshly coated. Th
 
 ## The Toss-and-Coat Technique
 
-![Blueprint illustration of The Toss-and-Coat Technique](/images/wingstop-sauce-process/wingstop-sauce-process-the-toss-and-coat-technique.png)
-
-
+![Blueprint illustration of The Toss-and-Coat Technique](/images/wingstop-sauce-process/wingstop-sauce-process-the-toss-and-coat-technique.webp)
 
 This is the heart of Wingstop’s operation and the step that every new team member has to master before they can work the saucing station.
 
@@ -95,8 +89,6 @@ The reason dry rubs work on fried wings at all is the residual surface oil from 
 This is also why the drain time after frying can’t be too long for dry rub orders. You need that residual oil. Too much drainage and the surface dries out, and the rub won’t adhere.
 
 ## Lemon Pepper — The King of Dry Rubs
-
-![Comparison chart showing wet sauce vs dry rub application methods](/images/wingstop-sauce-process/wet-vs-dry-comparison.webp)
 
 If there’s one flavor that defines Wingstop, it’s Lemon Pepper. This dry rub has a cult following, particularly in Atlanta where Lemon Pepper Wet (a combination of lemon pepper rub with a wet sauce, typically mild or garlic parm) has its own cultural status.
 
@@ -194,15 +186,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Wendy's closing shift starts with pre-close at 9 PM and ends with a final walkthrough. Here's the co...
 
-
-
 ](/articles/wendys-closing-duties/)[
 
 ### Does Five Guys Really Not Have Any Freezers?
 
 Five Guys has no freezers in any location. Everything is stored in walk-in coolers and prepped fresh...
-
-
 
 ](/articles/five-guys-no-freezers/)[
 
@@ -210,15 +198,11 @@ Five Guys has no freezers in any location. Everything is stored in walk-in coole
 
 Culver's puts the butter on the bun, not the patty. That one detail changes everything about how the...
 
-
-
 ](/articles/culvers-butterburger/)[
 
 ### Why Does Chick-fil-A Have Employees Standing Outside With Tablets?
 
 An insider look at Chick-fil-A's iPad-based drive-thru ordering system, how it cuts wait times by up...
-
-
 
 ](/articles/chick-fil-a-drive-thru-tablets/)
 

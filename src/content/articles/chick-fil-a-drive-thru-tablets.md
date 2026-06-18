@@ -27,12 +27,6 @@ I’ve talked with plenty of Chick-fil-A operators and team members about this s
 
 ## The iPOS System: What Those Tablets Actually Are
 
-![Blueprint illustration of The iPOS System: What Those Tablets Actually Are](/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-the-ipos-system-what-those-tab.png)
-
-
-
-![Chick-fil-A drive-thru lane with team members holding tablets approaching cars in queue](/images/chick-fil-a-drive-thru-tablets/drive-thru-tablets.webp)
-
 The tablets Chick-fil-A team members carry outside are part of what’s internally called the iPOS system — iPad Point of Sale. They’re iPads loaded with a proprietary Chick-fil-A ordering application that connects directly to the restaurant’s POS and kitchen display system (KDS) over the store’s Wi-Fi network.
 
 Each tablet runs the full menu with modification capabilities. Team members can ring up any item, apply customizations (no pickles, extra sauce, substitute a side), process payment via card or mobile app, and send the completed order to the kitchen — all from the parking lot.
@@ -42,10 +36,6 @@ The tablets aren’t consumer-grade iPads in flimsy cases. They’re housed in r
 The software is specifically designed for outdoor use. Large buttons, high-contrast display elements, and a simplified interface that minimizes the number of taps needed to complete a standard order. A team member can take a typical order — say, a Chick-fil-A Sandwich meal with a lemonade — in about 20 to 30 seconds, including payment processing.
 
 ## Why It Reduces Drive-Thru Times by 30-50%
-
-![Blueprint illustration of Why It Reduces Drive-Thru Times by 30-50%](/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-why-it-reduces-drive-thru-time.png)
-
-
 
 The math behind face-to-face ordering is straightforward, and it explains why Chick-fil-A invested so heavily in this approach.
 
@@ -86,8 +76,6 @@ Chick-fil-A has invested in gear and infrastructure to mitigate this:
 Despite these accommodations, the outdoor position is widely considered one of the most physically demanding roles at Chick-fil-A. During summer months in the southern U.S., team members report significant fatigue from heat exposure, even with cooling vests and rotations. The asphalt radiates heat upward while the sun beats down, and the iPads themselves generate heat that adds to the discomfort.
 
 ## How Orders Flow From Tablet to Kitchen to Window
-
-![Data flow diagram from tablet order to kitchen display to food assembly to window handoff](/images/chick-fil-a-drive-thru-tablets/order-data-flow.webp)
 
 Understanding the full data flow explains why the system is so efficient:
 
@@ -155,15 +143,11 @@ Russell Roseberry spent over a decade managing kitchens at major fast food chain
 
 Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minute clock marking sys...
 
-
-
 ](/articles/little-caesars-hot-n-ready-system/)[
 
 ### How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)
 
 Wendy's chili is made from leftover hamburger patties that sat on the grill too long to serve. They ...
-
-
 
 ](/articles/wendys-chili-leftover-hamburgers/)[
 
@@ -171,15 +155,11 @@ Wendy's chili is made from leftover hamburger patties that sat on the grill too 
 
 A Subway cashier's survival guide to the 3-Step Core Ring, the Meal Deal trap, and ringing up chaoti...
 
-
-
 ](/articles/subway-pos-out-of-order/)[
 
 ### What is the Wendy's Double-Sided "Clamshell" Grill?
 
 The Wendy's clamshell grill cooks both sides of the patty at once with Auto-Gap technology. Here's t...
-
-
 
 ](/articles/wendys-clamshell-grill/)
 
