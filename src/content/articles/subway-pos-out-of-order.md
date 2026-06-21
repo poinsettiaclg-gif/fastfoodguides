@@ -3,7 +3,7 @@ title: "How to Master the Subway POS When a Customer Orders Out of Order"
 description: "A Subway cashier's survival guide to the 3-Step Core Ring, the Meal Deal trap, and ringing up chaotic orders without overcharging anyone."
 pubDate: "2026-05-02"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
 relatedArticles:
   - "subway-bread-baking-process"
@@ -11,9 +11,7 @@ relatedArticles:
   - "subway-wrap-folding"
 ---
 
-# How to Master the Subway POS When a Customer Orders Out of Order
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 2, 2026*
 
 The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end.
 

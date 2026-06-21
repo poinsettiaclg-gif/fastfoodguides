@@ -3,7 +3,7 @@ title: "How to Survive the Starbucks Morning Rush on the Hot Espresso Bar"
 description: "Master the Starbucks Beverage Routine and hot bar sequencing to survive Peak. Pump counts, shot timing, and station management tips."
 pubDate: "2026-04-27"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
@@ -11,9 +11,6 @@ relatedArticles:
   - "starbucks-pull-to-thaw"
 ---
 
-# How to Survive the Starbucks Morning Rush on the Hot Espresso Bar
-
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 27, 2026*
 
 The Starbucks morning rush—internally called "Peak"—is one of the most intense experiences in the entire QSR industry. Between 7:00 AM and 9:00 AM, hundreds of customers, a relentless stream of mobile orders, and a packed drive-thru line converge on the store simultaneously. If your Shift Supervisor puts you on the Hot Espresso Bar during Peak, it means two things: they trust your skills, and you're about to endure two hours of the most focused, high-speed beverage crafting you've ever done. I've trained dozens of baristas through their first Peak shifts, and the difference between drowning and thriving comes down to a handful of specific habits. Here's every one of them.
 
@@ -93,4 +90,3 @@ Immediately call it out to your Shift Supervisor. They'll either swap you to the
 
 If a customer says their drink is wrong, apologize sincerely, write a remake sticker, and slot it into your queue. Do not stop everything to remake it immediately unless your Shift Supervisor specifically tells you to. Disrupting your flow for one remake can cascade into delays on ten other drinks. The customer will get their corrected drink within a couple of minutes, which is faster than it feels.
 
----

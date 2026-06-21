@@ -5,6 +5,10 @@ pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Raising Cane's"
+relatedArticles:
+  - "raising-canes-bird-specialist"
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
 ---
 
 Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day.

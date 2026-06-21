@@ -3,7 +3,7 @@ title: "How is Wendy's Chili Actually Made? (The Truth About the Leftover Hambur
 description: "Former kitchen manager reveals exactly how Wendy's turns leftover grill patties into their famous chili, including the chopping, freezing, and simmering process."
 pubDate: "2026-05-11"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
 relatedArticles:
   - "wendys-4-corner-press"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-closing-duties"
 ---
 
-# How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 11, 2026*
 
 If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make it out of old, leftover hamburgers." If you're a new hire at Wendy's, you'll learn on your very first shift that this internet rumor is 100% true. But before you recoil in horror, let me tell you something from a decade of kitchen management—this is not a dirty secret. It's not a health code violation. It's actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are more rigorous than most people realize.
 

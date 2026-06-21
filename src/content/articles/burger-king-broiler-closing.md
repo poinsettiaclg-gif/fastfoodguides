@@ -3,7 +3,7 @@ title: "How Hard Is It to Clean the Burger King Broiler at Closing?"
 description: "A brutally honest walkthrough of the most dreaded closing task in fast food—breaking down, scrubbing, and reassembling the 600-degree Burger King broiler."
 pubDate: "2026-03-02"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Burger King"
 relatedArticles:
   - "burger-king-broiler"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-closing-duties"
 ---
 
-# How Hard Is It to Clean the Burger King Broiler at Closing?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 2, 2026*
 
 Every fast food restaurant has a closing task that nobody wants. At Wendy's, it is the Frosty machine. At Domino's, it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night.
 

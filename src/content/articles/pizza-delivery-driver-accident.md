@@ -3,7 +3,7 @@ title: "What Happens if a Pizza Delivery Driver Gets in an Accident?"
 description: "The ugly truth about pizza delivery auto insurance gaps, what your personal policy won't cover, and exactly what to do if you crash on the clock."
 pubDate: "2026-04-17"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Multi-Chain"
 relatedArticles:
   - "pizza-hut-dispatch"
@@ -11,9 +11,7 @@ relatedArticles:
   - "dominos-20-bank-rule"
 ---
 
-# What Happens if a Pizza Delivery Driver Gets in an Accident?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 17, 2026*
 
 I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag.
 

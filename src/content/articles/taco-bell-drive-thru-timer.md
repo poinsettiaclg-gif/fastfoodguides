@@ -3,7 +3,7 @@ title: "How Does the Taco Bell Drive-Thru Timer Actually Work?"
 description: "An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors under the asphalt, the 50-second goal, and how crews hack the clock."
 pubDate: "2026-05-05"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
 relatedArticles:
   - "taco-bell-linebacker-role"
@@ -11,9 +11,7 @@ relatedArticles:
   - "taco-bell-rehydrate-beans"
 ---
 
-# How Does the Taco Bell Drive-Thru Timer Actually Work?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 5, 2026*
 
 When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster.
 

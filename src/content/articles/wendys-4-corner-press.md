@@ -3,7 +3,7 @@ title: "What is the Wendy's \"4-Corner Press\" Technique?"
 description: "Former grill manager explains the 4-Corner Press technique Wendy's uses to keep fresh square patties from shrinking, with timing windows and common mistakes."
 pubDate: "2026-05-10"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
 relatedArticles:
   - "wendys-clamshell-grill"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-closing-duties"
 ---
 
-# What is the Wendy's "4-Corner Press" Technique?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 10, 2026*
 
 Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But here's what most customers don't realize—cooking a fresh, square patty is fundamentally different from cooking a frozen round one, and getting it right requires a specific technique that every single Grill Cook at Wendy's has to master before they're trusted on the line during a rush.
 

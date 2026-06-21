@@ -3,7 +3,7 @@ title: "How Does Taco Bell Rehydrate Their Beans?"
 description: "Former QSR manager reveals how Taco Bell transforms dehydrated bean pellets into creamy refried beans, including the water ratio secrets most training skips."
 pubDate: "2026-05-09"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
 relatedArticles:
   - "taco-bell-drive-thru-timer"
@@ -11,9 +11,7 @@ relatedArticles:
   - "taco-bell-menu"
 ---
 
-# How Does Taco Bell Rehydrate Their Beans?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 9, 2026*
 
 Every single day, Taco Bell serves thousands of pounds of refried beans across its roughly 8,000 locations. If you picture someone in the back kitchen soaking raw pinto beans overnight and mashing them by hand with a potato masher, I need you to let that image go right now. The reality is one of the most brilliantly engineered food science shortcuts in the entire QSR industry—and if you're working the prep shift, you're going to become intimately familiar with it.
 

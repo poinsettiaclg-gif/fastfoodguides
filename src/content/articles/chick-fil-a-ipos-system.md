@@ -3,7 +3,7 @@ title: "How the Chick-fil-A iPOS Drive-Thru System Works"
 description: "Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per hour through a single drive-thru lane while competitors struggle with 60."
 pubDate: "2026-03-07"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
 relatedArticles:
   - "chick-fil-a-core-4"
@@ -11,9 +11,7 @@ relatedArticles:
   - "sonic-switchboard-how-it-works"
 ---
 
-# How the Chick-fil-A "iPOS" Drive-Thru System Works
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 7, 2026*
 
 If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a McDonald's or Taco Bell. The reason is a system called iPOS—Internet Point of Sale—and it is one of the most brilliantly engineered operational innovations in the entire fast food industry. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it.
 

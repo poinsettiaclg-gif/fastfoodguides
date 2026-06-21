@@ -59,6 +59,10 @@ const chainEmojis: Record<string, string> = {
 function getChainEmoji(chainName: string): string {
 	return chainEmojis[chainName] || '🍽️';
 }
+
+function slugifyChain(chain: string): string {
+	return chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
 ---
 
 <!doctype html>
@@ -102,12 +106,12 @@ function getChainEmoji(chainName: string): string {
 
 					<div class="hero-stats" role="list" aria-label="Site statistics">
 						<div class="stat" role="listitem">
-							<span class="stat-number">80+</span>
+							<span class="stat-number">{posts.length}+</span>
 							<span class="stat-label">Guides</span>
 						</div>
 						<div class="stat-divider" aria-hidden="true"></div>
 						<div class="stat" role="listitem">
-							<span class="stat-number">40</span>
+							<span class="stat-number">{chains.length}</span>
 							<span class="stat-label">Chains</span>
 						</div>
 						<div class="stat-divider" aria-hidden="true"></div>
@@ -185,7 +189,7 @@ function getChainEmoji(chainName: string): string {
 					<div class="chains-grid">
 						{
 							chains.map(({ name, count }) => (
-								<a href="/articles" class="chain-card">
+								<a href={`/articles/chain/${slugifyChain(name)}/`} class="chain-card">
 									<span class="chain-card-emoji" aria-hidden="true">
 										{getChainEmoji(name)}
 									</span>

@@ -3,7 +3,7 @@ title: "What Happens When the McDonald's POS System Crashes?"
 description: "Find out what really happens inside a McDonald's when every register goes dark. The Crash Kit, paper orders, kitchen chaos, and the reconciliation nightmare."
 pubDate: "2026-04-08"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
 relatedArticles:
   - "mcdonalds-abs-system"
@@ -11,9 +11,7 @@ relatedArticles:
   - "burger-king-expeditor-role"
 ---
 
-# What Happens When the McDonald's POS System Crashes?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 8, 2026*
 
 McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't.
 

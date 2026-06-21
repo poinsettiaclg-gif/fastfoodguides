@@ -3,7 +3,7 @@ title: "The Bizarre Way Jack in the Box Tacos Are Made"
 description: "Ever wonder why Jack in the Box tacos look fried shut? Learn the weird frozen-to-fryer process, the pry-and-stuff technique, and late-night volume tips."
 pubDate: "2026-03-26"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Jack in the Box"
 relatedArticles:
   - "kfc-pressure-fryers"
@@ -11,9 +11,7 @@ relatedArticles:
   - "popeyes-chicken-battering-process"
 ---
 
-# The Bizarre Way Jack in the Box Tacos Are Made
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 26, 2026*
 
 The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question.
 

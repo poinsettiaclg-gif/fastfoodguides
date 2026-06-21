@@ -3,7 +3,7 @@ title: "What Is the Burger King Expeditor Role During a Rush?"
 description: "Inside the most critical position at Burger King—how the Expo station controls order accuracy, speed, and the flow of the entire kitchen during peak hours."
 pubDate: "2026-03-04"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Burger King"
 relatedArticles:
   - "burger-king-broiler"
@@ -11,9 +11,7 @@ relatedArticles:
   - "taco-bell-linebacker-role"
 ---
 
-# What Is the Burger King "Expeditor" Role During a Rush?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 4, 2026*
 
 During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and I can tell you that it is simultaneously the most stressful and most satisfying role in the entire building.
 

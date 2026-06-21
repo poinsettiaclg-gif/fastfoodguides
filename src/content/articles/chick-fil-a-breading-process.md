@@ -5,6 +5,10 @@ pubDate: "2026-06-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+relatedArticles:
+  - "chick-fil-a-lemonade"
+  - "chick-fil-a-ipos-system"
+  - "chick-fil-a-drive-thru-tablets"
 ---
 
 ## The Chicken Arrives Raw. Every Single Piece.

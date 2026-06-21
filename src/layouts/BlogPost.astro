@@ -1,19 +1,34 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import AuthorBylineTop from '../components/AuthorBylineTop.astro';
 import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
 
-type Props = CollectionEntry<'articles'>['data'];
+type Props = CollectionEntry<'articles'>['data'] & { slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, slug } = Astro.props;
+
+// Resolve related articles from slugs
+let resolvedRelated: CollectionEntry<'articles'>[] = [];
+if (relatedArticles && relatedArticles.length > 0) {
+	const allArticles = await getCollection('articles');
+	resolvedRelated = relatedArticles
+		.map(slug => allArticles.find(a => a.id === slug))
+		.filter(Boolean) as CollectionEntry<'articles'>[];
+}
+
+// Build breadcrumb path
+function slugifyChain(c: string): string {
+	return c.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} ogType="article" chain={chain} articlePath={Astro.url.pathname} />
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Article",
@@ -21,6 +36,8 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 			"description": description,
 			"datePublished": pubDate.toISOString(),
 			...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+			...(chain && { "articleSection": chain }),
+			"inLanguage": "en",
 			"author": {
 				"@type": "Person",
 				"name": author,
@@ -30,7 +47,11 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 			"publisher": {
 				"@type": "Organization",
 				"name": "Fast Food Guides",
-				"url": "https://fastfoodguides.com"
+				"url": "https://fastfoodguides.com",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://fastfoodguides.com/favicon.svg"
+				}
 			},
 			"mainEntityOfPage": {
 				"@type": "WebPage",
@@ -63,6 +84,32 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 				line-height: 1.8;
 			}
 
+			/* — Breadcrumb — */
+			.breadcrumb {
+				margin-bottom: 1.25rem;
+				font-size: 0.85rem;
+				color: #64748B;
+			}
+
+			.breadcrumb a {
+				color: #64748B;
+				text-decoration: none;
+				transition: color 0.2s ease;
+			}
+
+			.breadcrumb a:hover {
+				color: #10B981;
+			}
+
+			.breadcrumb .bc-sep {
+				margin: 0 0.4em;
+				opacity: 0.5;
+			}
+
+			.breadcrumb .bc-current {
+				color: #94A3B8;
+			}
+
 			/* — Title block — */
 			.article-header {
 				margin-bottom: 2rem;
@@ -83,6 +130,12 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 				border: 1px solid rgba(16, 185, 129, 0.3);
 				border-radius: 0.375rem;
 				line-height: 1.5;
+				text-decoration: none;
+				transition: background 0.2s ease;
+			}
+
+			.chain-badge:hover {
+				background: rgba(16, 185, 129, 0.2);
 			}
 
 			.article-header h1 {
@@ -211,6 +264,8 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 				width: 100%;
 				margin: 1.5em 0;
 				border-collapse: collapse;
+				display: block;
+				overflow-x: auto;
 			}
 
 			.prose :global(th) {
@@ -240,6 +295,60 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 				margin: 1.5em auto;
 				display: block;
 				border: 1px solid rgba(255, 255, 255, 0.08);
+				loading: lazy;
+				decoding: async;
+			}
+
+			/* — Related Articles — */
+			.related-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.related-section h2 {
+				font-size: 1.3rem;
+				font-weight: 700;
+				color: #F1F5F9;
+				margin: 0 0 1.25rem 0;
+			}
+
+			.related-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+				gap: 1rem;
+			}
+
+			.related-card {
+				display: block;
+				padding: 1rem;
+				background: rgba(255, 255, 255, 0.03);
+				border: 1px solid rgba(255, 255, 255, 0.06);
+				border-radius: 0.75rem;
+				text-decoration: none;
+				transition: border-color 0.2s ease, background 0.2s ease;
+			}
+
+			.related-card:hover {
+				border-color: rgba(16, 185, 129, 0.3);
+				background: rgba(16, 185, 129, 0.05);
+			}
+
+			.related-card .rc-chain {
+				display: inline-block;
+				font-size: 0.7rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				color: #10B981;
+				margin-bottom: 0.4rem;
+			}
+
+			.related-card .rc-title {
+				font-size: 0.9rem;
+				font-weight: 600;
+				color: #E2E8F0;
+				line-height: 1.35;
 			}
 
 			/* — Responsive — */
@@ -261,17 +370,35 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 					margin: 1.25em auto;
 					border-radius: 0.375rem;
 				}
+
+				.related-grid {
+					grid-template-columns: 1fr;
+				}
 			}
 		</style>
 	</head>
 
 	<body>
+		<a href="#main-content" class="sr-only" style="position:absolute;top:-40px;left:0;background:#10B981;color:#0a0f1c;padding:8px 16px;z-index:100;focus:top:0;">Skip to main content</a>
 		<Header />
-		<main>
+		<main id="main-content">
 			<article>
 				<div class="prose">
+					<!-- Breadcrumb Navigation -->
+					{chain && (
+						<nav class="breadcrumb" aria-label="Breadcrumb">
+							<a href="/">Home</a>
+							<span class="bc-sep" aria-hidden="true">›</span>
+							<a href="/articles/">Guides</a>
+							<span class="bc-sep" aria-hidden="true">›</span>
+							<a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a>
+							<span class="bc-sep" aria-hidden="true">›</span>
+							<span class="bc-current">{title}</span>
+						</nav>
+					)}
+
 					<header class="article-header">
-						{chain && <span class="chain-badge">{chain}</span>}
+						{chain && <a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>}
 						<h1>{title}</h1>
 						<AuthorBylineTop author={author} authorTitle={authorTitle} pubDate={pubDate} />
 						{
@@ -291,17 +418,25 @@ const { title, description, pubDate, updatedDate, heroImage, author, authorTitle
 
 					<slot />
 
+					<!-- Related Articles (auto-rendered from frontmatter) -->
+					{resolvedRelated.length > 0 && (
+						<section class="related-section">
+							<h2>More Insider Guides</h2>
+							<div class="related-grid">
+								{resolvedRelated.map(article => (
+									<a href={`/articles/${article.id}/`} class="related-card">
+										{article.data.chain && <span class="rc-chain">{article.data.chain}</span>}
+										<span class="rc-title">{article.data.title}</span>
+									</a>
+								))}
+							</div>
+						</section>
+					)}
+
 					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
 				</div>
 			</article>
 		</main>
 		<Footer />
-		<script>
-			// Add lazy loading to all article images for better Core Web Vitals
-			document.querySelectorAll('.prose img').forEach((img) => {
-				img.setAttribute('loading', 'lazy');
-				img.setAttribute('decoding', 'async');
-			});
-		</script>
 	</body>
 </html>

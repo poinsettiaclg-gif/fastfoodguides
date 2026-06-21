@@ -3,7 +3,7 @@ title: "How to Master the Starbucks Cold Bar and Frappuccino Sequence"
 description: "A barista's guide to surviving the Starbucks Cold Bar, mastering the Frappuccino build sequence, and understanding CBS vs. Hot Bar pumps."
 pubDate: "2026-04-24"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
 relatedArticles:
   - "starbucks-customer-support-cycle"
@@ -11,9 +11,6 @@ relatedArticles:
   - "starbucks-pull-to-thaw"
 ---
 
-# How to Master the Starbucks Cold Bar and Frappuccino Sequence
-
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 24, 2026*
 
 The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. Here's the exact sequencing routine you need to memorize and the operational details that corporate training breezes past.
 
@@ -91,4 +88,3 @@ You lose the ability to sequence and you're forced to make Frappuccinos one at a
 
 Most baristas need about two to four weeks of regular Cold Bar shifts before they feel confident in their sequencing and speed. The routine itself can be learned in a few days, but executing it at full speed during a packed summer rush without making mistakes requires repetition and muscle memory. Ask to train during slower mid-afternoon shifts before you attempt a peak Saturday.
 
----

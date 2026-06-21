@@ -3,7 +3,7 @@ title: "How Does the Arby's Slicer Work (And Is the Meat Real)?"
 description: "Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and real technique behind Arby's commercial deli slicer station."
 pubDate: "2026-03-01"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Arby's"
 relatedArticles:
   - "five-guys-no-freezers"
@@ -11,9 +11,7 @@ relatedArticles:
   - "kfc-original-vs-extra-crispy"
 ---
 
-# How Does the Arby's Slicer Work (And Is the Meat Real)?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 1, 2026*
 
 Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef went viral. The internet collectively decided the meat was fake—some kind of liquid paste poured into a mold. I was managing a QSR kitchen at the time, and I remember a cashier showing me the photo on her phone during a slow Tuesday afternoon. "Is this real?" she asked. The answer is more interesting than the conspiracy theory, and the job of actually running the slicer station is one of the most tightly regulated positions in any fast food restaurant.
 

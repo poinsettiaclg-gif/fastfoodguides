@@ -3,7 +3,7 @@ title: "The In-N-Out Level System Explained (Level 1 to Level 7)"
 description: "A complete breakdown of In-N-Out's strict 7-level promotion track, from Level 1 cleanup to Level 7 management, with pay details and insider tips."
 pubDate: "2026-03-23"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
 relatedArticles:
   - "in-n-out-board-station"
@@ -11,9 +11,7 @@ relatedArticles:
   - "chick-fil-a-ipos-system"
 ---
 
-# The In-N-Out Level System Explained (Level 1 to Level 7)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 23, 2026*
 
 In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food.
 

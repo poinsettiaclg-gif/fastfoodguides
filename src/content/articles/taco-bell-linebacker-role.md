@@ -3,7 +3,7 @@ title: "What Is the Taco Bell \"Linebacker\" Role?"
 description: "Inside the most physically demanding role at Taco Bell: the Linebacker who restocks the makeline mid-rush so the food builders never stop moving."
 pubDate: "2026-05-06"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
 relatedArticles:
   - "taco-bell-drive-thru-timer"
@@ -11,9 +11,7 @@ relatedArticles:
   - "taco-bell-rehydrate-beans"
 ---
 
-# What Is the Taco Bell "Linebacker" Role?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 6, 2026*
 
 During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker.
 

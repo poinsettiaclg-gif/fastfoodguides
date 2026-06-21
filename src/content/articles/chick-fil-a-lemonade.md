@@ -5,6 +5,10 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+relatedArticles:
+  - "chick-fil-a-breading-process"
+  - "chick-fil-a-ipos-system"
+  - "chick-fil-a-drive-thru-tablets"
 ---
 
 ## Yes, They Actually Squeeze Real Lemons

@@ -3,7 +3,7 @@ title: "Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spil
 description: "The science behind Dairy Queen's famous Blizzard flip, how overrun and blending technique prevent disaster, and what really happens when it splatters."
 pubDate: "2026-03-10"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Dairy Queen"
 relatedArticles:
   - "dairy-queen-perfect-cone-curl"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-frosty-machine-boil-out"
 ---
 
-# Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 10, 2026*
 
 It is the most famous parlor trick in all of fast food: when a Dairy Queen employee hands you a Blizzard, they are required to flip the cup completely upside down for a full second before passing it across the counter. If they don't flip it, corporate policy says you get the Blizzard for free.
 

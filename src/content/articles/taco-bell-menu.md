@@ -3,7 +3,7 @@ title: "How to Memorize the Taco Bell Menu Build Cards Fast"
 description: "A veteran's system for quickly memorizing Taco Bell's massive menu using base builds, color-coded scoops, and the Crunchwrap cheat code."
 pubDate: "2026-05-07"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
 relatedArticles:
   - "taco-bell-linebacker-role"
@@ -11,9 +11,7 @@ relatedArticles:
   - "taco-bell-rehydrate-beans"
 ---
 
-# How to Memorize the Taco Bell Menu Build Cards Fast
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 7, 2026*
 
 Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart.
 

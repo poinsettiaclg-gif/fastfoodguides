@@ -3,7 +3,7 @@ title: "What is the Panera Bread \"Consolidator\" Role?"
 description: "Inside the most demanding role at Panera Bread: the Consolidator who acts as air traffic control for every order leaving the kitchen during a lunch rush."
 pubDate: "2026-04-11"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panera Bread"
 relatedArticles:
   - "panera-overnight-baker"
@@ -11,9 +11,7 @@ relatedArticles:
   - "starbucks-customer-support-cycle"
 ---
 
-# What is the Panera Bread "Consolidator" Role?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 11, 2026*
 
 During a lunch rush at Panera Bread, the production line is a flurry of organized chaos. There are people making sandwiches on one station, people tossing salads on another, and people ladling soup at a third. Items come off these stations at different speeds, in different containers, heading to different customers — and somehow, they all need to end up on the right tray with the right side item before reaching the right person.
 

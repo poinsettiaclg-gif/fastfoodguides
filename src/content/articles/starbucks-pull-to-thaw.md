@@ -3,7 +3,7 @@ title: "How the Starbucks \"Pull to Thaw\" Pastry System Works"
 description: "Inside the Starbucks Pull to Thaw system: the 18-hour thaw cycle, iPad algorithm, dating rules, and what happens to expired pastries."
 pubDate: "2026-04-28"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
 relatedArticles:
   - "starbucks-customer-support-cycle"
@@ -11,9 +11,6 @@ relatedArticles:
   - "panera-overnight-baker"
 ---
 
-# How the Starbucks "Pull to Thaw" Pastry System Works
-
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 28, 2026*
 
 When you see a display case full of perfectly golden croissants, neatly arranged muffins, and rows of cake pops at Starbucks, you might assume a baker arrived at 4:00 AM to make them fresh. The reality is very different. Every single pastry in that case arrived at the store frozen solid in a cardboard box. What makes them look and taste fresh is a carefully calculated logistics system called the Pull to Thaw, and getting it wrong means either empty pastry cases that cost the store hundreds in lost sales or overflowing trays of stale food that go straight into the waste bin. I've overseen this process across multiple shifts, and here's exactly how it works behind the scenes.
 
@@ -84,4 +81,3 @@ The Pull to Thaw is officially a Shift Supervisor responsibility. They access th
 
 It's a serious operational failure. The morning crew opens with an empty pastry case, which means lost sales and unhappy customers for the entire first half of the day. Most stores build the pull into the mid-shift task list and the [SSV playbook](/articles/starbucks-customer-support-cycle) specifically to prevent this. If it does get missed, the opening SSV will do an emergency pull, but those pastries won't be ready until late morning at the earliest—well after the peak pastry demand window has passed.
 
----

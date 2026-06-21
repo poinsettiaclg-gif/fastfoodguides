@@ -3,7 +3,7 @@ title: "What is the Panera Overnight Baker Shift Like?"
 description: "An inside look at the hours, isolation, and grueling timeline of being a solo overnight baker at Panera Bread. Proofing, scoring, and surviving the nocturnal life."
 pubDate: "2026-04-13"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panera Bread"
 relatedArticles:
   - "panera-bread-consolidator-role"
@@ -11,9 +11,7 @@ relatedArticles:
   - "subway-bread-baking-process"
 ---
 
-# What is the Panera Overnight Baker Shift Like?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 13, 2026*
 
 At 2:00 AM, while every other restaurant in the strip mall is dark and locked, the Panera Bread cafe smells like fresh yeast, cinnamon, and baking sourdough. The parking lot is empty except for one car. The dining room lights are off. But somewhere in the back, a single person is pulling golden loaves from a rotating rack oven, scoring bread with a razor blade, and icing cinnamon rolls in complete solitude.
 

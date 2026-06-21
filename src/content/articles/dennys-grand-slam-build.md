@@ -5,6 +5,10 @@ pubDate: "2026-06-12"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Denny's"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
 The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen.

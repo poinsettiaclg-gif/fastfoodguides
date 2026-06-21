@@ -3,7 +3,7 @@ title: "The Popeyes Chicken Battering Process: Why It's So Crispy"
 description: "An insider breakdown of the Popeyes hand-battering technique, the 12-hour marinade secret, and the Toss and Fold method that creates signature crispy crag."
 pubDate: "2026-04-19"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Popeyes"
 relatedArticles:
   - "raising-canes-bird-specialist"
@@ -11,9 +11,7 @@ relatedArticles:
   - "kfc-original-vs-extra-crispy"
 ---
 
-# The Popeyes Chicken Battering Process: Why It's So Crispy
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 19, 2026*
 
 There's a reason Popeyes chicken hits different than every other piece of fried chicken in fast food, and it's not some magical secret ingredient that nobody's figured out. It's labor. It's time. It's a Batter Fry Cook standing over a massive stainless steel bin of seasoned flour, physically mashing and folding batter into raw chicken until their hands are raw and their back aches. While most fast-food restaurants receive their chicken pre-breaded and frozen in plastic bags, Popeyes does it the old-fashioned way — by hand, from scratch, every single day.
 

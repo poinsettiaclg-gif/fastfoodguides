@@ -3,7 +3,7 @@ title: "What is the Papa John's \"Dough Slapping\" Technique?"
 description: "Learn the secrets of the Papa John's Dough Slap technique. How pizza makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire makes."
 pubDate: "2026-04-14"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Papa John's"
 relatedArticles:
   - "papa-johns-dough-spinner"
@@ -11,9 +11,7 @@ relatedArticles:
   - "little-caesars-sheetout-machine"
 ---
 
-# What is the Papa John's "Dough Slapping" Technique?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 14, 2026*
 
 Every major pizza chain has a different approach to their crust. Domino's stretches theirs on a prep screen. Pizza Hut often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen.
 

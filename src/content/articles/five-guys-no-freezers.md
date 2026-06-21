@@ -3,7 +3,7 @@ title: "Does Five Guys Really Not Have Any Freezers?"
 description: "A QSR veteran confirms Five Guys' no-freezer claim and explains the intense daily prep, walk-in cooler reliance, and delivery logistics that make it work."
 pubDate: "2026-03-20"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Five Guys"
 relatedArticles:
   - "five-guys-fry-calibration"
@@ -11,9 +11,7 @@ relatedArticles:
   - "arbys-meat-slicer"
 ---
 
-# Does Five Guys Really Not Have Any Freezers?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 20, 2026*
 
 In an industry where nearly every fast-food kitchen has at least one walk-in freezer packed with frozen patties, frozen chicken, frozen fries, and frozen everything else, Five Guys makes a claim that sounds almost delusional: they don't have freezers. No walk-in freezer. No reach-in freezer. No chest freezer hidden in the back. Nothing in the entire building that goes below 32°F.
 

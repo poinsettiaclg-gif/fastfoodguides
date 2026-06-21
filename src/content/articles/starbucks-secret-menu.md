@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
+relatedArticles:
+  - "starbucks-cold-bar-frappuccino"
+  - "starbucks-morning-rush"
+  - "starbucks-customer-support-cycle"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Starbucks](/articles/chain/starbucks/)
 6.  \>
 7.  Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
 
-# Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 13 min read
 
 Let me settle this right now: Starbucks does not have a secret menu. There is no laminated card hidden under the register. There is no special screen on the POS system that unlocks when you say the right password. There is no training module where baristas learn to make the “Cotton Candy Frappuccino” or the “Butterbeer Latte.” None of that exists. It has never existed.
 

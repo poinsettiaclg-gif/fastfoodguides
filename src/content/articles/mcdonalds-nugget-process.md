@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "mcdonalds-abs-system"
+  - "mcdonalds-pos-crash"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [McDonald's](/articles/chain/mcdonalds/)
 6.  \>
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
-# How Are McDonald's Chicken McNuggets Actually Made?
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 12 min read
 
 If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand.
 

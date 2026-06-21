@@ -5,6 +5,10 @@ pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
+relatedArticles:
+  - "chipotle-fajita-veggie-cut"
+  - "chipotle-grill-validation"
+  - "chipotle-massive-burrito-rolling"
 ---
 
 ## Six Ingredients. No Blender. No Shortcuts.

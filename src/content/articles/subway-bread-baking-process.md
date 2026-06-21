@@ -3,7 +3,7 @@ title: "The Subway Bread Baking Process: Why It Smells Like That"
 description: "A behind-the-counter look at Subway's 12-hour bread baking process, from frozen dough sticks to the iconic smell that sticks to your clothes for days."
 pubDate: "2026-05-01"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
 relatedArticles:
   - "subway-bain-fill-line-rule"
@@ -11,9 +11,7 @@ relatedArticles:
   - "subway-pos-out-of-order"
 ---
 
-# The Subway Bread Baking Process: Why It Smells Like That
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 1, 2026*
 
 You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over.
 

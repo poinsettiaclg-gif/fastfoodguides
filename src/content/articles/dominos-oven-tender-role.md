@@ -3,7 +3,7 @@ title: "What is the \"Oven Tender\" Role at Domino's During a Friday Rush?"
 description: "A former kitchen manager breaks down the Domino's Oven Tender position—the catch, the cut, the labels, and why it's the hardest insider job in the building."
 pubDate: "2026-03-16"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
 relatedArticles:
   - "dominos-20-bank-rule"
@@ -11,9 +11,7 @@ relatedArticles:
   - "papa-johns-dough-slapping"
 ---
 
-# What is the "Oven Tender" Role at Domino's During a Friday Rush?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 16, 2026*
 
 Walk into any Domino's at 6:30 on a Friday evening and you'll see controlled chaos on the makeline—dough flying, sauce being spread, cheese being tossed. But that's the easy part. The person who actually determines whether the entire store sinks or swims is standing at the opposite end of a 450-degree conveyor belt oven, sweating through their shirt, catching pizzas as fast as they emerge from the tunnel. That person is the Oven Tender, and I've watched it break more promising new hires than any other position in the building.
 

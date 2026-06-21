@@ -3,7 +3,7 @@ title: "What is the Wendy's Double-Sided \"Clamshell\" Grill?"
 description: "Former kitchen manager breaks down the Wendy's clamshell grill, from Auto-Gap technology to cook times, cleaning procedures, and what happens when it breaks."
 pubDate: "2026-05-13"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
 relatedArticles:
   - "wendys-4-corner-press"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-closing-duties"
 ---
 
-# What is the Wendy's Double-Sided "Clamshell" Grill?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 13, 2026*
 
 For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen.
 

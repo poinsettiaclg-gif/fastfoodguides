@@ -3,7 +3,7 @@ title: "How Dangerous is the Wok Chef Job at Panda Express?"
 description: "An inside look at the physical toll, extreme heat, grease burns, and the strict Wok Test required to become a Wok Chef at Panda Express."
 pubDate: "2026-04-10"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panda Express"
 relatedArticles:
   - "panda-express-leftover-food"
@@ -11,9 +11,7 @@ relatedArticles:
   - "jersey-mikes-hot-sub-grill"
 ---
 
-# How Dangerous is the Wok Chef Job at Panda Express?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 10, 2026*
 
 Walk into a Panda Express during a dinner rush and the first thing that hits you isn't the smell of orange sauce — it's the wall of heat and the violent sound of metal on metal. The Wok Chefs are standing over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce, and doing it all at a speed that would make most home cooks panic. This isn't a flat-top grill job. This isn't pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry.
 

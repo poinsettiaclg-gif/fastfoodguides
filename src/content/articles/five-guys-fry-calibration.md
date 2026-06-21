@@ -3,7 +3,7 @@ title: "What is the Five Guys \"Fry Calibration\" Every Morning?"
 description: "A QSR veteran explains the daily Five Guys fry calibration process—the Mush Test, two-stage cooking, starch washing, and why potatoes change every week."
 pubDate: "2026-03-19"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Five Guys"
 relatedArticles:
   - "five-guys-no-freezers"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-clamshell-grill"
 ---
 
-# What is the Five Guys "Fry Calibration" Every Morning?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 19, 2026*
 
 Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider.
 

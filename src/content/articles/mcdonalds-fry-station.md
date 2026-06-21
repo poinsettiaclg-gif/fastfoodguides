@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+relatedArticles:
+  - "mcdonalds-nugget-process"
+  - "mcdonalds-ice-cream-machine"
+  - "mcdonalds-abs-system"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [McDonald's](/articles/chain/mcdonalds/)
 6.  \>
 7.  How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
-# How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 12 min read
 
 McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve.
 

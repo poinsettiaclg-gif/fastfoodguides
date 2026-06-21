@@ -5,6 +5,10 @@ pubDate: "2026-06-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
+relatedArticles:
+  - "dominos-gas"
+  - "dominos-20-bank-rule"
+  - "dominos-oven-tender-role"
 ---
 
 ## The Dough Does Not Arrive as Dough

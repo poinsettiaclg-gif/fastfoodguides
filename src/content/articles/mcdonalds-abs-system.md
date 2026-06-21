@@ -3,7 +3,7 @@ title: "How Does the McDonald's ABS (Automated Beverage System) Work?"
 description: "Inside the McDonald's ABS machine that pours drinks automatically from POS order to finished cup in 15 seconds—and what happens when it breaks during a rush."
 pubDate: "2026-04-06"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
 relatedArticles:
   - "mcdonalds-pos-crash"
@@ -11,9 +11,7 @@ relatedArticles:
   - "chick-fil-a-ipos-system"
 ---
 
-# How Does the McDonald's ABS (Automated Beverage System) Work?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 6, 2026*
 
 If you've been through a McDonald's drive-thru recently, you might have noticed something odd: the cashier at the window didn't pour your drink. They turned around, grabbed a cup off what looked like a small conveyor belt, snapped a lid on it, and handed it to you. The whole thing took maybe five seconds. That piece of machinery is called the ABS—Automated Beverage System—and it is, without exaggeration, the most brilliant piece of automation in the entire fast-food industry. I've worked in half a dozen different chains, and nothing else comes close to the operational impact the ABS has on drive-thru speed. It eliminates an entire labor step from the beverage process and does it more accurately and consistently than any employee ever could. When it's working, it's invisible. When it breaks down during a Friday lunch rush, your entire operation falls apart in about ninety seconds.
 

@@ -3,7 +3,7 @@ title: "What is the In-N-Out \"Board\" Station and Why is it so Hard?"
 description: "The In-N-Out Board station is the hardest job in the building. Learn the setup, wrapping technique, certification test, and what rush hour really feels like."
 pubDate: "2026-03-22"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
 relatedArticles:
   - "in-n-out-level-system"
@@ -11,9 +11,7 @@ relatedArticles:
   - "chipotle-massive-burrito-rolling"
 ---
 
-# What is the In-N-Out "Board" Station and Why is it so Hard?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 22, 2026*
 
 At In-N-Out Burger, the kitchen runs on stations, and every station has a number. The Grill cook at Level 6 gets all the bragging rights. But here's the thing nobody tells you—the station directly behind the Grill, the one that most people have never even heard of, is universally considered the hardest job in the entire building. That station is called **The Board**, and it lives at Level 5 in the [In-N-Out Level System](/articles/in-n-out-level-system).
 

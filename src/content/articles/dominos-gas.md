@@ -3,7 +3,7 @@ title: "Do Domino's Delivery Drivers Pay For Their Own Gas?"
 description: "A former driver manager explains Domino's mileage reimbursement, the per-mile vs per-delivery debate, hidden vehicle costs, and how to actually profit from delivering."
 pubDate: "2026-03-15"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
 relatedArticles:
   - "dominos-20-bank-rule"
@@ -11,9 +11,7 @@ relatedArticles:
   - "pizza-delivery-driver-accident"
 ---
 
-# Do Domino's Delivery Drivers Pay For Their Own Gas?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 15, 2026*
 
 Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job.
 

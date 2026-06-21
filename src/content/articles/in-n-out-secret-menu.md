@@ -3,7 +3,7 @@ title: "How to Memorize the In-N-Out POS System and Secret Menu"
 description: "A fast-food worker's guide to mastering In-N-Out's POS system and handling Secret Menu orders like Animal Style, Protein Style, and Flying Dutchman."
 pubDate: "2026-03-25"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
 relatedArticles:
   - "in-n-out-level-system"
@@ -11,9 +11,7 @@ relatedArticles:
   - "mcdonalds-pos-crash"
 ---
 
-# How to Memorize the In-N-Out POS System and Secret Menu
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 25, 2026*
 
 If you look at the In-N-Out drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right?
 

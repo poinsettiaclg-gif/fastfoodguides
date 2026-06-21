@@ -5,6 +5,10 @@ pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sonic Drive-In"
+relatedArticles:
+  - "sonic-switchboard-how-it-works"
+  - "sonic-carhops-roller-skate"
+  - "starbucks-secret-menu"
 ---
 
 ## It's Not Regular Ice. It Never Was.

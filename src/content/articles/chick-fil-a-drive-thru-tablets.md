@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+relatedArticles:
+  - "chick-fil-a-breading-process"
+  - "chick-fil-a-lemonade"
+  - "chick-fil-a-ipos-system"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Chick-fil-A](/articles/chain/chick-fil-a/)
 6.  \>
 7.  Why Does Chick-fil-A Have Employees Standing Outside With Tablets?
 
-# Why Does Chick-fil-A Have Employees Standing Outside With Tablets?
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 12 min read
 
 If you’ve driven through a Chick-fil-A lunch rush in the last several years, you’ve experienced something that doesn’t happen at any other major fast food chain. Before you even reach the menu board, a team member walks up to your car window holding a tablet, takes your order face-to-face, and sends it directly to the kitchen. By the time you pull up to the window, your food is either ready or being assembled.
 

@@ -5,6 +5,10 @@ pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+relatedArticles:
+  - "subway-bain-fill-line-rule"
+  - "subway-wrap-folding"
+  - "subway-bread-baking-process"
 ---
 
 ## Two Ingredients. That's It.

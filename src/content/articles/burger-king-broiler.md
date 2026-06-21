@@ -3,7 +3,7 @@ title: "How Does the Burger King Broiler Work, and Is It Dangerous?"
 description: "A veteran kitchen manager explains how the BK flame broiler really works, what the burn hazards feel like, and how to survive your first shift on the fire line."
 pubDate: "2026-03-03"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Burger King"
 relatedArticles:
   - "burger-king-broiler-closing"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-clamshell-grill"
 ---
 
-# How Does the Burger King Broiler Work, and Is It Dangerous?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 3, 2026*
 
 Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do.
 

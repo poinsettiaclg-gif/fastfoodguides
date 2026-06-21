@@ -3,7 +3,7 @@ title: "The Secret to KFC Coleslaw: Why It Sits Overnight"
 description: "Discover why KFC coleslaw must rest for 12 hours before serving. An insider breakdown of the fine chop, proprietary dressing, and maceration science."
 pubDate: "2026-03-31"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "KFC"
 relatedArticles:
   - "kfc-original-vs-extra-crispy"
@@ -11,9 +11,7 @@ relatedArticles:
   - "popeyes-chicken-battering-process"
 ---
 
-# The Secret to KFC Coleslaw: Why It Sits Overnight
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 31, 2026*
 
 Here's something that catches every new KFC hire off guard: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet.
 

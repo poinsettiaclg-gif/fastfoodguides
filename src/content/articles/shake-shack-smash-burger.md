@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Shake Shack"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Shake Shack](/articles/chain/shake-shack/)
 6.  \>
 7.  What is the Shake Shack Smash Burger Technique?
 
-# What is the Shake Shack Smash Burger Technique?
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 13 min read
 
 If you’ve eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I’ve had?”—the answer isn’t a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. Specifically, it’s what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion.
 

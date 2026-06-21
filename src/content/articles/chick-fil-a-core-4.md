@@ -3,7 +3,7 @@ title: "What Is the Chick-fil-A Core 4 (And How to Pass the Interview)"
 description: "A veteran QSR manager breaks down the Chick-fil-A Core 4 customer service model, what it looks like on the floor, and exactly how to demonstrate it in your interview."
 pubDate: "2026-03-06"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
 relatedArticles:
   - "chick-fil-a-ipos-system"
@@ -11,9 +11,7 @@ relatedArticles:
   - "starbucks-customer-support-cycle"
 ---
 
-# What Is the Chick-fil-A "Core 4" (And How to Pass the Interview)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 6, 2026*
 
 Chick-fil-A is not a normal fast food job. I say that as someone who has worked in or managed kitchens across half a dozen major chains, and nothing I encountered at any of them prepared me for the level of hospitality discipline that Chick-fil-A demands from every single team member. Most QSR chains train you to take orders fast and keep the line moving. Chick-fil-A trains you to make a stranger feel like you genuinely care about their day—and then they measure whether you actually did it. The entire system is built on four non-negotiable behaviors called the Core 4, and if you are applying for a job here, understanding these four pillars is the difference between getting hired and getting a polite rejection email.
 

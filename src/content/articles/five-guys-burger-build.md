@@ -5,6 +5,10 @@ pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Five Guys"
+relatedArticles:
+  - "five-guys-fry-calibration"
+  - "five-guys-no-freezers"
+  - "mcdonalds-fry-station"
 ---
 
 ## The Beef Arrives Fresh. Every Single Day.

@@ -5,6 +5,10 @@ pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Popeyes"
+relatedArticles:
+  - "popeyes-chicken-battering-process"
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
 ---
 
 You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane.

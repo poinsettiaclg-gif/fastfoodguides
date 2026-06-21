@@ -3,7 +3,7 @@ title: "What is the Domino's \"$20 Bank Rule\" for Delivery Drivers?"
 description: "Learn about the strict $20 Bank Rule every Domino's driver must follow, how the Cash Drop system works, and why violating it can get you terminated."
 pubDate: "2026-03-13"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
 relatedArticles:
   - "dominos-gas"
@@ -11,9 +11,7 @@ relatedArticles:
   - "pizza-delivery-driver-accident"
 ---
 
-# What is the Domino's "$20 Bank Rule" for Delivery Drivers?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 13, 2026*
 
 Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule.
 

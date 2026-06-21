@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "IHOP"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [IHOP](/articles/chain/ihop/)
 6.  \>
 7.  Does IHOP Actually Make Their Pancake Batter From Scratch?
 
-# Does IHOP Actually Make Their Pancake Batter From Scratch?
 
-By Russell Roseberry · 10-Year QSR Veteran · Wed Jun 10 2026 · 📖 15 min read
 
 If you’ve ever eaten a stack of IHOP’s Original Buttermilk pancakes and thought “there’s no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother’s recipe does. But they’re also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for.
 

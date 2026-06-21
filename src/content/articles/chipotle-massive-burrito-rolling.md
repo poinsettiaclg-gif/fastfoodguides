@@ -3,7 +3,7 @@ title: "The Secret to Rolling a Massive Double-Meat Chipotle Burrito"
 description: "Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required to safely wrap a massive, over-stuffed Chipotle burrito without breaking the tortilla."
 pubDate: "2026-03-09"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
@@ -11,9 +11,7 @@ relatedArticles:
   - "subway-wrap-folding"
 ---
 
-# The Secret to Rolling a Massive Double-Meat Chipotle Burrito
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 9, 2026*
 
 If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero.
 

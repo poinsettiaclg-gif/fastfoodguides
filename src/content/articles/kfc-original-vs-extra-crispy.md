@@ -3,7 +3,7 @@ title: "KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?"
 description: "The real difference between KFC Original Recipe and Extra Crispy isn't seasoning—it's completely different machines, breading techniques, and cooking physics."
 pubDate: "2026-04-01"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "KFC"
 relatedArticles:
   - "kfc-coleslaw-secret"
@@ -11,9 +11,7 @@ relatedArticles:
   - "popeyes-chicken-battering-process"
 ---
 
-# KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 1, 2026*
 
 I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food.
 

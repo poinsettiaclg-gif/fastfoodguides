@@ -3,7 +3,7 @@ title: "How Does the Pizza Hut Dispatch System Work?"
 description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating the FIFO queue, and maximizing your tips per shift."
 pubDate: "2026-04-18"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Pizza Hut"
 relatedArticles:
   - "pizza-delivery-driver-accident"
@@ -11,9 +11,7 @@ relatedArticles:
   - "dominos-20-bank-rule"
 ---
 
-# How Does the Pizza Hut Dispatch System Work?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 18, 2026*
 
 If you get hired as a delivery driver at Pizza Hut, your entire night revolves around one screen in the back of the store. Not the oven. Not the cut table. The Dispatch Terminal. That glowing touchscreen monitor next to the heat racks is the brain of the operation, and understanding how it works is the difference between a $60 night and a $150 night.
 

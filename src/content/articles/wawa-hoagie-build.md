@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wawa"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Wawa](/articles/chain/wawa/)
 6.  \>
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
 
-# How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
 
-By Russell Roseberry · 10-Year QSR Veteran · Thu Jun 11 2026 · 📖 16 min read
 
 If you’ve never ordered a hoagie at Wawa, the experience can throw you off. There’s no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, I can tell you it’s one of the smartest deli setups in the business.
 

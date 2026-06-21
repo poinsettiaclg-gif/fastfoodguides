@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "White Castle"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [White Castle](/articles/chain/white-castle/)
 6.  \>
 7.  Why Are White Castle Sliders Steamed Instead of Grilled?
 
-# Why Are White Castle Sliders Steamed Instead of Grilled?
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 16 min read
 
 White Castle sliders don’t look like any other burger in fast food. They’re small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that’s not an accident. It’s the result of a cooking method that White Castle has been using since the 1920s: steam-grilling.
 

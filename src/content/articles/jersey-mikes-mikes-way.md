@@ -3,7 +3,7 @@ title: "What is \"Mike's Way\" at Jersey Mike's (And the Exact Sequence)"
 description: "Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's, why the order matters, plus meat slicer safety and sandwich line rhythm tips."
 pubDate: "2026-03-28"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Jersey Mike's"
 relatedArticles:
   - "jersey-mikes-hot-sub-grill"
@@ -11,9 +11,7 @@ relatedArticles:
   - "arbys-meat-slicer"
 ---
 
-# What is "Mike's Way" at Jersey Mike's (And the Exact Sequence)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 28, 2026*
 
 If you get hired at Jersey Mike's, here's the first thing you need to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way."
 

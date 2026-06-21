@@ -3,7 +3,7 @@ title: "What is the Starbucks Customer Support (CS) Cycle?"
 description: "Inside the Starbucks CS Cycle: the 10-minute timed cadence that keeps the entire store running during peak hours and how to master it."
 pubDate: "2026-04-26"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
@@ -11,9 +11,6 @@ relatedArticles:
   - "starbucks-pull-to-thaw"
 ---
 
-# What is the Starbucks Customer Support (CS) Cycle?
-
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 26, 2026*
 
 During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. I've seen it happen. Here's exactly how the CS Cycle works and why experienced Shift Supervisors will fight to protect it.
 
@@ -93,4 +90,3 @@ Reset the timer and start back at Step 1 anyway. The cycle is designed so that t
 
 Yes. The Customer Support Cycle is part of Starbucks' company-wide Playbook operational system. Every corporate-owned store follows it. Licensed stores inside grocery stores, airports, and similar locations may run a modified version depending on their staffing agreement, but the core concept of a timed, structured support role is consistent across the entire brand.
 
----

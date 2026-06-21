@@ -3,7 +3,7 @@ title: "What Actually Happens During the Chipotle Grill Validation Test?"
 description: "Everything you need to know to pass the strict Chipotle Grill Validation test, from cut sizes to temp logs to the call system that trips up most new cooks."
 pubDate: "2026-03-08"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
@@ -11,9 +11,7 @@ relatedArticles:
   - "five-guys-no-freezers"
 ---
 
-# What Actually Happens During the Chipotle Grill Validation Test?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 8, 2026*
 
 Working the grill at Chipotle is widely considered the hardest station in the restaurant. You are the engine of the entire operation. If the grill goes down—if you fall behind on chicken, run out of rice, or let the fajita veggies die—the entire line stops moving and every ticket in the restaurant backs up. I've watched lunch rushes collapse in under three minutes because the grill cook got overwhelmed and couldn't recover.
 

@@ -3,7 +3,7 @@ title: "The Secret to Folding a Subway Wrap Without Tearing It"
 description: "A Sandwich Artist's step-by-step guide to warming, stacking, rolling, and cutting a heavily loaded Subway wrap without ripping the tortilla apart."
 pubDate: "2026-05-04"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
 relatedArticles:
   - "subway-bread-baking-process"
@@ -11,9 +11,7 @@ relatedArticles:
   - "chipotle-massive-burrito-rolling"
 ---
 
-# The Secret to Folding a Subway Wrap Without Tearing It
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 4, 2026*
 
 If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap.
 

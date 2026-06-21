@@ -3,7 +3,7 @@ title: "How to Make the Perfect Dairy Queen Cone Curl"
 description: "Mastering the signature Dairy Queen curl is the hardest skill for new employees. Learn the exact tiered technique, the wrist snap, and how to survive the chocolate dip."
 pubDate: "2026-03-12"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Dairy Queen"
 relatedArticles:
   - "dairy-queen-blizzard-flip"
@@ -11,9 +11,7 @@ relatedArticles:
   - "five-guys-fry-calibration"
 ---
 
-# How to Make the Perfect Dairy Queen Cone Curl
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 12, 2026*
 
 At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream.
 

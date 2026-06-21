@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Firehouse Subs"
+relatedArticles:
+  - "mcdonalds-fry-station"
+  - "chick-fil-a-breading-process"
+  - "wendys-chili-leftover-hamburgers"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Firehouse Subs](/articles/chain/firehouse-subs/)
 6.  \>
 7.  Why Does Firehouse Subs Steam Their Sandwiches? (The Hot Sub Difference)
 
-# Why Does Firehouse Subs Steam Their Sandwiches? (The Hot Sub Difference)
 
-By Russell Roseberry · 10-Year QSR Veteran · Wed Jun 10 2026 · 📖 14 min read
 
 If you’ve ever eaten a Firehouse Subs sandwich and thought “this feels different from every other hot sub I’ve had,” you’re not imagining things. Firehouse doesn’t toast their subs. They don’t bake them. They don’t grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does.
 

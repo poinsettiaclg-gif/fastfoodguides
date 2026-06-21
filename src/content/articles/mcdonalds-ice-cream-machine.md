@@ -5,6 +5,10 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+relatedArticles:
+  - "mcdonalds-nugget-process"
+  - "mcdonalds-abs-system"
+  - "mcdonalds-pos-crash"
 ---
 
 ## It's Not Actually Broken (Most of the Time)

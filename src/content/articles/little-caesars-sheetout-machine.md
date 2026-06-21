@@ -3,7 +3,7 @@ title: "Why Little Caesars Uses a \"Sheetout\" Machine"
 description: "How the Little Caesars Sheetout Machine flattens dough in 3 seconds, enabling Hot-N-Ready volume that hand-tossing could never achieve. The two-pass technique explained."
 pubDate: "2026-04-05"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Little Caesars"
 relatedArticles:
   - "little-caesars-hot-n-ready-system"
@@ -11,9 +11,7 @@ relatedArticles:
   - "dominos-oven-tender-role"
 ---
 
-# Why Little Caesars Uses a "Sheetout" Machine
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 5, 2026*
 
 At a traditional pizzeria, making a crust is a craft. You take a dough ball, stretch it by hand, maybe toss it in the air for show, and spend 15 to 20 seconds working it into a round shape that's never quite perfectly uniform. That's charming when you're making 40 pizzas on a Saturday night. At Little Caesars, where a busy location pumps out 300 to 500 pizzas a day and the entire business model depends on having hot pizzas ready the instant a customer walks through the door, hand-tossing is a fantasy. Enter the Sheetout Machine—called "the Sheeter" by every employee who's ever used one—and the reason Little Caesars can make the Hot-N-Ready promise work at industrial scale.
 

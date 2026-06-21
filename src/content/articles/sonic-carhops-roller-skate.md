@@ -3,7 +3,7 @@ title: "Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill
 description: "Everything you need to know about working as a Sonic Carhop — skating vs walking, the tray balancing technique, and how to maximize your tips on wheels."
 pubDate: "2026-04-22"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sonic Drive-In"
 relatedArticles:
   - "sonic-switchboard-how-it-works"
@@ -11,9 +11,7 @@ relatedArticles:
   - "in-n-out-level-system"
 ---
 
-# Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 22, 2026*
 
 When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels.
 

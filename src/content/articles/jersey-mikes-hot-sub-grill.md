@@ -3,7 +3,7 @@ title: "The Jersey Mike's \"Hot Sub\" Grill Station: What to Expect"
 description: "A behind-the-scenes look at Jersey Mike's grill station, from raw beef protocols and the chop-and-flip technique to the dreaded bread transfer flip."
 pubDate: "2026-03-27"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Jersey Mike's"
 relatedArticles:
   - "jersey-mikes-mikes-way"
@@ -11,9 +11,7 @@ relatedArticles:
   - "chipotle-grill-validation"
 ---
 
-# The Jersey Mike's "Hot Sub" Grill Station: What to Expect
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 27, 2026*
 
 Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way) finish. But tucked behind the deli counter, away from the customer's view, there's a flat-top grill that runs an entirely different operation. If you get cross-trained to work the grill, you're stepping out of the deli world and into traditional short-order cooking—and the learning curve is steep.
 

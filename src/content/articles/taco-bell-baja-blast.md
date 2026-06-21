@@ -5,19 +5,18 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+relatedArticles:
+  - "taco-bell-menu"
+  - "taco-bell-linebacker-role"
+  - "taco-bell-rehydrate-beans"
 ---
 
-1.  [Home](/)
 2.  \>
-3.  [Guides](/articles/)
 4.  \>
-5.  [Taco Bell](/articles/chain/taco-bell/)
 6.  \>
 7.  Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)
 
-# Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)
 
-By Russell Roseberry · 10-Year QSR Veteran · Tue Jun 09 2026 · 📖 11 min read
 
 There are roughly two dozen fountain drink options across all of fast food, and none of them generate the kind of fanatical devotion that Baja Blast does. This tropical lime Mountain Dew variant, with its unmistakable teal color, is the single most requested drink at every Taco Bell I have ever worked at or visited. And the question I heard more than any other — more than “is the ice cream machine working” at McDonald’s, more than “can I get extra sauce” — was this: “Why can’t I buy Baja Blast anywhere else?” The answer involves a carefully structured exclusivity deal between Taco Bell and PepsiCo, some very deliberate flavor science, and a scarcity strategy that turns a fountain drink into something people genuinely lose sleep over.
 

@@ -3,7 +3,7 @@ title: "What Does a \"Bird Specialist\" Actually Do at Raising Cane's?"
 description: "Everything you need to know about the Raising Cane's Bird Specialist role — the 24-hour marinade, 6-minute fry timer, and the art of reading the rush."
 pubDate: "2026-04-21"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Raising Cane's"
 relatedArticles:
   - "popeyes-chicken-battering-process"
@@ -11,9 +11,7 @@ relatedArticles:
   - "five-guys-no-freezers"
 ---
 
-# What Does a "Bird Specialist" Actually Do at Raising Cane's?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 21, 2026*
 
 Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide.
 

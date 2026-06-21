@@ -3,7 +3,7 @@ title: "What Are the Exact Closing Duties for a Wendy's Sandwich Maker?"
 description: "Former Wendy's manager walks through the complete closing checklist for sandwich makers, from pre-close strategy to final walkthrough and getting out on time."
 pubDate: "2026-05-14"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
 relatedArticles:
   - "wendys-frosty-machine-boil-out"
@@ -11,9 +11,7 @@ relatedArticles:
   - "wendys-chili-leftover-hamburgers"
 ---
 
-# What Are the Exact Closing Duties for a Wendy's Sandwich Maker?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 14, 2026*
 
 Closing a fast food restaurant is a grueling, exhausting process that separates the new hires from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors. You aren't filtering the fryers. You aren't doing the [Frosty machine boil-out](/articles/wendys-frosty-machine-boil-out). Your sole mission is to break down the sandwich station, secure the food, sanitize everything, and leave the boards ready for the morning crew.
 

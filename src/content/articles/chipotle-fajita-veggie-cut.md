@@ -3,7 +3,7 @@ title: "The Strict Science of the Chipotle Fajita Veggie Cut"
 description: "Chipotle's 1/4-inch fajita veggie rule is no joke. Learn why the exact cut size matters for grill timing and why failing the knife test means failing your certification."
 pubDate: "2026-03-07"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
 relatedArticles:
   - "chipotle-grill-validation"
@@ -11,9 +11,7 @@ relatedArticles:
   - "panda-express-wok-chef"
 ---
 
-# The Strict Science of the Chipotle Fajita Veggie Cut
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 7, 2026*
 
 The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies.
 

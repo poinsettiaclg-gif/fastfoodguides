@@ -3,7 +3,7 @@ title: "What is the 4:00 AM \"Biscuit Maker\" Shift Like at Hardee's / Carl's Jr
 description: "A QSR veteran takes you inside the grueling 4 AM Biscuit Maker shift at Hardee's—the from-scratch process, the 15-minute rule, and why this role is sacred."
 pubDate: "2026-03-22"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Hardee's / Carl's Jr."
 relatedArticles:
   - "panera-overnight-baker"
@@ -11,9 +11,7 @@ relatedArticles:
   - "five-guys-no-freezers"
 ---
 
-# What is the 4:00 AM "Biscuit Maker" Shift Like at Hardee's / Carl's Jr.?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published March 22, 2026*
 
 Most fast-food chains use frozen, pre-formed biscuits that arrive in a box, get tossed on a sheet pan, and go into an oven. Hardee's doesn't do that. Their biscuits are made entirely from scratch—mixed, kneaded, rolled, cut, and baked in-store, every single morning, by a dedicated employee called the Biscuit Maker. And that person's alarm goes off at 3:15 AM.
 

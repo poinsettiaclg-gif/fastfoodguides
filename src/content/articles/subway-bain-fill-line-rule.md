@@ -3,7 +3,7 @@ title: "What is the Subway \"Bain\" (And Why Can't You Overfill It?)"
 description: "Learn how the Subway Bain-Marie keeps food cold with forced air, why overfilling pans is a health code violation, and the backup pan system."
 pubDate: "2026-04-30"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
 relatedArticles:
   - "subway-bread-baking-process"
@@ -11,9 +11,7 @@ relatedArticles:
   - "subway-pos-out-of-order"
 ---
 
-# What is the Subway "Bain" (And Why Can't You Overfill It?)
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 30, 2026*
 
 When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. Here's exactly how the Bain works, why the fill line exists, and how to manage it properly during a rush.
 

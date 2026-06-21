@@ -3,7 +3,7 @@ title: "What Happens to Leftover Panda Express Food at Closing?"
 description: "Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, the no take-home rule, and the Panda Cares donation program."
 pubDate: "2026-04-09"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panda Express"
 relatedArticles:
   - "panda-express-wok-chef"
@@ -11,9 +11,7 @@ relatedArticles:
   - "five-guys-no-freezers"
 ---
 
-# What Happens to Leftover Panda Express Food at Closing?
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published April 9, 2026*
 
 Walk into any Panda Express at 6:00 PM and the steam table is a beautiful wall of glistening Orange Chicken, sizzling Beijing Beef, and heaping mounds of Chow Mein. The presentation is intentional — corporate wants those pans looking full and abundant because a full steam table sells more food than a half-empty one. But here's the operational reality nobody talks about: all of that visual abundance creates a massive waste problem the moment the last customer walks out.
 

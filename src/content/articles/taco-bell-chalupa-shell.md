@@ -5,6 +5,10 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+relatedArticles:
+  - "taco-bell-menu"
+  - "taco-bell-linebacker-role"
+  - "taco-bell-rehydrate-beans"
 ---
 
 ## It Starts as a Flat Disc of Dough

@@ -3,7 +3,7 @@ title: "The Wendy's Frosty Machine \"Boil-Out\" Process"
 description: "Former kitchen manager walks through the complete Frosty machine boil-out process, from drain to reassembly, including O-ring inspection and the mistakes that cause leaks."
 pubDate: "2026-05-15"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran & Former Kitchen Manager"
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
 relatedArticles:
   - "wendys-closing-duties"
@@ -11,9 +11,7 @@ relatedArticles:
   - "dairy-queen-blizzard-flip"
 ---
 
-# The Wendy's Frosty Machine "Boil-Out" Process
 
-*By Russell Roseberry · 10-Year QSR Veteran · Published May 15, 2026*
 
 The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [closing duties](/articles/wendys-closing-duties) and the Frosty machine is on your checklist, congratulations—you've drawn the single most time-consuming, mechanically complex, and universally dreaded closing task in the entire restaurant.
 

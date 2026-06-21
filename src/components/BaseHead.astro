@@ -9,12 +9,15 @@ interface Props {
 	title: string;
 	description: string;
 	image?: string;
+	ogType?: string;
+	chain?: string;
+	articlePath?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
 
-const { title, description, image } = Astro.props;
+const { title, description, image, ogType = 'website', chain, articlePath } = Astro.props;
 
 const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 ---
@@ -34,6 +37,10 @@ const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 <meta name="generator" content={Astro.generator} />
 <meta name="theme-color" content="#0a0f1c" />
 
+<!-- Preconnect to third-party origins -->
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+
 <Font cssVariable="--font-atkinson" preload />
 
 <!-- Canonical URL -->
@@ -45,7 +52,7 @@ const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 <meta name="description" content={description} />
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
+<meta property="og:type" content={ogType} />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
@@ -57,6 +64,39 @@ const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 {ogImageUrl && <meta property="twitter:image" content={ogImageUrl} />}
+
+<!-- BreadcrumbList Structured Data (article pages) -->
+{chain && articlePath && (
+	<script type="application/ld+json" set:html={JSON.stringify({
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"name": "Home",
+				"item": "https://fastfoodguides.com/"
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"name": "Guides",
+				"item": "https://fastfoodguides.com/articles/"
+			},
+			{
+				"@type": "ListItem",
+				"position": 3,
+				"name": chain,
+				"item": `https://fastfoodguides.com/articles/chain/${chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/`
+			},
+			{
+				"@type": "ListItem",
+				"position": 4,
+				"name": title
+			}
+		]
+	})} />
+)}
 
 <!-- JSON-LD Structured Data (homepage only) -->
 {isHomepage && (
@@ -73,8 +113,31 @@ const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 	})} />
 )}
 
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
+<!-- Google Consent Mode v2 (must load BEFORE any Google scripts) -->
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+
+	// Default: deny all until user consents
+	gtag('consent', 'default', {
+		'ad_storage': 'denied',
+		'ad_user_data': 'denied',
+		'ad_personalization': 'denied',
+		'analytics_storage': 'denied',
+		'wait_for_update': 500
+	});
+
+	// Check if user previously consented
+	var consent = localStorage.getItem('cookie-consent');
+	if (consent === 'accepted') {
+		gtag('consent', 'update', {
+			'ad_storage': 'granted',
+			'ad_user_data': 'granted',
+			'ad_personalization': 'granted',
+			'analytics_storage': 'granted'
+		});
+	}
+</script>
 
 <!-- Google Analytics 4 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-LTBYBPFE6W"></script>
@@ -84,3 +147,6 @@ const ogImageUrl = image ? new URL(image, Astro.url) : undefined;
 	gtag('js', new Date());
 	gtag('config', 'G-LTBYBPFE6W');
 </script>
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
