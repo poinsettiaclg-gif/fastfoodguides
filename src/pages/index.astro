@@ -27,6 +27,21 @@ const chains = Object.entries(chainCounts)
 	.sort((a, b) => b[1] - a[1])
 	.map(([name, count]) => ({ name, count }));
 
+const topicCounts = posts.reduce(
+	(acc, post) => {
+		const topic = post.data.topic;
+		if (topic) {
+			acc[topic] = (acc[topic] || 0) + 1;
+		}
+		return acc;
+	},
+	{} as Record<string, number>
+);
+
+const topics = Object.entries(topicCounts)
+	.sort((a, b) => b[1] - a[1])
+	.map(([name, count]) => ({ name, count }));
+
 const chainEmojis: Record<string, string> = {
 	"McDonald's": '🍟',
 	'Burger King': '🍔',
@@ -62,6 +77,25 @@ function getChainEmoji(chainName: string): string {
 
 function slugifyChain(chain: string): string {
 	return chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+const topicEmojis: Record<string, string> = {
+	'Chicken': '🍗',
+	'Burgers': '🍔',
+	'Pizza': '🍕',
+	'Mexican': '🌮',
+	'Sandwiches': '🥪',
+	'Breakfast & Coffee': '☕',
+	'Other Chains': '🍽️',
+	'General': '🍔'
+};
+
+function getTopicEmoji(topicName: string): string {
+	return topicEmojis[topicName] || '🍽️';
+}
+
+function slugifyTopic(topic: string): string {
+	return topic.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 ---
 
@@ -170,6 +204,33 @@ function slugifyChain(chain: string): string {
 									<div class="card-footer">
 										<FormattedDate date={post.data.pubDate} />
 									</div>
+								</a>
+							))
+						}
+					</div>
+				</div>
+			</section>
+
+			<!-- ═══════════════ BROWSE BY TOPIC ═══════════════ -->
+			<section class="section topics-section" aria-labelledby="topics-heading" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color);">
+				<div class="section-container">
+					<div class="section-header">
+						<h2 id="topics-heading" class="section-title">Browse by Topic</h2>
+						<p class="section-subtitle">
+							Explore guides by food category
+						</p>
+					</div>
+					<div class="chains-grid">
+						{
+							topics.map(({ name, count }) => (
+								<a href={`/articles/topic/${slugifyTopic(name)}/`} class="chain-card">
+									<span class="chain-card-emoji" aria-hidden="true">
+										{getTopicEmoji(name)}
+									</span>
+									<span class="chain-card-name">{name}</span>
+									<span class="chain-card-count">
+										{count} {count === 1 ? 'guide' : 'guides'}
+									</span>
 								</a>
 							))
 						}
