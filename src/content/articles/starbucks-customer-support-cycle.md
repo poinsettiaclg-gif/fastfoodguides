@@ -5,6 +5,7 @@ pubDate: "2026-04-26"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
   - "starbucks-morning-rush"
@@ -12,26 +13,26 @@ relatedArticles:
 ---
 
 
-During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. I've seen it happen. Here's exactly how the CS Cycle works and why experienced Shift Supervisors will fight to protect it.
+During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. I've seen it happen. Here's exactly how the CS Cycle works and why experienced Shift Supervisors will fight to protect it. *(Related guide: [How to Master the Starbucks Cold Bar and Frappuccino Sequence](/articles/starbucks-cold-bar-frappuccino/))*
 
 ## The Timed Cadence: 8, 10, or 15 Minutes
 
-The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods.
+The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
 
-Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go.
+Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go. *(Related guide: [How the Starbucks \](/articles/starbucks-pull-to-thaw/))*
 
 The cadence length is set by the Shift Supervisor based on current store conditions. During a morning peak—typically 6:00 AM to 9:00 AM—the timer runs at 8 or 10 minutes because supplies are being consumed at a ferocious pace. The [Hot Bar barista](/articles/starbucks-morning-rush) is burning through milk, cups, and espresso beans constantly, and if you fall behind by even one cycle, they start running out of things. During a quiet Tuesday afternoon, the cadence might stretch to 15 or even 30 minutes because consumption slows to a crawl.
 
 ## The Four Steps of Every CS Cycle
 
-![Operational workflow diagram of the four-step Customer Support cycle cadence](/images/starbucks-customer-support-cycle/starbucks-customer-support-workflow-diagram.webp)
+![Operational workflow diagram of the four-step Customer Support cycle cadence](../../assets/images/starbucks-customer-support-cycle/starbucks-customer-support-workflow-diagram.webp)
 
 
 Each cycle follows the same four steps, in the same order, every single time:
 
 ### Step 1: Brew Coffee
 
-![Technical schematic of a commercial coffee brewer urn and timer mechanism](/images/starbucks-customer-support-cycle/starbucks-coffee-brewer-urn-schematic.webp)
+![Technical schematic of a commercial coffee brewer urn and timer mechanism](../../assets/images/starbucks-customer-support-cycle/starbucks-coffee-brewer-urn-schematic.webp)
 
 
 The very first priority is always drip coffee. Check the timers on the urns. If any batch has been sitting longer than 30 minutes, dump it, rinse the urn, and brew a fresh batch of Pike Place, Blonde, or Dark Roast. Drip coffee has a strict 30-minute freshness window. Coffee that sits beyond that tastes stale and flat, and regular customers who order the same Pike Place every morning will absolutely notice the difference and say something.

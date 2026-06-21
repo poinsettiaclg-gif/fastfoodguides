@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Zaxby's"
+topic: "Chicken"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-If you’ve eaten at Zaxby’s more than once, you already know about Zax Sauce. It’s the creamy, tangy, slightly peppery dipping sauce that comes in those little 2-ounce portion cups alongside your chicken fingers and crinkle-cut fries. It is, without exaggeration, the reason a large percentage of Zaxby’s customers walk through the door in the first place. I’ve watched people dip Texas toast in it. I’ve watched people dip their fries in it, then dip their chicken in it, then go back and dip the fries again. I once had a regular ask for six extra cups of Zax Sauce for a 3-piece Fingerz plate. Six.
+If you’ve eaten at Zaxby’s more than once, you already know about Zax Sauce. It’s the creamy, tangy, slightly peppery dipping sauce that comes in those little 2-ounce portion cups alongside your chicken fingers and crinkle-cut fries. It is, without exaggeration, the reason a large percentage of Zaxby’s customers walk through the door in the first place. I’ve watched people dip Texas toast in it. I’ve watched people dip their fries in it, then dip their chicken in it, then go back and dip the fries again. I once had a regular ask for six extra cups of Zax Sauce for a 3-piece Fingerz plate. Six. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-The sauce is that good. And the thing that drives the internet absolutely crazy is that the ingredients are not a secret. You can find them on any food blog in about 30 seconds. But knowing the ingredients and actually reproducing the sauce are two very different things. Let me explain why.
+The sauce is that good. And the thing that drives the internet absolutely crazy is that the ingredients are not a secret. You can find them on any food blog in about 30 seconds. But knowing the ingredients and actually reproducing the sauce are two very different things. Let me explain why. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 ## What’s Actually in Zax Sauce
 
-![Blueprint illustration of What’s Actually in Zax Sauce](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.webp)
+![Blueprint illustration of What’s Actually in Zax Sauce](../../assets/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.webp)
 
-Here’s the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that’s been around forever in the American South and parts of Utah. At its core, it’s a blend of:
+Here’s the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that’s been around forever in the American South and parts of Utah. At its core, it’s a blend of: *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 *   **Mayonnaise** — the base, and the largest component by far
 *   **Ketchup** — for sweetness and color
@@ -41,7 +42,7 @@ The reason employees don’t bother guarding the ingredient list is because it d
 
 ## The Ratio Problem
 
-![Blueprint illustration of The Ratio Problem](/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-the-ratio-problem.webp)
+![Blueprint illustration of The Ratio Problem](../../assets/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-the-ratio-problem.webp)
 
 I’ll put it this way: mayo is roughly 70 to 75 percent of the sauce. That’s a lot more mayo than most home cooks expect. People tend to go heavy on the ketchup because they want that tangy pink color, and they end up with something that tastes like Thousand Island dressing. That’s the number one mistake.
 

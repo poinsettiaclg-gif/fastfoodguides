@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+topic: "Chicken"
 relatedArticles:
   - "mcdonalds-ice-cream-machine"
   - "mcdonalds-abs-system"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand.
+If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand. *(Related guide: [Why Is the McDonald's Ice Cream Machine Always Broken? (The Real Reason)](/articles/mcdonalds-ice-cream-machine/))*
 
 ## What McNuggets Are Actually Made Of
 
-![Blueprint illustration of What McNuggets Are Actually Made Of](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.webp)
+![Blueprint illustration of What McNuggets Are Actually Made Of](../../assets/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.webp)
 
-Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass.
+Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
 
-There is a small amount of chicken skin mixed in. This is not a secret, and it is not a cost-cutting measure. The skin is included for texture and flavor — without it, a ground chicken breast nugget would taste dry and bland. Chicken skin contains fat and collagen that contribute moisture and a richer mouthfeel to the finished product. The amount is small — we are talking about a minor percentage of the total blend, not a 50/50 meat-to-skin ratio.
+There is a small amount of chicken skin mixed in. This is not a secret, and it is not a cost-cutting measure. The skin is included for texture and flavor — without it, a ground chicken breast nugget would taste dry and bland. Chicken skin contains fat and collagen that contribute moisture and a richer mouthfeel to the finished product. The amount is small — we are talking about a minor percentage of the total blend, not a 50/50 meat-to-skin ratio. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
 
 The chicken is also seasoned during processing with salt, pepper, and a handful of other standard food-grade ingredients that serve as binders, preservatives, and flavor enhancers. The full ingredient list is publicly available on McDonald’s website and has been for years. There is nothing on it that would surprise anyone who has ever read the back of a frozen chicken product at the grocery store.
 
@@ -38,7 +39,7 @@ Mechanically separated chicken involves forcing chicken carcasses (bones and all
 
 ## The Factory Process: Breast to Nugget
 
-![Blueprint illustration of The Factory Process: Breast to Nugget](/images/mcdonalds-nugget-process/mcdonalds-nugget-process-the-factory-process-breast-to-.webp)
+![Blueprint illustration of The Factory Process: Breast to Nugget](../../assets/images/mcdonalds-nugget-process/mcdonalds-nugget-process-the-factory-process-breast-to-.webp)
 
 The journey from whole chicken to finished McNugget happens in a processing facility and follows a specific sequence:
 

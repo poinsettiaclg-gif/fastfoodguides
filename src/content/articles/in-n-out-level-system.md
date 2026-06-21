@@ -5,6 +5,7 @@ pubDate: "2026-03-23"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
+topic: "Burgers"
 relatedArticles:
   - "in-n-out-board-station"
   - "in-n-out-secret-menu"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food.
+In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. *(Related guide: [What is the In-N-Out \](/articles/in-n-out-board-station/))*
 
-It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a Wendy's for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it.
+It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a Wendy's for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. *(Related guide: [How to Memorize the In-N-Out POS System and Secret Menu](/articles/in-n-out-secret-menu/))*
 
 ## Level 1: The Foundation (And the Filter)
 
-Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it.
+Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
 
 I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. In-N-Out management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
 
@@ -27,7 +28,7 @@ Associates who show up on time, keep the dining room spotless without prompting,
 
 ## Levels 2 Through 4: Front-of-House Fundamentals
 
-![Technical blueprint of the In-N-Out fry station equipment showing fresh potato dicer, washing sinks, and oil temperature monitors](/images/in-n-out-level-system/in-n-out-fry-station-equipment-schematic.webp)
+![Technical blueprint of the In-N-Out fry station equipment showing fresh potato dicer, washing sinks, and oil temperature monitors](../../assets/images/in-n-out-level-system/in-n-out-fry-station-equipment-schematic.webp)
 
 
 These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of the In-N-Out operation.
@@ -42,7 +43,7 @@ Each level requires a formal evaluation before promotion. And here's what separa
 
 ## Levels 5 Through 7: Kitchen Mastery and Management
 
-![Flat schematic diagram of an In-N-Out Grill station layout highlighting the cooking zones for multiple rows of meat patties](/images/in-n-out-level-system/in-n-out-grill-station-layout-diagram.webp)
+![Flat schematic diagram of an In-N-Out Grill station layout highlighting the cooking zones for multiple rows of meat patties](../../assets/images/in-n-out-level-system/in-n-out-grill-station-layout-diagram.webp)
 
 
 This is where the money gets real, but the difficulty spikes dramatically.

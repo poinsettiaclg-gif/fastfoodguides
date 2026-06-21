@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Shake Shack"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-If you’ve eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I’ve had?”—the answer isn’t a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. Specifically, it’s what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion.
+If you’ve eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I’ve had?”—the answer isn’t a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. Specifically, it’s what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-I’ve watched this technique executed thousands of times across different burger concepts, and Shake Shack has refined it into something that’s almost surgical in its precision. Here’s exactly how it works, why it works, and what makes it fundamentally different from how most other chains cook their burgers.
+I’ve watched this technique executed thousands of times across different burger concepts, and Shake Shack has refined it into something that’s almost surgical in its precision. Here’s exactly how it works, why it works, and what makes it fundamentally different from how most other chains cook their burgers. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 ## The Smash: What Actually Happens on the Flat-Top
 
-![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.webp)
+![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](../../assets/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.webp)
 
-The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it’s designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle.
+The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it’s designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 A cook grabs a portioned ball of beef—roughly 4 ounces for a single ShackBurger patty—and places it directly onto the flat-top griddle. The griddle surface is running hot. We’re talking 400°F to 450°F on the cooking surface, which is significantly hotter than the typical fast-food grill. At this point, the beef ball is just sitting there, round and tall, making almost no contact with the cooking surface.
 
@@ -38,7 +39,7 @@ That single motion is the entire technique. And everything that makes the burger
 
 ## Why the Crust Is the Whole Point
 
-![Blueprint illustration of Why the Crust Is the Whole Point](/images/shake-shack-smash-burger/shake-shack-smash-burger-why-the-crust-is-the-whole-poi.webp)
+![Blueprint illustration of Why the Crust Is the Whole Point](../../assets/images/shake-shack-smash-burger/shake-shack-smash-burger-why-the-crust-is-the-whole-poi.webp)
 
 Here’s the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 

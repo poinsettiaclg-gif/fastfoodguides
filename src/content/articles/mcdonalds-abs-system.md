@@ -5,6 +5,7 @@ pubDate: "2026-04-06"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-pos-crash"
   - "taco-bell-drive-thru-timer"
@@ -13,17 +14,17 @@ relatedArticles:
 
 
 
-If you've been through a McDonald's drive-thru recently, you might have noticed something odd: the cashier at the window didn't pour your drink. They turned around, grabbed a cup off what looked like a small conveyor belt, snapped a lid on it, and handed it to you. The whole thing took maybe five seconds. That piece of machinery is called the ABS—Automated Beverage System—and it is, without exaggeration, the most brilliant piece of automation in the entire fast-food industry. I've worked in half a dozen different chains, and nothing else comes close to the operational impact the ABS has on drive-thru speed. It eliminates an entire labor step from the beverage process and does it more accurately and consistently than any employee ever could. When it's working, it's invisible. When it breaks down during a Friday lunch rush, your entire operation falls apart in about ninety seconds.
+If you've been through a McDonald's drive-thru recently, you might have noticed something odd: the cashier at the window didn't pour your drink. They turned around, grabbed a cup off what looked like a small conveyor belt, snapped a lid on it, and handed it to you. The whole thing took maybe five seconds. That piece of machinery is called the ABS—Automated Beverage System—and it is, without exaggeration, the most brilliant piece of automation in the entire fast-food industry. I've worked in half a dozen different chains, and nothing else comes close to the operational impact the ABS has on drive-thru speed. It eliminates an entire labor step from the beverage process and does it more accurately and consistently than any employee ever could. When it's working, it's invisible. When it breaks down during a Friday lunch rush, your entire operation falls apart in about ninety seconds. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
 
 ## From POS Tap to Finished Cup: The Seamless Connection
 
-The magic starts the instant a customer places their order at the speaker box. When the order taker taps "Medium Diet Coke" on the POS touchscreen, that signal is sent directly to the ABS machine in real time over the store's internal network. There's no delay, no printed ticket, no verbal relay. The POS and the ABS are on the same system, and the moment the drink is confirmed on the register, the ABS has already started working.
+The magic starts the instant a customer places their order at the speaker box. When the order taker taps "Medium Diet Coke" on the POS touchscreen, that signal is sent directly to the ABS machine in real time over the store's internal network. There's no delay, no printed ticket, no verbal relay. The POS and the ABS are on the same system, and the moment the drink is confirmed on the register, the ABS has already started working. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
-The machine has a hopper—a vertical tube—loaded with stacked cups of each size. When it receives the order for a medium, it mechanically drops a medium paper cup onto its internal conveyor belt. In a high-volume store during a dinner rush, the ABS might be processing three to four drinks simultaneously, staggering them along the belt in the exact sequence they were entered at the register. That sequence matters because the drive-thru window presenter is grabbing cups and matching them to cars in order. If the ABS dispensed drinks out of sequence, the window would become a chaotic sorting station instead of a smooth handoff point.
+The machine has a hopper—a vertical tube—loaded with stacked cups of each size. When it receives the order for a medium, it mechanically drops a medium paper cup onto its internal conveyor belt. In a high-volume store during a dinner rush, the ABS might be processing three to four drinks simultaneously, staggering them along the belt in the exact sequence they were entered at the register. That sequence matters because the drive-thru window presenter is grabbing cups and matching them to cars in order. If the ABS dispensed drinks out of sequence, the window would become a chaotic sorting station instead of a smooth handoff point. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
 
 ## The Three-Step Fill Process
 
-![Schematic of the McDonald's Automated Beverage System showing the cup hopper, ice chute, and pouring arm](/images/mcdonalds-abs-system/mcdonalds-automated-beverage-system-conveyor-process.webp)
+![Schematic of the McDonald's Automated Beverage System showing the cup hopper, ice chute, and pouring arm](../../assets/images/mcdonalds-abs-system/mcdonalds-automated-beverage-system-conveyor-process.webp)
 
 
 Once the cup is on the belt, three things happen in rapid succession:
@@ -38,7 +39,7 @@ The entire journey—empty cup drop to finished drink in the staging area—take
 
 ## Why McDonald's Coke Actually Tastes Better
 
-![Technical illustration of a Brix meter used to calibrate syrup-to-water ratios from stainless steel tanks](/images/mcdonalds-abs-system/mcdonalds-coca-cola-brix-meter-calibration.webp)
+![Technical illustration of a Brix meter used to calibrate syrup-to-water ratios from stainless steel tanks](../../assets/images/mcdonalds-abs-system/mcdonalds-coca-cola-brix-meter-calibration.webp)
 
 
 This is one of the most common questions I've gotten over the years, and the ABS is a significant piece of the answer. McDonald's Coca-Cola consistently tastes crisper and more balanced than what you get at other fast food restaurants, and there are multiple factors at play.

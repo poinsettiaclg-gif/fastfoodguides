@@ -5,6 +5,7 @@ pubDate: "2026-03-26"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Jack in the Box"
+topic: "Burgers"
 relatedArticles:
   - "kfc-pressure-fryers"
   - "five-guys-no-freezers"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question.
+The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. *(Related guide: [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/))*
 
-The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard.
+The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
 
 ## They Arrive Pre-Stuffed and Frozen
 
-Here's the biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut.
+Here's the biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
 
 The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from Taco Bell, reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
 
@@ -27,7 +28,7 @@ I've watched new cooks open their first box of frozen Jack tacos and genuinely n
 
 ## The Deep Fryer Does All the Heavy Lifting
 
-![Schematic diagram of frozen Jack in the Box tacos submerged in a 350-degree deep fryer basket](/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-deep-fryer-schematic.webp)
+![Schematic diagram of frozen Jack in the Box tacos submerged in a 350-degree deep fryer basket](../../assets/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-deep-fryer-schematic.webp)
 
 
 When a customer orders tacos, you grab the frozen, meat-filled tortillas and drop them directly into the deep fryer. No thawing, no prep—straight from the freezer into 350°F oil.
@@ -40,7 +41,7 @@ The frying process is what gives the Jack in the Box taco its signature greasy, 
 
 ## The Pry-and-Stuff Technique
 
-![Flat vector illustration showing the mechanical pry-and-stuff technique to insert cheese and lettuce into a fried taco shell](/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-assembly-technique.webp)
+![Flat vector illustration showing the mechanical pry-and-stuff technique to insert cheese and lettuce into a fried taco shell](../../assets/images/jack-in-the-box-tacos-made/jack-in-the-box-taco-assembly-technique.webp)
 
 
 This is where things get weird, and it's the step that makes new cooks nervous. The taco was fried shut, remember? So now you have to open it back up to add the cold toppings.

@@ -5,6 +5,7 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-nugget-process"
   - "mcdonalds-abs-system"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## It's Not Actually Broken (Most of the Time)
 
-The McDonald's ice cream machine meme has taken on a life of its own. There's even a [real-time tracker](https://mcbroken.com) that monitors which locations have working machines. But the reality behind the "broken" machine is more complicated — and more frustrating — than most people realize.
+The McDonald's ice cream machine meme has taken on a life of its own. There's even a [real-time tracker](https://mcbroken.com) that monitors which locations have working machines. But the reality behind the "broken" machine is more complicated — and more frustrating — than most people realize. *(Related guide: [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
 
-**The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes.
+**The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
 
-That cycle takes **up to 4 hours**, and if anything interrupts it — a power flicker, a temperature sensor reading slightly off, someone opening the wrong door — the machine throws an error code and the entire cycle has to start over.
+That cycle takes **up to 4 hours**, and if anything interrupts it — a power flicker, a temperature sensor reading slightly off, someone opening the wrong door — the machine throws an error code and the entire cycle has to start over. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
 
 ## The Machine: Taylor C709
 
@@ -35,7 +36,7 @@ Here's what's inside:
 
 The air incorporation is critical. Soft-serve is typically 30–60% air by volume — this is called **overrun**. Without the right amount of air, the product would be too dense and icy. Too much air and it would be foamy and melt instantly.
 
-![Cutaway diagram of a Taylor C709 showing the hopper, freezing cylinder, dasher blade, and dispensing nozzle](/images/mcdonalds-ice-cream-machine/taylor-c709-cutaway.webp)
+![Cutaway diagram of a Taylor C709 showing the hopper, freezing cylinder, dasher blade, and dispensing nozzle](../../assets/images/mcdonalds-ice-cream-machine/taylor-c709-cutaway.webp)
 
 ## The Heat Cycle: Why the Machine Locks Itself
 
@@ -50,7 +51,7 @@ To handle this, the machine runs an automated **heat pasteurization cycle**, typ
 
 **During this entire cycle, the machine cannot dispense product.** The control panel locks out the dispensing function. If a crew member tries to override it, the machine throws an error.
 
-![Timeline diagram showing the 4-hour heat pasteurization cycle from 11PM to 3AM](/images/mcdonalds-ice-cream-machine/heat-pasteurization-cycle.webp)
+![Timeline diagram showing the 4-hour heat pasteurization cycle from 11PM to 3AM](../../assets/images/mcdonalds-ice-cream-machine/heat-pasteurization-cycle.webp)
 
 ### When Things Go Wrong
 

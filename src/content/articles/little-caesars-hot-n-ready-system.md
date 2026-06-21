@@ -5,6 +5,7 @@ pubDate: "2026-04-04"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Little Caesars"
+topic: "Pizza"
 relatedArticles:
   - "little-caesars-sheetout-machine"
   - "dominos-oven-tender-role"
@@ -13,22 +14,22 @@ relatedArticles:
 
 
 
-Walk into a Little Caesars, hand the cashier your money, and walk out with a hot pepperoni pizza in under thirty seconds. No ordering at a screen. No waiting for your number to be called. No "it'll be about fifteen minutes." Just pizza, immediately, in your hands. It sounds like magic. The reality is a brutally efficient system of precision holding cabinets, grease-pencil time stamps, and demand forecasting that would make a logistics engineer proud—and a shift manager lose sleep. Because here's the thing nobody on the customer side sees: every pizza in that warmer is on a 30-minute death clock, and if your production flow is even slightly off, you're either throwing away hundreds of dollars in wasted food or telling customers to wait eight minutes while the oven catches up. Neither option is acceptable.
+Walk into a Little Caesars, hand the cashier your money, and walk out with a hot pepperoni pizza in under thirty seconds. No ordering at a screen. No waiting for your number to be called. No "it'll be about fifteen minutes." Just pizza, immediately, in your hands. It sounds like magic. The reality is a brutally efficient system of precision holding cabinets, grease-pencil time stamps, and demand forecasting that would make a logistics engineer proud—and a shift manager lose sleep. Because here's the thing nobody on the customer side sees: every pizza in that warmer is on a 30-minute death clock, and if your production flow is even slightly off, you're either throwing away hundreds of dollars in wasted food or telling customers to wait eight minutes while the oven catches up. Neither option is acceptable. *(Related guide: [Why Little Caesars Uses a \](/articles/little-caesars-sheetout-machine/))*
 
 ## The CVap Holding Cabinets: Not Just a Heat Lamp
 
-![Technical diagram showing air temperature and humidity control within a CVap holding cabinet](/images/little-caesars-hot-n-ready-system/little-caesars-cvap-holding-cabinet-diagram.webp)
+![Technical diagram showing air temperature and humidity control within a CVap holding cabinet](../../assets/images/little-caesars-hot-n-ready-system/little-caesars-cvap-holding-cabinet-diagram.webp)
 
 
-Behind the front counter at every Little Caesars, you'll see tall, heated metal cabinets packed with boxed pizzas. Customers assume these are just warmers—big metal boxes with a heating element. They're not. Most locations use CVap (Controlled Vapor Technology) cabinets, and the engineering inside them is significantly more sophisticated than a heat lamp.
+Behind the front counter at every Little Caesars, you'll see tall, heated metal cabinets packed with boxed pizzas. Customers assume these are just warmers—big metal boxes with a heating element. They're not. Most locations use CVap (Controlled Vapor Technology) cabinets, and the engineering inside them is significantly more sophisticated than a heat lamp. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
-A CVap cabinet controls two separate temperature settings simultaneously: one for the air inside the cabinet and one for a water reservoir at the bottom that generates controlled humidity. The air temperature keeps the pizza hot enough to serve safely. The humidity prevents the cheese from drying out, the crust from going stale, and the toppings from turning into leather.
+A CVap cabinet controls two separate temperature settings simultaneously: one for the air inside the cabinet and one for a water reservoir at the bottom that generates controlled humidity. The air temperature keeps the pizza hot enough to serve safely. The humidity prevents the cheese from drying out, the crust from going stale, and the toppings from turning into leather. *(Related guide: [How Does the Pizza Hut Dispatch System Work?](/articles/pizza-hut-dispatch/))*
 
 The balance between these two settings is everything. Too much humidity and the crust gets soggy—customers bite into a limp, steamy mess. Too little humidity and the pizza dries out within minutes—the cheese turns into a rubbery sheet, the crust becomes a cracker. The cabinets are calibrated to corporate specifications, and store managers are trained to check and adjust them regularly. I've seen stores where a manager let the water reservoir run dry during a rush and didn't notice until customers started complaining about rock-hard crust. That's an easily avoidable failure if you build the reservoir check into your hourly routine.
 
 ## The Clock Marking System: 30 Minutes to Live
 
-![Flat vector illustration of the 30-minute grease pencil clock marking system on a pizza box](/images/little-caesars-hot-n-ready-system/little-caesars-pizza-box-time-stamp-system.webp)
+![Flat vector illustration of the 30-minute grease pencil clock marking system on a pizza box](../../assets/images/little-caesars-hot-n-ready-system/little-caesars-pizza-box-time-stamp-system.webp)
 
 
 Every pizza that comes out of the oven gets a time stamp, and the system is designed to be fast and completely idiot-proof during a rush.

@@ -5,6 +5,7 @@ pubDate: "2026-04-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panda Express"
+topic: "Other Chains"
 relatedArticles:
   - "panda-express-wok-chef"
   - "wendys-chili-leftover-hamburgers"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-Walk into any Panda Express at 6:00 PM and the steam table is a beautiful wall of glistening Orange Chicken, sizzling Beijing Beef, and heaping mounds of Chow Mein. The presentation is intentional — corporate wants those pans looking full and abundant because a full steam table sells more food than a half-empty one. But here's the operational reality nobody talks about: all of that visual abundance creates a massive waste problem the moment the last customer walks out.
+Walk into any Panda Express at 6:00 PM and the steam table is a beautiful wall of glistening Orange Chicken, sizzling Beijing Beef, and heaping mounds of Chow Mein. The presentation is intentional — corporate wants those pans looking full and abundant because a full steam table sells more food than a half-empty one. But here's the operational reality nobody talks about: all of that visual abundance creates a massive waste problem the moment the last customer walks out. *(Related guide: [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/))*
 
-I've managed closing shifts where we threw away enough perfectly good food to feed a dozen families. It's one of the most frustrating parts of the job, and it's governed by a system of policies, metrics, and consequences that most customers never see.
+I've managed closing shifts where we threw away enough perfectly good food to feed a dozen families. It's one of the most frustrating parts of the job, and it's governed by a system of policies, metrics, and consequences that most customers never see. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 ## The Strict Waste Logging Policy
 
-![Flat vector technical diagram of a digital food scale and measuring bins for waste logging](/images/panda-express-leftover-food/panda-express-food-waste-scale-diagram.webp)
+![Flat vector technical diagram of a digital food scale and measuring bins for waste logging](../../assets/images/panda-express-leftover-food/panda-express-food-waste-scale-diagram.webp)
 
 
-The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound.
+The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
 
 Why does corporate care this much about leftover Orange Chicken? Because food cost is the single biggest metric a manager is judged on. If the Waste Log shows that you're throwing away 5 pounds of Orange Chicken every night, it means someone — usually the closing [Wok Chef](/articles/panda-express-wok-chef) — is cooking too much food too close to closing time.
 
@@ -32,7 +33,7 @@ The Waste Log also serves a secondary purpose that most crew members don't think
 
 ## The Cut-Off Time Strategy
 
-![Schematic diagram of steam table pan consolidation workflow in neon green and light blue](/images/panda-express-leftover-food/panda-express-steam-table-consolidation.webp)
+![Schematic diagram of steam table pan consolidation workflow in neon green and light blue](../../assets/images/panda-express-leftover-food/panda-express-steam-table-consolidation.webp)
 
 
 Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the Wok Chef to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.

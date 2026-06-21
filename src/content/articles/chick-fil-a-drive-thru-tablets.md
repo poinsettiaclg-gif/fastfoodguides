@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+topic: "Chicken"
 relatedArticles:
   - "chick-fil-a-breading-process"
   - "chick-fil-a-lemonade"
@@ -18,11 +19,11 @@ relatedArticles:
 
 
 
-If you’ve driven through a Chick-fil-A lunch rush in the last several years, you’ve experienced something that doesn’t happen at any other major fast food chain. Before you even reach the menu board, a team member walks up to your car window holding a tablet, takes your order face-to-face, and sends it directly to the kitchen. By the time you pull up to the window, your food is either ready or being assembled.
+If you’ve driven through a Chick-fil-A lunch rush in the last several years, you’ve experienced something that doesn’t happen at any other major fast food chain. Before you even reach the menu board, a team member walks up to your car window holding a tablet, takes your order face-to-face, and sends it directly to the kitchen. By the time you pull up to the window, your food is either ready or being assembled. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-It looks unusual the first time you see it. Why are employees standing outside in the parking lot? Why not just use the speaker box like every other drive-thru? And how do they know which car gets which order when there are 30 vehicles in the lane?
+It looks unusual the first time you see it. Why are employees standing outside in the parking lot? Why not just use the speaker box like every other drive-thru? And how do they know which car gets which order when there are 30 vehicles in the lane? *(Related guide: [How Chick-fil-A Makes Their Lemonade — The Hand-Squeezed Morning Process](/articles/chick-fil-a-lemonade/))*
 
-I’ve talked with plenty of Chick-fil-A operators and team members about this system over the years, and I’ve studied it from an operations standpoint. The short answer is that it’s one of the most effective drive-thru innovations in the QSR industry, and the results back it up — Chick-fil-A consistently has the longest drive-thru lines in fast food and yet some of the fastest actual service times. That paradox is almost entirely explained by the tablet system.
+I’ve talked with plenty of Chick-fil-A operators and team members about this system over the years, and I’ve studied it from an operations standpoint. The short answer is that it’s one of the most effective drive-thru innovations in the QSR industry, and the results back it up — Chick-fil-A consistently has the longest drive-thru lines in fast food and yet some of the fastest actual service times. That paradox is almost entirely explained by the tablet system. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
 
 ## The iPOS System: What Those Tablets Actually Are
 

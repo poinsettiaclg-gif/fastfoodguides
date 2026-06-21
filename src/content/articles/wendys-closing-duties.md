@@ -5,6 +5,7 @@ pubDate: "2026-05-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
+topic: "Burgers"
 relatedArticles:
   - "wendys-frosty-machine-boil-out"
   - "wendys-clamshell-grill"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-Closing a fast food restaurant is a grueling, exhausting process that separates the new hires from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors. You aren't filtering the fryers. You aren't doing the [Frosty machine boil-out](/articles/wendys-frosty-machine-boil-out). Your sole mission is to break down the sandwich station, secure the food, sanitize everything, and leave the boards ready for the morning crew.
+Closing a fast food restaurant is a grueling, exhausting process that separates the new hires from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors. You aren't filtering the fryers. You aren't doing the [Frosty machine boil-out](/articles/wendys-frosty-machine-boil-out). Your sole mission is to break down the sandwich station, secure the food, sanitize everything, and leave the boards ready for the morning crew. *(Related guide: [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
 
-Here's the exact checklist, from the moment the pre-close starts until the manager unlocks the back door and lets you leave.
+Here's the exact checklist, from the moment the pre-close starts until the manager unlocks the back door and lets you leave. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
 ## Phase 1: The Pre-Close (Starting Around 10:00 PM)
 
-The secret to getting out early is pre-closing. If you wait until the store officially closes to start cleaning, you are going to be there until midnight or later, watching your manager get progressively more irritated. The best closers start chipping away at tasks during slow moments in the final hour.
+The secret to getting out early is pre-closing. If you wait until the store officially closes to start cleaning, you are going to be there until midnight or later, watching your manager get progressively more irritated. The best closers start chipping away at tasks during slow moments in the final hour. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 - **Condense the Pans:** If you have two half-empty pans of tomatoes, combine them into one clean pan. This frees up the dirty pan for the dishwasher to wash early, getting it off your plate entirely.
 - **Wipe Down the Backsplash:** Take a sanitizer towel and thoroughly clean the stainless steel backsplash behind your station. This is one of those tasks that takes 60 seconds during pre-close but somehow takes five minutes when you're rushing at the end.
@@ -29,7 +30,7 @@ Pre-closing is genuinely an art form. The best closers I've ever managed were th
 
 ## Phase 2: Breaking Down the Boards
 
-![Technical schematic of metal food pans tightly sealed with plastic wrap](/images/wendys-closing-duties/wendys-wrapped-food-pans.webp)
+![Technical schematic of metal food pans tightly sealed with plastic wrap](../../assets/images/wendys-closing-duties/wendys-wrapped-food-pans.webp)
 
 
 Once the manager announces the drive-thru is officially closed, the real work begins and the pressure turns up.
@@ -42,7 +43,7 @@ Once the manager announces the drive-thru is officially closed, the real work be
 
 ## Phase 3: The Three-Compartment Sink
 
-![Technical schematic of a three-compartment commercial sink with metal inserts](/images/wendys-closing-duties/wendys-three-compartment-sink.webp)
+![Technical schematic of a three-compartment commercial sink with metal inserts](../../assets/images/wendys-closing-duties/wendys-three-compartment-sink.webp)
 
 
 The metal inserts and cutting boards go through the standard three-sink wash process:

@@ -5,6 +5,7 @@ pubDate: "2026-04-30"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
   - "subway-wrap-folding"
@@ -13,19 +14,19 @@ relatedArticles:
 
 
 
-When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. Here's exactly how the Bain works, why the fill line exists, and how to manage it properly during a rush.
+When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. Here's exactly how the Bain works, why the fill line exists, and how to manage it properly during a rush. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
 ## How the Bain-Marie Actually Cools Food
 
-Unlike a standard refrigerator that surrounds food with cold walls and a sealed door, the Subway Bain is an open-air cooler. The pans sit exposed to the restaurant so customers can see (and point at) exactly what they want on their sandwich. So how does it keep food cold without a door?
+Unlike a standard refrigerator that surrounds food with cold walls and a sealed door, the Subway Bain is an open-air cooler. The pans sit exposed to the restaurant so customers can see (and point at) exactly what they want on their sandwich. So how does it keep food cold without a door? *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
 
-The Bain uses a forced-air refrigeration system that constantly blows a blanket of freezing cold air horizontally across the top of the metal ingredient pans. Carefully positioned vents along the back edge of the Bain push refrigerated air forward, across the surface of every pan, and a return vent at the front draws the air back in to be recooled. This creates a continuous loop of cold air flowing over the food.
+The Bain uses a forced-air refrigeration system that constantly blows a blanket of freezing cold air horizontally across the top of the metal ingredient pans. Carefully positioned vents along the back edge of the Bain push refrigerated air forward, across the surface of every pan, and a return vent at the front draws the air back in to be recooled. This creates a continuous loop of cold air flowing over the food. *(Related guide: [How to Master the Subway POS When a Customer Orders Out of Order](/articles/subway-pos-out-of-order/))*
 
 The target temperature at the food surface is 41°F (5°C) or below. The unit itself typically blows air at an even lower temperature—around 34°F to 36°F—to compensate for the fact that an open-air system is inherently less efficient than a sealed refrigerator. Heat from the restaurant, customers leaning over the glass, and the constant opening and closing of pans all work against the system. It's an engineering compromise that works well—but only if you follow the rules.
 
 ## The Fill Line Rule: Why Overfilling Is Dangerous
 
-![Technical diagram of a sandwich line Bain forced-air cooling system and fill line](/images/subway-bain-fill-line-rule/subway-bain-cooling-system-schematic.webp)
+![Technical diagram of a sandwich line Bain forced-air cooling system and fill line](../../assets/images/subway-bain-fill-line-rule/subway-bain-cooling-system-schematic.webp)
 
 
 During a heavy lunch rush, it's tempting to grab a massive bag of shredded lettuce and pile it into a mountain inside the Cambro pan so you don't have to restock for an hour. I get the impulse. You're slammed, you're making sandwiches as fast as you can, and stopping to swap pans feels like a luxury you can't afford.
@@ -36,7 +37,7 @@ Here's what happens next: within an hour, the top layer of turkey starts sweatin
 
 ## Temperature Logging: The Paper Trail That Saves You
 
-![Technical schematic of a calibrated food safety probe thermometer](/images/subway-bain-fill-line-rule/subway-calibrated-probe-thermometer-schematic.webp)
+![Technical schematic of a calibrated food safety probe thermometer](../../assets/images/subway-bain-fill-line-rule/subway-calibrated-probe-thermometer-schematic.webp)
 
 
 Eyeballing the fill line isn't enough. Most Subway locations are required to log the temperature of the Bain at set intervals throughout the day—typically every four hours. The Shift Lead or a designated Sandwich Artist uses a calibrated probe thermometer to check the surface temperature of several pans, and the readings go onto a clipboard or into a digital system.

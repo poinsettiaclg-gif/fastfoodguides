@@ -5,21 +5,22 @@ pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Popeyes"
+topic: "Chicken"
 relatedArticles:
   - "popeyes-chicken-battering-process"
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
 ---
 
-You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane.
+You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
 
-Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or lazy employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, I can tell you the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it.
+Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or lazy employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, I can tell you the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
 ## The Chicken Takes 25 Minutes to Cook
 
 This is the core issue that everything else flows from.
 
-Popeyes uses commercial pressure fryers — the same type of equipment KFC uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size.
+Popeyes uses commercial pressure fryers — the same type of equipment KFC uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 Twenty-five minutes. Not five minutes like McDonald's nuggets. Not eight minutes like a Chick-fil-A filet. Twenty-five full minutes from the moment the lid locks to the moment the chicken comes out.
 

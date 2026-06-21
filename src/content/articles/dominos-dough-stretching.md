@@ -5,6 +5,7 @@ pubDate: "2026-06-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
+topic: "Pizza"
 relatedArticles:
   - "dominos-gas"
   - "dominos-20-bank-rule"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## The Dough Does Not Arrive as Dough
 
-This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size.
+This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
 
-A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide.
+A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
 
-The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch.
+The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
 This is why prep timing matters so much. If the morning crew doesn't pull enough dough trays in time, the evening rush crew is stretching cold, resistant dough that tears easily and won't hold its shape.
 
@@ -35,7 +36,7 @@ The dough ball is placed on the floured surface and **pressed outward from the c
 
 A common rookie mistake is pressing too aggressively in the center, creating a paper-thin spot that tears during baking or when toppings are added. Experienced stretchers develop a feel for how thin is "thin enough" — typically about 3-4mm in the center.
 
-![Top-down diagram showing the 4 stages of hand-stretching a Domino's pizza dough from ball to 14-inch round](/images/dominos-dough-stretching/dough-stretch-stages.webp)
+![Top-down diagram showing the 4 stages of hand-stretching a Domino's pizza dough from ball to 14-inch round](../../assets/images/dominos-dough-stretching/dough-stretch-stages.webp)
 
 ### Step 3: Stretch to Size
 
@@ -67,7 +68,7 @@ From left to right, a standard Domino's makeline looks like this:
 4. **Topping bins** — a refrigerated rail of 15-20 toppings, each in its own compartment
 5. **Oven entrance** — the conveyor belt that feeds into the impinger oven
 
-![Side-view schematic of a Domino's makeline showing the assembly flow from dough to oven entrance](/images/dominos-dough-stretching/makeline-assembly-flow.webp)
+![Side-view schematic of a Domino's makeline showing the assembly flow from dough to oven entrance](../../assets/images/dominos-dough-stretching/makeline-assembly-flow.webp)
 
 ### The 2-Minute Build Target
 

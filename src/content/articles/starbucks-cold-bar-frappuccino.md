@@ -5,6 +5,7 @@ pubDate: "2026-04-24"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "starbucks-customer-support-cycle"
   - "starbucks-morning-rush"
@@ -12,16 +13,16 @@ relatedArticles:
 ---
 
 
-The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. Here's the exact sequencing routine you need to memorize and the operational details that corporate training breezes past.
+The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. Here's the exact sequencing routine you need to memorize and the operational details that corporate training breezes past. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
 
 ## The Frappuccino Build: Step by Step
 
-![Blueprint-style schematic of a commercial blender pitcher and blade assembly](/images/starbucks-cold-bar-frappuccino/starbucks-vitamix-blender-pitcher-schematic.webp)
+![Blueprint-style schematic of a commercial blender pitcher and blade assembly](../../assets/images/starbucks-cold-bar-frappuccino/starbucks-vitamix-blender-pitcher-schematic.webp)
 
 
-Frappuccinos involve more steps than any other drink on the Starbucks menu. You cannot muscle through them one at a time during a rush—you have to sequence them. Here's the exact build order:
+Frappuccinos involve more steps than any other drink on the Starbucks menu. You cannot muscle through them one at a time during a rush—you have to sequence them. Here's the exact build order: *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
 
-1. **Pump the Frap Roast.** Pump the Frap Roast (the coffee base concentrate) directly into the plastic serving cup. For coffee-based Frappuccinos, this is your starting point. For Creme-based Frappuccinos like Vanilla Bean or Strawberry, you skip this step entirely.
+1. **Pump the Frap Roast.** Pump the Frap Roast (the coffee base concentrate) directly into the plastic serving cup. For coffee-based Frappuccinos, this is your starting point. For Creme-based Frappuccinos like Vanilla Bean or Strawberry, you skip this step entirely. *(Related guide: [How the Starbucks \](/articles/starbucks-pull-to-thaw/))*
 2. **Pour the Milk.** Pour whole milk (or the customer's requested milk) into the cup up to the lower black line. Not the upper line—the lower one. I've seen new baristas fill to the wrong line and end up with a watery, thin Frappuccino that gets sent back immediately.
 3. **Dump into the Blender.** Pour the cup contents into the blender pitcher.
 4. **Add Flavor and Ice.** Pump the correct syrup—Caramel, Mocha, Java Chips, whatever the recipe calls for—directly into the blender pitcher. Then add the correct scoop of ice. Tall gets a smaller scoop, Grande and Venti get progressively larger.
@@ -42,7 +43,7 @@ The key to clean sequencing is station organization. Before the rush hits, your 
 
 ## CBS Pumps vs. Hot Bar Pumps: The Mistake That Ruins Drinks
 
-![Flat vector technical schematic of a CBS syrup pump dispenser mechanism](/images/starbucks-cold-bar-frappuccino/starbucks-cbs-syrup-pump-schematic.webp)
+![Flat vector technical schematic of a CBS syrup pump dispenser mechanism](../../assets/images/starbucks-cold-bar-frappuccino/starbucks-cbs-syrup-pump-schematic.webp)
 
 
 This is the single most common Cold Bar error, and it trips up experienced baristas who transfer from Hot Bar, not just new hires.

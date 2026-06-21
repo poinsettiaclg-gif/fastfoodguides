@@ -5,6 +5,7 @@ pubDate: "2026-05-07"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+topic: "Mexican"
 relatedArticles:
   - "taco-bell-linebacker-role"
   - "taco-bell-drive-thru-timer"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart.
+Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
 
-Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. New hires stare at the build cards posted above the line and feel their brains short-circuit. But here is the secret that every veteran Food Champion knows, and that I wish someone had told me on day one: Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable.
+Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. New hires stare at the build cards posted above the line and feel their brains short-circuit. But here is the secret that every veteran Food Champion knows, and that I wish someone had told me on day one: Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
-The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made.
+The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
 
 - **The Supreme Base:** Whenever an item says "Supreme"—Taco Supreme, Chalupa Supreme—it almost always means you take the standard build and add sour cream and diced tomatoes. That is it. Two extra ingredients.
 - **The Burrito Base:** Most standard burritos start with a flour tortilla, a scoop of beans, a scoop of beef, or both. The differentiator is the sauce and one or two unique toppings.
@@ -29,7 +30,7 @@ Take the Cheesy Gordita Crunch. It sounds complicated. But it is just the standa
 
 ## The Portion Control System: Scoops Over Ounces
 
-![Technical diagram of the Taco Bell blue portion control scoop](/images/taco-bell-menu/taco-bell-portion-control-scoop.webp)
+![Technical diagram of the Taco Bell blue portion control scoop](../../assets/images/taco-bell-menu/taco-bell-portion-control-scoop.webp)
 
 
 Taco Bell relies heavily on strict portion control, and the system is designed to be intuitive once you understand the tools:
@@ -44,7 +45,7 @@ Here is why portion control matters more than most new hires realize: over-porti
 
 ## The Crunchwrap Supreme Cheat Code
 
-![Blueprint style schematic of the Taco Bell clamshell grill press heating elements](/images/taco-bell-menu/taco-bell-grill-press-elements.webp)
+![Blueprint style schematic of the Taco Bell clamshell grill press heating elements](../../assets/images/taco-bell-menu/taco-bell-grill-press-elements.webp)
 
 
 The Crunchwrap is the item that intimidates new hires the most, not because the ingredients are complicated but because of the fold. Here is the exact build order:

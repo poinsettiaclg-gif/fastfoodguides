@@ -5,21 +5,22 @@ pubDate: "2026-06-12"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Denny's"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
 ---
 
-The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen.
+The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way.
+I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 Here's how the whole thing actually works, from the ticket printer to the pass.
 
 ## The Flat-Top Is the Entire Operation
 
-Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant.
+Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 The surface temperature sits between 350°F and 375°F depending on the zone. Most cooks run the left side slightly hotter for pancakes and the right side a touch cooler for eggs. You don't get separate temperature dials for each section on most units, so you learn where the hot spots and dead spots are through repetition. After a few weeks, you know that the back-left corner runs about 15 degrees hotter than the front-right.
 

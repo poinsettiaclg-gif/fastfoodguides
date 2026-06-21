@@ -5,6 +5,7 @@ pubDate: "2026-04-11"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panera Bread"
+topic: "Other Chains"
 relatedArticles:
   - "panera-overnight-baker"
   - "burger-king-expeditor-role"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-During a lunch rush at Panera Bread, the production line is a flurry of organized chaos. There are people making sandwiches on one station, people tossing salads on another, and people ladling soup at a third. Items come off these stations at different speeds, in different containers, heading to different customers — and somehow, they all need to end up on the right tray with the right side item before reaching the right person.
+During a lunch rush at Panera Bread, the production line is a flurry of organized chaos. There are people making sandwiches on one station, people tossing salads on another, and people ladling soup at a third. Items come off these stations at different speeds, in different containers, heading to different customers — and somehow, they all need to end up on the right tray with the right side item before reaching the right person. *(Related guide: [What is the Panera Overnight Baker Shift Like?](/articles/panera-overnight-baker/))*
 
-That's where the Consolidator comes in. Standing at the very end of the production line, this person touches every single order before it leaves the kitchen. If you get assigned to this position, you are the final boss. You are the last line of defense between the kitchen and an angry customer holding a bowl of Broccoli Cheddar soup that was supposed to be Tomato.
+That's where the Consolidator comes in. Standing at the very end of the production line, this person touches every single order before it leaves the kitchen. If you get assigned to this position, you are the final boss. You are the last line of defense between the kitchen and an angry customer holding a bowl of Broccoli Cheddar soup that was supposed to be Tomato. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
 
 ## The Master of the "You Pick Two"
 
-![Schematic diagram of a Panera kitchen consolidation staging area for multi-station orders](/images/panera-bread-consolidator-role/panera-bread-kitchen-consolidation-layout.webp)
+![Schematic diagram of a Panera kitchen consolidation staging area for multi-station orders](../../assets/images/panera-bread-consolidator-role/panera-bread-kitchen-consolidation-layout.webp)
 
 
-Here's the thing nobody tells you about Panera: the most popular menu item is also the biggest operational headache. The "You Pick Two" lets a customer pair a half-sandwich with a half-salad or a cup of soup. Customers love it. The kitchen hates it.
+Here's the thing nobody tells you about Panera: the most popular menu item is also the biggest operational headache. The "You Pick Two" lets a customer pair a half-sandwich with a half-salad or a cup of soup. Customers love it. The kitchen hates it. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
 
 Why? Because the sandwich comes from one station, the soup comes from a completely different station, and the salad comes from yet another. These items don't finish at the same time. The Turkey Bravo might be done 90 seconds before the Broccoli Cheddar is ladled. During that gap, the Consolidator is holding a half-sandwich with no matching partner, watching the screen fill up with more incomplete orders.
 
@@ -32,7 +33,7 @@ If you lose track of which half-sandwich belongs to which combo, the entire orde
 
 ## The Quality Control Check
 
-![Technical layout diagram of a quality control tray with soup and sandwich presentation standards](/images/panera-bread-consolidator-role/panera-bread-quality-control-tray.webp)
+![Technical layout diagram of a quality control tray with soup and sandwich presentation standards](../../assets/images/panera-bread-consolidator-role/panera-bread-quality-control-tray.webp)
 
 
 The Consolidator is Panera's last line of defense against remakes and customer complaints. Before a plate leaves the kitchen, the Consolidator must quickly verify:

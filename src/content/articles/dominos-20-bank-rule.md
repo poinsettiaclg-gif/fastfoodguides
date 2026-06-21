@@ -5,6 +5,7 @@ pubDate: "2026-03-13"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
+topic: "Pizza"
 relatedArticles:
   - "dominos-gas"
   - "dominos-oven-tender-role"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule.
+Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
 
-I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Here's exactly how it operates and why every dollar is tracked.
+I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Here's exactly how it operates and why every dollar is tracked. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
 ## How the $20 Bank Works
 
-When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash.
+When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. *(Related guide: [What Happens if a Pizza Delivery Driver Gets in an Accident?](/articles/pizza-delivery-driver-accident/))*
 
 The rule is absolute: you are never, under any circumstances, allowed to have more than $20 of the store's money in your possession while out on a delivery. The stickers plastered on every Domino's delivery bag, every store window, and often on the car topper itself all say the same thing: "Driver Carries Less Than $20."
 
@@ -27,7 +28,7 @@ At the end of your shift, you must return the bank in full. If you come back sho
 
 ## The Cash Drop System
 
-![Technical blueprint of a store smart safe showing the cash drop deposit mechanism](/images/dominos-20-bank-rule/dominos-driver-smart-safe-drop-system.webp)
+![Technical blueprint of a store smart safe showing the cash drop deposit mechanism](../../assets/images/dominos-20-bank-rule/dominos-driver-smart-safe-drop-system.webp)
 
 
 Here's where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
@@ -40,7 +41,7 @@ I've fired drivers for this. Not because I wanted to—because the policy is iro
 
 ## The Double and Triple Run Complication
 
-![Diagram illustrating the separation of a $20 driver bank from collected store cash during a multi-delivery run](/images/dominos-20-bank-rule/dominos-driver-cash-bank-segregation-diagram.webp)
+![Diagram illustrating the separation of a $20 driver bank from collected store cash during a multi-delivery run](../../assets/images/dominos-20-bank-rule/dominos-driver-cash-bank-segregation-diagram.webp)
 
 
 The $20 rule gets complicated during busy Friday and Saturday nights when drivers take multiple deliveries per run. If you're carrying two or three orders at once—a "double" or a "triple"—you might collect cash from multiple customers before returning to the store.

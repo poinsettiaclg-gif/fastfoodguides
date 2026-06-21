@@ -5,6 +5,7 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+topic: "Mexican"
 relatedArticles:
   - "taco-bell-menu"
   - "taco-bell-linebacker-role"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## It Starts as a Flat Disc of Dough
 
-The Chalupa Supreme is one of Taco Bell's most popular premium items, and the shell is what makes it distinct from everything else on the menu. Unlike the hard corn taco shell (shipped pre-formed) or the soft flour tortilla (shipped flat and steamed), the Chalupa shell is **deep-fried in the restaurant from a pre-formed disc of raw flatbread dough**.
+The Chalupa Supreme is one of Taco Bell's most popular premium items, and the shell is what makes it distinct from everything else on the menu. Unlike the hard corn taco shell (shipped pre-formed) or the soft flour tortilla (shipped flat and steamed), the Chalupa shell is **deep-fried in the restaurant from a pre-formed disc of raw flatbread dough**. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
 
-The dough arrives at the restaurant as **frozen, pre-portioned discs** — flat circles of yeast-leavened dough, roughly 6 inches in diameter and about a quarter-inch thick. They're stored in the walk-in freezer and pulled to thaw as needed throughout the day.
+The dough arrives at the restaurant as **frozen, pre-portioned discs** — flat circles of yeast-leavened dough, roughly 6 inches in diameter and about a quarter-inch thick. They're stored in the walk-in freezer and pulled to thaw as needed throughout the day. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
 
-This is not a tortilla. It's closer to a naan or pita dough — a yeast-based bread dough that puffs and develops air pockets when it hits hot oil. That puffing is exactly what creates the Chalupa's distinctive puffy, chewy texture that sits somewhere between a taco shell and a piece of fried bread.
+This is not a tortilla. It's closer to a naan or pita dough — a yeast-based bread dough that puffs and develops air pockets when it hits hot oil. That puffing is exactly what creates the Chalupa's distinctive puffy, chewy texture that sits somewhere between a taco shell and a piece of fried bread. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
 
 ## The Fryer Mold: Engineering the Shape
 
@@ -38,7 +39,7 @@ When the dough hits the **350°F oil**, it immediately begins to puff. But becau
 - A **puffy, blistered exterior** with air pockets throughout
 - A **chewy, bread-like interior** that's denser than a tortilla but lighter than a roll
 
-![Side-view diagram of the chalupa fryer mold showing dough placement, submersion, and puffed shell removal](/images/taco-bell-chalupa-shell/chalupa-fryer-mold.webp)
+![Side-view diagram of the chalupa fryer mold showing dough placement, submersion, and puffed shell removal](../../assets/images/taco-bell-chalupa-shell/chalupa-fryer-mold.webp)
 
 ### Timing Is Everything
 
@@ -75,7 +76,7 @@ Once the shell comes out of the fryer and drains for a few seconds, it moves to 
 5. **Three-cheese blend** — a mix of cheddar, pepper jack, and mozzarella
 6. **Sour cream** — a measured portion on top
 
-![Front-view schematic of the Chalupa Supreme assembly showing each layer in build order](/images/taco-bell-chalupa-shell/chalupa-assembly-line.webp)
+![Front-view schematic of the Chalupa Supreme assembly showing each layer in build order](../../assets/images/taco-bell-chalupa-shell/chalupa-assembly-line.webp)
 
 ### The Steak and Chicken Variants
 

@@ -5,6 +5,7 @@ pubDate: "2026-04-22"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sonic Drive-In"
+topic: "Other Chains"
 relatedArticles:
   - "sonic-switchboard-how-it-works"
   - "dairy-queen-perfect-cone-curl"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels.
+When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels. *(Related guide: [How Does the Sonic Drive-In Switchboard Actually Work?](/articles/sonic-switchboard-how-it-works/))*
 
-But if you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain.
+But if you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. *(Related guide: [How to Make the Perfect Dairy Queen Cone Curl](/articles/dairy-queen-perfect-cone-curl/))*
 
 ## Is Skating Actually Required?
 
-The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it.
+The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
 
 **The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There's nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
 
@@ -31,7 +32,7 @@ If you've never skated before, most managers will let you practice in the parkin
 
 ## The Skates: What You Actually Wear
 
-![Technical wireframe diagram comparing the footprint of quad roller skates to inline skates](/images/sonic-carhops-roller-skate/sonic-carhop-quad-roller-skate-schematic.webp)
+![Technical wireframe diagram comparing the footprint of quad roller skates to inline skates](../../assets/images/sonic-carhops-roller-skate/sonic-carhop-quad-roller-skate-schematic.webp)
 
 
 Sonic doesn't issue a standardized pair of skates to every carhop. Policies vary by franchise — some stores keep a communal set in common sizes, but sharing skates is unpopular for obvious hygiene reasons. If you plan to skate regularly, buying your own pair is the move for fit, comfort, and not strapping on someone else's sweat-soaked wheels.
@@ -40,7 +41,7 @@ Here's a detail that matters more than people think: most skating carhops choose
 
 ## How They Don't Spill: The Tray Technique
 
-![Flat vector diagram of the Sonic carhop single-palm tray carrying technique](/images/sonic-carhops-roller-skate/sonic-carhop-palm-tray-technique.webp)
+![Flat vector diagram of the Sonic carhop single-palm tray carrying technique](../../assets/images/sonic-carhops-roller-skate/sonic-carhop-palm-tray-technique.webp)
 
 
 Whether you skate or walk, mastering the Sonic tray is an acquired skill that every new carhop has to learn — usually the hard way.

@@ -5,6 +5,7 @@ pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Five Guys"
+topic: "Burgers"
 relatedArticles:
   - "five-guys-fry-calibration"
   - "five-guys-no-freezers"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## The Beef Arrives Fresh. Every Single Day.
 
-Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out.
+Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
 
-This is the same principle as Wendy's "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale.
+This is the same principle as Wendy's "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
 
-The standard weight for a "little" hamburger patty (the single) is approximately **3.3 ounces** of raw beef. A regular hamburger gets two patties. This means a standard Five Guys burger has roughly 6.6 ounces of raw beef before cooking — significantly more than most fast food competitors.
+The standard weight for a "little" hamburger patty (the single) is approximately **3.3 ounces** of raw beef. A regular hamburger gets two patties. This means a standard Five Guys burger has roughly 6.6 ounces of raw beef before cooking — significantly more than most fast food competitors. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
 ## The Hand-Smash Process
 
@@ -35,7 +36,7 @@ The smash accomplishes two critical things:
 - **Maximizes surface contact** with the hot grill, creating a deep Maillard crust
 - **Sets the patty's shape** before the proteins seize up from the heat
 
-![Side-view diagram showing the Five Guys burger smash process: ball placement, press smash, sear, and flip](/images/five-guys-burger-build/burger-smash-process.webp)
+![Side-view diagram showing the Five Guys burger smash process: ball placement, press smash, sear, and flip](../../assets/images/five-guys-burger-build/burger-smash-process.webp)
 
 ### Step 3: Season and Wait
 
@@ -69,7 +70,7 @@ Five Guys' most famous operational feature is their **unlimited free toppings** 
 
 The topping station is set up as a long line of **stainless steel bins** filled with pre-prepped ingredients:
 
-![Front-view schematic of the Five Guys topping station showing 15+ ingredient bins and assembly area](/images/five-guys-burger-build/toppings-station-layout.webp)
+![Front-view schematic of the Five Guys topping station showing 15+ ingredient bins and assembly area](../../assets/images/five-guys-burger-build/toppings-station-layout.webp)
 
 ### The Standard Toppings (All Free)
 

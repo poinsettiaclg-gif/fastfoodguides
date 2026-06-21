@@ -5,6 +5,7 @@ pubDate: "2026-04-23"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sonic Drive-In"
+topic: "Other Chains"
 relatedArticles:
   - "sonic-carhops-roller-skate"
   - "taco-bell-drive-thru-timer"
@@ -12,16 +13,16 @@ relatedArticles:
 ---
 
 
-At most fast food joints, taking drive-thru orders means one lane, one headset, one conversation at a time. Sonic Drive-In threw that entire concept out the window. Between twenty to thirty individual parking stalls, a standard drive-thru lane, and a constant stream of mobile orders, the person running the Sonic switchboard is essentially operating an air traffic control tower for cheeseburgers and Cherry Limeades. I've trained switchboard operators who picked it up in a week and others who never quite got comfortable with the organized chaos. Here's exactly how it works and what nobody tells you about the job.
+At most fast food joints, taking drive-thru orders means one lane, one headset, one conversation at a time. Sonic Drive-In threw that entire concept out the window. Between twenty to thirty individual parking stalls, a standard drive-thru lane, and a constant stream of mobile orders, the person running the Sonic switchboard is essentially operating an air traffic control tower for cheeseburgers and Cherry Limeades. I've trained switchboard operators who picked it up in a week and others who never quite got comfortable with the organized chaos. Here's exactly how it works and what nobody tells you about the job. *(Related guide: [Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)](/articles/sonic-carhops-roller-skate/))*
 
 ## The Physical Switchboard Console
 
-![Technical schematic of a Sonic switchboard console with stall buttons and two-way radio channels](/images/sonic-switchboard-how-it-works/sonic-switchboard-console-schematic.webp)
+![Technical schematic of a Sonic switchboard console with stall buttons and two-way radio channels](../../assets/images/sonic-switchboard-how-it-works/sonic-switchboard-console-schematic.webp)
 
 
-Depending on how old your Sonic location is, the switchboard is either a massive physical console covered in numbered buttons that glow red when pressed, or a large touchscreen monitor that does the same thing digitally. Both accomplish the same task, but the experience of using them is surprisingly different.
+Depending on how old your Sonic location is, the switchboard is either a massive physical console covered in numbered buttons that glow red when pressed, or a large touchscreen monitor that does the same thing digitally. Both accomplish the same task, but the experience of using them is surprisingly different. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
-The older physical consoles have a tactile advantage. You can feel the buttons under your fingers, which matters when you're reaching for Stall #14 without looking down because you're simultaneously punching an order into the POS. The touchscreens are sleeker and easier to maintain, but I've watched new hires accidentally tap the wrong stall number because the on-screen icons are small and their fingers are greasy from handling food.
+The older physical consoles have a tactile advantage. You can feel the buttons under your fingers, which matters when you're reaching for Stall #14 without looking down because you're simultaneously punching an order into the POS. The touchscreens are sleeker and easier to maintain, but I've watched new hires accidentally tap the wrong stall number because the on-screen icons are small and their fingers are greasy from handling food. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
 
 Here's how the core mechanic works: when a customer pulls into Stall #14 and presses the big red button on the menu board outside, Button #14 on the switchboard starts flashing red and a loud tone fires through the operator's headset. The operator presses that button to open a two-way radio channel to that specific stall's speaker. They greet the customer, take the order, punch it into the POS, hit "Send," and move on to the next flashing light.
 
@@ -54,7 +55,7 @@ But mobile orders introduced a problem nobody anticipated: stall conflicts. If a
 
 ## The Drive-Thru Lane and Staffing
 
-![Technical diagram of a fast food drive-thru headset system transceiver](/images/sonic-switchboard-how-it-works/sonic-drive-thru-headset-schematic.webp)
+![Technical diagram of a fast food drive-thru headset system transceiver](../../assets/images/sonic-switchboard-how-it-works/sonic-drive-thru-headset-schematic.webp)
 
 
 Most Sonic locations also have a traditional drive-thru lane, managed through a separate headset system similar to what you'd find at [Taco Bell](/articles/taco-bell-drive-thru-timer) or McDonald's. Whether the switchboard operator is also responsible for the drive-thru depends entirely on staffing.

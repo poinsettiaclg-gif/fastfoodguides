@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-nugget-process"
   - "mcdonalds-ice-cream-machine"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve.
+McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve. *(Related guide: [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
 
-I’ve worked fry station at McDonald’s, and I can tell you that the process is simultaneously simpler and more precise than most people expect. There’s no secret chef technique. There’s no magic seasoning blend applied in the back. What there is, however, is a factory process that does most of the heavy lifting before the fries ever reach the restaurant, and an in-store procedure that’s engineered down to the second.
+I’ve worked fry station at McDonald’s, and I can tell you that the process is simultaneously simpler and more precise than most people expect. There’s no secret chef technique. There’s no magic seasoning blend applied in the back. What there is, however, is a factory process that does most of the heavy lifting before the fries ever reach the restaurant, and an in-store procedure that’s engineered down to the second. *(Related guide: [Why Is the McDonald's Ice Cream Machine Always Broken? (The Real Reason)](/articles/mcdonalds-ice-cream-machine/))*
 
 Here’s the full picture — from potato field to the cardboard sleeve in your bag.
 
 ## What Happens Before the Fries Reach the Restaurant
 
-Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do.
+Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. The potatoes are sourced from farms across the Pacific Northwest, the Midwest, and parts of Canada.
 

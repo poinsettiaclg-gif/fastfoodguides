@@ -5,6 +5,7 @@ pubDate: "2026-04-01"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "KFC"
+topic: "Chicken"
 relatedArticles:
   - "kfc-coleslaw-secret"
   - "kfc-pressure-fryers"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food.
+I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food. *(Related guide: [The Secret to KFC Coleslaw: Why It Sits Overnight](/articles/kfc-coleslaw-secret/))*
 
 ## Original Recipe: The Pressure Fryer
 
-![Blueprint-style diagram of a Collectramatic pressure fryer showing internal steam and pressure mechanics](/images/kfc-original-vs-extra-crispy/kfc-collectramatic-pressure-fryer-schematic.webp)
+![Blueprint-style diagram of a Collectramatic pressure fryer showing internal steam and pressure mechanics](../../assets/images/kfc-original-vs-extra-crispy/kfc-collectramatic-pressure-fryer-schematic.webp)
 
 
-Original Recipe is the flagship. The Colonel's legacy product. And it's cooked in a machine that most home cooks have never seen: a Collectramatic Pressure Fryer.
+Original Recipe is the flagship. The Colonel's legacy product. And it's cooked in a machine that most home cooks have never seen: a Collectramatic Pressure Fryer. *(Related guide: [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/))*
 
-The breading process is straightforward—each piece of raw chicken gets a single, even coat of the seasoned flour. Shake off the excess, place it on the rack. That's it. The magic happens inside the machine.
+The breading process is straightforward—each piece of raw chicken gets a single, even coat of the seasoned flour. Shake off the excess, place it on the rack. That's it. The magic happens inside the machine. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
 
 The cook loads the rack into a heavy metal basket, lowers it into 350-degree oil, and locks the lid shut. Once sealed, the machine builds internal pressure as the moisture from the chicken turns to steam with nowhere to escape. This creates a sealed steam-and-oil environment that does two remarkable things simultaneously: it cooks the chicken significantly faster—about 15 minutes versus 20-plus in an open fryer—and it forces moisture back into the meat instead of allowing it to evaporate.
 
@@ -32,7 +33,7 @@ Here's the operational reality that training glosses over: once that lid locks, 
 
 ## Extra Crispy: The Open Fryer and the Double Dip
 
-![Flat vector illustration showing the double-dip breading technique and steam expansion in an open fryer](/images/kfc-original-vs-extra-crispy/kfc-extra-crispy-double-dip-breading-process.webp)
+![Flat vector illustration showing the double-dip breading technique and steam expansion in an open fryer](../../assets/images/kfc-original-vs-extra-crispy/kfc-extra-crispy-double-dip-breading-process.webp)
 
 
 Extra Crispy is engineered for maximum crunch, and the process starts at the breading station with a technique called the Double Dip.

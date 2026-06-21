@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "White Castle"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-White Castle sliders don’t look like any other burger in fast food. They’re small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that’s not an accident. It’s the result of a cooking method that White Castle has been using since the 1920s: steam-grilling.
+White Castle sliders don’t look like any other burger in fast food. They’re small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that’s not an accident. It’s the result of a cooking method that White Castle has been using since the 1920s: steam-grilling. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-Most people assume that burgers are either grilled or fried. White Castle does neither. Their sliders are cooked on a bed of rehydrated onions using steam that rises through perforated patties, cooking the meat from both sides simultaneously. No flipping. No pressing. No char marks. Just steam, onions, and a process that hasn’t fundamentally changed in over 100 years.
+Most people assume that burgers are either grilled or fried. White Castle does neither. Their sliders are cooked on a bed of rehydrated onions using steam that rises through perforated patties, cooking the meat from both sides simultaneously. No flipping. No pressing. No char marks. Just steam, onions, and a process that hasn’t fundamentally changed in over 100 years. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-I’ve spent a decade in QSR kitchens, and the White Castle method remains one of the most unusual and efficient cooking systems I’ve ever seen. Here’s exactly how it works.
+I’ve spent a decade in QSR kitchens, and the White Castle method remains one of the most unusual and efficient cooking systems I’ve ever seen. Here’s exactly how it works. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 ## The Grill and the Onion Bed
 
-![Blueprint illustration of The Grill and the Onion Bed](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.webp)
+![Blueprint illustration of The Grill and the Onion Bed](../../assets/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.webp)
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you’d find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn’t searing their patties. They’re steaming them.
 
@@ -53,7 +54,7 @@ So White Castle kept using them. What started as a wartime substitution became a
 
 ## The Five-Hole Patty
 
-![Blueprint illustration of The Five-Hole Patty](/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-five-hole-patty.webp)
+![Blueprint illustration of The Five-Hole Patty](../../assets/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-five-hole-patty.webp)
 
 This is the most visually distinctive feature of a White Castle slider, and it’s also the most functionally important part of the entire cooking process.
 

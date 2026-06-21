@@ -5,6 +5,7 @@ pubDate: "2026-05-02"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
   - "subway-bain-fill-line-rule"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end.
+The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
-At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. Here is how to survive the register without overcharging anyone or freezing up during a rush.
+At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. Here is how to survive the register without overcharging anyone or freezing up during a rush. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
 
 ## The 3-Step Core Ring: The Foundation of Everything
 
-The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence:
+The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
 
 1. **Size:** 6-Inch, Footlong, or Footlong Pro (Double Meat).
 2. **Bread:** Italian, Hearty Multigrain, Italian Herbs & Cheese, Flatbread, or whatever options your location carries.
@@ -65,7 +66,7 @@ App-based promotions are applied when the customer scans their Subway Rewards QR
 
 ## Pro Tips for the Register
 
-![Blueprint style diagram of an offline receipt printer data flow](/images/subway-pos-out-of-order/subway-offline-receipt-printer.webp)
+![Blueprint style diagram of an offline receipt printer data flow](../../assets/images/subway-pos-out-of-order/subway-offline-receipt-printer.webp)
 
 
 - **Repeat the order back before touching the POS.** Verbally confirm: "Footlong Turkey on Wheat with bacon and extra cheese, making it a meal with chips and a drink?" This takes five seconds and saves you from painful voids.
@@ -76,7 +77,7 @@ App-based promotions are applied when the customer scans their Subway Rewards QR
 
 ### What do I do if the POS freezes mid-transaction?
 
-![Technical diagram of a Subway POS terminal cash drawer manual override mechanism](/images/subway-pos-out-of-order/subway-pos-cash-drawer-override.webp)
+![Technical diagram of a Subway POS terminal cash drawer manual override mechanism](../../assets/images/subway-pos-out-of-order/subway-pos-cash-drawer-override.webp)
 
 
 Do not panic. Most Subway POS systems save the current transaction state. If the screen freezes, wait about 30 seconds for it to recover. If it fully crashes and reboots, you will likely need to re-ring from scratch. Apologize to the customer and move quickly. If it keeps happening, report the issue to your manager so they can contact IT support—recurring crashes usually mean a software update is needed.

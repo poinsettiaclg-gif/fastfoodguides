@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wawa"
+topic: "Sandwiches"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,13 +19,13 @@ relatedArticles:
 
 
 
-If you’ve never ordered a hoagie at Wawa, the experience can throw you off. There’s no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, I can tell you it’s one of the smartest deli setups in the business.
+If you’ve never ordered a hoagie at Wawa, the experience can throw you off. There’s no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, I can tell you it’s one of the smartest deli setups in the business. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-I’ve worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer’s hands. Here’s exactly how the whole process works, from the moment you touch that screen to the moment your hoagie hits the wrapper.
+I’ve worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer’s hands. Here’s exactly how the whole process works, from the moment you touch that screen to the moment your hoagie hits the wrapper. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here.
+Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 The hoagie builder interface walks you through every decision in sequence:
 

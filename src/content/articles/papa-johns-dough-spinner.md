@@ -5,6 +5,7 @@ pubDate: "2026-04-15"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Papa John's"
+topic: "Pizza"
 relatedArticles:
   - "papa-johns-dough-slapping"
   - "little-caesars-sheetout-machine"
@@ -13,24 +14,24 @@ relatedArticles:
 
 
 
-For decades, making a pizza at Papa John's required one specific physical skill that separated the seasoned Insiders from the terrified new hires: The Dough Slap. You had to pull a cold, springy dough ball out of the cooler, slap it between your hands, stretch it, spin it, and somehow create a perfectly round 14-inch base without punching a hole through the center. I've watched new employees destroy a dozen dough balls in their first hour, flour flying everywhere, dough stuck to the ceiling. It was a brutal learning curve — and honestly, kind of beautiful when you finally got it right.
+For decades, making a pizza at Papa John's required one specific physical skill that separated the seasoned Insiders from the terrified new hires: The Dough Slap. You had to pull a cold, springy dough ball out of the cooler, slap it between your hands, stretch it, spin it, and somehow create a perfectly round 14-inch base without punching a hole through the center. I've watched new employees destroy a dozen dough balls in their first hour, flour flying everywhere, dough stuck to the ceiling. It was a brutal learning curve — and honestly, kind of beautiful when you finally got it right. *(Related guide: [What is the Papa John's \](/articles/papa-johns-dough-slapping/))*
 
 Then the Dough Spinner showed up, and everything changed.
 
 ## What the Dough Spinner Actually Is
 
-![Technical schematic of a Papa John's Dough Spinner machine with heated platens and hydraulic arm](/images/papa-johns-dough-spinner/papa-johns-dough-spinner-schematic.webp)
+![Technical schematic of a Papa John's Dough Spinner machine with heated platens and hydraulic arm](../../assets/images/papa-johns-dough-spinner/papa-johns-dough-spinner-schematic.webp)
 
 
-The Dough Spinner — sometimes called a dough press or a dough sheeter, depending on who you ask — is basically a massive waffle iron without the grids. Picture two heavy, flat metal platens bolted to a hydraulic arm, sitting on your makeline prep table like a cast-iron anchor. The thing weighs a ton and eats up precious counter space that you could be using for sauce cups and cheese bins.
+The Dough Spinner — sometimes called a dough press or a dough sheeter, depending on who you ask — is basically a massive waffle iron without the grids. Picture two heavy, flat metal platens bolted to a hydraulic arm, sitting on your makeline prep table like a cast-iron anchor. The thing weighs a ton and eats up precious counter space that you could be using for sauce cups and cheese bins. *(Related guide: [Why Little Caesars Uses a \](/articles/little-caesars-sheetout-machine/))*
 
-Most models are literally bolted down to the table because the pressing motion generates enough force to walk the machine right off the edge if it's unsecured. The platens are coated with a non-stick surface and heated to a specific temperature — warm enough to relax the gluten in the dough so it doesn't snap back like a rubber band, but not hot enough to actually start cooking it. Getting that temperature wrong is one of the most common problems stores run into, and I'll get to that in a minute.
+Most models are literally bolted down to the table because the pressing motion generates enough force to walk the machine right off the edge if it's unsecured. The platens are coated with a non-stick surface and heated to a specific temperature — warm enough to relax the gluten in the dough so it doesn't snap back like a rubber band, but not hot enough to actually start cooking it. Getting that temperature wrong is one of the most common problems stores run into, and I'll get to that in a minute. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
 Here's the thing nobody tells you about this machine: it hums. There's a constant low electrical hum when it's warmed up and ready to go. After a few hours on the makeline, that sound becomes the background noise of your entire shift.
 
 ## How the Machine Actually Works
 
-![Top-down technical diagram of a dough ball centered perfectly on a Dough Spinner platen](/images/papa-johns-dough-spinner/papa-johns-dough-spinner-platen-centering.webp)
+![Top-down technical diagram of a dough ball centered perfectly on a Dough Spinner platen](../../assets/images/papa-johns-dough-spinner/papa-johns-dough-spinner-platen-centering.webp)
 
 
 Instead of the theatrical slapping and spinning that [Papa John's traditionalists love](/articles/papa-johns-dough-slapping), the process is almost insultingly simple:

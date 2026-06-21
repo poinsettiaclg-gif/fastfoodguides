@@ -5,6 +5,7 @@ pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
+topic: "Mexican"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
   - "chipotle-grill-validation"
@@ -13,7 +14,7 @@ relatedArticles:
 
 ## Six Ingredients. No Blender. No Shortcuts.
 
-Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients:
+Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
 
 1. **Hass avocados** (ripe, whole)
 2. **Lime juice** (fresh-squeezed from real limes)
@@ -22,11 +23,11 @@ Chipotle's guacamole is one of the few items in fast food that is genuinely made
 5. **Jalapeño** (fresh, hand-diced)
 6. **Kosher salt**
 
-That's it. No garlic, no tomato, no cumin, no sour cream. Just six ingredients combined by hand in a stainless steel bowl. The simplicity of the recipe is exactly what makes it taste different from the guacamole at most other restaurants, which typically use pre-made bases, garlic powder, or tomato to stretch the avocado content.
+That's it. No garlic, no tomato, no cumin, no sour cream. Just six ingredients combined by hand in a stainless steel bowl. The simplicity of the recipe is exactly what makes it taste different from the guacamole at most other restaurants, which typically use pre-made bases, garlic powder, or tomato to stretch the avocado content. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
 
 ## The Morning Prep: 48 Avocados at a Time
 
-The guacamole prep happens before the restaurant opens, usually starting around **7:00–8:00 AM**. It's one of the most labor-intensive prep tasks at Chipotle, and it's typically assigned to the most experienced prep cook because consistency matters.
+The guacamole prep happens before the restaurant opens, usually starting around **7:00–8:00 AM**. It's one of the most labor-intensive prep tasks at Chipotle, and it's typically assigned to the most experienced prep cook because consistency matters. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
 
 ### Step 1: Check the Avocados
 
@@ -38,7 +39,7 @@ The first thing the prep cook does is check ripeness. Not every avocado in a cas
 - **Perfect** (slight give when pressed, dark green to nearly black skin): Ready for guac. The flesh should be creamy yellow-green with no brown spots
 - **Overripe** (mushy, brown flesh inside): Discarded. Brown avocado produces bitter, off-tasting guacamole
 
-![Diagram showing avocado ripeness stages: underripe, perfect, and overripe with cross-section views](/images/chipotle-guacamole/avocado-ripeness-test.webp)
+![Diagram showing avocado ripeness stages: underripe, perfect, and overripe with cross-section views](../../assets/images/chipotle-guacamole/avocado-ripeness-test.webp)
 
 Chipotle's supply chain tries to time deliveries so avocados arrive at peak ripeness, but it's an imperfect science. Temperature fluctuations during shipping, seasonal variation, and the natural unpredictability of fruit ripening mean that every case is a gamble. Experienced prep cooks can assess a full case of 48 avocados in about 2 minutes just by feel.
 
@@ -73,7 +74,7 @@ Once the avocado is mashed to the right consistency, the remaining ingredients g
 
 Everything is **folded in gently** — not stirred aggressively — to maintain the chunky texture. Over-mixing at this stage would turn the guacamole into a smooth paste.
 
-![Top-down schematic of the guacamole prep station showing mixing bowl, ingredients, and workflow](/images/chipotle-guacamole/guac-prep-station.webp)
+![Top-down schematic of the guacamole prep station showing mixing bowl, ingredients, and workflow](../../assets/images/chipotle-guacamole/guac-prep-station.webp)
 
 ### Step 5: Taste and Adjust
 

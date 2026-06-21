@@ -18,15 +18,15 @@ relatedArticles:
 
 
 
-Let me settle this right now: Starbucks does not have a secret menu. There is no laminated card hidden under the register. There is no special screen on the POS system that unlocks when you say the right password. There is no training module where baristas learn to make the “Cotton Candy Frappuccino” or the “Butterbeer Latte.” None of that exists. It has never existed.
+Let me settle this right now: Starbucks does not have a secret menu. There is no laminated card hidden under the register. There is no special screen on the POS system that unlocks when you say the right password. There is no training module where baristas learn to make the “Cotton Candy Frappuccino” or the “Butterbeer Latte.” None of that exists. It has never existed. *(Related guide: [How to Master the Starbucks Cold Bar and Frappuccino Sequence](/articles/starbucks-cold-bar-frappuccino/))*
 
-What people call the Starbucks “secret menu” is actually just a collection of custom drink recipes that customers have invented, named, and shared on social media. Some of these recipes are genuinely good. Some of them are disgusting sugar bombs that no reasonable person should consume. But none of them were created by Starbucks, none of them are in any Starbucks training material, and your barista almost certainly has no idea what you’re talking about when you walk up to the register and say, “Can I get a Cinderella Latte?”
+What people call the Starbucks “secret menu” is actually just a collection of custom drink recipes that customers have invented, named, and shared on social media. Some of these recipes are genuinely good. Some of them are disgusting sugar bombs that no reasonable person should consume. But none of them were created by Starbucks, none of them are in any Starbucks training material, and your barista almost certainly has no idea what you’re talking about when you walk up to the register and say, “Can I get a Cinderella Latte?” *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
 
-I’ve spent enough time in and around QSR kitchens to appreciate what this phenomenon does to the people behind the counter. Let me walk you through the reality.
+I’ve spent enough time in and around QSR kitchens to appreciate what this phenomenon does to the people behind the counter. Let me walk you through the reality. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
 
 ## How the “Secret Menu” Myth Got Started
 
-![Blueprint illustration of How the “Secret Menu” Myth Got Started](/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.webp)
+![Blueprint illustration of How the “Secret Menu” Myth Got Started](../../assets/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.webp)
 
 The concept took off around 2012-2013, when Tumblr and early Instagram food accounts started posting elaborate custom Starbucks drinks with catchy names. A user would figure out that if you ordered a Vanilla Bean Frappuccino with raspberry syrup and java chips, it tasted vaguely like a raspberry cheesecake. They’d name it the “Raspberry Cheesecake Frappuccino,” photograph it with good lighting, and post it online. Other people would see it, want to try it, and show up at Starbucks asking for a drink that doesn’t exist on any menu.
 
@@ -38,7 +38,7 @@ That’s a perfectly reasonable position. The problem is that most customers don
 
 ## Why This Drives Baristas Up the Wall
 
-![Blueprint illustration of Why This Drives Baristas Up the Wall](/images/starbucks-secret-menu/starbucks-secret-menu-why-this-drives-baristas-up-th.webp)
+![Blueprint illustration of Why This Drives Baristas Up the Wall](../../assets/images/starbucks-secret-menu/starbucks-secret-menu-why-this-drives-baristas-up-th.webp)
 
 Imagine you’re working the bar during the [morning rush](/articles/starbucks-morning-rush), which at most Starbucks locations means a steady stream of 30 to 50 drinks per half hour. The store is loud. The espresso machine is pulling shots. The blender is running. The mobile order printer is spitting out tickets faster than you can read them. You are in survival mode.
 

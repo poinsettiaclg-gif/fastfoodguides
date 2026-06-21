@@ -1,0 +1,211 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+
+export async function getStaticPaths() {
+  function slugifyTopic(topic: string): string {
+    return topic.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+  const allPosts = await getCollection('articles');
+  const topics = [...new Set(allPosts.map(p => p.data.topic).filter(Boolean))] as string[];
+
+  return topics.map(topic => {
+    const slug = slugifyTopic(topic);
+    const posts = allPosts
+      .filter(p => p.data.topic === topic)
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    return {
+      params: { topic: slug },
+      props: { topicName: topic, posts },
+    };
+  });
+}
+
+const { topicName, posts } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead
+    title={`${topicName} Fast Food Guides | Fast Food Guides`}
+    description={`Browse all insider guides related to ${topicName}. Real tips from real workers.`}
+  />
+  <style>
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: var(--font-family);
+    }
+    
+    .site-header {
+      background-color: var(--bg-secondary);
+      border-bottom: 1px solid var(--border-color);
+      padding: 1rem 0;
+    }
+    
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .site-title {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+    
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-weight: 500;
+      margin-left: 1.5rem;
+      transition: color 0.2s ease;
+    }
+    
+    .nav-links a:hover {
+      color: var(--accent-color);
+    }
+    
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 4rem 1.5rem;
+    }
+
+    .topic-header {
+      margin-bottom: 4rem;
+      text-align: center;
+    }
+
+    .topic-title {
+      font-size: 3rem;
+      font-weight: 900;
+      margin: 0 0 1rem 0;
+      letter-spacing: -0.03em;
+      line-height: 1.1;
+    }
+
+    .topic-description {
+      font-size: 1.25rem;
+      color: var(--text-secondary);
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    .article-list {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .article-card {
+      background-color: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 2rem;
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.2s ease;
+      display: block;
+    }
+
+    .article-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent-color);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .chain-badge {
+      background-color: rgba(245, 158, 11, 0.1);
+      color: var(--accent-color);
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .article-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin: 0 0 1rem 0;
+      color: var(--text-primary);
+      line-height: 1.3;
+    }
+
+    .article-card:hover .article-title {
+      color: var(--accent-color);
+    }
+
+    .article-excerpt {
+      color: var(--text-secondary);
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .topic-title {
+        font-size: 2.25rem;
+      }
+      .article-card {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-content">
+      <a href="/" class="site-title">Fast Food Guides</a>
+      <nav class="nav-links">
+        <a href="/">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="topic-header">
+      <h1 class="topic-title">{topicName} Guides</h1>
+      <p class="topic-description">
+        Insider knowledge, operational breakdowns, and authentic prep processes for {topicName.toLowerCase()} fast food.
+      </p>
+    </div>
+
+    <div class="article-list">
+      {
+        posts.map((post) => (
+          <a href={`/articles/${post.id}/`} class="article-card">
+            <div class="article-meta">
+              <span class="chain-badge">{post.data.chain || 'General'}</span>
+              <FormattedDate date={post.data.pubDate} />
+            </div>
+            <h2 class="article-title">{post.data.title}</h2>
+            <p class="article-excerpt">{post.data.description}</p>
+          </a>
+        ))
+      }
+    </div>
+  </main>
+  
+  <Footer />
+</body>
+</html>

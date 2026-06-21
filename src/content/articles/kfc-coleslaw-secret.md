@@ -5,6 +5,7 @@ pubDate: "2026-03-31"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "KFC"
+topic: "Chicken"
 relatedArticles:
   - "kfc-original-vs-extra-crispy"
   - "kfc-pressure-fryers"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-Here's something that catches every new KFC hire off guard: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet.
+Here's something that catches every new KFC hire off guard: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet. *(Related guide: [KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?](/articles/kfc-original-vs-extra-crispy/))*
 
 ## The Fine Chop: Why Confetti, Not Shreds
 
-![Technical schematic of a commercial vertical cutter mixer with forearm-sized blades](/images/kfc-coleslaw-secret/kfc-coleslaw-vertical-cutter-mixer-schematic.webp)
+![Technical schematic of a commercial vertical cutter mixer with forearm-sized blades](../../assets/images/kfc-coleslaw-secret/kfc-coleslaw-vertical-cutter-mixer-schematic.webp)
 
 
-If you've ever made coleslaw at home, you probably ran a head of cabbage across a mandoline or sliced it into long, thin strips. KFC does the exact opposite. The raw cabbage, carrots, and onions get dumped into a commercial vertical cutter mixer—basically an industrial food processor with blades the size of your forearm—and chopped into tiny, confetti-like pieces in a matter of seconds.
+If you've ever made coleslaw at home, you probably ran a head of cabbage across a mandoline or sliced it into long, thin strips. KFC does the exact opposite. The raw cabbage, carrots, and onions get dumped into a commercial vertical cutter mixer—basically an industrial food processor with blades the size of your forearm—and chopped into tiny, confetti-like pieces in a matter of seconds. *(Related guide: [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/))*
 
-This isn't an aesthetic choice. It's chemistry. Those tiny pieces have exponentially more exposed surface area than long shreds, which means the dressing can penetrate the vegetable tissue faster and more completely during the overnight maceration. If you used traditional thick shreds, twelve hours wouldn't be enough time for the dressing to fully break down the tough cabbage fibers. You'd end up with crunchy strips floating in a puddle of dressing instead of the soft, integrated texture KFC is known for.
+This isn't an aesthetic choice. It's chemistry. Those tiny pieces have exponentially more exposed surface area than long shreds, which means the dressing can penetrate the vegetable tissue faster and more completely during the overnight maceration. If you used traditional thick shreds, twelve hours wouldn't be enough time for the dressing to fully break down the tough cabbage fibers. You'd end up with crunchy strips floating in a puddle of dressing instead of the soft, integrated texture KFC is known for. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
 
 Here's the thing nobody tells you during training: the chop consistency matters more than you'd think. If the food processor blades are getting dull—and they do, faster than management wants to replace them—you'll get an uneven chop. Some pieces come out as fine confetti, others as big, tough chunks. Those different-sized pieces macerate at completely different rates, so your finished coleslaw has some pieces that are properly soft and others that still crunch like raw salad. I've seen new hires not notice until a customer complains. If you're on prep and the chop looks ragged, flag it to your manager immediately. Dull blades need sharpening or replacing before you waste an entire batch.
 
@@ -36,7 +37,7 @@ The reality is that veterans know the correct ratio by sight and feel. Every pie
 
 ## The Mandatory 12-Hour Maceration
 
-![Technical diagram illustrating the overnight maceration process and osmosis of cabbage in coleslaw dressing](/images/kfc-coleslaw-secret/kfc-coleslaw-maceration-osmosis-diagram.webp)
+![Technical diagram illustrating the overnight maceration process and osmosis of cabbage in coleslaw dressing](../../assets/images/kfc-coleslaw-secret/kfc-coleslaw-maceration-osmosis-diagram.webp)
 
 
 This is the step that makes KFC coleslaw fundamentally different from anything you'd make at home. KFC has a strict corporate policy: freshly mixed coleslaw must sit in the walk-in refrigerator for a minimum of 12 hours—preferably overnight—before a single spoonful can be served to a customer.

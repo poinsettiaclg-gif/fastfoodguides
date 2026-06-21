@@ -5,6 +5,7 @@ pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sonic Drive-In"
+topic: "Chicken"
 relatedArticles:
   - "sonic-switchboard-how-it-works"
   - "sonic-carhops-roller-skate"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## It's Not Regular Ice. It Never Was.
 
-If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses.
+If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. *(Related guide: [How Does the Sonic Drive-In Switchboard Actually Work?](/articles/sonic-switchboard-how-it-works/))*
 
-Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor.
+Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor. *(Related guide: [Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)](/articles/sonic-carhops-roller-skate/))*
 
-This isn't a marketing gimmick. It's an engineering decision that costs Sonic significantly more money per location than standard cube ice, and it creates a whole set of operational headaches that most customers never think about.
+This isn't a marketing gimmick. It's an engineering decision that costs Sonic significantly more money per location than standard cube ice, and it creates a whole set of operational headaches that most customers never think about. *(Related guide: [Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)](/articles/starbucks-secret-menu/))*
 
 ## How Nugget Ice Machines Actually Work
 
@@ -36,7 +37,7 @@ Here's what happens inside:
 
 The result is ice that is approximately **80% ice and 20% air**, compared to cube ice which is nearly 100% solid. That air is what makes nugget ice soft enough to chew without cracking a tooth, and the porous structure is what allows it to absorb liquid.
 
-![Cutaway diagram of a Hoshizaki nugget ice machine showing the auger mechanism, freezing chamber, and collection bin](/images/sonic-nugget-ice/nugget-ice-machine-cutaway.webp)
+![Cutaway diagram of a Hoshizaki nugget ice machine showing the auger mechanism, freezing chamber, and collection bin](../../assets/images/sonic-nugget-ice/nugget-ice-machine-cutaway.webp)
 
 ## Why Sonic Chose Nugget Ice (And Why Most Chains Don't)
 
@@ -93,7 +94,7 @@ Sonic's drink preparation area is designed around the ice machine as the centerp
 5. For specialty drinks like Slushes, the frozen base comes from a separate **slush machine** and is combined with flavors
 6. A lid and straw go on, and the drink is routed to the carhop or drive-thru window
 
-![Top-down schematic of a Sonic drink station showing ice dispenser, syrup lines, fountain heads, and slush machines](/images/sonic-nugget-ice/drink-station-layout.webp)
+![Top-down schematic of a Sonic drink station showing ice dispenser, syrup lines, fountain heads, and slush machines](../../assets/images/sonic-nugget-ice/drink-station-layout.webp)
 
 ### The Speed Challenge
 

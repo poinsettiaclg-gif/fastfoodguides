@@ -5,6 +5,7 @@ pubDate: "2026-03-15"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
+topic: "Pizza"
 relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-oven-tender-role"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job.
+Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
 
-![Technical schematic of a Domino's dispatch computer mileage tracking workflow](/images/dominos-gas/dominos-gas-dispatch-computer-schematic.webp)
+![Technical schematic of a Domino's dispatch computer mileage tracking workflow](../../assets/images/dominos-gas/dominos-gas-dispatch-computer-schematic.webp)
 
 
-Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that.
+Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
-But here's the thing nobody tells you during the interview—Domino's reimburses you for every mile you drive on the clock. At the end of every single shift, when the manager "cashes you out," your mileage reimbursement is rolled into your take-home pay along with your credit card tips and any cash adjustments. The store's dispatch computer tracks the distance from the store to each delivery address and back, so the mileage calculation isn't something you have to argue about. It's automatic.
+But here's the thing nobody tells you during the interview—Domino's reimburses you for every mile you drive on the clock. At the end of every single shift, when the manager "cashes you out," your mileage reimbursement is rolled into your take-home pay along with your credit card tips and any cash adjustments. The store's dispatch computer tracks the distance from the store to each delivery address and back, so the mileage calculation isn't something you have to argue about. It's automatic. *(Related guide: [What Happens if a Pizza Delivery Driver Gets in an Accident?](/articles/pizza-delivery-driver-accident/))*
 
 The reimbursement rate varies by franchise, but most stores I've worked with or managed paid somewhere between $0.35 and $0.45 per mile. Some adjust quarterly based on local gas prices. Others haven't touched the rate in three years. This is one of those things you absolutely need to ask about before you accept the position.
 
@@ -48,7 +49,7 @@ Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, tha
 
 ## The Hidden Costs Nobody Mentions in the Interview
 
-![Technical diagram of vehicle brake pad wear mechanics from delivery driving](/images/dominos-gas/dominos-gas-vehicle-wear-brakes-schematic.webp)
+![Technical diagram of vehicle brake pad wear mechanics from delivery driving](../../assets/images/dominos-gas/dominos-gas-vehicle-wear-brakes-schematic.webp)
 
 
 The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. Here's what I saw drivers dealing with constantly:

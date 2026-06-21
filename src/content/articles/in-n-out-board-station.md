@@ -5,6 +5,7 @@ pubDate: "2026-03-22"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
+topic: "Burgers"
 relatedArticles:
   - "in-n-out-level-system"
   - "in-n-out-secret-menu"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-At In-N-Out Burger, the kitchen runs on stations, and every station has a number. The Grill cook at Level 6 gets all the bragging rights. But here's the thing nobody tells you—the station directly behind the Grill, the one that most people have never even heard of, is universally considered the hardest job in the entire building. That station is called **The Board**, and it lives at Level 5 in the [In-N-Out Level System](/articles/in-n-out-level-system).
+At In-N-Out Burger, the kitchen runs on stations, and every station has a number. The Grill cook at Level 6 gets all the bragging rights. But here's the thing nobody tells you—the station directly behind the Grill, the one that most people have never even heard of, is universally considered the hardest job in the entire building. That station is called **The Board**, and it lives at Level 5 in the [In-N-Out Level System](/articles/in-n-out-level-system). *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
 
-The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break.
+The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break. *(Related guide: [How to Memorize the In-N-Out POS System and Secret Menu](/articles/in-n-out-secret-menu/))*
 
 ## The Board Setup and Station Layout
 
-![Technical schematic of the In-N-Out Board station layout showing the stainless steel prep table, spread pump, and standardized vegetable bin positions](/images/in-n-out-board-station/in-n-out-board-station-layout-schematic.webp)
+![Technical schematic of the In-N-Out Board station layout showing the stainless steel prep table, spread pump, and standardized vegetable bin positions](../../assets/images/in-n-out-board-station/in-n-out-board-station-layout-schematic.webp)
 
 
-The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there's a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking.
+The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there's a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
 
 Your job is to dress those buns perfectly, every single time. You apply the Secret Spread using a pump dispenser, then layer on shredded lettuce, tomato slices, pickles, and raw onions—all in a specific order that never changes. The condiments, vegetables, and spread are arranged within arm's reach in a standardized layout. The lettuce bin sits closest to your dominant hand. The tomato tray is always in the same position. The spread pump never moves. This layout is identical at every In-N-Out location, which means an experienced Board person can transfer to a different store and feel right at home within minutes.
 
@@ -30,7 +31,7 @@ I've seen new hires underestimate the setup phase. Before the store opens, you n
 
 ## The Wrapping Speed That Separates Good from Great
 
-![Flat vector illustration of the wax paper tuck-and-fold wrapping method for In-N-Out burgers, demonstrating the diagonal placement](/images/in-n-out-board-station/in-n-out-burger-wrapping-method-diagram.webp)
+![Flat vector illustration of the wax paper tuck-and-fold wrapping method for In-N-Out burgers, demonstrating the diagonal placement](../../assets/images/in-n-out-board-station/in-n-out-burger-wrapping-method-diagram.webp)
 
 
 Once the Grill cook drops the cooked patties onto your dressed buns, you enter the most demanding phase: the wrap. A top-tier Board person can dress, wrap, and bag a finished burger in under five seconds. That's not an exaggeration—it's a benchmark that experienced Associates actually hit during peak hours.

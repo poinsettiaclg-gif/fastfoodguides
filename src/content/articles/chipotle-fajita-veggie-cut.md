@@ -5,6 +5,7 @@ pubDate: "2026-03-07"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
+topic: "Mexican"
 relatedArticles:
   - "chipotle-grill-validation"
   - "chipotle-massive-burrito-rolling"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies.
+The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
 
-I've seen managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. Here's why Chipotle is so obsessive about this one particular cut.
+I've seen managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. Here's why Chipotle is so obsessive about this one particular cut. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
 
-![Technical schematic of the claw grip technique for cutting bell peppers, showing proper knuckle positioning](/images/chipotle-fajita-veggie-cut/chipotle-fajita-veggie-claw-grip-schematic.webp)
+![Technical schematic of the claw grip technique for cutting bell peppers, showing proper knuckle positioning](../../assets/images/chipotle-fajita-veggie-cut/chipotle-fajita-veggie-claw-grip-schematic.webp)
 
 
-The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And here's the thing nobody tells you during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand.
+The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And here's the thing nobody tells you during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. *(Related guide: [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/))*
 
 Across 40 to 60 pounds of raw produce. Every single morning.
 
@@ -42,7 +43,7 @@ There are three reasons Chipotle obsesses over this, and none of them are arbitr
 
 ## The Color Separation Challenge
 
-![Blueprint-style diagram of a halved bell pepper showing natural internal ridges used as 1/4-inch cutting guides](/images/chipotle-fajita-veggie-cut/chipotle-bell-pepper-ridge-guide.webp)
+![Blueprint-style diagram of a halved bell pepper showing natural internal ridges used as 1/4-inch cutting guides](../../assets/images/chipotle-fajita-veggie-cut/chipotle-bell-pepper-ridge-guide.webp)
 
 
 The fajita veggie prep is not just about the cut. It is about how you handle the different peppers. The recipe typically calls for a mix of green bell peppers, red bell peppers, and yellow or poblano peppers, along with sliced onions. Each pepper type has a slightly different thickness and water content, which means you need to subtly adjust your pressure and speed as you switch between them. Reds are softer and will crush under too much downward force. Greens are firmer and can handle a more aggressive stroke.

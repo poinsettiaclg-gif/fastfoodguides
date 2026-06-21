@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Krispy Kreme"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,11 +19,11 @@ relatedArticles:
 
 
 
-If you’ve ever driven past a Krispy Kreme and seen that red neon “HOT NOW” sign glowing in the window, you might have wondered what it actually means. Is it a marketing gimmick? A general indication that the store is open and making doughnuts? A vague suggestion that the doughnuts are warm-ish?
+If you’ve ever driven past a Krispy Kreme and seen that red neon “HOT NOW” sign glowing in the window, you might have wondered what it actually means. Is it a marketing gimmick? A general indication that the store is open and making doughnuts? A vague suggestion that the doughnuts are warm-ish? *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-None of the above. The Hot Light means something very specific: a fresh batch of Original Glazed doughnuts is coming off the production line right now—as in, within minutes of you walking through that door, you can have a doughnut that was fried, glazed, and boxed while you were parking your car. The glaze is still wet. The doughnut is still warm enough that it barely holds its shape when you pick it up. And it tastes so dramatically different from a room-temperature Krispy Kreme that it might as well be a completely different product.
+None of the above. The Hot Light means something very specific: a fresh batch of Original Glazed doughnuts is coming off the production line right now—as in, within minutes of you walking through that door, you can have a doughnut that was fried, glazed, and boxed while you were parking your car. The glaze is still wet. The doughnut is still warm enough that it barely holds its shape when you pick it up. And it tastes so dramatically different from a room-temperature Krispy Kreme that it might as well be a completely different product. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-I want to walk you through exactly what’s happening behind the scenes when that light flips on, because the production process that creates an Original Glazed doughnut is one of the most fascinating automated systems in the entire fast-food industry. This isn’t a person standing at a fryer dropping dough in oil. This is a continuous, mechanized production line that takes raw yeast dough and turns it into finished, glazed doughnuts in about 15 to 20 minutes with minimal human intervention.
+I want to walk you through exactly what’s happening behind the scenes when that light flips on, because the production process that creates an Original Glazed doughnut is one of the most fascinating automated systems in the entire fast-food industry. This isn’t a person standing at a fryer dropping dough in oil. This is a continuous, mechanized production line that takes raw yeast dough and turns it into finished, glazed doughnuts in about 15 to 20 minutes with minimal human intervention. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 ## The Production Line: A Factory Inside a Restaurant
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+topic: "Sandwiches"
 relatedArticles:
   - "subway-bain-fill-line-rule"
   - "subway-wrap-folding"
@@ -18,17 +19,17 @@ Subway's tuna salad is made from exactly **two ingredients** mixed together in t
 1. **Canned skipjack tuna** (packed in water)
 2. **Mayonnaise**
 
-No celery, no onion, no relish, no seasoning. Just tuna and mayo, mixed in a bowl and stored in a cold well. It is one of the simplest protein preparations in all of fast food, and it became one of the most controversial after a 2021 lawsuit claimed the tuna wasn't actually tuna.
+No celery, no onion, no relish, no seasoning. Just tuna and mayo, mixed in a bowl and stored in a cold well. It is one of the simplest protein preparations in all of fast food, and it became one of the most controversial after a 2021 lawsuit claimed the tuna wasn't actually tuna. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
 
 We'll get to the lawsuit. But first, let's talk about what actually happens behind the counter.
 
 ## How Subway Prepares the Tuna
 
-The tuna prep happens during the morning prep shift, usually alongside bread baking and vegetable prep. Here's the full process:
+The tuna prep happens during the morning prep shift, usually alongside bread baking and vegetable prep. Here's the full process: *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
 
 ### Step 1: Open the Cans
 
-Subway receives **commercial-sized cans of skipjack tuna** — typically 66.5-ounce cans (about 4 pounds each). These are standard foodservice cans, not the small consumer cans you'd buy at a grocery store. The tuna is packed in water, not oil.
+Subway receives **commercial-sized cans of skipjack tuna** — typically 66.5-ounce cans (about 4 pounds each). These are standard foodservice cans, not the small consumer cans you'd buy at a grocery store. The tuna is packed in water, not oil. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
 A prep worker opens the cans and **drains the water** thoroughly. The more water that remains, the more watery and runny the finished tuna salad will be. Proper draining is the single most important quality control step in the entire process.
 
@@ -40,7 +41,7 @@ Subway uses **commercial mayonnaise** that arrives in large bags or pouches (not
 
 This ratio surprises most people, but it's standard for commercial tuna salad. The mayo serves as both a binder (holding the tuna together so it's scoopable) and a flavor carrier. Without enough mayo, the tuna salad would be dry, crumbly, and difficult to portion consistently.
 
-![Diagram of the Subway tuna mixing process showing can draining, mayo addition, and storage](/images/subway-tuna/tuna-mixing-process.webp)
+![Diagram of the Subway tuna mixing process showing can draining, mayo addition, and storage](../../assets/images/subway-tuna/tuna-mixing-process.webp)
 
 ### Step 3: Mix
 
@@ -63,7 +64,7 @@ When a customer orders a tuna sub, the sandwich artist portions the tuna using a
 
 The tuna goes onto the bread and is spread evenly with a gloved hand or the back of the scoop. Unlike deli meats that are laid in precise patterns, tuna is a spread — it gets distributed across the bread surface.
 
-![Schematic of tuna being portioned onto a sub using a standardized scoop at the sandwich station](/images/subway-tuna/tuna-portioning.webp)
+![Schematic of tuna being portioned onto a sub using a standardized scoop at the sandwich station](../../assets/images/subway-tuna/tuna-portioning.webp)
 
 ## The Lawsuit: "Not Real Tuna"
 

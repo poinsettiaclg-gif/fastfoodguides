@@ -5,6 +5,7 @@ pubDate: "2026-03-25"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "In-N-Out Burger"
+topic: "Burgers"
 relatedArticles:
   - "in-n-out-level-system"
   - "in-n-out-board-station"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-If you look at the In-N-Out drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right?
+If you look at the In-N-Out drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
 
-Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [Level 2 Associate](/articles/in-n-out-level-system), mastering the POS and the Secret Menu isn't optional. It's survival.
+Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [Level 2 Associate](/articles/in-n-out-level-system), mastering the POS and the Secret Menu isn't optional. It's survival. *(Related guide: [What is the In-N-Out \](/articles/in-n-out-board-station/))*
 
 ## The POS System Is Built for Speed
 
-![Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items](/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
+![Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items](../../assets/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
 
 
-The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen.
+The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
 
 The POS layout at In-N-Out is surprisingly intuitive once you learn the geography. The main screen shows base menu items, and tapping any one opens a modifier screen with all available customizations. Buttons are color-coded and grouped logically—proteins in one area, cooking instructions in another, topping modifications in a third. The system flows left to right, matching how customers typically build their order verbally.
 
@@ -57,7 +58,7 @@ The key rule I always taught new hires: finish all food items for one customer b
 
 ## What the Kitchen Sees When You Hit Send
 
-![Technical illustration of a kitchen display system screen showing abbreviated In-N-Out modifier codes like DD AS MF](/images/in-n-out-secret-menu/in-n-out-kitchen-display-codes-diagram.webp)
+![Technical illustration of a kitchen display system screen showing abbreviated In-N-Out modifier codes like DD AS MF](../../assets/images/in-n-out-secret-menu/in-n-out-kitchen-display-codes-diagram.webp)
 
 
 Understanding the kitchen side of the POS makes you a better order taker. When you send an order, the kitchen display shows shorthand codes: "DD AS MF" means Double-Double Animal Style Mustard Fried. "HB PS" means Hamburger Protein Style. Learning these abbreviations helps you troubleshoot when a cook asks you to clarify an order—and it happens more often than you'd think, especially with stacked modifiers on a single item.

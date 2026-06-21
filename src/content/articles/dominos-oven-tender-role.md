@@ -5,6 +5,7 @@ pubDate: "2026-03-16"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Domino's"
+topic: "Pizza"
 relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-gas"
@@ -13,22 +14,22 @@ relatedArticles:
 
 
 
-Walk into any Domino's at 6:30 on a Friday evening and you'll see controlled chaos on the makeline—dough flying, sauce being spread, cheese being tossed. But that's the easy part. The person who actually determines whether the entire store sinks or swims is standing at the opposite end of a 450-degree conveyor belt oven, sweating through their shirt, catching pizzas as fast as they emerge from the tunnel. That person is the Oven Tender, and I've watched it break more promising new hires than any other position in the building.
+Walk into any Domino's at 6:30 on a Friday evening and you'll see controlled chaos on the makeline—dough flying, sauce being spread, cheese being tossed. But that's the easy part. The person who actually determines whether the entire store sinks or swims is standing at the opposite end of a 450-degree conveyor belt oven, sweating through their shirt, catching pizzas as fast as they emerge from the tunnel. That person is the Oven Tender, and I've watched it break more promising new hires than any other position in the building. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
 
 ## The Catch: A Conveyor Belt That Never Stops
 
-![Technical schematic of a Domino's conveyor belt pizza oven](/images/dominos-oven-tender-role/dominos-oven-tender-conveyor-belt-schematic.webp)
+![Technical schematic of a Domino's conveyor belt pizza oven](../../assets/images/dominos-oven-tender-role/dominos-oven-tender-conveyor-belt-schematic.webp)
 
 
-Domino's uses massive Lincoln Impinger conveyor-belt ovens. Raw pizzas go in one end, travel through a tunnel of superheated air at around 450°F, and emerge fully baked roughly seven minutes later. The belt doesn't pause. It doesn't slow down. It doesn't care that you just dropped the rocking blade.
+Domino's uses massive Lincoln Impinger conveyor-belt ovens. Raw pizzas go in one end, travel through a tunnel of superheated air at around 450°F, and emerge fully baked roughly seven minutes later. The belt doesn't pause. It doesn't slow down. It doesn't care that you just dropped the rocking blade. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
 
-During a Friday dinner rush, the makeline might be feeding four or five pizzas side-by-side into that oven every 30 seconds. Do the math—on the other end, four or five fully baked, screaming-hot pizzas are constantly sliding toward the edge of the belt, ready to tumble off onto the floor if nobody's there to grab them.
+During a Friday dinner rush, the makeline might be feeding four or five pizzas side-by-side into that oven every 30 seconds. Do the math—on the other end, four or five fully baked, screaming-hot pizzas are constantly sliding toward the edge of the belt, ready to tumble off onto the floor if nobody's there to grab them. *(Related guide: [What is the Papa John's \](/articles/papa-johns-dough-slapping/))*
 
 The Oven Tender stands at the exit with a long metal peel—a flat spatula designed to slide under a pizza in one motion. You catch the pizza right as it reaches the belt's edge, transfer it to the cutting board in one fluid movement, and immediately reach for the next one. I've seen experienced Tenders work the oven with the calm efficiency of a blackjack dealer, catching and sliding pizzas without ever breaking stride. I've also seen new hires freeze up and watch three pizzas hit the floor in the span of ten seconds. The belt does not forgive hesitation.
 
 ## The Cut and Box: 15 Seconds Per Pizza or You're Drowning
 
-![Technical schematic of a Domino's pizza peel and rocking blade](/images/dominos-oven-tender-role/dominos-oven-tender-pizza-peel-blade-schematic.webp)
+![Technical schematic of a Domino's pizza peel and rocking blade](../../assets/images/dominos-oven-tender-role/dominos-oven-tender-pizza-peel-blade-schematic.webp)
 
 
 Catching the pizza is only step one. Here's the full sequence a good Oven Tender executes in under 15 seconds:

@@ -5,6 +5,7 @@ pubDate: "2026-05-05"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+topic: "Mexican"
 relatedArticles:
   - "taco-bell-linebacker-role"
   - "taco-bell-menu"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster.
+When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
 
-This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Here is exactly how the system works, why it matters more than almost any other metric in the building, and how experienced crews bend the rules to keep those numbers green.
+This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Here is exactly how the system works, why it matters more than almost any other metric in the building, and how experienced crews bend the rules to keep those numbers green. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
 
 ## The Sensors and the Zones
 
-![Technical diagram of a Taco Bell drive-thru induction loop sensor](/images/taco-bell-drive-thru-timer/taco-bell-drive-thru-induction-loop.webp)
+![Technical diagram of a Taco Bell drive-thru induction loop sensor](../../assets/images/taco-bell-drive-thru-timer/taco-bell-drive-thru-induction-loop.webp)
 
 
-The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone.
+The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
 
 There are typically three zones being tracked:
 
@@ -52,7 +53,7 @@ Then there are the problems nobody can control. **Ghost cars** happen when a sen
 
 ## The Daily Report and the Area Manager Visit
 
-![Blueprint style diagram of an order confirmation screen matrix](/images/taco-bell-drive-thru-timer/taco-bell-order-confirmation-screen.webp)
+![Blueprint style diagram of an order confirmation screen matrix](../../assets/images/taco-bell-drive-thru-timer/taco-bell-order-confirmation-screen.webp)
 
 
 Every morning, the General Manager reviews the previous day's drive-thru report. This report breaks down the average OTD time by hour, identifies the slowest and fastest periods, and flags any individual transactions that exceeded a threshold—usually anything over 3 minutes gets called out specifically.

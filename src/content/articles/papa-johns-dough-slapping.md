@@ -5,6 +5,7 @@ pubDate: "2026-04-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Papa John's"
+topic: "Pizza"
 relatedArticles:
   - "papa-johns-dough-spinner"
   - "dominos-oven-tender-role"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-Every major pizza chain has a different approach to their crust. Domino's stretches theirs on a prep screen. Pizza Hut often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen.
+Every major pizza chain has a different approach to their crust. Domino's stretches theirs on a prep screen. Pizza Hut often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. *(Related guide: [What is the Papa John's \](/articles/papa-johns-dough-spinner/))*
 
-You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush.
+You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
 
 ## The Dough Management Process
 
-![Technical flat design of stacked dough proofing trays in a walk-in cooler environment](/images/papa-johns-dough-slapping/papa-johns-dough-proofing-trays.webp)
+![Technical flat design of stacked dough proofing trays in a walk-in cooler environment](../../assets/images/papa-johns-dough-slapping/papa-johns-dough-proofing-trays.webp)
 
 
-Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes.
+Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes. *(Related guide: [Why Little Caesars Uses a \](/articles/little-caesars-sheetout-machine/))*
 
 When an order comes in, the pizza maker pulls a dough ball from the proofing tray and drops it into a container of Dustinator — Papa John's proprietary blend of mostly cornmeal and flour that prevents the wet dough from sticking to your hands, the table, or the pizza screen. If you've ever seen that fine yellowish powder coating the bottom of a Papa John's crust, that's Dustinator.
 
@@ -32,7 +33,7 @@ Most stores pull dough trays from the cooler in staggered batches throughout the
 
 ## The Edge Stretch and the Slap
 
-![Instructional schematic showing hand placement for the dough edge stretch technique](/images/papa-johns-dough-slapping/papa-johns-dough-edge-stretch-diagram.webp)
+![Instructional schematic showing hand placement for the dough edge stretch technique](../../assets/images/papa-johns-dough-slapping/papa-johns-dough-edge-stretch-diagram.webp)
 
 
 You have approximately 30 seconds to turn a dense dough ball into a perfect 14-inch circle without making the center too thin. The technique happens in two distinct phases:

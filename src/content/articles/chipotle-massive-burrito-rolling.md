@@ -5,6 +5,7 @@ pubDate: "2026-03-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
+topic: "Mexican"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
   - "chipotle-grill-validation"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero.
+If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
 
-Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I've seen line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And I've seen new hires watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties.
+Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I've seen line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And I've seen new hires watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
 
 ## Step 1: The U-Shape Placement
 
-![Vector diagram showing the proper U-shaped distribution of heavy ingredients on a flat tortilla](/images/chipotle-massive-burrito-rolling/chipotle-burrito-ushape-ingredient-layout.webp)
+![Vector diagram showing the proper U-shaped distribution of heavy ingredients on a flat tortilla](../../assets/images/chipotle-massive-burrito-rolling/chipotle-burrito-ushape-ingredient-layout.webp)
 
 
-The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong.
+The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong. *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
 
 You must spread the ingredients out into a thick line, forming a slight "U" or boat shape in the bottom third of the tortilla. This distributes the mass across a wider area and gives you actual room to work with when the fold starts.
 
@@ -32,7 +33,7 @@ I've watched new hires dump hot salsa directly onto the center of the tortilla, 
 
 ## Step 2: The Stretch and Tuck
 
-![Technical schematic demonstrating the backward pull and tuck motion used to compress a burrito during rolling](/images/chipotle-massive-burrito-rolling/chipotle-burrito-pull-back-technique.webp)
+![Technical schematic demonstrating the backward pull and tuck motion used to compress a burrito during rolling](../../assets/images/chipotle-massive-burrito-rolling/chipotle-burrito-pull-back-technique.webp)
 
 
 This is where burritos live or die. Do not try to fold it like a Christmas present. The Chipotle roll is a specific four-part motion:

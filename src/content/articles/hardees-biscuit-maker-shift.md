@@ -5,6 +5,7 @@ pubDate: "2026-03-22"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Hardee's / Carl's Jr."
+topic: "General"
 relatedArticles:
   - "panera-overnight-baker"
   - "subway-bread-baking-process"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-Most fast-food chains use frozen, pre-formed biscuits that arrive in a box, get tossed on a sheet pan, and go into an oven. Hardee's doesn't do that. Their biscuits are made entirely from scratch—mixed, kneaded, rolled, cut, and baked in-store, every single morning, by a dedicated employee called the Biscuit Maker. And that person's alarm goes off at 3:15 AM.
+Most fast-food chains use frozen, pre-formed biscuits that arrive in a box, get tossed on a sheet pan, and go into an oven. Hardee's doesn't do that. Their biscuits are made entirely from scratch—mixed, kneaded, rolled, cut, and baked in-store, every single morning, by a dedicated employee called the Biscuit Maker. And that person's alarm goes off at 3:15 AM. *(Related guide: [What is the Panera Overnight Baker Shift Like?](/articles/panera-overnight-baker/))*
 
-I've worked alongside Biscuit Makers and trained under their mentorship, and I can tell you without hesitation: this is one of the most respected, most skilled, and most physically demanding positions in all of fast food. If the Biscuit Maker doesn't show up, the entire breakfast operation is in jeopardy. There is no backup plan that doesn't involve another trained human being walking through that door at 4 AM.
+I've worked alongside Biscuit Makers and trained under their mentorship, and I can tell you without hesitation: this is one of the most respected, most skilled, and most physically demanding positions in all of fast food. If the Biscuit Maker doesn't show up, the entire breakfast operation is in jeopardy. There is no backup plan that doesn't involve another trained human being walking through that door at 4 AM. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
 ## The 4:00 AM Arrival: Alone in a Dark Kitchen
 
-The Biscuit Maker arrives at the store with the opening manager, usually around 4:00 AM. The parking lot is empty. The dining room is dark. The ovens are cold. Your first task is getting the massive convection ovens fired up—they need 15 to 20 minutes to reach the correct baking temperature, so timing your first batch to go in right when the oven is ready is part of the routine.
+The Biscuit Maker arrives at the store with the opening manager, usually around 4:00 AM. The parking lot is empty. The dining room is dark. The ovens are cold. Your first task is getting the massive convection ovens fired up—they need 15 to 20 minutes to reach the correct baking temperature, so timing your first batch to go in right when the oven is ready is part of the routine. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
 
 While the ovens heat, you're setting up your station: a massive stainless steel table that gets dusted with a generous layer of flour, a heavy rolling pin, metal biscuit cutters, baking sheets prepped with a light coat of grease or parchment, and all of your measured ingredients within arm's reach.
 
@@ -27,10 +28,10 @@ The first 15 minutes are all about precision setup. You weigh out your dry mix, 
 
 ## The From-Scratch Process: Where Most New Hires Fail
 
-![Technical diagram demonstrating proper straight-down metal biscuit cutter technique](/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-metal-cutter-schematic.webp)
+![Technical diagram demonstrating proper straight-down metal biscuit cutter technique](../../assets/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-metal-cutter-schematic.webp)
 
 
-![Technical schematic of the Hardee's biscuit dough folding and kneading process](/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-dough-folding-schematic.webp)
+![Technical schematic of the Hardee's biscuit dough folding and kneading process](../../assets/images/hardees-biscuit-maker-shift/hardees-biscuit-maker-dough-folding-schematic.webp)
 
 
 Here's the step-by-step, and pay attention to the kneading step because that's where the job lives or dies:

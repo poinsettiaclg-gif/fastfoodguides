@@ -5,6 +5,7 @@ pubDate: "2026-05-04"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
   - "subway-bain-fill-line-rule"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap.
+If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
-Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. Here is the insider method for rolling a loaded Subway wrap perfectly—every single time.
+Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. Here is the insider method for rolling a loaded Subway wrap perfectly—every single time. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
 
 ## Step 1: Warm the Tortilla (Never Skip This)
 
-![Technical schematic of a Subway silicone meat toasting boat](/images/subway-wrap-folding/subway-silicone-toasting-boat.webp)
+![Technical schematic of a Subway silicone meat toasting boat](../../assets/images/subway-wrap-folding/subway-silicone-toasting-boat.webp)
 
 
-Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that new hires skip most often when the line is backed up.
+Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that new hires skip most often when the line is backed up. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
 
 If the customer is getting their meat toasted, toast the meat in the silicone boat as usual, and lay the empty tortilla flat on the deli paper. The residual heat from the toasted meat will soften the tortilla when you place it on top. If they want a cold wrap, ask if you can pop the empty tortilla into the toaster on the "Heat/1-Sub" setting for just 3 seconds. Just enough to make it pliable.
 
@@ -52,7 +53,7 @@ Do not try to fold this like a traditional burrito. Use the Subway deli paper to
 
 ## Step 4: The Diagonal Cut
 
-![Structural diagram showing the diagonal cut pressure distribution for a Subway wrap](/images/subway-wrap-folding/subway-wrap-diagonal-cut-diagram.webp)
+![Structural diagram showing the diagonal cut pressure distribution for a Subway wrap](../../assets/images/subway-wrap-folding/subway-wrap-diagonal-cut-diagram.webp)
 
 
 The cut angle is not just for aesthetics—it serves a functional purpose. Cutting straight across a wrap compresses the filling at the cut point and can blow out the ends. A diagonal cut distributes the pressure across a longer line, keeping the filling intact inside both halves.

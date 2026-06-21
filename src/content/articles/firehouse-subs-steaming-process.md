@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Firehouse Subs"
+topic: "Sandwiches"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,11 +19,11 @@ relatedArticles:
 
 
 
-If you’ve ever eaten a Firehouse Subs sandwich and thought “this feels different from every other hot sub I’ve had,” you’re not imagining things. Firehouse doesn’t toast their subs. They don’t bake them. They don’t grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does.
+If you’ve ever eaten a Firehouse Subs sandwich and thought “this feels different from every other hot sub I’ve had,” you’re not imagining things. Firehouse doesn’t toast their subs. They don’t bake them. They don’t grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you’ll notice a machine that looks nothing like the conveyor toaster at Subway or the flat-top grill at [Jersey Mike’s](/articles/jersey-mikes-hot-sub-grill). It’s a conveyor steamer — a stainless steel box with a belt running through it and steam pouring out of the opening. That machine is the heart of the Firehouse operation, and it’s responsible for everything that separates a Firehouse sub from the competition.
+Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you’ll notice a machine that looks nothing like the conveyor toaster at Subway or the flat-top grill at [Jersey Mike’s](/articles/jersey-mikes-hot-sub-grill). It’s a conveyor steamer — a stainless steel box with a belt running through it and steam pouring out of the opening. That machine is the heart of the Firehouse operation, and it’s responsible for everything that separates a Firehouse sub from the competition. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to heating a sub is one of the smartest things I’ve seen in the sandwich segment. Here’s exactly how it works and why it matters.
+I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to heating a sub is one of the smartest things I’ve seen in the sandwich segment. Here’s exactly how it works and why it matters. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 ## How the Conveyor Steamer Actually Works
 

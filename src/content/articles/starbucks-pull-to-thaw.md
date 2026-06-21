@@ -5,6 +5,7 @@ pubDate: "2026-04-28"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "starbucks-customer-support-cycle"
   - "starbucks-morning-rush"
@@ -12,16 +13,16 @@ relatedArticles:
 ---
 
 
-When you see a display case full of perfectly golden croissants, neatly arranged muffins, and rows of cake pops at Starbucks, you might assume a baker arrived at 4:00 AM to make them fresh. The reality is very different. Every single pastry in that case arrived at the store frozen solid in a cardboard box. What makes them look and taste fresh is a carefully calculated logistics system called the Pull to Thaw, and getting it wrong means either empty pastry cases that cost the store hundreds in lost sales or overflowing trays of stale food that go straight into the waste bin. I've overseen this process across multiple shifts, and here's exactly how it works behind the scenes.
+When you see a display case full of perfectly golden croissants, neatly arranged muffins, and rows of cake pops at Starbucks, you might assume a baker arrived at 4:00 AM to make them fresh. The reality is very different. Every single pastry in that case arrived at the store frozen solid in a cardboard box. What makes them look and taste fresh is a carefully calculated logistics system called the Pull to Thaw, and getting it wrong means either empty pastry cases that cost the store hundreds in lost sales or overflowing trays of stale food that go straight into the waste bin. I've overseen this process across multiple shifts, and here's exactly how it works behind the scenes. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
 
 ## The 18-Hour Thaw Cycle
 
-![Technical schematic of a commercial rolling baker's rack for pastry thawing](/images/starbucks-pull-to-thaw/starbucks-rolling-bakers-rack-schematic.webp)
+![Technical schematic of a commercial rolling baker's rack for pastry thawing](../../assets/images/starbucks-pull-to-thaw/starbucks-rolling-bakers-rack-schematic.webp)
 
 
-You can't take a frozen Lemon Loaf out of a box and hand it to a customer. Almost all Starbucks pastries require a gradual, controlled thawing process at room temperature to preserve their moisture and texture. A croissant that gets microwaved or oven-blasted to speed up the thaw comes out rubbery and wrong. A muffin that thaws too fast develops a hard, crusty top instead of the soft dome customers expect.
+You can't take a frozen Lemon Loaf out of a box and hand it to a customer. Almost all Starbucks pastries require a gradual, controlled thawing process at room temperature to preserve their moisture and texture. A croissant that gets microwaved or oven-blasted to speed up the thaw comes out rubbery and wrong. A muffin that thaws too fast develops a hard, crusty top instead of the soft dome customers expect. *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
 
-The full thaw takes approximately 18 hours. That means the pastries you buy at 7:00 AM on Wednesday were physically pulled from the walk-in freezer by a Shift Supervisor on Tuesday afternoon, typically between 1:00 PM and 3:00 PM. The timing is precise for a reason: pull too early and the pastries will be past their shelf life before the store sells through them. Pull too late and the morning crew opens to empty pastry trays and furious early-bird customers who just want a butter croissant with their latte.
+The full thaw takes approximately 18 hours. That means the pastries you buy at 7:00 AM on Wednesday were physically pulled from the walk-in freezer by a Shift Supervisor on Tuesday afternoon, typically between 1:00 PM and 3:00 PM. The timing is precise for a reason: pull too early and the pastries will be past their shelf life before the store sells through them. Pull too late and the morning crew opens to empty pastry trays and furious early-bird customers who just want a butter croissant with their latte. *(Related guide: [What is the Panera Overnight Baker Shift Like?](/articles/panera-overnight-baker/))*
 
 Here's the thing nobody tells new partners about the thaw timing: it doesn't just depend on the clock. Ambient temperature matters too. During summer months, when the back-of-house area can run warm, pastries may thaw slightly faster than expected. During winter, when the store runs cooler, they might take a full 20 hours. Experienced SSVs learn to account for this and may adjust their pull time by an hour depending on the season.
 
@@ -52,7 +53,7 @@ Many Starbucks locations participate in the FoodShare initiative, which donates 
 
 ## Freezer Organization: FIFO or Chaos
 
-![Operational layout diagram of a walk-in freezer shelving system using FIFO rotation](/images/starbucks-pull-to-thaw/starbucks-walk-in-freezer-fifo-shelving.webp)
+![Operational layout diagram of a walk-in freezer shelving system using FIFO rotation](../../assets/images/starbucks-pull-to-thaw/starbucks-walk-in-freezer-fifo-shelving.webp)
 
 
 The walk-in freezer has to be organized using strict First In, First Out (FIFO) rotation. New shipments go to the back of the shelves. Older boxes get moved to the front so they're always pulled first.

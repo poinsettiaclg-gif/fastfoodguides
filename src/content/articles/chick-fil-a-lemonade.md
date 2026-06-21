@@ -5,6 +5,7 @@ pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+topic: "Chicken"
 relatedArticles:
   - "chick-fil-a-breading-process"
   - "chick-fil-a-ipos-system"
@@ -13,13 +14,13 @@ relatedArticles:
 
 ## Yes, They Actually Squeeze Real Lemons
 
-This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens.
+This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market.
+In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
 
 ## The Morning Prep: Start to Finish
 
-The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. Here's the full process:
+The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. Here's the full process: *(Related guide: [Why Does Chick-fil-A Have Employees Standing Outside With Tablets?](/articles/chick-fil-a-drive-thru-tablets/))*
 
 ### Step 1: Wash and Cut the Lemons
 
@@ -33,7 +34,7 @@ The halved lemons go into a **commercial citrus juicer** — most locations use 
 
 The juicing process produces approximately **3 gallons of fresh lemon juice** from a full batch of lemons. The juice collects in a container below the juicer with a strainer that catches seeds but allows some pulp through — Chick-fil-A's lemonade is intentionally **slightly pulpy**, which is one of the visual cues that it's made from real fruit.
 
-![Engineering diagram of a commercial citrus juicer showing the reamer, strainer, and juice collection](/images/chick-fil-a-lemonade/commercial-juicer-process.webp)
+![Engineering diagram of a commercial citrus juicer showing the reamer, strainer, and juice collection](../../assets/images/chick-fil-a-lemonade/commercial-juicer-process.webp)
 
 ### Step 3: Make the Simple Syrup
 
@@ -51,7 +52,7 @@ The fresh lemon juice and simple syrup are combined in a **large Cambro containe
 
 The mixture is stirred thoroughly and then stored in the walk-in cooler or transferred directly to the front-of-house dispensing container.
 
-![Top-down schematic of the Chick-fil-A lemonade prep workflow from lemons to finished product](/images/chick-fil-a-lemonade/lemonade-prep-station.webp)
+![Top-down schematic of the Chick-fil-A lemonade prep workflow from lemons to finished product](../../assets/images/chick-fil-a-lemonade/lemonade-prep-station.webp)
 
 ## The Dispensing Setup
 

@@ -5,6 +5,7 @@ pubDate: "2026-06-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+topic: "Chicken"
 relatedArticles:
   - "chick-fil-a-lemonade"
   - "chick-fil-a-ipos-system"
@@ -13,11 +14,11 @@ relatedArticles:
 
 ## The Chicken Arrives Raw. Every Single Piece.
 
-This is the first thing that surprises most people about Chick-fil-A. Unlike the majority of fast food chains that receive their chicken pre-breaded, pre-cooked, or flash-frozen from a factory, **Chick-fil-A receives raw, unfrozen chicken breast filets** at every single location.
+This is the first thing that surprises most people about Chick-fil-A. Unlike the majority of fast food chains that receive their chicken pre-breaded, pre-cooked, or flash-frozen from a factory, **Chick-fil-A receives raw, unfrozen chicken breast filets** at every single location. *(Related guide: [How Chick-fil-A Makes Their Lemonade — The Hand-Squeezed Morning Process](/articles/chick-fil-a-lemonade/))*
 
-Every piece of chicken you eat there was hand-breaded in that specific restaurant, by an actual human being, earlier that day or within the last few hours. This is not marketing language. This is the operational reality, and it has massive implications for how their kitchen functions.
+Every piece of chicken you eat there was hand-breaded in that specific restaurant, by an actual human being, earlier that day or within the last few hours. This is not marketing language. This is the operational reality, and it has massive implications for how their kitchen functions. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
 
-The reason most fast food chicken tastes roughly the same everywhere — and the reason Chick-fil-A tastes noticeably different — comes down to this single operational decision. Hand-breading in-house is significantly more labor-intensive, more expensive, and more prone to human error. But it produces a texture and flavor profile that factory-processed chicken simply cannot replicate.
+The reason most fast food chicken tastes roughly the same everywhere — and the reason Chick-fil-A tastes noticeably different — comes down to this single operational decision. Hand-breading in-house is significantly more labor-intensive, more expensive, and more prone to human error. But it produces a texture and flavor profile that factory-processed chicken simply cannot replicate. *(Related guide: [Why Does Chick-fil-A Have Employees Standing Outside With Tablets?](/articles/chick-fil-a-drive-thru-tablets/))*
 
 ## The Milk Wash: Step One
 
@@ -28,7 +29,7 @@ The breading process starts with a **milk wash bath**. This is not buttermilk (a
 
 The chicken filets are submerged fully in the wash and allowed to sit. The timing matters. Too short and the coating won't adhere uniformly. Too long and the chicken absorbs too much liquid, which causes oil splatter in the fryer and produces a soggy result.
 
-![Breading station diagram showing the 3-step flow from milk wash to flour to fryer](/images/chick-fil-a-breading-process/breading-station-diagram.webp)
+![Breading station diagram showing the 3-step flow from milk wash to flour to fryer](../../assets/images/chick-fil-a-breading-process/breading-station-diagram.webp)
 
 ## The Seasoned Flour: Step Two
 
@@ -59,7 +60,7 @@ A pressure fryer is not just a deep fryer with a lid. When the lid seals, it tra
 1. **Cooks faster** — The elevated pressure raises the effective cooking temperature of the moisture inside the chicken, reducing cook time to about **4 minutes and 30 seconds** for a standard filet.
 2. **Locks in moisture** — The pressure prevents moisture from escaping the chicken as rapidly as it would in an open fryer. This is why Chick-fil-A's chicken is noticeably juicier than chicken fried in a standard open vat.
 
-![Cutaway diagram of a Henny Penny pressure fryer showing the sealed lid, oil reservoir, and chicken submerged at 325°F](/images/chick-fil-a-breading-process/pressure-fryer-cutaway.webp)
+![Cutaway diagram of a Henny Penny pressure fryer showing the sealed lid, oil reservoir, and chicken submerged at 325°F](../../assets/images/chick-fil-a-breading-process/pressure-fryer-cutaway.webp)
 
 ### The Temperature and Timing
 

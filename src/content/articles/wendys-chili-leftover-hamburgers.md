@@ -5,6 +5,7 @@ pubDate: "2026-05-11"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
+topic: "Burgers"
 relatedArticles:
   - "wendys-4-corner-press"
   - "wendys-clamshell-grill"
@@ -13,19 +14,19 @@ relatedArticles:
 
 
 
-If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make it out of old, leftover hamburgers." If you're a new hire at Wendy's, you'll learn on your very first shift that this internet rumor is 100% true. But before you recoil in horror, let me tell you something from a decade of kitchen management—this is not a dirty secret. It's not a health code violation. It's actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are more rigorous than most people realize.
+If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make it out of old, leftover hamburgers." If you're a new hire at Wendy's, you'll learn on your very first shift that this internet rumor is 100% true. But before you recoil in horror, let me tell you something from a decade of kitchen management—this is not a dirty secret. It's not a health code violation. It's actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are more rigorous than most people realize. *(Related guide: [What is the Wendy's \](/articles/wendys-4-corner-press/))*
 
 ## The "Burned" Meat Rule
 
-Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [clamshell grill](/articles/wendys-clamshell-grill) too long and dries out, or if the Grill Cook makes more patties than the rush demands, those overcooked patties cannot be served to a customer on a bun. They're past the holding time or too dried out to meet quality standards.
+Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [clamshell grill](/articles/wendys-clamshell-grill) too long and dries out, or if the Grill Cook makes more patties than the rush demands, those overcooked patties cannot be served to a customer on a bun. They're past the holding time or too dried out to meet quality standards. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
-But throwing away perfectly good, cooked beef is a massive waste of money. A single busy Wendy's can accumulate several pounds of overcooked patties per shift. Multiply that by three shifts a day, seven days a week, and you're looking at a staggering amount of protein heading straight to the dumpster.
+But throwing away perfectly good, cooked beef is a massive waste of money. A single busy Wendy's can accumulate several pounds of overcooked patties per shift. Multiply that by three shifts a day, seven days a week, and you're looking at a staggering amount of protein heading straight to the dumpster. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
 
 So Wendy's repurposes it. And the key word here is "repurposes," not "reuses." The meat doesn't get scraped off the grill and dumped directly into a pot. It goes through a completely separate, multi-step preparation process with strict food safety controls at every stage.
 
 ## The Chili Meat Process: Step by Step
 
-![Technical schematic of a flat metal chopping tool breaking up meat in a metal pan](/images/wendys-chili-leftover-hamburgers/wendys-chili-meat-chopping.webp)
+![Technical schematic of a flat metal chopping tool breaking up meat in a metal pan](../../assets/images/wendys-chili-leftover-hamburgers/wendys-chili-meat-chopping.webp)
 
 
 Here's exactly how it works, from the grill to the chili pot:
@@ -48,7 +49,7 @@ When those charred crumbles are simmered in the chili base for hours, they relea
 
 ## Holding, Rotation, and Daily Production
 
-![Technical schematic of a long ladle stirring chili from the bottom of a large commercial pot](/images/wendys-chili-leftover-hamburgers/wendys-chili-stirring.webp)
+![Technical schematic of a long ladle stirring chili from the bottom of a large commercial pot](../../assets/images/wendys-chili-leftover-hamburgers/wendys-chili-stirring.webp)
 
 
 Once the chili is simmering in the warmer, it is absolutely not a set-it-and-forget-it situation. The chili must be stirred from the bottom at least every 30 minutes. If it sits undisturbed, the beans and meat settle while the liquid rises, creating an uneven product where one customer gets watery broth and the next gets a thick, chunky ladle.

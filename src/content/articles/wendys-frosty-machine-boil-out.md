@@ -5,6 +5,7 @@ pubDate: "2026-05-15"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Wendy's"
+topic: "Burgers"
 relatedArticles:
   - "wendys-closing-duties"
   - "wendys-clamshell-grill"
@@ -13,15 +14,15 @@ relatedArticles:
 
 
 
-The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [closing duties](/articles/wendys-closing-duties) and the Frosty machine is on your checklist, congratulations—you've drawn the single most time-consuming, mechanically complex, and universally dreaded closing task in the entire restaurant.
+The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [closing duties](/articles/wendys-closing-duties) and the Frosty machine is on your checklist, congratulations—you've drawn the single most time-consuming, mechanically complex, and universally dreaded closing task in the entire restaurant. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
 
 It's called the Boil-Out. And by the time you're done, you'll understand why.
 
 ## Why the Boil-Out Is Non-Negotiable
 
-The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day.
+The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
-I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy.
+I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. *(Related guide: [Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)](/articles/dairy-queen-blizzard-flip/))*
 
 The boil-out strips the machine of all dairy residue, sanitizes every surface that contacts the product, and ensures the morning crew is pouring fresh Frosty mix into an immaculately clean system.
 
@@ -35,7 +36,7 @@ Once the machine is empty, pour buckets of warm water into the top hoppers and p
 
 ## Step 2: The Mechanical Teardown
 
-![Technical schematic of a Frosty machine auger with sharp plastic scraper blades](/images/wendys-frosty-machine-boil-out/wendys-frosty-auger.webp)
+![Technical schematic of a Frosty machine auger with sharp plastic scraper blades](../../assets/images/wendys-frosty-machine-boil-out/wendys-frosty-auger.webp)
 
 
 This is the part that intimidates every new hire, and honestly, it should. The Frosty machine is not a simple countertop appliance—it's a precision freezing system with heavy metal components.
@@ -58,7 +59,7 @@ Each O-ring must be individually removed from its groove, inspected under good l
 
 ## Step 4: Reassembly and the Lube
 
-![Technical schematic of food-grade lubricant being applied to rubber O-rings](/images/wendys-frosty-machine-boil-out/wendys-frosty-orings.webp)
+![Technical schematic of food-grade lubricant being applied to rubber O-rings](../../assets/images/wendys-frosty-machine-boil-out/wendys-frosty-orings.webp)
 
 
 This is where new employees always, always mess up. When putting the machine back together, you cannot just slide the metal auger back in and bolt the faceplate on. Every single rubber O-ring and the drive shaft must be coated with food-grade lubricant—typically Petrol-Gel or an equivalent NSF-certified product.

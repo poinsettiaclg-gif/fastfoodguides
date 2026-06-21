@@ -5,6 +5,7 @@ pubDate: "2026-04-13"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Panera Bread"
+topic: "Other Chains"
 relatedArticles:
   - "panera-bread-consolidator-role"
   - "hardees-biscuit-maker-shift"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-At 2:00 AM, while every other restaurant in the strip mall is dark and locked, the Panera Bread cafe smells like fresh yeast, cinnamon, and baking sourdough. The parking lot is empty except for one car. The dining room lights are off. But somewhere in the back, a single person is pulling golden loaves from a rotating rack oven, scoring bread with a razor blade, and icing cinnamon rolls in complete solitude.
+At 2:00 AM, while every other restaurant in the strip mall is dark and locked, the Panera Bread cafe smells like fresh yeast, cinnamon, and baking sourdough. The parking lot is empty except for one car. The dining room lights are off. But somewhere in the back, a single person is pulling golden loaves from a rotating rack oven, scoring bread with a razor blade, and icing cinnamon rolls in complete solitude. *(Related guide: [What is the Panera Bread \](/articles/panera-bread-consolidator-role/))*
 
-The Panera Overnight Baker is one of the most unique jobs in the entire fast-casual industry. You don't deal with customers. You don't deal with a lunch rush. You usually don't even have a manager in the building. But it is absolutely not a job for everyone — and the people who thrive in it are a very specific breed.
+The Panera Overnight Baker is one of the most unique jobs in the entire fast-casual industry. You don't deal with customers. You don't deal with a lunch rush. You usually don't even have a manager in the building. But it is absolutely not a job for everyone — and the people who thrive in it are a very specific breed. *(Related guide: [What is the 4:00 AM \](/articles/hardees-biscuit-maker-shift/))*
 
 ## The Hours and the Solo Shift
 
-The typical Panera Baker shift starts between 9:00 PM and 10:00 PM and ends between 5:00 AM and 6:00 AM, just as the opening managers arrive to unlock the front doors. In nearly every cafe, you work entirely alone. You are locked inside the building by yourself for 8 hours straight.
+The typical Panera Baker shift starts between 9:00 PM and 10:00 PM and ends between 5:00 AM and 6:00 AM, just as the opening managers arrive to unlock the front doors. In nearly every cafe, you work entirely alone. You are locked inside the building by yourself for 8 hours straight. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
 For introverts who love podcasts, audiobooks, or simply their own thoughts, it is genuinely a dream job. I've talked to bakers who described it as the best position they've ever held in food service — no customer complaints, no rush anxiety, no coworker drama. Just you, the dough, and eight hours of focused work. For people who need social interaction to stay motivated and awake, it is an absolute nightmare that leads to burnout within weeks.
 
@@ -29,7 +30,7 @@ This is similar in spirit to the [Hardee's biscuit maker shift](/articles/hardee
 
 ## The Baker's Timeline
 
-![Technical diagram of proofing boxes and rotating rack ovens used by an overnight baker](/images/panera-overnight-baker/panera-overnight-baker-equipment-setup.webp)
+![Technical diagram of proofing boxes and rotating rack ovens used by an overnight baker](../../assets/images/panera-overnight-baker/panera-overnight-baker-equipment-setup.webp)
 
 
 Here's the thing nobody tells you about the overnight baker position: you are not mixing flour and yeast from scratch. The dough is mixed at a massive regional Fresh Dough Facility (FDF) and delivered to the cafe daily in sealed trays. Your job is to proof, score, and bake it perfectly on a very strict timeline — and that timeline has almost zero margin for error.
@@ -43,7 +44,7 @@ Each of these windows is tight, and falling behind on one step creates a cascadi
 
 ## The Scoring Technique
 
-![Blueprint schematic showing the correct 30-degree razor blade angle for scoring bread dough](/images/panera-overnight-baker/panera-bread-scoring-angle-schematic.webp)
+![Blueprint schematic showing the correct 30-degree razor blade angle for scoring bread dough](../../assets/images/panera-overnight-baker/panera-bread-scoring-angle-schematic.webp)
 
 
 Scoring bread is one of the most satisfying parts of the job, but it's also one of the trickiest skills to master. Each bread variety has a specific scoring pattern that must be replicated consistently across every single loaf. A sourdough round gets a deep cross-hatch pattern. A baguette gets diagonal slashes. A country loaf gets a single long score down the center.

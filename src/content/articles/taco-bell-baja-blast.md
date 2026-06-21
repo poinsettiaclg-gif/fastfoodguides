@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+topic: "Mexican"
 relatedArticles:
   - "taco-bell-menu"
   - "taco-bell-linebacker-role"
@@ -18,15 +19,15 @@ relatedArticles:
 
 
 
-There are roughly two dozen fountain drink options across all of fast food, and none of them generate the kind of fanatical devotion that Baja Blast does. This tropical lime Mountain Dew variant, with its unmistakable teal color, is the single most requested drink at every Taco Bell I have ever worked at or visited. And the question I heard more than any other — more than “is the ice cream machine working” at McDonald’s, more than “can I get extra sauce” — was this: “Why can’t I buy Baja Blast anywhere else?” The answer involves a carefully structured exclusivity deal between Taco Bell and PepsiCo, some very deliberate flavor science, and a scarcity strategy that turns a fountain drink into something people genuinely lose sleep over.
+There are roughly two dozen fountain drink options across all of fast food, and none of them generate the kind of fanatical devotion that Baja Blast does. This tropical lime Mountain Dew variant, with its unmistakable teal color, is the single most requested drink at every Taco Bell I have ever worked at or visited. And the question I heard more than any other — more than “is the ice cream machine working” at McDonald’s, more than “can I get extra sauce” — was this: “Why can’t I buy Baja Blast anywhere else?” The answer involves a carefully structured exclusivity deal between Taco Bell and PepsiCo, some very deliberate flavor science, and a scarcity strategy that turns a fountain drink into something people genuinely lose sleep over. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
 
 ## The PepsiCo Partnership: Built From Scratch for Taco Bell
 
-![Blueprint illustration of The PepsiCo Partnership: Built From Scratch for Taco Bell](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-pepsico-partnership-built-.webp)
+![Blueprint illustration of The PepsiCo Partnership: Built From Scratch for Taco Bell](../../assets/images/taco-bell-baja-blast/taco-bell-baja-blast-the-pepsico-partnership-built-.webp)
 
-Baja Blast was not an existing Mountain Dew flavor that Taco Bell licensed for its fountains. It was co-developed from the ground up by Taco Bell and PepsiCo’s beverage R&D team specifically for the Taco Bell restaurant experience. The collaboration launched in 2004, and the flavor profile was engineered with a specific goal: create a drink that pairs with Taco Bell’s food better than standard Mountain Dew, Pepsi, or any other existing option.
+Baja Blast was not an existing Mountain Dew flavor that Taco Bell licensed for its fountains. It was co-developed from the ground up by Taco Bell and PepsiCo’s beverage R&D team specifically for the Taco Bell restaurant experience. The collaboration launched in 2004, and the flavor profile was engineered with a specific goal: create a drink that pairs with Taco Bell’s food better than standard Mountain Dew, Pepsi, or any other existing option. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
 
-The tropical lime profile — that bright, citrusy punch layered over Mountain Dew’s existing sweetness — was selected because it cuts through the richness of seasoned beef, nacho cheese, and sour cream. Standard Mountain Dew is sweet but one-dimensional when paired with savory food. Baja Blast’s lime component acts as a palate cleanser, similar to how a squeeze of lime works on tacos in traditional Mexican cuisine. That connection was not accidental. The R&D team reportedly tested dozens of flavor variants alongside actual Taco Bell menu items before settling on the final formula.
+The tropical lime profile — that bright, citrusy punch layered over Mountain Dew’s existing sweetness — was selected because it cuts through the richness of seasoned beef, nacho cheese, and sour cream. Standard Mountain Dew is sweet but one-dimensional when paired with savory food. Baja Blast’s lime component acts as a palate cleanser, similar to how a squeeze of lime works on tacos in traditional Mexican cuisine. That connection was not accidental. The R&D team reportedly tested dozens of flavor variants alongside actual Taco Bell menu items before settling on the final formula. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
 
 The exclusivity agreement means that Baja Blast is produced and distributed only through Taco Bell’s fountain system under normal circumstances. PepsiCo manufactures the syrup, ships it to Taco Bell’s distribution network, and it flows through the same bag-in-box fountain system that handles Pepsi, Sierra Mist, and the rest of the lineup. No other restaurant chain, convenience store, or fountain operator can pour Baja Blast. The formula belongs to the partnership.
 
@@ -34,7 +35,7 @@ This arrangement is mutually beneficial in a way that both companies understand 
 
 ## The Fountain Syrup Ratio: Why It Tastes Different at Different Locations
 
-![Blueprint illustration of The Fountain Syrup Ratio: Why It Tastes Different at Different Locations](/images/taco-bell-baja-blast/taco-bell-baja-blast-the-fountain-syrup-ratio-why-i.webp)
+![Blueprint illustration of The Fountain Syrup Ratio: Why It Tastes Different at Different Locations](../../assets/images/taco-bell-baja-blast/taco-bell-baja-blast-the-fountain-syrup-ratio-why-i.webp)
 
 Here is something that drove me nuts when I worked the fountain station, and that Baja Blast fanatics notice immediately: the drink does not taste exactly the same at every Taco Bell. Some locations pour a Baja Blast that is electric — bright, tangy, perfectly carbonated, with that clean citrus finish. Other locations pour something that tastes flat, watery, or overly sweet. Same brand, same syrup, wildly different result.
 

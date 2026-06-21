@@ -5,17 +5,18 @@ pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Raising Cane's"
+topic: "Chicken"
 relatedArticles:
   - "raising-canes-bird-specialist"
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
 ---
 
-Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day.
+Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day. *(Related guide: [What Does a \](/articles/raising-canes-bird-specialist/))*
 
-That's the part most people don't realize. When you peel back the lid on that little cup of sauce, you're eating something that was mixed by hand in the back of that specific restaurant, probably within the last few hours. It's not shipped in from a warehouse. It's not squirted from a machine. Someone in the kitchen made it.
+That's the part most people don't realize. When you peel back the lid on that little cup of sauce, you're eating something that was mixed by hand in the back of that specific restaurant, probably within the last few hours. It's not shipped in from a warehouse. It's not squirted from a machine. Someone in the kitchen made it. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-I spent time working alongside Cane's employees during a consulting stint, and watching the sauce prep process was one of those moments where you realize why certain fast food items taste noticeably better than the competition. It's because someone actually made it that morning.
+I spent time working alongside Cane's employees during a consulting stint, and watching the sauce prep process was one of those moments where you realize why certain fast food items taste noticeably better than the competition. It's because someone actually made it that morning. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 ## The Ingredients Are Not a Secret
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-06"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Taco Bell"
+topic: "Mexican"
 relatedArticles:
   - "taco-bell-drive-thru-timer"
   - "taco-bell-menu"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker.
+During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
-If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt.
+If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
 
 ## How the Makeline Is Divided
 
-![Flat vector diagram of the Taco Bell makeline ingredient pan layout](/images/taco-bell-linebacker-role/taco-bell-makeline-ingredient-layout.webp)
+![Flat vector diagram of the Taco Bell makeline ingredient pan layout](../../assets/images/taco-bell-linebacker-role/taco-bell-makeline-ingredient-layout.webp)
 
 
-To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles:
+To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles: *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
 
 - **The Starter** steams the tortillas and flat shells, adds the protein (beef, chicken, or steak), and pushes the partially built item down the line.
 - **The Stuffer** adds the cold ingredients—lettuce, cheese, tomatoes, sour cream—wraps or folds the item, and places it in the packaging.
@@ -32,7 +33,7 @@ When the Starter runs out of ground beef, they have to stop building, turn aroun
 
 ## The Linebacker's Core Duties
 
-![Technical schematic of a Taco Bell heated holding cabinet rails](/images/taco-bell-linebacker-role/taco-bell-heated-holding-cabinet.webp)
+![Technical schematic of a Taco Bell heated holding cabinet rails](../../assets/images/taco-bell-linebacker-role/taco-bell-heated-holding-cabinet.webp)
 
 
 The Linebacker's job is deceptively simple to describe and incredibly demanding to execute:

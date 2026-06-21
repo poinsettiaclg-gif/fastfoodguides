@@ -5,6 +5,7 @@ pubDate: "2026-03-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Five Guys"
+topic: "Burgers"
 relatedArticles:
   - "five-guys-fry-calibration"
   - "chipotle-grill-validation"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-In an industry where nearly every fast-food kitchen has at least one walk-in freezer packed with frozen patties, frozen chicken, frozen fries, and frozen everything else, Five Guys makes a claim that sounds almost delusional: they don't have freezers. No walk-in freezer. No reach-in freezer. No chest freezer hidden in the back. Nothing in the entire building that goes below 32°F.
+In an industry where nearly every fast-food kitchen has at least one walk-in freezer packed with frozen patties, frozen chicken, frozen fries, and frozen everything else, Five Guys makes a claim that sounds almost delusional: they don't have freezers. No walk-in freezer. No reach-in freezer. No chest freezer hidden in the back. Nothing in the entire building that goes below 32°F. *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
 
-I'll be straight with you—the first time I heard this, I assumed it was marketing spin. Every restaurant has a freezer somewhere, right? But I've been through Five Guys kitchens, talked to their managers, and watched their operations up close. The claim is 100% legitimate. And the operational implications of running a high-volume fast-food restaurant with zero frozen storage are far more intense than most people realize.
+I'll be straight with you—the first time I heard this, I assumed it was marketing spin. Every restaurant has a freezer somewhere, right? But I've been through Five Guys kitchens, talked to their managers, and watched their operations up close. The claim is 100% legitimate. And the operational implications of running a high-volume fast-food restaurant with zero frozen storage are far more intense than most people realize. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
 
 ## The Walk-In Cooler: The Single Most Important Piece of Equipment in the Building
 
-![Technical schematic of a Five Guys walk-in cooler storage layout](/images/five-guys-no-freezers/five-guys-no-freezers-walkin-cooler-schematic.webp)
+![Technical schematic of a Five Guys walk-in cooler storage layout](../../assets/images/five-guys-no-freezers/five-guys-no-freezers-walkin-cooler-schematic.webp)
 
 
-Without a freezer, Five Guys lives and dies by their walk-in cooler. And it's not the cramped, closet-sized cooler you'll find at most fast-food joints. A typical Five Guys walk-in is significantly larger than what you'd expect—it has to be, because it's holding everything the store needs for the next one to two days, all of it fresh, all of it perishable, all of it on a ticking clock.
+Without a freezer, Five Guys lives and dies by their walk-in cooler. And it's not the cramped, closet-sized cooler you'll find at most fast-food joints. A typical Five Guys walk-in is significantly larger than what you'd expect—it has to be, because it's holding everything the store needs for the next one to two days, all of it fresh, all of it perishable, all of it on a ticking clock. *(Related guide: [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/))*
 
 Inside that cooler on any given morning you'll find:
 
@@ -37,7 +38,7 @@ The cooler compressor is essentially the heartbeat of the restaurant. If it stop
 
 ## The Morning Prep: Why Five Guys Openers Work Harder Than Almost Anyone in Fast Food
 
-![Technical diagram of the Five Guys manual burger patty rolling workflow](/images/five-guys-no-freezers/five-guys-no-freezers-patty-rolling-schematic.webp)
+![Technical diagram of the Five Guys manual burger patty rolling workflow](../../assets/images/five-guys-no-freezers/five-guys-no-freezers-patty-rolling-schematic.webp)
 
 
 Here's where the no-freezer reality hits hardest for employees. At most fast-food chains, the morning prep involves pulling frozen product out of the freezer, stacking it on the line, and maybe doing some light slicing or portioning. At Five Guys, there is no frozen product to pull. Everything starts from raw, whole ingredients, and every single item has to be prepped by hand.

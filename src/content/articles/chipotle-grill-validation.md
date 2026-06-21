@@ -5,6 +5,7 @@ pubDate: "2026-03-08"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chipotle"
+topic: "Mexican"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
   - "chipotle-massive-burrito-rolling"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-Working the grill at Chipotle is widely considered the hardest station in the restaurant. You are the engine of the entire operation. If the grill goes down—if you fall behind on chicken, run out of rice, or let the fajita veggies die—the entire line stops moving and every ticket in the restaurant backs up. I've watched lunch rushes collapse in under three minutes because the grill cook got overwhelmed and couldn't recover.
+Working the grill at Chipotle is widely considered the hardest station in the restaurant. You are the engine of the entire operation. If the grill goes down—if you fall behind on chicken, run out of rice, or let the fajita veggies die—the entire line stops moving and every ticket in the restaurant backs up. I've watched lunch rushes collapse in under three minutes because the grill cook got overwhelmed and couldn't recover. *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
 
-Because the role is that critical, Chipotle doesn't just hand it to anyone. You have to earn it by passing a rigorous practical exam called Grill Validation. If you're preparing for your validation day, here's exactly what the evaluator will be watching for—and the things that trip up most people.
+Because the role is that critical, Chipotle doesn't just hand it to anyone. You have to earn it by passing a rigorous practical exam called Grill Validation. If you're preparing for your validation day, here's exactly what the evaluator will be watching for—and the things that trip up most people. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
 
 ## What Grill Validation Actually Looks Like
 
-Validation is not a written test. It is not a multiple-choice quiz. It is a live, hands-on performance evaluation where a manager—usually your General Manager, sometimes the Field Leader—shadows you during a real shift with a printed checklist on a clipboard. They are not jumping in to help you. They are not cooking alongside you. They are standing behind you, watching every move you make, and grading you in real time.
+Validation is not a written test. It is not a multiple-choice quiz. It is a live, hands-on performance evaluation where a manager—usually your General Manager, sometimes the Field Leader—shadows you during a real shift with a printed checklist on a clipboard. They are not jumping in to help you. They are not cooking alongside you. They are standing behind you, watching every move you make, and grading you in real time. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
 
 Here's the thing nobody tells you: they intentionally schedule validation during a peak rush period. Lunch. Sometimes dinner. They want to see you perform under genuine, full-throttle pressure—not during a dead Tuesday afternoon when orders trickle in one at a time. If you can't keep the grill stocked and the line fed while 40 customers are queued up, you are not ready for the role. The observation period typically covers 1.5 to 2.5 hours of continuous work, so they're looking for consistency over time, not just a single perfect batch.
 
@@ -43,7 +44,7 @@ And if you are caught not wearing your Kevlar cutting glove at any point during 
 
 ### 3. Food Safety and Temp Logs
 
-![Technical illustration of a digital meat thermometer being calibrated in 32-degree ice water](/images/chipotle-grill-validation/chipotle-grill-thermometer-calibration-diagram.webp)
+![Technical illustration of a digital meat thermometer being calibrated in 32-degree ice water](../../assets/images/chipotle-grill-validation/chipotle-grill-thermometer-calibration-diagram.webp)
 
 
 Chipotle has arguably the strictest food safety protocols in the fast food industry. During validation, you must demonstrate proper procedure for temping chicken on the grill—hitting 165°F in multiple spots—and correctly logging it in the physical or digital Black Book.
@@ -54,7 +55,7 @@ They will also verify that you calibrated your thermometer at the start of your 
 
 ### 4. Clean As You Go
 
-![Schematic top-down view of a Chipotle grill station showing separate cutting boards to prevent cross-contamination](/images/chipotle-grill-validation/chipotle-grill-station-cutting-board-layout.webp)
+![Schematic top-down view of a Chipotle grill station showing separate cutting boards to prevent cross-contamination](../../assets/images/chipotle-grill-validation/chipotle-grill-station-cutting-board-layout.webp)
 
 
 A messy grill area is a failing grill area. If your cutting board is covered in raw chicken juice while you try to slice steak, you fail. If your station looks like a bomb went off, you fail. You must constantly wipe down your surfaces, swap out dirty cutting boards, and keep the rice station spotless.

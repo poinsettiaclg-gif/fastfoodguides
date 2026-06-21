@@ -5,6 +5,7 @@ pubDate: "2026-04-27"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
   - "starbucks-customer-support-cycle"
@@ -12,18 +13,18 @@ relatedArticles:
 ---
 
 
-The Starbucks morning rush—internally called "Peak"—is one of the most intense experiences in the entire QSR industry. Between 7:00 AM and 9:00 AM, hundreds of customers, a relentless stream of mobile orders, and a packed drive-thru line converge on the store simultaneously. If your Shift Supervisor puts you on the Hot Espresso Bar during Peak, it means two things: they trust your skills, and you're about to endure two hours of the most focused, high-speed beverage crafting you've ever done. I've trained dozens of baristas through their first Peak shifts, and the difference between drowning and thriving comes down to a handful of specific habits. Here's every one of them.
+The Starbucks morning rush—internally called "Peak"—is one of the most intense experiences in the entire QSR industry. Between 7:00 AM and 9:00 AM, hundreds of customers, a relentless stream of mobile orders, and a packed drive-thru line converge on the store simultaneously. If your Shift Supervisor puts you on the Hot Espresso Bar during Peak, it means two things: they trust your skills, and you're about to endure two hours of the most focused, high-speed beverage crafting you've ever done. I've trained dozens of baristas through their first Peak shifts, and the difference between drowning and thriving comes down to a handful of specific habits. Here's every one of them. *(Related guide: [How to Master the Starbucks Cold Bar and Frappuccino Sequence](/articles/starbucks-cold-bar-frappuccino/))*
 
 ## Respect the Beverage Routine
 
-![Blueprint-style layout diagram of a commercial hot bar espresso station](/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
+![Blueprint-style layout diagram of a commercial hot bar espresso station](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
 
 
-Starbucks drills a highly specific routine into every barista during training called the Beverage Routine. When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next.
+Starbucks drills a highly specific routine into every barista during training called the Beverage Routine. When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
 
 The sequence works like this:
 
-- **Steam the Milk First.** The Mastrena espresso machine takes time to steam milk to the proper temperature (around 150°F to 160°F for standard drinks, 180°F for extra-hot requests). Start this step first because it's the longest wait in the entire build.
+- **Steam the Milk First.** The Mastrena espresso machine takes time to steam milk to the proper temperature (around 150°F to 160°F for standard drinks, 180°F for extra-hot requests). Start this step first because it's the longest wait in the entire build. *(Related guide: [How the Starbucks \](/articles/starbucks-pull-to-thaw/))*
 - **Queue the Shots.** While the milk steams, pull the espresso shots into the cup. The shots take about 18 to 23 seconds to pull, and that window overlaps perfectly with the steaming time.
 - **Add the Syrup.** While the shots are pouring, pump the required syrup—vanilla, caramel, classic, hazelnut, whatever the sticker says—directly into the cup. The shots fall on top of the syrup, which helps them dissolve and integrate.
 - **Finish and Connect.** Pour the steamed milk, add whipped cream if applicable, cap it, sleeve it, and place it on the handoff plane. Call out the drink and move to the next sticker.
@@ -40,7 +41,7 @@ The stickers come from multiple channels—cafe orders, mobile orders, drive-thr
 
 ## Keep Your Station Immaculate
 
-![Technical schematic of a commercial espresso machine steam wand and tip](/images/starbucks-morning-rush/starbucks-espresso-machine-steam-wand-schematic.webp)
+![Technical schematic of a commercial espresso machine steam wand and tip](../../assets/images/starbucks-morning-rush/starbucks-espresso-machine-steam-wand-schematic.webp)
 
 
 A messy bar slows you down in ways you don't notice until it's too late. If you spill milk, wipe it immediately. If the espresso grounds bin is getting full, empty it the second you have a 10-second gap. If you let milk crust onto your steam wand or syrup pool on the counter, you will eventually drop a cup, knock over a bottle, or slip on a wet floor and completely derail the flow.

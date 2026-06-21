@@ -5,6 +5,7 @@ pubDate: "2026-03-03"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Burger King"
+topic: "Burgers"
 relatedArticles:
   - "burger-king-broiler-closing"
   - "burger-king-expeditor-role"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do.
+Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. *(Related guide: [How Hard Is It to Clean the Burger King Broiler at Closing?](/articles/burger-king-broiler-closing/))*
 
 ## How the Flame Broiler Actually Works
 
-![Schematic diagram of the Burger King flame broiler continuous conveyor belt feed mechanism](/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp)
+![Schematic diagram of the Burger King flame broiler continuous conveyor belt feed mechanism](../../assets/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp)
 
 
-The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler.
+The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
 
-**The Feed:** You stand at the front of the machine and pull frozen beef patties out of a small freezer drawer located directly beneath the broiler. The patties come in different sizes—regular for a Hamburger, larger for a Whopper—and they go on the belt frozen solid, straight from the box.
+**The Feed:** You stand at the front of the machine and pull frozen beef patties out of a small freezer drawer located directly beneath the broiler. The patties come in different sizes—regular for a Hamburger, larger for a Whopper—and they go on the belt frozen solid, straight from the box. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
 **The Drop:** You place the frozen patties directly onto the moving chain-link conveyor belt. During a lunch rush, you might be dropping patties every 15 to 20 seconds. The belt never stops, so if you fall behind on the feed, you create a gap in production that leaves the sandwich makers building with nothing. Maintaining a steady, rhythmic pace is the single most important skill a broiler cook can develop. I've seen new hires panic when the orders stack up, start fumbling with the patty boxes, and suddenly there is a 90-second gap on the belt. That is an eternity during a rush.
 
@@ -51,7 +52,7 @@ Burger King has rigorous safety protocols, and they exist for very good reasons.
 
 ## When the Broiler Goes Down
 
-![Technical illustration of the Burger King broiler gas igniter and burner assembly](/images/burger-king-broiler/burger-king-broiler-igniter-assembly.webp)
+![Technical illustration of the Burger King broiler gas igniter and burner assembly](../../assets/images/burger-king-broiler/burger-king-broiler-igniter-assembly.webp)
 
 
 Despite its rugged construction, the broiler is a mechanical system that breaks. The most common failure is a faulty igniter—the component that lights the gas burners. When the igniter dies, the gas flows but does not light, and the machine shuts itself down as a safety measure.

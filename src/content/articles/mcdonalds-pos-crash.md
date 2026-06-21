@@ -5,6 +5,7 @@ pubDate: "2026-04-08"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
+topic: "Burgers"
 relatedArticles:
   - "mcdonalds-abs-system"
   - "taco-bell-drive-thru-timer"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't.
+McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
 
-Here's the thing nobody tells you during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985.
+Here's the thing nobody tells you during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
 ## The Manual Crash Kit
 
-![Technical schematic of a McDonald's manual POS crash kit on a dark blue background](/images/mcdonalds-pos-crash/mcdonalds-pos-crash-kit-schematic.webp)
+![Technical schematic of a McDonald's manual POS crash kit on a dark blue background](../../assets/images/mcdonalds-pos-crash/mcdonalds-pos-crash-kit-schematic.webp)
 
 
-Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator.
+Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
 
 - **Basic calculators**: Two or three of them, because one will inevitably have dead batteries when you need it most.
 - **Laminated tax charts**: The POS normally calculates local sales tax automatically. Without it, cashiers use these charts to manually look up the tax on every order total. I've seen new hires completely freeze when they realize they need to add tax by hand.
@@ -33,7 +34,7 @@ Some locations also keep a backup cash drawer with a pre-counted starting bank s
 
 ## The Chaos in the Kitchen
 
-![Diagram of manual paper order workflow in a fast food kitchen on a dark navy background](/images/mcdonalds-pos-crash/mcdonalds-kitchen-manual-order-workflow.webp)
+![Diagram of manual paper order workflow in a fast food kitchen on a dark navy background](../../assets/images/mcdonalds-pos-crash/mcdonalds-kitchen-manual-order-workflow.webp)
 
 
 The hardest part of a system crash isn't calculating money — it's communicating with the grill. When those kitchen display screens go black, the cooks are completely blind. They have zero visibility into what's been ordered.

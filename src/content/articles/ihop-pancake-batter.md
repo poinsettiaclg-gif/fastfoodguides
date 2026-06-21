@@ -5,6 +5,7 @@ pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "IHOP"
+topic: "Breakfast & Coffee"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
@@ -18,13 +19,13 @@ relatedArticles:
 
 
 
-If you’ve ever eaten a stack of IHOP’s Original Buttermilk pancakes and thought “there’s no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother’s recipe does. But they’re also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for.
+If you’ve ever eaten a stack of IHOP’s Original Buttermilk pancakes and thought “there’s no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother’s recipe does. But they’re also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
 
-I spent time working alongside IHOP kitchen staff during my years in the QSR industry, and I want to walk you through exactly what happens behind the pass—from the moment that dry mix bag gets opened to the second a finished stack hits the plate. There are specific details about temperature, consistency, pour technique, and timing that most “IHOP exposed!” posts online get completely wrong.
+I spent time working alongside IHOP kitchen staff during my years in the QSR industry, and I want to walk you through exactly what happens behind the pass—from the moment that dry mix bag gets opened to the second a finished stack hits the plate. There are specific details about temperature, consistency, pour technique, and timing that most “IHOP exposed!” posts online get completely wrong. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
 ## The Batter: Proprietary Dry Mix, Not Scratch
 
-Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor.
+Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
 
 Each bag is labeled with IHOP’s specific product code. You can’t walk into a restaurant supply store and buy this stuff. It’s manufactured exclusively for the chain and the exact formulation is proprietary. Employees don’t get a full ingredient breakdown beyond what’s on the allergen sheet—they just know what the bag looks like and how to use it.
 

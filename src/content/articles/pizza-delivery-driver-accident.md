@@ -5,6 +5,7 @@ pubDate: "2026-04-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Multi-Chain"
+topic: "Pizza"
 relatedArticles:
   - "pizza-hut-dispatch"
   - "dominos-gas"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag.
+I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag. *(Related guide: [How Does the Pizza Hut Dispatch System Work?](/articles/pizza-hut-dispatch/))*
 
-Delivering pizzas for Domino's, Pizza Hut, or Papa John's is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. Here's what actually happens when the worst-case scenario hits.
+Delivering pizzas for Domino's, Pizza Hut, or Papa John's is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. Here's what actually happens when the worst-case scenario hits. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
 
 ## The Insurance Gap Nobody Warns You About
 
-This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.**
+This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.** *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
 
 Read that again. Let it sink in.
 
@@ -39,7 +40,7 @@ I cannot stress this enough: the company is not your safety net. You are your sa
 
 ## Exactly What to Do if You Crash on the Clock
 
-![Blueprint diagram of a delivery vehicle highlighting required safety inspection points like headlights and tires](/images/pizza-delivery-driver-accident/pizza-delivery-vehicle-inspection-schematic.webp)
+![Blueprint diagram of a delivery vehicle highlighting required safety inspection points like headlights and tires](../../assets/images/pizza-delivery-driver-accident/pizza-delivery-vehicle-inspection-schematic.webp)
 
 
 When the worst happens, adrenaline takes over and your brain stops working logically. Burn this list into your memory so you don't have to think about it:
@@ -56,7 +57,7 @@ When the worst happens, adrenaline takes over and your brain stops working logic
 
 ## Vehicle Requirements You Should Actually Follow
 
-![Technical schematic of a dashcam installation for a pizza delivery vehicle on a dark blue background](/images/pizza-delivery-driver-accident/pizza-delivery-dashcam-setup-schematic.webp)
+![Technical schematic of a dashcam installation for a pizza delivery vehicle on a dark blue background](../../assets/images/pizza-delivery-driver-accident/pizza-delivery-dashcam-setup-schematic.webp)
 
 
 Before you start delivering, most franchises require your car to pass a basic inspection. Working headlights, taillights, brake lights, and turn signals are non-negotiable. Valid registration, state-minimum insurance, and a current inspection sticker where applicable. Management is supposed to do periodic vehicle checks throughout your employment — not just at hiring.

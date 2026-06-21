@@ -5,6 +5,7 @@ pubDate: "2026-03-07"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Chick-fil-A"
+topic: "Chicken"
 relatedArticles:
   - "chick-fil-a-core-4"
   - "taco-bell-drive-thru-timer"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a McDonald's or Taco Bell. The reason is a system called iPOS—Internet Point of Sale—and it is one of the most brilliantly engineered operational innovations in the entire fast food industry. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it.
+If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a McDonald's or Taco Bell. The reason is a system called iPOS—Internet Point of Sale—and it is one of the most brilliantly engineered operational innovations in the entire fast food industry. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it. *(Related guide: [What Is the Chick-fil-A Core 4 (And How to Pass the Interview)](/articles/chick-fil-a-core-4/))*
 
 ## Bypassing the Speaker Box Bottleneck
 
-![Clean vector illustration of the Chick-fil-A iPOS tablet interface and mobile card reader](/images/chick-fil-a-ipos-system/chick-fil-a-ipos-tablet-interface.webp)
+![Clean vector illustration of the Chick-fil-A iPOS tablet interface and mobile card reader](../../assets/images/chick-fil-a-ipos-system/chick-fil-a-ipos-tablet-interface.webp)
 
 
-Every traditional fast food drive-thru has the same fundamental problem: the speaker box is a bottleneck. Car A has to finish their entire order before Car B can even pull up to the microphone. If Car A is a family of six debating between nuggets and strips, everyone behind them sits and waits. The speaker box creates a single-file chokepoint that limits even the fastest kitchens to about 50 to 60 cars per hour at best.
+Every traditional fast food drive-thru has the same fundamental problem: the speaker box is a bottleneck. Car A has to finish their entire order before Car B can even pull up to the microphone. If Car A is a family of six debating between nuggets and strips, everyone behind them sits and waits. The speaker box creates a single-file chokepoint that limits even the fastest kitchens to about 50 to 60 cars per hour at best. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
 
-Chick-fil-A's iPOS system eliminates the bottleneck entirely by turning one speaker box into four to six simultaneous ordering stations.
+Chick-fil-A's iPOS system eliminates the bottleneck entirely by turning one speaker box into four to six simultaneous ordering stations. *(Related guide: [How Does the Sonic Drive-In Switchboard Actually Work?](/articles/sonic-switchboard-how-it-works/))*
 
 Here is how it works: instead of waiting for customers to reach a fixed microphone, Chick-fil-A sends team members outside, each carrying an iPad connected to the store's local Wi-Fi network. These iPads run the full point-of-sale interface and are paired with mobile credit card readers. The team members walk directly up to cars in a staggered formation—one employee might be taking an order from the car at position three in line while another has already moved to position seven.
 
@@ -30,7 +31,7 @@ The beauty is parallel processing. While one employee is helping a family of six
 
 ## The "Send" Before the Window
 
-![Technical diagram showing the parallel processing order workflow of a Chick-fil-A drive-thru](/images/chick-fil-a-ipos-system/chick-fil-a-ipos-parallel-processing.webp)
+![Technical diagram showing the parallel processing order workflow of a Chick-fil-A drive-thru](../../assets/images/chick-fil-a-ipos-system/chick-fil-a-ipos-parallel-processing.webp)
 
 
 The true brilliance of iPOS is not just where the order is taken—it is when.

@@ -17,6 +17,7 @@ const articles = defineCollection({
 			author: z.string().optional(),
 			authorTitle: z.string().optional(),
 			chain: z.string().optional(),
+			topic: z.string().optional(),
 			relatedArticles: z.array(z.string()).optional(),
 		}),
 });

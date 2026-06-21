@@ -5,6 +5,7 @@ pubDate: "2026-03-28"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Jersey Mike's"
+topic: "Sandwiches"
 relatedArticles:
   - "jersey-mikes-hot-sub-grill"
   - "subway-bread-baking-process"
@@ -13,16 +14,16 @@ relatedArticles:
 
 
 
-If you get hired at Jersey Mike's, here's the first thing you need to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way."
+If you get hired at Jersey Mike's, here's the first thing you need to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." *(Related guide: [The Jersey Mike's \](/articles/jersey-mikes-hot-sub-grill/))*
 
-If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry.
+If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
-![Cross-section schematic of a Mike's Way sub showing the structural layers of onions, lettuce, tomatoes, juice, and spices](/images/jersey-mikes-mikes-way/jersey-mikes-mikes-way-ingredient-layers.webp)
+![Cross-section schematic of a Mike's Way sub showing the structural layers of onions, lettuce, tomatoes, juice, and spices](../../assets/images/jersey-mikes-mikes-way/jersey-mikes-mikes-way-ingredient-layers.webp)
 
 
-When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters:
+When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters: *(Related guide: [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/))*
 
 1. **Onions:** Thinly sliced white onions go directly onto the meat. They sit against the bread and create a moisture barrier that helps prevent the juice from instantly soaking through to the bottom of the roll.
 2. **Lettuce:** Freshly shredded iceberg lettuce is piled generously on top of the onions. The lettuce acts as a structural cushion—it absorbs the juice without turning into a soggy mess, distributing moisture evenly instead of letting it pool.
@@ -42,7 +43,7 @@ The tomatoes need to be on top because their flat, wet surface catches and holds
 
 ## The Meat Slicer: Speed, Danger, and Respect
 
-![Technical diagram of a commercial deli meat slicer featuring the spinning blade and heavy metal safety guard](/images/jersey-mikes-mikes-way/jersey-mikes-deli-meat-slicer-diagram.webp)
+![Technical diagram of a commercial deli meat slicer featuring the spinning blade and heavy metal safety guard](../../assets/images/jersey-mikes-mikes-way/jersey-mikes-deli-meat-slicer-diagram.webp)
 
 
 While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There's no pre-sliced, packaged deli meat anywhere in the operation.

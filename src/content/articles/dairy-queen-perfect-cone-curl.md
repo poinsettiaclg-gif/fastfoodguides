@@ -5,6 +5,7 @@ pubDate: "2026-03-12"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Dairy Queen"
+topic: "Other Chains"
 relatedArticles:
   - "dairy-queen-blizzard-flip"
   - "wendys-frosty-machine-boil-out"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream.
+At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream. *(Related guide: [Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)](/articles/dairy-queen-blizzard-flip/))*
 
-I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. Here's exactly how the technique works, why the machine matters as much as your wrist, and how to survive the terrifying chocolate dip.
+I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. Here's exactly how the technique works, why the machine matters as much as your wrist, and how to survive the terrifying chocolate dip. *(Related guide: [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
 
 ## The Foundation: Building in Tiers
 
-You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer:
+You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
 
 - A **Small** cone gets 2 balls and a curl
 - A **Medium** cone gets 3 balls and a curl
@@ -29,7 +30,7 @@ Each ball has a specific weight and volume that contributes to the overall porti
 
 ## The Technique: Base, Tiers, and the Snap
 
-![Schematic diagram of a medium Dairy Queen cone showing the internal foundation and three distinct soft serve tiers](/images/dairy-queen-perfect-cone-curl/dairy-queen-soft-serve-tier-structure.webp)
+![Schematic diagram of a medium Dairy Queen cone showing the internal foundation and three distinct soft serve tiers](../../assets/images/dairy-queen-perfect-cone-curl/dairy-queen-soft-serve-tier-structure.webp)
 
 
 The entire cone is built in one continuous motion. You don't stop and restart between tiers—it's a flowing sequence that takes about 5 to 8 seconds total.
@@ -54,7 +55,7 @@ Most stores calibrate their machines first thing in the morning, but temperature
 
 ## The Chocolate Dip: Where Cones Go to Die
 
-![Vector illustration of the precise vertical dipping motion used to coat a soft serve cone in liquid chocolate](/images/dairy-queen-perfect-cone-curl/dairy-queen-chocolate-dip-motion-vector.webp)
+![Vector illustration of the precise vertical dipping motion used to coat a soft serve cone in liquid chocolate](../../assets/images/dairy-queen-perfect-cone-curl/dairy-queen-chocolate-dip-motion-vector.webp)
 
 
 If you thought the curl was hard, try dipping it in chocolate. The Chocolate Dipped Cone is the single most terrifying order for a new Chill Staff employee, and for good reason.

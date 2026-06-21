@@ -5,6 +5,7 @@ pubDate: "2026-05-01"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Subway"
+topic: "Sandwiches"
 relatedArticles:
   - "subway-bain-fill-line-rule"
   - "subway-wrap-folding"
@@ -13,13 +14,13 @@ relatedArticles:
 
 
 
-You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over.
+You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter.
+Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
 
-The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize.
+The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize. *(Related guide: [How to Master the Subway POS When a Customer Orders Out of Order](/articles/subway-pos-out-of-order/))*
 
 ### Step 1: The Retarder (The Night Before)
 
@@ -31,7 +32,7 @@ I have seen new hires stack the bread molds too close together inside the retard
 
 ### Step 2: The Proofer (The Morning Of)
 
-![Technical schematic of a Subway proofer cabinet with humidity controls](/images/subway-bread-baking-process/subway-proofer-cabinet-schematic.webp)
+![Technical schematic of a Subway proofer cabinet with humidity controls](../../assets/images/subway-bread-baking-process/subway-proofer-cabinet-schematic.webp)
 
 
 When the opener arrives—usually around 6:30 or 7:00 AM—the thawed dough goes directly into the proofer, a heated, high-humidity cabinet that looks like a tall metal closet with racks. The proofer runs at roughly 95°F to 100°F with about 80% humidity. The heat and moisture wake the yeast up, and the thin dough sticks begin to expand into puffy sub rolls.
@@ -44,7 +45,7 @@ The test is simple: gently press the surface of the dough with one finger. If it
 
 ### Step 3: Scoring, Seasoning, and Baking
 
-![Flat vector technical diagram of Subway silicone bread baking forms](/images/subway-bread-baking-process/subway-bread-scoring-forms-diagram.webp)
+![Flat vector technical diagram of Subway silicone bread baking forms](../../assets/images/subway-bread-baking-process/subway-bread-scoring-forms-diagram.webp)
 
 
 Before the proofed dough goes into the oven, the Sandwich Artist preps each loaf:
