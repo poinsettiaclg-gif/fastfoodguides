@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-If you get hired at Jersey Mike's, here's the first thing you need to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." *(Related guide: [The Jersey Mike's \](/articles/jersey-mikes-hot-sub-grill/))*
+If you get hired at Jersey Mike's, here's the first thing you need to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." 
 
-If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
+If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry. 
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
 ![Cross-section schematic of a Mike's Way sub showing the structural layers of onions, lettuce, tomatoes, juice, and spices](../../assets/images/jersey-mikes-mikes-way/jersey-mikes-mikes-way-ingredient-layers.webp)
 
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters: *(Related guide: [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/))*
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters: 
 
 1. **Onions:** Thinly sliced white onions go directly onto the meat. They sit against the bread and create a moisture barrier that helps prevent the juice from instantly soaking through to the bottom of the roll.
 2. **Lettuce:** Freshly shredded iceberg lettuce is piled generously on top of the onions. The lettuce acts as a structural cushion—it absorbs the juice without turning into a soggy mess, distributing moisture evenly instead of letting it pool.

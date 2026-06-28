@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But here's what most customers don't realize—cooking a fresh, square patty is fundamentally different from cooking a frozen round one, and getting it right requires a specific technique that every single Grill Cook at Wendy's has to master before they're trusted on the line during a rush. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But here's what most customers don't realize—cooking a fresh, square patty is fundamentally different from cooking a frozen round one, and getting it right requires a specific technique that every single Grill Cook at Wendy's has to master before they're trusted on the line during a rush. 
 
-It's called the 4-Corner Press. And if you skip it, you'll turn a beautiful square patty into a shrunken, lopsided meatball that your manager will make you throw away. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+It's called the 4-Corner Press. And if you skip it, you'll turn a beautiful square patty into a shrunken, lopsided meatball that your manager will make you throw away. 
 
 ## Why Fresh Beef Fights Back
 
 ![Technical schematic of a square meat patty curling on a flat top grill](../../assets/images/wendys-4-corner-press/wendys-4-corner-press-curling.webp)
 
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-When you throw a frozen hamburger patty onto a grill, it basically acts like a hockey puck. The ice crystals that formed during freezing have broken down the cell walls, creating a rigid structure that holds its shape under heat. The patty sits there, takes the heat, and cooks predictably. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+When you throw a frozen hamburger patty onto a grill, it basically acts like a hockey puck. The ice crystals that formed during freezing have broken down the cell walls, creating a rigid structure that holds its shape under heat. The patty sits there, takes the heat, and cooks predictably. 
 
 Fresh beef is a completely different animal—literally. When you drop a loosely packed, fresh ground beef patty onto a 400°F griddle, the muscle proteins immediately begin contracting. The heat causes the meat fibers to tighten and pull inward, and if you just let it sit there, that flat square patty will curl up into a thick, round ball within about 30 seconds. The edges pull toward the center, the corners lift off the grill surface, and you end up with something that's raw in the thickened center and burnt on the thin edges.
 

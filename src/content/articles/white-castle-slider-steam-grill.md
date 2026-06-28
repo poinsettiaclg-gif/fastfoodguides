@@ -10,24 +10,29 @@ relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "What About the Frozen Grocery Sliders?"
+    answer: "White Castle is one of the few QSR chains that also sells a frozen retail version of their product in grocery stores. The frozen sliders are designed to approximate the restaurant experience, and they use the same perforated patty design."
+  - question: "What’s Your White Castle Take?"
+    answer: "White Castle is one of those places that generates strong opinions. People either crave it regularly or don’t understand the appeal at all. If you’re a White Castle regular, I want to know — what’s your order? How many do you get? Cheese or no cheese? And do you eat them in the parking lot like nature intended, or do you take them home?"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  Why Are White Castle Sliders Steamed Instead of Grilled?
 
 
+White Castle sliders don’t look like any other burger in fast food. They’re small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that’s not an accident. It’s the result of a cooking method that White Castle has been using since the 1920s: steam-grilling. 
 
-White Castle sliders don’t look like any other burger in fast food. They’re small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that’s not an accident. It’s the result of a cooking method that White Castle has been using since the 1920s: steam-grilling. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+Most people assume that burgers are either grilled or fried. White Castle does neither. Their sliders are cooked on a bed of rehydrated onions using steam that rises through perforated patties, cooking the meat from both sides simultaneously. No flipping. No pressing. No char marks. Just steam, onions, and a process that hasn’t fundamentally changed in over 100 years. 
 
-Most people assume that burgers are either grilled or fried. White Castle does neither. Their sliders are cooked on a bed of rehydrated onions using steam that rises through perforated patties, cooking the meat from both sides simultaneously. No flipping. No pressing. No char marks. Just steam, onions, and a process that hasn’t fundamentally changed in over 100 years. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
-
-I’ve spent a decade in QSR kitchens, and the White Castle method remains one of the most unusual and efficient cooking systems I’ve ever seen. Here’s exactly how it works. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+I’ve spent a decade in QSR kitchens, and the White Castle method remains one of the most unusual and efficient cooking systems I’ve ever seen. Here’s exactly how it works. 
 
 ## The Grill and the Onion Bed
 
 ![Blueprint illustration of The Grill and the Onion Bed](../../assets/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.webp)
+
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
+
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you’d find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn’t searing their patties. They’re steaming them.
 
@@ -148,9 +153,9 @@ Let me put the White Castle method in context by comparing it to how other burge
 
 **Wendy’s:** Clamshell grill with a focus on thicker, square patties. Fresh beef, direct heat, seared exterior.
 
-**Burger King:** Flame broiler with an open flame below a chain conveyor. Produces char marks and a smoky flavor.
+**[Burger King](/articles/chain/burger-king):** Flame broiler with an open flame below a chain conveyor. Produces char marks and a smoky flavor.
 
-**Five Guys:** Flat-top grill, manual flip, heavy sear on both sides. Juicy interior with a crispy exterior.
+**[Five Guys](/articles/chain/five-guys):** Flat-top grill, manual flip, heavy sear on both sides. Juicy interior with a crispy exterior.
 
 **White Castle:** Steam-grilled on an onion bed, no flip, no sear, no char. Soft throughout.
 
@@ -196,34 +201,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### How Does the Sonic Drive-In Switchboard Actually Work?
-
-Inside the Sonic switchboard: how one employee manages 30 drive-in stalls, juggles Happy Hour chaos,...
-
-](/articles/sonic-switchboard-how-it-works/)[
-
-### What Happens to Leftover Panda Express Food at Closing?
-
-Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, ...
-
-](/articles/panda-express-leftover-food/)[
-
-### How Are McDonald's Chicken McNuggets Actually Made?
-
-The real process behind McDonald's Chicken McNuggets — from whole chicken breast to the 4 signature ...
-
-](/articles/mcdonalds-nugget-process/)[
-
-### How Does the Arby's Slicer Work (And Is the Meat Real)?
-
-Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and r...
-
-](/articles/arbys-meat-slicer/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

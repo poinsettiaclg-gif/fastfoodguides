@@ -10,20 +10,26 @@ relatedArticles:
   - "burger-king-broiler-closing"
   - "burger-king-expeditor-role"
   - "wendys-clamshell-grill"
+faq:
+  - question: "Is It Dangerous?"
+    answer: "I am going to be completely blunt: yes, it can be dangerous if you do not respect the machine."
 ---
 
 
 
-Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. *(Related guide: [How Hard Is It to Clean the Burger King Broiler at Closing?](/articles/burger-king-broiler-closing/))*
+Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike [McDonald's](/articles/chain/mcdonalds) or [Wendy's](/articles/chain/wendys), which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
 
 ## How the Flame Broiler Actually Works
 
 ![Schematic diagram of the Burger King flame broiler continuous conveyor belt feed mechanism](../../assets/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
 
-**The Feed:** You stand at the front of the machine and pull frozen beef patties out of a small freezer drawer located directly beneath the broiler. The patties come in different sizes—regular for a Hamburger, larger for a Whopper—and they go on the belt frozen solid, straight from the box. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. 
+
+**The Feed:** You stand at the front of the machine and pull frozen beef patties out of a small freezer drawer located directly beneath the broiler. The patties come in different sizes—regular for a Hamburger, larger for a Whopper—and they go on the belt frozen solid, straight from the box. 
 
 **The Drop:** You place the frozen patties directly onto the moving chain-link conveyor belt. During a lunch rush, you might be dropping patties every 15 to 20 seconds. The belt never stops, so if you fall behind on the feed, you create a gap in production that leaves the sandwich makers building with nothing. Maintaining a steady, rhythmic pace is the single most important skill a broiler cook can develop. I've seen new hires panic when the orders stack up, start fumbling with the patty boxes, and suddenly there is a 90-second gap on the belt. That is an eternity during a rush.
 

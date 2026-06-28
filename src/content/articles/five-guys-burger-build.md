@@ -14,11 +14,15 @@ relatedArticles:
 
 ## The Beef Arrives Fresh. Every Single Day.
 
-Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
+Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. 
 
-This is the same principle as Wendy's "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-The standard weight for a "little" hamburger patty (the single) is approximately **3.3 ounces** of raw beef. A regular hamburger gets two patties. This means a standard Five Guys burger has roughly 6.6 ounces of raw beef before cooking — significantly more than most fast food competitors. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+This is the same principle as [Wendy's](/articles/chain/wendys) "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. 
+
+The standard weight for a "little" hamburger patty (the single) is approximately **3.3 ounces** of raw beef. A regular hamburger gets two patties. This means a standard Five Guys burger has roughly 6.6 ounces of raw beef before cooking — significantly more than most fast food competitors. 
 
 ## The Hand-Smash Process
 
@@ -84,7 +88,7 @@ The topping station is set up as a long line of **stainless steel bins** filled 
 
 ### How Portioning Works (Or Doesn't)
 
-Here's the operational reality of "free toppings": **there are no portion controls**. Unlike McDonald's, where every pickle slice and onion portion is specified to the gram, Five Guys gives the assembler discretion to add a "reasonable" amount of each topping.
+Here's the operational reality of "free toppings": **there are no portion controls**. Unlike [McDonald's](/articles/chain/mcdonalds), where every pickle slice and onion portion is specified to the gram, Five Guys gives the assembler discretion to add a "reasonable" amount of each topping.
 
 In practice, this means your burger's topping load depends heavily on who's making it. An experienced assembler will add balanced portions that make the burger structurally sound. A newer employee might overload the burger to the point where it falls apart when you unwrap it.
 
@@ -110,7 +114,7 @@ The combination of fresh (never frozen) beef, hand-smashed patties, unlimited fr
 
 1. **Higher labor cost** — Hand-forming patties and custom-topping every burger requires more skilled labor than pulling pre-formed patties from a freezer
 2. **Higher food cost** — Fresh beef has a shorter shelf life (more waste), and unlimited toppings mean unpredictable per-burger costs
-3. **Slower throughput** — A Five Guys kitchen can't match the volume of a McDonald's or Burger King because every burger is essentially made to order
+3. **Slower throughput** — A Five Guys kitchen can't match the volume of a McDonald's or [Burger King](/articles/chain/burger-king) because every burger is essentially made to order
 4. **Higher prices** — All of the above costs are passed to the customer, which is why Five Guys sits in the "better burger" price tier
 
 But the result is a burger that tastes noticeably different from a standard fast food burger. The hand-smashed crust, the fresh beef, the toasted-in-beef-fat bun, and the generous toppings create a product that justifies the premium — at least for the customers who keep coming back.

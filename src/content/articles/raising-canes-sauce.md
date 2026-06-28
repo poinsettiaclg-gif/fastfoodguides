@@ -12,15 +12,19 @@ relatedArticles:
   - "chick-fil-a-breading-process"
 ---
 
-Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day. *(Related guide: [What Does a \](/articles/raising-canes-bird-specialist/))*
+Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day. 
 
-That's the part most people don't realize. When you peel back the lid on that little cup of sauce, you're eating something that was mixed by hand in the back of that specific restaurant, probably within the last few hours. It's not shipped in from a warehouse. It's not squirted from a machine. Someone in the kitchen made it. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+That's the part most people don't realize. When you peel back the lid on that little cup of sauce, you're eating something that was mixed by hand in the back of that specific restaurant, probably within the last few hours. It's not shipped in from a warehouse. It's not squirted from a machine. Someone in the kitchen made it. 
 
-I spent time working alongside Cane's employees during a consulting stint, and watching the sauce prep process was one of those moments where you realize why certain fast food items taste noticeably better than the competition. It's because someone actually made it that morning. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+I spent time working alongside Cane's employees during a consulting stint, and watching the sauce prep process was one of those moments where you realize why certain fast food items taste noticeably better than the competition. It's because someone actually made it that morning. 
 
 ## The Ingredients Are Not a Secret
 
 Cane's has never officially published their sauce recipe, but the ingredients have been widely confirmed by employees, food scientists, and the company's own ingredient disclosures. The base components are:
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
+
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
 - **Mayonnaise** — the primary base, gives the sauce its creamy body
 - **Ketchup** — adds sweetness, acidity, and that distinctive pinkish color

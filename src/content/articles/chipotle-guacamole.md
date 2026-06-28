@@ -14,7 +14,11 @@ relatedArticles:
 
 ## Six Ingredients. No Blender. No Shortcuts.
 
-Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
+Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: 
+
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
 1. **Hass avocados** (ripe, whole)
 2. **Lime juice** (fresh-squeezed from real limes)
@@ -23,11 +27,11 @@ Chipotle's guacamole is one of the few items in fast food that is genuinely made
 5. **Jalapeño** (fresh, hand-diced)
 6. **Kosher salt**
 
-That's it. No garlic, no tomato, no cumin, no sour cream. Just six ingredients combined by hand in a stainless steel bowl. The simplicity of the recipe is exactly what makes it taste different from the guacamole at most other restaurants, which typically use pre-made bases, garlic powder, or tomato to stretch the avocado content. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
+That's it. No garlic, no tomato, no cumin, no sour cream. Just six ingredients combined by hand in a stainless steel bowl. The simplicity of the recipe is exactly what makes it taste different from the guacamole at most other restaurants, which typically use pre-made bases, garlic powder, or tomato to stretch the avocado content. 
 
 ## The Morning Prep: 48 Avocados at a Time
 
-The guacamole prep happens before the restaurant opens, usually starting around **7:00–8:00 AM**. It's one of the most labor-intensive prep tasks at Chipotle, and it's typically assigned to the most experienced prep cook because consistency matters. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
+The guacamole prep happens before the restaurant opens, usually starting around **7:00–8:00 AM**. It's one of the most labor-intensive prep tasks at Chipotle, and it's typically assigned to the most experienced prep cook because consistency matters. 
 
 ### Step 1: Check the Avocados
 

@@ -14,13 +14,17 @@ relatedArticles:
 
 ## Yes, They Actually Squeeze Real Lemons
 
-This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. 
 
-In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market. 
 
 ## The Morning Prep: Start to Finish
 
-The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. Here's the full process: *(Related guide: [Why Does Chick-fil-A Have Employees Standing Outside With Tablets?](/articles/chick-fil-a-drive-thru-tablets/))*
+The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. Here's the full process: 
 
 ### Step 1: Wash and Cut the Lemons
 
@@ -74,10 +78,10 @@ To understand how unusual Chick-fil-A's approach is, consider what every other m
 
 | Chain | Lemonade Method |
 |---|---|
-| **McDonald's** | Minute Maid syrup from a bag, mixed by the fountain machine |
-| **Wendy's** | Minute Maid concentrate mixed with water |
-| **Burger King** | Fountain-dispensed from syrup |
-| **Taco Bell** | Brisk brand, dispensed from a fountain |
+| **[McDonald's](/articles/chain/mcdonalds)** | Minute Maid syrup from a bag, mixed by the fountain machine |
+| **[Wendy's](/articles/chain/wendys)** | Minute Maid concentrate mixed with water |
+| **[Burger King](/articles/chain/burger-king)** | Fountain-dispensed from syrup |
+| **[Taco Bell](/articles/chain/taco-bell)** | Brisk brand, dispensed from a fountain |
 | **Chick-fil-A** | Fresh lemons, squeezed in-store daily |
 
 The cost difference is significant:

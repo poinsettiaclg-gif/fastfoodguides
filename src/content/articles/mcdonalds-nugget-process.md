@@ -12,22 +12,22 @@ relatedArticles:
   - "mcdonalds-pos-crash"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
 
-
-If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand. *(Related guide: [Why Is the McDonald's Ice Cream Machine Always Broken? (The Real Reason)](/articles/mcdonalds-ice-cream-machine/))*
+If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand. 
 
 ## What McNuggets Are Actually Made Of
 
 ![Blueprint illustration of What McNuggets Are Actually Made Of](../../assets/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.webp)
 
-Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-There is a small amount of chicken skin mixed in. This is not a secret, and it is not a cost-cutting measure. The skin is included for texture and flavor — without it, a ground chicken breast nugget would taste dry and bland. Chicken skin contains fat and collagen that contribute moisture and a richer mouthfeel to the finished product. The amount is small — we are talking about a minor percentage of the total blend, not a 50/50 meat-to-skin ratio. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass. 
+
+There is a small amount of chicken skin mixed in. This is not a secret, and it is not a cost-cutting measure. The skin is included for texture and flavor — without it, a ground chicken breast nugget would taste dry and bland. Chicken skin contains fat and collagen that contribute moisture and a richer mouthfeel to the finished product. The amount is small — we are talking about a minor percentage of the total blend, not a 50/50 meat-to-skin ratio. 
 
 The chicken is also seasoned during processing with salt, pepper, and a handful of other standard food-grade ingredients that serve as binders, preservatives, and flavor enhancers. The full ingredient list is publicly available on McDonald’s website and has been for years. There is nothing on it that would surprise anyone who has ever read the back of a frozen chicken product at the grocery store.
 
@@ -70,7 +70,7 @@ The forming process uses industrial molds — the seasoned ground chicken is pre
 
 The formed nuggets pass through a battering station where they are coated in a tempura-style batter. This is a critical step because the batter is what gives a McNugget its distinctive exterior — that thin, crispy, slightly pebbled coating that crunches when you bite into it.
 
-The batter is a tempura formulation, meaning it is lighter and thinner than the heavy breading you would find on something like a Popeyes chicken tender or a KFC drumstick. It is designed to create a delicate shell rather than a thick, crunchy armor. The batter contains wheat flour, corn flour, starches, leavening agents, and spices. It is applied in a thin, even coat that adheres to the formed chicken.
+The batter is a tempura formulation, meaning it is lighter and thinner than the heavy breading you would find on something like a [Popeyes](/articles/chain/popeyes) chicken tender or a [KFC](/articles/chain/kfc) drumstick. It is designed to create a delicate shell rather than a thick, crunchy armor. The batter contains wheat flour, corn flour, starches, leavening agents, and spices. It is applied in a thin, even coat that adheres to the formed chicken.
 
 After battering, the nuggets may pass through a light breading station that adds a thin layer of fine breadcrumbs or flour for additional texture. The result is a multi-layer coating: the meat, the batter, and the exterior texture layer.
 
@@ -104,7 +104,7 @@ During a busy lunch or dinner rush, holding time is rarely an issue because nugg
 
 ## Why McNuggets Taste Different From Hand-Breaded Chicken
 
-People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like Chick-fil-A, Popeyes, or Raising Cane’s. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
+People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like [Chick-fil-A](/articles/chain/chick-fil-a), Popeyes, or Raising Cane’s. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
 
 Hand-breaded chicken starts with whole pieces of chicken — breast filets, tenderloins, or bone-in pieces — that are dredged in seasoned flour, sometimes double-dipped in a buttermilk wash, and fried from raw in-store. The result is a thick, crunchy breading with a juicy, whole-muscle interior. The texture is chunkier, the bite is more substantial, and the flavor is more complex because the breading itself carries significant seasoning.
 
@@ -136,7 +136,7 @@ _For more McDonald’s behind-the-counter breakdowns, check out our guides on [h
 
 * * *
 
-**Related Guide:** [How Does the McDonald’s ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/)
+**Related Guide:** [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/)
 
 RR
 
@@ -144,34 +144,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### The Secret to Folding a Subway Wrap Without Tearing It
-
-A Sandwich Artist's step-by-step guide to warming, stacking, rolling, and cutting a heavily loaded S...
-
-](/articles/subway-wrap-folding/)[
-
-### What is the Five Guys "Fry Calibration" Every Morning?
-
-Five Guys calibrates their fries every single morning with the Mush Test. Different potatoes need di...
-
-](/articles/five-guys-fry-calibration/)[
-
-### How to Master the Starbucks Cold Bar and Frappuccino Sequence
-
-A barista's guide to surviving the Starbucks Cold Bar, mastering the Frappuccino build sequence, and...
-
-](/articles/starbucks-cold-bar-frappuccino/)[
-
-### How Does the Sonic Drive-In Switchboard Actually Work?
-
-Inside the Sonic switchboard: how one employee manages 30 drive-in stalls, juggles Happy Hour chaos,...
-
-](/articles/sonic-switchboard-how-it-works/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

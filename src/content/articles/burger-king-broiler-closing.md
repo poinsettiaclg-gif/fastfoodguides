@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Every fast food restaurant has a closing task that nobody wants. At Wendy's, it is the Frosty machine. At Domino's, it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. *(Related guide: [How Does the Burger King Broiler Work, and Is It Dangerous?](/articles/burger-king-broiler/))*
+Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/articles/chain/wendys), it is the Frosty machine. At [Domino's](/articles/chain/dominos), it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. 
 
 ## The Cooldown Phase: Your 30-Minute Head Start
 
-You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a dangerous steam explosion that sends scalding water vapor directly into your face. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
+You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a dangerous steam explosion that sends scalding water vapor directly into your face. 
 
-The moment the manager confirms no more broiler orders are coming in, shut the gas off. Every minute you shave off the cooldown phase is a minute closer to clocking out. The machine needs at least 20 to 30 minutes to cool to a point where you can safely touch the internal components. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+The moment the manager confirms no more broiler orders are coming in, shut the gas off. Every minute you shave off the cooldown phase is a minute closer to clocking out. The machine needs at least 20 to 30 minutes to cool to a point where you can safely touch the internal components. 
 
 Here's the thing nobody tells you during training: the cooldown window is your most valuable time of the entire close. Smart closers do not stand around watching the broiler cool. They use those 30 minutes to demolish every other task on the closing checklist—wiping down the sandwich board, draining the fryers, sweeping the floors, restocking the walk-in. The goal is to have the broiler be the absolute last item on your list, so when you finish reassembly, you can clock out immediately. Standing around waiting while the broiler cools and everything else still needs doing is how you end up leaving two hours past the end of your shift.
 

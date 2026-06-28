@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Walk into a Panda Express during a dinner rush and the first thing that hits you isn't the smell of orange sauce — it's the wall of heat and the violent sound of metal on metal. The Wok Chefs are standing over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce, and doing it all at a speed that would make most home cooks panic. This isn't a flat-top grill job. This isn't pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. *(Related guide: [What Happens to Leftover Panda Express Food at Closing?](/articles/panda-express-leftover-food/))*
+Walk into a Panda Express during a dinner rush and the first thing that hits you isn't the smell of orange sauce — it's the wall of heat and the violent sound of metal on metal. The Wok Chefs are standing over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce, and doing it all at a speed that would make most home cooks panic. This isn't a flat-top grill job. This isn't pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. 
 
-I've trained people across multiple chains, and I can tell you honestly — the Panda Express wok station is in a league of its own when it comes to physical punishment. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
+I've trained people across multiple chains, and I can tell you honestly — the Panda Express wok station is in a league of its own when it comes to physical punishment. 
 
 ## The Heat and the Fire
 
 ![Technical illustration of a commercial wok burner showing heat distribution and flames](../../assets/images/panda-express-wok-chef/panda-express-wok-burner-heat-diagram.webp)
 
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-Most fast-food restaurants use enclosed deep fryers with automatic basket lifts, or computerized flat-top grills that beep when they're done. Panda Express uses traditional Chinese wok burners that pump out massive BTU output, often reaching 600°F or higher inside the wok bowl. The flames don't stay politely beneath the pan — they literally shoot up around the sides, licking at your forearms if you're not careful. *(Related guide: [The Jersey Mike's \](/articles/jersey-mikes-hot-sub-grill/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+Most fast-food restaurants use enclosed deep fryers with automatic basket lifts, or computerized flat-top grills that beep when they're done. Panda Express uses traditional Chinese wok burners that pump out massive BTU output, often reaching 600°F or higher inside the wok bowl. The flames don't stay politely beneath the pan — they literally shoot up around the sides, licking at your forearms if you're not careful. 
 
 The hazards are constant and unforgiving:
 

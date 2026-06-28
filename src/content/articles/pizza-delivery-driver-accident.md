@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag. *(Related guide: [How Does the Pizza Hut Dispatch System Work?](/articles/pizza-hut-dispatch/))*
+I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag. 
 
-Delivering pizzas for Domino's, Pizza Hut, or Papa John's is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. Here's what actually happens when the worst-case scenario hits. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
+Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles/chain/pizza-hut), or [Papa John's](/articles/chain/papa-johns) is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. Here's what actually happens when the worst-case scenario hits. 
 
 ## The Insurance Gap Nobody Warns You About
 
-This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.** *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
+This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.** 
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
 Read that again. Let it sink in.
 

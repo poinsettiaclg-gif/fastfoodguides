@@ -4,11 +4,9 @@ import BaseHead from '../../../components/BaseHead.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import FormattedDate from '../../../components/FormattedDate.astro';
+import { slugifyTopic } from '../../../utils';
 
 export async function getStaticPaths() {
-  function slugifyTopic(topic: string): string {
-    return topic.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-  }
   const allPosts = await getCollection('articles');
   const topics = [...new Set(allPosts.map(p => p.data.topic).filter(Boolean))] as string[];
 
@@ -35,177 +33,137 @@ const { topicName, posts } = Astro.props;
     title={`${topicName} Fast Food Guides | Fast Food Guides`}
     description={`Browse all insider guides related to ${topicName}. Real tips from real workers.`}
   />
-  <style>
-    body {
-      background-color: var(--bg-primary);
-      color: var(--text-primary);
-      font-family: var(--font-family);
-    }
-    
-    .site-header {
-      background-color: var(--bg-secondary);
-      border-bottom: 1px solid var(--border-color);
-      padding: 1rem 0;
-    }
-    
-    .header-content {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    
-    .site-title {
-      font-size: 1.5rem;
-      font-weight: 800;
-      color: var(--text-primary);
-      text-decoration: none;
-      letter-spacing: -0.02em;
-    }
-    
-    .nav-links a {
-      color: var(--text-secondary);
-      text-decoration: none;
-      font-weight: 500;
-      margin-left: 1.5rem;
-      transition: color 0.2s ease;
-    }
-    
-    .nav-links a:hover {
-      color: var(--accent-color);
-    }
-    
-    main {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 4rem 1.5rem;
-    }
-
-    .topic-header {
-      margin-bottom: 4rem;
-      text-align: center;
-    }
-
-    .topic-title {
-      font-size: 3rem;
-      font-weight: 900;
-      margin: 0 0 1rem 0;
-      letter-spacing: -0.03em;
-      line-height: 1.1;
-    }
-
-    .topic-description {
-      font-size: 1.25rem;
-      color: var(--text-secondary);
-      max-width: 600px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-
-    .article-list {
-      display: flex;
-      flex-direction: column;
-      gap: 2rem;
-    }
-
-    .article-card {
-      background-color: var(--bg-secondary);
-      border: 1px solid var(--border-color);
-      border-radius: 12px;
-      padding: 2rem;
-      text-decoration: none;
-      color: inherit;
-      transition: all 0.2s ease;
-      display: block;
-    }
-
-    .article-card:hover {
-      transform: translateY(-2px);
-      border-color: var(--accent-color);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-    }
-
-    .article-meta {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      margin-bottom: 1rem;
-      font-size: 0.875rem;
-      color: var(--text-secondary);
-    }
-
-    .chain-badge {
-      background-color: rgba(245, 158, 11, 0.1);
-      color: var(--accent-color);
-      padding: 0.25rem 0.75rem;
-      border-radius: 999px;
-      font-weight: 600;
-    }
-
-    .article-title {
-      font-size: 1.5rem;
-      font-weight: 700;
-      margin: 0 0 1rem 0;
-      color: var(--text-primary);
-      line-height: 1.3;
-    }
-
-    .article-card:hover .article-title {
-      color: var(--accent-color);
-    }
-
-    .article-excerpt {
-      color: var(--text-secondary);
-      margin: 0;
-      line-height: 1.6;
-    }
-
-    @media (max-width: 768px) {
-      .topic-title {
-        font-size: 2.25rem;
-      }
-      .article-card {
-        padding: 1.5rem;
-      }
-    }
-  </style>
 </head>
 <body>
-  <header class="site-header">
-    <div class="header-content">
-      <a href="/" class="site-title">Fast Food Guides</a>
-      <nav class="nav-links">
-        <a href="/">Home</a>
-      </nav>
-    </div>
-  </header>
-
+  <Header />
   <main>
-    <div class="topic-header">
-      <h1 class="topic-title">{topicName} Guides</h1>
-      <p class="topic-description">
-        Insider knowledge, operational breakdowns, and authentic prep processes for {topicName.toLowerCase()} fast food.
-      </p>
+    <div class="chain-header">
+      <a href="/articles/" class="back-link">← All Guides</a>
+      <h1>{topicName} Guides</h1>
+      <p class="subtitle">{posts.length} insider guide{posts.length !== 1 ? 's' : ''} covering {topicName.toLowerCase()} chains.</p>
     </div>
 
-    <div class="article-list">
-      {
-        posts.map((post) => (
-          <a href={`/articles/${post.id}/`} class="article-card">
-            <div class="article-meta">
-              <span class="chain-badge">{post.data.chain || 'General'}</span>
-              <FormattedDate date={post.data.pubDate} />
-            </div>
-            <h2 class="article-title">{post.data.title}</h2>
-            <p class="article-excerpt">{post.data.description}</p>
-          </a>
-        ))
-      }
+    <div class="articles-grid">
+      {posts.map((post) => (
+        <a href={`/articles/${post.id}/`} class="article-card">
+          <h3>{post.data.title}</h3>
+          <p class="date"><FormattedDate date={post.data.pubDate} /></p>
+          <p class="desc">{post.data.description}</p>
+        </a>
+      ))}
     </div>
   </main>
-  
   <Footer />
 </body>
 </html>
+
+<style>
+  body {
+    background-color: #0a0f1c;
+    color: #F1F5F9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .chain-header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .back-link {
+    display: inline-block;
+    color: #10B981;
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    transition: color 0.2s;
+  }
+
+  .back-link:hover {
+    color: #059669;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+    margin: 0 0 1rem 0;
+    color: #F8FAFC;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+  }
+
+  .subtitle {
+    font-size: 1.25rem;
+    color: #94A3B8;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .article-card {
+    background: #1a2332;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(16, 185, 129, 0.4);
+    box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.5), 0 0 20px -5px rgba(16, 185, 129, 0.1);
+  }
+
+  .article-card h3 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.5rem;
+    color: #F1F5F9;
+    line-height: 1.3;
+  }
+
+  .article-card:hover h3 {
+    color: #10B981;
+  }
+
+  .date {
+    font-size: 0.875rem;
+    color: #64748B;
+    margin: 0 0 1rem 0;
+    font-weight: 500;
+  }
+
+  .desc {
+    color: #94A3B8;
+    margin: 0;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    h1 { font-size: 2.5rem; }
+    main { padding: 2rem 1.5rem; }
+    .articles-grid { grid-template-columns: 1fr; }
+  }
+</style>

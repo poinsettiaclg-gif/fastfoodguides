@@ -14,15 +14,19 @@ relatedArticles:
 
 
 
-The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [closing duties](/articles/wendys-closing-duties) and the Frosty machine is on your checklist, congratulations—you've drawn the single most time-consuming, mechanically complex, and universally dreaded closing task in the entire restaurant. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
+The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
 
 It's called the Boil-Out. And by the time you're done, you'll understand why.
 
 ## Why the Boil-Out Is Non-Negotiable
 
-The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. 
 
-I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. *(Related guide: [Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)](/articles/dairy-queen-blizzard-flip/))*
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. 
 
 The boil-out strips the machine of all dairy residue, sanitizes every surface that contacts the product, and ensures the morning crew is pouring fresh Frosty mix into an immaculately clean system.
 

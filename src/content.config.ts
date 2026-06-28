@@ -19,6 +19,10 @@ const articles = defineCollection({
 			chain: z.string().optional(),
 			topic: z.string().optional(),
 			relatedArticles: z.array(z.string()).optional(),
+			faq: z.array(z.object({
+				question: z.string(),
+				answer: z.string()
+			})).optional(),
 		}),
 });
 

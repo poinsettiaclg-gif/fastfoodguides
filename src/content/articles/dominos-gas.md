@@ -10,20 +10,26 @@ relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-oven-tender-role"
   - "pizza-delivery-driver-accident"
+faq:
+  - question: "The Math: Is the Reimbursement Actually Enough?"
+    answer: "Let me run the numbers I used to show new hires during orientation, because this is where the job either makes sense or doesn't."
 ---
 
 
 
-Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
+Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. 
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
 
 ![Technical schematic of a Domino's dispatch computer mileage tracking workflow](../../assets/images/dominos-gas/dominos-gas-dispatch-computer-schematic.webp)
 
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
-But here's the thing nobody tells you during the interview—Domino's reimburses you for every mile you drive on the clock. At the end of every single shift, when the manager "cashes you out," your mileage reimbursement is rolled into your take-home pay along with your credit card tips and any cash adjustments. The store's dispatch computer tracks the distance from the store to each delivery address and back, so the mileage calculation isn't something you have to argue about. It's automatic. *(Related guide: [What Happens if a Pizza Delivery Driver Gets in an Accident?](/articles/pizza-delivery-driver-accident/))*
+Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. 
+
+But here's the thing nobody tells you during the interview—Domino's reimburses you for every mile you drive on the clock. At the end of every single shift, when the manager "cashes you out," your mileage reimbursement is rolled into your take-home pay along with your credit card tips and any cash adjustments. The store's dispatch computer tracks the distance from the store to each delivery address and back, so the mileage calculation isn't something you have to argue about. It's automatic. 
 
 The reimbursement rate varies by franchise, but most stores I've worked with or managed paid somewhere between $0.35 and $0.45 per mile. Some adjust quarterly based on local gas prices. Others haven't touched the rate in three years. This is one of those things you absolutely need to ask about before you accept the position.
 

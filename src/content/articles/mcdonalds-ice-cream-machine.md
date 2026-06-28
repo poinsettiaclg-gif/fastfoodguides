@@ -14,11 +14,15 @@ relatedArticles:
 
 ## It's Not Actually Broken (Most of the Time)
 
-The McDonald's ice cream machine meme has taken on a life of its own. There's even a [real-time tracker](https://mcbroken.com) that monitors which locations have working machines. But the reality behind the "broken" machine is more complicated — and more frustrating — than most people realize. *(Related guide: [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
+The McDonald's ice cream machine meme has taken on a life of its own. There's even a [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
 
-**The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-That cycle takes **up to 4 hours**, and if anything interrupts it — a power flicker, a temperature sensor reading slightly off, someone opening the wrong door — the machine throws an error code and the entire cycle has to start over. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+**The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. 
+
+That cycle takes **up to 4 hours**, and if anything interrupts it — a power flicker, a temperature sensor reading slightly off, someone opening the wrong door — the machine throws an error code and the entire cycle has to start over. 
 
 ## The Machine: Taylor C709
 

@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Chick-fil-A is not a normal fast food job. I say that as someone who has worked in or managed kitchens across half a dozen major chains, and nothing I encountered at any of them prepared me for the level of hospitality discipline that Chick-fil-A demands from every single team member. Most QSR chains train you to take orders fast and keep the line moving. Chick-fil-A trains you to make a stranger feel like you genuinely care about their day—and then they measure whether you actually did it. The entire system is built on four non-negotiable behaviors called the Core 4, and if you are applying for a job here, understanding these four pillars is the difference between getting hired and getting a polite rejection email. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
+Chick-fil-A is not a normal fast food job. I say that as someone who has worked in or managed kitchens across half a dozen major chains, and nothing I encountered at any of them prepared me for the level of hospitality discipline that Chick-fil-A demands from every single team member. Most QSR chains train you to take orders fast and keep the line moving. Chick-fil-A trains you to make a stranger feel like you genuinely care about their day—and then they measure whether you actually did it. The entire system is built on four non-negotiable behaviors called the Core 4, and if you are applying for a job here, understanding these four pillars is the difference between getting hired and getting a polite rejection email. 
 
 ## The Chick-fil-A Core 4 Explained
 
 ![Flat design schematic of the Chick-fil-A Core 4 evaluation rubric and scoring matrix](../../assets/images/chick-fil-a-core-4/chick-fil-a-core-4-evaluation-matrix.webp)
 
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and here is what each pillar requires: *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
-1. **Create Eye Contact.** You do not look down at the register, stare at the menu board, or glance at your coworker while a guest is talking to you. You look them directly in the eye. This sounds simple until you are on hour seven of a Saturday lunch rush and you have taken 200 orders and your brain is running on autopilot. Maintaining genuine eye contact when you are exhausted is harder than it sounds, and it is the first thing managers notice slipping. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
+The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and here is what each pillar requires: 
+
+1. **Create Eye Contact.** You do not look down at the register, stare at the menu board, or glance at your coworker while a guest is talking to you. You look them directly in the eye. This sounds simple until you are on hour seven of a Saturday lunch rush and you have taken 200 orders and your brain is running on autopilot. Maintaining genuine eye contact when you are exhausted is harder than it sounds, and it is the first thing managers notice slipping. 
 
 2. **Share a Smile.** Yes, it sounds cliché. No, they are not joking. A genuine smile is a strict requirement, not a suggestion. The key word is "genuine." Chick-fil-A managers are trained to distinguish between a real smile and a forced, dead-eyed customer service grimace. If your smile does not reach your eyes, you will hear about it during your next coaching session.
 
@@ -39,7 +42,7 @@ The Core 4 is not just a training poster gathering dust on the break room wall. 
 
 Every interaction a Team Member has with a guest is evaluated through the Core 4 lens. Managers regularly observe crew members during shifts and provide specific, real-time feedback. "I noticed you did not make eye contact with that last guest—check in with yourself." During secret shopper evaluations—which Chick-fil-A takes more seriously than any other chain I have encountered—the evaluator is specifically checking whether the employee made eye contact, smiled, spoke enthusiastically, and made the interaction feel personal. These are not subjective vibes. They are scored on a rubric, and stores that score poorly face intense scrutiny from their Operator and the corporate support team.
 
-The result is a customer experience that feels dramatically different from walking into a Burger King or McDonald's. That difference is not accidental. It is a system, engineered and enforced, and every employee is expected to execute it consistently on every single guest interaction, hundreds of times per shift.
+The result is a customer experience that feels dramatically different from walking into a [Burger King](/articles/chain/burger-king) or [McDonald's](/articles/chain/mcdonalds). That difference is not accidental. It is a system, engineered and enforced, and every employee is expected to execute it consistently on every single guest interaction, hundreds of times per shift.
 
 ## How to Demonstrate the Core 4 in Your Interview
 

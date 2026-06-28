@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
+If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. 
 
-Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I've seen line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And I've seen new hires watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
+Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I've seen line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And I've seen new hires watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties. 
 
 ## Step 1: The U-Shape Placement
 
 ![Vector diagram showing the proper U-shaped distribution of heavy ingredients on a flat tortilla](../../assets/images/chipotle-massive-burrito-rolling/chipotle-burrito-ushape-ingredient-layout.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong. *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong. 
 
 You must spread the ingredients out into a thick line, forming a slight "U" or boat shape in the bottom third of the tortilla. This distributes the mass across a wider area and gives you actual room to work with when the fold starts.
 

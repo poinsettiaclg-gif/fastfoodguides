@@ -12,22 +12,22 @@ relatedArticles:
   - "chick-fil-a-ipos-system"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  Why Does Chick-fil-A Have Employees Standing Outside With Tablets?
 
 
+If you’ve driven through a Chick-fil-A lunch rush in the last several years, you’ve experienced something that doesn’t happen at any other major fast food chain. Before you even reach the menu board, a team member walks up to your car window holding a tablet, takes your order face-to-face, and sends it directly to the kitchen. By the time you pull up to the window, your food is either ready or being assembled. 
 
-If you’ve driven through a Chick-fil-A lunch rush in the last several years, you’ve experienced something that doesn’t happen at any other major fast food chain. Before you even reach the menu board, a team member walks up to your car window holding a tablet, takes your order face-to-face, and sends it directly to the kitchen. By the time you pull up to the window, your food is either ready or being assembled. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+It looks unusual the first time you see it. Why are employees standing outside in the parking lot? Why not just use the speaker box like every other drive-thru? And how do they know which car gets which order when there are 30 vehicles in the lane? 
 
-It looks unusual the first time you see it. Why are employees standing outside in the parking lot? Why not just use the speaker box like every other drive-thru? And how do they know which car gets which order when there are 30 vehicles in the lane? *(Related guide: [How Chick-fil-A Makes Their Lemonade — The Hand-Squeezed Morning Process](/articles/chick-fil-a-lemonade/))*
-
-I’ve talked with plenty of Chick-fil-A operators and team members about this system over the years, and I’ve studied it from an operations standpoint. The short answer is that it’s one of the most effective drive-thru innovations in the QSR industry, and the results back it up — Chick-fil-A consistently has the longest drive-thru lines in fast food and yet some of the fastest actual service times. That paradox is almost entirely explained by the tablet system. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
+I’ve talked with plenty of Chick-fil-A operators and team members about this system over the years, and I’ve studied it from an operations standpoint. The short answer is that it’s one of the most effective drive-thru innovations in the QSR industry, and the results back it up — Chick-fil-A consistently has the longest drive-thru lines in fast food and yet some of the fastest actual service times. That paradox is almost entirely explained by the tablet system. 
 
 ## The iPOS System: What Those Tablets Actually Are
 
 The tablets Chick-fil-A team members carry outside are part of what’s internally called the iPOS system — iPad Point of Sale. They’re iPads loaded with a proprietary Chick-fil-A ordering application that connects directly to the restaurant’s POS and kitchen display system (KDS) over the store’s Wi-Fi network.
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
 Each tablet runs the full menu with modification capabilities. Team members can ring up any item, apply customizations (no pickles, extra sauce, substitute a side), process payment via card or mobile app, and send the completed order to the kitchen — all from the parking lot.
 
@@ -133,34 +133,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### How Does the Little Caesars Hot-N-Ready System Actually Work?
-
-Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minute clock marking sys...
-
-](/articles/little-caesars-hot-n-ready-system/)[
-
-### How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)
-
-Wendy's chili is made from leftover hamburger patties that sat on the grill too long to serve. They ...
-
-](/articles/wendys-chili-leftover-hamburgers/)[
-
-### How to Master the Subway POS When a Customer Orders Out of Order
-
-A Subway cashier's survival guide to the 3-Step Core Ring, the Meal Deal trap, and ringing up chaoti...
-
-](/articles/subway-pos-out-of-order/)[
-
-### What is the Wendy's Double-Sided "Clamshell" Grill?
-
-The Wendy's clamshell grill cooks both sides of the patty at once with Auto-Gap technology. Here's t...
-
-](/articles/wendys-clamshell-grill/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

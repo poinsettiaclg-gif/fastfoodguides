@@ -12,15 +12,19 @@ relatedArticles:
   - "wendys-chili-leftover-hamburgers"
 ---
 
-The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen. 
 
-I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way. 
 
 Here's how the whole thing actually works, from the ticket printer to the pass.
 
 ## The Flat-Top Is the Entire Operation
 
-Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. 
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
 
 The surface temperature sits between 350°F and 375°F depending on the zone. Most cooks run the left side slightly hotter for pancakes and the right side a touch cooler for eggs. You don't get separate temperature dials for each section on most units, so you learn where the hot spots and dead spots are through repetition. After a few weeks, you know that the back-left corner runs about 15 degrees hotter than the front-right.
 
@@ -37,7 +41,7 @@ Nobody draws lines on the grill or anything — you just learn to keep your real
 
 ### Pancakes: Mixed From Powder, Poured by Hand
 
-Denny's pancake batter comes from a dry mix, similar to what IHOP uses. A prep cook mixes it in large batches using a specific water-to-mix ratio — we used a big plastic pitcher with measurement lines on the side. The batter sits in a squeeze bottle or is ladled directly onto the flat-top.
+Denny's pancake batter comes from a dry mix, similar to what [IHOP](/articles/chain/ihop) uses. A prep cook mixes it in large batches using a specific water-to-mix ratio — we used a big plastic pitcher with measurement lines on the side. The batter sits in a squeeze bottle or is ladled directly onto the flat-top.
 
 You pour two rounds about 4-5 inches in diameter. At 350°F, you're watching for the surface to bubble and the edges to set — usually about 90 seconds to two minutes on the first side. Flip once, cook for another 60-90 seconds. The key indicator is color: you want a uniform golden brown, not the spotty leopard-print pattern you get when the grill is too hot or the batter is too thick.
 
@@ -159,7 +163,7 @@ It's a hard job, and the Grand Slam — as simple as it looks on the menu — is
 
 ## The Grand Slam Is a Skill Check
 
-Every chain restaurant has that one menu item that defines what the kitchen is about. At Waffle House, it's the hash brown system. At IHOP, it's the pancake consistency. At Denny's, it's the Grand Slam.
+Every chain restaurant has that one menu item that defines what the kitchen is about. At [Waffle House](/articles/chain/waffle-house), it's the hash brown system. At IHOP, it's the pancake consistency. At Denny's, it's the Grand Slam.
 
 Four components, four different cook times, all landing on the plate at the same moment, cooked exactly the way the guest wants. Multiply that by every table in the restaurant during a Sunday rush, and you've got a real test of a cook's ability to manage time, space, and heat simultaneously.
 

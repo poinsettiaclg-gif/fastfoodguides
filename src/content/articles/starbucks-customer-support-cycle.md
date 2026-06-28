@@ -13,13 +13,17 @@ relatedArticles:
 ---
 
 
-During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. I've seen it happen. Here's exactly how the CS Cycle works and why experienced Shift Supervisors will fight to protect it. *(Related guide: [How to Master the Starbucks Cold Bar and Frappuccino Sequence](/articles/starbucks-cold-bar-frappuccino/))*
+During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. I've seen it happen. Here's exactly how the CS Cycle works and why experienced Shift Supervisors will fight to protect it. 
 
 ## The Timed Cadence: 8, 10, or 15 Minutes
 
-The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
+The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. 
 
-Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go. *(Related guide: [How the Starbucks \](/articles/starbucks-pull-to-thaw/))*
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go. 
 
 The cadence length is set by the Shift Supervisor based on current store conditions. During a morning peak—typically 6:00 AM to 9:00 AM—the timer runs at 8 or 10 minutes because supplies are being consumed at a ferocious pace. The [Hot Bar barista](/articles/starbucks-morning-rush) is burning through milk, cups, and espresso beans constantly, and if you fall behind by even one cycle, they start running out of things. During a quiet Tuesday afternoon, the cadence might stretch to 15 or even 30 minutes because consumption slows to a crawl.
 

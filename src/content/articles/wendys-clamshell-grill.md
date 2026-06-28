@@ -14,18 +14,21 @@ relatedArticles:
 
 
 
-For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen. *(Related guide: [What is the Wendy's \](/articles/wendys-4-corner-press/))*
+For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen. 
 
 ## How the Clamshell Actually Works
 
 ![Technical schematic of a double-sided clamshell grill lowering onto meat patties](../../assets/images/wendys-clamshell-grill/wendys-clamshell-grill-closing.webp)
 
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-Imagine a massive, industrial panini press that weighs several hundred pounds, runs at over 400°F on both surfaces, and is engineered specifically to cook fresh beef patties with zero flipping required. That's the clamshell grill. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+Imagine a massive, industrial panini press that weighs several hundred pounds, runs at over 400°F on both surfaces, and is engineered specifically to cook fresh beef patties with zero flipping required. That's the clamshell grill. 
 
 The operation is straightforward:
 
-1. **The Drop:** You lay the fresh, square patties onto the bottom grill plate. Immediately hit the [4-Corner Press](/articles/wendys-4-corner-press) on each patty so they don't shrink into meatballs. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
+1. **The Drop:** You lay the fresh, square patties onto the bottom grill plate. Immediately hit the [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
 
 2. **The Close:** You press the heavy green button on the control panel. A massive heated top platen—essentially a second grill surface—automatically lowers itself perfectly level onto the meat. The hydraulic system controls the descent speed and pressure.
 

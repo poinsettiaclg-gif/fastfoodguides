@@ -222,7 +222,7 @@ const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] a
 		<Footer />
 
 		<script>
-			document.addEventListener('astro:page-load', () => {
+			document.addEventListener('DOMContentLoaded', () => {
 				const pills = document.querySelectorAll<HTMLButtonElement>('.chain-pill');
 				const cards = document.querySelectorAll<HTMLLIElement>('.article-card');
 				const countEl = document.querySelector<HTMLElement>('.guide-count strong');

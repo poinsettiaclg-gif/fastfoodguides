@@ -7,7 +7,9 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://fastfoodguides.com',
+	trailingSlash: 'always',
 	integrations: [mdx(), sitemap()],
+	prefetch: { defaultStrategy: 'viewport' },
 	fonts: [
 		{
 			provider: fontProviders.local(),

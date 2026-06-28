@@ -12,20 +12,20 @@ relatedArticles:
   - "wendys-chili-leftover-hamburgers"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
 
 
+If you’ve never ordered a hoagie at Wawa, the experience can throw you off. There’s no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, I can tell you it’s one of the smartest deli setups in the business. 
 
-If you’ve never ordered a hoagie at Wawa, the experience can throw you off. There’s no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, I can tell you it’s one of the smartest deli setups in the business. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
-
-I’ve worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer’s hands. Here’s exactly how the whole process works, from the moment you touch that screen to the moment your hoagie hits the wrapper. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+I’ve worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer’s hands. Here’s exactly how the whole process works, from the moment you touch that screen to the moment your hoagie hits the wrapper. 
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here. 
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
 The hoagie builder interface walks you through every decision in sequence:
 
@@ -166,34 +166,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### The Wendy's Frosty Machine "Boil-Out" Process
-
-The Frosty machine boil-out is a multi-hour process involving drain, chemical flush, reassembly, and...
-
-](/articles/wendys-frosty-machine-boil-out/)[
-
-### What is the Panera Bread "Consolidator" Role?
-
-Inside the most demanding role at Panera Bread: the Consolidator who acts as air traffic control for...
-
-](/articles/panera-bread-consolidator-role/)[
-
-### What is the Wendy's "4-Corner Press" Technique?
-
-Wendy's square patties would shrink into circles without the 4-Corner Press technique. Here's how gr...
-
-](/articles/wendys-4-corner-press/)[
-
-### How Does the Pizza Hut Dispatch System Work?
-
-A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating t...
-
-](/articles/pizza-hut-dispatch/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

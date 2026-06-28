@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream. *(Related guide: [Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)](/articles/dairy-queen-blizzard-flip/))*
+At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream. 
 
-I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. Here's exactly how the technique works, why the machine matters as much as your wrist, and how to survive the terrifying chocolate dip. *(Related guide: [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
+I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. Here's exactly how the technique works, why the machine matters as much as your wrist, and how to survive the terrifying chocolate dip. 
 
 ## The Foundation: Building in Tiers
 
-You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
+You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: 
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
 
 - A **Small** cone gets 2 balls and a curl
 - A **Medium** cone gets 3 balls and a curl

@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
+Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. 
 
-That's why they don't have generic "grill cooks" or "prep cooks." They have the Bird Specialist. And if you're hired for this position, you are the most important person in the building. You are the heartbeat of the operation. If you fail, the entire restaurant grinds to a halt. *(Related guide: [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/))*
+That's why they don't have generic "grill cooks" or "prep cooks." They have the Bird Specialist. And if you're hired for this position, you are the most important person in the building. You are the heartbeat of the operation. If you fail, the entire restaurant grinds to a halt. 
 
 ## The 24-Hour Marinade and Why It Can't Be Rushed
 
 ![Blueprint diagram showing a 24-hour marination timeline for chicken tenders](../../assets/images/raising-canes-bird-specialist/raising-canes-24-hour-marinade-schematic.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-Before a single chicken tender touches flour, it has spent exactly 24 hours marinating in the walk-in cooler. Not 12 hours like some competitors. Twenty-four. The tenders arrive at the store fresh — never frozen — and go straight into marinade tubs that were prepped the night before. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+Before a single chicken tender touches flour, it has spent exactly 24 hours marinating in the walk-in cooler. Not 12 hours like some competitors. Twenty-four. The tenders arrive at the store fresh — never frozen — and go straight into marinade tubs that were prepped the night before. 
 
 This 24-hour window is non-negotiable. A strict manager won't serve chicken that's been marinating for 20 hours, let alone 16. The extended soak time is what gives Cane's chicken that deep, consistent seasoning all the way through the meat, not just on the surface.
 

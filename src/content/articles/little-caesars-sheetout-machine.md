@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-At a traditional pizzeria, making a crust is a craft. You take a dough ball, stretch it by hand, maybe toss it in the air for show, and spend 15 to 20 seconds working it into a round shape that's never quite perfectly uniform. That's charming when you're making 40 pizzas on a Saturday night. At Little Caesars, where a busy location pumps out 300 to 500 pizzas a day and the entire business model depends on having hot pizzas ready the instant a customer walks through the door, hand-tossing is a fantasy. Enter the Sheetout Machine—called "the Sheeter" by every employee who's ever used one—and the reason Little Caesars can make the Hot-N-Ready promise work at industrial scale. *(Related guide: [How Does the Little Caesars Hot-N-Ready System Actually Work?](/articles/little-caesars-hot-n-ready-system/))*
+At a traditional pizzeria, making a crust is a craft. You take a dough ball, stretch it by hand, maybe toss it in the air for show, and spend 15 to 20 seconds working it into a round shape that's never quite perfectly uniform. That's charming when you're making 40 pizzas on a Saturday night. At Little Caesars, where a busy location pumps out 300 to 500 pizzas a day and the entire business model depends on having hot pizzas ready the instant a customer walks through the door, hand-tossing is a fantasy. Enter the Sheetout Machine—called "the Sheeter" by every employee who's ever used one—and the reason Little Caesars can make the Hot-N-Ready promise work at industrial scale. 
 
 ## What the Sheeter Actually Is
 
 ![Blueprint-style schematic of a pizza dough sheetout machine's calibrated rollers and gap width](../../assets/images/little-caesars-sheetout-machine/little-caesars-sheetout-machine-rollers-calibration.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There's nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. *(Related guide: [What is the Papa John's \](/articles/papa-johns-dough-slapping/))*
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-The rollers are calibrated to corporate specifications. The gap between them determines the exact thickness of every single pizza crust that leaves the store. When the gap is set correctly, every crust comes out at the same millimeter thickness—no thin spots, no thick spots, no holes where someone's thumb went through during an aggressive hand stretch. The consistency is the point. A customer who buys a Hot-N-Ready on Monday gets the exact same crust as the customer who buys one on Friday. That level of uniformity is impossible with hand-tossing, even with experienced pizza makers. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
+Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There's nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. 
+
+The rollers are calibrated to corporate specifications. The gap between them determines the exact thickness of every single pizza crust that leaves the store. When the gap is set correctly, every crust comes out at the same millimeter thickness—no thin spots, no thick spots, no holes where someone's thumb went through during an aggressive hand stretch. The consistency is the point. A customer who buys a Hot-N-Ready on Monday gets the exact same crust as the customer who buys one on Friday. That level of uniformity is impossible with hand-tossing, even with experienced pizza makers. 
 
 ## The Two-Pass Technique
 

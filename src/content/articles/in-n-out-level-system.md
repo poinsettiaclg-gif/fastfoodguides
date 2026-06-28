@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. *(Related guide: [What is the In-N-Out \](/articles/in-n-out-board-station/))*
+In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
 
-It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a Wendy's for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. *(Related guide: [How to Memorize the In-N-Out POS System and Secret Menu](/articles/in-n-out-secret-menu/))*
+It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
 
 ## Level 1: The Foundation (And the Filter)
 
-Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
+Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. 
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
 
 I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. In-N-Out management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
 

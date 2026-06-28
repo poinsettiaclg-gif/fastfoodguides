@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
+Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. 
 
-I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Here's exactly how it operates and why every dollar is tracked. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
+I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Here's exactly how it operates and why every dollar is tracked. 
 
 ## How the $20 Bank Works
 
-When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. *(Related guide: [What Happens if a Pizza Delivery Driver Gets in an Accident?](/articles/pizza-delivery-driver-accident/))*
+When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. 
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
 The rule is absolute: you are never, under any circumstances, allowed to have more than $20 of the store's money in your possession while out on a delivery. The stickers plastered on every Domino's delivery bag, every store window, and often on the car topper itself all say the same thing: "Driver Carries Less Than $20."
 

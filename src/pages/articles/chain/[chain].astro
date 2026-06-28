@@ -47,6 +47,14 @@ const chainMap: Record<string, string> = {
   'white-castle': 'White Castle',
   'wingstop': 'Wingstop',
   'zaxbys': "Zaxby's",
+  'applebees': "Applebee's",
+  'bojangles': "Bojangles",
+  'buffalo-wild-wings': 'Buffalo Wild Wings',
+  'cava': 'Cava',
+  'chilis': "Chili's",
+  'dutch-bros': 'Dutch Bros',
+  'long-john-silvers': "Long John Silver's",
+  'sweetgreen': 'Sweetgreen',
 };
 
 // SEO descriptions to fix "Thin Content" issues on single-article chain pages
@@ -90,7 +98,15 @@ const chainDescriptions: Record<string, string> = {
   'whataburger': "Whataburger is an American regional fast food restaurant chain specializing in hamburgers. Their made-to-order model and extensive customization options require a highly adaptable grill line. Read our guides on their patty melt construction, Texas Toast preparation, and grill setup.",
   'white-castle': "White Castle is an American regional hamburger restaurant chain credited as the first fast-food chain in the US. Their square sliders are steam-grilled over a bed of onions rather than seared. Learn about their five-hole patty design and the unique mechanics of the steam grill.",
   'wingstop': "Wingstop is an American multinational chain of nostalgic, aviation-themed restaurants specializing in chicken wings. Their operation is surprisingly simple but highly focused. Explore our guides on their fry cook timing, the plain fry start, and the heavy toss-and-coat technique.",
-  'zaxbys': "Zaxby's is an American chain of fast casual restaurants offering chicken wings, chicken fingers, and signature sauces. Their kitchen balances fried items with fresh salads. Read our guides on the composition of Zax Sauce, the ratio problem, and their breading station flow."
+  'zaxbys': "Zaxby's is an American chain of fast casual restaurants offering chicken wings, chicken fingers, and signature sauces. Their kitchen balances fried items with fresh salads. Read our guides on the composition of Zax Sauce, the ratio problem, and their breading station flow.",
+  'applebees': "Applebee's is one of the largest casual dining chains in the world. Despite internet rumors about 'Chef Mike,' their kitchens balance genuine grill work with rapid-fire TurboChef ovens. Read our honest breakdown of what gets microwaved and what gets flame-grilled.",
+  'bojangles': "Bojangles is a Southern fast food chain famous for its made-from-scratch biscuits and Cajun-seasoned fried chicken. Their 4:00 AM biscuit maker shift is legendary. Learn how they hand-cut, proof, and bake biscuits that are the foundation of their entire menu.",
+  'buffalo-wild-wings': "Buffalo Wild Wings is a casual dining and sports bar chain specializing in chicken wings with over 20 signature sauces. Their sauce-tossing station is the heart of the kitchen. Discover how they fry, toss, and manage their massive sauce inventory.",
+  'cava': "Cava is a fast-casual Mediterranean restaurant chain specializing in customizable grain bowls and pitas. Their three-zone assembly line is engineered for speed and portion precision. Learn how they push hundreds of bowls per hour during the lunch rush.",
+  'chilis': "Chili's Grill & Bar is an American casual dining restaurant chain known for Baby Back Ribs and sizzling fajitas. Their ribs arrive pre-cooked and get finished on the grill with their signature glaze. Read our guide on their grill finishing technique.",
+  'dutch-bros': "Dutch Bros Coffee is a drive-thru-only coffee chain known for its high-energy service and hyper-customized drinks. Their 'Linebuster' system processes cars faster than almost any beverage chain. Learn how their dual-lane drive-thru and drink coding system work.",
+  'long-john-silvers': "Long John Silver's is the largest seafood fast-food chain in the United States. Their signature crispy batter requires a specialized 'swim and drop' frying technique. Read our guide on their fryer mechanics, oil management, and the intense Lent season rush.",
+  'sweetgreen': "Sweetgreen is a fast-casual restaurant chain specializing in salads and warm bowls made with locally sourced ingredients. Their mixing station uses a precision 'vortex toss' technique. Learn how they handle 150+ salads per hour while preventing cross-contamination."
 };
 
 function slugifyChain(chain: string): string {
@@ -138,6 +154,23 @@ const metaDescription = chainDesc
     title={`${displayName} Guides | Fast Food Guides`}
     description={metaDescription}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${displayName} Guides`,
+    "description": metaDescription,
+    "url": `https://fastfoodguides.com/articles/chain/${chainSlug}/`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": posts.length,
+      "itemListElement": posts.map((post, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://fastfoodguides.com/articles/${post.id}/`,
+        "name": post.data.title
+      }))
+    }
+  })} />
 </head>
 <body>
   <Header />

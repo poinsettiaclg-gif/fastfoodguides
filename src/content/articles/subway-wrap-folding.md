@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
+If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap. 
 
-Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. Here is the insider method for rolling a loaded Subway wrap perfectly—every single time. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
+Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. Here is the insider method for rolling a loaded Subway wrap perfectly—every single time. 
 
 ## Step 1: Warm the Tortilla (Never Skip This)
 
 ![Technical schematic of a Subway silicone meat toasting boat](../../assets/images/subway-wrap-folding/subway-silicone-toasting-boat.webp)
 
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that new hires skip most often when the line is backed up. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that new hires skip most often when the line is backed up. 
 
 If the customer is getting their meat toasted, toast the meat in the silicone boat as usual, and lay the empty tortilla flat on the deli paper. The residual heat from the toasted meat will soften the tortilla when you place it on top. If they want a cold wrap, ask if you can pop the empty tortilla into the toaster on the "Heat/1-Sub" setting for just 3 seconds. Just enough to make it pliable.
 

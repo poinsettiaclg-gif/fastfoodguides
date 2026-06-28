@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make it out of old, leftover hamburgers." If you're a new hire at Wendy's, you'll learn on your very first shift that this internet rumor is 100% true. But before you recoil in horror, let me tell you something from a decade of kitchen management—this is not a dirty secret. It's not a health code violation. It's actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are more rigorous than most people realize. *(Related guide: [What is the Wendy's \](/articles/wendys-4-corner-press/))*
+If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make it out of old, leftover hamburgers." If you're a new hire at Wendy's, you'll learn on your very first shift that this internet rumor is 100% true. But before you recoil in horror, let me tell you something from a decade of kitchen management—this is not a dirty secret. It's not a health code violation. It's actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are more rigorous than most people realize. 
 
 ## The "Burned" Meat Rule
 
-Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [clamshell grill](/articles/wendys-clamshell-grill) too long and dries out, or if the Grill Cook makes more patties than the rush demands, those overcooked patties cannot be served to a customer on a bun. They're past the holding time or too dried out to meet quality standards. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
-But throwing away perfectly good, cooked beef is a massive waste of money. A single busy Wendy's can accumulate several pounds of overcooked patties per shift. Multiply that by three shifts a day, seven days a week, and you're looking at a staggering amount of protein heading straight to the dumpster. *(Related guide: [What Are the Exact Closing Duties for a Wendy's Sandwich Maker?](/articles/wendys-closing-duties/))*
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+But throwing away perfectly good, cooked beef is a massive waste of money. A single busy Wendy's can accumulate several pounds of overcooked patties per shift. Multiply that by three shifts a day, seven days a week, and you're looking at a staggering amount of protein heading straight to the dumpster. 
 
 So Wendy's repurposes it. And the key word here is "repurposes," not "reuses." The meat doesn't get scraped off the grill and dumped directly into a pot. It goes through a completely separate, multi-step preparation process with strict food safety controls at every stage.
 

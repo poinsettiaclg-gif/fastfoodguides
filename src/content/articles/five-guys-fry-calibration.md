@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider. 
 
 ## The Morning Potato Prep: It All Starts With a Knife and Cold Water
 
-Five Guys does not use frozen fries. Not a single frozen potato product exists anywhere in their building. Every morning, the prep team hauls 50-pound bags of raw Idaho or Kennebec potatoes out of the walk-in cooler, washes them, and runs them through heavy-duty wall-mounted manual slicers that cut each potato into uniform sticks in one pull of the lever. *(Related guide: [What is the In-N-Out \](/articles/in-n-out-board-station/))*
+Five Guys does not use frozen fries. Not a single frozen potato product exists anywhere in their building. Every morning, the prep team hauls 50-pound bags of raw Idaho or Kennebec potatoes out of the walk-in cooler, washes them, and runs them through heavy-duty wall-mounted manual slicers that cut each potato into uniform sticks in one pull of the lever. 
 
-But here's the thing nobody tells you about the prep—cutting the potatoes is the easy part. The critical step is what happens immediately after: the starch wash. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+But here's the thing nobody tells you about the prep—cutting the potatoes is the easy part. The critical step is what happens immediately after: the starch wash. 
 
 Once cut, the fries are dumped into large buckets of cold water. This isn't a quick rinse under the faucet. The cut fries soak in that water, and the water gets changed multiple times until it runs relatively clear. Cloudy water means there's still excess surface starch clinging to the fries, and that starch is the enemy. If it stays on, the fries will brown and burn on the outside before the interior is fully cooked, and they'll stick together in clumps instead of separating into individual crispy sticks.
 

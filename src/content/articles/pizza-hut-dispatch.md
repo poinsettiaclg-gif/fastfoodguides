@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-If you get hired as a delivery driver at Pizza Hut, your entire night revolves around one screen in the back of the store. Not the oven. Not the cut table. The Dispatch Terminal. That glowing touchscreen monitor next to the heat racks is the brain of the operation, and understanding how it works is the difference between a $60 night and a $150 night. *(Related guide: [What Happens if a Pizza Delivery Driver Gets in an Accident?](/articles/pizza-delivery-driver-accident/))*
+If you get hired as a delivery driver at Pizza Hut, your entire night revolves around one screen in the back of the store. Not the oven. Not the cut table. The Dispatch Terminal. That glowing touchscreen monitor next to the heat racks is the brain of the operation, and understanding how it works is the difference between a $60 night and a $150 night. 
 
-The old days of writing addresses on a whiteboard and fighting with other drivers over the best tippers are long gone. Modern pizza delivery is automated, GPS-tracked, and timed down to the second. Here's what that actually looks like from behind the counter. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
+The old days of writing addresses on a whiteboard and fighting with other drivers over the best tippers are long gone. Modern pizza delivery is automated, GPS-tracked, and timed down to the second. Here's what that actually looks like from behind the counter. 
 
 ## The Drag-and-Drop System
 
 ![Technical wireframe diagram of a Pizza Hut dispatch terminal touchscreen interface](../../assets/images/pizza-hut-dispatch/pizza-hut-dispatch-terminal-schematic.webp)
 
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-The dispatch screen is a massive touchscreen mounted right next to the heat racks where boxed pizzas sit waiting for drivers. When an order comes out of the oven, the cut-table worker boxes it, slaps the receipt on top, and scans it. The order instantly pops up on the dispatch screen as "Ready," showing the address, the order contents, and a timer that starts counting upward the moment the pizza hit the rack. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+The dispatch screen is a massive touchscreen mounted right next to the heat racks where boxed pizzas sit waiting for drivers. When an order comes out of the oven, the cut-table worker boxes it, slaps the receipt on top, and scans it. The order instantly pops up on the dispatch screen as "Ready," showing the address, the order contents, and a timer that starts counting upward the moment the pizza hit the rack. 
 
 When you return to the store from your previous run, your name appears at the top of the "Available Drivers" list. You physically touch your name on the screen, drag it over to the waiting order, and hit "Dispatch." That's it. The system clocks you out of the store, your GPS tracker engages through the Pizza Hut Delivery App on your phone, and the customer gets an automatic text saying their food is on the way.
 

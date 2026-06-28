@@ -10,17 +10,24 @@ relatedArticles:
   - "sonic-switchboard-how-it-works"
   - "dairy-queen-perfect-cone-curl"
   - "in-n-out-level-system"
+faq:
+  - question: "Is Skating Actually Required?"
+    answer: "The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. "
 ---
 
 
 
-When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels. *(Related guide: [How Does the Sonic Drive-In Switchboard Actually Work?](/articles/sonic-switchboard-how-it-works/))*
+When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels. 
 
-But if you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. *(Related guide: [How to Make the Perfect Dairy Queen Cone Curl](/articles/dairy-queen-perfect-cone-curl/))*
+But if you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. 
 
 ## Is Skating Actually Required?
 
-The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
+The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
 
 **The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There's nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
 

@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-If you look at the In-N-Out drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? *(Related guide: [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
+If you look at the In-N-Out drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
 
-Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [Level 2 Associate](/articles/in-n-out-level-system), mastering the POS and the Secret Menu isn't optional. It's survival. *(Related guide: [What is the In-N-Out \](/articles/in-n-out-board-station/))*
+Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [What is the In-N-Out \](/articles/in-n-out-board-station/))*
 
 ## The POS System Is Built for Speed
 
 ![Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items](../../assets/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
 
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. *(Related guide: [What Happens When the McDonald's POS System Crashes?](/articles/mcdonalds-pos-crash/))*
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. 
 
 The POS layout at In-N-Out is surprisingly intuitive once you learn the geography. The main screen shows base menu items, and tapping any one opens a modifier screen with all available customizations. Buttons are color-coded and grouped logically—proteins in one area, cooking instructions in another, topping modifications in a third. The system flows left to right, matching how customers typically build their order verbally.
 

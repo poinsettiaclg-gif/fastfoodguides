@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-I managed a store near a Dunkin' for two years and ate lunch with their shift leads almost every day. The number one thing that drove them insane wasn't the 5 AM alarm or the line out the door—it was the flavor system. At Starbucks, everything is just "syrup." At Dunkin', the flavoring is split into two completely separate product categories that look different, taste different, and have wildly different calorie counts. Pump the wrong one and you've ruined someone's morning, guaranteed yourself a remake, and backed up the line during the most unforgiving three hours in QSR. *(Related guide: [How to Master the Starbucks Cold Bar and Frappuccino Sequence](/articles/starbucks-cold-bar-frappuccino/))*
+I managed a store near a Dunkin' for two years and ate lunch with their shift leads almost every day. The number one thing that drove them insane wasn't the 5 AM alarm or the line out the door—it was the flavor system. At [Starbucks](/articles/chain/starbucks), everything is just "syrup." At Dunkin', the flavoring is split into two completely separate product categories that look different, taste different, and have wildly different calorie counts. Pump the wrong one and you've ruined someone's morning, guaranteed yourself a remake, and backed up the line during the most unforgiving three hours in QSR. 
 
 ## Flavor Swirls: The Sweet, Creamy, Dessert-in-a-Cup Option
 
-When a customer says they want their iced coffee to taste like a milkshake, they want a Swirl. Here's what's actually in the bottle and why it matters behind the counter: *(Related guide: [How to Survive the Starbucks Morning Rush on the Hot Espresso Bar](/articles/starbucks-morning-rush/))*
+When a customer says they want their iced coffee to taste like a milkshake, they want a Swirl. Here's what's actually in the bottle and why it matters behind the counter: 
 
-- **The base:** Swirls are made with sweetened condensed milk (with the exception of Mocha, which is cocoa-based). They're thick, opaque, and loaded with sugar. When you pick up a Swirl bottle, it has real weight to it—it pours like a viscous syrup, not like water. *(Related guide: [What is the Starbucks Customer Support (CS) Cycle?](/articles/starbucks-customer-support-cycle/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+- **The base:** Swirls are made with sweetened condensed milk (with the exception of Mocha, which is cocoa-based). They're thick, opaque, and loaded with sugar. When you pick up a Swirl bottle, it has real weight to it—it pours like a viscous syrup, not like water. 
 - **The taste:** A Caramel Swirl Iced Coffee is inherently sweet. You do not need to add liquid cane sugar on top of a Swirl unless the customer specifically asks for extra sweetness. I've seen new baristas add both a Swirl and the standard sugar, and the customer sends it back because it tastes like melted candy.
 - **The calories:** A standard pump of Flavor Swirl adds roughly 150 to 160 calories to a medium drink. That's not trivial—and it's why the next category exists.
 - **The visual tell:** Swirls are easy to identify on the rack because the bottles contain thick, opaque liquid. When you pump a Swirl into a cup of iced coffee, you can literally see it swirling around in visible streaks before it blends in. Hence the name.

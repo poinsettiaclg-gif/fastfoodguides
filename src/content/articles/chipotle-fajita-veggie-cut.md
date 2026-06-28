@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
+The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. 
 
-I've seen managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. Here's why Chipotle is so obsessive about this one particular cut. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
+I've seen managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. Here's why Chipotle is so obsessive about this one particular cut. 
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
 
 ![Technical schematic of the claw grip technique for cutting bell peppers, showing proper knuckle positioning](../../assets/images/chipotle-fajita-veggie-cut/chipotle-fajita-veggie-claw-grip-schematic.webp)
 
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And here's the thing nobody tells you during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. *(Related guide: [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And here's the thing nobody tells you during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. 
 
 Across 40 to 60 pounds of raw produce. Every single morning.
 

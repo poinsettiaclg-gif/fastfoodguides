@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Every single day, Taco Bell serves thousands of pounds of refried beans across its roughly 8,000 locations. If you picture someone in the back kitchen soaking raw pinto beans overnight and mashing them by hand with a potato masher, I need you to let that image go right now. The reality is one of the most brilliantly engineered food science shortcuts in the entire QSR industry—and if you're working the prep shift, you're going to become intimately familiar with it. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
+Every single day, Taco Bell serves thousands of pounds of refried beans across its roughly 8,000 locations. If you picture someone in the back kitchen soaking raw pinto beans overnight and mashing them by hand with a potato masher, I need you to let that image go right now. The reality is one of the most brilliantly engineered food science shortcuts in the entire QSR industry—and if you're working the prep shift, you're going to become intimately familiar with it. 
 
 ## They Arrive as Dehydrated Pellets
 
-The beans show up at your store in massive, lightweight plastic bags that look like they're full of cat food. I'm not being dramatic. The first time I opened one of these bags, I genuinely thought someone had made a supply chain error. Inside, you'll find small, dry, brown pellets—sometimes more like flakes, depending on the supplier batch. They're hard, lightweight, and honestly kind of sad-looking. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
+The beans show up at your store in massive, lightweight plastic bags that look like they're full of cat food. I'm not being dramatic. The first time I opened one of these bags, I genuinely thought someone had made a supply chain error. Inside, you'll find small, dry, brown pellets—sometimes more like flakes, depending on the supplier batch. They're hard, lightweight, and honestly kind of sad-looking. 
 
-Here's the thing nobody tells you: those pellets have already been fully cooked, seasoned, mashed, and then industrially dehydrated at a corporate processing facility. They've already been beans once. Your job is to bring them back to life. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+Here's the thing nobody tells you: those pellets have already been fully cooked, seasoned, mashed, and then industrially dehydrated at a corporate processing facility. They've already been beans once. Your job is to bring them back to life. 
 
 The dehydration is pure logistics genius. Shipping water is expensive—it's heavy, it's bulky, and it takes up truck space. By stripping the moisture out at the factory, Taco Bell slashes shipping weight by roughly 80%. A bag of dehydrated pellets that weighs a few pounds produces enough refried beans to fill multiple deep hotel pans. The shelf life is equally impressive. Those bags can sit in dry storage for months without refrigeration, without spoilage, without anyone thinking about them. Compare that to managing fresh pinto beans with their careful soaking schedules and limited usability windows, and you start to understand why every location in the country uses this system.
 

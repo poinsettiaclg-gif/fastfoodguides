@@ -14,11 +14,15 @@ relatedArticles:
 
 ## It's Not Regular Ice. It Never Was.
 
-If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. *(Related guide: [How Does the Sonic Drive-In Switchboard Actually Work?](/articles/sonic-switchboard-how-it-works/))*
+If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. 
 
-Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor. *(Related guide: [Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)](/articles/sonic-carhops-roller-skate/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-This isn't a marketing gimmick. It's an engineering decision that costs Sonic significantly more money per location than standard cube ice, and it creates a whole set of operational headaches that most customers never think about. *(Related guide: [Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)](/articles/starbucks-secret-menu/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor. 
+
+This isn't a marketing gimmick. It's an engineering decision that costs Sonic significantly more money per location than standard cube ice, and it creates a whole set of operational headaches that most customers never think about. 
 
 ## How Nugget Ice Machines Actually Work
 
@@ -41,7 +45,7 @@ The result is ice that is approximately **80% ice and 20% air**, compared to cub
 
 ## Why Sonic Chose Nugget Ice (And Why Most Chains Don't)
 
-The decision to use nugget ice is directly tied to Sonic's business model. Unlike McDonald's or Burger King, where food is the primary revenue driver, **Sonic generates a disproportionate amount of its revenue from drinks**. Their menu has over 1.3 million drink combinations when you factor in flavor add-ins, and their Happy Hour promotion (half-price drinks) is one of the most successful recurring promotions in fast food.
+The decision to use nugget ice is directly tied to Sonic's business model. Unlike [McDonald's](/articles/chain/mcdonalds) or [Burger King](/articles/chain/burger-king), where food is the primary revenue driver, **Sonic generates a disproportionate amount of its revenue from drinks**. Their menu has over 1.3 million drink combinations when you factor in flavor add-ins, and their Happy Hour promotion (half-price drinks) is one of the most successful recurring promotions in fast food.
 
 When drinks are your core product, the ice matters. Nugget ice makes drinks taste better because:
 

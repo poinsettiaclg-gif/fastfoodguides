@@ -12,17 +12,21 @@ relatedArticles:
   - "chick-fil-a-breading-process"
 ---
 
-You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
+You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane. 
 
-Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or lazy employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, I can tell you the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or lazy employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, I can tell you the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it. 
 
 ## The Chicken Takes 25 Minutes to Cook
 
 This is the core issue that everything else flows from.
 
-Popeyes uses commercial pressure fryers — the same type of equipment KFC uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-Twenty-five minutes. Not five minutes like McDonald's nuggets. Not eight minutes like a Chick-fil-A filet. Twenty-five full minutes from the moment the lid locks to the moment the chicken comes out.
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+Popeyes uses commercial pressure fryers — the same type of equipment [KFC](/articles/chain/kfc) uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size. 
+
+Twenty-five minutes. Not five minutes like [McDonald's](/articles/chain/mcdonalds) nuggets. Not eight minutes like a [Chick-fil-A](/articles/chain/chick-fil-a) filet. Twenty-five full minutes from the moment the lid locks to the moment the chicken comes out.
 
 During those 25 minutes, that fryer is occupied. You can't open it, you can't check on the chicken, you can't add more pieces to the batch. The lid is locked under pressure. A typical Popeyes has 3-4 pressure fryers, and each one can cook roughly 8-12 pieces per batch depending on the size. So at maximum capacity, a store might be producing 30-48 pieces of chicken every 25 minutes.
 
@@ -90,7 +94,7 @@ It's not just the chicken. Popeyes' sides require real kitchen work:
 - **Coleslaw** — prep work, needs to stay cold
 - **Biscuits** — baked in batches, 12-15 minute bake time, need to be fresh
 
-Each side dish is another thing someone has to monitor, prep, and restock during service. At Chick-fil-A or Raising Cane's, the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
+Each side dish is another thing someone has to monitor, prep, and restock during service. At Chick-fil-A or [Raising Cane's](/articles/chain/raising-canes), the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
 
 ## Why Some Popeyes Are Faster Than Others
 

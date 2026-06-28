@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Every major pizza chain has a different approach to their crust. Domino's stretches theirs on a prep screen. Pizza Hut often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. *(Related guide: [What is the Papa John's \](/articles/papa-johns-dough-spinner/))*
+Every major pizza chain has a different approach to their crust. [Domino's](/articles/chain/dominos) stretches theirs on a prep screen. [Pizza Hut](/articles/chain/pizza-hut) often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. 
 
-You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
+You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush. 
 
 ## The Dough Management Process
 
 ![Technical flat design of stacked dough proofing trays in a walk-in cooler environment](../../assets/images/papa-johns-dough-slapping/papa-johns-dough-proofing-trays.webp)
 
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes. *(Related guide: [Why Little Caesars Uses a \](/articles/little-caesars-sheetout-machine/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes. 
 
 When an order comes in, the pizza maker pulls a dough ball from the proofing tray and drops it into a container of Dustinator — Papa John's proprietary blend of mostly cornmeal and flour that prevents the wet dough from sticking to your hands, the table, or the pizza screen. If you've ever seen that fine yellowish powder coating the bottom of a Papa John's crust, that's Dustinator.
 

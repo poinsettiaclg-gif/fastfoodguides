@@ -9,7 +9,7 @@ import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, slug } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, faq, slug } = Astro.props;
 
 // Resolve related articles from slugs
 let resolvedRelated: CollectionEntry<'articles'>[] = [];
@@ -28,7 +28,7 @@ function slugifyChain(c: string): string {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} ogType="article" chain={chain} articlePath={Astro.url.pathname} />
+		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "Article",
@@ -37,6 +37,7 @@ function slugifyChain(c: string): string {
 			"datePublished": pubDate.toISOString(),
 			...(updatedDate && { "dateModified": updatedDate.toISOString() }),
 			...(chain && { "articleSection": chain }),
+			"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/favicon.svg"],
 			"inLanguage": "en",
 			"author": {
 				"@type": "Person",
@@ -58,6 +59,20 @@ function slugifyChain(c: string): string {
 				"@id": Astro.url.href
 			}
 		})} />
+		{faq && faq.length > 0 && (
+			<script type="application/ld+json" set:html={JSON.stringify({
+				"@context": "https://schema.org",
+				"@type": "FAQPage",
+				"mainEntity": faq.map(f => ({
+					"@type": "Question",
+					"name": f.question,
+					"acceptedAnswer": {
+						"@type": "Answer",
+						"text": f.answer
+					}
+				}))
+			})} />
+		)}
 		<style>
 			body {
 				background: #0a0f1c;
@@ -289,14 +304,11 @@ function slugifyChain(c: string): string {
 			}
 
 			.prose :global(img) {
-				max-width: 75%;
+				max-width: 100%;
 				height: auto;
-				border-radius: 0.5rem;
-				margin: 1.5em auto;
-				display: block;
-				border: 1px solid rgba(255, 255, 255, 0.08);
-				loading: lazy;
-				decoding: async;
+				border-radius: 12px;
+				margin: 2.5rem 0;
+				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 			}
 
 			/* — Related Articles — */
@@ -366,7 +378,7 @@ function slugifyChain(c: string): string {
 				}
 
 				.prose :global(img) {
-					max-width: 60%;
+					max-width: 100%;
 					margin: 1.25em auto;
 					border-radius: 0.375rem;
 				}
@@ -379,7 +391,7 @@ function slugifyChain(c: string): string {
 	</head>
 
 	<body>
-		<a href="#main-content" class="sr-only" style="position:absolute;top:-40px;left:0;background:#10B981;color:#0a0f1c;padding:8px 16px;z-index:100;focus:top:0;">Skip to main content</a>
+		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>
 		<Header />
 		<main id="main-content">
 			<article>

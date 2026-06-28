@@ -88,6 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--text-primary);
 	line-height: 1.2;
 	font-weight: 700;
+	scroll-margin-top: 5rem;
 }
 
 h1 {
@@ -379,6 +380,23 @@ button:focus-visible,
 	clip: rect(1px, 1px, 1px, 1px);
 	clip-path: inset(50%);
 	white-space: nowrap;
+}
+
+.skip-link:focus {
+	position: fixed !important;
+	top: 0;
+	left: 0;
+	width: auto;
+	height: auto;
+	clip: auto;
+	clip-path: none;
+	overflow: visible;
+	background: #10B981;
+	color: #0a0f1c;
+	padding: 8px 16px;
+	z-index: 10000;
+	font-weight: 700;
+	font-size: 0.9rem;
 }
 
 /* --- Responsive --- */

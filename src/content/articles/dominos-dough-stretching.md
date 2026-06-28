@@ -14,11 +14,15 @@ relatedArticles:
 
 ## The Dough Does Not Arrive as Dough
 
-This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size. *(Related guide: [Do Domino's Delivery Drivers Pay For Their Own Gas?](/articles/dominos-gas/))*
+This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size. 
 
-A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide. *(Related guide: [What is the Domino's \](/articles/dominos-20-bank-rule/))*
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch. *(Related guide: [What is the \](/articles/dominos-oven-tender-role/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide. 
+
+The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch. 
 
 This is why prep timing matters so much. If the morning crew doesn't pull enough dough trays in time, the evening rush crew is stretching cold, resistant dough that tears easily and won't hold its shape.
 

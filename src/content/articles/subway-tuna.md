@@ -16,20 +16,24 @@ relatedArticles:
 
 Subway's tuna salad is made from exactly **two ingredients** mixed together in the restaurant:
 
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
 1. **Canned skipjack tuna** (packed in water)
 2. **Mayonnaise**
 
-No celery, no onion, no relish, no seasoning. Just tuna and mayo, mixed in a bowl and stored in a cold well. It is one of the simplest protein preparations in all of fast food, and it became one of the most controversial after a 2021 lawsuit claimed the tuna wasn't actually tuna. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
+No celery, no onion, no relish, no seasoning. Just tuna and mayo, mixed in a bowl and stored in a cold well. It is one of the simplest protein preparations in all of fast food, and it became one of the most controversial after a 2021 lawsuit claimed the tuna wasn't actually tuna. 
 
 We'll get to the lawsuit. But first, let's talk about what actually happens behind the counter.
 
 ## How Subway Prepares the Tuna
 
-The tuna prep happens during the morning prep shift, usually alongside bread baking and vegetable prep. Here's the full process: *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
+The tuna prep happens during the morning prep shift, usually alongside bread baking and vegetable prep. Here's the full process: 
 
 ### Step 1: Open the Cans
 
-Subway receives **commercial-sized cans of skipjack tuna** — typically 66.5-ounce cans (about 4 pounds each). These are standard foodservice cans, not the small consumer cans you'd buy at a grocery store. The tuna is packed in water, not oil. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
+Subway receives **commercial-sized cans of skipjack tuna** — typically 66.5-ounce cans (about 4 pounds each). These are standard foodservice cans, not the small consumer cans you'd buy at a grocery store. The tuna is packed in water, not oil. 
 
 A prep worker opens the cans and **drains the water** thoroughly. The more water that remains, the more watery and runny the finished tuna salad will be. Proper draining is the single most important quality control step in the entire process.
 

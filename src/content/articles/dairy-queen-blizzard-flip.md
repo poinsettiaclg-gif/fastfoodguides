@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-It is the most famous parlor trick in all of fast food: when a Dairy Queen employee hands you a Blizzard, they are required to flip the cup completely upside down for a full second before passing it across the counter. If they don't flip it, corporate policy says you get the Blizzard for free. *(Related guide: [How to Make the Perfect Dairy Queen Cone Curl](/articles/dairy-queen-perfect-cone-curl/))*
+It is the most famous parlor trick in all of fast food: when a Dairy Queen employee hands you a Blizzard, they are required to flip the cup completely upside down for a full second before passing it across the counter. If they don't flip it, corporate policy says you get the Blizzard for free. 
 
-I've watched hundreds of new DQ employees stare at a full Blizzard cup like it's a live grenade the first time they're told to invert it over a customer's outstretched hand. And I've also watched the aftermath when it goes wrong—a 16-ounce avalanche of Oreo soft serve splattering across a drive-thru counter while the customer and the employee both freeze in mutual horror. Here's the science behind why it usually works, what makes it fail, and what actually happens when it all goes sideways. *(Related guide: [What is the Five Guys \](/articles/five-guys-fry-calibration/))*
+I've watched hundreds of new DQ employees stare at a full Blizzard cup like it's a live grenade the first time they're told to invert it over a customer's outstretched hand. And I've also watched the aftermath when it goes wrong—a 16-ounce avalanche of Oreo soft serve splattering across a drive-thru counter while the customer and the employee both freeze in mutual horror. Here's the science behind why it usually works, what makes it fail, and what actually happens when it all goes sideways. 
 
 ## The Science Behind the Flip
 
 ![Technical diagram illustrating the vacuum seal and density forces holding soft serve inside an inverted cup](../../assets/images/dairy-queen-blizzard-flip/dairy-queen-blizzard-flip-vacuum-schematic.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-Dairy Queen soft serve is fundamentally different from the hard-pack ice cream you buy at a grocery store, and that difference is the entire reason the flip works. *(Related guide: [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+Dairy Queen soft serve is fundamentally different from the hard-pack ice cream you buy at a grocery store, and that difference is the entire reason the flip works. 
 
 Two factors keep the Blizzard in the cup:
 

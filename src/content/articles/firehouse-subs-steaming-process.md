@@ -10,24 +10,27 @@ relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "Have You Noticed the Steam Difference?"
+    answer: "If you’re a Firehouse regular, you already know what that steamer produces — the glossy, draped cheese melt, the tender meats, the soft bread that doesn’t fight you. But I’m curious whether you consciously noticed the difference the first time, or whether it just registered as “this sub is better” without you being able to pinpoint why."
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  Why Does Firehouse Subs Steam Their Sandwiches? (The Hot Sub Difference)
 
 
+If you’ve ever eaten a Firehouse Subs sandwich and thought “this feels different from every other hot sub I’ve had,” you’re not imagining things. Firehouse doesn’t toast their subs. They don’t bake them. They don’t grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. 
 
-If you’ve ever eaten a Firehouse Subs sandwich and thought “this feels different from every other hot sub I’ve had,” you’re not imagining things. Firehouse doesn’t toast their subs. They don’t bake them. They don’t grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
+Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you’ll notice a machine that looks nothing like the conveyor toaster at [Subway](/articles/chain/subway) or the flat-top grill at [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
 
-Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you’ll notice a machine that looks nothing like the conveyor toaster at Subway or the flat-top grill at [Jersey Mike’s](/articles/jersey-mikes-hot-sub-grill). It’s a conveyor steamer — a stainless steel box with a belt running through it and steam pouring out of the opening. That machine is the heart of the Firehouse operation, and it’s responsible for everything that separates a Firehouse sub from the competition. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
-
-I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to heating a sub is one of the smartest things I’ve seen in the sandwich segment. Here’s exactly how it works and why it matters. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to heating a sub is one of the smartest things I’ve seen in the sandwich segment. Here’s exactly how it works and why it matters. 
 
 ## How the Conveyor Steamer Actually Works
 
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It’s not a modified oven, not a repurposed bakery proofer — it’s specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
+
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
+
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
 
 Here’s the sequence: after the sandwich artist lays out the sliced meats and cheese on the open sub roll, the meat and cheese portion gets placed onto a small tray or directly onto the conveyor belt. The belt carries it through a steam chamber that runs at approximately 200°F. The ride takes roughly 30 to 45 seconds, depending on the location’s specific machine calibration and how heavily the sub is loaded.
 
@@ -159,33 +162,3 @@ Russell Roseberry
 10-Year QSR Veteran & Former Kitchen Manager
 
 Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### How to Memorize the Taco Bell Menu Build Cards Fast
-
-A veteran's system for quickly memorizing Taco Bell's massive menu using base builds, color-coded sc...
-
-](/articles/taco-bell-menu/)[
-
-### How to Make the Perfect Dairy Queen Cone Curl
-
-Mastering the signature Dairy Queen curl is the hardest skill for new employees. Learn the exact tie...
-
-](/articles/dairy-queen-perfect-cone-curl/)[
-
-### What Actually Happens During the Chipotle Grill Validation Test?
-
-Everything you need to know to pass the strict Chipotle Grill Validation test, from cut sizes to tem...
-
-](/articles/chipotle-grill-validation/)[
-
-### Why Dairy Queen Flips Blizzards Upside Down (And What Happens if it Spills)
-
-The science behind Dairy Queen's famous Blizzard flip, how overrun and blending technique prevent di...
-
-](/articles/dairy-queen-blizzard-flip/)
-
-[← Browse All Guides](/articles/)

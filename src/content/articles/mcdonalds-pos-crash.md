@@ -10,20 +10,26 @@ relatedArticles:
   - "mcdonalds-abs-system"
   - "taco-bell-drive-thru-timer"
   - "burger-king-expeditor-role"
+faq:
+  - question: "What About Mobile and Kiosk Orders?"
+    answer: "If the POS goes down, the self-order kiosks and the McDonald's app typically go down with it, since they all connect to the same back-end system. This actually helps in one way — it stops new digital orders from flooding in. But it also means angry customers who pre-paid on the app may show up expecting food that the store has no record of."
 ---
 
 
 
-McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
+McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't. 
 
-Here's the thing nobody tells you during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
+Here's the thing nobody tells you during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985. 
 
 ## The Manual Crash Kit
 
 ![Technical schematic of a McDonald's manual POS crash kit on a dark blue background](../../assets/images/mcdonalds-pos-crash/mcdonalds-pos-crash-kit-schematic.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator. *(Related guide: [What Is the Burger King Expeditor Role During a Rush?](/articles/burger-king-expeditor-role/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator. 
 
 - **Basic calculators**: Two or three of them, because one will inevitably have dead batteries when you need it most.
 - **Laminated tax charts**: The POS normally calculates local sales tax automatically. Without it, cashiers use these charts to manually look up the tax on every order total. I've seen new hires completely freeze when they realize they need to add tax by hand.

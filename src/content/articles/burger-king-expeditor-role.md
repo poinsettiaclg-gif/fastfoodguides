@@ -14,18 +14,21 @@ relatedArticles:
 
 
 
-During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and I can tell you that it is simultaneously the most stressful and most satisfying role in the entire building. *(Related guide: [How Does the Burger King Broiler Work, and Is It Dangerous?](/articles/burger-king-broiler/))*
+During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and I can tell you that it is simultaneously the most stressful and most satisfying role in the entire building. 
 
 ## The Bridge Between Kitchen and Customer
 
 ![Minimalist blueprint layout of a Burger King expeditor station and kitchen sightlines](../../assets/images/burger-king-expeditor-role/burger-king-expeditor-station-layout.webp)
 
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-The Expeditor does not take orders. They do not cook food. They do not touch a register. They stand at the exact center of the operation—right at the end of the sandwich chute, between the heated holding area and the bagging station—and they act as air traffic control for the entire restaurant. *(Related guide: [How Hard Is It to Clean the Burger King Broiler at Closing?](/articles/burger-king-broiler-closing/))*
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+The Expeditor does not take orders. They do not cook food. They do not touch a register. They stand at the exact center of the operation—right at the end of the sandwich chute, between the heated holding area and the bagging station—and they act as air traffic control for the entire restaurant. 
 
 Their sole job is to guarantee two things: **accuracy** and **speed**.
 
-The physical positioning of the Expo is deliberate and strategic. From their station, they can see the drive-thru order monitor, the front counter screen, the sandwich board, and the fry station simultaneously without turning their body. If they have to take more than two steps or turn around to check something, the station layout is wrong and needs to be reconfigured. I have personally rearranged bagging stations at stores where the Expo position was poorly designed, and the improvement in throughput was immediate. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
+The physical positioning of the Expo is deliberate and strategic. From their station, they can see the drive-thru order monitor, the front counter screen, the sandwich board, and the fry station simultaneously without turning their body. If they have to take more than two steps or turn around to check something, the station layout is wrong and needs to be reconfigured. I have personally rearranged bagging stations at stores where the Expo position was poorly designed, and the improvement in throughput was immediate. 
 
 During a peak rush, the Expo might verify and bag 60 to 80 orders per hour. Every single one has to be correct. That is roughly one order every 45 seconds to a minute, for two to three hours straight, with zero margin for error. One mistake cascades into a remake, which backs up every order behind it, which spikes drive-thru times, which makes the district manager's dashboard light up red.
 
@@ -78,7 +81,7 @@ When the Expo falls behind, the entire operation starts to collapse. Bags stack 
 
 ### How is the Expo role different from similar positions at other chains?
 
-The core concept is the same across most QSR chains—someone stands between the kitchen and the customer to verify accuracy and control flow. At Taco Bell, this role is called the [Linebacker](/articles/taco-bell-linebacker-role), and it functions similarly. The key difference at Burger King is the broiler complexity: because the broiler runs on a continuous conveyor, the Expo has to coordinate with a cooking system that has a fixed cycle time. You cannot speed up the broiler. The patties take exactly as long as they take. So the Expo has to think further ahead than they would at a chain with instant-cook equipment.
+The core concept is the same across most QSR chains—someone stands between the kitchen and the customer to verify accuracy and control flow. At [Taco Bell](/articles/chain/taco-bell), this role is called the [Linebacker](/articles/taco-bell-linebacker-role), and it functions similarly. The key difference at Burger King is the broiler complexity: because the broiler runs on a continuous conveyor, the Expo has to coordinate with a cooking system that has a fixed cycle time. You cannot speed up the broiler. The patties take exactly as long as they take. So the Expo has to think further ahead than they would at a chain with instant-cook equipment.
 
 ---
 

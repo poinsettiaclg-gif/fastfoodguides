@@ -10,17 +10,24 @@ relatedArticles:
   - "subway-bain-fill-line-rule"
   - "subway-wrap-folding"
   - "subway-pos-out-of-order"
+faq:
+  - question: "Why Does It Smell Like That?"
+    answer: "The legendary Subway smell comes from two sources. First, the dough has a higher sugar content than standard bakery bread, and that sugar caramelizes aggressively in the oven—producing a warm, almost cookie-like sweetness. Second, the Italian Herb seasoning bakes directly onto the silicone mats cycle after cycle, building up a residual scent layer that never fully comes off no matter how hard you scrub."
 ---
 
 
 
-You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
+You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over. 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
+Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
 
-The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize. *(Related guide: [How to Master the Subway POS When a Customer Orders Out of Order](/articles/subway-pos-out-of-order/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize. 
 
 ### Step 1: The Retarder (The Night Before)
 

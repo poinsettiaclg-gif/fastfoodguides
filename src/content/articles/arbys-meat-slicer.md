@@ -14,15 +14,19 @@ relatedArticles:
 
 
 
-Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef went viral. The internet collectively decided the meat was fake—some kind of liquid paste poured into a mold. I was managing a QSR kitchen at the time, and I remember a cashier showing me the photo on her phone during a slow Tuesday afternoon. "Is this real?" she asked. The answer is more interesting than the conspiracy theory, and the job of actually running the slicer station is one of the most tightly regulated positions in any fast food restaurant. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef went viral. The internet collectively decided the meat was fake—some kind of liquid paste poured into a mold. I was managing a QSR kitchen at the time, and I remember a cashier showing me the photo on her phone during a slow Tuesday afternoon. "Is this real?" she asked. The answer is more interesting than the conspiracy theory, and the job of actually running the slicer station is one of the most tightly regulated positions in any fast food restaurant. 
 
 ## The Truth About the Meat
 
 Yes, it is real beef. No, it does not arrive as a liquid.
 
-Every Arby's location receives its roast beef raw, vacuum-sealed in heavy plastic bags, submerged in a salty beef broth marinade. Each bag contains roughly 10 pounds of solid beef. The prep team pulls these bags from the walk-in cooler every morning and loads the raw roasts into a slow-cooking oven where they roast for approximately 3 to 4 hours. Once the internal temperature hits the corporate safety standard—typically around 145°F for whole cuts—the roasts are transferred into a specialized holding oven where they rest and stay hot throughout the day. *(Related guide: [The Jersey Mike's \](/articles/jersey-mikes-hot-sub-grill/))*
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-Here's the thing nobody tells you about the "liquid meat" myth: the marinade is what fooled everyone. When you tear open that vacuum-sealed bag for the first time, the raw beef is sitting in a pool of beef broth and dissolved gelatin. The meat is slippery, wet, and the liquid around it has a slightly gelatinous consistency. Out of context, it looks bizarre. Someone snapped a photo, slapped it on Reddit, and the myth went viral. But that liquid is just a standard brine marinade—salt, water, and natural flavorings. Once the roast spends four hours in the oven, it comes out looking and tasting exactly like the roast beef you would make at home, just scaled up to feed a few hundred people a day. *(Related guide: [KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?](/articles/kfc-original-vs-extra-crispy/))*
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+Every Arby's location receives its roast beef raw, vacuum-sealed in heavy plastic bags, submerged in a salty beef broth marinade. Each bag contains roughly 10 pounds of solid beef. The prep team pulls these bags from the walk-in cooler every morning and loads the raw roasts into a slow-cooking oven where they roast for approximately 3 to 4 hours. Once the internal temperature hits the corporate safety standard—typically around 145°F for whole cuts—the roasts are transferred into a specialized holding oven where they rest and stay hot throughout the day. 
+
+Here's the thing nobody tells you about the "liquid meat" myth: the marinade is what fooled everyone. When you tear open that vacuum-sealed bag for the first time, the raw beef is sitting in a pool of beef broth and dissolved gelatin. The meat is slippery, wet, and the liquid around it has a slightly gelatinous consistency. Out of context, it looks bizarre. Someone snapped a photo, slapped it on Reddit, and the myth went viral. But that liquid is just a standard brine marinade—salt, water, and natural flavorings. Once the roast spends four hours in the oven, it comes out looking and tasting exactly like the roast beef you would make at home, just scaled up to feed a few hundred people a day. 
 
 ## The Deli Slicer Station
 

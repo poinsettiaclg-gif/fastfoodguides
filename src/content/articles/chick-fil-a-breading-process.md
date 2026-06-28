@@ -14,11 +14,15 @@ relatedArticles:
 
 ## The Chicken Arrives Raw. Every Single Piece.
 
-This is the first thing that surprises most people about Chick-fil-A. Unlike the majority of fast food chains that receive their chicken pre-breaded, pre-cooked, or flash-frozen from a factory, **Chick-fil-A receives raw, unfrozen chicken breast filets** at every single location. *(Related guide: [How Chick-fil-A Makes Their Lemonade — The Hand-Squeezed Morning Process](/articles/chick-fil-a-lemonade/))*
+This is the first thing that surprises most people about Chick-fil-A. Unlike the majority of fast food chains that receive their chicken pre-breaded, pre-cooked, or flash-frozen from a factory, **Chick-fil-A receives raw, unfrozen chicken breast filets** at every single location. 
 
-Every piece of chicken you eat there was hand-breaded in that specific restaurant, by an actual human being, earlier that day or within the last few hours. This is not marketing language. This is the operational reality, and it has massive implications for how their kitchen functions. *(Related guide: [How the Chick-fil-A iPOS Drive-Thru System Works](/articles/chick-fil-a-ipos-system/))*
+> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-The reason most fast food chicken tastes roughly the same everywhere — and the reason Chick-fil-A tastes noticeably different — comes down to this single operational decision. Hand-breading in-house is significantly more labor-intensive, more expensive, and more prone to human error. But it produces a texture and flavor profile that factory-processed chicken simply cannot replicate. *(Related guide: [Why Does Chick-fil-A Have Employees Standing Outside With Tablets?](/articles/chick-fil-a-drive-thru-tablets/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+Every piece of chicken you eat there was hand-breaded in that specific restaurant, by an actual human being, earlier that day or within the last few hours. This is not marketing language. This is the operational reality, and it has massive implications for how their kitchen functions. 
+
+The reason most fast food chicken tastes roughly the same everywhere — and the reason Chick-fil-A tastes noticeably different — comes down to this single operational decision. Hand-breading in-house is significantly more labor-intensive, more expensive, and more prone to human error. But it produces a texture and flavor profile that factory-processed chicken simply cannot replicate. 
 
 ## The Milk Wash: Step One
 
@@ -51,7 +55,7 @@ The difference between a perfectly breaded filet and a mediocre one is entirely 
 
 ## The Pressure Fryer: Step Three
 
-This is the piece of equipment that truly separates Chick-fil-A from every other chicken chain. They use **Henny Penny pressure fryers** — the same fundamental technology that Colonel Sanders originally used at KFC before KFC largely moved away from them for speed reasons.
+This is the piece of equipment that truly separates Chick-fil-A from every other chicken chain. They use **Henny Penny pressure fryers** — the same fundamental technology that Colonel Sanders originally used at [KFC](/articles/chain/kfc) before KFC largely moved away from them for speed reasons.
 
 ### How Pressure Frying Works
 

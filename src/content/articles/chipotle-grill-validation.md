@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Working the grill at Chipotle is widely considered the hardest station in the restaurant. You are the engine of the entire operation. If the grill goes down—if you fall behind on chicken, run out of rice, or let the fajita veggies die—the entire line stops moving and every ticket in the restaurant backs up. I've watched lunch rushes collapse in under three minutes because the grill cook got overwhelmed and couldn't recover. *(Related guide: [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut/))*
+Working the grill at Chipotle is widely considered the hardest station in the restaurant. You are the engine of the entire operation. If the grill goes down—if you fall behind on chicken, run out of rice, or let the fajita veggies die—the entire line stops moving and every ticket in the restaurant backs up. I've watched lunch rushes collapse in under three minutes because the grill cook got overwhelmed and couldn't recover. 
 
-Because the role is that critical, Chipotle doesn't just hand it to anyone. You have to earn it by passing a rigorous practical exam called Grill Validation. If you're preparing for your validation day, here's exactly what the evaluator will be watching for—and the things that trip up most people. *(Related guide: [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/))*
+Because the role is that critical, Chipotle doesn't just hand it to anyone. You have to earn it by passing a rigorous practical exam called Grill Validation. If you're preparing for your validation day, here's exactly what the evaluator will be watching for—and the things that trip up most people. 
 
 ## What Grill Validation Actually Looks Like
 
-Validation is not a written test. It is not a multiple-choice quiz. It is a live, hands-on performance evaluation where a manager—usually your General Manager, sometimes the Field Leader—shadows you during a real shift with a printed checklist on a clipboard. They are not jumping in to help you. They are not cooking alongside you. They are standing behind you, watching every move you make, and grading you in real time. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+Validation is not a written test. It is not a multiple-choice quiz. It is a live, hands-on performance evaluation where a manager—usually your General Manager, sometimes the Field Leader—shadows you during a real shift with a printed checklist on a clipboard. They are not jumping in to help you. They are not cooking alongside you. They are standing behind you, watching every move you make, and grading you in real time. 
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
+
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
 Here's the thing nobody tells you: they intentionally schedule validation during a peak rush period. Lunch. Sometimes dinner. They want to see you perform under genuine, full-throttle pressure—not during a dead Tuesday afternoon when orders trickle in one at a time. If you can't keep the grill stocked and the line fed while 40 customers are queued up, you are not ready for the role. The observation period typically covers 1.5 to 2.5 hours of continuous work, so they're looking for consistency over time, not just a single perfect batch.
 

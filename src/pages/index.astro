@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from 'astro:content';
+import { getChainEmoji, getTopicEmoji, slugifyChain, slugifyTopic } from '../utils';
 
 const posts = (await getCollection('articles')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -42,61 +43,6 @@ const topics = Object.entries(topicCounts)
 	.sort((a, b) => b[1] - a[1])
 	.map(([name, count]) => ({ name, count }));
 
-const chainEmojis: Record<string, string> = {
-	"McDonald's": '🍟',
-	'Burger King': '🍔',
-	"Wendy's": '🟥',
-	'Taco Bell': '🌮',
-	"Chick-fil-A": '🐔',
-	'Subway': '🥖',
-	'Starbucks': '☕',
-	"Popeyes": '🍗',
-	'KFC': '🪣',
-	'Chipotle': '🌯',
-	"Sonic": '🧊',
-	"Dairy Queen": '🍦',
-	"Panera Bread": '🍞',
-	"Domino's": '🍕',
-	"Pizza Hut": '🍕',
-	"Five Guys": '🥤',
-	"In-N-Out": '🌴',
-	"Jack in the Box": '📦',
-	"Whataburger": '🧡',
-	"Arby's": '🥩',
-	"Raising Cane's": '🍗',
-	"Panda Express": '🐼',
-	"Wingstop": '🍗',
-	"Culver's": '🧈',
-	"Zaxby's": '🍗',
-	"Shake Shack": '🍔',
-};
-
-function getChainEmoji(chainName: string): string {
-	return chainEmojis[chainName] || '🍽️';
-}
-
-function slugifyChain(chain: string): string {
-	return chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-}
-
-const topicEmojis: Record<string, string> = {
-	'Chicken': '🍗',
-	'Burgers': '🍔',
-	'Pizza': '🍕',
-	'Mexican': '🌮',
-	'Sandwiches': '🥪',
-	'Breakfast & Coffee': '☕',
-	'Other Chains': '🍽️',
-	'General': '🍔'
-};
-
-function getTopicEmoji(topicName: string): string {
-	return topicEmojis[topicName] || '🍽️';
-}
-
-function slugifyTopic(topic: string): string {
-	return topic.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-}
 ---
 
 <!doctype html>

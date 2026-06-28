@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
+Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart. 
 
-Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. New hires stare at the build cards posted above the line and feel their brains short-circuit. But here is the secret that every veteran Food Champion knows, and that I wish someone had told me on day one: Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
+Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. New hires stare at the build cards posted above the line and feel their brains short-circuit. But here is the secret that every veteran Food Champion knows, and that I wish someone had told me on day one: Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. 
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
-The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
+The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
 
 - **The Supreme Base:** Whenever an item says "Supreme"—Taco Supreme, Chalupa Supreme—it almost always means you take the standard build and add sour cream and diced tomatoes. That is it. Two extra ingredients.
 - **The Burrito Base:** Most standard burritos start with a flour tortilla, a scoop of beans, a scoop of beef, or both. The differentiator is the sauce and one or two unique toppings.

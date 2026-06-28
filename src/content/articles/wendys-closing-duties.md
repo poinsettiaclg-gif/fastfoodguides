@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-Closing a fast food restaurant is a grueling, exhausting process that separates the new hires from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors. You aren't filtering the fryers. You aren't doing the [Frosty machine boil-out](/articles/wendys-frosty-machine-boil-out). Your sole mission is to break down the sandwich station, secure the food, sanitize everything, and leave the boards ready for the morning crew. *(Related guide: [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
+Closing a fast food restaurant is a grueling, exhausting process that separates the new hires from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors. You aren't filtering the fryers. You aren't doing the [The Wendy's Frosty Machine \](/articles/wendys-frosty-machine-boil-out/))*
 
-Here's the exact checklist, from the moment the pre-close starts until the manager unlocks the back door and lets you leave. *(Related guide: [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
+Here's the exact checklist, from the moment the pre-close starts until the manager unlocks the back door and lets you leave. 
 
 ## Phase 1: The Pre-Close (Starting Around 10:00 PM)
 
-The secret to getting out early is pre-closing. If you wait until the store officially closes to start cleaning, you are going to be there until midnight or later, watching your manager get progressively more irritated. The best closers start chipping away at tasks during slow moments in the final hour. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+The secret to getting out early is pre-closing. If you wait until the store officially closes to start cleaning, you are going to be there until midnight or later, watching your manager get progressively more irritated. The best closers start chipping away at tasks during slow moments in the final hour. 
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
 
 - **Condense the Pans:** If you have two half-empty pans of tomatoes, combine them into one clean pan. This frees up the dirty pan for the dishwasher to wash early, getting it off your plate entirely.
 - **Wipe Down the Backsplash:** Take a sanitizer towel and thoroughly clean the stainless steel backsplash behind your station. This is one of those tasks that takes 60 seconds during pre-close but somehow takes five minutes when you're rushing at the end.

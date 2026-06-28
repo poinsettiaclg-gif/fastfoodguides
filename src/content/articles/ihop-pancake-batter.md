@@ -12,20 +12,20 @@ relatedArticles:
   - "wendys-chili-leftover-hamburgers"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  Does IHOP Actually Make Their Pancake Batter From Scratch?
 
 
+If you’ve ever eaten a stack of IHOP’s Original Buttermilk pancakes and thought “there’s no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother’s recipe does. But they’re also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for. 
 
-If you’ve ever eaten a stack of IHOP’s Original Buttermilk pancakes and thought “there’s no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother’s recipe does. But they’re also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for. *(Related guide: [How Does McDonald's Make Their Fries? (The Full Fry Station Process)](/articles/mcdonalds-fry-station/))*
-
-I spent time working alongside IHOP kitchen staff during my years in the QSR industry, and I want to walk you through exactly what happens behind the pass—from the moment that dry mix bag gets opened to the second a finished stack hits the plate. There are specific details about temperature, consistency, pour technique, and timing that most “IHOP exposed!” posts online get completely wrong. *(Related guide: [How Chick-fil-A's Breading Process Works — The 3-Step System Behind Every Sandwich](/articles/chick-fil-a-breading-process/))*
+I spent time working alongside IHOP kitchen staff during my years in the QSR industry, and I want to walk you through exactly what happens behind the pass—from the moment that dry mix bag gets opened to the second a finished stack hits the plate. There are specific details about temperature, consistency, pour technique, and timing that most “IHOP exposed!” posts online get completely wrong. 
 
 ## The Batter: Proprietary Dry Mix, Not Scratch
 
-Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+Let’s get this out of the way up front: IHOP uses a proprietary dry pancake mix. Think of it as a commercial-grade cousin of Bisquick—a pre-blended combination of flour, leavening agents, powdered dairy components, salt, sugar, and a few other ingredients that are part of the brand’s closely guarded recipe. The mix arrives at each location in large bags, typically 25 or 50 pounds, stacked on pallets from the distributor. 
+
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
 Each bag is labeled with IHOP’s specific product code. You can’t walk into a restaurant supply store and buy this stuff. It’s manufactured exclusively for the chain and the exact formulation is proprietary. Employees don’t get a full ingredient breakdown beyond what’s on the allergen sheet—they just know what the bag looks like and how to use it.
 
@@ -129,34 +129,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### What is the Papa John's "Dough Spinner" (And Is It Cheating?)
-
-An insider look at the Papa John's Dough Spinner machine — how it works, why veterans hate it, and w...
-
-](/articles/papa-johns-dough-spinner/)[
-
-### How Does the Little Caesars Hot-N-Ready System Actually Work?
-
-Inside the Little Caesars Hot-N-Ready system: CVap holding cabinets, the 30-minute clock marking sys...
-
-](/articles/little-caesars-hot-n-ready-system/)[
-
-### How Does Jimmy John's Actually Deliver 'Freaky Fast'?
-
-An insider breakdown of how Jimmy John's achieves its legendary speed — from the 5-minute delivery r...
-
-](/articles/jimmy-johns-freaky-fast/)[
-
-### How Hard Is It to Clean the Burger King Broiler at Closing?
-
-A brutally honest walkthrough of the most dreaded closing task in fast food—breaking down, scrubbing...
-
-](/articles/burger-king-broiler-closing/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

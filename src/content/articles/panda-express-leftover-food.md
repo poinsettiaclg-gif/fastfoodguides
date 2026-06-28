@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Walk into any Panda Express at 6:00 PM and the steam table is a beautiful wall of glistening Orange Chicken, sizzling Beijing Beef, and heaping mounds of Chow Mein. The presentation is intentional — corporate wants those pans looking full and abundant because a full steam table sells more food than a half-empty one. But here's the operational reality nobody talks about: all of that visual abundance creates a massive waste problem the moment the last customer walks out. *(Related guide: [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/))*
+Walk into any Panda Express at 6:00 PM and the steam table is a beautiful wall of glistening Orange Chicken, sizzling Beijing Beef, and heaping mounds of Chow Mein. The presentation is intentional — corporate wants those pans looking full and abundant because a full steam table sells more food than a half-empty one. But here's the operational reality nobody talks about: all of that visual abundance creates a massive waste problem the moment the last customer walks out. 
 
-I've managed closing shifts where we threw away enough perfectly good food to feed a dozen families. It's one of the most frustrating parts of the job, and it's governed by a system of policies, metrics, and consequences that most customers never see. *(Related guide: [How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)](/articles/wendys-chili-leftover-hamburgers/))*
+I've managed closing shifts where we threw away enough perfectly good food to feed a dozen families. It's one of the most frustrating parts of the job, and it's governed by a system of policies, metrics, and consequences that most customers never see. 
 
 ## The Strict Waste Logging Policy
 
 ![Flat vector technical diagram of a digital food scale and measuring bins for waste logging](../../assets/images/panda-express-leftover-food/panda-express-food-waste-scale-diagram.webp)
 
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound. 
 
 Why does corporate care this much about leftover Orange Chicken? Because food cost is the single biggest metric a manager is judged on. If the Waste Log shows that you're throwing away 5 pounds of Orange Chicken every night, it means someone — usually the closing [Wok Chef](/articles/panda-express-wok-chef) — is cooking too much food too close to closing time.
 

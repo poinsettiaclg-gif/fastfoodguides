@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster. *(Related guide: [What Is the Taco Bell \](/articles/taco-bell-linebacker-role/))*
+When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster. 
 
-This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Here is exactly how the system works, why it matters more than almost any other metric in the building, and how experienced crews bend the rules to keep those numbers green. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
+This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Here is exactly how the system works, why it matters more than almost any other metric in the building, and how experienced crews bend the rules to keep those numbers green. 
 
 ## The Sensors and the Zones
 
 ![Technical diagram of a Taco Bell drive-thru induction loop sensor](../../assets/images/taco-bell-drive-thru-timer/taco-bell-drive-thru-induction-loop.webp)
 
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone. *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone. 
 
 There are typically three zones being tracked:
 

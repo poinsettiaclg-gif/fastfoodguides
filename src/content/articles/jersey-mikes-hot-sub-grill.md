@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way) finish. But tucked behind the deli counter, away from the customer's view, there's a flat-top grill that runs an entirely different operation. If you get cross-trained to work the grill, you're stepping out of the deli world and into traditional short-order cooking—and the learning curve is steep. *(Related guide: [What is \](/articles/jersey-mikes-mikes-way/))*
+Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [What is \](/articles/jersey-mikes-mikes-way/))*
 
-The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef on a real flat-top grill. There's nothing pre-cooked, microwaved, or processed about it. And that distinction is exactly what makes this station both the most rewarding and the most physically punishing position in the store. *(Related guide: [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/))*
+The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef on a real flat-top grill. There's nothing pre-cooked, microwaved, or processed about it. And that distinction is exactly what makes this station both the most rewarding and the most physically punishing position in the store. 
 
 ## Raw Beef, Raw Chicken, and Zero Margin for Error
 
 ![Flat technical layout of a Jersey Mike's flat-top grill showing strictly separated raw beef and raw chicken cooking zones](../../assets/images/jersey-mikes-hot-sub-grill/jersey-mikes-grill-station-meat-zones.webp)
 
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-The first thing that hits you about the grill station is the cross-contamination protocol. Because you're handling raw beef and raw chicken in close proximity to a deli counter that serves ready-to-eat cold subs, the safety requirements are intense—and non-negotiable. *(Related guide: [What Actually Happens During the Chipotle Grill Validation Test?](/articles/chipotle-grill-validation/))*
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+The first thing that hits you about the grill station is the cross-contamination protocol. Because you're handling raw beef and raw chicken in close proximity to a deli counter that serves ready-to-eat cold subs, the safety requirements are intense—and non-negotiable. 
 
 The raw steak arrives in paper-wrapped pucks stored in a dedicated cooler section, completely separate from deli meats. When you pull a puck, you handle it with one set of gloves, place it on the grill, then immediately strip those gloves off and put on a fresh pair before touching anything else. The same principle applies to raw chicken—it has its own designated grill zone, its own spatulas, and its own cutting tools. If you accidentally grab the chicken spatula and then reach toward the beef zone, you need to re-glove and sanitize. No exceptions.
 

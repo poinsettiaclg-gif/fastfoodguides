@@ -14,13 +14,17 @@ relatedArticles:
 
 
 
-The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end. *(Related guide: [The Subway Bread Baking Process: Why It Smells Like That](/articles/subway-bread-baking-process/))*
+The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end. 
 
-At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. Here is how to survive the register without overcharging anyone or freezing up during a rush. *(Related guide: [What is the Subway \](/articles/subway-bain-fill-line-rule/))*
+At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. Here is how to survive the register without overcharging anyone or freezing up during a rush. 
 
 ## The 3-Step Core Ring: The Foundation of Everything
 
-The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: *(Related guide: [The Secret to Folding a Subway Wrap Without Tearing It](/articles/subway-wrap-folding/))*
+The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: 
+
+> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
 
 1. **Size:** 6-Inch, Footlong, or Footlong Pro (Double Meat).
 2. **Bread:** Italian, Hearty Multigrain, Italian Herbs & Cheese, Flatbread, or whatever options your location carries.

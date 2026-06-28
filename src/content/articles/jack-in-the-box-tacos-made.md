@@ -14,15 +14,19 @@ relatedArticles:
 
 
 
-The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. *(Related guide: [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/))*
+The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. 
 
-The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard. *(Related guide: [Does Five Guys Really Not Have Any Freezers?](/articles/five-guys-no-freezers/))*
+The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard. 
 
 ## They Arrive Pre-Stuffed and Frozen
 
-Here's the biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut. *(Related guide: [The Popeyes Chicken Battering Process: Why It's So Crispy](/articles/popeyes-chicken-battering-process/))*
+Here's the biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut. 
 
-The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from Taco Bell, reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from [Taco Bell](/articles/chain/taco-bell), reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
 
 I've watched new cooks open their first box of frozen Jack tacos and genuinely not understand what they were looking at. "These are the tacos?" Yes. Those flat, frozen tortilla cards with a mysterious filling inside them are about to become the cult-classic snack that customers order by the dozen at 1 AM.
 

@@ -12,22 +12,22 @@ relatedArticles:
   - "mcdonalds-abs-system"
 ---
 
-2.  \>
-4.  \>
-6.  \>
 7.  How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
 
+McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve. 
 
-McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve. *(Related guide: [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
-
-I’ve worked fry station at McDonald’s, and I can tell you that the process is simultaneously simpler and more precise than most people expect. There’s no secret chef technique. There’s no magic seasoning blend applied in the back. What there is, however, is a factory process that does most of the heavy lifting before the fries ever reach the restaurant, and an in-store procedure that’s engineered down to the second. *(Related guide: [Why Is the McDonald's Ice Cream Machine Always Broken? (The Real Reason)](/articles/mcdonalds-ice-cream-machine/))*
+I’ve worked fry station at McDonald’s, and I can tell you that the process is simultaneously simpler and more precise than most people expect. There’s no secret chef technique. There’s no magic seasoning blend applied in the back. What there is, however, is a factory process that does most of the heavy lifting before the fries ever reach the restaurant, and an in-store procedure that’s engineered down to the second. 
 
 Here’s the full picture — from potato field to the cardboard sleeve in your bag.
 
 ## What Happens Before the Fries Reach the Restaurant
 
-Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do. *(Related guide: [How Does the McDonald's ABS (Automated Beverage System) Work?](/articles/mcdonalds-abs-system/))*
+Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do. 
+
+> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
+
+> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. The potatoes are sourced from farms across the Pacific Northwest, the Midwest, and parts of Canada.
 
@@ -148,34 +148,4 @@ Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
 
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
-
-## More Insider Guides
-
-[
-
-### How Does the Arby's Slicer Work (And Is the Meat Real)?
-
-Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and r...
-
-](/articles/arbys-meat-slicer/)[
-
-### KFC Original Recipe vs. Extra Crispy: How Are They Cooked Differently?
-
-The real difference between KFC Original Recipe and Extra Crispy isn't seasoning—it's completely dif...
-
-](/articles/kfc-original-vs-extra-crispy/)[
-
-### How Does the Burger King Broiler Work, and Is It Dangerous?
-
-The BK flame broiler is a conveyor belt of fire � patties ride through open gas flames and come out ...
-
-](/articles/burger-king-broiler/)[
-
-### The Bizarre Way Jack in the Box Tacos Are Made
-
-Ever wonder why Jack in the Box tacos look fried shut? Learn the weird frozen-to-fryer process, the ...
-
-](/articles/jack-in-the-box-tacos-made/)
-
-[← Browse All Guides](/articles/)
+Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new hires, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

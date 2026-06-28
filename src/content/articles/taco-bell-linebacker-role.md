@@ -14,16 +14,19 @@ relatedArticles:
 
 
 
-During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker. *(Related guide: [How Does the Taco Bell Drive-Thru Timer Actually Work?](/articles/taco-bell-drive-thru-timer/))*
+During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker. 
 
-If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. *(Related guide: [How to Memorize the Taco Bell Menu Build Cards Fast](/articles/taco-bell-menu/))*
+If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. 
 
 ## How the Makeline Is Divided
 
 ![Flat vector diagram of the Taco Bell makeline ingredient pan layout](../../assets/images/taco-bell-linebacker-role/taco-bell-makeline-ingredient-layout.webp)
 
+> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles: *(Related guide: [How Does Taco Bell Rehydrate Their Beans?](/articles/taco-bell-rehydrate-beans/))*
+> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles: 
 
 - **The Starter** steams the tortillas and flat shells, adds the protein (beef, chicken, or steak), and pushes the partially built item down the line.
 - **The Stuffer** adds the cold ingredients—lettuce, cheese, tomatoes, sour cream—wraps or folds the item, and places it in the packaging.
@@ -83,7 +86,7 @@ There is no formal certification, but you generally need to have worked the Star
 
 ### Is the Linebacker role unique to Taco Bell?
 
-The name "Linebacker" is specific to Taco Bell's operational playbook, but the concept exists at virtually every high-volume fast food chain. McDonald's calls a similar role the "Initiator" or "Runner." Chick-fil-A has a designated restocking position. Starbucks calls it the [Customer Support cycle](/articles/starbucks-customer-support-cycle). The principle is universal: keep the food builders building and have a dedicated person handle everything else.
+The name "Linebacker" is specific to Taco Bell's operational playbook, but the concept exists at virtually every high-volume fast food chain. [McDonald's](/articles/chain/mcdonalds) calls a similar role the "Initiator" or "Runner." [Chick-fil-A](/articles/chain/chick-fil-a) has a designated restocking position. [Starbucks](/articles/chain/starbucks) calls it the [Customer Support cycle](/articles/starbucks-customer-support-cycle). The principle is universal: keep the food builders building and have a dedicated person handle everything else.
 
 ---
 
