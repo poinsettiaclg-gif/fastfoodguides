@@ -2,6 +2,8 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { Image } from 'astro:assets';
+import authorLogo from '../assets/images/author-rr-logo.png';
 
 const title = 'About | Fast Food Guides';
 const description =
@@ -29,7 +31,7 @@ const description =
 			<!-- Founder Card -->
 			<section class="founder-card" aria-label="Founder information">
 				<div class="founder-card-inner">
-					<img src="/images/author-rr-logo.png" alt="Russell Roseberry monogram logo" class="avatar" width="80" height="80" />
+					<Image src={authorLogo} alt="Russell Roseberry monogram logo" class="avatar" width={80} height={80} />
 					<div class="founder-info">
 						<h2 class="founder-name">Russell Roseberry</h2>
 						<p class="founder-role">Founder &amp; Head Writer</p>
