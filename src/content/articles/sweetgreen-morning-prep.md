@@ -86,13 +86,13 @@ Even with the mechanical assistance of the Robot Coupe, the morning prep shift i
 
 Every single one of those boxes has to be lifted, carried, unpacked, washed, processed, panned up, labeled, and stored. We are talking about moving thousands of pounds of weight over the course of a four-hour shift. 
 
-And then there are the items that *do* require hand prep. You can’t put a cherry tomato through a Robot Coupe unless you want tomato puree. Those have to be halved by hand. Apples for seasonal salads need to be carefully diced to avoid bruising. Avocados—the most fickle ingredient in any kitchen—must be meticulously halved, pitted, and sliced right before service to prevent oxidation. It’s a similar pressure to what you see with [Chipotle Guacamole](/articles/chipotle-guacamole/) prep, where managing the browning of the avocado is a constant battle against time and oxygen.
+And then there are the items that *do* require hand prep. You can’t put a cherry tomato through a Robot Coupe unless you want tomato puree. Those have to be halved by hand. Apples for seasonal salads need to be carefully diced to avoid bruising. Avocados—the most fickle ingredient in any kitchen—must be meticulously halved, pitted, and sliced right before service to prevent oxidation. It’s a similar pressure to what you see with [Chipotle Guacamole](/articles/chipotle-[guacamole](/articles/chipotle-guacamole/)/) prep, where managing the browning of the avocado is a constant battle against time and oxygen.
 
 The kitchen manager acts as a conductor during this time, calling out times and temperatures. "I need the roasted sweet potatoes in the oven by 8:15!" "What's the temp on that washed arugula?" "We are behind on cabbage, let's move!"
 
 It is a chaotic, loud, and incredibly focused environment. There is no time for chatting. Every minute is accounted for. If the prep team falls behind by even 15 minutes, the ripple effect will completely derail the lunch rush.
 
-## The Assembly Line and The 10:00 AM Deadline
+## The [Assembly Line](/articles/cava-assembly-line/) and The 10:00 AM Deadline
 
 As the morning progresses, the raw ingredients are transformed. The ovens are filled with sheet pans of seasoned sweet potatoes, portobello mushrooms, and blackened chicken. The air smells like roasted garlic and caramelized onions. 
 

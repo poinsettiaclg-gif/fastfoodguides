@@ -17,7 +17,7 @@ This commitment to fresh food means that the back-of-house operations at Five Gu
 
 Here is exactly what happens during the Five Guys morning prep shift, and why your burger starts its life as a hand-rolled meatball.
 
-![Five Guys Meat Prep](/images/five-guys-meat-prep.png)
+![Five Guys Meat Prep](../../assets/images/five-guys-meat-prep.png)
 
 ## The 5 AM Arrival
 

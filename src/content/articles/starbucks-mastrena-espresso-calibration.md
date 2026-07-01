@@ -17,7 +17,7 @@ The jump from the original Mastrena to the Mastrena II was a massive technologic
 
 But the real magic of the Mastrena II happens behind the digital screen. Here is how veterans run the hot bar, pull the perfect shot, and keep the machine from locking up in the middle of a rush.
 
-![Starbucks Mastrena Machine](/images/starbucks-mastrena-machine.png)
+![Starbucks Mastrena Machine](../../assets/images/starbucks-mastrena-machine.png)
 
 ## The 18 to 23 Second Rule
 

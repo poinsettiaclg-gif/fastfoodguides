@@ -3,12 +3,54 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
+import fs from 'fs';
+import path from 'path';
+
+// Pre-calculate lastmod dates for sitemap
+const articlesDir = path.join(process.cwd(), 'src', 'content', 'articles');
+const articleDates = new Map();
+
+try {
+	const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+	for (const file of files) {
+		const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
+		const slugMatch = file.replace(/\.mdx?$/, '');
+		
+		// Find updatedDate or pubDate
+		const updatedMatch = content.match(/updatedDate:\s*"([^"]+)"/);
+		const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
+		
+		if (updatedMatch) {
+			articleDates.set(slugMatch, new Date(updatedMatch[1]));
+		} else if (pubMatch) {
+			articleDates.set(slugMatch, new Date(pubMatch[1]));
+		}
+	}
+} catch (e) {
+	console.error('Failed to parse article dates for sitemap', e);
+}
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://fastfoodguides.com',
 	trailingSlash: 'always',
-	integrations: [mdx(), sitemap()],
+	integrations: [
+		mdx(), 
+		sitemap({
+			serialize(item) {
+				// Parse URL to find the slug
+				const urlPath = new URL(item.url).pathname;
+				if (urlPath.startsWith('/articles/') && !urlPath.startsWith('/articles/chain/') && !urlPath.startsWith('/articles/topic/')) {
+					// Extract slug from /articles/slug/
+					const slug = urlPath.replace('/articles/', '').replace(/\/$/, '');
+					if (articleDates.has(slug)) {
+						item.lastmod = articleDates.get(slug).toISOString();
+					}
+				}
+				return item;
+			}
+		})
+	],
 	prefetch: { defaultStrategy: 'viewport' },
 	fonts: [
 		{

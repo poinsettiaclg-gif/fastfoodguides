@@ -17,7 +17,7 @@ KFC does things differently. While they do use a proprietary seasoning packet as
 
 When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown sludge at the bottom of the deep fryer is actually the foundation of a beloved side dish is a rite of passage. Here is exactly how the crackling is harvested, processed, and turned into KFC gravy.
 
-![KFC Gravy Crackling Station](/images/kfc-gravy-crackling.png)
+![KFC Gravy Crackling Station](../../assets/images/kfc-gravy-crackling.png)
 
 ## Harvesting the Crackling
 

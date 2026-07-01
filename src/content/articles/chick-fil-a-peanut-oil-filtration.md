@@ -25,7 +25,7 @@ Peanut oil is expensive. It is subject to massive crop market fluctuations. It r
 
 > **Russell's Note:** I've run kitchens that used cheap soybean oil to save on food costs. By 2:00 PM on a Friday, the entire kitchen smells like burnt fish, the oil is completely black, and the chicken tastes like a tire. You cannot fake good oil.
 
-In this guide, we are going to break down the exact operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes. We'll look at the engineering of the Henny Penny pressure fryers, the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
+In this guide, we are going to break down the exact operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes. We'll look at the engineering of the Henny Penny [pressure fryers](/articles/kfc-pressure-fryers/), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
 
 ## The Chemistry of Peanut Oil: Smoke Points and Flavor Transfer
 

@@ -17,7 +17,7 @@ I was running kitchens when this rollout happened. Let me tell you, it was the b
 
 It wasn’t just a menu update—it was a total tear-down of the standard operating procedure. Here is exactly how the grill team manages the fresh beef process today, from the blue gloves to the clamshell grill.
 
-![McDonald's Platen Grill](/images/mcdonalds-platen-grill.png)
+![McDonald's Platen Grill](../../assets/images/mcdonalds-platen-grill.png)
 
 ## The Blue Glove Rule
 

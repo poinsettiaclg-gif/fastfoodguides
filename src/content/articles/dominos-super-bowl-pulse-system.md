@@ -71,7 +71,7 @@ This final bump:
 1. Updates the customer's Tracker to "Quality Check."
 2. Sends the order to the Dispatch screen for the drivers.
 
-## Algorithmic Dispatching and the 20-Bank Rule
+## Algorithmic Dispatching and the 20-[Bank Rule](/articles/dominos-20-bank-rule/)
 
 Once the food is boxed and sitting under the heat lamps, it is at the mercy of the dispatch system. 
 

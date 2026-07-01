@@ -34,7 +34,7 @@ The entire operation hinges on two positions: the fry cook and the sauce tosser.
 
 ### The Equipment
 
-BWW locations run Henny Penny or Pitco high-volume open fryers — these aren't the sealed pressure fryers you'd find at a place like [KFC's pressure fryers](/articles/kfc-pressure-fryers/). They're open-well units designed for high throughput. A typical BWW kitchen has between 4 and 6 fryer wells, each holding multiple baskets. Oil temperature is maintained between 350°F and 360°F, and the fryer banks are the single biggest energy draw in the building.
+BWW locations run Henny Penny or Pitco high-volume open fryers — these aren't the sealed [pressure fryers](/articles/kfc-pressure-fryers/) you'd find at a place like [KFC's pressure fryers](/articles/kfc-pressure-fryers/). They're open-well units designed for high throughput. A typical BWW kitchen has between 4 and 6 fryer wells, each holding multiple baskets. Oil temperature is maintained between 350°F and 360°F, and the fryer banks are the single biggest energy draw in the building.
 
 ### Traditional Bone-In Wings
 
