@@ -1,6 +1,6 @@
 ---
-title: "How is Wendy's Chili Actually Made? (The Truth About the Leftover Hamburgers)"
-description: "Former kitchen manager reveals exactly how Wendy's turns leftover grill patties into their famous chili, including the chopping, freezing, and simmering process."
+title: "Wendy's Chili Is Made From Leftover Hamburgers"
+description: "Wendy's chili is made from burger patties that sat on the grill too long. Here's how the meat is stored, chopped, and added to the chili base."
 pubDate: "2026-05-11"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

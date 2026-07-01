@@ -1,6 +1,6 @@
 ---
-title: "What's Actually in Raising Cane's Sauce?"
-description: "Raising Cane's sauce is a mix of mayo, ketchup, Worcestershire, garlic powder, and black pepper — but the exact ratio is what makes it impossible to perfectly replicate at home."
+title: "Raising Cane's Sauce: The Recipe and Prep Process"
+description: "Raising Cane's sauce is made in-house daily. Here's what goes into it, the mixing process, and why every location has to get it exactly right."
 pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "The Applebee's Microwave Myth: What They Actually Cook on the Grill"
-description: "Does Applebee's microwave all their food? A kitchen manager breaks down exactly what gets nuked, what gets grilled, and how their kitchen really operates."
+title: "Applebee's Microwave: What Gets Reheated"
+description: "Applebee's uses microwaves for some dishes. Here's exactly which items get reheated and how it affects the final meal you're served."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

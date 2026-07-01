@@ -1,6 +1,6 @@
 ---
-title: "How to Master the Starbucks Cold Bar and Frappuccino Sequence"
-description: "A barista's guide to surviving the Starbucks Cold Bar, mastering the Frappuccino build sequence, and understanding CBS vs. Hot Bar pumps."
+title: "Starbucks Cold Bar: How Frappuccinos Are Built"
+description: "Starbucks Frappuccinos require a specific layering and blending sequence. Here's how the cold bar station is set up and timed during peak hours."
 pubDate: "2026-04-24"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "Why Does Firehouse Subs Steam Their Sandwiches? (The Hot Sub Difference)"
-description: "Firehouse Subs uses a conveyor steamer � not a toaster oven � to heat their sandwiches. That's why the cheese melts perfectly without the bread going dry and crunchy."
+title: "Firehouse Subs Steaming: How Every Sub Gets Made"
+description: "Firehouse Subs steams their meats and cheeses before building the sandwich. Here's the exact process and why the steam makes a measurable difference."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

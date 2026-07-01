@@ -1,6 +1,6 @@
 ---
-title: "The Bojangles Biscuit Master: Why Their Biscuits Taste Different"
-description: "Inside the intense 49-step process of becoming a certified Bojangles Biscuit Maker, and why their from-scratch morning rush is the hardest job in the building."
+title: "Bojangles Biscuit Process: Made From Scratch"
+description: "Bojangles bakes biscuits from scratch every 20 minutes. Here is what the prep cook does at 4 AM before the store ever opens."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

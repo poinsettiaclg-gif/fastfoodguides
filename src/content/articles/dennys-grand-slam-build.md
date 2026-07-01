@@ -1,6 +1,6 @@
 ---
-title: "How Does Denny's Make a Grand Slam Breakfast? (The Full Kitchen Process)"
-description: "Four components, four different cook times, all landing on one plate at the same temperature. The Grand Slam is the hardest ticket in a Denny's kitchen — here's why."
+title: "Denny's Grand Slam: How the Kitchen Builds It"
+description: "Denny's Grand Slam requires precise timing across four components. Here's how the kitchen coordinates eggs, pancakes, and sides to plate at once."
 pubDate: "2026-06-12"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

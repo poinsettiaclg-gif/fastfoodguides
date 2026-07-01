@@ -1,6 +1,6 @@
 ---
-title: "Why Is the McDonald's Ice Cream Machine Always Broken? (The Real Reason)"
-description: "The truth behind McDonald's broken ice cream machines isn't laziness — it's a Taylor C709 soft-serve unit with a mandatory 4-hour heat pasteurization cycle, cryptic error codes, and a repair monopoly that keeps franchise owners trapped."
+title: "McDonald's Ice Cream Machine: Why It's Broken"
+description: "The ice cream machine requires a nightly heat cycle that locks it for hours. Here is why it breaks and what the full cleaning cycle involves."
 pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

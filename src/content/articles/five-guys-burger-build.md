@@ -1,6 +1,6 @@
 ---
-title: "How Five Guys Builds a Burger — The Smash, the Foil, and the 15 Free Toppings"
-description: "An insider look at how Five Guys cooks and assembles their burgers, from the fresh beef hand-smash on a flat-top grill to the foil-wrapped assembly with unlimited free toppings."
+title: "Five Guys Burger Build: How It's Assembled"
+description: "Five Guys builds every burger fresh to order with no heat lamps. Here's the exact assembly sequence and why the build order affects the final bite."
 pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

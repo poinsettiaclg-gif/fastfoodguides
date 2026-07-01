@@ -1,6 +1,6 @@
 ---
-title: "How to Make the Perfect Dairy Queen Cone Curl"
-description: "Mastering the signature Dairy Queen curl is the hardest skill for new employees. Learn the exact tiered technique, the wrist snap, and how to survive the chocolate dip."
+title: "Dairy Queen Cone Curl: The Standard for Soft Serve"
+description: "Dairy Queen trains every crew member to pull a perfect curl on soft-serve cones. Here's the exact technique and pressure required to nail it."
 pubDate: "2026-03-12"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

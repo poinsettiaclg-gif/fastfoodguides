@@ -1,6 +1,6 @@
 ---
-title: "Does IHOP Actually Make Their Pancake Batter From Scratch?"
-description: "IHOP's pancakes come from a proprietary dry mix � not frozen batter, not from scratch. The griddle runs at 375 degrees, and there's a ribbon test for consistency. Here's the full process."
+title: "IHOP Pancake Batter: What's Actually In It"
+description: "IHOP uses a proprietary batter mix that arrives in powdered form. Here is how the batter is prepped each morning and what gives their pancakes the flavor."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

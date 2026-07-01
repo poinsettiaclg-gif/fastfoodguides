@@ -1,6 +1,6 @@
 ---
-title: "What Actually Happens During the Chipotle Grill Validation Test?"
-description: "Everything you need to know to pass the strict Chipotle Grill Validation test, from cut sizes to temp logs to the call system that trips up most new cooks."
+title: "Chipotle Grill Validation: The 165°F Rule"
+description: "Every Chipotle grill cook runs a validation test each morning. Here's what it involves and why the process exists to protect food safety."
 pubDate: "2026-03-08"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How to Survive the Starbucks Morning Rush on the Hot Espresso Bar"
-description: "Master the Starbucks Beverage Routine and hot bar sequencing to survive Peak. Pump counts, shot timing, and station management tips."
+title: "Starbucks Morning Rush: How the Bar Stays Afloat"
+description: "Starbucks morning rush requires specific bar positioning and drink routing. Here's how a well-run store manages 200+ drinks in the first hour of service."
 pubDate: "2026-04-27"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How Chick-fil-A Makes Their Lemonade — The Hand-Squeezed Morning Process"
-description: "Chick-fil-A's lemonade is made from real lemons squeezed in-store every morning. Here's exactly how the process works, how many lemons each location uses per day, and why it costs more than most fast food drinks."
+title: "Chick-fil-A Lemonade: Made Fresh Every Day"
+description: "Chick-fil-A squeezes real lemons every single day. Here's the prep process, the exact ratio, and what separates it from fountain lemonade."
 pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

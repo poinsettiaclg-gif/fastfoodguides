@@ -1,6 +1,6 @@
 ---
-title: "How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)"
-description: "A detailed insider look at how Wawa builds their hoagies — from the touchscreen kiosk order to the deli station assembly line, including bread baking, portioning, and the rapid oven process."
+title: "Wawa Hoagie Build: The Touchscreen Assembly Line"
+description: "Wawa hoagies are ordered via touchscreen and built to a specific sequence. Here's how the assembly line works and what separates a great Wawa hoagie."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How Are McDonald's Chicken McNuggets Actually Made?"
-description: "The real process behind McDonald's Chicken McNuggets — from whole chicken breast to the 4 signature shapes, tempura batter, par-frying, and the final 350°F cook in-store."
+title: "McDonald's Nuggets: The Full Production Process"
+description: "McDonald's Chicken McNuggets follow a strict fry time and basket rotation system. Here's how the nugget station is managed during a busy lunch rush."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How Domino's Pizza Dough Is Actually Stretched — The Makeline Speed System"
-description: "A detailed insider guide to how Domino's employees hand-stretch pizza dough, manage the makeline, and hit their 2-minute build target during a Friday night rush."
+title: "Domino's Dough Stretching: The Hand-Toss Technique"
+description: "Domino's hand-toss requires a specific stretch to hit the right crust thickness. Here's the technique cooks are trained to use every single order."
 pubDate: "2026-06-17"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

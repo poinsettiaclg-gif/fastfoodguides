@@ -1,6 +1,6 @@
 ---
-title: "The Panda Express Steam Table: How 'Calling Food' Actually Works"
-description: "Panda Express doesn't use kitchen display screens for their wok chefs. Discover the high-stress verbal communication system that dictates the flow of the entire kitchen."
+title: "Panda Express Steam Table: How 'Calling Food' Works"
+description: "Panda Express doesn't use digital screens for their wok chefs. Front-of-house staff call batch sizes verbally to keep the steam table stocked."
 pubDate: "2026-07-01"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

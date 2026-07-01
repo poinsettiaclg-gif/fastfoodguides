@@ -1,6 +1,6 @@
 ---
-title: "The Buffalo Wild Wings Sauce Tossing Process: Speed, Rhythm, and Friction"
-description: "How BWW manages to toss millions of wings in dozens of sauces perfectly every time. A breakdown of the fry station and the specialized tossing buckets."
+title: "Buffalo Wild Wings Sauce Tossing: The Real Process"
+description: "Buffalo Wild Wings sauces every wing to order. Learn the exact tossing method, sauce ratios, and why over-coating ruins the wing."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How to Master the Subway POS When a Customer Orders Out of Order"
-description: "A Subway cashier's survival guide to the 3-Step Core Ring, the Meal Deal trap, and ringing up chaotic orders without overcharging anyone."
+title: "Subway POS Down: How Staff Handle a Cash-Only Shift"
+description: "When Subway's POS system goes offline, everything shifts to manual entry. Here's how staff manage orders, cash, and the receipt printer during an outage."
 pubDate: "2026-05-02"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

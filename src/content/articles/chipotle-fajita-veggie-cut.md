@@ -1,6 +1,6 @@
 ---
-title: "The Strict Science of the Chipotle Fajita Veggie Cut"
-description: "Chipotle's 1/4-inch fajita veggie rule is no joke. Learn why the exact cut size matters for grill timing and why failing the knife test means failing your certification."
+title: "Chipotle Fajita Veggies: The Specific Cut Required"
+description: "Chipotle requires a precise knife cut for their fajita peppers and onions. Here is the prep standard and why consistency matters for cooking time."
 pubDate: "2026-03-07"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

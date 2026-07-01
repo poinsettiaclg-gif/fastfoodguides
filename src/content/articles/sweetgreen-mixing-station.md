@@ -1,6 +1,6 @@
 ---
-title: "Sweetgreen's Mixing Station: The Science Behind the Perfect Toss"
-description: "A look inside the high-volume salad mixing station at Sweetgreen, detailing the specialized tongs, the bowl rotation technique, and how they prevent cross-contamination during a rush."
+title: "Sweetgreen Mixing Station: Portion Control at Scale"
+description: "Sweetgreen mixes every salad to order using a precise portion and toss technique. Here's how the mixing station is structured to handle a lunch rush."
 pubDate: "2026-06-24"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

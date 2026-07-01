@@ -1,6 +1,6 @@
 ---
-title: "What Does the Krispy Kreme Hot Light Actually Mean?"
-description: "When the Krispy Kreme Hot Light turns on, doughnuts are rolling off a 25-foot automated production line and through a waterfall of warm glaze. Here's what's happening inside."
+title: "Krispy Kreme Hot Light: What It Actually Means"
+description: "The Krispy Kreme Hot Light signals fresh glazed donuts coming off the line. Here's how the production schedule works and what triggers the light."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

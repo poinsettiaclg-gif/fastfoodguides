@@ -1,6 +1,6 @@
 ---
-title: "What is the Panera Overnight Baker Shift Like?"
-description: "An inside look at the hours, isolation, and grueling timeline of being a solo overnight baker at Panera Bread. Proofing, scoring, and surviving the nocturnal life."
+title: "Panera Overnight Baker: The 4 AM Bread Shift"
+description: "Panera bakes all their bread overnight in-store. Here's what the overnight baker does from 4 AM to opening and how the schedule is structured."
 pubDate: "2026-04-13"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

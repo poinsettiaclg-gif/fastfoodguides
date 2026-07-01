@@ -1,6 +1,6 @@
 ---
-title: "Do Sonic Carhops Really Have to Roller Skate? (And How Do They Not Spill?)"
-description: "Everything you need to know about working as a Sonic Carhop — skating vs walking, the tray balancing technique, and how to maximize your tips on wheels."
+title: "Sonic Carhops on Roller Skates: How It Works"
+description: "Not every Sonic carhop skates, but the ones who do follow a specific training program. Here's how the skating program is structured at the drive-in."
 pubDate: "2026-04-22"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

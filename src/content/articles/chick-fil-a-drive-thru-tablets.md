@@ -1,6 +1,6 @@
 ---
-title: "Why Does Chick-fil-A Have Employees Standing Outside With Tablets?"
-description: "An insider look at Chick-fil-A's iPad-based drive-thru ordering system, how it cuts wait times by up to 50%, the license plate tracking tech, and what it's actually like for team members standing outside in summer heat."
+title: "Chick-fil-A Drive-Thru Tablets: Face-to-Face Ordering"
+description: "Chick-fil-A employees walk the drive-thru line with tablets during rush hours. Here's exactly how the system works and why it speeds up service."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

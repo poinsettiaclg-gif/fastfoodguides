@@ -1,6 +1,6 @@
 ---
-title: "How Does the Waffle House Hash Brown Ordering System Work?"
-description: "A complete breakdown of the Waffle House hash brown ordering system, from scattered to country, including how grill operators manage the marking system and cook crispy hash browns on a flat-top."
+title: "Waffle House Hash Brown System: All Nine Mods"
+description: "Waffle House hash browns have nine official modification options. Here's how the ticket system tracks each order and how the grill cook executes them."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

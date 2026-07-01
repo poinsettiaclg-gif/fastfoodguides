@@ -1,6 +1,6 @@
 ---
-title: "The KFC Gravy Secret: What Are 'Cracklings'?"
-description: "KFC gravy isn't just a powder packet mixed with hot water. Learn the back-of-house secret of 'cracklings'—the leftover bits from the pressure fryers that give the gravy its signature flavor."
+title: "KFC Gravy: How Cracklings Make the Difference"
+description: "KFC gravy isn't just a powder packet. Cooks harvest cracklings from the pressure fryer to give the gravy its signature deep flavor and color."
 pubDate: "2026-07-01"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

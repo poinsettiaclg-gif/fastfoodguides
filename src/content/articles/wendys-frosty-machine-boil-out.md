@@ -1,6 +1,6 @@
 ---
-title: "The Wendy's Frosty Machine \"Boil-Out\" Process"
-description: "Former kitchen manager walks through the complete Frosty machine boil-out process, from drain to reassembly, including O-ring inspection and the mistakes that cause leaks."
+title: "Wendy's Frosty Machine Boil-Out: How It Works"
+description: "Wendy's Frosty machine requires a full boil-out cleaning cycle every week. Here's what the process involves and why it takes the machine offline overnight."
 pubDate: "2026-05-15"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How Starbucks Calibrates the Mastrena II (The Heart of the Hot Bar)"
-description: "A deep dive into the Starbucks Mastrena II espresso machine. Learn how baristas pull the perfect shot, calibrate the grinder, and run the daily cleaning cycles."
+title: "Starbucks Mastrena II: Espresso Calibration"
+description: "The Mastrena II auto-calibrates grind size throughout the day. Here's how the 18-23 second extraction window is maintained and what throws it off."
 pubDate: "2026-06-28"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

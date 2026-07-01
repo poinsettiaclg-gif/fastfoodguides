@@ -1,6 +1,6 @@
 ---
-title: "Do Domino's Delivery Drivers Pay For Their Own Gas?"
-description: "A former driver manager explains Domino's mileage reimbursement, the per-mile vs per-delivery debate, hidden vehicle costs, and how to actually profit from delivering."
+title: "Domino's Gas Reimbursement: How Driver Pay Works"
+description: "Domino's delivery drivers are paid a mileage reimbursement, not a gas allowance. Here's exactly how driver compensation is structured per delivery."
 pubDate: "2026-03-15"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

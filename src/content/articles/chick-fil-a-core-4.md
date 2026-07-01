@@ -1,6 +1,6 @@
 ---
-title: "What Is the Chick-fil-A Core 4 (And How to Pass the Interview)"
-description: "A veteran QSR manager breaks down the Chick-fil-A Core 4 customer service model, what it looks like on the floor, and exactly how to demonstrate it in your interview."
+title: "Chick-fil-A Core 4: The Service Model Explained"
+description: "Chick-fil-A trains every employee on four specific behaviors. Here's what Core 4 means and how it shapes every customer interaction."
 pubDate: "2026-03-06"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

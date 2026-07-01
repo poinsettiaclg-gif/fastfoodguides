@@ -1,6 +1,6 @@
 ---
-title: "Why Are White Castle Sliders Steamed Instead of Grilled?"
-description: "White Castle sliders cook on a bed of dehydrated onions that steam the meat from below. The five-hole patty design means you never have to flip them. Here's why."
+title: "White Castle Slider: The Steam Grill Method"
+description: "White Castle steams every slider on a bed of onions. Here's why the five-hole patty exists and how the steam-grill method creates the signature taste."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

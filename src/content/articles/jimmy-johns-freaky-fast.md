@@ -1,6 +1,6 @@
 ---
-title: "How Does Jimmy John's Actually Deliver 'Freaky Fast'?"
-description: "An insider breakdown of how Jimmy John's achieves its legendary speed — from the 5-minute delivery radius to sub-30-second sandwich builds, and why everything is cold on purpose."
+title: "Jimmy John's Freaky Fast: How They Do It"
+description: "Jimmy John's speed comes from a highly specific prep and assembly system. Here's the exact process that allows them to make a sub in under 30 seconds."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

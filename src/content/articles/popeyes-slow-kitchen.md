@@ -1,6 +1,6 @@
 ---
-title: "Why Does Popeyes Take So Long? (The Real Kitchen Reason)"
-description: "Popeyes chicken takes 25+ minutes to cook in pressure fryers, and when a rush hits, there's no way to speed that up. Here's why the wait times are built into the process."
+title: "Popeyes Slow Kitchen: Why the Wait Is That Long"
+description: "Popeyes chicken takes longer than competitors because it's marinated and hand-battered. Here's how the prep process creates the notorious wait time."
 pubDate: "2026-06-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

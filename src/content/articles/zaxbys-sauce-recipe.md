@@ -1,6 +1,6 @@
 ---
-title: "What is Zax Sauce? (And Why Employees Guard the Recipe)"
-description: "The full insider breakdown of Zaxby's iconic Zax Sauce — the ingredients everyone already knows, the ratio nobody gets right, and why it'll never sit on a grocery shelf."
+title: "Zaxby's Sauce: What's Actually In Zax Sauce"
+description: "Zax Sauce is a proprietary blend that Zaxby's guards closely. Here's what the sauce contains, how it's portioned, and why getting the ratio right matters."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

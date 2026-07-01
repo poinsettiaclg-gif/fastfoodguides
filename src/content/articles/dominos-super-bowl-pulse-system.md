@@ -1,6 +1,6 @@
 ---
-title: "Surviving Super Bowl Sunday: Inside the Domino's Pulse POS System"
-description: "How does Domino's handle the highest-volume pizza day of the year? An insider look at the Pulse POS, makeline routing, and algorithmic dispatching."
+title: "Domino's Super Bowl Pulse System Explained"
+description: "Domino's uses a real-time order monitoring system during peak events. Here's how the Pulse system manages thousands of simultaneous orders."
 pubDate: "2026-06-26"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

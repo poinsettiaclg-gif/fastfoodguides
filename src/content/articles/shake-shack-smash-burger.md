@@ -1,6 +1,6 @@
 ---
-title: "What is the Shake Shack Smash Burger Technique?"
-description: "Shake Shack presses a ball of fresh beef flat on a searing griddle with a heavy metal press. Maximum surface contact means maximum Maillard crust. Here's the technique."
+title: "Shake Shack Smash Burger: The Grill Technique"
+description: "Shake Shack smashes every patty to order on a flat-top grill. Here's how the pressing and crust technique creates their signature burger flavor."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

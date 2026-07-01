@@ -1,6 +1,6 @@
 ---
-title: "What Are the Exact Closing Duties for a Wendy's Sandwich Maker?"
-description: "Former Wendy's manager walks through the complete closing checklist for sandwich makers, from pre-close strategy to final walkthrough and getting out on time."
+title: "Wendy's Closing Duties: A Full Night Breakdown"
+description: "Wendy's closing crew has a strict checklist that takes 90+ minutes. Here's how the kitchen is broken down and what gets done before the last lock-up."
 pubDate: "2026-05-14"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

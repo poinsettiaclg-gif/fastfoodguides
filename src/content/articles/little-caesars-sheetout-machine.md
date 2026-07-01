@@ -1,6 +1,6 @@
 ---
-title: "Why Little Caesars Uses a \"Sheetout\" Machine"
-description: "How the Little Caesars Sheetout Machine flattens dough in 3 seconds, enabling Hot-N-Ready volume that hand-tossing could never achieve. The two-pass technique explained."
+title: "Little Caesars Sheet-Out Machine: Press and Go"
+description: "Little Caesars uses a mechanical press to standardize every pizza dough round. Here's how the machine works and what the specs are per crust size."
 pubDate: "2026-04-05"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

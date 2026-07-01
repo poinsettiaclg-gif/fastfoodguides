@@ -1,6 +1,6 @@
 ---
-title: "How Does Dutch Bros Make Drinks So Fast? (The Linebuster System)"
-description: "How Dutch Bros Coffee processes hundreds of custom drinks an hour using linebusters, specialized drink codes, and a dual-lane drive-thru system that feels casual but runs like a military operation."
+title: "Dutch Bros Drive-Thru: The Walk-Up Model"
+description: "Dutch Bros employees walk up to your car window instead of using a speaker box. Here's how the model works and why it creates faster service times."
 pubDate: "2026-06-23"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

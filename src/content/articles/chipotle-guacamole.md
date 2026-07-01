@@ -1,6 +1,6 @@
 ---
-title: "How Chipotle Makes Their Guacamole — The Fresh-Mashed Morning Process"
-description: "Chipotle's guacamole is made from whole Hass avocados, hand-mashed in the restaurant every morning. Here's the exact process, the 6 ingredients, how many avocados each location uses per day, and why it costs extra."
+title: "Chipotle Guacamole: Made From Scratch Daily"
+description: "Chipotle makes guacamole in-house every day. Here's the exact recipe, the prep process, and why it takes a skilled hand to hit the right texture."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

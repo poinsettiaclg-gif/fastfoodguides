@@ -1,6 +1,6 @@
 ---
-title: "Why Sonic's Ice Is Different — The Nugget Ice Machine Explained"
-description: "An insider breakdown of why Sonic's ice tastes different from every other fast food chain. How the Hoshizaki nugget ice machines work, why the ice is chewable, and the operational reality of keeping them running."
+title: "Sonic Nugget Ice: Why Customers Love It"
+description: "Sonic's nugget ice is softer and more chewable than standard ice cubes. Here's the machine that makes it and why the ice type changes how drinks taste."
 pubDate: "2026-06-19"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

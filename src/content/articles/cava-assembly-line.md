@@ -1,6 +1,6 @@
 ---
 title: "How Is Cava Food Made? Inside the Bowl Assembly Line"
-description: "A deep dive into how Cava builds hundreds of custom bowls an hour, covering the three-zone assembly line layout, strict portion control math, and the hidden Digital Make Line."
+description: "Cava builds every bowl on a three-zone assembly line with strict portion controls. Here is how the kitchen moves hundreds of custom bowls per hour."
 pubDate: "2026-06-23"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

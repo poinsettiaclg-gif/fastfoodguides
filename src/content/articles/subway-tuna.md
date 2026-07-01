@@ -1,6 +1,6 @@
 ---
-title: "What's Actually in Subway's Tuna? (The Real Answer)"
-description: "The truth about Subway's tuna — what's in it, how it's prepped in the restaurant, the lawsuit that claimed it wasn't real tuna, and what lab tests actually found."
+title: "Subway Tuna: How It's Actually Made In-Store"
+description: "Subway tuna arrives in sealed pouches and is mixed with mayo in-store daily. Here's exactly how the prep process works and what controls the ratio."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

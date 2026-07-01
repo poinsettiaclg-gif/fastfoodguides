@@ -1,6 +1,6 @@
 ---
-title: "What is the Difference Between a Dunkin' Flavor Shot and a Flavor Swirl?"
-description: "A QSR veteran explains the critical difference between Dunkin' Flavor Shots and Swirls, pump counts, common mistakes, and how to survive the morning rush."
+title: "Dunkin' Flavor Shot vs. Swirl: What's the Difference"
+description: "Dunkin' offers two types of flavor add-ins and most customers don't know the difference. Here's what separates a shot from a swirl in the cup."
 pubDate: "2026-03-18"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

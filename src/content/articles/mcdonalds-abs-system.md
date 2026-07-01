@@ -1,6 +1,6 @@
 ---
-title: "How Does the McDonald's ABS (Automated Beverage System) Work?"
-description: "Inside the McDonald's ABS machine that pours drinks automatically from POS order to finished cup in 15 seconds—and what happens when it breaks during a rush."
+title: "McDonald's ABS System: Made-for-You Explained"
+description: "McDonald's ABS (Assembly Board System) coordinates every made-to-order burger. Here's how the screen system works behind the counter."
 pubDate: "2026-04-06"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

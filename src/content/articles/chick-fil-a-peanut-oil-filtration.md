@@ -1,6 +1,6 @@
 ---
-title: "The Science of Chick-fil-A's Peanut Oil and Henny Penny Pressure Fryers"
-description: "Why does Chick-fil-A use 100% refined peanut oil? An operational deep dive into the Henny Penny pressure fryers, Magnasol powder, and the daily boil-out process."
+title: "Chick-fil-A Peanut Oil: Why They Filter It Daily"
+description: "Chick-fil-A filters their peanut oil multiple times a day. Here's the filtration process and why oil quality controls the taste of every filet."
 pubDate: "2026-06-26"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

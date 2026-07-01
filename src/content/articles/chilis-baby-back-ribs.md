@@ -1,6 +1,6 @@
 ---
-title: "The Truth About Chili's Baby Back Ribs: How They Actually Cook Them"
-description: "An insider look at how Chili's preps and cooks their famous Baby Back Ribs. Spoiler: They aren't smoking them in the back of the house."
+title: "Chili's Baby Back Ribs: How They Are Actually Made"
+description: "Chili's baby back ribs are slow-cooked and finished on a grill. Here's the full multi-step prep process behind their signature rib rack."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

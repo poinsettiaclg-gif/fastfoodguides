@@ -1,6 +1,6 @@
 ---
-title: "Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)"
-description: "The real story behind Taco Bell's exclusive Baja Blast — from the PepsiCo co-development deal to the fountain syrup ratio, limited retail drops, and why employees dread the 'we're out' announcement."
+title: "Taco Bell Baja Blast: The PepsiCo Partnership"
+description: "Baja Blast is a Mountain Dew flavor made exclusively for Taco Bell. Here's the history of the partnership and why it stays off shelves at other chains."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

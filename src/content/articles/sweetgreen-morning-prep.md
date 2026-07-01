@@ -1,6 +1,6 @@
 ---
-title: "The Sweetgreen Morning Prep Shift: How They Process 500 Lbs of Veggies"
-description: "A deep dive into the intense 6:00 AM prep shift at Sweetgreen, detailing the heavy-duty food processors, local produce constraints, and the logistics of dicing hundreds of pounds of kale."
+title: "Sweetgreen Morning Prep: What Happens Before Open"
+description: "Sweetgreen's morning prep crew chops, roasts, and portions every ingredient before the store opens. Here's the full prep schedule from open to close."
 pubDate: "2026-06-25"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

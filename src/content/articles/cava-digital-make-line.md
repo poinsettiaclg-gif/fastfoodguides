@@ -1,6 +1,6 @@
 ---
 title: "Cava's Digital Make Line (DML): The Secret Ghost Kitchen"
-description: "How Cava manages digital and delivery volume using a hidden secondary assembly line, dedicated DML expos, and advanced Kitchen Display Systems to prevent the lunch rush from collapsing."
+description: "Cava runs a hidden Digital Make Line exclusively for online and catering orders. Here is how the DML keeps the front line moving during a rush."
 pubDate: "2026-06-25"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

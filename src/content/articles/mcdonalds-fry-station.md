@@ -1,6 +1,6 @@
 ---
-title: "How Does McDonald's Make Their Fries? (The Full Fry Station Process)"
-description: "A detailed look at how McDonald's fries are made, from the factory process to the in-store fry station, including the exact frying time, salt window, holding procedures, and why they taste different at different locations."
+title: "McDonald's Fry Station: Inside the Operation"
+description: "McDonald's fry station runs on a precise basket rotation and timer system. Here's how fry cooks manage oil quality and output during peak hours."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

@@ -1,6 +1,6 @@
 ---
-title: "How McDonald's Cooks the Fresh Quarter Pounder (The Platen Grill Process)"
-description: "An inside look at the biggest operational change in McDonald's history: the switch to fresh beef Quarter Pounders. Learn about the blue gloves, the clamshell platen grill, and the strict cooking protocols."
+title: "McDonald's Fresh Beef: The Grill Process"
+description: "McDonald's fresh beef Quarter Pounder is never frozen. Here's how the Blue Glove protocol and clamshell grill process works on every cook."
 pubDate: "2026-06-28"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"

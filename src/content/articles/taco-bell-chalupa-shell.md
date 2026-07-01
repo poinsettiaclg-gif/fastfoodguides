@@ -1,6 +1,6 @@
 ---
-title: "How Taco Bell Makes Chalupa Shells — The Deep-Fried Flatbread Process"
-description: "An insider look at how Taco Bell's Chalupa shells are made: pre-formed flatbread dough deep-fried in a specialized mold basket that forces the dough into a taco boat shape. Here's the full frying and assembly process."
+title: "Taco Bell Chalupa Shell: How It's Fried Fresh"
+description: "Taco Bell fries their Chalupa shells to order. Here's how the fryer mold works and why the dough requires a specific hydration to fry properly."
 pubDate: "2026-06-20"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
