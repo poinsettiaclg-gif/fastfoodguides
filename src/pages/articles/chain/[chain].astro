@@ -185,6 +185,15 @@ const metaDescription = chainDesc
       )}
     </div>
 
+    {posts.length >= 3 && (
+      <div class="hub-content">
+        <h2>What to Expect from {displayName} Operations</h2>
+        <p>
+          Unlike casual dining or full-service restaurants, {displayName} operates on a strictly optimized kitchen flow designed to maximize throughput during peak hours. Our insider guides below detail the exact stations, standard operating procedures, and unwritten rules that make {displayName} kitchens function. From prep routines to drive-thru timer management, these guides are based on real QSR experience.
+        </p>
+      </div>
+    )}
+
     <div class="articles-grid">
       {posts.map((post) => (
         <a href={`/articles/${post.id}/`} class="article-card">
@@ -261,6 +270,31 @@ const metaDescription = chainDesc
     border-radius: 4px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .hub-content {
+    background: #111827;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hub-content h2 {
+    color: #F1F5F9;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+
+  .hub-content p {
+    color: #94A3B8;
+    line-height: 1.7;
+    margin: 0;
+    font-size: 1.05rem;
   }
 
   .articles-grid {

@@ -108,7 +108,10 @@ But here's the thing: held ribs have a limited window. The general guideline is 
 
 This is why you'll sometimes get incredible ribs at Chili's and sometimes get slightly disappointing ones. If you're eating during a rush and the kitchen is turning ribs over fast, you're getting freshly heated, freshly grilled ribs. If you're eating at 3 PM on a Tuesday, there's a chance those ribs have been sitting in the hold cabinet a bit longer than ideal.
 
-**Pro tip:** If you want the best shot at fresh ribs, go during peak dinner hours (6-8 PM). The volume ensures rapid turnover.
+<div class="callout callout-tip">
+<strong>Pro Tip:</strong> If you want the best shot at fresh ribs, go during peak dinner hours (6-8 PM). The volume ensures rapid turnover.
+</div>
+
 
 ## How They Handle Different "Doneness" Requests
 

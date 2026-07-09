@@ -6,10 +6,11 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import AuthorBylineTop from '../components/AuthorBylineTop.astro';
 import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 
-type Props = CollectionEntry<'articles'>['data'] & { slug?: string };
+type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
 
-const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, faq, slug } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, faq, slug, headings } = Astro.props;
 
 // Resolve related articles from slugs
 let resolvedRelated: CollectionEntry<'articles'>[] = [];
@@ -255,6 +256,29 @@ function slugifyChain(c: string): string {
 				color: #34D399;
 			}
 
+			.prose :global(.callout) {
+				margin: 2rem 0;
+				padding: 1.5rem;
+				border-radius: 0.75rem;
+				background: rgba(255, 255, 255, 0.03);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+			}
+
+			.prose :global(.callout-tip) {
+				background: rgba(16, 185, 129, 0.05);
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-left: 4px solid #10B981;
+			}
+
+			.prose :global(.callout-tip strong) {
+				color: #10B981;
+				font-size: 1.05em;
+				display: block;
+				margin-bottom: 0.5rem;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+
 			.prose :global(pre) {
 				margin: 1.5em 0;
 				padding: 1.25em;
@@ -427,6 +451,8 @@ function slugifyChain(c: string): string {
 							)
 						}
 					</header>
+
+					<TableOfContents headings={headings} />
 
 					<slot />
 

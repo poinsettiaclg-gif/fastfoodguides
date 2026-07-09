@@ -1,0 +1,88 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings?: Heading[];
+}
+
+const { headings } = Astro.props;
+const toc = headings?.filter(h => h.depth > 1 && h.depth <= 3) || [];
+---
+
+{toc.length > 0 && (
+  <div class="toc-container">
+    <div class="toc-header">Table of Contents</div>
+    <ul class="toc-list">
+      {toc.map(heading => (
+        <li class={`toc-item depth-${heading.depth}`}>
+          <a href={`#${heading.slug}`}>{heading.text}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
+
+<style>
+  .toc-container {
+    background: rgba(16, 185, 129, 0.05);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .toc-header {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #10B981;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .toc-item {
+    margin-bottom: 0.6rem;
+    line-height: 1.4;
+  }
+  
+  .toc-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  .toc-item.depth-2 {
+    padding-left: 0;
+  }
+  
+  .toc-item.depth-3 {
+    padding-left: 1.25rem;
+    position: relative;
+  }
+  
+  .toc-item.depth-3::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    color: #64748B;
+    font-size: 0.8rem;
+  }
+  
+  .toc-list a {
+    color: #CBD5E1;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .toc-list a:hover {
+    color: #34D399;
+  }
+</style>
