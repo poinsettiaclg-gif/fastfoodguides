@@ -153,6 +153,7 @@ const metaDescription = chainDesc
   <BaseHead
     title={`${displayName} Guides | Fast Food Guides`}
     description={metaDescription}
+    noindex={posts.length < 3}
   />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",

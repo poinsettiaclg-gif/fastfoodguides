@@ -6,9 +6,10 @@ import { defineConfig, fontProviders } from 'astro/config';
 import fs from 'fs';
 import path from 'path';
 
-// Pre-calculate lastmod dates for sitemap
+// Pre-calculate lastmod dates and chain counts for sitemap
 const articlesDir = path.join(process.cwd(), 'src', 'content', 'articles');
 const articleDates = new Map();
+const chainCounts = new Map();
 
 try {
 	const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
@@ -19,11 +20,19 @@ try {
 		// Find updatedDate or pubDate
 		const updatedMatch = content.match(/updatedDate:\s*"([^"]+)"/);
 		const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
+		const chainMatch = content.match(/chain:\s*"([^"]+)"/);
 		
 		if (updatedMatch) {
 			articleDates.set(slugMatch, new Date(updatedMatch[1]));
 		} else if (pubMatch) {
 			articleDates.set(slugMatch, new Date(pubMatch[1]));
+		}
+
+		if (chainMatch) {
+			const chain = chainMatch[1];
+			// Basic slugify to match Astro's logic
+			const chainSlug = chain.toLowerCase().replace(/[']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+			chainCounts.set(chainSlug, (chainCounts.get(chainSlug) || 0) + 1);
 		}
 	}
 } catch (e) {
@@ -37,6 +46,17 @@ export default defineConfig({
 	integrations: [
 		mdx(), 
 		sitemap({
+			filter: (page) => {
+				const urlPath = new URL(page).pathname;
+				// Filter out all topic pages
+				if (urlPath.startsWith('/articles/topic/')) return false;
+				// Filter out thin chain pages (< 3 articles)
+				if (urlPath.startsWith('/articles/chain/')) {
+					const chainSlug = urlPath.replace('/articles/chain/', '').replace(/\/$/, '');
+					return (chainCounts.get(chainSlug) || 0) >= 3;
+				}
+				return true;
+			},
 			serialize(item) {
 				// Parse URL to find the slug
 				const urlPath = new URL(item.url).pathname;
