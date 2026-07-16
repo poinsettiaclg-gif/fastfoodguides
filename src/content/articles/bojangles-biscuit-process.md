@@ -28,7 +28,7 @@ Every fast-food restaurant has a position nobody wants during a rush. The fry st
 
 This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is responsible for producing every single biscuit from scratch — flour, shortening, buttermilk, hands, oven — on a rolling cycle that never stops from the moment they clock in until the breakfast window closes. There are no frozen pucks. No par-baked shortcuts. If the Biscuit Maker doesn't show up, the store essentially doesn't open.
 
-I managed multiple Bojangles locations over several years, and I can tell you without hesitation: the Biscuit Maker position is harder than anything I've seen at other chains. That includes [the Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift/), which is grueling in its own right, and [Chick-fil-A's breading process](/articles/chick-fil-a-breading-process/), which demands serious consistency. But neither of those roles carries the same combination of speed, technique, and sheer volume that Bojangles demands.
+I managed multiple Bojangles locations over several years, and Take it from someone who's been there — without hesitation: the Biscuit Maker position is harder than anything Over the years, at other chains. That includes [the Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift/), which is grueling in its own right, and [Chick-fil-A's breading process](/articles/chick-fil-a-breading-process/), which demands serious consistency. But neither of those roles carries the same combination of speed, technique, and sheer volume that Bojangles demands.
 
 ![Bojangles Biscuit Station](../../assets/images/bojangles/biscuit-station.png)
 
@@ -60,7 +60,7 @@ The pre-blended flour already contains:
 - **Leavening agents** — baking powder and baking soda, pre-measured in the exact ratio Bojangles requires
 - **Salt** — already incorporated so there's no measuring error at the store level
 
-This means the Biscuit Maker doesn't have to measure leavening or salt separately. The flour arrives ready to go. All they need to add is shortening and buttermilk. This reduces the margin for error, but it also means the flour itself is the single most important ingredient. If distribution sends a bad batch — if the leavening ratio is off by even a small percentage — every biscuit in every store using that batch will be wrong. I've seen it happen. You can tell immediately.
+This means the Biscuit Maker doesn't have to measure leavening or salt separately. The flour arrives ready to go. All they need to add is shortening and buttermilk. This reduces the margin for error, but it also means the flour itself is the single most important ingredient. If distribution sends a bad batch — if the leavening ratio is off by even a small percentage — every biscuit in every store using that batch will be wrong. I witnessed it happen. You can tell immediately.
 
 ## The Buttermilk Soak Step
 

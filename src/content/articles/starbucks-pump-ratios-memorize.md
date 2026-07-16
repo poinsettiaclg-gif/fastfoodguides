@@ -6,13 +6,18 @@ author: "Russell Roseberry"
 authorTitle: "10-Year QSR Veteran"
 chain: "Starbucks"
 topic: "Coffee"
+faq:
+  - question: "What is the process for how to memorize starbucks syrup pump ratios fast?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the hot bar baseline (the 2-3-4-5 rule) to ensure efficiency and quality at Starbucks."
+  - question: "Why is the iced venti exception important at Starbucks?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Starbucks locations."
 ---
 
 If you’ve just been hired at Starbucks, congratulations—you are about to consume more caffeine in a single week than most people do in a month. But before you can get comfortable, you have to survive "Bar Training." 
 
 The most common reason new green bean baristas panic during the morning rush is forgetting how many pumps of syrup go into a drink. Staring blankly at a Venti Iced Caramel Macchiato ticket while the line stretches to the door is a rite of passage.
 
-Instead of trying to memorize flashcards, you need to understand the structural logic behind the menu. Here is how you can memorize the Starbucks pump ratios fast.
+Instead of trying to memorize flashcards, you need to understand the structural logic behind the menu. The kitchen reality:
 
 ## The Hot Bar Baseline (The 2-3-4-5 Rule)
 

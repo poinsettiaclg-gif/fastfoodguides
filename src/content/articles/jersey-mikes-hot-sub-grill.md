@@ -10,6 +10,11 @@ relatedArticles:
   - "jersey-mikes-mikes-way"
   - "arbys-meat-slicer"
   - "chipotle-grill-validation"
+faq:
+  - question: "What is the process for jersey mike's ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like raw beef, raw chicken, and zero margin for error to ensure efficiency and quality at Jersey Mike's."
+  - question: "Why is the chop-and-flip technique that destroys your forearms important at Jersey Mike's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Jersey Mike's locations."
 ---
 
 
@@ -30,7 +35,7 @@ The first thing that hits you about the grill station is the cross-contamination
 
 The raw steak arrives in paper-wrapped pucks stored in a dedicated cooler section, completely separate from deli meats. When you pull a puck, you handle it with one set of gloves, place it on the grill, then immediately strip those gloves off and put on a fresh pair before touching anything else. The same principle applies to raw chicken—it has its own designated grill zone, its own spatulas, and its own cutting tools. If you accidentally grab the chicken spatula and then reach toward the beef zone, you need to re-glove and sanitize. No exceptions.
 
-You use specific spatulas for raw meat and completely different spatulas for cooked meat. These are usually color-coded or marked, but during a chaotic lunch rush, it's on you to maintain the discipline. I've seen new grill cooks grab the wrong spatula without thinking because they're under pressure and moving fast. That's exactly how cross-contamination incidents happen.
+You use specific spatulas for raw meat and completely different spatulas for cooked meat. These are usually color-coded or marked, but during a chaotic lunch rush, it's on you to maintain the discipline. One memorable shift, new grill cooks grab the wrong spatula without thinking because they're under pressure and moving fast. That's exactly how cross-contamination incidents happen.
 
 It sounds extreme, but here's the reality: health inspectors know that operations cooking raw proteins alongside ready-to-eat food are high-risk environments. A single cross-contamination event can shut a location down. The protocols exist for a very good reason.
 

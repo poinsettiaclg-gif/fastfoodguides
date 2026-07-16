@@ -48,13 +48,13 @@ export default defineConfig({
 		sitemap({
 			filter: (page) => {
 				const urlPath = new URL(page).pathname;
-				// Filter out all topic pages
+				// Exclude utility pages
+				if (['/contact/', '/disclaimer/', '/privacy/', '/terms/'].includes(urlPath)) return false;
+				// Exclude articles index
+				if (urlPath === '/articles/') return false;
+				// Exclude all chain and topic index pages
 				if (urlPath.startsWith('/articles/topic/')) return false;
-				// Filter out thin chain pages (< 3 articles)
-				if (urlPath.startsWith('/articles/chain/')) {
-					const chainSlug = urlPath.replace('/articles/chain/', '').replace(/\/$/, '');
-					return (chainCounts.get(chainSlug) || 0) >= 3;
-				}
+				if (urlPath.startsWith('/articles/chain/')) return false;
 				return true;
 			},
 			serialize(item) {

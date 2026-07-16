@@ -10,13 +10,18 @@ relatedArticles:
   - "chipotle-grill-validation"
   - "chipotle-massive-burrito-rolling"
   - "panda-express-wok-chef"
+faq:
+  - question: "What is the process for chipotle fajita veggies: specific cut required?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 1/4-inch rule and why it's non-negotiable to ensure efficiency and quality at Chipotle."
+  - question: "Why is why the size matters more than you think important at Chipotle?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chipotle locations."
 ---
 
 
 
 The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. 
 
-I've seen managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. Here's why Chipotle is so obsessive about this one particular cut. 
+I witnessed managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. The reason comes down to operations. 
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
 
@@ -51,7 +56,7 @@ There are three reasons Chipotle obsesses over this, and none of them are arbitr
 
 The fajita veggie prep is not just about the cut. It is about how you handle the different peppers. The recipe typically calls for a mix of green bell peppers, red bell peppers, and yellow or poblano peppers, along with sliced onions. Each pepper type has a slightly different thickness and water content, which means you need to subtly adjust your pressure and speed as you switch between them. Reds are softer and will crush under too much downward force. Greens are firmer and can handle a more aggressive stroke.
 
-The onions are their own beast entirely. Because onion layers naturally curve and separate, maintaining a true 1/4-inch slice requires you to work slowly and deliberately. I've seen new hires blaze through onions at top speed, producing cuts where the outer layers are the right thickness but the inner layers are paper-thin or doubled up into half-inch chunks. Rushing through onions is how you get an entire batch rejected. Slow down, use the ridges as your guide, and let the knife do the work.
+The onions are their own beast entirely. Because onion layers naturally curve and separate, maintaining a true 1/4-inch slice requires you to work slowly and deliberately. More times than I can count, new hires blaze through onions at top speed, producing cuts where the outer layers are the right thickness but the inner layers are paper-thin or doubled up into half-inch chunks. Rushing through onions is how you get an entire batch rejected. Slow down, use the ridges as your guide, and let the knife do the work.
 
 Here's a pro tip that saved me hundreds of hours: when you cut a bell pepper in half and lay it flat, the natural ridges on the inside of the pepper create visual lanes that are roughly 1/4-inch apart. Let those ridges guide your knife, and you will achieve more consistent slices with less mental effort.
 

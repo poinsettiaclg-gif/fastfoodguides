@@ -10,6 +10,11 @@ relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "What is the process for zaxby's sauce: what's actually in zax sauce?"
+    answer: "As detailed in our guide, the process involves specific operational steps like what’s actually in zax sauce to ensure efficiency and quality at Zaxby's."
+  - question: "Why is the ratio problem important at Zaxby's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Zaxby's locations."
 ---
 
 7.  What is Zax Sauce? (And Why Employees Guard the Recipe)

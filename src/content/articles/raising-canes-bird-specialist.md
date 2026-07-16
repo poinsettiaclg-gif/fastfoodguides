@@ -10,6 +10,11 @@ relatedArticles:
   - "popeyes-chicken-battering-process"
   - "kfc-pressure-fryers"
   - "five-guys-no-freezers"
+faq:
+  - question: "What is the process for what does a ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 24-hour marinade and why it can't be rushed to ensure efficiency and quality at Raising Cane's."
+  - question: "Why is the art of the drop important at Raising Cane's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Raising Cane's locations."
 ---
 
 

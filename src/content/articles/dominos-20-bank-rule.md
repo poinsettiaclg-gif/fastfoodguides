@@ -10,13 +10,18 @@ relatedArticles:
   - "dominos-gas"
   - "dominos-oven-tender-role"
   - "pizza-delivery-driver-accident"
+faq:
+  - question: "What is the process for what is domino's ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like how the $20 bank works to ensure efficiency and quality at Domino's."
+  - question: "Why is the cash drop system important at Domino's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
 ---
 
 
 
 Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. 
 
-I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Here's exactly how it operates and why every dollar is tracked. 
+I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Step by step, this is the workflow: 
 
 ## How the $20 Bank Works
 

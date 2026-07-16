@@ -10,6 +10,11 @@ relatedArticles:
   - "wendys-frosty-machine-boil-out"
   - "wendys-clamshell-grill"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "What is the process for wendy's closing duties: a full night breakdown?"
+    answer: "As detailed in our guide, the process involves specific operational steps like phase 1: the pre-close (starting around 10:00 pm) to ensure efficiency and quality at Wendy's."
+  - question: "Why is phase 2: breaking down the boards important at Wendy's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
 ---
 
 
@@ -88,7 +93,7 @@ If you pre-close effectively, the final breakdown after the drive-thru closes ta
 
 ### What if a customer orders a sandwich after I've already started breaking down?
 
-You make the sandwich. As long as the drive-thru is open, you are serving customers. Period. This is exactly why pre-closing is done selectively—you condense and clean around the items you still need, but you never fully break down the station until the manager officially calls it. I've seen closers break down everything at 10:15 only to have a car pull up at 10:20, and they had to re-open pans from the walk-in. Don't be that person.
+You make the sandwich. As long as the drive-thru is open, you are serving customers. Period. This is exactly why pre-closing is done selectively—you condense and clean around the items you still need, but you never fully break down the station until the manager officially calls it. More times than I can count, closers break down everything at 10:15 only to have a car pull up at 10:20, and they had to re-open pans from the walk-in. Don't be that person.
 
 ### Can I leave before other stations are done?
 

@@ -10,6 +10,11 @@ relatedArticles:
   - "panera-overnight-baker"
   - "burger-king-expeditor-role"
   - "starbucks-customer-support-cycle"
+faq:
+  - question: "What is the process for what is panera bread ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the master of the 'you pick two' to ensure efficiency and quality at Panera Bread."
+  - question: "Why is the quality control check important at Panera Bread?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Panera Bread locations."
 ---
 
 
@@ -32,7 +37,7 @@ Why? Because the sandwich comes from one station, the soup comes from a complete
 
 During peak lunch hours — roughly 11:30 AM to 1:30 PM — there might be 15 to 20 "You Pick Two" orders on the screen simultaneously, each with a different combination. One customer wants a half Frontega Chicken with a cup of Tomato Soup. The next wants a half Mediterranean Veggie with a Caesar Salad. The Consolidator has to mentally pair each sandwich with its matching second item, even when they arrive minutes apart and the physical staging area on the counter is getting crowded.
 
-If you lose track of which half-sandwich belongs to which combo, the entire order queue grinds to a halt. I've seen new Consolidators freeze up during a rush when they have six incomplete trays in front of them and can't remember which half-sandwich goes with which soup. It's a mental tracking exercise that makes your brain feel like a browser with forty tabs open.
+If you lose track of which half-sandwich belongs to which combo, the entire order queue grinds to a halt. Back when I was running shifts, new Consolidators freeze up during a rush when they have six incomplete trays in front of them and can't remember which half-sandwich goes with which soup. It's a mental tracking exercise that makes your brain feel like a browser with forty tabs open.
 
 ## The Quality Control Check
 

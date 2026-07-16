@@ -10,6 +10,11 @@ relatedArticles:
   - "chick-fil-a-breading-process"
   - "chick-fil-a-lemonade"
   - "chick-fil-a-ipos-system"
+faq:
+  - question: "What is the process for chick-fil-a drive-thru tablets: face-to-face ordering?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the ipos system: what those tablets actually are to ensure efficiency and quality at Chick-fil-A."
+  - question: "Why is why it reduces drive-thru times by 30-50% important at Chick-fil-A?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chick-fil-A locations."
 ---
 
 7.  Why Does Chick-fil-A Have Employees Standing Outside With Tablets?

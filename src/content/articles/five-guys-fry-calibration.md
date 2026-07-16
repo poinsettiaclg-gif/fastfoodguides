@@ -10,6 +10,11 @@ relatedArticles:
   - "five-guys-no-freezers"
   - "in-n-out-board-station"
   - "wendys-clamshell-grill"
+faq:
+  - question: "What is the process for what is five guys ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the morning potato prep: it all starts with a knife and cold water to ensure efficiency and quality at Five Guys."
+  - question: "Why is the two-stage cook: why five guys fries are different from every other chain important at Five Guys?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
 ---
 
 
@@ -58,7 +63,7 @@ Every morning, before the store opens, the opening manager and the fry cook run 
 4. **Visual color check.** Five Guys has strict visual standards. Finished fries should be light golden—never pale and limp, never dark brown. If the edges are browning too quickly, the temperature gets adjusted down a few degrees. If they're coming out too light, the timer gets bumped up.
 5. **Documentation.** The opening manager logs the day's settings—pre-cook time, final cook time, oil temperature—in the prep log. If a different cook takes over the afternoon shift, they know exactly where the timers should be set without guessing.
 
-The entire calibration process takes 20 to 30 minutes on a normal day. If a new shipment of potatoes arrives from a different farm or a different region, it might take a few extra rounds of testing to dial in the right settings. I've seen calibration take close to 45 minutes when the potatoes were behaving unusually—high-sugar winter potatoes that wanted to brown in 90 seconds were the worst offenders.
+The entire calibration process takes 20 to 30 minutes on a normal day. If a new shipment of potatoes arrives from a different farm or a different region, it might take a few extra rounds of testing to dial in the right settings. Back when I was running shifts, calibration take close to 45 minutes when the potatoes were behaving unusually—high-sugar winter potatoes that wanted to brown in 90 seconds were the worst offenders.
 
 ## Why Peanut Oil and Why It Matters
 

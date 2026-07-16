@@ -74,7 +74,7 @@ BWW uses specialized large plastic tossing buckets — think oversized deli cont
 
 ### The Technique
 
-Here's how it goes: cooked wings get dumped into the bucket. The tosser pumps the calibrated amount of sauce directly onto the wings. The lid snaps on. Then comes the shake — and it's not gentle. It's a violent, rhythmic, almost aggressive shaking motion. Up-down, side-to-side, with a slight rotation. The wings are colliding with each other, with the textured walls, and with the sauce from every angle. The whole process takes about 5 to 8 seconds per toss. That's it. Five to eight seconds and every wing in that bucket has a perfectly even, emulsified coating.
+The mechanics behind it: The tosser pumps the calibrated amount of sauce directly onto the wings. The lid snaps on. Then comes the shake — and it's not gentle. It's a violent, rhythmic, almost aggressive shaking motion. Up-down, side-to-side, with a slight rotation. The wings are colliding with each other, with the textured walls, and with the sauce from every angle. The whole process takes about 5 to 8 seconds per toss. That's it. Five to eight seconds and every wing in that bucket has a perfectly even, emulsified coating.
 
 Compare this to [Wingstop's sauce process](/articles/wingstop-sauce-process/), where wings are tossed in metal bowls with a different technique. The BWW bucket method is specifically engineered for speed and consistency at high volume.
 

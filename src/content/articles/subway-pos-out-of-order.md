@@ -10,13 +10,18 @@ relatedArticles:
   - "subway-bread-baking-process"
   - "subway-bain-fill-line-rule"
   - "subway-wrap-folding"
+faq:
+  - question: "What is the process for subway pos down: how staff handle a cash-only shift?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 3-step core ring: the foundation of everything to ensure efficiency and quality at Subway."
+  - question: "Why is the 'out of order' customer and how to handle them important at Subway?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
 ---
 
 
 
 The most stressful part of working at Subway is not making the sandwich. It is ringing it up correctly at the end. 
 
-At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. Here is how to survive the register without overcharging anyone or freezing up during a rush. 
+At most fast food chains, the cashier takes the order first and then the kitchen builds it. At Subway, the customer stands in front of you, builds their sandwich in real time, and you have to somehow translate that stream-of-consciousness order into the Point of Sale system after the fact. The problem? Customers almost never tell you what they want in a logical order. They will say "Turkey on Wheat with extra cheese, bacon, and a drink" all in one breath, and your brain has to sort that chaos into the exact sequence the POS demands. On the line, it plays out like this: 
 
 ## The 3-Step Core Ring: The Foundation of Everything
 

@@ -10,13 +10,18 @@ relatedArticles:
   - "panera-overnight-baker"
   - "subway-bread-baking-process"
   - "five-guys-no-freezers"
+faq:
+  - question: "What is the process for what is 4:00 am ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 4:00 am arrival: alone in a dark kitchen to ensure efficiency and quality at Hardee's / Carl's Jr.."
+  - question: "Why is the from-scratch process: where most new hires fail important at Hardee's / Carl's Jr.?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Hardee's / Carl's Jr. locations."
 ---
 
 
 
 Most fast-food chains use frozen, pre-formed biscuits that arrive in a box, get tossed on a sheet pan, and go into an oven. Hardee's doesn't do that. Their biscuits are made entirely from scratch—mixed, kneaded, rolled, cut, and baked in-store, every single morning, by a dedicated employee called the Biscuit Maker. And that person's alarm goes off at 3:15 AM. 
 
-I've worked alongside Biscuit Makers and trained under their mentorship, and I can tell you without hesitation: this is one of the most respected, most skilled, and most physically demanding positions in all of fast food. If the Biscuit Maker doesn't show up, the entire breakfast operation is in jeopardy. There is no backup plan that doesn't involve another trained human being walking through that door at 4 AM. 
+I've worked alongside Biscuit Makers and trained under their mentorship, and Take it from someone who's been there — without hesitation: this is one of the most respected, most skilled, and most physically demanding positions in all of fast food. If the Biscuit Maker doesn't show up, the entire breakfast operation is in jeopardy. There is no backup plan that doesn't involve another trained human being walking through that door at 4 AM. 
 
 ## The 4:00 AM Arrival: Alone in a Dark Kitchen
 

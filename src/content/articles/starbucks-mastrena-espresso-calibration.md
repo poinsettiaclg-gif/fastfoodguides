@@ -9,13 +9,18 @@ topic: "Coffee"
 relatedArticles:
   - "starbucks-morning-rush"
   - "starbucks-customer-support-cycle"
+faq:
+  - question: "What is the process for starbucks mastrena ii: espresso calibration?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 18 to 23 second rule to ensure efficiency and quality at Starbucks."
+  - question: "Why is auto-calibration and the grind important at Starbucks?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Starbucks locations."
 ---
 
 If you stand at the hand-off plane of any high-volume Starbucks location, you will see a massive, low-profile machine dominating the hot bar. This is the Mastrena II, a piece of equipment so central to the Starbucks operation that a single breakdown can instantly back up the entire store and ruin the morning rush.
 
 The jump from the original Mastrena to the Mastrena II was a massive technological shift for the company. The newer machines are shorter, allowing baristas to make eye contact with customers while pulling shots, and they feature three separate bean hoppers (usually holding signature espresso, blonde espresso, and decaf). 
 
-But the real magic of the Mastrena II happens behind the digital screen. Here is how veterans run the hot bar, pull the perfect shot, and keep the machine from locking up in the middle of a rush.
+But the real magic of the Mastrena II happens behind the digital screen. On the line, it plays out like this:
 
 ![Starbucks Mastrena Machine](../../assets/images/starbucks-mastrena-machine.png)
 

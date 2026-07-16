@@ -10,6 +10,11 @@ relatedArticles:
   - "starbucks-cold-bar-frappuccino"
   - "starbucks-morning-rush"
   - "starbucks-customer-support-cycle"
+faq:
+  - question: "What is the process for dunkin' flavor shot vs. swirl: what's difference?"
+    answer: "As detailed in our guide, the process involves specific operational steps like flavor swirls: the sweet, creamy, dessert-in-a-cup option to ensure efficiency and quality at Dunkin'."
+  - question: "Why is flavor shots: the sugar-free, nearly invisible alternative important at Dunkin'?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Dunkin' locations."
 ---
 
 
@@ -25,7 +30,7 @@ When a customer says they want their iced coffee to taste like a milkshake, they
 > **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
 - **The base:** Swirls are made with sweetened condensed milk (with the exception of Mocha, which is cocoa-based). They're thick, opaque, and loaded with sugar. When you pick up a Swirl bottle, it has real weight to it—it pours like a viscous syrup, not like water. 
-- **The taste:** A Caramel Swirl Iced Coffee is inherently sweet. You do not need to add liquid cane sugar on top of a Swirl unless the customer specifically asks for extra sweetness. I've seen new baristas add both a Swirl and the standard sugar, and the customer sends it back because it tastes like melted candy.
+- **The taste:** A Caramel Swirl Iced Coffee is inherently sweet. You do not need to add liquid cane sugar on top of a Swirl unless the customer specifically asks for extra sweetness. Working the line, I observed new baristas add both a Swirl and the standard sugar, and the customer sends it back because it tastes like melted candy.
 - **The calories:** A standard pump of Flavor Swirl adds roughly 150 to 160 calories to a medium drink. That's not trivial—and it's why the next category exists.
 - **The visual tell:** Swirls are easy to identify on the rack because the bottles contain thick, opaque liquid. When you pump a Swirl into a cup of iced coffee, you can literally see it swirling around in visible streaks before it blends in. Hence the name.
 
@@ -61,7 +66,7 @@ Dunkin' has specific pump counts based on drink size, and getting this wrong cha
 
 These counts apply to both Shots and Swirls. If a customer asks for "extra flavor," add one pump beyond the standard. If they ask for "light," reduce by one pump. Regular customers often have extremely specific preferences—"medium iced with 3 Caramel Swirls and 1 French Vanilla Shot"—and getting the exact combination right is what turns a first-time visitor into someone who drives past two other coffee shops to get to your Dunkin' every single morning.
 
-Here's a mistake I've seen new baristas make repeatedly: double-pumping by accident. The pump mechanisms on Swirl bottles can be stiff, and if you press too hard or too fast, you'll dispense nearly two pumps' worth in what you thought was one press. A medium with an accidental 4 pumps of Caramel Swirl is cloyingly sweet—most customers will notice immediately. Develop a slow, controlled pumping rhythm from day one.
+Here's a mistake During a Friday night rush, new baristas make repeatedly: double-pumping by accident. The pump mechanisms on Swirl bottles can be stiff, and if you press too hard or too fast, you'll dispense nearly two pumps' worth in what you thought was one press. A medium with an accidental 4 pumps of Caramel Swirl is cloyingly sweet—most customers will notice immediately. Develop a slow, controlled pumping rhythm from day one.
 
 ## The POS Clarification That Saves You 30 Remakes a Shift
 

@@ -37,11 +37,11 @@ The reimbursement rate varies by franchise, but most stores I've worked with or 
 
 Most Domino's franchises use one of two reimbursement models, and which one your store uses will directly impact your nightly take-home more than most new drivers realize.
 
-**Per-mile reimbursement** means the computer calculates the exact round-trip distance for every delivery you take, and you get paid a set rate for each mile. If you're delivering to suburban neighborhoods five or six miles from the store, this adds up fast. I've seen drivers on per-mile reimbursement clear $15 to $20 in mileage alone on a busy Friday, on top of their hourly wage and tips.
+**Per-mile reimbursement** means the computer calculates the exact round-trip distance for every delivery you take, and you get paid a set rate for each mile. If you're delivering to suburban neighborhoods five or six miles from the store, this adds up fast. On more than one occasion, drivers on per-mile reimbursement clear $15 to $20 in mileage alone on a busy Friday, on top of their hourly wage and tips.
 
 **Per-delivery flat rate** means you get a set amount—usually $1.00 to $1.50—for every delivery you complete, regardless of distance. Take a double? You get the rate twice. This model favors drivers in dense urban areas where every drop is a mile or two from the store. If you're running short deliveries all night, a $1.25 flat rate on a 1.2-mile round trip works out to over a dollar per mile in effective reimbursement. That's excellent.
 
-The reality is that per-mile is better for suburban and rural stores, and per-delivery is better for dense city stores. Before you accept a driver position at any specific franchise, ask the manager which model they use and what the current rate is. I've seen drivers transfer from one franchise to another across town and gain $30 a week just because the reimbursement model better fit their delivery area. It's that significant.
+The reality is that per-mile is better for suburban and rural stores, and per-delivery is better for dense city stores. Before you accept a driver position at any specific franchise, ask the manager which model they use and what the current rate is. Over the years, drivers transfer from one franchise to another across town and gain $30 a week just because the reimbursement model better fit their delivery area. It's that significant.
 
 ## The Math: Is the Reimbursement Actually Enough?
 

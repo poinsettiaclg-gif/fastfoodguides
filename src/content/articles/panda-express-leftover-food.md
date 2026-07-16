@@ -10,6 +10,11 @@ relatedArticles:
   - "panda-express-wok-chef"
   - "wendys-chili-leftover-hamburgers"
   - "five-guys-no-freezers"
+faq:
+  - question: "What is the process for what happens to leftover panda express food at closing??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the strict waste logging policy to ensure efficiency and quality at Panda Express."
+  - question: "Why is the cut-off time strategy important at Panda Express?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Panda Express locations."
 ---
 
 
@@ -30,7 +35,7 @@ The very first thing that happens at closing is the Waste Log. This isn't option
 
 Why does corporate care this much about leftover Orange Chicken? Because food cost is the single biggest metric a manager is judged on. If the Waste Log shows that you're throwing away 5 pounds of Orange Chicken every night, it means someone — usually the closing [Wok Chef](/articles/panda-express-wok-chef) — is cooking too much food too close to closing time.
 
-Corporate reviews these Waste Log numbers on a weekly and monthly basis. A store that consistently logs excessive waste gets flagged, and the General Manager may be required to attend a remediation call with their Area Coach to develop an action plan. In extreme cases, repeated high waste numbers can affect a manager's quarterly bonus or even their annual performance review. I've seen GMs lose hundreds of dollars in bonus money because their closing team couldn't get waste under control during a single bad month.
+Corporate reviews these Waste Log numbers on a weekly and monthly basis. A store that consistently logs excessive waste gets flagged, and the General Manager may be required to attend a remediation call with their Area Coach to develop an action plan. In extreme cases, repeated high waste numbers can affect a manager's quarterly bonus or even their annual performance review. Pulling double shifts taught me that GMs lose hundreds of dollars in bonus money because their closing team couldn't get waste under control during a single bad month.
 
 The Waste Log also serves a secondary purpose that most crew members don't think about: theft prevention. If a store is logging very low waste numbers but food cost is still high, it's a red flag that food is leaving the building through a different channel. The numbers should tell a consistent story, and when they don't, corporate starts asking uncomfortable questions.
 
@@ -54,7 +59,7 @@ This breaks the hearts of every new employee: **you are generally not allowed to
 While some independent franchises might have a lax manager who looks the other way, corporate policy strictly prohibits employees from bagging up leftover food at the end of the night. The reasoning is two-fold:
 
 1. **Safety liability**: Corporate doesn't want the exposure of an employee getting food poisoning from food that sat on a steam table for hours past its hold time. Even if the food still looks and smells fine, it may have been in the temperature danger zone long enough to become a health risk.
-2. **Intentional overproduction**: This is the real reason. If employees know they can take leftovers home, they are highly incentivized to intentionally overcook massive batches at 9:45 PM so they can take the "waste" home to their families. I've seen this happen — a closing Wok Chef fires a full 8-pound batch of their favorite item twenty minutes before close, waste numbers spike, and suddenly the Waste Log tells a very obvious story.
+2. **Intentional overproduction**: This is the real reason. If employees know they can take leftovers home, they are highly incentivized to intentionally overcook massive batches at 9:45 PM so they can take the "waste" home to their families. In my time behind the counter, this happen — a closing Wok Chef fires a full 8-pound batch of their favorite item twenty minutes before close, waste numbers spike, and suddenly the Waste Log tells a very obvious story.
 
 The reality is that this rule is one of the most commonly broken policies in the entire chain. Many managers do look the other way, especially for hardworking employees who close multiple nights a week. But officially, if a corporate auditor or Area Coach catches an employee leaving with food, both the employee and the manager on duty can face disciplinary action.
 

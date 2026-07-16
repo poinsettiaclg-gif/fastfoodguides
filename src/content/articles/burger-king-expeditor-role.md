@@ -10,11 +10,16 @@ relatedArticles:
   - "burger-king-broiler"
   - "burger-king-broiler-closing"
   - "taco-bell-linebacker-role"
+faq:
+  - question: "What is the process for what is burger king expeditor role during a rush??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the bridge between kitchen and customer to ensure efficiency and quality at Burger King."
+  - question: "Why is the core duties of the expo important at Burger King?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Burger King locations."
 ---
 
 
 
-During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and I can tell you that it is simultaneously the most stressful and most satisfying role in the entire building. 
+During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and Having lived through it, it is simultaneously the most stressful and most satisfying role in the entire building. 
 
 ## The Bridge Between Kitchen and Customer
 
@@ -53,7 +58,7 @@ A standard Whopper has lettuce, tomato, onion, pickle, ketchup, and mayo. That i
 
 A typical modified order might read: "Whopper No Onion, No Pickle, Add Mustard, Light Lettuce, Extra Mayo." The Expo has to open the wrapper, visually inspect the sandwich, confirm every modification matches the screen, re-wrap it, and bag it—all in about 10 seconds. If you accidentally hand out a "No Mayo" Whopper that is dripping with mayo, that customer is coming back to the counter, and now you have a remake that slows down every order behind it.
 
-I've seen Expos get burned by stacked modifications—an order with five customized Whoppers, each one different, all for the same car in the drive-thru. You have to check each one individually, match them to the correct line item on the screen, and bag them in order. Miss one modification and the entire order comes back.
+I watched Expos get burned by stacked modifications—an order with five customized Whoppers, each one different, all for the same car in the drive-thru. You have to check each one individually, match them to the correct line item on the screen, and bag them in order. Miss one modification and the entire order comes back.
 
 ## Why the Manager Always Works Expo
 

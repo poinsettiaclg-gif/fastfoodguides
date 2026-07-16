@@ -25,7 +25,7 @@ Peanut oil is expensive. It is subject to massive crop market fluctuations. It r
 
 > **Russell's Note:** I've run kitchens that used cheap soybean oil to save on food costs. By 2:00 PM on a Friday, the entire kitchen smells like burnt fish, the oil is completely black, and the chicken tastes like a tire. You cannot fake good oil.
 
-In this guide, we are going to break down the exact operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes. We'll look at the engineering of the Henny Penny [pressure fryers](/articles/kfc-pressure-fryers/), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
+we are going to break down the exact operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes. We'll look at the engineering of the Henny Penny [pressure fryers](/articles/kfc-pressure-fryers/), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
 
 ## The Chemistry of Peanut Oil: Smoke Points and Flavor Transfer
 
@@ -37,7 +37,7 @@ These particles break down under high heat, lowering the oil's **smoke point**�
 
 Peanut oil has an exceptionally high starting smoke point (around 450°F / 232°C). This is critical because Chick-fil-A cooks its chicken at approximately 325°F under pressure. The massive buffer between the cooking temperature and the smoke point means the oil can withstand extreme punishment without breaking down into the bitter, acrid compounds that ruin the flavor of the food. 
 
-Furthermore, peanut oil is incredibly stable regarding flavor transfer. In a high-volume kitchen, you want the chicken to taste like chicken, not like the oil it was cooked in. While unrefined peanut oil (the kind used in some Asian cuisines) has a distinct nutty flavor, the 100% refined peanut oil used by Chick-fil-A is entirely flavor-neutral. It simply acts as a perfect, high-heat transmission medium.
+Beyond that, peanut oil is incredibly stable regarding flavor transfer. In a high-volume kitchen, you want the chicken to taste like chicken, not like the oil it was cooked in. While unrefined peanut oil (the kind used in some Asian cuisines) has a distinct nutty flavor, the 100% refined peanut oil used by Chick-fil-A is entirely flavor-neutral. It simply acts as a perfect, high-heat transmission medium.
 
 ## The Workhorse: The Henny Penny Pressure Fryer
 
@@ -55,7 +55,7 @@ As the moisture in the chicken turns to steam, it has nowhere to escape. The pre
 2. **Moisture Retention:** Because the steam cannot escape the vat, it cannot escape the chicken. This is the mechanical secret to why Chick-fil-A sandwiches are famously juicy on the inside while crispy on the outside. An open-vat fryer would dry out a breast fillet of that thickness before it finished cooking to the center.
 3. **Oil Penetration:** The pressure physically prevents the peanut oil from penetrating past the breading layer. You get the crispy crust without the greasy, oil-logged interior. 
 
-> **Russell's Note:** Dropping a pressure fryer requires extreme focus. If you lock that lid down without ensuring the O-ring gasket is clean and seated perfectly, you're going to have a 325-degree geyser of vaporized peanut oil shooting across your kitchen. I've seen it happen. It clears the line instantly.
+> **Russell's Note:** Dropping a pressure fryer requires extreme focus. If you lock that lid down without ensuring the O-ring gasket is clean and seated perfectly, you're going to have a 325-degree geyser of vaporized peanut oil shooting across your kitchen. More times than I can count, it happen. It clears the line instantly.
 
 ## The Magnasol Filtration Process
 

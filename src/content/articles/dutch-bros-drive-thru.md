@@ -49,7 +49,7 @@ You don't just hand a new hire an iPad and send them into the line on day one. T
 
 Training follows a predictable path:
 
-1.  **Shadow shifts (2–3 days):** The trainee stands next to a veteran linebuster, watching how they greet customers, navigate the POS app on the iPad, and handle modifications. They're not touching the tablet yet. They're just absorbing the flow.
+1.  **Shadow shifts (2–3 days):** The trainee stands next to a veteran linebuster, watching how they greet customers, manage the POS app on the iPad, and handle modifications. They're not touching the tablet yet. They're just absorbing the flow.
 2.  **Drink code memorization:** Before going solo, a trainee has to demonstrate fluency in the shorthand coding system. Most stores quiz them on a sheet of 40–50 common drink builds, and they need to hit at least 90% accuracy before being cleared.
 3.  **Supervised solo shifts:** The trainee takes orders on their own iPad while a veteran linebuster shadows them from behind, correcting coding errors in real time. This usually lasts another 2–3 shifts.
 4.  **Full solo clearance:** Once the shift lead is confident the trainee can handle a 30-car line without backing up the baristas inside, they're cleared for solo linebuster duty.

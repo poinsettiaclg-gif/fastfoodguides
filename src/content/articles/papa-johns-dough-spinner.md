@@ -10,6 +10,11 @@ relatedArticles:
   - "papa-johns-dough-slapping"
   - "little-caesars-sheetout-machine"
   - "dominos-oven-tender-role"
+faq:
+  - question: "What is the process for what is papa john's ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like what the dough spinner actually is to ensure efficiency and quality at Papa John's."
+  - question: "Why is how the machine actually works important at Papa John's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Papa John's locations."
 ---
 
 
@@ -40,7 +45,7 @@ Here's the thing nobody tells you about this machine: it hums. There's a constan
 Instead of the theatrical slapping and spinning that [Papa John's traditionalists love](/articles/papa-johns-dough-slapping), the process is almost insultingly simple:
 
 1. **Coat the dough ball in Dustinator** — that's the cornmeal blend that prevents sticking and gives the bottom crust its texture.
-2. **Place the ball dead center on the bottom platen.** And I mean dead center. I've seen new hires eyeball this and produce lopsided crusts that are thick on one side and paper-thin on the other. Some veteran operators actually make a tiny flour mark on the platen as a centering guide.
+2. **Place the ball dead center on the bottom platen.** And I mean dead center. Over the years, new hires eyeball this and produce lopsided crusts that are thick on one side and paper-thin on the other. Some veteran operators actually make a tiny flour mark on the platen as a centering guide.
 3. **Pull the lever down.** The machine physically crushes the dough ball flat in about three seconds.
 
 That's it. Three seconds. What used to take a skilled Insider 30 to 45 seconds of hand-slapping now takes the time it takes you to blink twice. The heated platens relax the gluten instantly, so when you lift the lever, the dough stays flat instead of contracting back into a lumpy blob.
@@ -61,7 +66,7 @@ Here's the uncomfortable truth: in blind taste tests among staff, the results ar
 
 The Spinner's biggest impact isn't on the pizza. It's on the people making it. Before the machine, new Insiders needed one to three weeks of practice before they could reliably slap dough without tearing it. That training period was expensive — wasted dough, slower makeline speeds, a trainer pulled off their own station to babysit. With the Spinner, a new hire is pressing perfect bases within minutes of their first training shift.
 
-But here's the trap I've seen play out a dozen times: when the machine breaks — and it will break, usually during the worst possible moment — a store full of machine-trained employees suddenly can't produce pizzas. I once watched a Friday night rush grind to a halt because the Spinner's heating element died and not a single closer knew how to hand-slap. The GM had to call a veteran employee at home and beg them to come in. Learn the hand-slap even if your store has a Spinner. You become the most valuable person in the building the night that machine goes down.
+But here's the trap I witnessed play out a dozen times: when the machine breaks — and it will break, usually during the worst possible moment — a store full of machine-trained employees suddenly can't produce pizzas. I once watched a Friday night rush grind to a halt because the Spinner's heating element died and not a single closer knew how to hand-slap. The GM had to call a veteran employee at home and beg them to come in. Learn the hand-slap even if your store has a Spinner. You become the most valuable person in the building the night that machine goes down.
 
 ## Maintaining the Machine
 

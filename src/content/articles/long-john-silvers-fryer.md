@@ -18,7 +18,7 @@ faq:
 
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.
 
-If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fuses to the heating elements, and ruins the entire vat of oil. Here is how they prevent that.
+If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fuses to the heating elements, and ruins the entire vat of oil. On the line, it plays out like this:
 
 ## The Specialized Fryer Vat
 

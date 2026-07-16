@@ -27,7 +27,7 @@ You cannot survive that kind of volume with a good attitude and elbow grease. Yo
 
 > **Russell's Note:** The worst thing that can happen on Super Bowl Sunday isn't running out of pepperoni. It's the internet going down. If the system goes offline and you have to switch to analog tickets during the rush, the store is effectively dead. 
 
-At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. In this guide, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
+At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. Throughout this breakdown, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
 
 ## The Brain of the Operation: The Pulse System
 
@@ -91,7 +91,7 @@ Despite the algorithmic perfection of Pulse, the physical reality of a kitchen c
 
 The Super Bowl rush tests the absolute physical limits of the equipment and the crew. A continuous-belt oven can only cook so many pizzas per hour. If the makeline is too fast, the oven backs up, and insiders have to hold raw pizzas on racks until there is space on the belt. 
 
-Furthermore, you are dealing with finite physical space in the walk-in cooler. A store preparing for the Super Bowl will have stacks of dough trays piled higher than a person, completely filling the cooler. If the shift manager didn't proof the dough correctly (pulling it from the cooler to let it rise to room temperature), the insiders will be stretching cold, stiff dough, slowing the entire makeline down and completely breaking the Pulse system's load-balancing math.
+Adding to this, you are dealing with finite physical space in the walk-in cooler. A store preparing for the Super Bowl will have stacks of dough trays piled higher than a person, completely filling the cooler. If the shift manager didn't proof the dough correctly (pulling it from the cooler to let it rise to room temperature), the insiders will be stretching cold, stiff dough, slowing the entire makeline down and completely breaking the Pulse system's load-balancing math.
 
 ## The Bottom Line
 

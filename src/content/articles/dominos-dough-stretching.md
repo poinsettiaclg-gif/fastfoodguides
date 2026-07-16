@@ -10,6 +10,11 @@ relatedArticles:
   - "dominos-gas"
   - "dominos-20-bank-rule"
   - "dominos-oven-tender-role"
+faq:
+  - question: "What is the process for domino's dough stretching: hand-toss technique?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the dough does not arrive as dough to ensure efficiency and quality at Domino's."
+  - question: "Why is the hand-stretch process important at Domino's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
 ---
 
 ## The Dough Does Not Arrive as Dough

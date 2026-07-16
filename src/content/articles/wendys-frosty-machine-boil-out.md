@@ -10,6 +10,11 @@ relatedArticles:
   - "wendys-closing-duties"
   - "wendys-clamshell-grill"
   - "dairy-queen-blizzard-flip"
+faq:
+  - question: "What is the process for wendy's frosty machine boil-out: how it works?"
+    answer: "As detailed in our guide, the process involves specific operational steps like why the boil-out is non-negotiable to ensure efficiency and quality at Wendy's."
+  - question: "Why is step 1: the drain and flush important at Wendy's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
 ---
 
 
@@ -70,7 +75,7 @@ This is where new employees always, always mess up. When putting the machine bac
 
 Squeeze a generous bead of lubricant onto your gloved finger and coat the entire circumference of each O-ring before sliding it back into its groove. Then coat the drive shaft where the auger connects. A well-lubricated machine reassembles smoothly—the O-rings slide into position without resistance, and the faceplate bolts on cleanly.
 
-A dry O-ring will catch on the groove, twist out of position, and potentially tear. And here's the real problem: your store may or may not have replacement O-rings in stock. If a ring tears at 11:30 PM and there's no spare, the Frosty machine is offline until a replacement arrives—which might mean no Frosties for Saturday morning. I've seen this happen more times than I want to admit, and it's always because someone thought they could skip the lube step "just this once."
+A dry O-ring will catch on the groove, twist out of position, and potentially tear. And here's the real problem: your store may or may not have replacement O-rings in stock. If a ring tears at 11:30 PM and there's no spare, the Frosty machine is offline until a replacement arrives—which might mean no Frosties for Saturday morning. I witnessed this happen more times than I want to admit, and it's always because someone thought they could skip the lube step "just this once."
 
 ## Step 5: The Test Run
 

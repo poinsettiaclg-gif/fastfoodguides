@@ -6,13 +6,18 @@ author: "Russell Roseberry"
 authorTitle: "10-Year QSR Veteran"
 chain: "In-N-Out Burger"
 topic: "Burgers"
+faq:
+  - question: "What is the process for in-n-out animal style fries: make-line mechanics?"
+    answer: "As detailed in our guide, the process involves specific operational steps like step 1: the fry station drop to ensure efficiency and quality at In-N-Out Burger."
+  - question: "Why is step 2: the red boat important at In-N-Out Burger?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all In-N-Out Burger locations."
 ---
 
 In-N-Out Burger is famous for its simple, high-quality menu. But anyone who has lived in California knows that the real menu isn't printed on the wall. The "Secret Menu" is the worst-kept secret in the fast-food world, and the undisputed king of that menu is **Animal Style Fries**.
 
 As a former QSR manager, I'm always fascinated by how restaurants integrate off-menu items into their highly regimented assembly lines. At In-N-Out, Animal Style Fries are such a high-volume request that the kitchen has specific procedures and tools just for building them.
 
-Here is exactly how they are made, step-by-step, behind the counter.
+Let me lay out the process:
 
 ## Step 1: The Fry Station Drop
 

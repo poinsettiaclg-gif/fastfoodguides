@@ -10,6 +10,11 @@ relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-gas"
   - "papa-johns-dough-slapping"
+faq:
+  - question: "What is the process for what is ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the catch: a conveyor belt that never stops to ensure efficiency and quality at Domino's."
+  - question: "Why is the cut and box: 15 seconds per pizza or you're drowning important at Domino's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
 ---
 
 
@@ -28,7 +33,7 @@ Domino's uses massive Lincoln Impinger conveyor-belt ovens. Raw pizzas go in one
 
 During a Friday dinner rush, the makeline might be feeding four or five pizzas side-by-side into that oven every 30 seconds. Do the math—on the other end, four or five fully baked, screaming-hot pizzas are constantly sliding toward the edge of the belt, ready to tumble off onto the floor if nobody's there to grab them. 
 
-The Oven Tender stands at the exit with a long metal peel—a flat spatula designed to slide under a pizza in one motion. You catch the pizza right as it reaches the belt's edge, transfer it to the cutting board in one fluid movement, and immediately reach for the next one. I've seen experienced Tenders work the oven with the calm efficiency of a blackjack dealer, catching and sliding pizzas without ever breaking stride. I've also seen new hires freeze up and watch three pizzas hit the floor in the span of ten seconds. The belt does not forgive hesitation.
+The Oven Tender stands at the exit with a long metal peel—a flat spatula designed to slide under a pizza in one motion. You catch the pizza right as it reaches the belt's edge, transfer it to the cutting board in one fluid movement, and immediately reach for the next one. On more than one occasion, experienced Tenders work the oven with the calm efficiency of a blackjack dealer, catching and sliding pizzas without ever breaking stride. I've also seen new hires freeze up and watch three pizzas hit the floor in the span of ten seconds. The belt does not forgive hesitation.
 
 ## The Cut and Box: 15 Seconds Per Pizza or You're Drowning
 
@@ -53,7 +58,7 @@ The Oven Tender has to look at that hot pizza, instantly recognize it as a "Larg
 
 The veteran Tenders I trained all developed their own systems. Some pre-sorted labels by order number. Some grouped them by delivery versus carryout. Some arranged them geographically by driver route so they could batch multiple pizzas for the same driver together. The specific system didn't matter nearly as much as having one at all. A Tender with no label organization system will mismatch labels within the first 20 minutes of a rush, guaranteed.
 
-And mismatching is catastrophic. One wrong label means the wrong pizza goes to the wrong customer. That's two angry phone calls, two full remakes, two re-deliveries, and 20-plus minutes of wasted labor. I've seen a single labeling error snowball into a half-hour backlog during peak. It's the kind of mistake that makes an entire shift go sideways.
+And mismatching is catastrophic. One wrong label means the wrong pizza goes to the wrong customer. That's two angry phone calls, two full remakes, two re-deliveries, and 20-plus minutes of wasted labor. Pulling double shifts taught me that a single labeling error snowball into a half-hour backlog during peak. It's the kind of mistake that makes an entire shift go sideways.
 
 ## The Garlic Oil: Two Seconds That Customers Absolutely Notice
 

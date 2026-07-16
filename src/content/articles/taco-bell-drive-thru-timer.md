@@ -10,13 +10,18 @@ relatedArticles:
   - "taco-bell-linebacker-role"
   - "taco-bell-menu"
   - "taco-bell-rehydrate-beans"
+faq:
+  - question: "What is the process for how does taco bell drive-thru timer actually work??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the sensors and the zones to ensure efficiency and quality at Taco Bell."
+  - question: "Why is the 50-second goal (and why it is not arbitrary) important at Taco Bell?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Taco Bell locations."
 ---
 
 
 
 When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster. 
 
-This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Here is exactly how the system works, why it matters more than almost any other metric in the building, and how experienced crews bend the rules to keep those numbers green. 
+This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. Let me lay out the process: 
 
 ## The Sensors and the Zones
 

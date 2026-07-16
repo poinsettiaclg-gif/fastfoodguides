@@ -26,7 +26,7 @@ Let's be honest — Chili's built an entire brand identity around that jingle. F
 
 > **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
 
-I managed multiple Chili's kitchens over a stretch of years, and I can tell you right now: that is not what's happening. There is no smoker in the back. There's no woodpile next to the dumpster. But before you get cynical about it, hear me out — because the actual process is more interesting than you think, and the ribs are still genuinely good for a chain restaurant.
+I managed multiple Chili's kitchens over a stretch of years, and Speaking from the trenches, right now: that is not what's happening. There is no smoker in the back. There's no woodpile next to the dumpster. But before you get cynical about it, hear me out — because the actual process is more interesting than you think, and the ribs are still genuinely good for a chain restaurant.
 
 What Chili's does is run a hybrid system: off-site smoking for the base flavor, precision reheating for tenderness, and high-heat grilling on-site for finish and char. Every single step is engineered around consistency, speed, and food safety. And when it's executed correctly, it works extremely well.
 

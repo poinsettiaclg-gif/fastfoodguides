@@ -10,13 +10,18 @@ relatedArticles:
   - "pizza-hut-dispatch"
   - "dominos-gas"
   - "dominos-20-bank-rule"
+faq:
+  - question: "What is the process for what happens if a pizza delivery driver gets in an accident??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the insurance gap nobody warns you about to ensure efficiency and quality at Multi-Chain."
+  - question: "Why is what the pizza company's insurance actually covers important at Multi-Chain?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Multi-Chain locations."
 ---
 
 
 
 I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag. 
 
-Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles/chain/pizza-hut), or [Papa John's](/articles/chain/papa-johns) is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. Here's what actually happens when the worst-case scenario hits. 
+Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles/chain/pizza-hut), or [Papa John's](/articles/chain/papa-johns) is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. The operational reality: 
 
 ## The Insurance Gap Nobody Warns You About
 
@@ -30,7 +35,7 @@ Read that again. Let it sink in.
 
 If you get into a wreck and tell your insurance company "I was delivering a pizza," they will almost certainly deny your claim. Standard policies specifically exclude "commercial driving" or "using your vehicle for hire." It doesn't matter that you were only five minutes from the store. It doesn't matter that the accident wasn't your fault. The moment you admit you were on the clock, your personal coverage evaporates.
 
-To fix this, you need to call your insurance agent — before your first delivery shift, not after your first accident — and add a Business Use Endorsement or a delivery rider to your policy. It takes about 10 minutes over the phone. Most drivers report paying an additional $20 to $50 per month for the endorsement. That sounds steep when you're making $12 an hour plus tips, but consider the alternative: if you total your car on a delivery run without it, you're personally responsible for thousands in repairs, the other driver's damages, and any medical bills. I've seen drivers lose their cars and end up buried in debt because they skipped this step.
+To fix this, you need to call your insurance agent — before your first delivery shift, not after your first accident — and add a Business Use Endorsement or a delivery rider to your policy. It takes about 10 minutes over the phone. Most drivers report paying an additional $20 to $50 per month for the endorsement. That sounds steep when you're making $12 an hour plus tips, but consider the alternative: if you total your car on a delivery run without it, you're personally responsible for thousands in repairs, the other driver's damages, and any medical bills. I watched drivers lose their cars and end up buried in debt because they skipped this step.
 
 ## What the Pizza Company's Insurance Actually Covers
 
@@ -66,13 +71,13 @@ When the worst happens, adrenaline takes over and your brain stops working logic
 
 Before you start delivering, most franchises require your car to pass a basic inspection. Working headlights, taillights, brake lights, and turn signals are non-negotiable. Valid registration, state-minimum insurance, and a current inspection sticker where applicable. Management is supposed to do periodic vehicle checks throughout your employment — not just at hiring.
 
-Here's the reality though: I've seen managers who inspect every driver's car monthly like clockwork, and I've seen managers who look the other way because they're desperate for warm bodies during the dinner rush. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle just because your manager does.
+Here's the reality though: In my time behind the counter, managers who inspect every driver's car monthly like clockwork, and I've seen managers who look the other way because they're desperate for warm bodies during the dinner rush. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle just because your manager does.
 
 Keep a basic [bank of cash for making change](/articles/dominos-20-bank-rule), a working dashcam (they cost as little as $30), and a phone charger in your car at all times. A dashcam provides indisputable evidence of what happened in an accident. If the other driver claims you ran a red light and your footage says otherwise, that camera just saved your livelihood.
 
 ## The One Rule That Matters More Than Anything
 
-Never speed to meet a delivery time guarantee. No tip and no delivery bonus is worth a car accident. If you're running behind, call the customer and let them know. A late pizza is an inconvenience. A car wreck can change your entire life. I've seen it happen, and it's never worth the three-dollar tip you were chasing.
+Never speed to meet a delivery time guarantee. No tip and no delivery bonus is worth a car accident. If you're running behind, call the customer and let them know. A late pizza is an inconvenience. A car wreck can change your entire life. I witnessed it happen, and it's never worth the three-dollar tip you were chasing.
 
 ## Frequently Asked Questions
 

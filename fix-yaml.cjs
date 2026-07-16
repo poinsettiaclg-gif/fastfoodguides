@@ -1,19 +1,11 @@
 const fs = require('fs');
-const path = require('path');
-
-const dir = path.join(__dirname, 'src/content/articles');
-const files = fs.readdirSync(dir);
-
-let count = 0;
-files.forEach(f => {
-  if (f.endsWith('.md')) {
-    const p = path.join(dir, f);
-    let c = fs.readFileSync(p, 'utf-8');
-    if (c.includes('" description: "')) {
-      c = c.replace(/" description: "/g, '"\ndescription: "');
-      fs.writeFileSync(p, c, 'utf-8');
-      count++;
-    }
-  }
-});
-console.log('Fixed ' + count + ' files.');
+const files = fs.readdirSync('src/content/articles');
+for (const f of files) {
+  if (!f.endsWith('.md')) continue;
+  let text = fs.readFileSync('src/content/articles/' + f, 'utf8');
+  let newText = text.replace(/(question|answer):\s*"(.*)"$/gm, (match, key, val) => {
+    const safeVal = val.replace(/"/g, "'");
+    return `${key}: "${safeVal}"`;
+  });
+  if (text !== newText) fs.writeFileSync('src/content/articles/' + f, newText);
+}

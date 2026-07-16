@@ -9,13 +9,18 @@ topic: "Sides"
 relatedArticles:
   - "kfc-pressure-fryers"
   - "kfc-original-vs-extra-crispy"
+faq:
+  - question: "What is the process for kfc gravy: how cracklings make difference?"
+    answer: "As detailed in our guide, the process involves specific operational steps like harvesting the crackling to ensure efficiency and quality at KFC."
+  - question: "Why is the recipe and ratios important at KFC?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all KFC locations."
 ---
 
 If you have ever worked in the fast food industry, you know that gravy is usually an afterthought. At most chains, making gravy involves tearing open a foil packet of brown powder, dumping it into a large metal cambro, adding boiling water from the coffee machine, and whisking until your arm falls off. It is cheap, fast, and entirely unremarkable.
 
 KFC does things differently. While they do use a proprietary seasoning packet as a base, the secret ingredient that gives KFC gravy its dark color, rich mouthfeel, and highly specific savory flavor is a back-of-house byproduct known as "crackling."
 
-When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown sludge at the bottom of the deep fryer is actually the foundation of a beloved side dish is a rite of passage. Here is exactly how the crackling is harvested, processed, and turned into KFC gravy.
+When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown sludge at the bottom of the deep fryer is actually the foundation of a beloved side dish is a rite of passage. Let me lay out the process:
 
 ![KFC Gravy Crackling Station](../../assets/images/kfc-gravy-crackling.png)
 

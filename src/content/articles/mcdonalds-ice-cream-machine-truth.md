@@ -6,11 +6,16 @@ author: "Russell Roseberry"
 authorTitle: "10-Year QSR Veteran"
 chain: "McDonald's"
 topic: "Drive-Thru"
+faq:
+  - question: "What is the process for mcdonald's ice cream machine: why it's really broken?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the dreaded heat treatment cycle to ensure efficiency and quality at McDonald's."
+  - question: "Why is the cryptic error codes important at McDonald's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all McDonald's locations."
 ---
 
-If there is one universal truth in the fast-food industry, it is the running joke that the McDonald's ice cream machine is always broken. As someone who has spent a decade managing QSR operations, I can tell you that the reality is far more complicated—and frustrating—than "the employees just don't want to clean it."
+If there is one universal truth in the fast-food industry, it is the running joke that the McDonald's ice cream machine is always broken. As someone who has spent a decade managing QSR operations, Believe me when I say the reality is far more complicated—and frustrating—than "the employees just don't want to clean it."
 
-The machine in question is usually the **Taylor C602** digital soft serve and shake machine. It is an incredibly sophisticated, highly temperamental piece of dairy equipment. Here is exactly what happens behind the counter when you are told "the machine is down."
+The machine in question is usually the **Taylor C602** digital soft serve and shake machine. It is an incredibly sophisticated, highly temperamental piece of dairy equipment. Walk with me through the actual steps:"
 
 ## The Dreaded Heat Treatment Cycle
 
@@ -36,7 +41,7 @@ When this happens, the machine displays a generic "HEAT CYCLE FAILURE" message a
 
 ## The Cryptic Error Codes
 
-The Taylor C602 is notorious for its terrible user interface. When something goes wrong, it doesn't give a plain English explanation. It gives an error code or requires the manager to navigate a hidden diagnostic menu. 
+The Taylor C602 is notorious for its terrible user interface. When something goes wrong, it doesn't give a plain English explanation. It gives an error code or requires the manager to deal with the hidden diagnostic menu. 
 
 For years, franchise owners had to call authorized Taylor technicians—at exorbitant hourly rates—just to find out that a $2 O-ring was slightly misaligned or that the hopper temperature was 2 degrees too high. 
 

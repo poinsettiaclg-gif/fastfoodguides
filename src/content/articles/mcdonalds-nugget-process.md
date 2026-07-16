@@ -10,12 +10,17 @@ relatedArticles:
   - "mcdonalds-ice-cream-machine"
   - "mcdonalds-abs-system"
   - "mcdonalds-pos-crash"
+faq:
+  - question: "What is the process for mcdonald's nuggets: full production process?"
+    answer: "As detailed in our guide, the process involves specific operational steps like what mcnuggets are actually made of to ensure efficiency and quality at McDonald's."
+  - question: "Why is the factory process: breast to nugget important at McDonald's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all McDonald's locations."
 ---
 
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
 
-If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. Here is exactly how it works, from the processing plant to the paper bag in your hand. 
+If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It’s pink slime.” “It’s mechanically separated chicken.” “They use every part of the bird.” “It’s not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. The exact process: 
 
 ## What McNuggets Are Actually Made Of
 

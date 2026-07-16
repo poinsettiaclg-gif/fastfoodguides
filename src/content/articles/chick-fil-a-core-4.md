@@ -10,6 +10,11 @@ relatedArticles:
   - "chick-fil-a-ipos-system"
   - "in-n-out-level-system"
   - "starbucks-customer-support-cycle"
+faq:
+  - question: "What is the process for chick-fil-a core 4: service model explained?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the chick-fil-a core 4 explained to ensure efficiency and quality at Chick-fil-A."
+  - question: "Why is why the core 4 actually works important at Chick-fil-A?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chick-fil-A locations."
 ---
 
 
@@ -30,7 +35,7 @@ The Core 4 is the foundational customer service model that is drilled into every
 
 2. **Share a Smile.** Yes, it sounds cliché. No, they are not joking. A genuine smile is a strict requirement, not a suggestion. The key word is "genuine." Chick-fil-A managers are trained to distinguish between a real smile and a forced, dead-eyed customer service grimace. If your smile does not reach your eyes, you will hear about it during your next coaching session.
 
-3. **Speak with an Enthusiastic Tone.** You cannot sound bored, tired, or annoyed—even if it is 9:45 PM and you have been on your feet since 6:00 AM. Your vocal energy has to project warmth and genuine interest. I've seen team members get pulled aside after a single interaction where their tone dropped flat. It is monitored that closely.
+3. **Speak with an Enthusiastic Tone.** You cannot sound bored, tired, or annoyed—even if it is 9:45 PM and you have been on your feet since 6:00 AM. Your vocal energy has to project warmth and genuine interest. Working the line, I observed team members get pulled aside after a single interaction where their tone dropped flat. It is monitored that closely.
 
 4. **Stay Connected to Make It Personal.** This is the hardest one and the one that separates Chick-fil-A from every other chain. "Making it personal" means engaging the guest beyond the transaction. Ask how their day is going. Comment on the weather. Notice that a mom is juggling three kids and proactively bring a high chair to the table before she has to ask. This pillar is about reading people and anticipating needs, and it requires genuine emotional intelligence that cannot be faked.
 

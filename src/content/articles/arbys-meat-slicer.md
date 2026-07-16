@@ -10,6 +10,11 @@ relatedArticles:
   - "five-guys-no-freezers"
   - "jersey-mikes-hot-sub-grill"
   - "kfc-original-vs-extra-crispy"
+faq:
+  - question: "What is the process for how does arby's slicer work (and is meat real)??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the truth about the meat to ensure efficiency and quality at Arby's."
+  - question: "Why is the deli slicer station important at Arby's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Arby's locations."
 ---
 
 
@@ -35,7 +40,7 @@ Here's the thing nobody tells you about the "liquid meat" myth: the marinade is 
 
 Arby's does not pre-slice their meat. Every single sandwich gets its meat sliced fresh, paper-thin, on a massive commercial-grade deli slicer positioned right on the assembly line. This is not a decorative feature—it is the operational heart of the store.
 
-If you are assigned to the slicer station, you have already earned serious trust. In most locations, only managers or specifically certified adult employees touch this machine. I've seen new hires stare at the slicer on their first day like it is a medieval torture device, and honestly, that level of respect is appropriate.
+If you are assigned to the slicer station, you have already earned serious trust. In most locations, only managers or specifically certified adult employees touch this machine. One memorable shift, new hires stare at the slicer on their first day like it is a medieval torture device, and honestly, that level of respect is appropriate.
 
 **The Technique:** You place the hot roast beef onto the slicer carriage, turn the machine on, and rapidly slide the carriage back and forth across a spinning blade. The paper-thin slices fall directly onto a digital scale below. Veteran operators develop a smooth, rhythmic cadence—almost musical—that produces perfectly uniform slices without tearing or jamming. Jerky, uneven strokes produce ragged slices that look terrible on the sandwich and waste product.
 
@@ -49,7 +54,7 @@ Here is where the slicer station gets genuinely serious. Commercial deli slicers
 
 The end-of-night cleaning procedure is rigorous and takes about 15 to 20 minutes if done correctly. After unplugging the machine—not just turning it off, but physically pulling the plug from the wall—you must disassemble the blade guard, the carriage plate, and the product tray. Each component is scrubbed individually with a food-safe sanitizer and a non-abrasive sponge. The blade itself is wiped carefully from the center outward, never in a circular motion along the edge. One circular wipe in the wrong direction and you are making a trip to the emergency room.
 
-You are required to wear a thick Kevlar mesh glove during this entire process. I've seen exactly one employee try to "save time" by skipping the glove. He nicked two fingertips on the same night and never made that mistake again. Cutting corners on slicer cleaning is also a serious health code violation—the kind that can shut a store down during an inspection.
+You are required to wear a thick Kevlar mesh glove during this entire process. More times than I can count, exactly one employee try to "save time" by skipping the glove. He nicked two fingertips on the same night and never made that mistake again. Cutting corners on slicer cleaning is also a serious health code violation—the kind that can shut a store down during an inspection.
 
 ## The Morning Calibration Routine
 

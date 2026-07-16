@@ -17,7 +17,7 @@ faq:
 
 
 
-You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. Here is what actually happens behind the counter during the Prep and Bake shift—and everything corporate training skims over. 
+You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. The truth of the matter: 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 

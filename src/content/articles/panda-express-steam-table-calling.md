@@ -9,6 +9,11 @@ topic: "Operations"
 relatedArticles:
   - "panda-express-wok-chef"
   - "panda-express-leftover-food"
+faq:
+  - question: "What is the process for panda express steam table: how 'calling food' works?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the problem with the kds to ensure efficiency and quality at Panda Express."
+  - question: "Why is the role of the caller important at Panda Express?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Panda Express locations."
 ---
 
 When you walk into a modern fast food restaurant, the kitchen usually runs on a Kitchen Display System (KDS). A customer places an order at the register, a digital ticket pops up on a screen above the grill, and the cooks quietly assemble the meal. It is a highly digitized, tracked, and silent operation. 
@@ -17,7 +22,7 @@ Panda Express rejects this entirely for its hot food prep.
 
 If you stand in line at Panda Express during a lunch rush, you will hear a constant stream of yelling. The front-of-house workers (the people serving your food) are shouting things like, "Half pan Orange!" or "Batch two Beijing Beef!" while the wok chefs shout back to acknowledge the order. 
 
-This verbal loop is called "calling food," and it is the single most important operational system in a Panda Express kitchen. Without it, the steam table runs empty, ticket times collapse, and the entire store grinds to a halt. Here is how the system works and why it is so difficult to master.
+This verbal loop is called "calling food," and it is the single most important operational system in a Panda Express kitchen. Without it, the steam table runs empty, ticket times collapse, and the entire store grinds to a halt. This is the actual sequence:
 
 ![Panda Express Steam Table](../../assets/images/panda-express-steam-table.png)
 

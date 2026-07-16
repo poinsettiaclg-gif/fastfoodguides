@@ -10,6 +10,11 @@ relatedArticles:
   - "wendys-4-corner-press"
   - "wendys-chili-leftover-hamburgers"
   - "wendys-closing-duties"
+faq:
+  - question: "What is the process for what is wendy's double-sided ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like how the clamshell actually works to ensure efficiency and quality at Wendy's."
+  - question: "Why is the speed advantage that changes everything important at Wendy's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
 ---
 
 

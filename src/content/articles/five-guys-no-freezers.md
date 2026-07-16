@@ -10,6 +10,11 @@ relatedArticles:
   - "five-guys-fry-calibration"
   - "chipotle-grill-validation"
   - "arbys-meat-slicer"
+faq:
+  - question: "What is the process for does five guys really not have any freezers??"
+    answer: "As detailed in our guide, the process involves specific operational steps like the walk-in cooler: the single most important piece of equipment in the building to ensure efficiency and quality at Five Guys."
+  - question: "Why is the morning prep: why five guys openers work harder than almost anyone in fast food important at Five Guys?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
 ---
 
 

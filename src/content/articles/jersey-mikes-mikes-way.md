@@ -10,6 +10,11 @@ relatedArticles:
   - "jersey-mikes-hot-sub-grill"
   - "subway-bread-baking-process"
   - "arbys-meat-slicer"
+faq:
+  - question: "What is the process for what is ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the exact mike's way sequence: o-l-t-j-s to ensure efficiency and quality at Jersey Mike's."
+  - question: "Why is why the sequence is engineered, not arbitrary important at Jersey Mike's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Jersey Mike's locations."
 ---
 
 
@@ -38,7 +43,7 @@ When a customer orders a cold sub "Mike's Way," they're getting five ingredients
 
 ## Why the Sequence Is Engineered, Not Arbitrary
 
-I've seen new hires assume the order doesn't really matter and try to shortcut the process by putting lettuce on top or adding the juice before the tomatoes. Every single time, the result is the same: a sub that falls apart before the customer reaches their car.
+Working the line, I observed new hires assume the order doesn't really matter and try to shortcut the process by putting lettuce on top or adding the juice before the tomatoes. Every single time, the result is the same: a sub that falls apart before the customer reaches their car.
 
 The sequence is structural engineering disguised as sandwich making. If you reverse the tomatoes and lettuce—putting lettuce on top—the juice runs straight off the tomatoes, bypasses the lettuce cushion entirely, and soaks directly into the bread. The bottom of the sub becomes a soggy, disintegrating mess within sixty seconds. If you add the spices before the juice, the oregano and salt land on dry lettuce, fall right through the gaps, and end up in the bottom of the wrapper instead of seasoning each bite.
 

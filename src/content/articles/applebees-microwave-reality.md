@@ -15,7 +15,7 @@ faq:
   - question: "What Is a TurboChef Oven?"
     answer: "A TurboChef is a commercial-grade, high-speed hybrid oven that combines **microwave energy** with **impinged hot air convection** to cook or reheat food in a fraction of the time a conventional oven would take. Unlike a home microwave, a TurboChef can brown, crisp, and caramelize food because of the high-velocity hot air jets that hit the food simultaneously with the microwave energy. Each unit runs between $5,000 and $8,000, and most Applebee's locations keep 2–3 on the line. They're the backbone of the micro side station and are responsible for the speed that makes casual dining ticket times possible."
   - question: "Is Applebee's Food Fresh?"
-    answer: "It depends on what you mean by \"fresh.\" The proteins — steaks, chicken, burgers — arrive raw and are cooked to order. That's fresh by any reasonable definition. The sides, soups, sauces, and many appetizers are pre-prepped, pre-portioned, and reheated. Some items (like the ribs) arrive par-cooked from a supplier and are finished in-house. The desserts are frozen and reheated. None of this is unusual for casual dining — it's the standard operating model across the entire segment. If you want every component of your meal cooked from scratch to order, you're looking at a 45-minute ticket time and a $35 entrée price point, which is fine dining territory, not a neighborhood Applebee's."
+    answer: "It depends on what you mean by 'fresh.' The proteins — steaks, chicken, burgers — arrive raw and are cooked to order. That's fresh by any reasonable definition. The sides, soups, sauces, and many appetizers are pre-prepped, pre-portioned, and reheated. Some items (like the ribs) arrive par-cooked from a supplier and are finished in-house. The desserts are frozen and reheated. None of this is unusual for casual dining — it's the standard operating model across the entire segment. If you want every component of your meal cooked from scratch to order, you're looking at a 45-minute ticket time and a $35 entrée price point, which is fine dining territory, not a neighborhood Applebee's."
 ---
 
 ## The "Chef Mike" Reputation — And the Real Story
@@ -34,7 +34,7 @@ Here's the honest, line-by-line breakdown of how an Applebee's kitchen actually 
 
 ## What Specifically Gets Microwaved
 
-Let's rip the band-aid off. Yes, a significant number of menu items pass through a TurboChef or a standard commercial microwave before they hit your table. Here's exactly what those items are.
+Let's rip the band-aid off. Yes, a significant number of menu items pass through a TurboChef or a standard commercial microwave before they hit your table. The process works like this:
 
 ### Sides
 

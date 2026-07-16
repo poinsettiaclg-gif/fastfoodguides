@@ -10,6 +10,11 @@ relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "What is the process for shake shack smash burger: grill technique?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the smash: what actually happens on the flat-top to ensure efficiency and quality at Shake Shack."
+  - question: "Why is why the crust is the whole point important at Shake Shack?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Shake Shack locations."
 ---
 
 7.  What is the Shake Shack Smash Burger Technique?

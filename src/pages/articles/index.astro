@@ -16,7 +16,7 @@ const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] a
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title="All Articles | Fast Food Guides" description={SITE_DESCRIPTION} />
+		<BaseHead title="All Articles | Fast Food Guides" description={SITE_DESCRIPTION} noindex={true} />
 		<style>
 			body {
 				background: #0a0f1c;

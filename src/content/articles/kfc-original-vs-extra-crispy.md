@@ -10,6 +10,11 @@ relatedArticles:
   - "kfc-coleslaw-secret"
   - "kfc-pressure-fryers"
   - "popeyes-chicken-battering-process"
+faq:
+  - question: "What is the process for kfc original vs. extra crispy: how they differ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like original recipe: the pressure fryer to ensure efficiency and quality at KFC."
+  - question: "Why is extra crispy: the open fryer and the double dip important at KFC?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all KFC locations."
 ---
 
 

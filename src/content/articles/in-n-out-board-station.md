@@ -10,6 +10,11 @@ relatedArticles:
   - "in-n-out-level-system"
   - "in-n-out-secret-menu"
   - "chipotle-massive-burrito-rolling"
+faq:
+  - question: "What is the process for what is in-n-out ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the board setup and station layout to ensure efficiency and quality at In-N-Out Burger."
+  - question: "Why is the wrapping speed that separates good from great important at In-N-Out Burger?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all In-N-Out Burger locations."
 ---
 
 
@@ -30,7 +35,7 @@ The Board person stands at a stainless steel prep table positioned directly acro
 
 Your job is to dress those buns perfectly, every single time. You apply the Secret Spread using a pump dispenser, then layer on shredded lettuce, tomato slices, pickles, and raw onions—all in a specific order that never changes. The condiments, vegetables, and spread are arranged within arm's reach in a standardized layout. The lettuce bin sits closest to your dominant hand. The tomato tray is always in the same position. The spread pump never moves. This layout is identical at every In-N-Out location, which means an experienced Board person can transfer to a different store and feel right at home within minutes.
 
-I've seen new hires underestimate the setup phase. Before the store opens, you need to make sure every single container is fully stocked and positioned correctly. If you run out of shredded lettuce mid-rush and have to walk to the cooler, you've just created a fifteen-second gap that the Grill cook cannot absorb. Those fifteen seconds mean burnt patties.
+On more than one occasion, new hires underestimate the setup phase. Before the store opens, you need to make sure every single container is fully stocked and positioned correctly. If you run out of shredded lettuce mid-rush and have to walk to the cooler, you've just created a fifteen-second gap that the Grill cook cannot absorb. Those fifteen seconds mean burnt patties.
 
 ## The Wrapping Speed That Separates Good from Great
 
@@ -43,7 +48,7 @@ The wrap uses a specific tuck-and-fold method with wax paper. You tear a sheet f
 
 Here's where it gets tricky. You have to memorize which wrapped burger belongs to which order. If a customer ordered a Double-Double Animal Style and a plain Hamburger with no onions, those burgers have to land in the bag in the exact sequence the receipt dictates. Mix them up and the customer opens the wrong one first—that's a complaint, a remake, and wasted time. During a heavy rush, you might have six or seven wrapped burgers sitting in front of you, and you need to know which one is which without unwrapping them.
 
-The reality is that wrapping is the single biggest bottleneck for new Board workers. I've seen Associates who can dress a bun perfectly at training speed completely fall apart when the Grill cook starts stacking patties faster than they can fold paper. The motion has to be automatic—muscle memory, not conscious thought.
+The reality is that wrapping is the single biggest bottleneck for new Board workers. Working the line, I observed Associates who can dress a bun perfectly at training speed completely fall apart when the Grill cook starts stacking patties faster than they can fold paper. The motion has to be automatic—muscle memory, not conscious thought.
 
 ## The Sink-or-Swim Pressure of a Real Rush
 

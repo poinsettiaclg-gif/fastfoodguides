@@ -10,6 +10,11 @@ relatedArticles:
   - "chick-fil-a-breading-process"
   - "chick-fil-a-ipos-system"
   - "chick-fil-a-drive-thru-tablets"
+faq:
+  - question: "What is the process for chick-fil-a lemonade: made fresh every day?"
+    answer: "As detailed in our guide, the process involves specific operational steps like yes, they actually squeeze real lemons to ensure efficiency and quality at Chick-fil-A."
+  - question: "Why is the morning prep: start to finish important at Chick-fil-A?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chick-fil-A locations."
 ---
 
 ## Yes, They Actually Squeeze Real Lemons

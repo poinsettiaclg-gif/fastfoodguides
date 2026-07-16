@@ -32,7 +32,7 @@ Here's the thing nobody tells you during orientation: a severe thunderstorm, a b
 Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator. 
 
 - **Basic calculators**: Two or three of them, because one will inevitably have dead batteries when you need it most.
-- **Laminated tax charts**: The POS normally calculates local sales tax automatically. Without it, cashiers use these charts to manually look up the tax on every order total. I've seen new hires completely freeze when they realize they need to add tax by hand.
+- **Laminated tax charts**: The POS normally calculates local sales tax automatically. Without it, cashiers use these charts to manually look up the tax on every order total. During one shift, I noticed new hires completely freeze when they realize they need to add tax by hand.
 - **Carbon-copy order pads**: The old-school kind with a pink and white sheet. Cashiers write every single order by hand, tear off the copy, and keep one for reconciliation later.
 - **Pre-printed price lists**: Organized by category — burgers, chicken, breakfast, drinks, sides — because nobody has every price memorized. These get updated whenever prices change, but I've worked at stores where the price list was two promos out of date. That creates its own fun problems during reconciliation.
 
@@ -49,7 +49,7 @@ This is where the operation gets creative and messy:
 
 - **The Runner**: The shift manager assigns one employee to physically carry handwritten paper slips from the front counter back to the kitchen. This person sprints back and forth for the entire duration of the crash, and believe me, they earn every penny of their minimum wage that night.
 - **The Translation Problem**: Fast food cooks are trained to read specific digital abbreviations on screen — things like "NO Pckl, SUB Mac Sauce." When cashiers start furiously handwriting orders under pressure, their handwriting becomes hieroglyphics. I've watched a grill person squint at a slip for twenty seconds trying to figure out if it says "No Onion" or "No Mustard." Multiply that by every order, and the assembly line grinds to a crawl.
-- **The Cash-Only Rule**: When the POS goes down, the credit card readers go with it. The store instantly becomes cash-only. Since cashiers are punching numbers on basic calculators, asking customers for exact change becomes a desperate plea to keep the drive-thru line moving. I've seen managers pull cash from their own wallets to make change when the drawer runs low.
+- **The Cash-Only Rule**: When the POS goes down, the credit card readers go with it. The store instantly becomes cash-only. Since cashiers are punching numbers on basic calculators, asking customers for exact change becomes a desperate plea to keep the drive-thru line moving. Working the line, I observed managers pull cash from their own wallets to make change when the drawer runs low.
 
 The kitchen bottleneck is the real killer during a crash. Even if the front counter keeps orders flowing, the grill team is operating at maybe 40% of normal speed because they're decoding handwriting instead of reading clean digital tickets.
 

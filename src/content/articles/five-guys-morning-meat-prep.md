@@ -9,13 +9,18 @@ topic: "Burgers"
 relatedArticles:
   - "five-guys-burger-build"
   - "five-guys-no-freezers"
+faq:
+  - question: "What is the process for five guys morning prep: hand-rolling meatballs?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the 5 am arrival to ensure efficiency and quality at Five Guys."
+  - question: "Why is the 3.6-ounce rule important at Five Guys?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
 ---
 
 Five Guys built its entire brand on a single, unwavering promise: there are no freezers in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.
 
 This commitment to fresh food means that the back-of-house operations at Five Guys look more like a high-volume butcher shop than a modern fast food kitchen. Before a single customer walks through the doors at 11:00 AM, a dedicated morning prep crew has already been in the building for hours, engaging in one of the most physically repetitive tasks in the industry: rolling the meat.
 
-Here is exactly what happens during the Five Guys morning prep shift, and why your burger starts its life as a hand-rolled meatball.
+This is precisely what happens:
 
 ![Five Guys Meat Prep](../../assets/images/five-guys-meat-prep.png)
 

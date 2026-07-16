@@ -10,13 +10,18 @@ relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
+faq:
+  - question: "What is the process for denny's grand slam: how kitchen builds it?"
+    answer: "As detailed in our guide, the process involves specific operational steps like the flat-top is the entire operation to ensure efficiency and quality at Denny's."
+  - question: "Why is breaking down each component important at Denny's?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Denny's locations."
 ---
 
 The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen. 
 
 I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way. 
 
-Here's how the whole thing actually works, from the ticket printer to the pass.
+From an operational standpoint, the process is:
 
 ## The Flat-Top Is the Entire Operation
 

@@ -10,11 +10,16 @@ relatedArticles:
   - "subway-bread-baking-process"
   - "subway-wrap-folding"
   - "subway-pos-out-of-order"
+faq:
+  - question: "What is the process for what is subway ?"
+    answer: "As detailed in our guide, the process involves specific operational steps like how the bain-marie actually cools food to ensure efficiency and quality at Subway."
+  - question: "Why is the fill line rule: why overfilling is dangerous important at Subway?"
+    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
 ---
 
 
 
-When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. Here's exactly how the Bain works, why the fill line exists, and how to manage it properly during a rush. 
+When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. This is how the process actually runs: 
 
 ## How the Bain-Marie Actually Cools Food
 
@@ -37,7 +42,7 @@ During a heavy lunch rush, it's tempting to grab a massive bag of shredded lettu
 
 But overfilling is a serious food safety violation. Every single pan in the Bain has a physical fill line etched into the plastic. That line isn't arbitrary—it marks the maximum height at which the forced-air cooling system can keep the food at safe temperatures. If you pile turkey or lettuce above that line, the food at the top of the mountain protrudes through the invisible blanket of cold air and sits at room temperature.
 
-Here's what happens next: within an hour, the top layer of turkey starts sweating. The cheese gets greasy and warm. The lettuce wilts and goes limp. If a health inspector walks in with a probe thermometer and temps the top of that meat mountain, the reading will come back above 41°F and the store gets an immediate citation. I've seen it happen on a routine inspection during a Tuesday lunch rush—the inspector walked in, stuck a thermometer into the turkey pan, got a 47°F reading, and the store had to dump the entire pan and refill from the walk-in cooler while customers watched.
+The truth behind it: The cheese gets greasy and warm. The lettuce wilts and goes limp. If a health inspector walks in with a probe thermometer and temps the top of that meat mountain, the reading will come back above 41°F and the store gets an immediate citation. During a Friday night rush, it happen on a routine inspection during a Tuesday lunch rush—the inspector walked in, stuck a thermometer into the turkey pan, got a 47°F reading, and the store had to dump the entire pan and refill from the walk-in cooler while customers watched.
 
 ## Temperature Logging: The Paper Trail That Saves You
 
