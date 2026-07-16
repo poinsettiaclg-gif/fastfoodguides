@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Starbucks"
 topic: "Operational Overviews"
-heroImage: "../../assets/images/starbucks-mastrena-machine.png"
+heroImage: "../../assets/images/starbucks-mastrena-machine.webp"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
   - "starbucks-customer-support-cycle"
@@ -52,7 +52,7 @@ However, they are highly sensitive. Variations in humidity, bean roast density, 
 ### Milk Steaming Mechanics
 While the espresso extraction is automated, the milk steaming is still a manual skill. The barista must aerate (or "tear") the milk for a specific number of seconds depending on the drink type (e.g., 1-3 seconds for a latte, 6-8 seconds for a cappuccino), and then submerge the wand to create a whirlpool that incorporates the microfoam and heats the milk to exactly 160 degrees Fahrenheit. 
 
-![Starbucks Hot Bar layout](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
+![Detailed technical view of Starbucks Hot Bar layout equipment and operational workflow](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
 
 During a morning peak, a Hot Bar barista is running two Mastrena machines simultaneously, steaming multiple pitchers of milk, catching shots in shot glasses, and pumping syrups—all while never breaking the sequence. For a detailed breakdown of how to survive this exact scenario, read our survival guide for the [Starbucks morning rush](/articles/starbucks-morning-rush).
 

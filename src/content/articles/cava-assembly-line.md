@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Cava"
 topic: "Other Chains"
-heroImage: "../../assets/images/cava/assembly-line.png"
+heroImage: "../../assets/images/cava/assembly-line.webp"
 relatedArticles:
   - "sweetgreen-mixing-station"
   - "chipotle-guacamole"
@@ -26,7 +26,7 @@ The secret to Cava's throughput isn't just hustle; it's a meticulously designed 
 
 ## The Three-Zone Layout
 
-![Inside the Cava operation](../../assets/images/cava/assembly-line.png)
+![Detailed operational view of the Cava kitchen, assembly process, and station layout](../../assets/images/cava/assembly-line.webp)
 
 
 Cava's makeline is functionally broken down into three zones, and crossing over them is a massive operational faux pas during peak hours.

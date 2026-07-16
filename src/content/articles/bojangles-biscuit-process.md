@@ -30,7 +30,7 @@ This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is resp
 
 I managed multiple Bojangles locations over several years, and Take it from someone who's been there — without hesitation: the Biscuit Maker position is harder than anything Over the years, at other chains. That includes [the Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift/), which is grueling in its own right, and [Chick-fil-A's breading process](/articles/chick-fil-a-breading-process/), which demands serious consistency. But neither of those roles carries the same combination of speed, technique, and sheer volume that Bojangles demands.
 
-![Bojangles Biscuit Station](../../assets/images/bojangles/biscuit-station.png)
+![Detailed technical view of Bojangles Biscuit Station equipment and operational workflow](../../assets/images/bojangles/biscuit-station.webp)
 
 ## The 4:00 AM Arrival
 

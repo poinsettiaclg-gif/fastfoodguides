@@ -28,7 +28,7 @@ If you've never stood behind the line at a Buffalo Wild Wings on a Sunday aftern
 
 The entire operation hinges on two positions: the fry cook and the sauce tosser. The fry cook is the engine. The tosser is the transmission. If either one falls behind, the whole restaurant feels it within minutes — ticket times balloon, servers start hovering, and managers start jumping on the line. There's no hiding. BWW kitchens are built around the fryer and the sauce station, and during peak hours, those two stations are the loudest, hottest, most demanding spots in any casual dining kitchen in the country.
 
-![Buffalo Wild Wings Sauce Station](../../assets/images/buffalo-wild-wings/sauce-station.png)
+![Buffalo Wild Wings Sauce Station](../../assets/images/buffalo-wild-wings/sauce-station.webp)
 
 ## The Wing Cook Process and Fryer Setup
 

@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sweetgreen"
 topic: "Salads"
-heroImage: "../../assets/images/sweetgreen/morning-prep.png"
+heroImage: "../../assets/images/sweetgreen/morning-prep.webp"
 relatedArticles:
   - "sweetgreen-mixing-station"
   - "cava-assembly-line"
@@ -30,7 +30,7 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 ## 6:00 AM: The Arrival and The Assessment
 
-![Inside the Sweetgreen operation](../../assets/images/sweetgreen/mixing-station.png)
+![Detailed operational view of the Sweetgreen kitchen, assembly process, and station layout](../../assets/images/sweetgreen/mixing-station.webp)
 
 
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 

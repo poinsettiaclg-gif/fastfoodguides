@@ -22,7 +22,7 @@ The jump from the original Mastrena to the Mastrena II was a massive technologic
 
 But the real magic of the Mastrena II happens behind the digital screen. On the line, it plays out like this:
 
-![Starbucks Mastrena Machine](../../assets/images/starbucks-mastrena-machine.png)
+![Detailed technical view of Starbucks Mastrena Machine equipment and operational workflow](../../assets/images/starbucks-mastrena-machine.webp)
 
 ## The 18 to 23 Second Rule
 

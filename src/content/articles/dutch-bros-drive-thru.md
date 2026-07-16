@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Dutch Bros"
 topic: "Breakfast & Coffee"
-heroImage: "../../assets/images/dutch-bros/drive-thru.png"
+heroImage: "../../assets/images/dutch-bros/drive-thru.webp"
 relatedArticles:
   - "starbucks-morning-rush"
   - "starbucks-cold-bar-frappuccino"
@@ -30,7 +30,7 @@ The secret? Human interaction masking a highly optimized, militaristic dispatch 
 
 ## The "Linebusters"
 
-![Inside the Dutch Bros operation](../../assets/images/dutch-bros/drive-thru.png)
+![Detailed operational view of the Dutch Bros kitchen, assembly process, and station layout](../../assets/images/dutch-bros/drive-thru.webp)
 
 
 The core of the Dutch Bros model is the "Linebuster"—the employee standing outside with an iPad, regardless of the weather. Rain, snow, 105°F summer heat in Arizona—doesn't matter. That person is out there.

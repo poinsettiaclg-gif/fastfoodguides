@@ -24,7 +24,7 @@ If you stand in line at Panda Express during a lunch rush, you will hear a const
 
 This verbal loop is called "calling food," and it is the single most important operational system in a Panda Express kitchen. Without it, the steam table runs empty, ticket times collapse, and the entire store grinds to a halt. This is the actual sequence:
 
-![Panda Express Steam Table](../../assets/images/panda-express-steam-table.png)
+![Detailed technical view of Panda Express Steam Table equipment and operational workflow](../../assets/images/panda-express-steam-table.webp)
 
 ## The Problem with the KDS
 

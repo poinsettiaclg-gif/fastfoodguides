@@ -22,7 +22,7 @@ I was running kitchens when this rollout happened. Let me tell you, it was the b
 
 It wasn’t just a menu update—it was a total tear-down of the standard operating procedure. Let me lay out the process:
 
-![McDonald's Platen Grill](../../assets/images/mcdonalds-platen-grill.png)
+![Detailed technical view of McDonald's Platen Grill equipment and operational workflow](../../assets/images/mcdonalds-platen-grill.webp)
 
 ## The Blue Glove Rule
 

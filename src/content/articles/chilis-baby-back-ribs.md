@@ -30,7 +30,7 @@ I managed multiple Chili's kitchens over a stretch of years, and Speaking from t
 
 What Chili's does is run a hybrid system: off-site smoking for the base flavor, precision reheating for tenderness, and high-heat grilling on-site for finish and char. Every single step is engineered around consistency, speed, and food safety. And when it's executed correctly, it works extremely well.
 
-![Chili's Ribs Prep Station](../../assets/images/chilis/ribs-prep.png)
+![Detailed technical view of Chili's Ribs Prep Station equipment and operational workflow](../../assets/images/chilis/ribs-prep.webp)
 
 ## The Off-Site Smoking Process
 

@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Long John Silver's"
 topic: "Seafood"
-heroImage: "../../assets/images/long-john-silvers/fryer.png"
+heroImage: "../../assets/images/long-john-silvers/fryer.webp"
 faq:
   - question: "How Often Should Long John Silver's Fryer Oil Be Changed?"
     answer: "Under normal operating conditions, a full oil change happens every 3–5 days per vat. However, this varies based on volume. A store running 400+ pieces of fish per day might need to change oil every 2–3 days, while a slower store could stretch to 5–6 days with diligent daily filtration. The key metric is a Total Polar Materials (TPM) test—if the oil's TPM reading exceeds 24%, it's time for a full change regardless of the calendar. Most stores use a Testo 270 cooking oil tester to check TPM levels daily."
@@ -22,7 +22,7 @@ If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fu
 
 ## The Specialized Fryer Vat
 
-![Inside the Long John Silver's operation](../../assets/images/long-john-silvers/fryer.png)
+![Detailed operational view of the Long John Silver's kitchen, assembly process, and station layout](../../assets/images/long-john-silvers/fryer.webp)
 
 
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.

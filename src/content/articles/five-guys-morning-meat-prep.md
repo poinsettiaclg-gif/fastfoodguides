@@ -22,7 +22,7 @@ This commitment to fresh food means that the back-of-house operations at Five Gu
 
 This is precisely what happens:
 
-![Five Guys Meat Prep](../../assets/images/five-guys-meat-prep.png)
+![Detailed technical view of Five Guys Meat Prep equipment and operational workflow](../../assets/images/five-guys-meat-prep.webp)
 
 ## The 5 AM Arrival
 

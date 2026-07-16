@@ -30,7 +30,7 @@ I managed kitchens across three Applebee's locations for over five years. And I'
 
 Here's the honest, line-by-line breakdown of how an Applebee's kitchen actually works — what gets microwaved, what gets grilled, and why the system is set up the way it is.
 
-![Applebee's Microwave Station](../../assets/images/applebees/microwave-station.png)
+![Detailed technical view of Applebee's Microwave Station equipment and operational workflow](../../assets/images/applebees/microwave-station.webp)
 
 ## What Specifically Gets Microwaved
 

@@ -36,7 +36,7 @@ If a customer orders a Grande Vanilla Latte, it gets 4 pumps of Vanilla. If they
 <strong>Pro Tip:</strong> Always pump the syrup into the cup *before* pulling the espresso shots. The heat and pressure of the espresso hitting the syrup is what mixes the drink. If you pump syrup on top of the milk, the customer will get a mouthful of unflavored milk and a thick layer of pure sugar at the bottom.
 </div>
 
-![Hot Bar Station Layout](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
+![Detailed technical view of Hot Bar Station Layout equipment and operational workflow](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
 
 ## The Iced Venti Exception
 
@@ -69,7 +69,7 @@ For Frappuccinos, the rule is the **2-3-4 Rule** (Tall, Grande, Venti).
 *   **Grande:** 3 pumps (Frap Roast) + 3 pumps (Syrup)
 *   **Venti:** 4 pumps (Frap Roast) + 4 pumps (Syrup)
 
-![CBS Syrup Pump Schematic](../../assets/images/starbucks-cold-bar-frappuccino/starbucks-cbs-syrup-pump-schematic.webp)
+![Detailed technical view of CBS Syrup Pump Schematic equipment and operational workflow](../../assets/images/starbucks-cold-bar-frappuccino/starbucks-cbs-syrup-pump-schematic.webp)
 
 <div class="callout callout-tip">
 <strong>Insider Secret:</strong> If you run out of a CBS syrup pump during a rush and have to use a Hot Bar pump for a Frappuccino, you must cut the recipe in half. A Grande Frappuccino needs 3 CBS pumps. If you only have a Hot Bar pump, use 1.5 pumps. If you use 3 full Hot Bar pumps, the Frappuccino will be pure liquid sugar and won't blend correctly.

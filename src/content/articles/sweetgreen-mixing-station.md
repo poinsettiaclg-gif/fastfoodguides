@@ -6,7 +6,7 @@ author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "Sweetgreen"
 topic: "Salads"
-heroImage: "../../assets/images/sweetgreen/mixing-station.png"
+heroImage: "../../assets/images/sweetgreen/mixing-station.webp"
 faq:
   - question: "How Does Sweetgreen Handle a Dishwasher Breakdown During Peak?"
     answer: "The shift lead immediately activates the three-compartment sink backup protocol and pulls a team member from a lower-priority position (usually the digital order line) to run manual dish duty. The mixing station switches to a slightly slower pace—about 100 bowls per hour instead of 150—to match the reduced bowl supply. If the breakdown is expected to last more than 30 minutes, the manager calls the on-call repair technician and may temporarily disable online ordering to reduce incoming volume. It's a controlled slowdown, not a shutdown."
@@ -22,7 +22,7 @@ During a peak lunch rush in a busy metro area, the person working the mixing sta
 
 ## The Tools of the Trade
 
-![Inside the Sweetgreen operation](../../assets/images/sweetgreen/mixing-station.png)
+![Detailed operational view of the Sweetgreen kitchen, assembly process, and station layout](../../assets/images/sweetgreen/mixing-station.webp)
 
 
 You don't just use standard kitchen tongs at Sweetgreen. The mixing station relies on heavy-duty, oversized metal mixing bowls and specialized long-handled tongs designed specifically for volume tossing.
