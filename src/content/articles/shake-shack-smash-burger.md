@@ -76,7 +76,7 @@ This is the comparison that comes up constantly, and it’s worth addressing hea
 
 Five Guys does not smash their burgers. Full stop. At Five Guys, the beef is hand-portioned and loosely formed into patties, then placed on a flat-top grill and cooked without pressing. The patties are thicker, cooked at a somewhat lower temperature, and the goal is a juicy, beefy patty with moderate browning—not the aggressive, edge-to-edge crust that defines a smash burger.
 
-The Five Guys patty is about the beef itself. The Shake Shack patty is about what happens to the beef when it contacts the griddle. Both approaches produce good burgers, but they’re aiming at completely different targets. A Five Guys burger is thick, juicy, and beefy. A Shake Shack burger is thin, crusty, and savory in a way that leans more toward seared steak than traditional hamburger.
+[The Five Guys](/articles/five-guys-fry-calibration) patty is about the beef itself. The Shake Shack patty is about what happens to the beef when it contacts the griddle. Both approaches produce good burgers, but they’re aiming at completely different targets. A Five Guys burger is thick, juicy, and beefy. A Shake Shack burger is thin, crusty, and savory in a way that leans more toward seared steak than traditional hamburger.
 
 The other major difference is assembly philosophy. Five Guys is all about customization—you pick from a list of 15+ free toppings, and they pile them on. Shake Shack has a curated menu with specific builds that are designed as complete flavor profiles. You’re not customizing a ShackBurger the way you’d customize a Five Guys burger. You’re ordering a composition.
 

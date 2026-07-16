@@ -1,0 +1,204 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { Image } from 'astro:assets';
+import authorLogo from '../../assets/images/author-rr-logo.png';
+import { getCollection } from 'astro:content';
+
+const title = 'Russell Roseberry | Fast Food Guides';
+const description = 'Russell Roseberry is a 10-year QSR and culinary veteran and the founder of Fast Food Guides.';
+
+const allArticles = await getCollection('articles');
+// Sort by date descending
+const recentArticles = allArticles.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).slice(0, 10);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 100%;
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 3rem 1.5rem;
+			}
+			.author-header {
+				display: flex;
+				align-items: center;
+				gap: 2rem;
+				margin-bottom: 3rem;
+				padding-bottom: 2rem;
+				border-bottom: 1px solid rgba(16, 185, 129, 0.2);
+			}
+			.author-avatar {
+				flex-shrink: 0;
+				width: 120px;
+				height: 120px;
+				border-radius: 50%;
+				overflow: hidden;
+				border: 3px solid #10B981;
+				background-color: #1F2937;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			.author-avatar img {
+				width: 100%;
+				height: 100%;
+				object-fit: contain;
+			}
+			.author-info h1 {
+				margin: 0 0 0.5rem 0;
+				font-size: 2.5rem;
+				color: #F1F5F9;
+			}
+			.author-info .title {
+				color: #10B981;
+				font-size: 1.25rem;
+				font-weight: 600;
+				margin: 0;
+			}
+			.bio-content {
+				color: #94A3B8;
+				line-height: 1.7;
+				font-size: 1.1rem;
+				margin-bottom: 3rem;
+			}
+			.bio-content p {
+				margin-bottom: 1.5rem;
+			}
+			.bio-content h2 {
+				color: #F1F5F9;
+				margin-top: 2.5rem;
+				margin-bottom: 1rem;
+			}
+			.timeline {
+				border-left: 2px solid #374151;
+				padding-left: 1.5rem;
+				margin-bottom: 3rem;
+			}
+			.timeline-item {
+				margin-bottom: 1.5rem;
+				position: relative;
+			}
+			.timeline-item::before {
+				content: '';
+				position: absolute;
+				left: -1.85rem;
+				top: 0.4rem;
+				width: 12px;
+				height: 12px;
+				border-radius: 50%;
+				background-color: #10B981;
+				border: 2px solid #111827;
+			}
+			.timeline-item h3 {
+				color: #F1F5F9;
+				margin: 0 0 0.25rem 0;
+				font-size: 1.15rem;
+			}
+			.timeline-item .date {
+				color: #10B981;
+				font-size: 0.9rem;
+				font-weight: 600;
+				margin: 0 0 0.5rem 0;
+			}
+			.timeline-item p {
+				color: #94A3B8;
+				margin: 0;
+				line-height: 1.5;
+			}
+			.recent-articles h2 {
+				color: #F1F5F9;
+				margin-bottom: 1.5rem;
+			}
+			.article-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			.article-list li {
+				margin-bottom: 1rem;
+			}
+			.article-list a {
+				color: #10B981;
+				text-decoration: none;
+				font-weight: 500;
+			}
+			.article-list a:hover {
+				text-decoration: underline;
+			}
+			@media (max-width: 640px) {
+				.author-header {
+					flex-direction: column;
+					text-align: center;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="author-header">
+				<div class="author-avatar">
+					<Image src={authorLogo} alt="Russell Roseberry Avatar" width={120} height={120} />
+				</div>
+				<div class="author-info">
+					<h1>Russell Roseberry</h1>
+					<p class="title">Founder & Head Writer</p>
+				</div>
+			</div>
+
+			<div class="bio-content">
+				<p>
+					I am Russell Roseberry, and I have spent the last decade of my life inside restaurant kitchens — from the fryer station at a high-volume drive-thru to the back office managing labor costs, food safety audits, and multi-unit operational assessments.
+				</p>
+				<p>
+					I started in the industry the same way most people do: as a crew member making minimum wage, burning myself on a flat-top grill, and learning how to survive a Friday night dinner rush with a skeleton crew. Over the next ten years, I worked my way through the ranks across multiple major QSR (Quick Service Restaurant) and fast-casual chains.
+				</p>
+				<p>
+					I founded Fast Food Guides to bridge the gap between corporate PR and the gritty reality of kitchen operations. The articles on this site are not based on press releases; they are based on thousands of hours standing behind the line, managing food cost variance, passing strict health inspections, and keeping operations running when the POS system crashes mid-rush.
+				</p>
+
+				<h2>Experience Timeline</h2>
+				<div class="timeline">
+					<div class="timeline-item">
+						<h3>Multi-Unit Kitchen Manager</h3>
+						<p class="date">2021 - Present</p>
+						<p>Overseeing operations, training systems, and food safety compliance across multiple high-volume fast-casual locations. Responsible for passing corporate Operational Assessment scores and maintaining sub-2% food cost variance.</p>
+					</div>
+					<div class="timeline-item">
+						<h3>General Manager</h3>
+						<p class="date">2018 - 2021</p>
+						<p>Managed a $2.5M/year drive-thru location. Specialized in reducing drive-thru window times (SOS) during peak rushes and cross-training staff on all assembly line stations.</p>
+					</div>
+					<div class="timeline-item">
+						<h3>Shift Supervisor & Prep Lead</h3>
+						<p class="date">2015 - 2018</p>
+						<p>Ran the 4:00 AM opening prep shifts, managing raw protein processing, bakery operations, and daily inventory counts before opening the doors.</p>
+					</div>
+					<div class="timeline-item">
+						<h3>Crew Member</h3>
+						<p class="date">2014 - 2015</p>
+						<p>Started on the fryer and grill stations, learning the foundational speed and endurance required to survive in the fast food industry.</p>
+					</div>
+				</div>
+
+				<div class="recent-articles">
+					<h2>Recent Articles by Russell</h2>
+					<ul class="article-list">
+						{recentArticles.map((article) => (
+							<li>
+								<a href={`/articles/${article.id}/`}>{article.data.title}</a>
+							</li>
+						))}
+					</ul>
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

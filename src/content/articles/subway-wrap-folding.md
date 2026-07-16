@@ -51,7 +51,7 @@ Think of it like building a wall. Dense foundation on the bottom. Light insulati
 
 ## Step 3: The Roll and Tuck Technique
 
-Do not try to fold this like a traditional burrito. Use the Subway deli paper to your advantage—it is a structural tool, not just a wrapper.
+Do not try to fold this like a traditional burrito. Use [the Subway](/articles/subway-bain-fill-line-rule) deli paper to your advantage—it is a structural tool, not just a wrapper.
 
 1. **Fold the sides:** Bring the left and right edges of the tortilla straight in toward the center, covering the ends of the ingredient pile. Hold them in place with your pinky fingers.
 2. **Bring the bottom up:** Lift the bottom flap of the tortilla up and completely over the pile of ingredients.

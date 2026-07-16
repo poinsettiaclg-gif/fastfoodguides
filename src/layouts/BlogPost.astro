@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import AuthorBylineTop from '../components/AuthorBylineTop.astro';
 import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
+import NewsletterCTA from '../components/NewsletterCTA.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
@@ -471,6 +472,8 @@ function slugifyChain(c: string): string {
 						</section>
 					)}
 
+					<NewsletterCTA />
+					
 					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
 				</div>
 			</article>

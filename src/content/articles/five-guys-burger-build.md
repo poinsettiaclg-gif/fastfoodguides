@@ -124,4 +124,4 @@ The combination of fresh (never frozen) beef, hand-smashed patties, unlimited fr
 
 But the result is a burger that tastes noticeably different from a standard fast food burger. The hand-smashed crust, the fresh beef, the toasted-in-beef-fat bun, and the generous toppings create a product that justifies the premium — at least for the customers who keep coming back.
 
-That's the Five Guys model: spend more on ingredients and labor, charge more at the register, and bet that the quality difference is obvious enough that customers will pay for it. So far, across 1,700+ locations, the bet has paid off.
+That's [the Five Guys](/articles/five-guys-fry-calibration) model: spend more on ingredients and labor, charge more at the register, and bet that the quality difference is obvious enough that customers will pay for it. So far, across 1,700+ locations, the bet has paid off.

@@ -61,7 +61,7 @@ The frustration isn’t about making complicated drinks. Baristas make complicat
 
 The frustration is about being expected to know recipes that don’t exist in any Starbucks system, while simultaneously being judged on speed and accuracy. A barista who takes two minutes to decode a TikTok video is a barista who falls behind on the bar, which backs up the line, which slows down the entire store, which affects [the customer support cycle](/articles/starbucks-customer-support-cycle) and triggers complaints from every other customer waiting.
 
-## How the Starbucks Customization System Actually Works
+## [How the Starbucks](/articles/starbucks-pull-to-thaw) Customization System Actually Works
 
 Here’s what most customers don’t understand: Starbucks already has one of the most flexible customization systems in the entire food and beverage industry. You don’t need a “secret menu” because you can build virtually anything from the components that are already available. Every drink is assembled from a set of modular building blocks:
 

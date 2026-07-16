@@ -40,7 +40,7 @@ Associates who show up on time, keep the dining room spotless without prompting,
 ![Technical blueprint of the In-N-Out fry station equipment showing fresh potato dicer, washing sinks, and oil temperature monitors](../../assets/images/in-n-out-level-system/in-n-out-fry-station-equipment-schematic.webp)
 
 
-These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of the In-N-Out operation.
+These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of [the In-N-Out](/articles/in-n-out-board-station) operation.
 
 **Level 2 — Order Taker:** You finally get to interact with customers. You learn the POS system, master counter orders, and—critically—memorize the [Secret Menu](/articles/in-n-out-secret-menu). Customers will throw Animal Style, Protein Style, 3x3, and Flying Dutchman orders at you constantly. If you fumble these during a Friday dinner rush, the entire line backs up.
 

@@ -37,7 +37,7 @@ The Subway POS interface is designed to mirror the physical sandwich line, which
 
 If you skip any one of these or enter them out of order, the system will not let you proceed to the payment screen. It will just sit there, blinking at you, while the customer stares and the line grows.
 
-Understanding why this sequence exists helps it stick in your brain. The system calculates the base price from Size + Core Formula. Different sizes have different prices. Premium formulas like Steak & Cheese or the Subway Club cost more than a Veggie Delite. The bread selection does not change the price, but it has to be recorded for inventory tracking. Once the POS has these three anchors, it knows which sandwich it is dealing with and can correctly price any add-ons you tack on afterward.
+Understanding why this sequence exists helps it stick in your brain. The system calculates the base price from Size + Core Formula. Different sizes have different prices. Premium formulas like Steak & Cheese or [the Subway](/articles/subway-bain-fill-line-rule) Club cost more than a Veggie Delite. The bread selection does not change the price, but it has to be recorded for inventory tracking. Once the POS has these three anchors, it knows which sandwich it is dealing with and can correctly price any add-ons you tack on afterward.
 
 ## The "Out of Order" Customer and How to Handle Them
 

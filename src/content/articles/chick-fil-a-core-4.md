@@ -70,7 +70,7 @@ Even if you have excellent work experience, certain behaviors during the intervi
 
 - **Looking at your phone at any point.** Even glancing at a notification while waiting in the lobby signals a lack of attentiveness. Leave it in your car or put it on silent in your pocket and do not touch it.
 - **Giving one-word answers.** The interview is a conversation, not an interrogation. If you cannot sustain a warm, two-way dialogue during a low-pressure 15-minute interview, the hiring manager knows you will not be able to do it during a high-pressure 8-hour shift.
-- **Not asking questions back.** When they ask if you have any questions at the end, you must have at least one. "What does a typical shift look like here?" or "What do your best team members do that sets them apart?" Both show genuine interest and keep the conversation personal—which is literally pillar four.
+- **Not asking questions back.** When they ask if you have any questions at the end, you must have at least one. "[What does a](/articles/raising-canes-bird-specialist) typical shift look like here?" or "What do your best team members do that sets them apart?" Both show genuine interest and keep the conversation personal—which is literally pillar four.
 - **Badmouthing a previous employer.** Every fast food manager has heard "My last job was terrible." Chick-fil-A is looking for people who stay positive and focus on solutions, not complaints. Even if your last job was genuinely awful, reframe it: "I learned a lot, but I'm looking for a place that takes customer service as seriously as I do."
 
 ## What the Core 4 Looks Like on the Floor
