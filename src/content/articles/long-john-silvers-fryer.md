@@ -22,6 +22,9 @@ If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fu
 
 ## The Specialized Fryer Vat
 
+![Inside the Long John Silver's operation](../../assets/images/long-john-silvers/fryer.png)
+
+
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.
 
 > **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.

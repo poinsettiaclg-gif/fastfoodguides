@@ -26,6 +26,9 @@ The secret to Cava's throughput isn't just hustle; it's a meticulously designed 
 
 ## The Three-Zone Layout
 
+![Inside the Cava operation](../../assets/images/cava/assembly-line.png)
+
+
 Cava's makeline is functionally broken down into three zones, and crossing over them is a massive operational faux pas during peak hours.
 
 > **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.

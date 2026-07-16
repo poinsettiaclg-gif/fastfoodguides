@@ -22,6 +22,9 @@ During a peak lunch rush in a busy metro area, the person working the mixing sta
 
 ## The Tools of the Trade
 
+![Inside the Sweetgreen operation](../../assets/images/sweetgreen/mixing-station.png)
+
+
 You don't just use standard kitchen tongs at Sweetgreen. The mixing station relies on heavy-duty, oversized metal mixing bowls and specialized long-handled tongs designed specifically for volume tossing.
 
 > **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.

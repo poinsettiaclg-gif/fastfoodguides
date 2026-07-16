@@ -28,6 +28,9 @@ In the early days of fast-casual dining, digital orders were an afterthought. A 
 
 ## What Exactly is the Digital Make Line (DML)?
 
+![Inside the Cava operation](../../assets/images/cava/assembly-line.png)
+
+
 To put it simply, the DML is a full-scale replica of the front assembly line, but stripped of all the customer-facing aesthetics. There are no glass sneeze guards to wipe down constantly, no decorative lighting, and absolutely no conversational banter. It is an environment built purely for unadulterated food production. You have the exact same hot wells holding the steaming saffron basmati rice, the perfectly fried falafel, and the spicy lamb meatballs. You have the exact same cold wells stocked meticulously with pickled onions, tomato and cucumber salad, and Kalamata olives. You have the same array of proprietary dressings lined up in squeeze bottles.
 
 > **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.

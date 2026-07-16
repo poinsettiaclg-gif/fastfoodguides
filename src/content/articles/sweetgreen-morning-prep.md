@@ -30,6 +30,9 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 ## 6:00 AM: The Arrival and The Assessment
 
+![Inside the Sweetgreen operation](../../assets/images/sweetgreen/mixing-station.png)
+
+
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 
 
 > **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
