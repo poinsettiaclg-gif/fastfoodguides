@@ -82,7 +82,7 @@ To solve this, McDonald's deployed the Automated Beverage System (ABS). When a d
 ### The Infamous Ice Cream Machine
 No discussion of McDonald's equipment is complete without the Taylor ice cream machines. The internet loves to joke that they are always broken. The truth is much more complicated. The machines require a daily, highly complex, multi-hour heat treatment and cleaning cycle. If a crew member skips a step, or if the liquid mix levels drop too low during the heating cycle, the machine locks itself out for food safety reasons. 
 
-It isn't necessarily "broken"—it is protecting customers from bacteria, and restarting it requires a certified technician or a manager who knows how to navigate the archaic error codes. Read the unvarnished truth in our [McDonald's ice cream machine breakdown](/articles/mcdonalds-ice-cream-machine-truth) and our look into the [internal mechanics of the machine](/articles/mcdonalds-ice-cream-machine).
+It isn't necessarily "broken"—it is protecting customers from bacteria, and restarting it requires a certified technician or a manager who knows how to manage the archaic error codes. Read the unvarnished truth in our [McDonald's ice cream machine breakdown](/articles/mcdonalds-ice-cream-machine-truth) and our look into the [internal mechanics of the machine](/articles/mcdonalds-ice-cream-machine).
 
 ## When Systems Fail
 

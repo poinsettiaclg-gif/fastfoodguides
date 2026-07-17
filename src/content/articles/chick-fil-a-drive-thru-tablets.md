@@ -40,7 +40,7 @@ The core of the system is an Apple iPad, but it is locked inside a massive, rugg
 3. **Glare Reduction:** The cases often feature built-in hoods or sunshades so the team member can actually read the screen in direct sunlight.
 
 <div class="callout callout-tip">
-<strong>Operational Reality:</strong> Battery management is a massive logistical hurdle. iPads running maximum screen brightness while maintaining a constant Wi-Fi connection to the store's server will drain fast. The store requires a dedicated charging rack inside, and Shift Leaders must aggressively swap out dead tablets for fresh ones mid-rush to prevent the line from collapsing.
+<strong>Operational Reality:</strong> Battery management is a massive logistical hurdle. IPads running maximum screen brightness while maintaining a constant Wi-Fi connection to the store's server will drain fast. The store requires a dedicated charging rack inside, and Shift Leaders must aggressively swap out dead tablets for fresh ones mid-rush to prevent the line from collapsing.
 </div>
 
 ## The "Face-to-Face" Advantage
@@ -49,7 +49,7 @@ Chick-fil-A leans heavily into their customer service reputation. The iPOS syste
 
 When you order through a speaker box, the audio is heavily compressed. "I want a number two, no tomato" often sounds like "I want a number two and a potato." The cashier miskeys it, the kitchen makes it wrong, and the customer complains at the window, destroying the drive-thru timer.
 
-With iPOS, the team member is standing three feet from the driver. They can hear them clearly, read their lips, and instantly clarify confusing orders. Furthermore, the team member takes the payment right there in the parking lot. By the time the car reaches the physical drive-thru window, the transaction is already finished. The only thing left to do is hand them the bag.
+With iPOS, the team member is standing three feet from the driver. They can hear them clearly, read their lips, and instantly clarify confusing orders. The team member takes the payment right there in the parking lot. By the time the car reaches the physical drive-thru window, the transaction is already finished. The only thing left to do is hand them the bag.
 
 ![Chick-fil-A iPad drive-thru battery and weather management gear](../../assets/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-weather-and-battery-manageme.webp)
 
