@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
 import fs from 'fs';
 import path from 'path';
+import cloudflare from '@astrojs/cloudflare';
 
 // Pre-calculate lastmod dates and chain counts for sitemap
 const articlesDir = path.join(process.cwd(), 'src', 'content', 'articles');
@@ -35,7 +36,11 @@ try {
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://fastfoodguides.com',
-	trailingSlash: 'always',
+	adapter: cloudflare({
+		platformProxy: {
+			enabled: true
+		}
+	}),
 	integrations: [
 		mdx(), 
 		sitemap({

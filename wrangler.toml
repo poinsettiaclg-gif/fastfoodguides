@@ -1,0 +1,7 @@
+name = "project-planner-seo-hq"
+compatibility_date = "2024-03-20"
+
+[[d1_databases]]
+binding = "newsletter_db"
+database_name = "newsletter-db"
+database_id = "8a1a916c-c09b-4a1f-b758-2d8bdcdf4632"

@@ -11,13 +11,61 @@
 	<div class="newsletter-content">
 		<h3>Get the Fast Food Insider Newsletter</h3>
 		<p>Once a week, I break down the operational secrets that the corporate training manuals leave out. No spam, just the gritty reality of the kitchen.</p>
-		<form class="newsletter-form" action="#" method="POST" onsubmit="event.preventDefault(); alert('Newsletter subscription mocked for now!');">
+		<form id="newsletter-form" class="newsletter-form">
 			<label for="email-address" class="sr-only">Email address</label>
 			<input id="email-address" name="email" type="email" autocomplete="email" required placeholder="Enter your email" />
-			<button type="submit">Subscribe</button>
+			<button type="submit" id="newsletter-submit">Subscribe</button>
 		</form>
+		<p id="newsletter-message" class="newsletter-message" style="display: none;"></p>
 	</div>
 </div>
+
+<script>
+	const form = document.getElementById('newsletter-form') as HTMLFormElement;
+	const messageEl = document.getElementById('newsletter-message');
+	const submitBtn = document.getElementById('newsletter-submit') as HTMLButtonElement;
+
+	if (form && messageEl && submitBtn) {
+		form.addEventListener('submit', async (e) => {
+			e.preventDefault();
+			
+			const email = (document.getElementById('email-address') as HTMLInputElement).value;
+			
+			// Loading state
+			submitBtn.disabled = true;
+			submitBtn.textContent = 'Subscribing...';
+			messageEl.style.display = 'none';
+			messageEl.className = 'newsletter-message';
+
+			try {
+				const response = await fetch('/api/subscribe', {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json',
+					},
+					body: JSON.stringify({ email }),
+				});
+
+				const data = await response.json();
+
+				if (response.ok) {
+					form.style.display = 'none';
+					messageEl.textContent = data.message || 'Successfully subscribed!';
+					messageEl.classList.add('success');
+					messageEl.style.display = 'block';
+				} else {
+					throw new Error(data.error || 'Something went wrong. Please try again.');
+				}
+			} catch (error: any) {
+				messageEl.textContent = error.message;
+				messageEl.classList.add('error');
+				messageEl.style.display = 'block';
+				submitBtn.disabled = false;
+				submitBtn.textContent = 'Subscribe';
+			}
+		});
+	}
+</script>
 
 <style>
 	.newsletter-cta {
@@ -102,10 +150,31 @@
 		font-weight: 600;
 		font-size: 1rem;
 		cursor: pointer;
-		transition: background-color 0.2s ease;
+		transition: background-color 0.2s ease, opacity 0.2s ease;
 		white-space: nowrap;
 	}
-	.newsletter-form button:hover {
+	.newsletter-form button:hover:not(:disabled) {
 		background-color: #059669;
+	}
+	.newsletter-form button:disabled {
+		opacity: 0.7;
+		cursor: not-allowed;
+	}
+	.newsletter-message {
+		margin-top: 1rem;
+		padding: 0.75rem;
+		border-radius: 0.375rem;
+		font-size: 0.95rem;
+		font-weight: 500;
+	}
+	.newsletter-message.success {
+		background-color: rgba(16, 185, 129, 0.1);
+		color: #10B981;
+		border: 1px solid rgba(16, 185, 129, 0.2);
+	}
+	.newsletter-message.error {
+		background-color: rgba(239, 68, 68, 0.1);
+		color: #EF4444;
+		border: 1px solid rgba(239, 68, 68, 0.2);
 	}
 </style>
