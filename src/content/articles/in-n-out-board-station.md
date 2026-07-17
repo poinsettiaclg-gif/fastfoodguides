@@ -19,7 +19,7 @@ faq:
 
 
 
-At In-N-Out Burger, the kitchen runs on stations, and every station has a number. The Grill cook at Level 6 gets all the bragging rights. But here's the thing nobody tells you—the station directly behind the Grill, the one that most people have never even heard of, is universally considered the hardest job in the entire building. That station is called **The Board**, and it lives at Level 5 in the [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
+At [In-N-Out](/articles/chain/in-n-out) Burger, the kitchen runs on stations, and every station has a number. The Grill cook at Level 6 gets all the bragging rights. But here's the thing nobody tells you—the station directly behind the Grill, the one that most people have never even heard of, is universally considered the hardest job in the entire building. That station is called **The Board**, and it lives at Level 5 in the [The In-N-Out Level System Explained (Level 1 to Level 7)](/articles/in-n-out-level-system/))*
 
 The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break. 
 

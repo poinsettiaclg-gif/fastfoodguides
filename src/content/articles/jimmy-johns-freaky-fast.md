@@ -94,7 +94,7 @@ The deliberate constraint forces efficiency. Every time corporate considers addi
 
 This is the decision that drives some customers crazy and is the single most misunderstood aspect of Jimmy John’s. There are no toasters. No panini presses. No microwaves. No ovens used for anything except bread. Every sandwich leaves the line cold.
 
-It is not about cost savings or laziness. It is about time. A toaster oven adds 60 to 90 seconds to a sandwich build. A panini press adds two minutes or more. At Subway, the toasting step is one of the primary bottlenecks during a lunch rush — the oven queue backs up, sandwiches pile on the counter waiting for a slot, and the whole line grinds down.
+It is not about cost savings or laziness. It is about time. A toaster oven adds 60 to 90 seconds to a sandwich build. A panini press adds two minutes or more. At [Subway](/articles/chain/subway), the toasting step is one of the primary bottlenecks during a lunch rush — the oven queue backs up, sandwiches pile on the counter waiting for a slot, and the whole line grinds down.
 
 Jimmy John’s eliminated that bottleneck entirely by refusing to toast. The bread is baked fresh, the ingredients are high quality, and the sandwich is designed to be eaten cold. That is the product. If you want a hot sandwich, Jimmy John’s will politely suggest you go somewhere else. They would rather lose a customer who insists on toasting than add 90 seconds to every order for every customer who does not care.
 

@@ -42,7 +42,7 @@ They are constantly scanning the pans. The standard rule is that when a pan drop
 
 A standard call sounds like this: **"Waiting on Batch One Orange Chicken!"**
 
-The wok chef must immediately reply: **"Heard, Batch One Orange!"**
+The [wok chef](/articles/panda-express-wok-chef/) must immediately reply: **"Heard, Batch One Orange!"**
 
 If the wok chef does not repeat the call back, the caller assumes they didn't hear it and will yell it again. This confirmation loop guarantees that the kitchen has registered the order and is actively starting the prep.
 

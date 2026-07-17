@@ -74,7 +74,7 @@ Shake Shack’s supply chain is built around maintaining this fresh-never-frozen
 
 This is the comparison that comes up constantly, and it’s worth addressing head-on because the two chains are often mentioned in the same breath as “premium fast-casual burgers.” But the cooking techniques are fundamentally different.
 
-Five Guys does not smash their burgers. Full stop. At Five Guys, the beef is hand-portioned and loosely formed into patties, then placed on a flat-top grill and cooked without pressing. The patties are thicker, cooked at a somewhat lower temperature, and the goal is a juicy, beefy patty with moderate browning—not the aggressive, edge-to-edge crust that defines a smash burger.
+[Five Guys](/articles/chain/five-guys) does not smash their burgers. Full stop. At Five Guys, the beef is hand-portioned and loosely formed into patties, then placed on a flat-top grill and cooked without pressing. The patties are thicker, cooked at a somewhat lower temperature, and the goal is a juicy, beefy patty with moderate browning—not the aggressive, edge-to-edge crust that defines a smash burger.
 
 [The Five Guys](/articles/five-guys-fry-calibration) patty is about the beef itself. The Shake Shack patty is about what happens to the beef when it contacts the griddle. Both approaches produce good burgers, but they’re aiming at completely different targets. A Five Guys burger is thick, juicy, and beefy. A Shake Shack burger is thin, crusty, and savory in a way that leans more toward seared steak than traditional hamburger.
 

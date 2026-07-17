@@ -76,7 +76,7 @@ When a customer steps to the counter and says "I want a Vanilla Iced Coffee," yo
 
 The POS system lists Shots and Swirls in separate sections of the flavor menu, and they display differently on the order screen. If you're ever unsure which one was ordered after the customer has walked away, check the screen—it will tell you exactly which flavor type was rung up. But the better habit is to confirm before you start making the drink, not after.
 
-## Surviving the 6 AM to 9 AM Morning Rush
+## Surviving the 6 AM to 9 AM [Morning Rush](/articles/starbucks-morning-rush/)
 
 During the morning rush, a high-volume Dunkin' can push hundreds of drinks per hour. Every single one requires the correct flavor type, the correct pump count, and the correct base—hot, iced, or frozen. The margin for error is razor-thin, and a single misheard order cascades into a 30-second remake you absolutely do not have time for.
 

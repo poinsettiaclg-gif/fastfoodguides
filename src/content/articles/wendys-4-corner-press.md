@@ -85,7 +85,7 @@ I've watched Grill Cooks who were perfectly competent on a flat-top completely f
 
 ### Do all Wendy's locations use the 4-Corner Press?
 
-Yes. The 4-Corner Press is a standard, company-wide training component for every Grill Cook at Wendy's, regardless of whether the store uses a flat-top grill or a clamshell grill. The technique is identical—only the speed changes based on equipment type.
+Yes. The 4-Corner Press is a standard, company-wide training component for every Grill Cook at Wendy's, regardless of whether the store uses a flat-top grill or a [clamshell grill](/articles/wendys-clamshell-grill/). The technique is identical—only the speed changes based on equipment type.
 
 ### What happens if a patty shrinks because I forgot to press it?
 

@@ -94,13 +94,13 @@ Let me line up the key differences, because seeing them all together makes the g
 
 **Beef sourcing:** Culver’s uses fresh, never frozen beef. McDonald’s uses frozen patties for their standard burgers (their Quarter Pounder line switched to fresh beef in 2018, but most menu items are still frozen). [Burger King](/articles/chain/burger-king) uses frozen patties. Wendy’s is the other notable chain that uses fresh beef across their lineup.
 
-**Cook method:** Culver’s cooks on a flat-top griddle, to order. McDonald’s cooks on a clamshell grill that presses patties from both sides simultaneously. Burger King uses a chain-driven broiler that runs patties through open flames. For a look at how Wendy’s grill operates, [the Wendy’s clamshell grill breakdown](/articles/wendys-clamshell-grill) has the details.
+**Cook method:** Culver’s cooks on a flat-top griddle, to order. McDonald’s cooks on a clamshell grill that presses patties from both sides simultaneously. [Burger King](/articles/chain/burger-king) uses a chain-driven broiler that runs patties through open flames. For a look at how Wendy’s grill operates, [the Wendy’s clamshell grill breakdown](/articles/wendys-clamshell-grill) has the details.
 
 **Bun treatment:** Culver’s butter-toasts the crown on the flat-top. Most chains either steam their buns, lightly toast them in a standard toaster, or don’t toast them at all. The butter step is unique to Culver’s among major chains.
 
 **Assembly timing:** Culver’s assembles each burger after the patty is cooked. Most high-volume fast-food chains pre-build burgers and hold them in heated landing zones, meaning the burger you receive might have been assembled several minutes before you ordered it.
 
-**Price point:** A ButterBurger meal runs $9 to $12 depending on the size and location, which puts it above McDonald’s and Burger King but in the same range as [Five Guys](/articles/chain/five-guys) and Shake Shack. You’re paying a premium over the cheapest fast food, but you’re getting a meaningfully different product.
+**Price point:** A ButterBurger meal runs $9 to $12 depending on the size and location, which puts it above McDonald’s and Burger King but in the same range as [Five Guys](/articles/chain/five-guys) and [Shake Shack](/articles/chain/shake-shack). You’re paying a premium over the cheapest fast food, but you’re getting a meaningfully different product.
 
 ## The Frozen Custard Connection
 

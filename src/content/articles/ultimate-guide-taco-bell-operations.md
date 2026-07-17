@@ -80,7 +80,7 @@ Corporate mandates strict limits on these timers. The standard target is under 5
 
 ## The PepsiCo Partnership and [Baja Blast](/articles/taco-bell-baja-blast/)
 
-You cannot talk about Taco Bell without talking about their beverage strategy. Decades ago, Taco Bell was owned by PepsiCo (before they spun off into Yum! Brands). That foundational relationship allowed them to secure one of the most valuable exclusive products in fast food history: Mountain Dew Baja Blast.
+You cannot talk about Taco Bell without talking about their beverage strategy. Decades ago, Taco Bell was owned by PepsiCo (before they spun off into Yum! Brands). That foundational relationship allowed them to secure one of the most valuable exclusive products in fast food history: Mountain Dew [Baja Blast](/articles/taco-bell-baja-blast/).
 
 Baja Blast was chemically engineered specifically to complement the flavor profile of Taco Bell's food. It is a massive traffic driver, particularly during the late-night "Fourth Meal" rush. We break down the syrup-to-carbonation ratios and the history of this legendary drink in our [Taco Bell Baja Blast](/articles/taco-bell-baja-blast) guide.
 

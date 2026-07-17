@@ -37,7 +37,7 @@ Dive deeper into the logistics of this system in our breakdown of [Wendy's Fresh
 
 ## The Grill Station and the 4-Corner Press
 
-Unlike Burger King, which uses an automated flame broiler, Wendy's relies on the **Clamshell Grill**. This dual-sided flat-top drastically reduces cook times by searing the top and bottom of the patty simultaneously.
+Unlike [Burger King](/articles/chain/burger-king), which uses an automated flame broiler, Wendy's relies on the **Clamshell Grill**. This dual-sided flat-top drastically reduces cook times by searing the top and bottom of the patty simultaneously.
 
 <div class="callout callout-tip">
 <strong>Operational Reality:</strong> The clamshell grill operates at extreme temperatures. The bottom platen usually sits at 425°F while the top platen is around 400°F. Managing this station during a lunch rush requires serious heat tolerance.

@@ -60,7 +60,7 @@ Cooking beef at volume requires intense hardware. McDonald's utilizes automated 
 
 For a deep dive into the transition from frozen pucks to fresh meat and how it altered the grill timing, check out our guide on the [McDonald's fresh beef grill process](/articles/mcdonalds-fresh-beef-grill-process). 
 
-### The Fry Station
+### The [Fry Station](/articles/mcdonalds-fry-station/)
 The fry station is the most profitable square footage in the building, and it never stops moving. The frozen fries are loaded into an automated hopper that portions them out into baskets with a pull of a lever, ensuring the exact right weight per basket. 
 
 ![McDonald's automated fry hopper system](../../assets/images/mcdonalds-fry-station/mcdonalds-fry-station-the-fry-hopper-and-portionin.webp)

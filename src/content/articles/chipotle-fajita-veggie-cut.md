@@ -80,7 +80,7 @@ It depends on the store's volume, but a typical location preps between 40 and 60
 
 Chipotle requires the use of a Kevlar cut-resistant glove on the non-cutting hand during certain prep tasks, particularly when cutting proteins like chicken and steak. Policies on wearing the glove during vegetable prep can vary by store, but many managers strongly encourage it for all knife work—especially for newer employees who are still building their muscle memory. My advice: just wear it. Your pride is not worth a severed tendon.
 
-### What happens if you fail the knife test during Grill Validation?
+### What happens if you fail the knife test during [Grill Validation](/articles/chipotle-grill-validation/)?
 
 Failing the knife test does not get you fired. You continue working in your current role and are given additional training time to practice your cuts before attempting the validation again. Most employees who fail the first time pass on their second or third attempt after focused practice. The evaluators want you to succeed—they are not trying to trick you. They just need to see that you can maintain the standard consistently under pressure.
 

@@ -70,7 +70,7 @@ One of the most difficult things for a new "green bean" (a new hire) to learn is
 If a barista uses the wrong pump, or the wrong number of pumps, the drink is ruined. Memorizing this matrix is the biggest hurdle to getting fast on bar. We created a definitive cheat sheet for this in our guide to [Starbucks pump ratios](/articles/starbucks-pump-ratios-memorize).
 
 ### The [Secret Menu](/articles/starbucks-secret-menu/) Reality
-The complexity of the Cold Bar is aggressively amplified by the "Secret Menu." These are not official Starbucks drinks; they are massive lists of custom modifications invented by customers on TikTok and Instagram. 
+The complexity of the Cold Bar is aggressively amplified by the "[Secret Menu](/articles/starbucks-secret-menu/)." These are not official Starbucks drinks; they are massive lists of custom modifications invented by customers on TikTok and Instagram. 
 
 When a customer orders a "Skittles Frappuccino," the barista doesn't have a button for that. The customer has to read off the six different syrups and custom blending instructions. This completely destroys the sequencing routine and brings the drive-thru to a screeching halt. We take a gritty look at the operational nightmare this causes in our breakdown of the [Starbucks Secret Menu](/articles/starbucks-secret-menu).
 
@@ -93,7 +93,7 @@ If the CS partner breaks their cycle or gets distracted, the baristas will run o
 
 Starbucks is a coffee shop, but they push a massive amount of food. However, they do not cook anything from scratch. Every pastry, sandwich, and egg bite arrives frozen on a delivery truck.
 
-The food system relies entirely on a strict "[Pull to Thaw](/articles/starbucks-pull-to-thaw/)" process. Shift supervisors use predictive algorithms on the store's tablets to determine exactly how many Lemon Loaves or Bacon Gouda sandwiches they need to pull from the deep freezer to thaw for the next day's business. 
+The food system relies entirely on a strict "[Pull to Thaw](/articles/starbucks-pull-to-thaw/)" process. Shift supervisors use predictive algorithms on the store's tablets to determine exactly how many Lemon Loaves or Bacon Gouda sandwiches they need to pull from the deep freezer [to thaw](/articles/starbucks-pull-to-thaw/) for the next day's business. 
 
 <div class="callout callout-tip">
 <strong>Operational Reality:</strong> If a shift supervisor pulls too much food, the store takes a massive hit on food cost variance (waste). If they pull too little, the store runs out of food by 9:00 AM and loses hundreds of dollars in potential revenue.

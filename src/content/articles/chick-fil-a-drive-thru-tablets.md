@@ -26,7 +26,7 @@ This is a gritty, operational look at how the iPOS system actually works, how th
 
 To understand the genius of the iPOS system, you have to understand the math of a traditional drive-thru. 
 
-When a minivan with four kids pulls up to a Wendy's speaker box, that minivan might sit there for three solid minutes while the parents try to figure out what everyone wants. During those three minutes, the five cars stuck behind the minivan cannot order. The kitchen inside might be completely empty and waiting for tickets, but they are starved for work because the speaker box is blocked.
+When a minivan with four kids pulls up to a [Wendy's](/articles/chain/wendys) speaker box, that minivan might sit there for three solid minutes while the parents try to figure out what everyone wants. During those three minutes, the five cars stuck behind the minivan cannot order. The kitchen inside might be completely empty and waiting for tickets, but they are starved for work because the speaker box is blocked.
 
 Chick-fil-A’s solution is "Tandem Ordering." By sending three or four team members outside with tablets, they can walk down the line of cars. If the minivan needs three minutes to decide, the team member can just walk past them to the next car, take that order, and beam it directly to the kitchen. The kitchen never stops working.
 

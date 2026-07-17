@@ -19,7 +19,7 @@ faq:
 
 
 
-In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
+[In-N-Out](/articles/chain/in-n-out) Burger is famous for paying its people well—significantly better than the industry average, in fact. But here's the thing nobody tells you during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
 
 It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
 
