@@ -72,7 +72,7 @@ Here's a mistake During a Friday night rush, new baristas make repeatedly: doubl
 
 When a customer steps to the counter and says "I want a Vanilla Iced Coffee," you have a decision to make. Do they mean the sweetened Vanilla Swirl or the sugar-free Vanilla Shot? The answer is: you don't guess. You ask.
 
-"Would you like the sweetened Vanilla Swirl, or the sugar-free Vanilla Shot?" That single question, asked every single time, will save you from remaking dozens of drinks during the morning rush. I've talked to Dunkin' shift leads who estimated that baristas who ask this question consistently remake 60 to 70% fewer drinks than those who assume.
+"Would you like the sweetened Vanilla Swirl, or the sugar-free Vanilla Shot?" That single question, asked every single time, will save you from remaking dozens of drinks during the [morning rush](/articles/starbucks-morning-rush/). I've talked to Dunkin' shift leads who estimated that baristas who ask this question consistently remake 60 to 70% fewer drinks than those who assume.
 
 The POS system lists Shots and Swirls in separate sections of the flavor menu, and they display differently on the order screen. If you're ever unsure which one was ordered after the customer has walked away, check the screen—it will tell you exactly which flavor type was rung up. But the better habit is to confirm before you start making the drink, not after.
 

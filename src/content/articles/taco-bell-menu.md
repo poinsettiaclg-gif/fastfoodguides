@@ -25,7 +25,7 @@ Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, c
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
-The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
+The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on [the Taco Bell](/articles/taco-bell-linebacker-role) menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
 
 
 

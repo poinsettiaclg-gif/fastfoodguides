@@ -62,7 +62,7 @@ Your hands are constantly wet, constantly coated in flour paste, and the flour b
 
 ## Managing Both Fryers During a Rush
 
-This is where experienced KFC cooks earn their stripes. The pressure fryers and open fryers run on completely different timelines with completely different demands, and during a busy shift, you're running both simultaneously.
+This is where experienced KFC cooks earn their stripes. The [pressure fryers](/articles/kfc-pressure-fryers/) and open fryers run on completely different timelines with completely different demands, and during a busy shift, you're running both simultaneously.
 
 A pressure fryer batch takes about 15 minutes and essentially runs on autopilot once the lid locks. An open fryer batch takes longer and requires you to periodically shake the basket or use tongs to separate pieces that are fusing together in the oil. If you drop a pressure fryer batch and an open fryer batch at the same time, the pressure fryer finishes first—and if you're elbow-deep separating Extra Crispy pieces when the pressure fryer vents and unlocks, your Original Recipe sits in cooling oil and overcooks.
 

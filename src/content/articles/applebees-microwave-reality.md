@@ -122,7 +122,7 @@ Interestingly, this kind of speed-focused system isn't unique to Applebee's. Eve
 
 Here's the thing nobody wants to admit: **every casual dining chain does this**. [Chili's](/articles/chain/chilis) uses microwaves and TurboChefs. [Denny's](/articles/chain/dennys) uses them. TGI Friday's, Red Lobster, Olive Garden — they all have some version of this hybrid cooking system. Applebee's just caught the brunt of the internet jokes.
 
-Chili's actually has a very similar kitchen layout — grill side for proteins, micro side for sides and apps. Denny's leans a little more heavily on the flat-top for a wider variety of items because their menu is more breakfast-oriented, but they still microwave sides and reheat soups.
+[Chili's](/articles/chain/chilis) actually has a very similar kitchen layout — grill side for proteins, micro side for sides and apps. [Denny's](/articles/chain/dennys) leans a little more heavily on the flat-top for a wider variety of items because their menu is more breakfast-oriented, but they still microwave sides and reheat soups.
 
 The reality is that casual dining is a volume game. These restaurants serve 300–500 covers on a busy night with a kitchen crew of 4–6 people. The only way to do that with a menu of 80+ items, ticket times under 15 minutes, and a labor budget that corporate will actually approve is to use a combination of pre-prepped ingredients and high-speed cooking equipment. That's not a scandal — that's the business model.
 

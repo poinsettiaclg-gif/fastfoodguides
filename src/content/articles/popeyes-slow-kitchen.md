@@ -41,7 +41,7 @@ Now think about what happens during a lunch rush. A single family order might be
 
 Here's where it gets worse. Popeyes has to predict how much chicken to cook before the rush hits. If they start a batch at 11:15 AM, it won't be ready until 11:40. If the lunch rush starts at 11:30, there's a 10-minute window where demand is spiking but the kitchen is still waiting for chicken to finish.
 
-Most fast food restaurants can respond to unexpected demand in real-time. If McDonald's suddenly gets busy, they can drop more fries (3 minutes), start more nuggets (4 minutes), or fire more burgers (2-3 minutes). The recovery time is measured in single-digit minutes.
+Most fast food restaurants can respond to unexpected demand in real-time. If [McDonald's](/articles/chain/mcdonalds) suddenly gets busy, they can drop more fries (3 minutes), start more nuggets (4 minutes), or fire more burgers (2-3 minutes). The recovery time is measured in single-digit minutes.
 
 Popeyes' recovery time is 25 minutes minimum. If they miscalculate demand by even one batch, customers are waiting half an hour. There's no way to speed up the physics of pressure frying.
 
@@ -49,7 +49,7 @@ The chicken sandwich made this problem exponentially worse. When the Popeyes Chi
 
 ## The Battering Adds Time Too
 
-Before the chicken ever hits the fryer, it goes through a multi-step battering process. Each piece gets:
+Before the chicken ever hits the fryer, it goes through a multi-step [battering process](/articles/popeyes-chicken-battering-process/). Each piece gets:
 
 1. **Dipped in a buttermilk marinade** — the chicken is marinated in seasoned buttermilk, which is what gives Popeyes its distinctive tangy flavor
 2. **Dredged in seasoned flour** — the proprietary Cajun-spiced flour blend that creates the signature crust
@@ -99,7 +99,7 @@ It's not just the chicken. Popeyes' sides require real kitchen work:
 - **Coleslaw** — prep work, needs to stay cold
 - **Biscuits** — baked in batches, 12-15 minute bake time, need to be fresh
 
-Each side dish is another thing someone has to monitor, prep, and restock during service. At Chick-fil-A or [Raising Cane's](/articles/chain/raising-canes), the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
+Each side dish is another thing someone has to monitor, prep, and restock during service. At [Chick-fil-A](/articles/chain/chick-fil-a) or [Raising Cane's](/articles/chain/raising-canes), the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
 
 ## Why Some Popeyes Are Faster Than Others
 

@@ -68,7 +68,7 @@ The reason is simple: **cost and maintenance**. Nugget ice machines:
 - Require more frequent cleaning (the auger mechanism and water system need regular descaling)
 - Break down more often (the auger is a mechanical component with moving parts, unlike the passive freezing of cube trays)
 
-For a chain like McDonald's, where drinks are secondary to burgers and fries, the ROI doesn't justify it. For Sonic, where drinks are the main attraction, it absolutely does.
+For a chain like [McDonald's](/articles/chain/mcdonalds), where drinks are secondary to burgers and fries, the ROI doesn't justify it. For Sonic, where drinks are the main attraction, it absolutely does.
 
 ## The Operational Reality: Ice Machine Maintenance
 

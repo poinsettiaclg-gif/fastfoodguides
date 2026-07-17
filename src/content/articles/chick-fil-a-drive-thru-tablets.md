@@ -14,7 +14,7 @@ faq:
     answer: "The iPads are encased in heavy-duty commercial rugged cases with built-in card readers and sunshades, and the team members wear specialized all-weather gear depending on the season."
 ---
 
-If you look at the drive-thru layout of a McDonald's or a Wendy's, the architecture is fundamentally the same as it was in the 1980s. A customer pulls up to a metal speaker box, shouts their order into a microphone, and drives forward. The speaker box is a structural bottleneck. No matter how fast the kitchen cooks the food, you can only process one car at a time through that speaker.
+If you look at the drive-thru layout of a [McDonald's](/articles/chain/mcdonalds) or a [Wendy's](/articles/chain/wendys), the architecture is fundamentally the same as it was in the 1980s. A customer pulls up to a metal speaker box, shouts their order into a microphone, and drives forward. The speaker box is a structural bottleneck. No matter how fast the kitchen cooks the food, you can only process one car at a time through that speaker.
 
 Chick-fil-A looked at that bottleneck and completely engineered it out of existence. 
 

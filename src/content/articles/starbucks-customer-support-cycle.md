@@ -76,7 +76,7 @@ Here's the reality that new partners don't understand until they've seen it play
 
 The moment the CS barista falls behind—maybe they get pulled to help take orders, or they skip a restock step—bar partners start running dry. One missing supply creates 30 seconds of delay. Three missing supplies and the drink queue spirals out of control within minutes.
 
-This is why experienced Shift Supervisors protect the CS role fiercely. When the front register gets slammed and someone suggests pulling the CS barista to help take orders, a good SSV will almost always say no. The short-term relief of an extra register partner is not worth the long-term damage of a disrupted CS cycle. I've managed stores where we tried it during a particularly brutal morning rush, and within 15 minutes the bar partners were completely dry on milk, cups, and mocha sauce. It took another 20 minutes to recover. Never again.
+This is why experienced Shift Supervisors protect the CS role fiercely. When the front register gets slammed and someone suggests pulling the CS barista to help take orders, a good SSV will almost always say no. The short-term relief of an extra register partner is not worth the long-term damage of a disrupted CS cycle. I've managed stores where we tried it during a particularly brutal [morning rush](/articles/starbucks-morning-rush/), and within 15 minutes the bar partners were completely dry on milk, cups, and mocha sauce. It took another 20 minutes to recover. Never again.
 
 ## Restocking Prioritization by Season
 

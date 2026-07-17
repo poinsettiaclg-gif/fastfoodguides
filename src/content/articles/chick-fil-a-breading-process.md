@@ -60,7 +60,7 @@ The difference between a perfectly breaded filet and a mediocre one is entirely 
 
 ## The Pressure Fryer: Step Three
 
-This is the piece of equipment that truly separates Chick-fil-A from every other chicken chain. They use **Henny Penny pressure fryers** — the same fundamental technology that Colonel Sanders originally used at [KFC](/articles/chain/kfc) before KFC largely moved away from them for speed reasons.
+This is the piece of equipment that truly separates Chick-fil-A from every other chicken chain. They use **Henny Penny pressure fryers** — the same fundamental technology that Colonel Sanders originally used at [KFC](/articles/chain/kfc) before [KFC](/articles/chain/kfc) largely moved away from them for speed reasons.
 
 ### How Pressure Frying Works
 

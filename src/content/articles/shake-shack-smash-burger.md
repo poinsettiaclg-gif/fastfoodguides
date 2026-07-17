@@ -70,7 +70,7 @@ Fresh beef also balls up and holds together differently. When you portion a ball
 
 Shake Shack’s supply chain is built around maintaining this fresh-never-frozen protocol. The beef arrives at each location refrigerated, not frozen, and has to be used within a tight window. This creates the same kind of inventory pressure that [Five Guys](/articles/chain/five-guys) deals with—if you want the full breakdown of what running a no-freezer kitchen actually looks like, [the Five Guys no-freezer deep dive](/articles/five-guys-no-freezers) covers it in detail.
 
-## How It Differs from Five Guys
+## How It Differs from [Five Guys](/articles/chain/five-guys)
 
 This is the comparison that comes up constantly, and it’s worth addressing head-on because the two chains are often mentioned in the same breath as “premium fast-casual burgers.” But the cooking techniques are fundamentally different.
 

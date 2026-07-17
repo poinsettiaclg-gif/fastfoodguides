@@ -168,7 +168,7 @@ It's a hard job, and the Grand Slam — as simple as it looks on the menu — is
 
 ## The Grand Slam Is a Skill Check
 
-Every chain restaurant has that one menu item that defines what the kitchen is about. At [Waffle House](/articles/chain/waffle-house), it's the hash brown system. At IHOP, it's the pancake consistency. At Denny's, it's the Grand Slam.
+Every chain restaurant has that one menu item that defines what the kitchen is about. At [Waffle House](/articles/chain/waffle-house), it's the hash brown system. At [IHOP](/articles/chain/ihop), it's the pancake consistency. At Denny's, it's the Grand Slam.
 
 Four components, four different cook times, all landing on the plate at the same moment, cooked exactly the way the guest wants. Multiply that by every table in the restaurant during a Sunday rush, and you've got a real test of a cook's ability to manage time, space, and heat simultaneously.
 

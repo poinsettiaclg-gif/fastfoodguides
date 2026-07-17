@@ -67,7 +67,7 @@ If you eat regularly at sub shops, you’ve probably noticed that Firehouse, Sub
 
 ### Subway: The Conveyor Toaster Oven
 
-Subway uses a commercial conveyor toaster oven — a metal box with heating elements above and below a moving belt. The assembled sub (bread, meat, cheese, all together) passes through the oven at roughly 450°F to 500°F for about 20 to 30 seconds. The result is a toasted exterior with melted cheese. It works, but the bread comes out crunchy and the cheese melt is inconsistent. The [bread baking process](/articles/subway-bread-baking-process) at Subway produces a roll that’s designed to hold up to toasting, which is why their bread has a denser crumb structure than what you’d find at Firehouse.
+Subway uses a commercial conveyor toaster oven — a metal box with heating elements above and below a moving belt. The assembled sub (bread, meat, cheese, all together) passes through the oven at roughly 450°F to 500°F for about 20 to 30 seconds. The result is a toasted exterior with melted cheese. It works, but the bread comes out crunchy and the cheese melt is inconsistent. The [bread baking process](/articles/[subway](/articles/chain/subway)-bread-baking-process) at Subway produces a roll that’s designed to hold up to toasting, which is why their bread has a denser crumb structure than what you’d find at Firehouse.
 
 **Pros:** Fast, gives bread a crunchy texture that some people prefer, handles high volume. **Cons:** Dries out meats, uneven cheese melt, bread can get too hard and cause fillings to squish out.
 

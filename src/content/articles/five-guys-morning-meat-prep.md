@@ -16,7 +16,7 @@ faq:
     answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
 ---
 
-Five Guys built its entire brand on a single, unwavering promise: there are no freezers in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.
+Five Guys built its entire brand on a single, unwavering promise: there are [no freezers](/articles/five-guys-no-freezers/) in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.
 
 This commitment to fresh food means that the back-of-house operations at Five Guys look more like a high-volume butcher shop than a modern fast food kitchen. Before a single customer walks through the doors at 11:00 AM, a dedicated morning prep crew has already been in the building for hours, engaging in one of the most physically repetitive tasks in the industry: rolling the meat.
 

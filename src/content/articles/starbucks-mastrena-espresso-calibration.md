@@ -16,7 +16,7 @@ faq:
     answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Starbucks locations."
 ---
 
-If you stand at the hand-off plane of any high-volume Starbucks location, you will see a massive, low-profile machine dominating the hot bar. This is the Mastrena II, a piece of equipment so central to the Starbucks operation that a single breakdown can instantly back up the entire store and ruin the morning rush.
+If you stand at the hand-off plane of any high-volume Starbucks location, you will see a massive, low-profile machine dominating the hot bar. This is the Mastrena II, a piece of equipment so central to the Starbucks operation that a single breakdown can instantly back up the entire store and ruin the [morning rush](/articles/starbucks-morning-rush/).
 
 The jump from the original Mastrena to the Mastrena II was a massive technological shift for the company. The newer machines are shorter, allowing baristas to make eye contact with customers while pulling shots, and they feature three separate bean hoppers (usually holding signature espresso, blonde espresso, and decaf). 
 

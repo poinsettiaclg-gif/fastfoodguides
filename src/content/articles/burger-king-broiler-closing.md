@@ -81,4 +81,4 @@ Excessive grease and carbon buildup is a serious fire hazard. If the accumulated
 
 ---
 
-*Want to understand how the broiler works before you have to clean it? Start with our guide on [how the Burger King broiler operates and whether it is dangerous](/articles/burger-king-broiler). For a look at closing duties at other chains, check out [the complete Wendy's closing duties checklist](/articles/wendys-closing-duties). And to understand the role that controls the kitchen before closing time, read about [the Burger King Expeditor role during a rush](/articles/burger-king-expeditor-role).*
+*Want to understand how the broiler works before you have to clean it? Start with our guide on [how the Burger King broiler operates and whether it is dangerous](/articles/burger-king-broiler). For a look at [closing duties](/articles/wendys-closing-duties/) at other chains, check out [the complete Wendy's closing duties checklist](/articles/wendys-closing-duties). And to understand the role that controls the kitchen before closing time, read about [the Burger King Expeditor role during a rush](/articles/burger-king-expeditor-role).*

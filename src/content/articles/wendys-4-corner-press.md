@@ -66,7 +66,7 @@ If you press too late—after the proteins have already fully contracted—press
 
 The golden rule: press while the meat is still mostly raw. The corners should feel soft and pliable under your spatula, and the press should spread the meat outward with minimal resistance. If you feel significant pushback, you've waited too long.
 
-## The Clamshell Grill Complication
+## The [Clamshell Grill](/articles/wendys-clamshell-grill/) Complication
 
 If your Wendy's uses a [double-sided clamshell grill](/articles/wendys-clamshell-grill), the 4-Corner Press becomes even more time-critical. The clamshell's top platen comes down within seconds of pressing the green button, so you need to drop the patties, hit all four corners immediately, and then close the grill before the window expires.
 

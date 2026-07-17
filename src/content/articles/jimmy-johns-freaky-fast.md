@@ -79,7 +79,7 @@ Bread that does not get used by end of day is thrown out. Day-old bread is somet
 
 ## Why the Menu Is Deliberately Small
 
-Walk into a Jimmy John’s and look at the menu board. Compared to Subway, [Firehouse Subs](/articles/chain/firehouse-subs), or Jersey Mike’s, the selection is shockingly limited. A handful of cold subs, a few club sandwiches, and that is basically it. No soup. No pizza. No salads (they briefly tried them and pulled back). No breakfast. No desserts beyond a cookie.
+Walk into a Jimmy John’s and look at the menu board. Compared to [Subway](/articles/chain/subway), [Firehouse Subs](/articles/chain/firehouse-subs), or Jersey Mike’s, the selection is shockingly limited. A handful of cold subs, a few club sandwiches, and that is basically it. No soup. No pizza. No salads (they briefly tried them and pulled back). No breakfast. No desserts beyond a cookie.
 
 This is not a weakness — it is the entire strategy. Every item added to a menu adds prep time, inventory complexity, equipment needs, and decision-making for the customer. Jimmy John’s keeps the menu tight because a smaller menu means:
 

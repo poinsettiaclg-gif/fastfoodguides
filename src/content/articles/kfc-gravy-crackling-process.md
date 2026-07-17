@@ -26,7 +26,7 @@ When I managed kitchens, training new cooks on the gravy process was always an i
 
 ## Harvesting the Crackling
 
-To understand the gravy, you have to understand the frying process. KFC cooks their Original Recipe chicken in large pressure fryers. Throughout the day, the cooks drop rack after rack of freshly breaded chicken into the hot oil. As the chicken cooks under pressure, bits of flour, the eleven herbs and spices, and rendered chicken fat fall off the meat and sink to the bottom of the vat.
+To understand the gravy, you have to understand the frying process. KFC cooks their Original Recipe chicken in large [pressure fryers](/articles/kfc-pressure-fryers/). Throughout the day, the cooks drop rack after rack of freshly breaded chicken into the hot oil. As the chicken cooks under pressure, bits of flour, the eleven herbs and spices, and rendered chicken fat fall off the meat and sink to the bottom of the vat.
 
 Over several hours, this debris forms a thick, dark, sludge-like layer at the bottom of the fryer. This is the crackling. 
 
@@ -69,5 +69,5 @@ Yes. Gravy made purely from a powder packet is noticeably lighter in color and l
 ### Is the gravy vegetarian?
 Absolutely not. Because the gravy relies on the cracklings harvested from the chicken fryers, it is packed with rendered chicken fat and meat juices. 
 
-### Does the gravy use Extra Crispy cracklings too?
+### Does the gravy use [Extra Crispy](/articles/kfc-original-vs-extra-crispy/) cracklings too?
 No. The cracklings are specifically harvested from the pressure fryers used for the Original Recipe chicken. The Extra Crispy chicken is cooked in standard open fryers, and the breading runoff from those fryers does not have the same concentration of the eleven herbs and spices required to flavor the gravy correctly.

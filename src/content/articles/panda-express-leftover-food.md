@@ -44,7 +44,7 @@ The Waste Log also serves a secondary purpose that most crew members don't think
 ![Schematic diagram of steam table pan consolidation workflow in neon green and light blue](../../assets/images/panda-express-leftover-food/panda-express-steam-table-consolidation.webp)
 
 
-Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the Wok Chef to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.
+Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the [Wok Chef](/articles/panda-express-wok-chef/) to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.
 
 As the steam table pans start running low, the manager makes a judgment call: Is it worth cooking another small batch of Kung Pao Chicken when there are only 30 minutes left, or should the front counter simply tell customers that the item is unavailable? Most experienced managers err on the side of selling out rather than overproducing, because the Waste Log penalty is more painful than losing one or two late-night sales.
 

@@ -29,7 +29,7 @@ This guide breaks down exactly what happens behind the counter. From the second 
 
 Everything in a modern McDonald's revolves around the Kitchen Video System (KVS). The days of screaming orders down a line are long gone. When an order is taken at the front counter, the drive-thru speaker, or a mobile app, the data instantly routes to specific monitors suspended above the prep areas.
 
-The KVS dictates the pace. It splits orders logically. If a customer orders two Big Macs, a large fry, and a Diet Coke, the system does not just send one ticket to one person. It routes the burgers to the grill/make-line monitor, the fries to the fry station monitor, and the drink to the Automated Beverage System (ABS) screen. 
+The KVS dictates the pace. It splits orders logically. If a customer orders two Big Macs, a large fry, and a Diet Coke, the system does not just send one ticket to one person. It routes the burgers to the grill/make-line monitor, the fries to the [fry station](/articles/mcdonalds-fry-station/) monitor, and the drink to the Automated Beverage System (ABS) screen. 
 
 <div class="callout callout-tip">
 <strong>Insider Tip:</strong> The KVS tracks "Side 1" and "Side 2" metrics. High-volume stores operate dual assembly lines. Managers watch the KVS timing metrics like hawks because corporate mandates target specific Target Service Times (TST), usually around 90 to 120 seconds from order completion to hand-off. If the KVS timers turn red, the shift manager knows the kitchen is drowning.

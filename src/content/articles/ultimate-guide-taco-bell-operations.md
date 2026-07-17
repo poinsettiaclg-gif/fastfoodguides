@@ -21,7 +21,7 @@ faq:
     answer: "During a rush, the Linebacker is a dedicated crew member who stands behind the make-line. Their sole job is to restock the hot and cold ingredients so the assemblers never have to turn around or stop making tacos."
 ---
 
-When it comes to raw operational speed, Taco Bell is the undisputed king of the Quick Service Restaurant (QSR) industry. While McDonald's relies on heavy robotics (like the platen grills) to maintain pace, Taco Bell relies on a completely different strategy: extreme ingredient simplification and a ruthless assembly line.
+When it comes to raw operational speed, Taco Bell is the undisputed king of the Quick Service Restaurant (QSR) industry. While [McDonald's](/articles/chain/mcdonalds) relies on heavy robotics (like the platen grills) to maintain pace, Taco Bell relies on a completely different strategy: extreme ingredient simplification and a ruthless assembly line.
 
 If you look at the [Taco Bell menu](/articles/taco-bell-menu), you will see hundreds of different items. But if you look behind the counter, you realize that every single one of those items is constructed from the exact same 15 base ingredients. It is an operational masterclass in permutations. 
 
@@ -47,9 +47,9 @@ The hot ingredients (beef, chicken, beans, nacho cheese) sit in the heated cente
 
 The assembly process is heavily standardized using specific portion-control tools. The beef scoop, for example, is calibrated to hold exactly 1.5 ounces of meat. You do not shake it; you drag it against the side of the pan to level it off, dump it into the taco shell, and slide it down the line. 
 
-### The Linebacker Role
+### The [Linebacker Role](/articles/taco-bell-linebacker-role/)
 
-During a Friday night dinner rush, the assemblers on the make-line are moving so fast that they will drain a pan of beef in three minutes. If the assembler has to stop making tacos, turn around, walk to the re-thermalizer, cut open a new bag of beef, and refill the pan, the drive-thru timer turns red.
+During a Friday night dinner rush, the assemblers on the make-line are moving so fast that they will drain a pan of beef in three minutes. If the assembler has to stop making tacos, turn around, walk to the re-thermalizer, cut open a new bag of beef, and refill the pan, the drive-[thru timer](/articles/taco-bell-drive-thru-timer/) turns red.
 
 To solve this, Taco Bell invented one of the most famous roles in the QSR industry: The Linebacker. 
 
@@ -78,7 +78,7 @@ There are usually three loops:
 
 Corporate mandates strict limits on these timers. The standard target is under 50 seconds at the window. If you want to know how store managers game these sensors (and how corporate catches them), check out our exposé on the [Taco Bell drive-thru timer](/articles/taco-bell-drive-thru-timer).
 
-## The PepsiCo Partnership and Baja Blast
+## The PepsiCo Partnership and [Baja Blast](/articles/taco-bell-baja-blast/)
 
 You cannot talk about Taco Bell without talking about their beverage strategy. Decades ago, Taco Bell was owned by PepsiCo (before they spun off into Yum! Brands). That foundational relationship allowed them to secure one of the most valuable exclusive products in fast food history: Mountain Dew Baja Blast.
 

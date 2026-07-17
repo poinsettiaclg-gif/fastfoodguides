@@ -25,7 +25,7 @@ Five Guys has exactly one rule about their beef that drives every other operatio
 
 
 
-This is the same principle as [Wendy's](/articles/chain/wendys) "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. 
+This is the same principle as [Wendy's](/articles/chain/wendys) "fresh, never frozen" claim, but Five Guys takes it a step further. While [Wendy's](/articles/chain/wendys) receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. 
 
 The standard weight for a "little" hamburger patty (the single) is approximately **3.3 ounces** of raw beef. A regular hamburger gets two patties. This means a standard Five Guys burger has roughly 6.6 ounces of raw beef before cooking — significantly more than most fast food competitors. 
 
@@ -119,7 +119,7 @@ The combination of fresh (never frozen) beef, hand-smashed patties, unlimited fr
 
 1. **Higher labor cost** — Hand-forming patties and custom-topping every burger requires more skilled labor than pulling pre-formed patties from a freezer
 2. **Higher food cost** — Fresh beef has a shorter shelf life (more waste), and unlimited toppings mean unpredictable per-burger costs
-3. **Slower throughput** — A Five Guys kitchen can't match the volume of a McDonald's or [Burger King](/articles/chain/burger-king) because every burger is essentially made to order
+3. **Slower throughput** — A Five Guys kitchen can't match the volume of a [McDonald's](/articles/chain/mcdonalds) or [Burger King](/articles/chain/burger-king) because every burger is essentially made to order
 4. **Higher prices** — All of the above costs are passed to the customer, which is why Five Guys sits in the "better burger" price tier
 
 But the result is a burger that tastes noticeably different from a standard fast food burger. The hand-smashed crust, the fresh beef, the toasted-in-beef-fat bun, and the generous toppings create a product that justifies the premium — at least for the customers who keep coming back.

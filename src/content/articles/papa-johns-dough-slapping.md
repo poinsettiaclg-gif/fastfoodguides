@@ -97,6 +97,6 @@ Torn dough goes straight into the waste bin. You cannot re-ball it or patch the 
 
 ### Is the Dough Slap being replaced by machines everywhere?
 
-Not yet. Some franchise locations have adopted the Dough Spinner machine, but many still use the traditional hand-slap. Corporate has not issued a chain-wide mandate for the machine. The hand-slap remains the preferred method at many locations, particularly those where the franchise owner values the artisan quality difference. If you're interviewing at Papa John's, it's worth asking which method your location uses.
+Not yet. Some franchise locations have adopted the [Dough Spinner](/articles/papa-johns-dough-spinner/) machine, but many still use the traditional hand-slap. Corporate has not issued a chain-wide mandate for the machine. The hand-slap remains the preferred method at many locations, particularly those where the franchise owner values the artisan quality difference. If you're interviewing at Papa John's, it's worth asking which method your location uses.
 
 ---

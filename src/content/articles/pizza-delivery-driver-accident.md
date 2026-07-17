@@ -58,7 +58,7 @@ When the worst happens, adrenaline takes over and your brain stops working logic
 
 2. **Call your store immediately.** Your GM needs to know you're okay, but they also need to void the customer's order and [dispatch a fresh pizza with another driver](/articles/pizza-hut-dispatch). The customer is still waiting.
 
-3. **Remove your uniform before exchanging information.** This is the unwritten rule among veteran drivers, and every experienced manager I've worked with quietly encourages it. Take off your company hat, your branded shirt, anything with a corporate logo. If the other driver sees "Domino's" or "Pizza Hut," their first thought is deep pockets and a lawsuit. You're just a regular driver who happened to be in an accident.
+3. **Remove your uniform before exchanging information.** This is the unwritten rule among veteran drivers, and every experienced manager I've worked with quietly encourages it. Take off your company hat, your branded shirt, anything with a corporate logo. If the other driver sees "[Domino's](/articles/chain/dominos)" or "[Pizza Hut](/articles/chain/pizza-hut)," their first thought is deep pockets and a lawsuit. You're just a regular driver who happened to be in an accident.
 
 4. **Document everything obsessively.** Photos of both vehicles, road conditions, damage, license plates, the intersection. Get the other driver's name, phone, insurance info. Write down the exact time and location. This documentation will be critical for both your personal insurance claim and the franchise's incident report.
 

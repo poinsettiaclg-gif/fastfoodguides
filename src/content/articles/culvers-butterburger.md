@@ -58,7 +58,7 @@ That third point is the practical reason this matters for a burger. A toasted, b
 
 ## The Patty: Fresh Beef, Pressed on the Flat-Top
 
-The bun gets the name recognition, but the ButterBurger patty is doing serious work on its own. Culver’s uses fresh, never frozen beef for their burgers. The patties are pressed and cooked on a flat-top griddle—not broiled, not grilled, not microwaved—in a process that has more in common with [Shake Shack](/articles/chain/shake-shack)’s approach than with most national fast-food chains. For a deep dive on the smash technique at Shake Shack and how flat-top cooking creates that signature crust, check out [the Shake Shack smash burger breakdown](/articles/shake-shack-smash-burger).
+The bun gets the name recognition, but the ButterBurger patty is doing serious work on its own. Culver’s uses fresh, never frozen beef for their burgers. The patties are pressed and cooked on a flat-top griddle—not broiled, not grilled, not microwaved—in a process that has more in common with [Shake Shack](/articles/chain/shake-shack)’s approach than with most national fast-food chains. For a deep dive on the smash technique at [Shake Shack](/articles/chain/shake-shack) and how flat-top cooking creates that signature crust, check out [the Shake Shack smash burger breakdown](/articles/shake-shack-smash-burger).
 
 The beef arrives at each Culver’s location in fresh, refrigerated form. Crew members portion the beef and press patties in-house. The patties are cooked to order—when you order a ButterBurger, that patty starts cooking when your order comes in, not before. This is a critical difference from the pre-cooked, heat-lamp burger model that most major fast-food chains use.
 
@@ -92,7 +92,7 @@ This combination—a better-than-average burger, genuine frozen custard, and che
 
 Let me line up the key differences, because seeing them all together makes the gap more obvious:
 
-**Beef sourcing:** Culver’s uses fresh, never frozen beef. McDonald’s uses frozen patties for their standard burgers (their Quarter Pounder line switched to fresh beef in 2018, but most menu items are still frozen). Burger King uses frozen patties. Wendy’s is the other notable chain that uses fresh beef across their lineup.
+**Beef sourcing:** Culver’s uses fresh, never frozen beef. McDonald’s uses frozen patties for their standard burgers (their Quarter Pounder line switched to fresh beef in 2018, but most menu items are still frozen). [Burger King](/articles/chain/burger-king) uses frozen patties. Wendy’s is the other notable chain that uses fresh beef across their lineup.
 
 **Cook method:** Culver’s cooks on a flat-top griddle, to order. McDonald’s cooks on a clamshell grill that presses patties from both sides simultaneously. Burger King uses a chain-driven broiler that runs patties through open flames. For a look at how Wendy’s grill operates, [the Wendy’s clamshell grill breakdown](/articles/wendys-clamshell-grill) has the details.
 

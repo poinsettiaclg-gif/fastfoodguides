@@ -109,13 +109,13 @@ During a busy lunch or dinner rush, holding time is rarely an issue because nugg
 
 ## Why McNuggets Taste Different From Hand-Breaded Chicken
 
-People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like [Chick-fil-A](/articles/chain/chick-fil-a), Popeyes, or Raising Cane’s. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
+People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like [Chick-fil-A](/articles/chain/chick-fil-a), [Popeyes](/articles/chain/popeyes), or Raising Cane’s. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
 
 Hand-breaded chicken starts with whole pieces of chicken — breast filets, tenderloins, or bone-in pieces — that are dredged in seasoned flour, sometimes double-dipped in a buttermilk wash, and fried from raw in-store. The result is a thick, crunchy breading with a juicy, whole-muscle interior. The texture is chunkier, the bite is more substantial, and the flavor is more complex because the breading itself carries significant seasoning.
 
 McNuggets are a ground-and-formed product with a thin tempura coating. The texture is softer, more uniform, and the batter is lighter. They are designed for dippability, consistency, and kid-friendliness — not for the crunchy, heavily seasoned experience of a hand-breaded chicken sandwich.
 
-Neither approach is objectively better. They are different products solving different problems. McNuggets prioritize speed, consistency, and universal appeal. Hand-breaded chicken prioritizes bold flavor and satisfying texture. Understanding the distinction helps explain why a McNugget will never taste like a Chick-fil-A nugget and why it is not trying to.
+Neither approach is objectively better. They are different products solving different problems. McNuggets prioritize speed, consistency, and universal appeal. Hand-breaded chicken prioritizes bold flavor and satisfying texture. Understanding the distinction helps explain why a McNugget will never taste like a [Chick-fil-A](/articles/chain/chick-fil-a) nugget and why it is not trying to.
 
 ## Frequently Asked Questions
 

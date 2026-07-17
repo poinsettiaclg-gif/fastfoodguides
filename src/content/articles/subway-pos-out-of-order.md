@@ -25,7 +25,7 @@ At most fast food chains, the cashier takes the order first and then the kitchen
 
 ## The 3-Step Core Ring: The Foundation of Everything
 
-The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: 
+[The Subway](/articles/subway-bain-fill-line-rule) POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: 
 
 
 

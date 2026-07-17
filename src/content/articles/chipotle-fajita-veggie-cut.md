@@ -60,7 +60,7 @@ The onions are their own beast entirely. Because onion layers naturally curve an
 
 Here's a pro tip that saved me hundreds of hours: when you cut a bell pepper in half and lay it flat, the natural ridges on the inside of the pepper create visual lanes that are roughly 1/4-inch apart. Let those ridges guide your knife, and you will achieve more consistent slices with less mental effort.
 
-## The Grill Validation Knife Test
+## The [Grill Validation](/articles/chipotle-grill-validation/) Knife Test
 
 When an employee attempts to become a Certified Grill Cook, they undergo a "Validation" test where an Area Manager or General Manager watches them prep under real-world conditions. The evaluator will literally pull out a ruler or a visual guide and measure the employee's sliced bell peppers. If the cuts are sloppy, inconsistent, or too thick, the employee fails the certification. Mastering the 1/4-inch fajita veggie slice is a fundamental rite of passage.
 

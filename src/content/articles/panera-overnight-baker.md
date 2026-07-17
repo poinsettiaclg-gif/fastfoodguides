@@ -19,7 +19,7 @@ faq:
 
 
 
-At 2:00 AM, while every other restaurant in the strip mall is dark and locked, the Panera Bread cafe *used* to smell like fresh yeast, cinnamon, and baking sourdough. For years, the parking lot was empty except for one car belonging to a single person pulling golden loaves from a rotating rack oven in complete solitude. 
+At 2:00 AM, while every other restaurant in the strip mall is dark and locked, [the Panera Bread](/articles/panera-bread-consolidator-role) cafe *used* to smell like fresh yeast, cinnamon, and baking sourdough. For years, the parking lot was empty except for one car belonging to a single person pulling golden loaves from a rotating rack oven in complete solitude. 
 
 The Panera Overnight Baker was one of the most unique jobs in the entire fast-casual industry. But in early 2024, Panera completely phased out the overnight baker shift, moving baking to the daytime to cut costs and align with their new frozen-to-thaw dough processes. This article is a retrospective on what that grueling, solitary nocturnal life was actually like for the veterans who lived it, and how the modern Panera kitchen now operates (hint: it involves a lot of thermalizer water-baths). 
 

@@ -49,7 +49,7 @@ The sequence is structural engineering disguised as sandwich making. If you reve
 
 The tomatoes need to be on top because their flat, wet surface catches and holds the juice momentarily, giving it time to drip down gradually through the lettuce. The onions need to be on the bottom because their firm texture creates a barrier between the meat and the wet layers above. Every ingredient is in its position for a functional reason, and once you understand the physics of it, you'll never question the sequence again.
 
-## The Meat Slicer: Speed, Danger, and Respect
+## The [Meat Slicer](/articles/arbys-meat-slicer/): Speed, Danger, and Respect
 
 ![Technical diagram of a commercial deli meat slicer featuring the spinning blade and heavy metal safety guard](../../assets/images/jersey-mikes-mikes-way/jersey-mikes-deli-meat-slicer-diagram.webp)
 

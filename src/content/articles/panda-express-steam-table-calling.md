@@ -32,7 +32,7 @@ Why doesn't Panda Express just use digital screens? The answer lies in their ser
 
 A digital screen only tells the kitchen what the customer just bought; it doesn't tell the kitchen how much food is actually left in the pan on the line. If a customer orders a massive catering plate of Orange Chicken, the pan might instantly empty. If three customers in a row order Kung Pao Chicken, that pan might need a refill immediately, even if the daily sales projections didn't anticipate it.
 
-The only way to know when to cook more food is to have a human being physically look at the steam table, judge the remaining volume, and verbally command the wok chef to start cooking.
+The only way to know when to cook more food is to have a human being physically look at the steam table, judge the remaining volume, and verbally command the [wok chef](/articles/panda-express-wok-chef/) to start cooking.
 
 ## The Role of the Caller
 
