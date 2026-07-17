@@ -35,9 +35,9 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 The kitchen manager or lead prep cook has to immediately evaluate the state of the produce that was delivered either late the previous night or in the pre-dawn hours. We're talking massive, heavy waxed boxes of kale, giant bags of shredded cabbage, earthy crates of sweet potatoes, and delicate flats of cherry tomatoes. 
 

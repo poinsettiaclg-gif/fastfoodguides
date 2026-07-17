@@ -30,9 +30,9 @@ Let me walk through the entire process, because the ButterBurger is more than ju
 
 When a ButterBurger order comes in, here’s the sequence at the grill station:
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 1.  The cook takes a standard hamburger bun and separates the crown (the top) from the heel (the bottom).
 2.  A thin layer of butter—real butter, not margarine, not “butter-flavored spread”—is applied to the inside surface of the crown. The amount is restrained. We’re talking a light coating, not a thick slab. Maybe a teaspoon’s worth, spread thin.

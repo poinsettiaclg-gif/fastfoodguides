@@ -25,9 +25,9 @@ Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* 
 
 This is the core issue that everything else flows from.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 Popeyes uses commercial pressure fryers — the same type of equipment [KFC](/articles/chain/kfc) uses. The chicken pieces go into large fryer baskets, the lid locks down creating a sealed high-pressure environment, and the chicken cooks in hot oil under pressure for approximately 25-27 minutes depending on the piece size. 
 

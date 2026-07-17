@@ -25,9 +25,9 @@ Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef wen
 
 Yes, it is real beef. No, it does not arrive as a liquid.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 Every Arby's location receives its roast beef raw, vacuum-sealed in heavy plastic bags, submerged in a salty beef broth marinade. Each bag contains roughly 10 pounds of solid beef. The prep team pulls these bags from the walk-in cooler every morning and loads the raw roasts into a slow-cooking oven where they roast for approximately 3 to 4 hours. Once the internal temperature hits the corporate safety standard—typically around 145°F for whole cuts—the roasts are transferred into a specialized holding oven where they rest and stay hot throughout the day. 
 

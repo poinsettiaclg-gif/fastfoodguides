@@ -23,9 +23,9 @@ Here's the conversation I had with almost every single delivery driver applicant
 
 ![Technical schematic of a Domino's dispatch computer mileage tracking workflow](../../assets/images/dominos-gas/dominos-gas-dispatch-computer-schematic.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. 
 

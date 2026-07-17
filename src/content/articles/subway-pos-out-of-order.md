@@ -27,9 +27,9 @@ At most fast food chains, the cashier takes the order first and then the kitchen
 
 The Subway POS interface is designed to mirror the physical sandwich line, which means it forces you to enter information in a specific order. Every single sub you ring up requires three mandatory modifiers hit in this exact sequence: 
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 1. **Size:** 6-Inch, Footlong, or Footlong Pro (Double Meat).
 2. **Bread:** Italian, Hearty Multigrain, Italian Herbs & Cheese, Flatbread, or whatever options your location carries.

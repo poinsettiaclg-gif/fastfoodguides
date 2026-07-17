@@ -27,9 +27,9 @@ That's why they don't have generic "grill cooks" or "prep cooks." They have the 
 
 ![Blueprint diagram showing a 24-hour marination timeline for chicken tenders](../../assets/images/raising-canes-bird-specialist/raising-canes-24-hour-marinade-schematic.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+
 
 Before a single chicken tender touches flour, it has spent exactly 24 hours marinating in the walk-in cooler. Not 12 hours like some competitors. Twenty-four. The tenders arrive at the store fresh — never frozen — and go straight into marinade tubs that were prepped the night before. 
 

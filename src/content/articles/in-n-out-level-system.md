@@ -27,9 +27,9 @@ It's called the Level System, and every single Associate starts at the bottom. T
 
 Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. 
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. In-N-Out management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
 

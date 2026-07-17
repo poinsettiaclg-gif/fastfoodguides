@@ -27,9 +27,9 @@ The answer is weirder than you'd expect, and if you're a new Jack in the Box emp
 
 Here's the biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut. 
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from [Taco Bell](/articles/chain/taco-bell), reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
 

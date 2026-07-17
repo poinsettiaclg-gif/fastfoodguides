@@ -25,9 +25,9 @@ Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/a
 
 You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a dangerous steam explosion that sends scalding water vapor directly into your face. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The moment the manager confirms no more broiler orders are coming in, shut the gas off. Every minute you shave off the cooldown phase is a minute closer to clocking out. The machine needs at least 20 to 30 minutes to cool to a point where you can safely touch the internal components. 
 

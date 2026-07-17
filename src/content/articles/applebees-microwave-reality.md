@@ -22,9 +22,9 @@ faq:
 
 If you've spent any time on the internet reading about chain restaurants, you've heard the jokes. "Chef Mike" — the microwave — is Applebee's real head chef. Reddit threads, TikTok exposés, disgruntled former employees all say the same thing: everything at Applebee's gets nuked.
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 I managed kitchens across three Applebee's locations for over five years. And I'll tell you straight: the "Chef Mike" reputation is exaggerated, but it isn't baseless. Microwaves — or more precisely, TurboChef ovens — are a critical part of the operation. But if you think your 12 oz. ribeye is getting zapped in a countertop Panasonic, you're dead wrong.
 

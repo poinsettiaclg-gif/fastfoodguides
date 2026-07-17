@@ -27,9 +27,9 @@ Unlike the sturdy sub rolls that can absorb abuse and still hold together, the t
 
 ![Technical schematic of a Subway silicone meat toasting boat](../../assets/images/subway-wrap-folding/subway-silicone-toasting-boat.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that new hires skip most often when the line is backed up. 
 

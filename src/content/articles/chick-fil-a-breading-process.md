@@ -21,9 +21,9 @@ faq:
 
 This is the first thing that surprises most people about Chick-fil-A. Unlike the majority of fast food chains that receive their chicken pre-breaded, pre-cooked, or flash-frozen from a factory, **Chick-fil-A receives raw, unfrozen chicken breast filets** at every single location. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Every piece of chicken you eat there was hand-breaded in that specific restaurant, by an actual human being, earlier that day or within the last few hours. This is not marketing language. This is the operational reality, and it has massive implications for how their kitchen functions. 
 

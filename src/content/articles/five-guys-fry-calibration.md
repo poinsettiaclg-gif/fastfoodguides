@@ -25,9 +25,9 @@ Five Guys is famous for two things: burgers that weigh more than your phone and 
 
 Five Guys does not use frozen fries. Not a single frozen potato product exists anywhere in their building. Every morning, the prep team hauls 50-pound bags of raw Idaho or Kennebec potatoes out of the walk-in cooler, washes them, and runs them through heavy-duty wall-mounted manual slicers that cut each potato into uniform sticks in one pull of the lever. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 But here's the thing nobody tells you about the prep—cutting the potatoes is the easy part. The critical step is what happens immediately after: the starch wash. 
 

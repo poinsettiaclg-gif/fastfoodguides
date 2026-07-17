@@ -24,9 +24,9 @@ During a busy morning at Starbucks, you might notice one barista who isn't makin
 
 The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go. 
 

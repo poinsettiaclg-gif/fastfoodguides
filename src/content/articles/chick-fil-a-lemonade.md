@@ -21,9 +21,9 @@ faq:
 
 This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market. 
 

@@ -27,9 +27,9 @@ This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" 
 
 ![Technical diagram of a Taco Bell drive-thru induction loop sensor](../../assets/images/taco-bell-drive-thru-timer/taco-bell-drive-thru-induction-loop.webp)
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone. 
 

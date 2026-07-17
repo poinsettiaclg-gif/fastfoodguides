@@ -108,7 +108,8 @@ const ogImageUrl = image ? new URL(image, Astro.url) : new URL('/og-default.png'
 			{
 				"@type": "ListItem",
 				"position": 4,
-				"name": title
+				"name": title,
+				"item": new URL(articlePath, Astro.site).href
 			}
 		]
 	})} />
@@ -163,4 +164,6 @@ const ogImageUrl = image ? new URL(image, Astro.url) : new URL('/og-default.png'
 </script>
 
 <!-- Google AdSense -->
+{!noindex && (
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
+)}

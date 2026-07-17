@@ -27,9 +27,9 @@ It's called the Boil-Out. And by the time you're done, you'll understand why.
 
 The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. 
 

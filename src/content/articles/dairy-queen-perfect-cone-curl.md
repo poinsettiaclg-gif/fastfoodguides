@@ -27,9 +27,9 @@ I've watched new Chill Staff employees stare at the soft serve machine with genu
 
 You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: 
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 - A **Small** cone gets 2 balls and a curl
 - A **Medium** cone gets 3 balls and a curl

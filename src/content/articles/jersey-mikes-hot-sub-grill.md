@@ -27,9 +27,9 @@ The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef
 
 ![Flat technical layout of a Jersey Mike's flat-top grill showing strictly separated raw beef and raw chicken cooking zones](../../assets/images/jersey-mikes-hot-sub-grill/jersey-mikes-grill-station-meat-zones.webp)
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+
 
 The first thing that hits you about the grill station is the cross-contamination protocol. Because you're handling raw beef and raw chicken in close proximity to a deli counter that serves ready-to-eat cold subs, the safety requirements are intense—and non-negotiable. 
 

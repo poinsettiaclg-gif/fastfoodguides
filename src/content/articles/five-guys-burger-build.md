@@ -21,9 +21,9 @@ faq:
 
 Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. 
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 This is the same principle as [Wendy's](/articles/chain/wendys) "fresh, never frozen" claim, but Five Guys takes it a step further. While Wendy's receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. 
 

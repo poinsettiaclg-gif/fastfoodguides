@@ -27,9 +27,9 @@ The old days of writing addresses on a whiteboard and fighting with other driver
 
 ![Technical wireframe diagram of a Pizza Hut dispatch terminal touchscreen interface](../../assets/images/pizza-hut-dispatch/pizza-hut-dispatch-terminal-schematic.webp)
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 The dispatch screen is a massive touchscreen mounted right next to the heat racks where boxed pizzas sit waiting for drivers. When an order comes out of the oven, the cut-table worker boxes it, slaps the receipt on top, and scans it. The order instantly pops up on the dispatch screen as "Ready," showing the address, the order contents, and a timer that starts counting upward the moment the pizza hit the rack. 
 

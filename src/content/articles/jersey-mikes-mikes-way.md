@@ -27,9 +27,9 @@ If you're assigned to the sprinkler station (the position adding vegetables and 
 
 ![Cross-section schematic of a Mike's Way sub showing the structural layers of onions, lettuce, tomatoes, juice, and spices](../../assets/images/jersey-mikes-mikes-way/jersey-mikes-mikes-way-ingredient-layers.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters: 
 

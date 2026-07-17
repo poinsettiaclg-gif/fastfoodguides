@@ -22,9 +22,9 @@ faq:
 
 Let's be honest — Chili's built an entire brand identity around that jingle. For a lot of people, it's the first thing that pops into their head when someone says "Chili's." And it did its job almost too well: it set an expectation that there's some mythical pit out back where a guy in a stained apron is slow-smoking racks of baby backs over smoldering hardwood for the better part of a day.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 I managed multiple Chili's kitchens over a stretch of years, and Speaking from the trenches, right now: that is not what's happening. There is no smoker in the back. There's no woodpile next to the dumpster. But before you get cynical about it, hear me out — because the actual process is more interesting than you think, and the ribs are still genuinely good for a chain restaurant.
 

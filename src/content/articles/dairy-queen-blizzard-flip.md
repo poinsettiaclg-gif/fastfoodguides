@@ -27,9 +27,9 @@ I've watched hundreds of new DQ employees stare at a full Blizzard cup like it's
 
 ![Technical diagram illustrating the vacuum seal and density forces holding soft serve inside an inverted cup](../../assets/images/dairy-queen-blizzard-flip/dairy-queen-blizzard-flip-vacuum-schematic.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 Dairy Queen soft serve is fundamentally different from the hard-pack ice cream you buy at a grocery store, and that difference is the entire reason the flip works. 
 

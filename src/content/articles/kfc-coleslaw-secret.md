@@ -25,9 +25,9 @@ Here's something that catches every new KFC hire off guard: the coleslaw you ser
 
 ![Technical schematic of a commercial vertical cutter mixer with forearm-sized blades](../../assets/images/kfc-coleslaw-secret/kfc-coleslaw-vertical-cutter-mixer-schematic.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 If you've ever made coleslaw at home, you probably ran a head of cabbage across a mandoline or sliced it into long, thin strips. KFC does the exact opposite. The raw cabbage, carrots, and onions get dumped into a commercial vertical cutter mixer—basically an industrial food processor with blades the size of your forearm—and chopped into tiny, confetti-like pieces in a matter of seconds. 
 

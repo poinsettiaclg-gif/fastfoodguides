@@ -21,9 +21,9 @@ faq:
 
 Subway's tuna salad is made from exactly **two ingredients** mixed together in the restaurant:
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 1. **Canned skipjack tuna** (packed in water)
 2. **Mayonnaise**

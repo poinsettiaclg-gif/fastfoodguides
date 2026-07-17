@@ -25,9 +25,9 @@ I managed a store near a Dunkin' for two years and ate lunch with their shift le
 
 When a customer says they want their iced coffee to taste like a milkshake, they want a Swirl. Here's what's actually in the bottle and why it matters behind the counter: 
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 - **The base:** Swirls are made with sweetened condensed milk (with the exception of Mocha, which is cocoa-based). They're thick, opaque, and loaded with sugar. When you pick up a Swirl bottle, it has real weight to it—it pours like a viscous syrup, not like water. 
 - **The taste:** A Caramel Swirl Iced Coffee is inherently sweet. You do not need to add liquid cane sugar on top of a Swirl unless the customer specifically asks for extra sweetness. Working the line, I observed new baristas add both a Swirl and the standard sugar, and the customer sends it back because it tastes like melted candy.

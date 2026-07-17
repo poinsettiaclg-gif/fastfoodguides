@@ -24,9 +24,9 @@ The Starbucks morning rush—internally called "Peak"—is one of the most inten
 
 ![Blueprint-style layout diagram of a commercial hot bar espresso station](../../assets/images/starbucks-morning-rush/starbucks-hot-bar-station-layout.webp)
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Starbucks drills a highly specific routine into every barista during training called the Beverage Routine. When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next. 
 

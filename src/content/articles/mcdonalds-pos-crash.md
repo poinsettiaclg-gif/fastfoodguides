@@ -25,9 +25,9 @@ Here's the thing nobody tells you during orientation: a severe thunderstorm, a b
 
 ![Technical schematic of a McDonald's manual POS crash kit on a dark blue background](../../assets/images/mcdonalds-pos-crash/mcdonalds-pos-crash-kit-schematic.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 Every McDonald's has an emergency box tucked away in the manager's office — usually on a high shelf behind stacks of promo materials nobody ever uses. Inside this box is everything you need to run a 21st-century fast-food restaurant with nothing but paper and a calculator. 
 

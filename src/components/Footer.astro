@@ -81,8 +81,14 @@ const year = new Date().getFullYear();
 		const lastFocusableElement = focusableContent[focusableContent.length - 1];
 
 		document.addEventListener('keydown', function(e) {
+			if (dnsModal.style.display === 'none') return;
+			if (e.key === 'Escape') {
+				dnsModal.style.display = 'none';
+				dnsLink.focus();
+				return;
+			}
 			let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
-			if (!isTabPressed || dnsModal.style.display === 'none') return;
+			if (!isTabPressed) return;
 			if (e.shiftKey) { 
 				if (document.activeElement === firstFocusableElement) {
 					lastFocusableElement.focus();
@@ -93,10 +99,6 @@ const year = new Date().getFullYear();
 					firstFocusableElement.focus();
 					e.preventDefault();
 				}
-			}
-			if (e.key === 'Escape') {
-				dnsModal.style.display = 'none';
-				dnsLink.focus();
 			}
 		});
 	})();
@@ -155,7 +157,7 @@ const year = new Date().getFullYear();
 		transition: color 0.2s ease;
 		background: none;
 		border: none;
-		padding: 0;
+		padding: 0.5rem;
 		font-family: inherit;
 		cursor: pointer;
 	}

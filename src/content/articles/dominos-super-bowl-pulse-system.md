@@ -25,7 +25,7 @@ Super Bowl Sunday is the highest-volume pizza delivery day of the year in the Un
 
 You cannot survive that kind of volume with a good attitude and elbow grease. You survive it through ruthless algorithmic efficiency. 
 
-> **Russell's Note:** The worst thing that can happen on Super Bowl Sunday isn't running out of pepperoni. It's the internet going down. If the system goes offline and you have to switch to analog tickets during the rush, the store is effectively dead. 
+
 
 At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. Throughout this breakdown, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
 
@@ -57,7 +57,7 @@ When a pizza is bumped from the makeline, several things happen in the Pulse eco
 2. The order is transferred to the **Oven Tender's screen** at the end of the oven.
 3. The system calculates the exact transit time of the conveyor belt (usually around 6 to 7 minutes) and begins anticipating when that pizza will emerge.
 
-> **Russell's Note:** A cardinal sin in a Domino's kitchen is "false bumping." When the screen turns red (meaning the order is taking too long), panicked managers will sometimes bump the order off the screen *before* it actually goes in the oven to artificially lower their load times for corporate metrics. This causes a massive chain reaction of chaos at the oven and dispatch stations. 
+
 
 ## The Oven Tender: The Most Stressful Job in the Building
 

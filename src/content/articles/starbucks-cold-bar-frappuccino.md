@@ -24,9 +24,9 @@ The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks 
 
 ![Blueprint-style schematic of a commercial blender pitcher and blade assembly](../../assets/images/starbucks-cold-bar-frappuccino/starbucks-vitamix-blender-pitcher-schematic.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 Frappuccinos involve more steps than any other drink on the Starbucks menu. You cannot muscle through them one at a time during a rush—you have to sequence them. Here's the exact build order: 
 

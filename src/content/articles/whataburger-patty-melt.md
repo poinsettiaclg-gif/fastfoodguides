@@ -26,9 +26,9 @@ I spent several years working in QSR kitchens across Texas, and From firsthand e
 
 ![Blueprint illustration of The Grill Setup and Patty Cook](../../assets/images/whataburger-patty-melt/whataburger-patty-melt-the-grill-setup-and-patty-cook.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Whataburger uses flat-top grills — large commercial griddles that run at around 375°F to 400°F during normal service. The patty melt uses the same fresh beef patties as the rest of the burger menu. These aren’t frozen pucks shipped from a central warehouse. Whataburger’s beef comes in fresh and gets portioned in-house. 
 

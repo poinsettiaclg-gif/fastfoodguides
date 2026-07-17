@@ -27,9 +27,9 @@ I've worked alongside Biscuit Makers and trained under their mentorship, and Tak
 
 The Biscuit Maker arrives at the store with the opening manager, usually around 4:00 AM. The parking lot is empty. The dining room is dark. The ovens are cold. Your first task is getting the massive convection ovens fired up—they need 15 to 20 minutes to reach the correct baking temperature, so timing your first batch to go in right when the oven is ready is part of the routine. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 While the ovens heat, you're setting up your station: a massive stainless steel table that gets dusted with a generous layer of flour, a heavy rolling pin, metal biscuit cutters, baking sheets prepped with a light coat of grease or parchment, and all of your measured ingredients within arm's reach.
 

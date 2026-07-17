@@ -27,9 +27,9 @@ It's called the 4-Corner Press. And if you skip it, you'll turn a beautiful squa
 
 ![Technical schematic of a square meat patty curling on a flat top grill](../../assets/images/wendys-4-corner-press/wendys-4-corner-press-curling.webp)
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 When you throw a frozen hamburger patty onto a grill, it basically acts like a hockey puck. The ice crystals that formed during freezing have broken down the cell walls, creating a rigid structure that holds its shape under heat. The patty sits there, takes the heat, and cooks predictably. 
 

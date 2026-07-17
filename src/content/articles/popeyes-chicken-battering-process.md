@@ -27,9 +27,9 @@ If you're hired as a Batter Fry Cook at Popeyes, you're signing up for one of th
 
 ![Blueprint diagram of a commercial walk-in cooler shelf holding a 12-hour marinade tub](../../assets/images/popeyes-chicken-battering-process/popeyes-chicken-marinade-tub-schematic.webp)
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 The secret to Popeyes' flavor doesn't start on the makeline. It starts 12 hours earlier, in the walk-in cooler, in massive tubs of Louisiana seasonings and spices. 
 

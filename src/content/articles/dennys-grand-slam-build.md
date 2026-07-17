@@ -27,9 +27,9 @@ From an operational standpoint, the process is:
 
 Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 The surface temperature sits between 350°F and 375°F depending on the zone. Most cooks run the left side slightly hotter for pancakes and the right side a touch cooler for eggs. You don't get separate temperature dials for each section on most units, so you learn where the hot spots and dead spots are through repetition. After a few weeks, you know that the back-left corner runs about 15 degrees hotter than the front-right.
 

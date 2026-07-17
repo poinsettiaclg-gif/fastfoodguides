@@ -28,9 +28,9 @@ I want to walk you through exactly what’s happening behind the scenes when tha
 
 Most Krispy Kreme locations with a Hot Light have the production line visible to customers through a large window. This is intentional—watching doughnuts being made is part of the brand experience, and the visible production line serves as a constant advertisement. But what you’re seeing through that glass is genuinely impressive from an engineering standpoint. Here’s the step-by-step process:
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 ### Step 1: The Dough Mix
 

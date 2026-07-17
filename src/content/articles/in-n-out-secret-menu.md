@@ -27,9 +27,9 @@ Here's the thing nobody tells you before your first register shift: customers al
 
 ![Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items](../../assets/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. 
 

@@ -25,9 +25,9 @@ Every single day, Taco Bell serves thousands of pounds of refried beans across i
 
 The beans show up at your store in massive, lightweight plastic bags that look like they're full of cat food. I'm not being dramatic. The first time I opened one of these bags, I genuinely thought someone had made a supply chain error. Inside, you'll find small, dry, brown pellets—sometimes more like flakes, depending on the supplier batch. They're hard, lightweight, and honestly kind of sad-looking. 
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 Here's the thing nobody tells you: those pellets have already been fully cooked, seasoned, mashed, and then industrially dehydrated at a corporate processing facility. They've already been beans once. Your job is to bring them back to life. 
 

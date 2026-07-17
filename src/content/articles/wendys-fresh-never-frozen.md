@@ -30,9 +30,9 @@ Let me break down exactly how it works, where it doesn’t apply, and why it mat
 
 ![Blueprint illustration of The Beef Arrives Refrigerated, Not Frozen](../../assets/images/wendys-fresh-never-frozen/wendys-fresh-never-frozen-the-beef-arrives-refrigerated-.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 A Wendy’s location receives beef deliveries multiple times per week — typically three to four times, depending on the volume of the store. The beef arrives in refrigerated trucks, packed in sealed cases, held at a temperature between 32°F and 40°F. That’s the standard refrigeration range. Cold enough to keep the beef safe and fresh, nowhere near the 0°F threshold required for frozen storage. 
 

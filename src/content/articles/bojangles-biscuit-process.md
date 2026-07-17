@@ -22,9 +22,9 @@ faq:
 
 Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else in terms of difficulty, pressure, and pure physical output: the Biscuit Maker.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+
 
 This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is responsible for producing every single biscuit from scratch — flour, shortening, buttermilk, hands, oven — on a rolling cycle that never stops from the moment they clock in until the breakfast window closes. There are no frozen pucks. No par-baked shortcuts. If the Biscuit Maker doesn't show up, the store essentially doesn't open.
 

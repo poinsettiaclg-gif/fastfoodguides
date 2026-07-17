@@ -21,9 +21,9 @@ faq:
 
 This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size. 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide. 
 

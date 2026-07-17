@@ -27,9 +27,9 @@ I've trained people across multiple chains, and No exaggeration — honestly —
 
 ![Technical illustration of a commercial wok burner showing heat distribution and flames](../../assets/images/panda-express-wok-chef/panda-express-wok-burner-heat-diagram.webp)
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Most fast-food restaurants use enclosed deep fryers with automatic basket lifts, or computerized flat-top grills that beep when they're done. Panda Express uses traditional Chinese wok burners that pump out massive BTU output, often reaching 600°F or higher inside the wok bowl. The flames don't stay politely beneath the pan — they literally shoot up around the sides, licking at your forearms if you're not careful. 
 

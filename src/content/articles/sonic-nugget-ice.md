@@ -21,9 +21,9 @@ faq:
 
 If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. 
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor. 
 

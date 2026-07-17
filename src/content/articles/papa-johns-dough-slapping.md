@@ -27,9 +27,9 @@ You will not be throwing dough in the air like a movie Italian chef. You will be
 
 ![Technical flat design of stacked dough proofing trays in a walk-in cooler environment](../../assets/images/papa-johns-dough-slapping/papa-johns-dough-proofing-trays.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes. 
 

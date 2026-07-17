@@ -25,9 +25,9 @@ If you've ever eaten Wendy's chili, you've probably heard the rumor: "They make 
 
 Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [What is the Wendy's Double-Sided \](/articles/wendys-clamshell-grill/))*
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 But throwing away perfectly good, cooked beef is a massive waste of money. A single busy Wendy's can accumulate several pounds of overcooked patties per shift. Multiply that by three shifts a day, seven days a week, and you're looking at a staggering amount of protein heading straight to the dumpster. 
 

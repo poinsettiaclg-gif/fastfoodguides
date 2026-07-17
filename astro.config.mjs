@@ -27,13 +27,6 @@ try {
 		} else if (pubMatch) {
 			articleDates.set(slugMatch, new Date(pubMatch[1]));
 		}
-
-		if (chainMatch) {
-			const chain = chainMatch[1];
-			// Basic slugify to match Astro's logic
-			const chainSlug = chain.toLowerCase().replace(/[']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-			chainCounts.set(chainSlug, (chainCounts.get(chainSlug) || 0) + 1);
-		}
 	}
 } catch (e) {
 	console.error('Failed to parse article dates for sitemap', e);
@@ -52,9 +45,8 @@ export default defineConfig({
 				if (['/contact/', '/disclaimer/', '/privacy/', '/terms/'].includes(urlPath)) return false;
 				// Exclude articles index
 				if (urlPath === '/articles/') return false;
-				// Exclude all chain and topic index pages
+				// Exclude topic index pages
 				if (urlPath.startsWith('/articles/topic/')) return false;
-				if (urlPath.startsWith('/articles/chain/')) return false;
 				return true;
 			},
 			serialize(item) {

@@ -28,9 +28,9 @@ I’ve worked in QSR kitchens for over a decade, and Firehouse’s approach to h
 
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It’s not a modified oven, not a repurposed bakery proofer — it’s specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Here’s the sequence: after the sandwich artist lays out the sliced meats and cheese on the open sub roll, the meat and cheese portion gets placed onto a small tray or directly onto the conveyor belt. The belt carries it through a steam chamber that runs at approximately 200°F. The ride takes roughly 30 to 45 seconds, depending on the location’s specific machine calibration and how heavily the sub is loaded.
 

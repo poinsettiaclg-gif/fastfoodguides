@@ -27,9 +27,9 @@ That's where the Consolidator comes in. Standing at the very end of the producti
 
 ![Schematic diagram of a Panera kitchen consolidation staging area for multi-station orders](../../assets/images/panera-bread-consolidator-role/panera-bread-kitchen-consolidation-layout.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 Here's the thing nobody tells you about Panera: the most popular menu item is also the biggest operational headache. The "You Pick Two" lets a customer pair a half-sandwich with a half-salad or a cup of soup. Customers love it. The kitchen hates it. 
 

@@ -25,9 +25,9 @@ If you've been through a McDonald's drive-thru recently, you might have noticed 
 
 The magic starts the instant a customer places their order at the speaker box. When the order taker taps "Medium Diet Coke" on the POS touchscreen, that signal is sent directly to the ABS machine in real time over the store's internal network. There's no delay, no printed ticket, no verbal relay. The POS and the ABS are on the same system, and the moment the drink is confirmed on the register, the ABS has already started working. 
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 The machine has a hopper—a vertical tube—loaded with stacked cups of each size. When it receives the order for a medium, it mechanically drops a medium paper cup onto its internal conveyor belt. In a high-volume store during a dinner rush, the ABS might be processing three to four drinks simultaneously, staggering them along the belt in the exact sequence they were entered at the register. That sequence matters because the drive-thru window presenter is grabbing cups and matching them to cars in order. If the ABS dispensed drinks out of sequence, the window would become a chaotic sorting station instead of a smooth handoff point. 
 

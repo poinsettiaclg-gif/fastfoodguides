@@ -28,9 +28,9 @@ I’ve watched this technique executed thousands of times across different burge
 
 ![Blueprint illustration of The Smash: What Actually Happens on the Flat-Top](../../assets/images/shake-shack-smash-burger/shake-shack-smash-burger-the-smash-what-actually-happen.webp)
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it’s designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle. 
 

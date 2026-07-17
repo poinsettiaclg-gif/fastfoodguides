@@ -27,9 +27,9 @@ If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fu
 
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 *   **The Skimmer:** Because the batter is wet and prone to flaking off during the initial cook, massive amounts of crispy batter fragments float to the surface. These are the famous "crumplies" (or "crispies"). If these are left in the oil, they burn and degrade the oil quality instantly. Fry cooks use a specialized wide skimmer to constantly sweep the surface of the oil between batches.
 *   **The Temperature:** The oil is held at 350°F for fish and chicken, which is slightly lower than a standard [McDonald's](/articles/chain/mcdonalds) fry vat (375°F) but higher than a typical chicken pressure fryer at [KFC](/articles/chain/kfc) (325°F). This ensures the thick batter cooks all the way through without burning the outside before the fish inside is flaky and opaque. The fryers themselves are typically Henny Penny open-vat units or Pitco floor models, calibrated with digital thermostats that hold within ±3°F of the setpoint.

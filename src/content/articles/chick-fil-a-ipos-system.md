@@ -25,9 +25,9 @@ If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen
 
 ![Clean vector illustration of the Chick-fil-A iPOS tablet interface and mobile card reader](../../assets/images/chick-fil-a-ipos-system/chick-fil-a-ipos-tablet-interface.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Every traditional fast food drive-thru has the same fundamental problem: the speaker box is a bottleneck. Car A has to finish their entire order before Car B can even pull up to the microphone. If Car A is a family of six debating between nuggets and strips, everyone behind them sits and waits. The speaker box creates a single-file chokepoint that limits even the fastest kitchens to about 50 to 60 cars per hour at best. 
 

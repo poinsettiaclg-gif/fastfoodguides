@@ -27,9 +27,9 @@ I've managed closing shifts where we threw away enough perfectly good food to fe
 
 ![Flat vector technical diagram of a digital food scale and measuring bins for waste logging](../../assets/images/panda-express-leftover-food/panda-express-food-waste-scale-diagram.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound. 
 

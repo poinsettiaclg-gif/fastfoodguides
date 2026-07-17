@@ -27,9 +27,9 @@ I've managed stores where drivers got robbed. I've had the conversations with th
 
 When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. 
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 The rule is absolute: you are never, under any circumstances, allowed to have more than $20 of the store's money in your possession while out on a delivery. The stickers plastered on every Domino's delivery bag, every store window, and often on the car topper itself all say the same thing: "Driver Carries Less Than $20."
 

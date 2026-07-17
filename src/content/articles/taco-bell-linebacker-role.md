@@ -27,9 +27,9 @@ If your shift lead assigns you to be the Linebacker, here is the reality: you do
 
 ![Flat vector diagram of the Taco Bell makeline ingredient pan layout](../../assets/images/taco-bell-linebacker-role/taco-bell-makeline-ingredient-layout.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles: 
 

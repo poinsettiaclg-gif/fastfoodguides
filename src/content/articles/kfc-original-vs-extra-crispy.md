@@ -25,9 +25,9 @@ I can't count the number of times a customer has asked me, "So Extra Crispy is j
 
 ![Blueprint-style diagram of a Collectramatic pressure fryer showing internal steam and pressure mechanics](../../assets/images/kfc-original-vs-extra-crispy/kfc-collectramatic-pressure-fryer-schematic.webp)
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Original Recipe is the flagship. The Colonel's legacy product. And it's cooked in a machine that most home cooks have never seen: a Collectramatic Pressure Fryer. 
 

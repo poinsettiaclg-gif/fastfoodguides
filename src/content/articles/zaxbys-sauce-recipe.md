@@ -28,9 +28,9 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 
 ![Blueprint illustration of What’s Actually in Zax Sauce](../../assets/images/zaxbys-sauce-recipe/zaxbys-sauce-recipe-what-s-actually-in-zax-sauce.webp)
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 Here’s the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that’s been around forever in the American South and parts of Utah. At its core, it’s a blend of: 
 

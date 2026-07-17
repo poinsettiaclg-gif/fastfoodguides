@@ -39,7 +39,7 @@ function slugifyChain(c: string): string {
 			"datePublished": pubDate.toISOString(),
 			...(updatedDate && { "dateModified": updatedDate.toISOString() }),
 			...(chain && { "articleSection": chain }),
-			"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/favicon.svg"],
+			"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
 			"inLanguage": "en",
 			"author": {
 				"@type": "Person",
@@ -61,20 +61,6 @@ function slugifyChain(c: string): string {
 				"@id": Astro.url.href
 			}
 		})} />
-		{faq && faq.length > 0 && (
-			<script type="application/ld+json" set:html={JSON.stringify({
-				"@context": "https://schema.org",
-				"@type": "FAQPage",
-				"mainEntity": faq.map(f => ({
-					"@type": "Question",
-					"name": f.question,
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": f.answer
-					}
-				}))
-			})} />
-		)}
 		<style>
 			body {
 				background: #0a0f1c;
@@ -106,6 +92,22 @@ function slugifyChain(c: string): string {
 				margin-bottom: 1.25rem;
 				font-size: 0.85rem;
 				color: #64748B;
+			}
+
+			.breadcrumb ol {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+			}
+
+			.breadcrumb li {
+				margin: 0;
+				padding: 0;
+				display: flex;
+				align-items: center;
 			}
 
 			.breadcrumb a {
@@ -424,13 +426,12 @@ function slugifyChain(c: string): string {
 					<!-- Breadcrumb Navigation -->
 					{chain && (
 						<nav class="breadcrumb" aria-label="Breadcrumb">
-							<a href="/">Home</a>
-							<span class="bc-sep" aria-hidden="true">›</span>
-							<a href="/articles/">Guides</a>
-							<span class="bc-sep" aria-hidden="true">›</span>
-							<a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a>
-							<span class="bc-sep" aria-hidden="true">›</span>
-							<span class="bc-current">{title}</span>
+							<ol>
+								<li><a href="/">Home</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><a href="/articles/">Guides</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><span class="bc-current" aria-current="page">{title}</span></li>
+							</ol>
 						</nav>
 					)}
 

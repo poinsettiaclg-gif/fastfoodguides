@@ -27,9 +27,9 @@ Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, c
 
 The biggest mistake new hires make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on the Taco Bell menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 - **The Supreme Base:** Whenever an item says "Supreme"—Taco Supreme, Chalupa Supreme—it almost always means you take the standard build and add sour cream and diced tomatoes. That is it. Two extra ingredients.
 - **The Burrito Base:** Most standard burritos start with a flour tortilla, a scoop of beans, a scoop of beef, or both. The differentiator is the sauce and one or two unique toppings.

@@ -21,9 +21,9 @@ faq:
 
 The Chalupa Supreme is one of Taco Bell's most popular premium items, and the shell is what makes it distinct from everything else on the menu. Unlike the hard corn taco shell (shipped pre-formed) or the soft flour tortilla (shipped flat and steamed), the Chalupa shell is **deep-fried in the restaurant from a pre-formed disc of raw flatbread dough**. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The dough arrives at the restaurant as **frozen, pre-portioned discs** — flat circles of yeast-leavened dough, roughly 6 inches in diameter and about a quarter-inch thick. They're stored in the walk-in freezer and pulled to thaw as needed throughout the day. 
 

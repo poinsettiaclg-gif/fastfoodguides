@@ -26,9 +26,9 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 ![Blueprint illustration of The Plain Fry — Everything Starts Bare](../../assets/images/wingstop-sauce-process/wingstop-sauce-process-the-plain-fry-everything-start.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 This is the part that surprises most customers when they learn about it. Wingstop wings are not marinated. They’re not brined overnight. They’re not pre-seasoned before frying. The raw wings are simply breaded with a seasoned flour dredge and dropped into the fryer plain. 
 

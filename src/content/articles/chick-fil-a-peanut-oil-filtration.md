@@ -23,7 +23,7 @@ If you ever want to start an argument among restaurant operators, ask them about
 
 Peanut oil is expensive. It is subject to massive crop market fluctuations. It requires highly specific logistics to transport and store in the sheer volumes that a $19-billion-a-year chain demands. But from an operational standpoint, it is the single most important ingredient in a Chick-fil-A sandwich other than the chicken itself. 
 
-> **Russell's Note:** I've run kitchens that used cheap soybean oil to save on food costs. By 2:00 PM on a Friday, the entire kitchen smells like burnt fish, the oil is completely black, and the chicken tastes like a tire. You cannot fake good oil.
+
 
 we are going to break down the exact operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes. We'll look at the engineering of the Henny Penny [pressure fryers](/articles/kfc-pressure-fryers/), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
 
@@ -55,7 +55,7 @@ As the moisture in the chicken turns to steam, it has nowhere to escape. The pre
 2. **Moisture Retention:** Because the steam cannot escape the vat, it cannot escape the chicken. This is the mechanical secret to why Chick-fil-A sandwiches are famously juicy on the inside while crispy on the outside. An open-vat fryer would dry out a breast fillet of that thickness before it finished cooking to the center.
 3. **Oil Penetration:** The pressure physically prevents the peanut oil from penetrating past the breading layer. You get the crispy crust without the greasy, oil-logged interior. 
 
-> **Russell's Note:** Dropping a pressure fryer requires extreme focus. If you lock that lid down without ensuring the O-ring gasket is clean and seated perfectly, you're going to have a 325-degree geyser of vaporized peanut oil shooting across your kitchen. More times than I can count, it happen. It clears the line instantly.
+
 
 ## The Magnasol Filtration Process
 
@@ -86,7 +86,7 @@ When a vat reaches the end of its lifecycle, the old, dark oil is pumped into a 
 3. The boiling action loosens the baked-on carbon, while the closer attacks it with a scrub brush attached to a long, heat-resistant handle. You are literally scrubbing a cauldron of boiling degreaser while wearing heavy rubber gauntlets, a heavy rubber apron, and a face shield.
 4. Once the vat is pristine, the water is drained, the vat is rinsed with a vinegar-water solution to neutralize the base chemicals, and then wiped completely, bone-dry. If even a single drop of water remains in the vat when the fresh 325-degree peanut oil is pumped back in, the water will instantly vaporize, expand 1,700 times in volume, and cause a violent oil explosion.
 
-> **Russell's Note:** Going red on chicken because a closer didn't do the boil-out properly the night before is the fastest way to ruin an opening manager's day. A dirty vat heats up slower, recovers temperature slower, and burns your fresh oil instantly. 
+
 
 ## The Allergy Question: Refined vs. Unrefined
 

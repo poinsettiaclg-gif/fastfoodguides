@@ -23,9 +23,9 @@ Burger King's entire brand identity is built around four words: "Flame-Grilled W
 
 ![Schematic diagram of the Burger King flame broiler continuous conveyor belt feed mechanism](../../assets/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. 
 

@@ -25,9 +25,9 @@ For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a 
 
 ![Technical schematic of a double-sided clamshell grill lowering onto meat patties](../../assets/images/wendys-clamshell-grill/wendys-clamshell-grill-closing.webp)
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Imagine a massive, industrial panini press that weighs several hundred pounds, runs at over 400°F on both surfaces, and is engineered specifically to cook fresh beef patties with zero flipping required. That's the clamshell grill. 
 

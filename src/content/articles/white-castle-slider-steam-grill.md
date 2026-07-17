@@ -30,9 +30,9 @@ I’ve spent a decade in QSR kitchens, and the White Castle method remains one o
 
 ![Blueprint illustration of The Grill and the Onion Bed](../../assets/images/white-castle-slider-steam-grill/white-castle-slider-steam-grill-the-grill-and-the-onion-bed.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you’d find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn’t searing their patties. They’re steaming them.
 

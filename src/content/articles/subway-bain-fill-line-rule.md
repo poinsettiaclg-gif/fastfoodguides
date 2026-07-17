@@ -25,9 +25,9 @@ When you walk into a Subway and look down at that colorful spread of meats, chee
 
 Unlike a standard refrigerator that surrounds food with cold walls and a sealed door, the Subway Bain is an open-air cooler. The pans sit exposed to the restaurant so customers can see (and point at) exactly what they want on their sandwich. So how does it keep food cold without a door? 
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 The Bain uses a forced-air refrigeration system that constantly blows a blanket of freezing cold air horizontally across the top of the metal ingredient pans. Carefully positioned vents along the back edge of the Bain push refrigerated air forward, across the surface of every pan, and a return vent at the front draws the air back in to be recooled. This creates a continuous loop of cold air flowing over the food. 
 

@@ -35,9 +35,9 @@ The secret? Human interaction masking a highly optimized, militaristic dispatch 
 
 The core of the Dutch Bros model is the "Linebuster"—the employee standing outside with an iPad, regardless of the weather. Rain, snow, 105°F summer heat in Arizona—doesn't matter. That person is out there.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 Why do this instead of a speaker box?
 1.  **Queue Compaction:** They can take an order 10 cars back, locking the customer in and preventing drive-offs.

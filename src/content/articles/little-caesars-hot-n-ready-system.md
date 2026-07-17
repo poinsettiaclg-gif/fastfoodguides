@@ -25,9 +25,9 @@ Walk into a Little Caesars, hand the cashier your money, and walk out with a hot
 
 ![Technical diagram showing air temperature and humidity control within a CVap holding cabinet](../../assets/images/little-caesars-hot-n-ready-system/little-caesars-cvap-holding-cabinet-diagram.webp)
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 Behind the front counter at every Little Caesars, you'll see tall, heated metal cabinets packed with boxed pizzas. Customers assume these are just warmers—big metal boxes with a heating element. They're not. Most locations use CVap (Controlled Vapor Technology) cabinets, and the engineering inside them is significantly more sophisticated than a heat lamp. 
 

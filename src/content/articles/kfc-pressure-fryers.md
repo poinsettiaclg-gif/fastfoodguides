@@ -25,9 +25,9 @@ When you fry chicken at home, you drop it into a pot of hot oil and keep an eye 
 
 ![Technical diagram of the mechanical safety locking pin mechanism on a commercial pressure fryer](../../assets/images/kfc-pressure-fryers/kfc-pressure-fryer-mechanical-safety-lock-pin.webp)
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Let me be clear about something: if operated incorrectly, a pressure fryer can cause catastrophic, life-altering injuries. We're talking about 350-degree oil under pressure behind a sealed lid. If someone managed to force that lid open while pressurized, the oil would erupt violently. That's the nightmare scenario. 
 

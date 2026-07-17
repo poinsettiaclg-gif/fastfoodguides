@@ -24,9 +24,9 @@ There are roughly two dozen fountain drink options across all of fast food, and 
 
 ![Blueprint illustration of The PepsiCo Partnership: Built From Scratch for Taco Bell](../../assets/images/taco-bell-baja-blast/taco-bell-baja-blast-the-pepsico-partnership-built-.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+
 
 Baja Blast was not an existing Mountain Dew flavor that Taco Bell licensed for its fountains. It was co-developed from the ground up by Taco Bell and PepsiCo’s beverage R&D team specifically for [the Taco Bell](/articles/taco-bell-linebacker-role) restaurant experience. The collaboration launched in 2004, and the flavor profile was engineered with a specific goal: create a drink that pairs with Taco Bell’s food better than standard Mountain Dew, Pepsi, or any other existing option. 
 

@@ -29,9 +29,9 @@ I’ve spent enough time in and around QSR kitchens to appreciate what this phen
 
 ![Blueprint illustration of How the “Secret Menu” Myth Got Started](../../assets/images/starbucks-secret-menu/starbucks-secret-menu-how-the-secret-menu-myth-got-s.webp)
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 The concept took off around 2012-2013, when Tumblr and early Instagram food accounts started posting elaborate custom Starbucks drinks with catchy names. A user would figure out that if you ordered a Vanilla Bean Frappuccino with raspberry syrup and java chips, it tasted vaguely like a raspberry cheesecake. They’d name it the “Raspberry Cheesecake Frappuccino,” photograph it with good lighting, and post it online. Other people would see it, want to try it, and show up at Starbucks asking for a drink that doesn’t exist on any menu.
 

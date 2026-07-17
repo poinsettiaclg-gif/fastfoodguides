@@ -30,9 +30,9 @@ Here’s the full picture — from potato field to the cardboard sleeve in your 
 
 Most people assume McDonald’s fries are just frozen potato strips that get dropped in hot oil. That’s technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald’s fries taste the way they do. 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. The potatoes are sourced from farms across the Pacific Northwest, the Midwest, and parts of Canada.
 

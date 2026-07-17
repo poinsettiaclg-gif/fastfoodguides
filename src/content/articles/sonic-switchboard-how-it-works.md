@@ -24,9 +24,9 @@ At most fast food joints, taking drive-thru orders means one lane, one headset, 
 
 ![Technical schematic of a Sonic switchboard console with stall buttons and two-way radio channels](../../assets/images/sonic-switchboard-how-it-works/sonic-switchboard-console-schematic.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 Depending on how old your Sonic location is, the switchboard is either a massive physical console covered in numbered buttons that glow red when pressed, or a large touchscreen monitor that does the same thing digitally. Both accomplish the same task, but the experience of using them is surprisingly different. 
 

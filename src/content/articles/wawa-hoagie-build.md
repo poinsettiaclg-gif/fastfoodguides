@@ -28,9 +28,9 @@ I’ve worked in operations where verbal orders caused constant rework. Wrong ch
 
 Walk into any Wawa and you’ll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store’s size. These aren’t generic tablet stands. They’re custom-built ordering terminals running Wawa’s proprietary software, and they’re the only way to order a built-to-order item. You can’t walk up to the deli and ask someone to make you a hoagie verbally. That’s not how it works here. 
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 The hoagie builder interface walks you through every decision in sequence:
 

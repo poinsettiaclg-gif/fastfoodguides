@@ -21,9 +21,9 @@ faq:
 
 Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: 
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 1. **Hass avocados** (ripe, whole)
 2. **Lime juice** (fresh-squeezed from real limes)

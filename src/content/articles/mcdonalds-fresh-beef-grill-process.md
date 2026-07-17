@@ -7,8 +7,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "McDonald's"
 topic: "Burgers"
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "mcdonalds-nugget-process"
+  - mcdonalds-fry-station-the-fry-hopper-and-portioning
+  - mcdonalds-nugget-process
+  - mcdonalds-ice-cream-machine-truth
 faq:
   - question: "What is the process for mcdonald's fresh beef: grill process?"
     answer: "As detailed in our guide, the process involves specific operational steps like the blue glove rule to ensure efficiency and quality at McDonald's."

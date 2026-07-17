@@ -23,9 +23,9 @@ You can smell a Subway from half a block away, even with the doors shut. That wa
 
 Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize. 
 

@@ -27,9 +27,9 @@ I witnessed managers dump entire hotel pans of sliced bell peppers straight into
 
 ![Technical schematic of the claw grip technique for cutting bell peppers, showing proper knuckle positioning](../../assets/images/chipotle-fajita-veggie-cut/chipotle-fajita-veggie-claw-grip-schematic.webp)
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And here's the thing nobody tells you during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. 
 

@@ -27,9 +27,9 @@ During a peak lunch rush in a busy metro area, the person working the mixing sta
 
 You don't just use standard kitchen tongs at Sweetgreen. The mixing station relies on heavy-duty, oversized metal mixing bowls and specialized long-handled tongs designed specifically for volume tossing.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 *   **The Bowl:** The stainless steel bowl is roughly 13 inches in diameter and 5 inches deep—significantly larger than a standard kitchen mixing bowl. This isn't just for capacity; it's to create a "vortex" when the ingredients are tossed. The bowl's walls are tall enough to contain the tossing motion without ingredients flying over the rim, even during aggressive mixes.
 *   **The Tongs:** The tongs are 12-inch, spring-loaded with scalloped edges that grip wet, heavy ingredients (like roasted sweet potatoes or wild rice) without crushing the delicate spring mix or arugula. A new pair gets swapped in every 2 hours during peak service to prevent the spring tension from weakening.

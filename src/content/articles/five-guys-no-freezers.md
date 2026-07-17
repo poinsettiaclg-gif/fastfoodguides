@@ -27,9 +27,9 @@ I'll be straight with you—the first time I heard this, I assumed it was market
 
 ![Technical schematic of a Five Guys walk-in cooler storage layout](../../assets/images/five-guys-no-freezers/five-guys-no-freezers-walkin-cooler-schematic.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 Without a freezer, Five Guys lives and dies by their walk-in cooler. And it's not the cramped, closet-sized cooler you'll find at most fast-food joints. A typical Five Guys walk-in is significantly larger than what you'd expect—it has to be, because it's holding everything the store needs for the next one to two days, all of it fresh, all of it perishable, all of it on a ticking clock. 
 

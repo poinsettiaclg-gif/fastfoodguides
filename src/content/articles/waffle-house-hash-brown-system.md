@@ -28,9 +28,9 @@ I spent time working alongside Waffle House crew members during a cross-training
 
 ![Blueprint illustration of The Nine Modifications, Explained](../../assets/images/waffle-house-hash-brown-system/waffle-house-hash-brown-system-the-nine-modifications-explain.webp)
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 Every order of Waffle House hash browns starts with a base: a portion of dehydrated potato that gets rehydrated and then cooked on the flat-top. From there, customers can add up to nine modifications. Here’s what each one actually means in the kitchen: 
 

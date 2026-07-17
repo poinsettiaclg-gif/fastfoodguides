@@ -27,9 +27,9 @@ Rolling a burrito of that magnitude without it splitting open is genuinely an ar
 
 ![Vector diagram showing the proper U-shaped distribution of heavy ingredients on a flat tortilla](../../assets/images/chipotle-massive-burrito-rolling/chipotle-burrito-ushape-ingredient-layout.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
+
+
 
 The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong. 
 

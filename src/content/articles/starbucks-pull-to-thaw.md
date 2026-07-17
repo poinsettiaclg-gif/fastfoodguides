@@ -24,9 +24,9 @@ When you see a display case full of perfectly golden croissants, neatly arranged
 
 ![Technical schematic of a commercial rolling baker's rack for pastry thawing](../../assets/images/starbucks-pull-to-thaw/starbucks-rolling-bakers-rack-schematic.webp)
 
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 You can't take a frozen Lemon Loaf out of a box and hand it to a customer. Almost all Starbucks pastries require a gradual, controlled thawing process at room temperature to preserve their moisture and texture. A croissant that gets microwaved or oven-blasted to speed up the thaw comes out rubbery and wrong. A muffin that thaws too fast develops a hard, crusty top instead of the soft dome customers expect. 
 

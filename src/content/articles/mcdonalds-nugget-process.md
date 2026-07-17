@@ -26,9 +26,9 @@ If there is one fast food item that has generated more conspiracy theories, urba
 
 ![Blueprint illustration of What McNuggets Are Actually Made Of](../../assets/images/mcdonalds-nugget-process/mcdonalds-nugget-process-what-mcnuggets-are-actually-ma.webp)
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when you're getting slammed and holding on drops.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 Let me get the biggest misconception out of the way first: McDonald’s Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald’s has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget’s mass. 
 

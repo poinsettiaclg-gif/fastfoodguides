@@ -27,9 +27,9 @@ The Board is where burgers are dressed, assembled, and wrapped. And the person s
 
 ![Technical schematic of the In-N-Out Board station layout showing the stainless steel prep table, spread pump, and standardized vegetable bin positions](../../assets/images/in-n-out-board-station/in-n-out-board-station-layout-schematic.webp)
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** When you're in the weeds on a Friday night, the last thing you want is a broken line. Turn and burn. That's the only way you survive until close.
+
+
 
 The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there's a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking. 
 

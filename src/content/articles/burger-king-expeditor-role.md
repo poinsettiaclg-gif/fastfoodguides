@@ -25,9 +25,9 @@ During a Friday night dinner rush at Burger King, the kitchen sounds like a fact
 
 ![Minimalist blueprint layout of a Burger King expeditor station and kitchen sightlines](../../assets/images/burger-king-expeditor-role/burger-king-expeditor-station-layout.webp)
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** Any BOH veteran will tell you: the walk-in cooler is the only soundproof place to take a 30-second mental break when the KDS screen is totally full.
+
+
 
 The Expeditor does not take orders. They do not cook food. They do not touch a register. They stand at the exact center of the operation—right at the end of the sandwich chute, between the heated holding area and the bagging station—and they act as air traffic control for the entire restaurant. 
 

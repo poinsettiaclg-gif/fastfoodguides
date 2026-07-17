@@ -25,9 +25,9 @@ Chick-fil-A is not a normal fast food job. I say that as someone who has worked 
 
 ![Flat design schematic of the Chick-fil-A Core 4 evaluation rubric and scoring matrix](../../assets/images/chick-fil-a-core-4/chick-fil-a-core-4-evaluation-matrix.webp)
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the flat top screaming hot.
+
+
 
 The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and here is what each pillar requires: 
 

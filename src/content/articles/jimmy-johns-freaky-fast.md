@@ -26,9 +26,9 @@ faq:
 
 Most pizza delivery operations will drive 15, 20, even 30 minutes to reach a customer. Jimmy John’s will not. The standard delivery zone is capped at roughly a 5-minute driving radius from the store — sometimes slightly more in rural markets, sometimes even tighter in dense urban areas with heavy traffic. This is not because Jimmy John’s is lazy. It is because the entire promise of the brand collapses if a sandwich takes 45 minutes to arrive. 
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Here is the math that corporate drilled into us: the sandwich is built in under a minute. It is bagged in seconds. The driver is out the door within two minutes of the order printing. If the delivery address is within a five-minute drive, the customer is holding a fresh sandwich roughly seven to eight minutes after they placed the order. That is the target. That is “Freaky Fast.” 
 

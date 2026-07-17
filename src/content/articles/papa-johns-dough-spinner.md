@@ -27,9 +27,9 @@ Then the Dough Spinner showed up, and everything changed.
 
 ![Technical schematic of a Papa John's Dough Spinner machine with heated platens and hydraulic arm](../../assets/images/papa-johns-dough-spinner/papa-johns-dough-spinner-schematic.webp)
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The Dough Spinner — sometimes called a dough press or a dough sheeter, depending on who you ask — is basically a massive waffle iron without the grids. Picture two heavy, flat metal platens bolted to a hydraulic arm, sitting on your makeline prep table like a cast-iron anchor. The thing weighs a ton and eats up precious counter space that you could be using for sauce cups and cheese bins. 
 

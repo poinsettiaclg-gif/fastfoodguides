@@ -22,9 +22,9 @@ faq:
 
 If you've never stood behind the line at a Buffalo Wild Wings on a Sunday afternoon during football season, you can't fully appreciate the controlled pandemonium that makes this chain work. Tickets are printing non-stop. Every single one demands a different combination of wing type, count, and sauce. One ticket wants 20 traditional Medium, the next wants 6 boneless Mango Habanero, and the one behind it is a party platter split across four sauces. The kitchen display screen is a wall of orange and red.
 
-> **Russell's Note:** When your KDS screen is going red on a Friday night, the last thing you want is a broken line. You have to run a 120-second window or you're dead in the water.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 The entire operation hinges on two positions: the fry cook and the sauce tosser. The fry cook is the engine. The tosser is the transmission. If either one falls behind, the whole restaurant feels it within minutes — ticket times balloon, servers start hovering, and managers start jumping on the line. There's no hiding. BWW kitchens are built around the fryer and the sauce station, and during peak hours, those two stations are the loudest, hottest, most demanding spots in any casual dining kitchen in the country.
 

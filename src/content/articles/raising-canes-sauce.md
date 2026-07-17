@@ -27,9 +27,9 @@ I spent time working alongside Cane's employees during a consulting stint, and w
 
 Cane's has never officially published their sauce recipe, but the ingredients have been widely confirmed by employees, food scientists, and the company's own ingredient disclosures. The base components are:
 
-> **Russell's Note:** People always ask why this tastes different at home. Simple. We aren't afraid of butter, salt, and keeping the clamshell grill screaming hot.
 
-> **Russell's Note:** I've got faded burn scars from exactly this kind of setup. If you aren't communicating with 'Behind!' and 'Hot!', you're going to get someone hurt.
+
+
 
 - **Mayonnaise** — the primary base, gives the sauce its creamy body
 - **Ketchup** — adds sweetness, acidity, and that distinctive pinkish color

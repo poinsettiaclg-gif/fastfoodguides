@@ -25,9 +25,9 @@ But if you're filling out a Sonic application and the thought of strapping wheel
 
 The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. I still have nightmares about it.
+
+
 
 **The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There's nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
 

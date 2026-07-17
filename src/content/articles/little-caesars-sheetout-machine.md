@@ -25,9 +25,9 @@ At a traditional pizzeria, making a crust is a craft. You take a dough ball, str
 
 ![Blueprint-style schematic of a pizza dough sheetout machine's calibrated rollers and gap width](../../assets/images/little-caesars-sheetout-machine/little-caesars-sheetout-machine-rollers-calibration.webp)
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
 
-> **Russell's Note:** Forget the fancy gadgets. Give me a sharp 8-inch chef's knife and a 32oz deli container labeled with blue painter's tape, and I can run any station.
+
+
 
 Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There's nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. 
 

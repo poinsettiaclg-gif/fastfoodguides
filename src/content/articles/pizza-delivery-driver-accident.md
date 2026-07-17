@@ -27,9 +27,9 @@ Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles
 
 This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.** 
 
-> **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+
+
 
 Read that again. Let it sink in.
 
