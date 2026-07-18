@@ -114,7 +114,7 @@ Wendy’s weathered the crisis, beef supplies normalized, and the fresh never fr
 
 It shouldn’t. If a walk-in cooler malfunctions and drops below freezing, or if beef is left in a delivery truck too long in winter, there’s a chance the product could partially freeze. In those cases, standard food safety protocols would require the beef to be evaluated and potentially discarded rather than served as “fresh.” Managers are trained to monitor cooler temperatures constantly.
 
-### Is Wendy’s beef higher quality than McDonald’s or Burger King’s?
+### Is Wendy’s beef higher quality than McDonald’s or [Burger King](/articles/chain/burger-king)’s?
 
 Not necessarily in terms of grade. All three chains use standard commercial-grade beef. The difference is in handling and preparation, not in the inherent quality of the cattle. Fresh versus frozen is a processing choice, not a grading distinction. However, the cooking process and moisture retention of fresh beef do result in a different final product.
 

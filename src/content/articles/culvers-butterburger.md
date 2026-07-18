@@ -100,7 +100,7 @@ Let me line up the key differences, because seeing them all together makes the g
 
 **Assembly timing:** Culver’s assembles each burger after the patty is cooked. Most high-volume fast-food chains pre-build burgers and hold them in heated landing zones, meaning the burger you receive might have been assembled several minutes before you ordered it.
 
-**Price point:** A ButterBurger meal runs $9 to $12 depending on the size and location, which puts it above McDonald’s and Burger King but in the same range as [Five Guys](/articles/chain/five-guys) and [Shake Shack](/articles/chain/shake-shack). You’re paying a premium over the cheapest fast food, but you’re getting a meaningfully different product.
+**Price point:** A ButterBurger meal runs $9 to $12 depending on the size and location, which puts it above McDonald’s and [Burger King](/articles/chain/burger-king) but in the same range as [Five Guys](/articles/chain/five-guys) and [Shake Shack](/articles/chain/shake-shack). You’re paying a premium over the cheapest fast food, but you’re getting a meaningfully different product.
 
 ## The Frozen Custard Connection
 

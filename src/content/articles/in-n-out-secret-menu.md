@@ -21,11 +21,11 @@ faq:
 
 If you look at [the In-N-Out](/articles/in-n-out-board-station) drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
 
-Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [What is the In-N-Out \](/articles/in-n-out-board-station/))*
+Here's the thing nobody tells you before your first register shift: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru as a [In-N-Out Associate](/articles/in-n-out-board-station/)
 
 ## The POS System Is Built for Speed
 
-![Flat vector diagram of the In-N-Out POS system interface layout showing color-coded modifier groupings for Secret Menu items](../../assets/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
+![A high contrast technical rendering of the In-N-Out POS system interface showing the specialized modifier keys for Animal Style, Protein Style, and extra toasted buns](../../assets/images/in-n-out-secret-menu/in-n-out-pos-system-interface-layout.webp)
 
 
 

@@ -15,7 +15,7 @@ faq:
 
 [In-N-Out](/articles/chain/in-n-out) Burger is famous for its simple, high-quality menu. But anyone who has lived in California knows that the real menu isn't printed on the wall. The "Secret Menu" is the worst-kept secret in the fast-food world, and the undisputed king of that menu is **Animal Style Fries**.
 
-As a former QSR manager, I'm always fascinated by how restaurants integrate off-menu items into their highly regimented assembly lines. At In-N-Out, Animal Style Fries are such a high-volume request that the kitchen has specific procedures and tools just for building them.
+As a former QSR manager, I'm always fascinated by how restaurants integrate off-menu items into their highly regimented assembly lines. At [In-N-Out](/articles/chain/in-n-out), Animal Style Fries are such a high-volume request that the kitchen has specific procedures and tools just for building them.
 
 Let me lay out the process:
 
