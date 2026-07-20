@@ -6,6 +6,7 @@ heroImage: "../../assets/images/author-rr-logo.webp"
 chain: "Pizza Hut"
 topic: "Operations"
 author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
 tags: ["KDS", "Operations", "Training", "Pizza Hut"]
 ---
 

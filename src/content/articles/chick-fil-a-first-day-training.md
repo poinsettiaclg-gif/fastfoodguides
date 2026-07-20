@@ -1,8 +1,9 @@
 ---
-title: "Your First Day at Chick-fil-A: What Actually Happens (From an Ops Director)"
+title: "Your First Day at Chick-fil-A: What Actually Happens"
 description: "Nervous about your first shift at Chick-fil-A? From iPad order taking to the Core 4, here's the exact breakdown of what to expect during orientation and your first day on the floor."
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
 image: "/images/chick_fil_a_first_day_1784553017715.png"
 category: "Careers"
 chain: "Chick-fil-A"

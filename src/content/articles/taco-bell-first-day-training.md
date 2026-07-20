@@ -1,8 +1,9 @@
 ---
-title: "Your First Day at Taco Bell: Surviving the Make-Line (From an Ops Manager)"
+title: "Your First Day at Taco Bell: Surviving the Make-Line"
 description: "A complete guide to your first shift at Taco Bell. Learn what to expect, from navigating the ingredients matrix on the steam table to understanding the critical Linebacker role."
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
 image: "/images/taco_bell_first_day_1784553031980.png"
 category: "Careers"
 chain: "Taco Bell"

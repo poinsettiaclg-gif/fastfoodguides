@@ -11,13 +11,6 @@ relatedArticles:
   - "cava-assembly-line"
   - "sweetgreen-mixing-station"
   - "dominos-makeline"
-faq:
-  - question: "Why doesn't Cava just make mobile orders on the front line?"
-    answer: "Mixing digital orders with walk-in customers creates massive bottlenecks. A customer staring at a line worker making five bowls for a DoorDash driver while they wait creates friction. The dedicated DML ensures both channels operate at maximum speed independently."
-  - question: "Do mobile orders get smaller portions?"
-    answer: "Technically, no. Digital orders receive the exact standardized portions dictated by the corporate recipe cards. However, walk-in customers often use 'the nod' to successfully ask for a little extra rice or dip, which isn't possible through the app, leading to the perception of smaller digital portions."
-  - question: "How does the kitchen handle sudden catering orders?"
-    answer: "Large catering drops are usually routed to the DML or a designated prep area. The KDS software flags massive orders early, allowing the DML Expo to pull a floater from prep or the front line to specifically focus on knocking out the catering build without pausing standard mobile orders."
 ---
 
 If you walk into any high-volume Cava location during the noon lunch rush, you will immediately bear witness to a scene of highly organized chaos. The main [assembly line](/articles/cava-assembly-line/) is packed shoulder-to-shoulder with customers pointing enthusiastically at the Crazy Feta, asking for extra scoops of RightRice, and agonizing over whether to finish their bowl with the Harissa or the classic Tzatziki. But behind the scenes, often obscured by a dividing wall or tucked away entirely in the back of the house, there is a completely separate operation humming along at an even more breakneck speed. This is the Digital Make Line, universally referred to in the industry as the DML.

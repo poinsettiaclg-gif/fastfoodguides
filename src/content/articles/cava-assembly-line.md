@@ -11,22 +11,6 @@ relatedArticles:
   - "sweetgreen-mixing-station"
   - "chipotle-guacamole"
   - "chipotle-massive-burrito-rolling"
-faq:
-  - question: "How Does Cava Keep the Line Moving When It's Out the Door?"
-    answer: "The key is the base station. That first person on the line sets the tempo for the entire operation. Cava trains base station workers to maintain a pace of one bowl start every 12–15 seconds during peak. They don't wait for the guest to finish deliberating on greens vs. grains—they ask 'greens, grains, or both?' and immediately start scooping. If a guest hesitates for more than 5 seconds, the base worker will gently move to the next guest in line and circle back. This 'skip and return' technique prevents a single indecisive customer from stalling the entire line."
----
-title: "How Is Cava Food Made? Inside the Bowl Assembly Line"
-description: "Cava builds every bowl on a three-zone assembly line with strict portion controls. Here is how the kitchen moves hundreds of custom bowls per hour."
-pubDate: "2026-06-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Cava"
-topic: "Other Chains"
-heroImage: "../../assets/images/cava/assembly-line.webp"
-relatedArticles:
-  - "sweetgreen-mixing-station"
-  - "chipotle-guacamole"
-  - "chipotle-massive-burrito-rolling"
 
 ---
 

@@ -6,6 +6,7 @@ heroImage: "../../assets/images/author-rr-logo.webp"
 chain: "Taco Bell"
 topic: "Prep"
 author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
 tags: ["Retherm", "Operations", "Prep", "Food Safety"]
 ---
 
