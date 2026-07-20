@@ -36,7 +36,7 @@ const schemas: any[] = [
 		"datePublished": pubDate.toISOString(),
 		...(updatedDate && { "dateModified": updatedDate.toISOString() }),
 		...(chain && { "articleSection": chain }),
-		"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
+		"image": heroImage ? [new URL(heroImage, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
 		"inLanguage": "en",
 		"author": {
 			"@type": "Person",
@@ -105,7 +105,7 @@ if (isDebunk) {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
+		<BaseHead title={title} description={description} image={heroImage} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
 		<script type="application/ld+json" set:html={JSON.stringify(schemas)} />
 		<style>
 			body {

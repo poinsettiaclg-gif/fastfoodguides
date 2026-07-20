@@ -13,7 +13,7 @@ const articles = defineCollection({
 			// Transform string to Date object
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
-			heroImage: z.optional(image()),
+			heroImage: z.string().optional(),
 			author: z.string().optional(),
 			authorTitle: z.string().optional(),
 			chain: z.string().optional(),
@@ -35,7 +35,7 @@ const secretMenus = defineCollection({
 			description: z.string(),
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
-			heroImage: z.optional(image()),
+			heroImage: z.string().optional(),
 			chain: z.string(),
 			operationalAnnoyanceScore: z.number().min(1).max(10),
 			isVerified: z.boolean(),

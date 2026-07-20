@@ -2,7 +2,7 @@
 
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import { defineConfig, fontProviders } from 'astro/config';
+import { defineConfig, fontProviders, passthroughImageService } from 'astro/config';
 import fs from 'fs';
 import path from 'path';
 import cloudflare from '@astrojs/cloudflare';
@@ -60,6 +60,9 @@ export default defineConfig({
 			enabled: true
 		}
 	}),
+	image: {
+		service: passthroughImageService(),
+	},
 	integrations: [
 		partytown({
 			config: {
