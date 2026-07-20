@@ -4,7 +4,7 @@ description: "A complete guide to your first shift at Subway. Learn what to expe
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
 authorTitle: "Former QSR Operations Manager"
-image: "/images/subway_first_day_1784553981046.png"
+heroImage: "/images/subway_first_day_1784553981046.png"
 category: "Careers"
 chain: "Subway"
 topic: "Training"
@@ -12,6 +12,8 @@ tags: ["subway", "first day", "sandwich artist", "training", "bain", "prep"]
 ---
 
 Stepping behind the glass sneeze guard at Subway for your first shift is a trial by fire in customer service. Unlike a kitchen where you are shielded by a wall, at Subway, the customer dictates every single movement you make in real-time. 
+
+![POV of a Sandwich Artist looking at the vegetable prep station](/images/subway_first_day_1784553981046.png)
 
 If you've been hired as a "Sandwich Artist," you are about to learn that making a footlong Italian B.M.T. is easy, but making it perfectly while a line of angry office workers stares at you is a completely different skill.
 

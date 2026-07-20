@@ -4,7 +4,7 @@ description: "A complete guide to your first shift at Domino's Pizza. Learn what
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
 authorTitle: "Former QSR Operations Manager"
-image: "/images/dominos_first_day_1784553972462.png"
+heroImage: "/images/dominos_first_day_1784553972462.png"
 category: "Careers"
 chain: "Domino's"
 topic: "Training"
@@ -12,6 +12,8 @@ tags: ["dominos", "first day", "pizza", "training", "makeline", "oven tender"]
 ---
 
 Walking into a Domino's Pizza for your first shift feels a bit like walking into a manufacturing plant. Everything is built around the conveyor belt oven. The entire store is a machine designed to move raw dough from the walk-in cooler to a cardboard box in under 15 minutes.
+
+![Domino's pizza make-line with an employee adding pepperoni](/images/dominos_first_day_1784553972462.png)
 
 If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput, I can tell you that Domino's operates on absolute precision.
 

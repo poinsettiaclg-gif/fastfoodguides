@@ -4,16 +4,18 @@ description: "Nervous about your first shift at Chick-fil-A? From iPad order tak
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
 authorTitle: "Former QSR Operations Manager"
-image: "/images/chick_fil_a_first_day_1784553017715.png"
+heroImage: "/images/chick_fil_a_first_day_1784553017715.png"
 category: "Careers"
 chain: "Chick-fil-A"
 topic: "Training"
 tags: ["chick-fil-a", "first day", "fast food jobs", "orientation", "core 4", "ipos"]
 ---
 
-So, you nailed the interview, secured the red polo, and you're officially scheduled for your first shift at Chick-fil-A. If you've ever eaten at one during the lunch rush, you know the controlled chaos that happens behind the counter. It's intimidating. 
+Walking into a Chick-fil-A for your first day of training is an intense experience. The sheer volume of cars in the drive-thru, the number of employees behind the counter, and the rapid-fire language they use ("Heard," "Holding on nuggets," "My pleasure") can make you feel like you just stepped onto a stock exchange trading floor.
 
-As someone who has overseen operations and onboarded hundreds of Team Members, I'm here to demystify the process. Chick-fil-A's training protocol is arguably the most structured in the Quick Service Restaurant (QSR) industry. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
+![A busy Chick-fil-A kitchen during a lunch rush](/images/chick_fil_a_first_day_1784553017715.png)
+
+As a former QSR Operations Manager who has hired and trained hundreds of team members, I can tell you that Chick-fil-A's training program is arguably the best in the fast-food industry. They don't expect you to know everything on day one, but they do expect a specific attitude. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
 
 Here is exactly what you can expect on your first day at Chick-fil-A, hour by hour.
 

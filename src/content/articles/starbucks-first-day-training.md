@@ -4,7 +4,7 @@ description: "A complete guide to your first shift as a Starbucks barista. Learn
 pubDate: "2026-07-20"
 author: "Russell Roseberry"
 authorTitle: "Former QSR Operations Manager"
-image: "/images/starbucks_first_day_1784553962102.png"
+heroImage: "/images/starbucks_first_day_1784553962102.png"
 category: "Careers"
 chain: "Starbucks"
 topic: "Training"
@@ -12,6 +12,8 @@ tags: ["starbucks", "first day", "barista", "training", "pos", "coffee"]
 ---
 
 Stepping behind the bar at Starbucks for the first time is legendary for being one of the most overwhelming experiences in fast food. The sounds alone—the steaming wands screaming, the blenders grinding ice, the relentless printer spitting out mobile orders—are enough to induce sensory overload.
+
+![POV of a new barista at a Starbucks register](/images/starbucks_first_day_1784553962102.png)
 
 If you've just been hired as a "Partner" (Starbucks speak for employee), you might be terrified that they are going to throw you on the espresso machine during the 7:00 AM rush. As someone who has managed QSR operations for a decade, let me put your mind at ease: they absolutely will not do that.
 
