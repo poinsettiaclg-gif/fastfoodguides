@@ -3,18 +3,12 @@ title: "Five Guys Burger Build: How It's Assembled"
 description: "Five Guys builds every burger fresh to order with no heat lamps. Here's the exact assembly sequence and why the build order affects the final bite."
 pubDate: "2026-06-19"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Five Guys"
 topic: "Burgers"
 relatedArticles:
   - "five-guys-fry-calibration"
-  - "five-guys-no-freezers"
-  - "mcdonalds-fry-station"
-faq:
-  - question: "What is the process for five guys burger build: how it's assembled?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the beef arrives fresh. every single day. to ensure efficiency and quality at Five Guys."
-  - question: "Why is the hand-smash process important at Five Guys?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
+
 ---
 
 ## The Beef Arrives Fresh. Every Single Day.

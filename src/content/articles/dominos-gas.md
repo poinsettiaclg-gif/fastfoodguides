@@ -3,16 +3,14 @@ title: "Domino's Gas Reimbursement: How Driver Pay Works"
 description: "Domino's delivery drivers are paid a mileage reimbursement, not a gas allowance. Here's exactly how driver compensation is structured per delivery."
 pubDate: "2026-03-15"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Pizza"
 relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-oven-tender-role"
   - "pizza-delivery-driver-accident"
-faq:
-  - question: "The Math: Is the Reimbursement Actually Enough?"
-    answer: "Let me run the numbers I used to show new hires during orientation, because this is where the job either makes sense or doesn't."
+
 ---
 
 

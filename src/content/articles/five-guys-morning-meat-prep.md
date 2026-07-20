@@ -3,17 +3,13 @@ title: "Five Guys Morning Prep: Hand-Rolling the Meatballs"
 description: "Five Guys famously refuses to use freezers. Discover the grueling 5 AM morning prep shift where every single burger patty is weighed and rolled by hand."
 pubDate: "2026-07-01"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Five Guys"
 topic: "Burgers"
 relatedArticles:
   - "five-guys-burger-build"
   - "five-guys-no-freezers"
-faq:
-  - question: "What is the process for five guys morning prep: hand-rolling meatballs?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the 5 am arrival to ensure efficiency and quality at Five Guys."
-  - question: "Why is the 3.6-ounce rule important at Five Guys?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
+
 ---
 
 Five Guys built its entire brand on a single, unwavering promise: there are [no freezers](/articles/five-guys-no-freezers/) in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.

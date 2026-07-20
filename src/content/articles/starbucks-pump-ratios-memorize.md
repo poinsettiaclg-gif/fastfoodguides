@@ -3,14 +3,10 @@ title: "How to Memorize Starbucks Syrup Pump Ratios Fast"
 description: "Overwhelmed by your first week on bar? Here is the actual logic behind Starbucks pump counts for hot bar, cold bar, and frapps so you don't have to guess."
 pubDate: "2026-07-09T09:00:00Z"
 author: "Russell Roseberry"
-authorTitle: "10-Year QSR Veteran"
+authorTitle: "Former QSR Operations Manager"
 chain: "Starbucks"
 topic: "Coffee"
-faq:
-  - question: "What is the process for how to memorize starbucks syrup pump ratios fast?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the hot bar baseline (the 2-3-4-5 rule) to ensure efficiency and quality at Starbucks."
-  - question: "Why is the iced venti exception important at Starbucks?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Starbucks locations."
+
 ---
 
 If you’ve just been hired at Starbucks, congratulations—you are about to consume more caffeine in a single week than most people do in a month. But before you can get comfortable, you have to survive "Bar Training." 

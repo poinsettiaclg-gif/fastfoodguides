@@ -3,18 +3,13 @@ title: "The Secret to Folding a Subway Wrap Without Tearing It"
 description: "A Sandwich Artist's step-by-step guide to warming, stacking, rolling, and cutting a heavily loaded Subway wrap without ripping the tortilla apart."
 pubDate: "2026-05-04"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Subway"
 topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
   - "subway-bain-fill-line-rule"
-  - "chipotle-massive-burrito-rolling"
-faq:
-  - question: "What is the process for secret to folding a subway wrap without tearing it?"
-    answer: "As detailed in our guide, the process involves specific operational steps like step 1: warm the tortilla (never skip this) to ensure efficiency and quality at Subway."
-  - question: "Why is step 2: the 'middle third' rule important at Subway?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
+
 ---
 
 

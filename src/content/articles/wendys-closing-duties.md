@@ -3,18 +3,14 @@ title: "Wendy's Closing Duties: A Full Night Breakdown"
 description: "Wendy's closing crew has a strict checklist that takes 90+ minutes. Here's how the kitchen is broken down and what gets done before the last lock-up."
 pubDate: "2026-05-14"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wendy's"
 topic: "Burgers"
 relatedArticles:
   - "wendys-frosty-machine-boil-out"
   - "wendys-clamshell-grill"
   - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "What is the process for wendy's closing duties: a full night breakdown?"
-    answer: "As detailed in our guide, the process involves specific operational steps like phase 1: the pre-close (starting around 10:00 pm) to ensure efficiency and quality at Wendy's."
-  - question: "Why is phase 2: breaking down the boards important at Wendy's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
+
 ---
 
 

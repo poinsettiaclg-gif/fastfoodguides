@@ -3,18 +3,14 @@ title: "What is the 4:00 AM \"Biscuit Maker\" Shift Like at Hardee's / Carl's Jr
 description: "A QSR veteran takes you inside the grueling 4 AM Biscuit Maker shift at Hardee's—the from-scratch process, the 15-minute rule, and why this role is sacred."
 pubDate: "2026-03-22"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Hardee's / Carl's Jr."
 topic: "General"
 relatedArticles:
   - "panera-overnight-baker"
   - "subway-bread-baking-process"
   - "five-guys-no-freezers"
-faq:
-  - question: "What is the process for what is 4:00 am ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the 4:00 am arrival: alone in a dark kitchen to ensure efficiency and quality at Hardee's / Carl's Jr.."
-  - question: "Why is the from-scratch process: where most new hires fail important at Hardee's / Carl's Jr.?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Hardee's / Carl's Jr. locations."
+
 ---
 
 

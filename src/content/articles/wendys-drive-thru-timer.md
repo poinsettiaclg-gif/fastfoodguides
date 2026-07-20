@@ -3,27 +3,23 @@ title: "The Wendy's Drive-Thru Timer and the 'Pull Forward' Policy"
 description: "Why does Wendy's ask you to pull forward at the drive-thru? An insider look at drive-thru timers, SOS (Speed of Service) metrics, and why seconds matter."
 pubDate: "2026-07-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wendy's"
 topic: "Operations"
 heroImage: "../../assets/images/wendys-drive-thru-timer/timer.png"
 relatedArticles:
   - wendys-4-corner-press
   - wendys-fresh-never-frozen
-faq:
-  - question: "Why do fast food places ask you to pull forward?"
-    answer: "Restaurants ask you to pull forward because a single delayed order (like waiting on fresh fries or spicy chicken) will block the entire drive-thru line, ruining the store's Speed of Service (SOS) metrics and backing up traffic into the street."
-  - question: "What is the drive-thru timer at Wendy's?"
-    answer: "The drive-thru timer is a digital system that tracks a car from the moment it hits the sensor at the speaker box until it leaves the pickup window. Managers are judged harshly on keeping this time under a specific corporate benchmark."
+
 ---
 
-If you regularly visit Wendy's—or almost any major fast-food chain—during lunch, you’ve almost certainly heard these words at the pickup window: 
+The ticket printer hasn't stopped for 45 minutes, the grill cook is frantically dropping fresh batches of spicy chicken, and three cars just pulled up to the speaker box at the exact same time. You hand the customer their drink and hit them with the line: 
 
 *"We're just waiting on fresh fries for you. Can you go ahead and pull forward to those yellow lines, and we’ll bring it right out?"*
 
-To a customer, this seems like a minor inconvenience. But behind the drive-thru window, asking a car to "pull forward" or "park" is a highly calculated maneuver driven by an unforgiving piece of technology: the Drive-Thru Timer. 
+To a customer, this seems like a minor inconvenience. But behind the window, asking a car to "pull forward" or "park" is a highly calculated survival maneuver driven by an unforgiving piece of technology: the Drive-Thru Timer. 
 
-Here is exactly why that timer dictates everything that happens in a Wendy’s kitchen, and why pulling forward is the only way the system survives a lunch rush.
+According to [QSR Magazine's annual drive-thru study](https://www.qsrmagazine.com/), speed of service remains the top operational priority across the industry. Here is exactly why that timer dictates everything that happens in a Wendy’s kitchen, and why pulling forward is the only way the system survives a lunch rush.
 
 ## The SOS (Speed of Service) Metric
 

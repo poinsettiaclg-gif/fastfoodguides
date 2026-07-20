@@ -3,27 +3,19 @@ title: "McDonald's Ice Cream Machine: Why It's Broken"
 description: "The ice cream machine requires a nightly heat cycle that locks it for hours. Here is why it breaks and what the full cleaning cycle involves."
 pubDate: "2026-06-20"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "McDonald's"
 topic: "Burgers"
 relatedArticles:
   - "mcdonalds-nugget-process"
   - "mcdonalds-abs-system"
   - "mcdonalds-pos-crash"
-faq:
-  - question: "What is the process for mcdonald's ice cream machine: why it's broken?"
-    answer: "As detailed in our guide, the process involves specific operational steps like it's not actually broken (most of the time) to ensure efficiency and quality at McDonald's."
-  - question: "Why is the machine: taylor c709 important at McDonald's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all McDonald's locations."
+
 ---
 
 ## It's Not Actually Broken (Most of the Time)
 
-The McDonald's ice cream machine meme has taken on a life of its own. There's even a [How Are McDonald's Chicken McNuggets Actually Made?](/articles/mcdonalds-nugget-process/))*
-
-> **Russell's Note:** The Sysco truck being late will ruin a prep shift faster than anything else. You learn to pivot immediately or the lunch rush will crush you.
-
-> **Russell's Note:** Time to lean, time to clean. It's an annoying cliché, but when the health inspector (the ultimate clipboard warrior) shows up unannounced, you'll be glad you wiped down the low-boys.
+I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think we're just being lazy. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
 
 **The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. 
 
@@ -98,7 +90,7 @@ The result is a system where:
 - **Taylor technicians** are often booked days out, leaving the machine down for extended periods
 - **Simple fixes** (resetting the heat cycle, adjusting a sensor, topping off the mix) require waiting for a technician rather than being handled in-house
 
-A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal lawsuit and an **FTC investigation** into whether Taylor was engaging in anti-competitive repair practices.
+A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal lawsuit and an [FTC investigation](https://www.ftc.gov/news-events/news/press-releases/2021/07/ftc-vote-unanimously-enforce-right-repair) into whether Taylor was engaging in anti-competitive repair practices, a situation further highlighted by [iFixit's teardown of the Taylor machine](https://www.ifixit.com/News/51614/we-tore-down-a-mcdonalds-ice-cream-machine-and-it-was-weird).
 
 ## What Crew Members Actually Deal With
 

@@ -3,18 +3,12 @@ title: "Subway POS Down: How Staff Handle a Cash-Only Shift"
 description: "When Subway's POS system goes offline, everything shifts to manual entry. Here's how staff manage orders, cash, and the receipt printer during an outage."
 pubDate: "2026-05-02"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Subway"
 topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
-  - "subway-bain-fill-line-rule"
-  - "subway-wrap-folding"
-faq:
-  - question: "What is the process for subway pos down: how staff handle a cash-only shift?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the 3-step core ring: the foundation of everything to ensure efficiency and quality at Subway."
-  - question: "Why is the 'out of order' customer and how to handle them important at Subway?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
+
 ---
 
 

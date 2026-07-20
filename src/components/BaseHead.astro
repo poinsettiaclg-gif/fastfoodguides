@@ -157,7 +157,7 @@ const ogImageUrl = image ? new URL(image, Astro.url) : new URL('/og-default.png'
 </script>
 
 <!-- Google Analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LTBYBPFE6W"></script>
+<script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-LTBYBPFE6W"></script>
 <script is:inline>
 	gtag('js', new Date());
 	gtag('config', 'G-LTBYBPFE6W');
@@ -165,5 +165,5 @@ const ogImageUrl = image ? new URL(image, Astro.url) : new URL('/og-default.png'
 
 <!-- Google AdSense -->
 {!noindex && (
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
+<script type="text/partytown" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
 )}

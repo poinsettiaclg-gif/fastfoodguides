@@ -3,29 +3,17 @@ title: "Domino's Dough Stretching: The Hand-Toss Technique"
 description: "Domino's hand-toss requires a specific stretch to hit the right crust thickness. Here's the technique cooks are trained to use every single order."
 pubDate: "2026-06-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Pizza"
 relatedArticles:
   - "dominos-gas"
-  - "dominos-20-bank-rule"
-  - "dominos-oven-tender-role"
-faq:
-  - question: "What is the process for domino's dough stretching: hand-toss technique?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the dough does not arrive as dough to ensure efficiency and quality at Domino's."
-  - question: "Why is the hand-stretch process important at Domino's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
+
 ---
 
 ## The Dough Does Not Arrive as Dough
 
-This is one of the most common misconceptions about Domino's. People assume the stores are mixing flour and water in back. They are not. **Domino's dough arrives pre-made from a regional commissary** in the form of individual dough balls, each one weighed to correspond to a specific pizza size. 
-
-
-
-
-
-A small pizza uses a smaller dough ball. A large uses a bigger one. An XL Brooklyn-style uses the largest. Every single dough ball is the same weight for its size class, down to the gram. This is how Domino's maintains consistency across 19,000+ locations worldwide. 
+A seasoned Domino's makeline worker can stretch, sauce, and cheese a large pizza in under 60 seconds. But that speed relies entirely on prep happening hours earlier. People often assume the stores are mixing flour and water in the back, but **Domino's dough actually arrives pre-made from a regional commissary** in the form of individual dough balls. Every single ball is weighed to its specific size class down to the gram, ensuring identical crusts across 19,000+ locations. 
 
 The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch. 
 
@@ -33,7 +21,7 @@ This is why prep timing matters so much. If the morning crew doesn't pull enough
 
 ## The Hand-Stretch Process
 
-Domino's does not use a dough press or a sheeter machine for its standard hand-tossed crust. Every pizza is **hand-stretched by the person working the makeline**.
+Domino's does not use a dough press or a sheeter machine for its standard hand-tossed crust. As part of their commitment to food quality (often highlighted on [Domino's corporate transparency pages](https://biz.dominos.com/about-us/)), every pizza is **hand-stretched by the person working the makeline**.
 
 ### Step 1: Cornmeal and Flour the Surface
 

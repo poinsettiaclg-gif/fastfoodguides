@@ -3,18 +3,12 @@ title: "Chipotle Guacamole: Made From Scratch Daily"
 description: "Chipotle makes guacamole in-house every day. Here's the exact recipe, the prep process, and why it takes a skilled hand to hit the right texture."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chipotle"
 topic: "Mexican"
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
-  - "chipotle-grill-validation"
-  - "chipotle-massive-burrito-rolling"
-faq:
-  - question: "What is the process for chipotle guacamole: made from scratch daily?"
-    answer: "As detailed in our guide, the process involves specific operational steps like six ingredients. no blender. no shortcuts. to ensure efficiency and quality at Chipotle."
-  - question: "Why is the morning prep: 48 avocados at a time important at Chipotle?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chipotle locations."
+
 ---
 
 ## Six Ingredients. No Blender. No Shortcuts.

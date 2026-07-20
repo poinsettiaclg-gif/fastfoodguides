@@ -3,18 +3,13 @@ title: "The Jersey Mike's \"Hot Sub\" Grill Station: What to Expect"
 description: "A behind-the-scenes look at Jersey Mike's grill station, from raw beef protocols and the chop-and-flip technique to the dreaded bread transfer flip."
 pubDate: "2026-03-27"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Jersey Mike's"
 topic: "Sandwiches"
 relatedArticles:
   - "jersey-mikes-mikes-way"
   - "arbys-meat-slicer"
-  - "chipotle-grill-validation"
-faq:
-  - question: "What is the process for jersey mike's ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like raw beef, raw chicken, and zero margin for error to ensure efficiency and quality at Jersey Mike's."
-  - question: "Why is the chop-and-flip technique that destroys your forearms important at Jersey Mike's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Jersey Mike's locations."
+
 ---
 
 

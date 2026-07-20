@@ -11,7 +11,7 @@ import TableOfContents from '../components/TableOfContents.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
 
-const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, faq, slug, headings } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, faq, isDebunk, slug, headings } = Astro.props;
 
 // Resolve related articles from slugs
 let resolvedRelated: CollectionEntry<'articles'>[] = [];
@@ -26,41 +26,87 @@ if (relatedArticles && relatedArticles.length > 0) {
 function slugifyChain(c: string): string {
 	return c.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
+
+const schemas: any[] = [
+	{
+		"@context": "https://schema.org",
+		"@type": "Article",
+		"headline": title,
+		"description": description,
+		"datePublished": pubDate.toISOString(),
+		...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+		...(chain && { "articleSection": chain }),
+		"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
+		"inLanguage": "en",
+		"author": {
+			"@type": "Person",
+			"name": author,
+			"jobTitle": authorTitle,
+			"url": "https://fastfoodguides.com/about"
+		},
+		"publisher": {
+			"@type": "Organization",
+			"name": "Fast Food Guides",
+			"url": "https://fastfoodguides.com",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://fastfoodguides.com/favicon.svg"
+			}
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": Astro.url.href
+		}
+	}
+];
+
+if (faq && faq.length > 0) {
+	schemas.push({
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		"mainEntity": faq.map((q: any) => ({
+			"@type": "Question",
+			"name": q.question,
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": q.answer
+			}
+		}))
+	});
+}
+
+if (isDebunk) {
+	schemas.push({
+		"@context": "https://schema.org",
+		"@type": "ClaimReview",
+		"claimReviewed": "Various viral fast-food hacks and myths",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "1",
+			"bestRating": "5",
+			"worstRating": "1",
+			"alternateName": "False"
+		},
+		"itemReviewed": {
+			"@type": "CreativeWork",
+			"author": {
+				"@type": "Organization",
+				"name": "TikTok/Social Media Trends"
+			}
+		},
+		"author": {
+			"@type": "Organization",
+			"name": "Fast Food Guides"
+		},
+		"url": Astro.url.href
+	});
+}
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
-		<script type="application/ld+json" set:html={JSON.stringify({
-			"@context": "https://schema.org",
-			"@type": "Article",
-			"headline": title,
-			"description": description,
-			"datePublished": pubDate.toISOString(),
-			...(updatedDate && { "dateModified": updatedDate.toISOString() }),
-			...(chain && { "articleSection": chain }),
-			"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
-			"inLanguage": "en",
-			"author": {
-				"@type": "Person",
-				"name": author,
-				"jobTitle": authorTitle,
-				"url": "https://fastfoodguides.com/about"
-			},
-			"publisher": {
-				"@type": "Organization",
-				"name": "Fast Food Guides",
-				"url": "https://fastfoodguides.com",
-				"logo": {
-					"@type": "ImageObject",
-					"url": "https://fastfoodguides.com/favicon.svg"
-				}
-			},
-			"mainEntityOfPage": {
-				"@type": "WebPage",
-				"@id": Astro.url.href
-			}
-		})} />
+		<script type="application/ld+json" set:html={JSON.stringify(schemas)} />
 		<style>
 			body {
 				background: #0a0f1c;
@@ -458,6 +504,8 @@ function slugifyChain(c: string): string {
 
 					<slot />
 
+					<NewsletterCTA />
+
 					<!-- Related Articles (auto-rendered from frontmatter) -->
 					{resolvedRelated.length > 0 && (
 						<section class="related-section">
@@ -473,8 +521,6 @@ function slugifyChain(c: string): string {
 						</section>
 					)}
 
-					<NewsletterCTA />
-					
 					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
 				</div>
 			</article>

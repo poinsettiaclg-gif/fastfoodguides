@@ -3,18 +3,14 @@ title: "What Does a \"Bird Specialist\" Actually Do at Raising Cane's?"
 description: "Everything you need to know about the Raising Cane's Bird Specialist role — the 24-hour marinade, 6-minute fry timer, and the art of reading the rush."
 pubDate: "2026-04-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Raising Cane's"
 topic: "Chicken"
 relatedArticles:
   - "popeyes-chicken-battering-process"
   - "kfc-pressure-fryers"
   - "five-guys-no-freezers"
-faq:
-  - question: "What is the process for what does a ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the 24-hour marinade and why it can't be rushed to ensure efficiency and quality at Raising Cane's."
-  - question: "Why is the art of the drop important at Raising Cane's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Raising Cane's locations."
+
 ---
 
 

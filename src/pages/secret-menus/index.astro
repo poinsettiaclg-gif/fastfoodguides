@@ -1,0 +1,147 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const allItems = await getCollection('secretMenus');
+
+// Group items by chain
+const grouped = allItems.reduce((acc, item) => {
+	const chain = item.data.chain;
+	if (!acc[chain]) acc[chain] = [];
+	acc[chain].push(item);
+	return acc;
+}, {} as Record<string, typeof allItems>);
+
+const chains = Object.keys(grouped).sort();
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="The Verified Secret Menu Database" description="The only fast food secret menu database graded by an actual operations manager. Find out what to order and how to order it without ruining the kitchen's flow." />
+		<style>
+			.db-container {
+				max-width: 960px;
+				margin: 0 auto;
+				padding: 3rem 1rem;
+			}
+			.db-header {
+				text-align: center;
+				margin-bottom: 4rem;
+			}
+			.db-header h1 {
+				font-size: 3rem;
+				color: #F8FAFC;
+				margin-bottom: 1rem;
+			}
+			.db-header p {
+				font-size: 1.25rem;
+				color: #94A3B8;
+				max-width: 600px;
+				margin: 0 auto;
+				line-height: 1.6;
+			}
+			.chain-section {
+				margin-bottom: 4rem;
+			}
+			.chain-title {
+				font-size: 2rem;
+				color: #10B981;
+				margin-bottom: 1.5rem;
+				padding-bottom: 0.5rem;
+				border-bottom: 2px solid #1E293B;
+			}
+			.items-grid {
+				display: grid;
+				grid-template-columns: 1fr;
+				gap: 1.5rem;
+			}
+			@media(min-width: 640px) {
+				.items-grid {
+					grid-template-columns: repeat(2, 1fr);
+				}
+			}
+			.item-card {
+				background-color: #1E293B;
+				border: 1px solid #334155;
+				border-radius: 0.75rem;
+				padding: 1.5rem;
+				text-decoration: none;
+				transition: transform 0.2s ease, border-color 0.2s ease;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+			}
+			.item-card:hover {
+				transform: translateY(-4px);
+				border-color: #10B981;
+			}
+			.item-title {
+				font-size: 1.25rem;
+				color: #F1F5F9;
+				margin: 0 0 0.5rem 0;
+				font-weight: 700;
+			}
+			.item-desc {
+				color: #94A3B8;
+				font-size: 0.95rem;
+				line-height: 1.5;
+				margin-bottom: 1.5rem;
+			}
+			.item-footer {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				padding-top: 1rem;
+				border-top: 1px solid #334155;
+			}
+			.annoyance-tag {
+				font-size: 0.85rem;
+				font-weight: 600;
+				padding: 0.25rem 0.5rem;
+				border-radius: 0.25rem;
+				background-color: #0F172A;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="db-container">
+				<div class="db-header">
+					<h1>Verified Secret Menus</h1>
+					<p>Most secret menus on the internet are fake or dangerous. These have been vetted by a 10-year fast food veteran. We'll tell you exactly how to order them without breaking the kitchen.</p>
+				</div>
+
+				{chains.map(chain => (
+					<section class="chain-section">
+						<h2 class="chain-title">{chain}</h2>
+						<div class="items-grid">
+							{grouped[chain].map(item => {
+								let color = '#10B981';
+								if (item.data.operationalAnnoyanceScore >= 4) color = '#F59E0B';
+								if (item.data.operationalAnnoyanceScore >= 8) color = '#EF4444';
+								return (
+									<a href={`/secret-menus/${item.id}/`} class="item-card">
+										<div>
+											<h3 class="item-title">{item.data.title}</h3>
+											<p class="item-desc">{item.data.description}</p>
+										</div>
+										<div class="item-footer">
+											{item.data.isVerified && <span style="color:#10B981; font-size:0.85rem; font-weight:bold;">✓ Verified</span>}
+											<span class="annoyance-tag" style={`color: ${color}; border: 1px solid ${color};`}>
+												Annoyance: {item.data.operationalAnnoyanceScore}/10
+											</span>
+										</div>
+									</a>
+								);
+							})}
+						</div>
+					</section>
+				))}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

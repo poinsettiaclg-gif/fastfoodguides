@@ -3,18 +3,14 @@ title: "Chick-fil-A Waffle Fry Station: The 2-Minute Rule and Peanut Oil Science
 description: "An operational breakdown of how Chick-fil-A cooks, salts, and holds their iconic waffle potato fries using highly regulated peanut oil vats."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chick-fil-A"
 topic: "Fries"
 heroImage: "../../assets/images/chick-fil-a-waffle-fry-station/waffle-fry-station.png"
 relatedArticles:
   - chick-fil-a-peanut-oil-filtration
   - chick-fil-a-ipos-system
-faq:
-  - question: "Why does Chick-fil-A cook their fries in peanut oil?"
-    answer: "Peanut oil has an incredibly high smoke point, which allows the fryers to run hotter without breaking down the oil. This results in a crispier exterior on the waffle fry without it becoming greasy."
-  - question: "How long can Chick-fil-A hold their waffle fries before throwing them out?"
-    answer: "Chick-fil-A has a strict holding time for their waffle fries. If they are not served within a very tight window, they are discarded to ensure every customer receives hot, crispy fries."
+
 ---
 
 When customers think of Chick-fil-A, they think of two things: the original chicken sandwich and the waffle fries. From a kitchen management perspective, the chicken sandwich is actually the easy part. The fry station is where the chaos happens during a peak lunch rush.

@@ -3,7 +3,7 @@ title: "How Is Cava Food Made? Inside the Bowl Assembly Line"
 description: "Cava builds every bowl on a three-zone assembly line with strict portion controls. Here is how the kitchen moves hundreds of custom bowls per hour."
 pubDate: "2026-06-23"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Cava"
 topic: "Other Chains"
 heroImage: "../../assets/images/cava/assembly-line.webp"
@@ -14,13 +14,23 @@ relatedArticles:
 faq:
   - question: "How Does Cava Keep the Line Moving When It's Out the Door?"
     answer: "The key is the base station. That first person on the line sets the tempo for the entire operation. Cava trains base station workers to maintain a pace of one bowl start every 12–15 seconds during peak. They don't wait for the guest to finish deliberating on greens vs. grains—they ask 'greens, grains, or both?' and immediately start scooping. If a guest hesitates for more than 5 seconds, the base worker will gently move to the next guest in line and circle back. This 'skip and return' technique prevents a single indecisive customer from stalling the entire line."
-  - question: "What Happens If a Cava Store Consistently Misses Its Portion Targets?"
-    answer: "The store's food cost percentage gets flagged in the weekly P&L review. If the variance exceeds 1.5% above target for two consecutive weeks, the district manager schedules an in-store audit. During the audit, every line worker gets re-trained on portion specs using weighted practice bowls, and the manager runs side-by-side coaching during the next three lunch rushes. Persistent issues can result in staffing changes at the line positions."
-  - question: "Why Does Cava Make Dips From Scratch Instead of Using Pre-Made?"
-    answer: "Two reasons: quality and differentiation. Pre-made dips from a commissary would be cheaper per unit and require less labor, but they wouldn't taste the same. The texture of Crazy Feta made fresh that morning versus a feta spread that's been sitting in a bag for a week is noticeably different. Cava's entire brand promise is built on 'real food, made fresh,' and the scratch dips are the most tangible proof of that promise. Switching to pre-made would save roughly $200–$300 per store per week in labor, but the brand damage would cost far more."
+---
+title: "How Is Cava Food Made? Inside the Bowl Assembly Line"
+description: "Cava builds every bowl on a three-zone assembly line with strict portion controls. Here is how the kitchen moves hundreds of custom bowls per hour."
+pubDate: "2026-06-23"
+author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
+chain: "Cava"
+topic: "Other Chains"
+heroImage: "../../assets/images/cava/assembly-line.webp"
+relatedArticles:
+  - "sweetgreen-mixing-station"
+  - "chipotle-guacamole"
+  - "chipotle-massive-burrito-rolling"
+
 ---
 
-If you've ever walked into a Cava at 12:15 PM on a Tuesday, you've witnessed a beautifully orchestrated panic attack. The line is out the door, the digital orders are printing non-stop, and yet, the line moves. Fast.
+The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully orchestrated panic attack, yet the line keeps moving. Fast.
 
 The secret to Cava's throughput isn't just hustle; it's a meticulously designed assembly line that prevents bottlenecks before they happen.
 
@@ -51,7 +61,7 @@ This is where Cava separates itself from most fast-casual competitors. The signa
 
 Here's what the morning dip prep looks like:
 
-*   **Crazy Feta:** Feta cheese is crumbled by hand, combined with Calabrian chili peppers, jalapeños, and a proprietary spice blend in a commercial Robot Coupe food processor (usually the R2N model). It runs for about 45–60 seconds until the texture hits a specific consistency—creamy but with visible chunks. Each batch yields roughly 6–8 quarts, and a high-volume store will burn through 3–4 batches before close.
+*   **Crazy Feta:** Feta cheese is crumbled by hand, combined with Calabrian chili peppers, jalapeños, and a proprietary spice blend in a commercial [Robot Coupe](https://www.robot-coupe.com/) food processor (usually the R2N model). It runs for about 45–60 seconds until the texture hits a specific consistency—creamy but with visible chunks. Each batch yields roughly 6–8 quarts, and a high-volume store will burn through 3–4 batches before close.
 *   **Hummus:** Chickpeas arrive pre-cooked in bulk bags, but the blending, tahini addition, lemon juice, garlic, and seasoning all happen in-house. The food processor runs longer here—about 90 seconds per batch—to hit that silky-smooth texture Cava is known for.
 *   **Tzatziki:** Strained yogurt base mixed with diced cucumber, dill, lemon juice, and garlic. This one is mixed by hand in a large stainless cambro rather than the food processor, since over-processing turns it into soup.
 
@@ -138,7 +148,7 @@ The key is the base station. That first person on the line sets the tempo for th
 
 ## What Happens If a Cava Store Consistently Misses Its Portion Targets?
 
-The store's food cost percentage gets flagged in the weekly P&L review. If the variance exceeds 1.5% above target for two consecutive weeks, the district manager schedules an in-store audit. During the audit, every line worker gets re-trained on portion specs using weighted practice bowls, and the manager runs side-by-side coaching during the next three lunch rushes. Persistent issues can result in staffing changes at the line positions.
+The store's food cost percentage gets flagged in the weekly P&L review, a practice widely covered by [QSR Magazine](https://www.qsrmagazine.com/) as the industry standard for fast-casual margins. If the variance exceeds 1.5% above target for two consecutive weeks, the district manager schedules an in-store audit. During the audit, every line worker gets re-trained on portion specs using weighted practice bowls, and the manager runs side-by-side coaching during the next three lunch rushes. Persistent issues can result in staffing changes at the line positions.
 
 ## Why Does Cava Make Dips From Scratch Instead of Using Pre-Made?
 

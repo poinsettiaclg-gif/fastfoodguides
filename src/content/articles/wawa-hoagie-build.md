@@ -3,18 +3,14 @@ title: "Wawa Hoagie Build: The Touchscreen Assembly Line"
 description: "Wawa hoagies are ordered via touchscreen and built to a specific sequence. Here's how the assembly line works and what separates a great Wawa hoagie."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wawa"
 topic: "Sandwiches"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "What is the process for wawa hoagie build: touchscreen assembly line?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the touchscreen kiosk: where every hoagie starts to ensure efficiency and quality at Wawa."
-  - question: "Why is behind the deli counter: how the build actually happens important at Wawa?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wawa locations."
+
 ---
 
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)

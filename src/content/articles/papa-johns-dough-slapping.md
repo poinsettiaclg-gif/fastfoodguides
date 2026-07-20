@@ -3,18 +3,14 @@ title: "What is the Papa John's \"Dough Slapping\" Technique?"
 description: "Learn the secrets of the Papa John's Dough Slap technique. How pizza makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire makes."
 pubDate: "2026-04-14"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Papa John's"
 topic: "Pizza"
 relatedArticles:
   - "papa-johns-dough-spinner"
   - "dominos-oven-tender-role"
   - "little-caesars-sheetout-machine"
-faq:
-  - question: "What is the process for what is papa john's ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the dough management process to ensure efficiency and quality at Papa John's."
-  - question: "Why is the edge stretch and the slap important at Papa John's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Papa John's locations."
+
 ---
 
 

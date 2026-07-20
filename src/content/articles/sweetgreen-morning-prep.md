@@ -3,7 +3,7 @@ title: "Sweetgreen Morning Prep: What Happens Before Open"
 description: "Sweetgreen's morning prep crew chops, roasts, and portions every ingredient before the store opens. Here's the full prep schedule from open to close."
 pubDate: "2026-06-25"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Sweetgreen"
 topic: "Salads"
 heroImage: "../../assets/images/sweetgreen/morning-prep.webp"
@@ -11,13 +11,7 @@ relatedArticles:
   - "sweetgreen-mixing-station"
   - "cava-assembly-line"
   - "chipotle-guacamole"
-faq:
-  - question: "Do they really chop all the vegetables by hand every morning?"
-    answer: "No, while some delicate items are hand-prepped, the bulk of the heavy dicing (like cabbage and carrots) is pushed through massive commercial Robot Coupe food processors with specialized dicing grids to ensure uniform cuts and save hundreds of labor hours."
-  - question: "What time does the prep shift start?"
-    answer: "The primary prep shift typically starts at 6:00 AM or 7:00 AM to ensure the entire line is fully stocked, temperature-checked, and ready to serve by the time the store opens for the 10:30 AM lunch rush."
-  - question: "How do they handle local produce variations?"
-    answer: "Sweetgreen's supply chain relies heavily on local farms, meaning prep teams often have to adjust to inconsistencies in produce size, water content, or dirt levels compared to standardized national purveyors, requiring much more rigorous washing and sorting."
+
 ---
 
 # The Sweetgreen Morning Prep Shift: How They Process 500 Lbs of Veggies

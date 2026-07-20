@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Wendy's Kitchen Operations: Fresh Beef and the Cla
 description: "A comprehensive breakdown of Wendy's fast-food operations, from their fresh-never-frozen logistics to the science of the 4-corner press on the clamshell grill."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wendy's"
 topic: "Operations Overview"
 heroImage: "../../assets/images/wendys-clamshell-grill/wendys-clamshell-grill-closing.webp"

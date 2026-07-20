@@ -3,18 +3,13 @@ title: "How Does the Pizza Hut Dispatch System Work?"
 description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating the FIFO queue, and maximizing your tips per shift."
 pubDate: "2026-04-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Pizza Hut"
 topic: "Pizza"
 relatedArticles:
   - "pizza-delivery-driver-accident"
   - "dominos-gas"
-  - "dominos-20-bank-rule"
-faq:
-  - question: "What is the process for how does pizza hut dispatch system work??"
-    answer: "As detailed in our guide, the process involves specific operational steps like the drag-and-drop system to ensure efficiency and quality at Pizza Hut."
-  - question: "Why is doubles, triples, and the routing algorithm important at Pizza Hut?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Pizza Hut locations."
+
 ---
 
 

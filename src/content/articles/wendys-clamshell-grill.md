@@ -3,18 +3,14 @@ title: "What is the Wendy's Double-Sided \"Clamshell\" Grill?"
 description: "Former kitchen manager breaks down the Wendy's clamshell grill, from Auto-Gap technology to cook times, cleaning procedures, and what happens when it breaks."
 pubDate: "2026-05-13"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wendy's"
 topic: "Burgers"
 relatedArticles:
   - "wendys-4-corner-press"
   - "wendys-chili-leftover-hamburgers"
   - "wendys-closing-duties"
-faq:
-  - question: "What is the process for what is wendy's double-sided ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like how the clamshell actually works to ensure efficiency and quality at Wendy's."
-  - question: "Why is the speed advantage that changes everything important at Wendy's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
+
 ---
 
 

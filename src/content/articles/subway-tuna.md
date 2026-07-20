@@ -3,18 +3,12 @@ title: "Subway Tuna: How It's Actually Made In-Store"
 description: "Subway tuna arrives in sealed pouches and is mixed with mayo in-store daily. Here's exactly how the prep process works and what controls the ratio."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Subway"
 topic: "Sandwiches"
 relatedArticles:
   - "subway-bain-fill-line-rule"
-  - "subway-wrap-folding"
-  - "subway-bread-baking-process"
-faq:
-  - question: "What is the process for subway tuna: how it's actually made in-store?"
-    answer: "As detailed in our guide, the process involves specific operational steps like two ingredients. that's it. to ensure efficiency and quality at Subway."
-  - question: "Why is how subway prepares the tuna important at Subway?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
+
 ---
 
 ## Two Ingredients. That's It.

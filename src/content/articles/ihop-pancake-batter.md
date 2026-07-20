@@ -3,18 +3,14 @@ title: "IHOP Pancake Batter: What's Actually In It"
 description: "IHOP uses a proprietary batter mix that arrives in powdered form. Here is how the batter is prepped each morning and what gives their pancakes the flavor."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "IHOP"
 topic: "Breakfast & Coffee"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "What is the process for ihop pancake batter: what's actually in it?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the batter: proprietary dry mix, not scratch to ensure efficiency and quality at IHOP."
-  - question: "Why is mixing the batter: the bucket, the whisk, and the ribbon test important at IHOP?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all IHOP locations."
+
 ---
 
 7.  Does IHOP Actually Make Their Pancake Batter From Scratch?

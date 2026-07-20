@@ -3,17 +3,10 @@ title: "Long John Silver's Fryers: The Mechanics of Perfect Batter"
 description: "How Long John Silver's utilizes specialized deep fryers and a unique drop technique to achieve their signature crispy, flaky fish batter."
 pubDate: "2026-06-24"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Long John Silver's"
 topic: "Seafood"
 heroImage: "../../assets/images/long-john-silvers/fryer.webp"
-faq:
-  - question: "How Often Should Long John Silver's Fryer Oil Be Changed?"
-    answer: "Under normal operating conditions, a full oil change happens every 3–5 days per vat. However, this varies based on volume. A store running 400+ pieces of fish per day might need to change oil every 2–3 days, while a slower store could stretch to 5–6 days with diligent daily filtration. The key metric is a Total Polar Materials (TPM) test—if the oil's TPM reading exceeds 24%, it's time for a full change regardless of the calendar. Most stores use a Testo 270 cooking oil tester to check TPM levels daily."
-  - question: "Why Are Hush Puppies Fried Separately From Fish?"
-    answer: "Two reasons. First, the batters are chemically different—the cornmeal in hush puppy batter sheds a different type of debris into the oil than the wheat-based fish batter, and mixing them accelerates oil degradation. Second, flavor transfer. Hush puppies fried in fish oil pick up a fishy undertone that customers notice, and fish fried in cornmeal-contaminated oil gets a gritty texture on the batter surface. Keeping them separated preserves the clean flavor profile of both products."
-  - question: "What Makes Lent Season So Difficult for Long John Silver's Employees?"
-    answer: "It's the combination of volume, speed, and physical intensity. A fry cook during Lent is standing in front of 350°F oil for 8+ hours, manually swim-dropping and flipping hundreds of pieces of fish, while simultaneously managing timers across 3–4 vats, skimming crumplies, and calling out product to the expeditor. The heat is oppressive, the pace is relentless, and the margin for error is zero—every burnt fillet or rubbery shrimp is a customer complaint during the busiest week of the year. Most veteran fry cooks consider surviving their first Lent season a rite of passage, similar to how [Raising Cane's bird specialists](/articles/raising-canes-bird-specialist/) describe their first football Saturday rush."
 ---
 
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.

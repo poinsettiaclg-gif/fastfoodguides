@@ -3,18 +3,13 @@ title: "What is the In-N-Out \"Board\" Station and Why is it so Hard?"
 description: "The In-N-Out Board station is the hardest job in the building. Learn the setup, wrapping technique, certification test, and what rush hour really feels like."
 pubDate: "2026-03-22"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "In-N-Out Burger"
 topic: "Burgers"
 relatedArticles:
   - "in-n-out-level-system"
   - "in-n-out-secret-menu"
-  - "chipotle-massive-burrito-rolling"
-faq:
-  - question: "What is the process for what is in-n-out ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the board setup and station layout to ensure efficiency and quality at In-N-Out Burger."
-  - question: "Why is the wrapping speed that separates good from great important at In-N-Out Burger?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all In-N-Out Burger locations."
+
 ---
 
 

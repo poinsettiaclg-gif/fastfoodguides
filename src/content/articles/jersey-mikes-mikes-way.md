@@ -3,18 +3,13 @@ title: "What is \"Mike's Way\" at Jersey Mike's (And the Exact Sequence)"
 description: "Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's, why the order matters, plus meat slicer safety and sandwich line rhythm tips."
 pubDate: "2026-03-28"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Jersey Mike's"
 topic: "Sandwiches"
 relatedArticles:
   - "jersey-mikes-hot-sub-grill"
   - "subway-bread-baking-process"
-  - "arbys-meat-slicer"
-faq:
-  - question: "What is the process for what is ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the exact mike's way sequence: o-l-t-j-s to ensure efficiency and quality at Jersey Mike's."
-  - question: "Why is why the sequence is engineered, not arbitrary important at Jersey Mike's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Jersey Mike's locations."
+
 ---
 
 

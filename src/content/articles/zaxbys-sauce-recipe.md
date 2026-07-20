@@ -3,18 +3,14 @@ title: "Zaxby's Sauce: What's Actually In Zax Sauce"
 description: "Zax Sauce is a proprietary blend that Zaxby's guards closely. Here's what the sauce contains, how it's portioned, and why getting the ratio right matters."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Zaxby's"
 topic: "Chicken"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
   - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "What is the process for zaxby's sauce: what's actually in zax sauce?"
-    answer: "As detailed in our guide, the process involves specific operational steps like what’s actually in zax sauce to ensure efficiency and quality at Zaxby's."
-  - question: "Why is the ratio problem important at Zaxby's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Zaxby's locations."
+
 ---
 
 7.  What is Zax Sauce? (And Why Employees Guard the Recipe)

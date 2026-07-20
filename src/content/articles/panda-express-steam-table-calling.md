@@ -3,24 +3,18 @@ title: "Panda Express Steam Table: How 'Calling Food' Works"
 description: "Panda Express doesn't use digital screens for their wok chefs. Front-of-house staff call batch sizes verbally to keep the steam table stocked."
 pubDate: "2026-07-01"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Panda Express"
 topic: "Operations"
 relatedArticles:
   - "panda-express-wok-chef"
   - "panda-express-leftover-food"
-faq:
-  - question: "What is the process for panda express steam table: how 'calling food' works?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the problem with the kds to ensure efficiency and quality at Panda Express."
-  - question: "Why is the role of the caller important at Panda Express?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Panda Express locations."
+
 ---
 
-When you walk into a modern fast food restaurant, the kitchen usually runs on a Kitchen Display System (KDS). A customer places an order at the register, a digital ticket pops up on a screen above the grill, and the cooks quietly assemble the meal. It is a highly digitized, tracked, and silent operation. 
+"Waiting on Batch One Orange Chicken!" The shout cuts through the roar of exhaust hoods and sizzling woks, demanding an immediate response from the kitchen. While most modern fast food restaurants rely on silent, highly digitized Kitchen Display Systems (KDS) to track orders, Panda Express rejects this entirely for its hot food prep.
 
-Panda Express rejects this entirely for its hot food prep. 
-
-If you stand in line at Panda Express during a lunch rush, you will hear a constant stream of yelling. The front-of-house workers (the people serving your food) are shouting things like, "Half pan Orange!" or "Batch two Beijing Beef!" while the wok chefs shout back to acknowledge the order. 
+Stand in line at Panda Express during a lunch rush, and you won't hear the gentle beep of order screens—you'll hear a constant stream of yelling. The front-of-house workers (the people serving your food) are shouting things like, "Half pan Orange!" or "Batch two Beijing Beef!" while the wok chefs shout back to acknowledge the order. 
 
 This verbal loop is called "calling food," and it is the single most important operational system in a Panda Express kitchen. Without it, the steam table runs empty, ticket times collapse, and the entire store grinds to a halt. This is the actual sequence:
 
@@ -30,7 +24,7 @@ This verbal loop is called "calling food," and it is the single most important o
 
 Why doesn't Panda Express just use digital screens? The answer lies in their service model. Unlike a burger joint where every item is cooked to order, Panda Express relies on a steam table model. Food is cooked in bulk batches and held in heated pans on the serving line. 
 
-A digital screen only tells the kitchen what the customer just bought; it doesn't tell the kitchen how much food is actually left in the pan on the line. If a customer orders a massive catering plate of Orange Chicken, the pan might instantly empty. If three customers in a row order Kung Pao Chicken, that pan might need a refill immediately, even if the daily sales projections didn't anticipate it.
+As [QSR Magazine](https://www.qsrmagazine.com/) often notes about high-volume buffet formats, a digital screen only tells the kitchen what the customer just bought; it doesn't tell the kitchen how much food is actually left in the pan on the line. If a customer orders a massive catering plate of Orange Chicken, the pan might instantly empty. If three customers in a row order Kung Pao Chicken, that pan might need a refill immediately, even if the daily sales projections didn't anticipate it.
 
 The only way to know when to cook more food is to have a human being physically look at the steam table, judge the remaining volume, and verbally command the [wok chef](/articles/panda-express-wok-chef/) to start cooking.
 
@@ -73,4 +67,4 @@ While the callers dictate when to cook the food, Panda Express does use strict t
 No, but they can negotiate priority. If a caller asks for Kung Pao Chicken and Beijing Beef at the exact same time, a busy wok chef will shout back a priority order, telling the caller which dish will hit the table first so the front-of-house can manage customer expectations.
 
 ### Why do they sometimes mix old food with new food?
-During busy rushes, a fresh batch of food is sometimes poured directly on top of the small amount of remaining food in the pan. This is standard practice to keep the line moving, but strict food safety rules mandate that pans must be fully swapped and cleaned out on a regular schedule to prevent the bottom layer from burning or expiring.
+During busy rushes, a fresh batch of food is sometimes poured directly on top of the small amount of remaining food in the pan. This is standard practice to keep the line moving, but strict food safety rules (aligned with [FDA food code](https://www.fda.gov/food)) mandate that pans must be fully swapped and cleaned out on a regular schedule to prevent the bottom layer from burning or expiring.

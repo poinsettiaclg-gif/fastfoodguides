@@ -3,19 +3,13 @@ title: "Bojangles Biscuit Process: Made From Scratch"
 description: "Bojangles bakes biscuits from scratch every 20 minutes. Here is what the prep cook does at 4 AM before the store ever opens."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Bojangles"
 topic: "Chicken"
 relatedArticles:
   - "hardees-biscuit-maker-shift"
   - "chick-fil-a-breading-process"
-faq:
-  - question: "Are Bojangles Biscuits Made From Scratch?"
-    answer: "Yes, 100%. Every Bojangles biscuit is made from scratch in the store, every single day. The Biscuit Maker combines proprietary self-rising flour, shortening, and ice-cold buttermilk by hand, rolls and cuts the dough with a biscuit cutter, and bakes them in-store. There are no frozen biscuit pucks, no par-baked dough shipped from a factory. This is one of the primary reasons Bojangles biscuits taste so different from competitors — and it's also why the Biscuit Maker position is so demanding. The process requires a trained person on-site before dawn, producing continuous batches throughout the entire morning."
-  - question: "How Long Are Bojangles Biscuits Good For?"
-    answer: "Officially, Bojangles enforces a **20-minute freshness window**. Once a biscuit comes out of the oven, it should be served within 20 minutes or pulled from the line. After that threshold, the exterior loses its signature crispness and the interior begins to shift from light and fluffy to dense and starchy. During a busy morning rush, this is rarely an issue because biscuits sell as fast as they're made. During slower periods, the Biscuit Maker adjusts batch sizes to reduce waste while keeping fresh product available. If you want the absolute best Bojangles biscuit, go during the peak of the breakfast rush — you'll almost certainly get one straight out of the oven."
-  - question: "What Flour Does Bojangles Use?"
-    answer: "Bojangles uses a **proprietary self-rising flour blend** that is distributed through their own supply chain. It is not standard all-purpose flour. The blend is built on **soft winter wheat**, which has a significantly lower protein content (around 7–9%) compared to all-purpose flour (10–12%). This lower protein means less gluten forms when the dough is mixed, resulting in a more tender, delicate crumb. The flour comes pre-blended with leavening agents (baking powder and baking soda) and salt already incorporated at precise ratios, so the Biscuit Maker only needs to add shortening and cold buttermilk. This consistency across the supply chain is how Bojangles maintains a uniform product across hundreds of locations while still making every biscuit from scratch."
+
 ---
 
 ## The Hardest Job in the Kitchen

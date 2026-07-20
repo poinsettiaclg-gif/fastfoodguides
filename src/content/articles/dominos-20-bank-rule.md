@@ -3,18 +3,12 @@ title: "What is the Domino's \"$20 Bank Rule\" for Delivery Drivers?"
 description: "Learn about the strict $20 Bank Rule every Domino's driver must follow, how the Cash Drop system works, and why violating it can get you terminated."
 pubDate: "2026-03-13"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Pizza"
 relatedArticles:
   - "dominos-gas"
-  - "dominos-oven-tender-role"
-  - "pizza-delivery-driver-accident"
-faq:
-  - question: "What is the process for what is domino's ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like how the $20 bank works to ensure efficiency and quality at Domino's."
-  - question: "Why is the cash drop system important at Domino's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
+
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Domino's Pizza Operations: Dough Stretching and Pu
 description: "An operational breakdown of Domino's Pizza, exploring their proprietary Pulse system, dough stretching techniques, and the brutal Oven Tender position."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Operations Overview"
 heroImage: "../../assets/images/dominos-oven-tender-role/dominos-oven-tender-conveyor-belt-schematic.webp"

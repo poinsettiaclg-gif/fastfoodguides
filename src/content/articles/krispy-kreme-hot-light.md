@@ -3,16 +3,13 @@ title: "Krispy Kreme Hot Light: What It Actually Means"
 description: "The Krispy Kreme Hot Light signals fresh glazed donuts coming off the line. Here's how the production schedule works and what triggers the light."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Krispy Kreme"
 topic: "Breakfast & Coffee"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "When Is the Hot Light Most Likely On?"
-    answer: "If you want to time your visit to catch the Hot Light, here’s what I’ve gathered from Krispy Kreme employees and managers over the years:"
+
 ---
 
 7.  What Does the Krispy Kreme Hot Light Actually Mean?

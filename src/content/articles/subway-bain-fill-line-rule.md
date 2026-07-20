@@ -3,23 +3,18 @@ title: "What is the Subway \"Bain\" (And Why Can't You Overfill It?)"
 description: "Learn how the Subway Bain-Marie keeps food cold with forced air, why overfilling pans is a health code violation, and the backup pan system."
 pubDate: "2026-04-30"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Subway"
 topic: "Sandwiches"
 relatedArticles:
   - "subway-bread-baking-process"
   - "subway-wrap-folding"
-  - "subway-pos-out-of-order"
-faq:
-  - question: "What is the process for what is subway ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like how the bain-marie actually cools food to ensure efficiency and quality at Subway."
-  - question: "Why is the fill line rule: why overfilling is dangerous important at Subway?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Subway locations."
+
 ---
 
 
 
-When you walk into a Subway and look down at that colorful spread of meats, cheeses, and vegetables, you're staring at a piece of equipment that has a specific name in the restaurant industry: the Bain-Marie, or just "the Bain" for short. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections, and the violation is almost always because someone tried to save time by piling food too high. This is how the process actually runs: 
+Subway's bain is the most important piece of equipment in the store, and it is entirely unforgiving of lazy prep work. You know it as the colorful spread of meats, cheeses, and vegetables behind the glass, but in the restaurant industry, it's called a Bain-Marie. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that new hires violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections because someone tried to save time by piling food too high. This is how the process actually runs: 
 
 ## How the Bain-Marie Actually Cools Food
 
@@ -31,7 +26,7 @@ Unlike a standard refrigerator that surrounds food with cold walls and a sealed 
 
 The Bain uses a forced-air refrigeration system that constantly blows a blanket of freezing cold air horizontally across the top of the metal ingredient pans. Carefully positioned vents along the back edge of the Bain push refrigerated air forward, across the surface of every pan, and a return vent at the front draws the air back in to be recooled. This creates a continuous loop of cold air flowing over the food. 
 
-The target temperature at the food surface is 41°F (5°C) or below. The unit itself typically blows air at an even lower temperature—around 34°F to 36°F—to compensate for the fact that an open-air system is inherently less efficient than a sealed refrigerator. Heat from the restaurant, customers leaning over the glass, and the constant opening and closing of pans all work against the system. It's an engineering compromise that works well—but only if you follow the rules.
+Per [FDA Food Code guidelines](https://www.fda.gov/food/fda-food-code/food-code-2022), the target temperature at the food surface is 41°F (5°C) or below. The unit itself typically blows air at an even lower temperature—around 34°F to 36°F—to compensate for the fact that an open-air system is inherently less efficient than a sealed refrigerator. Heat from the restaurant, customers leaning over the glass, and the constant opening and closing of pans all work against the system. It's an engineering compromise that works well—but only if you follow the rules.
 
 ## The Fill Line Rule: Why Overfilling Is Dangerous
 

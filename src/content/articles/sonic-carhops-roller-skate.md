@@ -3,23 +3,21 @@ title: "Sonic Carhops on Roller Skates: How It Works"
 description: "Not every Sonic carhop skates, but the ones who do follow a specific training program. Here's how the skating program is structured at the drive-in."
 pubDate: "2026-04-22"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Sonic Drive-In"
 topic: "Other Chains"
 relatedArticles:
   - "sonic-switchboard-how-it-works"
   - "dairy-queen-perfect-cone-curl"
   - "in-n-out-level-system"
-faq:
-  - question: "Is Skating Actually Required?"
-    answer: "The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. "
+
 ---
 
 
 
-When you think of Sonic Drive-In, you picture it immediately: a teenager on roller skates gliding across the parking lot carrying a tray of Route 44 cherry limeades without spilling a drop. It's one of the most iconic images in all of fast food — pure Americana on eight wheels. 
+A typical Sonic Drive-In location handles hundreds of cars a day, but surprisingly, less than 20% of their carhops nationwide actually wear roller skates. While the teenager gliding across the parking lot with a tray of Route 44 cherry limeades is one of the most iconic images in fast food, it's becoming increasingly rare. 
 
-But if you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. 
+If you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. 
 
 ## Is Skating Actually Required?
 
@@ -67,7 +65,7 @@ One thing that absolutely blindsides new Sonic carhops is how much weather affec
 
 In the summer, asphalt parking lots become scorching heat islands. Skating on a surface that's radiating 140°F of stored heat for an entire shift is exhausting in a way that indoor fast-food workers never experience. Staying hydrated becomes a genuine survival concern, not just a wellness poster on the break room wall.
 
-In the winter, ice and wet pavement make skating genuinely dangerous. Most managers will suspend skating during icy conditions and require all carhops to walk — because a carhop wiping out on black ice with a tray of hot food is a workers' comp claim and a lawsuit waiting to happen. Rain creates slippery surfaces and the added challenge of keeping food dry during the trip from kitchen to car. Some carhops keep a towel tucked into their apron to wipe down trays before presenting them.
+In the winter, ice and wet pavement make skating genuinely dangerous. Industry safety standards documented by publications like [Nation's Restaurant News](https://www.nrn.com/) emphasize that outdoor service models must adjust to extreme weather. Most managers will suspend skating during icy conditions and require all carhops to walk — because a carhop wiping out on black ice with a tray of hot food is a workers' comp claim and a lawsuit waiting to happen. Rain creates slippery surfaces and the added challenge of keeping food dry during the trip from kitchen to car. Some carhops keep a towel tucked into their apron to wipe down trays before presenting them.
 
 Every Sonic parking lot has its problem spots — cracks, dips, rough patches, drain grates. After a few shifts, you'll know exactly where every hazard is. If you skate, memorize the smooth path from the building to each stall and avoid catching a wheel on a crack that sends you and four Route 44s into the pavement.
 

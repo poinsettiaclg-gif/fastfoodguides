@@ -3,18 +3,13 @@ title: "What is the Five Guys \"Fry Calibration\" Every Morning?"
 description: "A QSR veteran explains the daily Five Guys fry calibration process—the Mush Test, two-stage cooking, starch washing, and why potatoes change every week."
 pubDate: "2026-03-19"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Five Guys"
 topic: "Burgers"
 relatedArticles:
   - "five-guys-no-freezers"
   - "in-n-out-board-station"
-  - "wendys-clamshell-grill"
-faq:
-  - question: "What is the process for what is five guys ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the morning potato prep: it all starts with a knife and cold water to ensure efficiency and quality at Five Guys."
-  - question: "Why is the two-stage cook: why five guys fries are different from every other chain important at Five Guys?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Five Guys locations."
+
 ---
 
 

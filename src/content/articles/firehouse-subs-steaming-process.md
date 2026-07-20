@@ -3,16 +3,13 @@ title: "Firehouse Subs Steaming: How Every Sub Gets Made"
 description: "Firehouse Subs steams their meats and cheeses before building the sandwich. Here's the exact process and why the steam makes a measurable difference."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Firehouse Subs"
 topic: "Sandwiches"
 relatedArticles:
   - "mcdonalds-fry-station"
   - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-faq:
-  - question: "Have You Noticed the Steam Difference?"
-    answer: "If you’re a Firehouse regular, you already know what that steamer produces — the glossy, draped cheese melt, the tender meats, the soft bread that doesn’t fight you. But I’m curious whether you consciously noticed the difference the first time, or whether it just registered as “this sub is better” without you being able to pinpoint why."
+
 ---
 
 7.  Why Does Firehouse Subs Steam Their Sandwiches? (The Hot Sub Difference)

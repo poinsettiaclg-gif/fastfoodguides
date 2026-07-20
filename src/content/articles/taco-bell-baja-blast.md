@@ -3,16 +3,14 @@ title: "Taco Bell Baja Blast: The PepsiCo Partnership"
 description: "Baja Blast is a Mountain Dew flavor made exclusively for Taco Bell. Here's the history of the partnership and why it stays off shelves at other chains."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Taco Bell"
 topic: "Mexican"
 relatedArticles:
   - "taco-bell-menu"
   - "taco-bell-linebacker-role"
   - "taco-bell-rehydrate-beans"
-faq:
-  - question: "Why Not Just Sell It Everywhere?"
-    answer: "The most common customer question — “why don’t they just sell it in stores all the time?” — has a simple business answer: exclusivity is more valuable than ubiquity."
+
 ---
 
 7.  Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)

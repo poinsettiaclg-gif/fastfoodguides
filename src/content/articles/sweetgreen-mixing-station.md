@@ -3,17 +3,10 @@ title: "Sweetgreen Mixing Station: Portion Control at Scale"
 description: "Sweetgreen mixes every salad to order using a precise portion and toss technique. Here's how the mixing station is structured to handle a lunch rush."
 pubDate: "2026-06-24"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Sweetgreen"
 topic: "Salads"
 heroImage: "../../assets/images/sweetgreen/mixing-station.webp"
-faq:
-  - question: "How Does Sweetgreen Handle a Dishwasher Breakdown During Peak?"
-    answer: "The shift lead immediately activates the three-compartment sink backup protocol and pulls a team member from a lower-priority position (usually the digital order line) to run manual dish duty. The mixing station switches to a slightly slower pace—about 100 bowls per hour instead of 150—to match the reduced bowl supply. If the breakdown is expected to last more than 30 minutes, the manager calls the on-call repair technician and may temporarily disable online ordering to reduce incoming volume. It's a controlled slowdown, not a shutdown."
-  - question: "Why Does Sweetgreen Use Metal Mixing Bowls Instead of Disposable Ones?"
-    answer: "Three reasons: sustainability, quality, and cost. Sweetgreen's brand is built on environmental responsibility, so using a disposable bowl for every single mix would generate hundreds of pounds of waste per store per day. Metal bowls also produce a better toss—the rigid walls create the vortex effect that disposable bowls can't replicate because they flex and deform. And from a pure cost standpoint, a $12 stainless steel bowl that lasts 2–3 years is dramatically cheaper per use than a $0.15 disposable bowl used 150 times per day. The math works out to roughly $8,000/year in savings per store."
-  - question: "What's the Most Common Mistake New Mixing Station Workers Make?"
-    answer: "Over-tossing. Almost every new hire tosses too aggressively and for too many rotations, which bruises the greens and turns them into a soggy, dark mess. The second most common mistake is failing to lift from the bottom of the bowl—if you only toss the top layer, the heavy grains and proteins sink and the customer ends up with all their chicken at the bottom and a pile of undressed kale on top. Managers watch for both of these during training shifts and will pull a new hire off the station immediately if they can't correct the technique within the first hour. It's better to slow down the line with a station swap than to send out 30 badly mixed bowls in a row."
 ---
 
 At Sweetgreen, the ingredients might be high-quality and locally sourced, but the true magic happens at the very end of the line: the mixing station. It's the loudest, messiest, and most physically demanding position in the restaurant.

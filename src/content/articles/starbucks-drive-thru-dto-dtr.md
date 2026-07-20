@@ -3,18 +3,14 @@ title: "Starbucks Drive-Thru: The DTO and DTR Roles Explained"
 description: "An inside look at the Starbucks drive-thru ecosystem. How the DTO (Drive-Thru Order) and DTR (Drive-Thru Register) roles orchestrate peak morning volume."
 pubDate: "2026-07-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Starbucks"
 topic: "Beverages"
 heroImage: "../../assets/images/starbucks-drive-thru-dto-dtr/dtr.png"
 relatedArticles:
   - starbucks-morning-rush
   - starbucks-customer-support-cycle
-faq:
-  - question: "What does DTO mean at Starbucks?"
-    answer: "DTO stands for Drive-Thru Order. This barista wears a headset, takes your order at the speaker box, and punches it into the POS system."
-  - question: "What does DTR mean at Starbucks?"
-    answer: "DTR stands for Drive-Thru Register. This barista operates the window, handles payments, and hands out the drinks and food."
+
 ---
 
 The morning rush at a high-volume Starbucks drive-thru is a masterclass in synchronized chaos. When 60 cars an hour are wrapping around the building, the success or failure of the shift rests entirely on the shoulders of two specific positions: **DTO (Drive-Thru Order)** and **DTR (Drive-Thru Register)**.

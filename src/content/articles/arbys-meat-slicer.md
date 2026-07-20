@@ -3,18 +3,12 @@ title: "How Does the Arby's Slicer Work (And Is the Meat Real)?"
 description: "Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and real technique behind Arby's commercial deli slicer station."
 pubDate: "2026-03-01"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Arby's"
 topic: "Other Chains"
 relatedArticles:
   - "five-guys-no-freezers"
-  - "jersey-mikes-hot-sub-grill"
-  - "kfc-original-vs-extra-crispy"
-faq:
-  - question: "What is the process for how does arby's slicer work (and is meat real)??"
-    answer: "As detailed in our guide, the process involves specific operational steps like the truth about the meat to ensure efficiency and quality at Arby's."
-  - question: "Why is the deli slicer station important at Arby's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Arby's locations."
+
 ---
 
 

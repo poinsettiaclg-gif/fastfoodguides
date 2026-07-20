@@ -3,18 +3,14 @@ title: "In-N-Out Double-Double Assembly: The Anatomy of the Board Station"
 description: "A granular look at the In-N-Out Board Station, detailing the exact build order, the Thousand Island spread technique, and the spatial logistics of the Double-Double."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "In-N-Out"
 topic: "Burgers"
 heroImage: "../../assets/images/in-n-out-double-double/board-station.png"
 relatedArticles:
   - in-n-out-board-station
   - in-n-out-animal-style-fries
-faq:
-  - question: "What is exactly in In-N-Out spread?"
-    answer: "In-N-Out spread is a heavily guarded corporate variation of Thousand Island dressing. The primary base consists of mayonnaise, ketchup, and sweet pickle relish, though the exact ratios and spices are proprietary."
-  - question: "Why is the In-N-Out Board station so difficult?"
-    answer: "The Board worker is responsible for dressing all buns, assembling the final burgers, and wrapping them. They must match the speed of the grill cook perfectly; if the board falls behind, the meat burns on the grill."
+
 ---
 
 [The In-N-Out](/articles/in-n-out-board-station) kitchen operates on a strict hierarchy. The fry cook handles the fryers, the grill cook manages the flat-top, and the Board worker stands between them, responsible for the final assembly of every burger.

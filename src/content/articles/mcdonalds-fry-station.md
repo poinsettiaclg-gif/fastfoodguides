@@ -3,26 +3,18 @@ title: "McDonald's Fry Station: Inside the Operation"
 description: "McDonald's fry station runs on a precise basket rotation and timer system. Here's how fry cooks manage oil quality and output during peak hours."
 pubDate: "2026-06-09"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "McDonald's"
 topic: "Burgers"
 relatedArticles:
   - "mcdonalds-nugget-process"
-  - "mcdonalds-ice-cream-machine"
-  - "mcdonalds-abs-system"
-faq:
-  - question: "What is the process for mcdonald's fry station: inside operation?"
-    answer: "As detailed in our guide, the process involves specific operational steps like what happens before the fries reach the restaurant to ensure efficiency and quality at McDonald's."
-  - question: "Why is the in-store fry station important at McDonald's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all McDonald's locations."
+
 ---
 
 7.  How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
 
-McDonald’s french fries might be the most studied, most debated, and most craved fast food item on the planet. People have strong opinions about them — they’re either the best fries in the industry or a disappointment, and the difference usually comes down to whether they were served within three minutes of coming out of the fryer or whether they’d been sitting in the holding bin for twelve. 
-
-I’ve worked fry station at McDonald’s, and From firsthand experience, the process is simultaneously simpler and more precise than most people expect. There’s no secret chef technique. There’s no magic seasoning blend applied in the back. What there is, however, is a factory process that does most of the heavy lifting before the fries ever reach the restaurant, and an in-store procedure that’s engineered down to the second. 
+A single McDonald's location goes through hundreds of pounds of frozen fries per day, dropping baskets into 350-degree vats in a non-stop rhythm that dictates the entire flow of a lunch rush. If the fry station backs up, the drive-thru stops. It's the most high-pressure position in the store. There's no chef technique involved—just a brutally efficient factory process paired with an in-store procedure that's engineered down to the second. 
 
 Here’s the full picture — from potato field to the cardboard sleeve in your bag.
 
@@ -34,7 +26,7 @@ Most people assume McDonald’s fries are just frozen potato strips that get dro
 
 
 
-The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. The potatoes are sourced from farms across the Pacific Northwest, the Midwest, and parts of Canada.
+The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. As detailed on [McDonald's corporate supply chain page](https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/food-quality-and-sourcing.html), the potatoes are sourced from carefully vetted farms across the Pacific Northwest, the Midwest, and parts of Canada.
 
 Here’s the factory process in order:
 

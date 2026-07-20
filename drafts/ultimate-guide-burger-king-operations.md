@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Burger King Operations: The Broiler and The Expedi
 description: "A deep dive into Burger King's kitchen operations, focusing on the mechanics of their automated flame broiler and the critical role of the Expeditor."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Burger King"
 topic: "Operations Overview"
 heroImage: "../../assets/images/burger-king-broiler/burger-king-broiler-feed-mechanism.webp"

@@ -3,18 +3,14 @@ title: "Domino's Pizza: How the Digital Makeline and Delivery Routing Works"
 description: "An inside look at the Domino's digital makeline screens, how they measure pizza assembly speed, and how the driver routing system tracks deliveries."
 pubDate: "2026-07-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Pizza"
 heroImage: "../../assets/images/dominos-makeline-routing/makeline.png"
 relatedArticles:
   - dominos-oven-tender-role
   - dominos-super-bowl-pulse-system
-faq:
-  - question: "How does the Domino's Tracker actually work?"
-    answer: "The Domino's Tracker is not a GPS tracking your pizza in the oven. It is triggered by employees pressing buttons on digital screens at specific stations (Makeline, Cut Table, and Dispatch) as the pizza moves through the kitchen."
-  - question: "How fast are Domino's employees supposed to make a pizza?"
-    answer: "Domino's corporate benchmark (Load Time) dictates that a pizza should be stretched, sauced, topped, and loaded into the oven in under 3 minutes from the moment the order drops on the screen."
+
 ---
 
 Domino’s Pizza is widely considered to be a tech company that happens to sell pizza. Since introducing their proprietary PULSE operating system in the early 2000s, they have digitized and tracked every single second of a pizza's life—from the moment you click "Order" on the app to the moment the driver rings your doorbell.

@@ -1,20 +1,19 @@
 ---
+import { Image } from 'astro:assets';
+import safeMenuImg from '../assets/images/safe_menu_infographic.png';
 ---
 
 <div class="newsletter-cta">
-	<div class="newsletter-icon" aria-hidden="true">
-		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-			<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-			<polyline points="22,6 12,13 2,6"></polyline>
-		</svg>
+	<div class="newsletter-image-container">
+		<Image src={safeMenuImg} alt="The Fast Food Safe Menu Cheat Sheet" width={140} height={180} class="newsletter-preview-img" />
 	</div>
 	<div class="newsletter-content">
-		<h3>Get the Fast Food Insider Newsletter</h3>
-		<p>Once a week, I break down the operational secrets that the corporate training manuals leave out. No spam, just the gritty reality of the kitchen.</p>
-		<form id="newsletter-form" class="newsletter-form">
+		<h3>Download The Fast Food Safe Menu Cheat Sheet</h3>
+		<p>Get instant access to our exclusive, high-res PDF guide detailing exactly what to order (and what to avoid) to keep your meals safe, cheap, and fresh. No fluff, just the gritty reality of the kitchen. Enter your email below to download.</p>
+		<form id="newsletter-form" action="https://project-planner-seo-hq.poinsettia-clg.workers.dev/api/subscribe" method="POST" class="newsletter-form">
 			<label for="email-address" class="sr-only">Email address</label>
 			<input id="email-address" name="email" type="email" autocomplete="email" required placeholder="Enter your email" />
-			<button type="submit" id="newsletter-submit">Subscribe</button>
+			<button type="submit" id="newsletter-submit">Get the PDF</button>
 		</form>
 		<p id="newsletter-message" class="newsletter-message" style="display: none;"></p>
 	</div>
@@ -33,7 +32,7 @@
 			
 			// Loading state
 			submitBtn.disabled = true;
-			submitBtn.textContent = 'Subscribing...';
+			submitBtn.textContent = 'Sending...';
 			messageEl.style.display = 'none';
 			messageEl.className = 'newsletter-message';
 
@@ -46,22 +45,27 @@
 					body: JSON.stringify({ email }),
 				});
 
-				const data = await response.json();
+				let data;
+				try {
+					data = await response.json();
+				} catch (e) {
+					throw new Error('The server is currently unavailable. Please try again later.');
+				}
 
 				if (response.ok) {
 					form.style.display = 'none';
-					messageEl.textContent = data.message || 'Successfully subscribed!';
+					messageEl.innerHTML = '<strong>Success!</strong> The download link has been sent to your email.';
 					messageEl.classList.add('success');
 					messageEl.style.display = 'block';
 				} else {
-					throw new Error(data.error || 'Something went wrong. Please try again.');
+					throw new Error(data?.error || 'Something went wrong. Please try again.');
 				}
 			} catch (error: any) {
 				messageEl.textContent = error.message;
 				messageEl.classList.add('error');
 				messageEl.style.display = 'block';
 				submitBtn.disabled = false;
-				submitBtn.textContent = 'Subscribe';
+				submitBtn.textContent = 'Get the PDF';
 			}
 		});
 	}
@@ -72,38 +76,44 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1.5rem;
-		background-color: #1F2937;
-		border: 1px solid rgba(16, 185, 129, 0.2);
+		background: linear-gradient(145deg, #1F2937 0%, #111827 100%);
+		border: 1px solid rgba(16, 185, 129, 0.3);
 		border-radius: 0.75rem;
 		padding: 2rem;
 		margin: 3rem 0;
+		box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
 	}
 	@media (min-width: 640px) {
 		.newsletter-cta {
 			flex-direction: row;
-			align-items: flex-start;
+			align-items: center;
 		}
 	}
-	.newsletter-icon {
+	.newsletter-image-container {
 		display: flex;
-		align-items: center;
 		justify-content: center;
-		width: 3rem;
-		height: 3rem;
-		background-color: rgba(16, 185, 129, 0.1);
-		color: #10B981;
-		border-radius: 0.5rem;
 		flex-shrink: 0;
 	}
+	.newsletter-preview-img {
+		border-radius: 0.5rem;
+		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		transform: rotate(-2deg);
+		transition: transform 0.3s ease;
+	}
+	.newsletter-preview-img:hover {
+		transform: rotate(0deg) scale(1.05);
+	}
 	.newsletter-content h3 {
-		color: #F1F5F9;
+		color: #10B981;
 		margin: 0 0 0.5rem 0;
-		font-size: 1.25rem;
+		font-size: 1.35rem;
+		font-weight: 800;
 	}
 	.newsletter-content p {
-		color: #94A3B8;
+		color: #CBD5E1;
 		margin: 0 0 1.5rem 0;
-		line-height: 1.5;
+		line-height: 1.6;
 	}
 	.newsletter-form {
 		display: flex;
@@ -132,7 +142,7 @@
 		padding: 0.75rem 1rem;
 		border-radius: 0.375rem;
 		border: 1px solid #374151;
-		background-color: #111827;
+		background-color: #0B0F19;
 		color: #F1F5F9;
 		font-size: 1rem;
 	}
@@ -147,7 +157,7 @@
 		border: none;
 		background-color: #10B981;
 		color: #022C22;
-		font-weight: 600;
+		font-weight: 700;
 		font-size: 1rem;
 		cursor: pointer;
 		transition: background-color 0.2s ease, opacity 0.2s ease;

@@ -3,18 +3,14 @@ title: "What is the Wendy's \"4-Corner Press\" Technique?"
 description: "Former grill manager explains the 4-Corner Press technique Wendy's uses to keep fresh square patties from shrinking, with timing windows and common mistakes."
 pubDate: "2026-05-10"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Wendy's"
 topic: "Burgers"
 relatedArticles:
   - "wendys-clamshell-grill"
   - "wendys-chili-leftover-hamburgers"
   - "wendys-closing-duties"
-faq:
-  - question: "What is the process for what is wendy's ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like why fresh beef fights back to ensure efficiency and quality at Wendy's."
-  - question: "Why is the 4-corner press technique important at Wendy's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Wendy's locations."
+
 ---
 
 

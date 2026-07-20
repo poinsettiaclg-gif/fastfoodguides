@@ -3,18 +3,13 @@ title: "Dunkin' Flavor Shot vs. Swirl: What's the Difference"
 description: "Dunkin' offers two types of flavor add-ins and most customers don't know the difference. Here's what separates a shot from a swirl in the cup."
 pubDate: "2026-03-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Dunkin'"
 topic: "Breakfast & Coffee"
 relatedArticles:
   - "starbucks-cold-bar-frappuccino"
   - "starbucks-morning-rush"
-  - "starbucks-customer-support-cycle"
-faq:
-  - question: "What is the process for dunkin' flavor shot vs. swirl: what's difference?"
-    answer: "As detailed in our guide, the process involves specific operational steps like flavor swirls: the sweet, creamy, dessert-in-a-cup option to ensure efficiency and quality at Dunkin'."
-  - question: "Why is flavor shots: the sugar-free, nearly invisible alternative important at Dunkin'?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Dunkin' locations."
+
 ---
 
 

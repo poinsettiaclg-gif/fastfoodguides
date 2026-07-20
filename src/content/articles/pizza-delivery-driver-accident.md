@@ -3,18 +3,13 @@ title: "What Happens if a Pizza Delivery Driver Gets in an Accident?"
 description: "The ugly truth about pizza delivery auto insurance gaps, what your personal policy won't cover, and exactly what to do if you crash on the clock."
 pubDate: "2026-04-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Multi-Chain"
 topic: "Pizza"
 relatedArticles:
   - "pizza-hut-dispatch"
   - "dominos-gas"
-  - "dominos-20-bank-rule"
-faq:
-  - question: "What is the process for what happens if a pizza delivery driver gets in an accident??"
-    answer: "As detailed in our guide, the process involves specific operational steps like the insurance gap nobody warns you about to ensure efficiency and quality at Multi-Chain."
-  - question: "Why is what the pizza company's insurance actually covers important at Multi-Chain?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Multi-Chain locations."
+
 ---
 
 

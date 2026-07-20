@@ -3,18 +3,12 @@ title: "What is the Papa John's \"Dough Spinner\" (And Is It Cheating?)"
 description: "An insider look at the Papa John's Dough Spinner machine — how it works, why veterans hate it, and what it means for your pizza crust quality."
 pubDate: "2026-04-15"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Papa John's"
 topic: "Pizza"
 relatedArticles:
   - "papa-johns-dough-slapping"
-  - "little-caesars-sheetout-machine"
-  - "dominos-oven-tender-role"
-faq:
-  - question: "What is the process for what is papa john's ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like what the dough spinner actually is to ensure efficiency and quality at Papa John's."
-  - question: "Why is how the machine actually works important at Papa John's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Papa John's locations."
+
 ---
 
 

@@ -3,19 +3,13 @@ title: "Buffalo Wild Wings Sauce Tossing: The Real Process"
 description: "Buffalo Wild Wings sauces every wing to order. Learn the exact tossing method, sauce ratios, and why over-coating ruins the wing."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Buffalo Wild Wings"
 topic: "Chicken"
 relatedArticles:
   - "wingstop-sauce-process"
   - "kfc-pressure-fryers"
-faq:
-  - question: "Are Buffalo Wild Wings Fried or Baked?"
-    answer: "Yes, BWW traditional and boneless wings are deep-fried, not baked. Traditional bone-in wings are fried from raw in open fryers at 350°F–360°F for 12 to 14 minutes. Boneless wings are fried from frozen for 6 to 7 minutes. There is no baking, grilling, or air-frying involved in the standard wing preparation. The only exception is certain menu items like grilled chicken wraps or salads, which use different cooking methods — but the wings themselves are always fried."
-  - question: "Does BWW Make Their Sauces In-House?"
-    answer: "It's a mix. Some BWW sauces arrive as finished products from centralized suppliers and are loaded directly into pump dispensers. Others are mixed in-house during daily prep from a base sauce plus specific add-ins to achieve the target flavor. The exact breakdown varies by sauce and can change over time as BWW adjusts their supply chain. Either way, every sauce is portioned, date-labeled, and stored according to strict food safety protocols — cold sauces refrigerated below 40°F, hot sauces held at 140°F or above."
-  - question: "How Long Does It Take to Cook Wings at BWW?"
-    answer: "Traditional bone-in wings take 12 to 14 minutes from raw at 350°F–360°F. Boneless wings (frozen, pre-breaded) take 6 to 7 minutes. Add another 30 seconds to a minute for the tossing and plating process. During a busy rush, total ticket time from order placement to tray-up can push past 15 to 20 minutes due to queue depth at the fryer, but the actual cook time per basket doesn't change. BWW does not par-cook or hold wings under heat lamps — every order is cooked fresh to completion."
+
 ---
 
 ## The Chaos of the Fry Station

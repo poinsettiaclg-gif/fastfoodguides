@@ -3,20 +3,14 @@ title: "Domino's Super Bowl Pulse System Explained"
 description: "Domino's uses a real-time order monitoring system during peak events. Here's how the Pulse system manages thousands of simultaneous orders."
 pubDate: "2026-06-26"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Operations"
 relatedArticles:
   - "dominos-dough-stretching"
   - "dominos-oven-tender-role"
   - "dominos-20-bank-rule"
-faq:
-  - question: "What is the Domino's Pulse system?"
-    answer: "Pulse is the proprietary Point of Sale and store management system used by Domino's globally. It handles everything from order intake and online synchronization to makeline routing, driver dispatching, and inventory management."
-  - question: "How does Domino's handle Super Bowl Sunday?"
-    answer: "Stores prepare by massively over-prepping dough and cheese days in advance. During the rush, the Pulse system balances order flow across multiple makeline screens, allowing several teams of insiders to stretch and top pizzas simultaneously before feeding them into the continuous-belt ovens."
-  - question: "What does it mean to 'bump' an order at Domino's?"
-    answer: "To 'bump' an order means to clear it from a digital screen once a specific stage of preparation is complete. The makeline bumps an order when it goes into the oven, and the oven tender bumps it when it is boxed, sending it to the dispatch screen."
+
 ---
 
 If you work in the pizza industry, you don't care about the Super Bowl. You don't care who is playing, you don't care about the commercials, and you definitely don't care about the halftime show. You only care about the clock. 

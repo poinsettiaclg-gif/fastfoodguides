@@ -6,14 +6,17 @@ import { defineConfig, fontProviders } from 'astro/config';
 import fs from 'fs';
 import path from 'path';
 import cloudflare from '@astrojs/cloudflare';
+import partytown from '@astrojs/partytown';
 
 // Pre-calculate lastmod dates and chain counts for sitemap
 const articlesDir = path.join(process.cwd(), 'src', 'content', 'articles');
+const secretMenusDir = path.join(process.cwd(), 'src', 'content', 'secret_menus');
 const articleDates = new Map();
 const chainCounts = new Map();
 
 try {
-	const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+	// Parse articles
+	let files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
 	for (const file of files) {
 		const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
 		const slugMatch = file.replace(/\.mdx?$/, '');
@@ -22,6 +25,22 @@ try {
 		const updatedMatch = content.match(/updatedDate:\s*"([^"]+)"/);
 		const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
 		const chainMatch = content.match(/chain:\s*"([^"]+)"/);
+		
+		if (updatedMatch) {
+			articleDates.set(slugMatch, new Date(updatedMatch[1]));
+		} else if (pubMatch) {
+			articleDates.set(slugMatch, new Date(pubMatch[1]));
+		}
+	}
+
+	// Parse secret menus
+	files = fs.readdirSync(secretMenusDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+	for (const file of files) {
+		const content = fs.readFileSync(path.join(secretMenusDir, file), 'utf-8');
+		const slugMatch = file.replace(/\.mdx?$/, '');
+		
+		const updatedMatch = content.match(/updatedDate:\s*"([^"]+)"/);
+		const pubMatch = content.match(/pubDate:\s*"([^"]+)"/);
 		
 		if (updatedMatch) {
 			articleDates.set(slugMatch, new Date(updatedMatch[1]));
@@ -42,6 +61,11 @@ export default defineConfig({
 		}
 	}),
 	integrations: [
+		partytown({
+			config: {
+				forward: ['dataLayer.push'],
+			},
+		}),
 		mdx(), 
 		sitemap({
 			filter: (page) => {
@@ -60,6 +84,11 @@ export default defineConfig({
 				if (urlPath.startsWith('/articles/') && !urlPath.startsWith('/articles/chain/') && !urlPath.startsWith('/articles/topic/')) {
 					// Extract slug from /articles/slug/
 					const slug = urlPath.replace('/articles/', '').replace(/\/$/, '');
+					if (articleDates.has(slug)) {
+						item.lastmod = articleDates.get(slug).toISOString();
+					}
+				} else if (urlPath.startsWith('/secret-menus/')) {
+					const slug = urlPath.replace('/secret-menus/', '').replace(/\/$/, '');
 					if (articleDates.has(slug)) {
 						item.lastmod = articleDates.get(slug).toISOString();
 					}

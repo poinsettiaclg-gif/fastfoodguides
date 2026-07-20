@@ -3,18 +3,13 @@ title: "What Is the Burger King Expeditor Role During a Rush?"
 description: "Inside the most critical position at Burger King—how the Expo station controls order accuracy, speed, and the flow of the entire kitchen during peak hours."
 pubDate: "2026-03-04"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Burger King"
 topic: "Burgers"
 relatedArticles:
   - "burger-king-broiler"
   - "burger-king-broiler-closing"
-  - "taco-bell-linebacker-role"
-faq:
-  - question: "What is the process for what is burger king expeditor role during a rush??"
-    answer: "As detailed in our guide, the process involves specific operational steps like the bridge between kitchen and customer to ensure efficiency and quality at Burger King."
-  - question: "Why is the core duties of the expo important at Burger King?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Burger King locations."
+
 ---
 
 

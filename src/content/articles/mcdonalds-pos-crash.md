@@ -3,16 +3,12 @@ title: "What Happens When the McDonald's POS System Crashes?"
 description: "Find out what really happens inside a McDonald's when every register goes dark. The Crash Kit, paper orders, kitchen chaos, and the reconciliation nightmare."
 pubDate: "2026-04-08"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "McDonald's"
 topic: "Burgers"
 relatedArticles:
   - "mcdonalds-abs-system"
-  - "taco-bell-drive-thru-timer"
-  - "burger-king-expeditor-role"
-faq:
-  - question: "What About Mobile and Kiosk Orders?"
-    answer: "If the POS goes down, the self-order kiosks and the McDonald's app typically go down with it, since they all connect to the same back-end system. This actually helps in one way — it stops new digital orders from flooding in. But it also means angry customers who pre-paid on the app may show up expecting food that the store has no record of."
+
 ---
 
 

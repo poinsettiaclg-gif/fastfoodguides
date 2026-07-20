@@ -3,16 +3,14 @@ title: "How Does the Burger King Broiler Work, and Is It Dangerous?"
 description: "A veteran kitchen manager explains how the BK flame broiler really works, what the burn hazards feel like, and how to survive your first shift on the fire line."
 pubDate: "2026-03-03"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Burger King"
 topic: "Burgers"
 relatedArticles:
   - "burger-king-broiler-closing"
   - "burger-king-expeditor-role"
   - "wendys-clamshell-grill"
-faq:
-  - question: "Is It Dangerous?"
-    answer: "I am going to be completely blunt: yes, it can be dangerous if you do not respect the machine."
+
 ---
 
 

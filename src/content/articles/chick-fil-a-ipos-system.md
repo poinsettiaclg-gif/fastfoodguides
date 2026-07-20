@@ -3,18 +3,13 @@ title: "How the Chick-fil-A iPOS Drive-Thru System Works"
 description: "Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per hour through a single drive-thru lane while competitors struggle with 60."
 pubDate: "2026-03-07"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chick-fil-A"
 topic: "Chicken"
 relatedArticles:
   - "chick-fil-a-core-4"
   - "taco-bell-drive-thru-timer"
-  - "sonic-switchboard-how-it-works"
-faq:
-  - question: "What is the process for how chick-fil-a ipos drive-thru system works?"
-    answer: "As detailed in our guide, the process involves specific operational steps like bypassing the speaker box bottleneck to ensure efficiency and quality at Chick-fil-A."
-  - question: "Why is the 'send' before the window important at Chick-fil-A?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chick-fil-A locations."
+
 ---
 
 

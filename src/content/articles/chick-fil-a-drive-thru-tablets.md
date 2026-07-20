@@ -3,15 +3,10 @@ title: "The Chick-fil-A Drive-Thru Tablets: How the iPOS System Kills the Speake
 description: "A gritty breakdown of how Chick-fil-A bypasses the traditional drive-thru bottleneck using outdoor iPads, tandem ordering, and relentless operational speed."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chick-fil-A"
 topic: "Drive-Thru Operations"
 heroImage: "../../assets/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-the-ipos-system-how-it-wor.webp"
-faq:
-  - question: "Why does Chick-fil-A have employees outside with iPads?"
-    answer: "Chick-fil-A uses outdoor employees with iPads to take multiple orders simultaneously (tandem ordering), completely bypassing the traditional speaker box which acts as a massive bottleneck in the drive-thru lane."
-  - question: "How do the iPads survive the rain and heat?"
-    answer: "The iPads are encased in heavy-duty commercial rugged cases with built-in card readers and sunshades, and the team members wear specialized all-weather gear depending on the season."
 ---
 
 If you look at the drive-thru layout of a [McDonald's](/articles/chain/mcdonalds) or a [Wendy's](/articles/chain/wendys), the architecture is fundamentally the same as it was in the 1980s. A customer pulls up to a metal speaker box, shouts their order into a microphone, and drives forward. The speaker box is a structural bottleneck. No matter how fast the kitchen cooks the food, you can only process one car at a time through that speaker.

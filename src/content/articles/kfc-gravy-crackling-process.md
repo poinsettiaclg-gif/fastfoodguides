@@ -3,17 +3,13 @@ title: "KFC Gravy: How Cracklings Make the Difference"
 description: "KFC gravy isn't just a powder packet. Cooks harvest cracklings from the pressure fryer to give the gravy its signature deep flavor and color."
 pubDate: "2026-07-01"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "KFC"
 topic: "Sides"
 relatedArticles:
   - "kfc-pressure-fryers"
   - "kfc-original-vs-extra-crispy"
-faq:
-  - question: "What is the process for kfc gravy: how cracklings make difference?"
-    answer: "As detailed in our guide, the process involves specific operational steps like harvesting the crackling to ensure efficiency and quality at KFC."
-  - question: "Why is the recipe and ratios important at KFC?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all KFC locations."
+
 ---
 
 If you have ever worked in the fast food industry, you know that gravy is usually an afterthought. At most chains, making gravy involves tearing open a foil packet of brown powder, dumping it into a large metal cambro, adding boiling water from the coffee machine, and whisking until your arm falls off. It is cheap, fast, and entirely unremarkable.

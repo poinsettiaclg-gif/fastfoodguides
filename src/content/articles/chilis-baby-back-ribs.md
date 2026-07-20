@@ -3,19 +3,13 @@ title: "Chili's Baby Back Ribs: How They Are Actually Made"
 description: "Chili's baby back ribs are slow-cooked and finished on a grill. Here's the full multi-step prep process behind their signature rib rack."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chili's"
 topic: "Other Chains"
 relatedArticles:
   - "applebees-microwave-reality"
   - "buffalo-wild-wings-sauce-tossing"
-faq:
-  - question: "Are Chili's Ribs Really Smoked?"
-    answer: "Yes, they are. The ribs are smoked with pecan wood at centralized processing facilities before being shipped to restaurants. The smoke ring is real, and the smoky flavor is baked into the meat — it's not coming from liquid smoke or artificial flavoring. What's different from a traditional barbecue joint is that the smoking happens off-site, not in the restaurant kitchen. But the process itself uses real wood and real smoke."
-  - question: "How Long Does It Take to Get Ribs at Chili's?"
-    answer: "From the time your order hits the kitchen screen to the time it's plated and heading to your table, you're looking at roughly **12 to 18 minutes**. The bulk of that time is the grill finishing step (3-5 minutes per side) plus sauce application, plating, and any side items that need to fire simultaneously. Because the ribs are pre-smoked and pre-heated, the kitchen doesn't need hours of lead time. It's one of the fastest rib experiences you'll find at any restaurant, chain or independent."
-  - question: "Are Chili's Ribs Pre-Cooked?"
-    answer: "Yes, 100%. The ribs arrive at the restaurant already smoked, and they're brought to serving temperature using a sous vide-style process or CVap oven before service. The charbroiler grill at the end is a finishing step — it's there for browning, sauce caramelization, and char, not for cooking the ribs from raw. This is the same basic approach used by most high-volume restaurants that serve barbecue-style items. The ribs are fully cooked and food-safe before they ever touch the grill."
+
 ---
 
 ## "I Want My Baby Back, Baby Back..."

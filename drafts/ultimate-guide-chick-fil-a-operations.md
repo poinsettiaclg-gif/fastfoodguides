@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Chick-fil-A Operations: Drive-Thru Speed and Bread
 description: "A comprehensive overview of Chick-fil-A's kitchen operations, exploring their legendary IPOS drive-thru system, peanut oil fryers, and from-scratch breading process."
 pubDate: "2026-07-17"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chick-fil-A"
 topic: "Operations Overview"
 heroImage: "../../assets/images/chick-fil-a-drive-thru-tablets/chick-fil-a-drive-thru-tablets-the-ipos-system-how-it-wor.webp"

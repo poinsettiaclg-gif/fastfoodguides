@@ -3,19 +3,13 @@ title: "Applebee's Microwave: What Gets Reheated"
 description: "Applebee's uses microwaves for some dishes. Here's exactly which items get reheated and how it affects the final meal you're served."
 pubDate: "2026-06-21"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Applebee's"
 topic: "Other Chains"
 relatedArticles:
   - "chilis-baby-back-ribs"
   - "mcdonalds-fry-station"
-faq:
-  - question: "Does Applebee's Microwave Their Steaks?"
-    answer: "No. This is the most common misconception and it's flatly wrong. Steaks at Applebee's are cooked from raw on a charbroiler or flat-top griddle. They're seasoned with the house blend, cooked to the customer's requested temperature, and temped with a meat thermometer before plating. No microwave, no TurboChef, no shortcut. The same goes for grilled chicken breasts and burger patties — all cooked from raw on the grill side of the line."
-  - question: "What Is a TurboChef Oven?"
-    answer: "A TurboChef is a commercial-grade, high-speed hybrid oven that combines **microwave energy** with **impinged hot air convection** to cook or reheat food in a fraction of the time a conventional oven would take. Unlike a home microwave, a TurboChef can brown, crisp, and caramelize food because of the high-velocity hot air jets that hit the food simultaneously with the microwave energy. Each unit runs between $5,000 and $8,000, and most Applebee's locations keep 2–3 on the line. They're the backbone of the micro side station and are responsible for the speed that makes casual dining ticket times possible."
-  - question: "Is Applebee's Food Fresh?"
-    answer: "It depends on what you mean by 'fresh.' The proteins — steaks, chicken, burgers — arrive raw and are cooked to order. That's fresh by any reasonable definition. The sides, soups, sauces, and many appetizers are pre-prepped, pre-portioned, and reheated. Some items (like the ribs) arrive par-cooked from a supplier and are finished in-house. The desserts are frozen and reheated. None of this is unusual for casual dining — it's the standard operating model across the entire segment. If you want every component of your meal cooked from scratch to order, you're looking at a 45-minute ticket time and a $35 entrée price point, which is fine dining territory, not a neighborhood Applebee's."
+
 ---
 
 ## The "Chef Mike" Reputation — And the Real Story

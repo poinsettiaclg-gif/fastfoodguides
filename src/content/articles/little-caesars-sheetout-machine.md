@@ -3,18 +3,13 @@ title: "Little Caesars Sheet-Out Machine: Press and Go"
 description: "Little Caesars uses a mechanical press to standardize every pizza dough round. Here's how the machine works and what the specs are per crust size."
 pubDate: "2026-04-05"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Little Caesars"
 topic: "Pizza"
 relatedArticles:
   - "little-caesars-hot-n-ready-system"
   - "papa-johns-dough-slapping"
-  - "dominos-oven-tender-role"
-faq:
-  - question: "What is the process for little caesars sheet-out machine: press and go?"
-    answer: "As detailed in our guide, the process involves specific operational steps like what the sheeter actually is to ensure efficiency and quality at Little Caesars."
-  - question: "Why is the two-pass technique important at Little Caesars?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Little Caesars locations."
+
 ---
 
 

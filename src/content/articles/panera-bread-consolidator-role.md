@@ -3,18 +3,14 @@ title: "What is the Panera Bread \"Consolidator\" Role?"
 description: "Inside the most demanding role at Panera Bread: the Consolidator who acts as air traffic control for every order leaving the kitchen during a lunch rush."
 pubDate: "2026-04-11"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Panera Bread"
 topic: "Other Chains"
 relatedArticles:
   - "panera-overnight-baker"
   - "burger-king-expeditor-role"
   - "starbucks-customer-support-cycle"
-faq:
-  - question: "What is the process for what is panera bread ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the master of the 'you pick two' to ensure efficiency and quality at Panera Bread."
-  - question: "Why is the quality control check important at Panera Bread?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Panera Bread locations."
+
 ---
 
 

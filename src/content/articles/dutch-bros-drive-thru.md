@@ -3,25 +3,13 @@ title: "Dutch Bros Drive-Thru: The Walk-Up Model"
 description: "Dutch Bros employees walk up to your car window instead of using a speaker box. Here's how the model works and why it creates faster service times."
 pubDate: "2026-06-23"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Dutch Bros"
 topic: "Breakfast & Coffee"
 heroImage: "../../assets/images/dutch-bros/drive-thru.webp"
 relatedArticles:
   - "starbucks-morning-rush"
-  - "starbucks-cold-bar-frappuccino"
-  - "dunkin-flavor-shot-vs-swirl"
-faq:
-  - question: "How Fast Is Too Fast?"
-    answer: "Dutch Bros' average drive-thru time hovers around 3–4 minutes from the moment the linebuster takes the order to when the drink hits the customer's hand. During a perfect peak-hour flow, some stores push that under 2.5 minutes. That's faster than most [Dunkin' locations can process a flavor shot vs. swirl order](/articles/dunkin-flavor-shot-vs-swirl/) on a busy morning."
-  - question: "What Happens When the Line Wraps Around the Building?"
-    answer: "During extreme peak hours—or during promotional events like Sticker Day or new drink launches—the line at a popular Dutch Bros can wrap around the building and spill into the street."
-  - question: "Why Does Dutch Bros Use iPads Instead of a Speaker Box?"
-    answer: "The iPad model eliminates the single biggest bottleneck in a traditional drive-thru: the speaker box queue. With a static menu board, only one car can order at a time. With linebusters carrying iPads, you can have 3–4 people taking orders simultaneously across a 15-car line. It also allows the linebuster to clarify confusing custom orders face-to-face, which dramatically reduces the error rate compared to garbled speaker-box communication."
-  - question: "How Do Dutch Bros Broistas Memorize So Many Drink Codes?"
-    answer: "Repetition and volume. A busy broista might see 200–300 coded drink orders scroll across their screen in a single shift. After about two weeks of full-time work, the most common 50–60 codes become second nature. Dutch Bros also provides laminated cheat sheets at every station for the first month of employment, and the POS system on the iPad auto-suggests common modifications as the linebuster types, which helps reinforce the abbreviation patterns."
-  - question: "Do Linebusters Work in Extreme Weather?"
-    answer: "Yes, without exception. Dutch Bros provides branded rain jackets, beanies, and hand warmers for cold-weather markets, and wide-brim hats and cooling towels for locations in the Southwest. In extreme heat (above 100°F), stores rotate linebusters every 20–30 minutes instead of the standard 45-minute rotation. In rare cases of lightning or dangerous ice storms, the store may temporarily switch to a window-only ordering model, but this is a last resort and requires district manager approval."
+
 ---
 
 Dutch Bros Coffee doesn't operate like a traditional fast-food drive-thru. There are no static speaker boxes, and the menu is overwhelmingly complex. Yet, they process cars faster than almost anyone else in the beverage game.

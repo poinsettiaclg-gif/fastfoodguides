@@ -3,18 +3,14 @@ title: "McDonald's UHC (Universal Holding Cabinet): The Secret to the Speed"
 description: "An operational breakdown of the McDonald's Universal Holding Cabinet (UHC). How digital timers and zone temperatures allow the kitchen to stay ahead of peak rush hours."
 pubDate: "2026-07-18"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "McDonald's"
 topic: "Equipment"
 heroImage: "../../assets/images/mcdonalds-uhc-cabinet/uhc.png"
 relatedArticles:
   - mcdonalds-fresh-beef-grill-process
   - mcdonalds-nugget-process
-faq:
-  - question: "What is a UHC at McDonald's?"
-    answer: "The UHC, or Universal Holding Cabinet, is a highly calibrated heated shelving unit used to store precooked proteins (like nuggets, crispy chicken, and sausage) at safe temperatures without drying them out."
-  - question: "How long does McDonald's hold food in the UHC?"
-    answer: "Every item has a strictly programmed hold time, usually ranging from 20 to 60 minutes depending on the product, after which the digital timer flashes and the product must be discarded."
+
 ---
 
 If you’ve ever watched a McDonald's kitchen during a massive 12:30 PM lunch rush, you might wonder how they manage to assemble a 10-piece McNugget, a McChicken, and a Filet-O-Fish in under 45 seconds. The answer isn't that they are cooking these items to order. The secret to McDonald's unprecedented speed of service is a piece of equipment called the **Universal Holding Cabinet (UHC)**.

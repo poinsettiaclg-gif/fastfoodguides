@@ -3,25 +3,23 @@ title: "The Subway Bread Baking Process: Why It Smells Like That"
 description: "A behind-the-counter look at Subway's 12-hour bread baking process, from frozen dough sticks to the iconic smell that sticks to your clothes for days."
 pubDate: "2026-05-01"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Subway"
 topic: "Sandwiches"
 relatedArticles:
   - "subway-bain-fill-line-rule"
   - "subway-wrap-folding"
   - "subway-pos-out-of-order"
-faq:
-  - question: "Why Does It Smell Like That?"
-    answer: "The legendary Subway smell comes from two sources. First, the dough has a higher sugar content than standard bakery bread, and that sugar caramelizes aggressively in the oven—producing a warm, almost cookie-like sweetness. Second, the Italian Herb seasoning bakes directly onto the silicone mats cycle after cycle, building up a residual scent layer that never fully comes off no matter how hard you scrub."
+
 ---
 
 
 
-You can smell a Subway from half a block away, even with the doors shut. That warm, sweet, yeasty fog that hits you the second you step inside is not some aerosol marketing trick. It is the direct result of a 12-hour bread production cycle that starts the night before and fills every crack, crevice, and ceiling tile in the building with a scent that will never, ever leave. I have personally burned through jackets that still smelled like Italian Herbs & Cheese after a dozen washes. The truth of the matter: 
+Subway's retarder and proofer cabinets are the most important pieces of equipment in the store, driving a rigid 12-hour production cycle. The unmistakable, sweet yeasty scent that hits you at the door isn't artificial—it's the byproduct of baking high-sugar dough repeatedly on silicone mats. I've personally had to throw away jackets because the Italian Herbs & Cheese scent permanently bonded to the fabric. 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
+Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most notably when Subway removed azodicarbonamide—the infamous ["yoga mat chemical"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
 
 
 

@@ -3,18 +3,14 @@ title: "Sonic Nugget Ice: Why Customers Love It"
 description: "Sonic's nugget ice is softer and more chewable than standard ice cubes. Here's the machine that makes it and why the ice type changes how drinks taste."
 pubDate: "2026-06-19"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Sonic Drive-In"
 topic: "Chicken"
 relatedArticles:
   - "sonic-switchboard-how-it-works"
   - "sonic-carhops-roller-skate"
   - "starbucks-secret-menu"
-faq:
-  - question: "What is the process for sonic nugget ice: why customers love it?"
-    answer: "As detailed in our guide, the process involves specific operational steps like it's not regular ice. it never was. to ensure efficiency and quality at Sonic Drive-In."
-  - question: "Why is how nugget ice machines actually work important at Sonic Drive-In?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Sonic Drive-In locations."
+
 ---
 
 ## It's Not Regular Ice. It Never Was.

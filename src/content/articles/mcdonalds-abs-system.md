@@ -3,18 +3,14 @@ title: "McDonald's ABS System: Made-for-You Explained"
 description: "McDonald's ABS (Assembly Board System) coordinates every made-to-order burger. Here's how the screen system works behind the counter."
 pubDate: "2026-04-06"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "McDonald's"
 topic: "Burgers"
 relatedArticles:
   - "mcdonalds-pos-crash"
   - "taco-bell-drive-thru-timer"
   - "chick-fil-a-ipos-system"
-faq:
-  - question: "What is the process for mcdonald's abs system: made-for-you explained?"
-    answer: "As detailed in our guide, the process involves specific operational steps like from pos tap to finished cup: the seamless connection to ensure efficiency and quality at McDonald's."
-  - question: "Why is the three-step fill process important at McDonald's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all McDonald's locations."
+
 ---
 
 

@@ -3,23 +3,18 @@ title: "What is the \"Oven Tender\" Role at Domino's During a Friday Rush?"
 description: "A former kitchen manager breaks down the Domino's Oven Tender position—the catch, the cut, the labels, and why it's the hardest insider job in the building."
 pubDate: "2026-03-16"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Domino's"
 topic: "Pizza"
 relatedArticles:
   - "dominos-20-bank-rule"
   - "dominos-gas"
-  - "papa-johns-dough-slapping"
-faq:
-  - question: "What is the process for what is ?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the catch: a conveyor belt that never stops to ensure efficiency and quality at Domino's."
-  - question: "Why is the cut and box: 15 seconds per pizza or you're drowning important at Domino's?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Domino's locations."
+
 ---
 
 
 
-Walk into any Domino's at 6:30 on a Friday evening and you'll see controlled chaos on the makeline—dough flying, sauce being spread, cheese being tossed. But that's the easy part. The person who actually determines whether the entire store sinks or swims is standing at the opposite end of a 450-degree conveyor belt oven, sweating through their shirt, catching pizzas as fast as they emerge from the tunnel. That person is the Oven Tender, and I've watched it break more promising new hires than any other position in the building. 
+A single Domino's conveyor belt oven can spit out a screaming-hot pizza every 15 seconds during peak volume. The person who determines whether the entire store sinks or swims is standing at the end of that 450-degree tunnel, sweating through their shirt, catching those pizzas as fast as they emerge. That person is the Oven Tender, and I've watched this position break more promising new hires than any other job in the building. 
 
 ## The Catch: A Conveyor Belt That Never Stops
 
@@ -29,7 +24,7 @@ Walk into any Domino's at 6:30 on a Friday evening and you'll see controlled cha
 
 
 
-Domino's uses massive Lincoln Impinger conveyor-belt ovens. Raw pizzas go in one end, travel through a tunnel of superheated air at around 450°F, and emerge fully baked roughly seven minutes later. The belt doesn't pause. It doesn't slow down. It doesn't care that you just dropped the rocking blade. 
+Domino's uses massive [Lincoln Impinger](https://www.lincolnfp.com/) conveyor-belt ovens. Raw pizzas go in one end, travel through a tunnel of superheated air at around 450°F, and emerge fully baked roughly seven minutes later. The belt doesn't pause. It doesn't slow down. It doesn't care that you just dropped the rocking blade. 
 
 During a Friday dinner rush, the makeline might be feeding four or five pizzas side-by-side into that oven every 30 seconds. Do the math—on the other end, four or five fully baked, screaming-hot pizzas are constantly sliding toward the edge of the belt, ready to tumble off onto the floor if nobody's there to grab them. 
 
@@ -48,7 +43,7 @@ Catching the pizza is only step one. Here's the full sequence a good Oven Tender
 4. **Apply the finishing touches.** Grab the squeeze bottle of garlic-herb oil and paint the crust in a quick circular motion. Shake the parmesan-herb blend over breadsticks or bread bites if they're in the batch.
 5. **Slide the pizza into the correct box**, close it, slap the label on, and stack it on the heat rack for the driver.
 
-Fifteen seconds. And the next row of pizzas is already emerging while you're still closing the box on the last one. Fall behind by 30 seconds and you'll have pizzas stacking up on the belt edge, pushing each other off onto the metal rack or—worse—the floor. A pizza that hits the floor is an immediate discard and a full remake, which sets the order back another seven minutes and cascades delay through the entire queue.
+Fifteen seconds. And the next row of pizzas is already emerging while you're still closing the box on the last one. Fall behind by 30 seconds and you'll have pizzas stacking up on the belt edge, pushing each other off onto the metal rack or—worse—the floor. Per basic [FDA food code standards](https://www.fda.gov/food/fda-food-code/food-code-2022), a pizza that hits the floor is an immediate discard and a full remake, which sets the order back another seven minutes and cascades delay through the entire queue.
 
 ## Reading the Labels: The Mental Game That Breaks New Hires
 

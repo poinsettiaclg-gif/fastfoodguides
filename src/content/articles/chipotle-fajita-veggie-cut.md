@@ -3,18 +3,14 @@ title: "Chipotle Fajita Veggies: The Specific Cut Required"
 description: "Chipotle requires a precise knife cut for their fajita peppers and onions. Here is the prep standard and why consistency matters for cooking time."
 pubDate: "2026-03-07"
 author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
+authorTitle: "Former QSR Operations Manager"
 chain: "Chipotle"
 topic: "Mexican"
 relatedArticles:
   - "chipotle-grill-validation"
   - "chipotle-massive-burrito-rolling"
   - "panda-express-wok-chef"
-faq:
-  - question: "What is the process for chipotle fajita veggies: specific cut required?"
-    answer: "As detailed in our guide, the process involves specific operational steps like the 1/4-inch rule and why it's non-negotiable to ensure efficiency and quality at Chipotle."
-  - question: "Why is why the size matters more than you think important at Chipotle?"
-    answer: "It is a critical part of the standard operating procedure that helps maintain consistency across all Chipotle locations."
+
 ---
 
 
