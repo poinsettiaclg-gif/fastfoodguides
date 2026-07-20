@@ -18,13 +18,10 @@ if (fs.existsSync(entryPath)) {
   fs.renameSync(entryPath, indexPath);
 }
 
-// 3. Move everything from dist/client to dist/
+// 3. Move everything from dist/client to dist/ safely using cpSync
 if (fs.existsSync(clientPath)) {
-  const files = fs.readdirSync(clientPath);
-  for (const file of files) {
-    fs.renameSync(path.join(clientPath, file), path.join(distPath, file));
-  }
-  fs.rmdirSync(clientPath);
+  fs.cpSync(clientPath, distPath, { recursive: true });
+  fs.rmSync(clientPath, { recursive: true, force: true });
 }
 
 console.log('Prepared dist/ for Cloudflare Pages Advanced Mode!');
