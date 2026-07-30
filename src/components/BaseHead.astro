@@ -1,0 +1,185 @@
+---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import '../styles/global.css';
+import { SITE_TITLE } from '../consts';
+
+interface Props {
+	title: string;
+	description: string;
+	image?: string;
+	ogType?: string;
+	chain?: string;
+	articlePath?: string;
+	pubDate?: Date;
+	updatedDate?: Date;
+	noindex?: boolean;
+}
+
+let pathname = Astro.url.pathname;
+if (!pathname.endsWith('/') && !pathname.split('/').pop()?.includes('.')) {
+	pathname += '/';
+}
+const canonicalURL = new URL(pathname, Astro.site);
+const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
+
+const { title, description, image, ogType = 'website', chain, articlePath, pubDate, updatedDate, noindex = false } = Astro.props;
+
+const displayTitle = (isHomepage || title.includes(SITE_TITLE)) ? title : `${title} | ${SITE_TITLE}`;
+const ogImageUrl = image ? new URL(image, Astro.site) : new URL('/og-default.png', Astro.site);
+---
+
+<!-- Global Metadata -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" href="/favicon.ico" />
+<link rel="sitemap" href="/sitemap-index.xml" />
+<link
+	rel="alternate"
+	type="application/rss+xml"
+	title={SITE_TITLE}
+	href={new URL('rss.xml', Astro.site)}
+/>
+<meta name="generator" content={Astro.generator} />
+<meta name="theme-color" content="#0a0f1c" />
+
+<!-- Preconnect to third-party origins -->
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+
+
+
+<!-- Canonical URL -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Primary Meta Tags -->
+<title>{displayTitle}</title>
+<meta name="description" content={description} />
+{noindex && <meta name="robots" content="noindex, follow" />}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:site_name" content={SITE_TITLE} />
+<meta property="og:type" content={ogType} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:title" content={displayTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImageUrl} />
+
+<!-- Article OG Tags -->
+{ogType === 'article' && pubDate && (
+	<meta property="article:published_time" content={pubDate.toISOString()} />
+)}
+{ogType === 'article' && updatedDate && (
+	<meta property="article:modified_time" content={updatedDate.toISOString()} />
+)}
+{ogType === 'article' && chain && (
+	<meta property="article:section" content={chain} />
+)}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={canonicalURL} />
+<meta name="twitter:title" content={displayTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImageUrl} />
+
+<!-- BreadcrumbList Structured Data (article and secret menu pages) -->
+{chain && articlePath && (
+	<script type="application/ld+json" set:html={JSON.stringify({
+		"@context": "https://schema.org",
+		"@graph": [{
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": new URL("/", Astro.site).href
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": articlePath.startsWith('/secret-menus/') ? "Secret Menus" : "Guides",
+					"item": new URL(articlePath.startsWith('/secret-menus/') ? "/secret-menus/" : "/articles/", Astro.site).href
+				},
+				{
+					"@type": "ListItem",
+					"position": 3,
+					"name": chain,
+					"item": new URL(`/articles/chain/${chain.toLowerCase().replace(/[']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/`, Astro.site).href
+				},
+				{
+					"@type": "ListItem",
+					"position": 4,
+					"name": title,
+					"item": new URL(articlePath, Astro.site).href
+				}
+			]
+		}]
+	}).replace(/</g, '\\u003c')} />
+)}
+
+<!-- JSON-LD Structured Data (homepage only) -->
+{isHomepage && (
+	<script type="application/ld+json" set:html={JSON.stringify({
+		"@context": "https://schema.org",
+		"@graph": [{
+			"@type": "WebSite",
+			"name": SITE_TITLE,
+			"url": Astro.site,
+			"description": description,
+			"publisher": {
+				"@type": "Organization",
+				"name": SITE_TITLE,
+				"url": Astro.site,
+				"logo": {
+					"@type": "ImageObject",
+					"url": new URL("/og-default.png", Astro.site).href
+				}
+			}
+		}]
+	}).replace(/</g, '\\u003c')} />
+)}
+
+<!-- Google Consent Mode v2 (must load BEFORE any Google scripts) -->
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+
+	// Default: deny all until user consents
+	gtag('consent', 'default', {
+		'ad_storage': 'denied',
+		'ad_user_data': 'denied',
+		'ad_personalization': 'denied',
+		'analytics_storage': 'denied',
+		'wait_for_update': 500
+	});
+
+	var consent = null;
+	try {
+		consent = localStorage.getItem('cookie-consent');
+	} catch(e) {
+		console.warn("localStorage not available for consent check");
+	}
+	if (consent === 'accepted') {
+		gtag('consent', 'update', {
+			'ad_storage': 'granted',
+			'ad_user_data': 'granted',
+			'ad_personalization': 'granted',
+			'analytics_storage': 'granted'
+		});
+	}
+</script>
+
+<!-- Google Analytics 4 -->
+<script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-LTBYBPFE6W"></script>
+<script type="text/partytown">
+	gtag('js', new Date());
+	gtag('config', 'G-LTBYBPFE6W');
+</script>
+
+<!-- Google AdSense -->
+{!noindex && (
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4755826230930575" crossorigin="anonymous"></script>
+)}

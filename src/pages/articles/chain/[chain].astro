@@ -1,0 +1,355 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+
+// Chain slug to display name mapping
+const chainMap: Record<string, string> = {
+  'arbys': "Arby's",
+  'burger-king': 'Burger King',
+  'chick-fil-a': 'Chick-fil-A',
+  'chipotle': 'Chipotle',
+  'culvers': "Culver's",
+  'dairy-queen': 'Dairy Queen',
+  'dennys': "Denny's",
+  'dominos': "Domino's",
+  'dunkin': "Dunkin'",
+  'firehouse-subs': 'Firehouse Subs',
+  'five-guys': 'Five Guys',
+  'hardees-carls-jr': "Hardee's / Carl's Jr.",
+  'ihop': 'IHOP',
+  'in-n-out-burger': 'In-N-Out Burger',
+  'jack-in-the-box': 'Jack in the Box',
+  'jersey-mikes': "Jersey Mike's",
+  'jimmy-johns': "Jimmy John's",
+  'kfc': 'KFC',
+  'krispy-kreme': 'Krispy Kreme',
+  'little-caesars': 'Little Caesars',
+  'mcdonalds': "McDonald's",
+  'multi-chain': 'Multi-Chain',
+  'panda-express': 'Panda Express',
+  'panera-bread': 'Panera Bread',
+  'papa-johns': "Papa John's",
+  'pizza-hut': 'Pizza Hut',
+  'popeyes': 'Popeyes',
+  'raising-canes': "Raising Cane's",
+  'shake-shack': 'Shake Shack',
+  'sonic-drive-in': 'Sonic Drive-In',
+  'starbucks': 'Starbucks',
+  'subway': 'Subway',
+  'taco-bell': 'Taco Bell',
+  'waffle-house': 'Waffle House',
+  'wawa': 'Wawa',
+  'wendys': "Wendy's",
+  'whataburger': 'Whataburger',
+  'white-castle': 'White Castle',
+  'wingstop': 'Wingstop',
+  'zaxbys': "Zaxby's",
+  'applebees': "Applebee's",
+  'bojangles': "Bojangles",
+  'buffalo-wild-wings': 'Buffalo Wild Wings',
+  'cava': 'Cava',
+  'chilis': "Chili's",
+  'dutch-bros': 'Dutch Bros',
+  'long-john-silvers': "Long John Silver's",
+  'sweetgreen': 'Sweetgreen',
+};
+
+// SEO descriptions to fix "Thin Content" issues on single-article chain pages
+const chainDescriptions: Record<string, string> = {
+  'arbys': "Arby's is a fast food sandwich restaurant chain with more than 3,300 restaurants system-wide. Famous for its classic roast beef sandwiches, Arby's focuses on deli-style meats and curly fries. Read our insider guides on how their commercial deli slicers and fry stations operate during a rush.",
+  'burger-king': "Burger King is a multinational chain of hamburger fast food restaurants. Known for the Whopper, Burger King relies heavily on its automated broiler system to give burgers a signature flame-grilled taste. Discover how their kitchen and expeditor roles function behind the scenes.",
+  'chick-fil-a': "Chick-fil-A is one of the largest American fast food restaurant chains and the largest specializing in chicken sandwiches. Famous for its exceptional customer service and drive-thru efficiency, explore our guides on their iPad POS systems, breading procedures, and the 'Core 4' training protocol.",
+  'chipotle': "Chipotle Mexican Grill is an American chain of fast casual restaurants specializing in bowls, tacos and Mission burritos made to order. Our guides cover their intensive prep work, grill validation processes, and exactly how they manage high-volume throughput on the assembly line.",
+  'culvers': "Culver's is a primarily Midwestern fast-food chain famous for its 'ButterBurgers' and fresh frozen custard. Operating with a unique cook-to-order system, Culver's kitchens are designed for quality over pure speed. Learn how their grill team manages smash techniques and custard rotation.",
+  'dairy-queen': "Dairy Queen is an American multinational chain of soft serve ice cream and fast-food restaurants. While famous for the Blizzard, their kitchen operations handle a diverse menu of 'Grill & Chill' items. Read our guides on soft serve machine maintenance, the perfect curl, and the iconic Blizzard flip.",
+  'dennys': "Denny's is an American diner-style restaurant chain famous for being open 24/7. Operating a full-service diner requires a completely different kitchen flow than a standard drive-thru. Dive into our guides on managing the egg station, building a Grand Slam, and handling the overnight rush.",
+  'dominos': "Domino's is a multinational pizza restaurant chain and the largest pizza seller worldwide. Their speed relies on a highly optimized makeline and advanced oven routing systems. Explore our insider knowledge on dough slapping, oven tending, and delivery dispatch logistics.",
+  'dunkin': "Dunkin' is a multinational coffee and doughnut company. While originally known for baked goods, their operations are heavily optimized around high-speed beverage production. Learn the difference between flavor shots and swirls, and how baristas survive the morning coffee rush.",
+  'firehouse-subs': "Firehouse Subs is a fast casual restaurant chain specializing in hot subs. Their unique competitive advantage is their custom steamer setup, which heats meats and cheeses while retaining moisture. Read our breakdown of their steaming process and assembly line flow.",
+  'five-guys': "Five Guys is an American fast casual restaurant chain focused on hamburgers, hot dogs, and French fries. Famous for having absolutely no freezers in their stores, their daily prep is legendary. Discover the secrets of their fry calibration, potato washing, and peanut oil frying.",
+  'hardees-carls-jr': "Hardee's and Carl's Jr. operate as sister fast-food chains primarily known for large burgers and made-from-scratch biscuits. The biscuit maker shift is one of the most demanding roles in the restaurant. Learn how they mix, knead, and bake their signature breakfast items.",
+  'ihop': "IHOP is a multinational pancake house restaurant chain. Like Denny's, it operates as a full-service diner with a massive, complex menu. Our guides break down the secrets of their pancake batter consistency, griddle temperature control, and high-volume breakfast service.",
+  'in-n-out-burger': "In-N-Out Burger is an American regional chain of fast food restaurants with a cult following. Famous for its simple menu and high quality standards, their kitchen operates on a strict, multi-tiered level system. Explore how their board station, fry cooks, and secret menu modifiers work.",
+  'jack-in-the-box': "Jack in the Box is an American fast-food restaurant chain known for a diverse menu that includes burgers, tacos, and all-day breakfast. Their deep-fried tacos are a late-night staple. Learn how their kitchens handle the immense variety of fryers, grills, and assembly stations.",
+  'jersey-mikes': "Jersey Mike's Subs is an American submarine sandwich chain offering premium cold cuts and hot subs. Famous for slicing meats to order and dressing subs 'Mike's Way', their cold table and hot grill operations are distinct. Read our guides on their slicing techniques and grill management.",
+  'jimmy-johns': "Jimmy John's is a franchised sandwich restaurant chain specializing in delivery. Their entire operation is built around 'Freaky Fast' execution. Discover how their cold table layout, bread baking schedule, and strict ingredient placement rules enable 30-second sandwich builds.",
+  'kfc': "KFC (Kentucky Fried Chicken) is a global fast food restaurant chain specializing in fried chicken. Their kitchen operations revolve around large-scale commercial pressure fryers. Learn the differences in breading techniques for Original Recipe versus Extra Crispy, and how their sides are prepped.",
+  'krispy-kreme': "Krispy Kreme is an American doughnut company and coffeehouse chain. The iconic 'Hot Light' signals fresh doughnuts coming straight off the conveyor belt line. Explore our guides on their proofing boxes, the glaze waterfall, and the strict temperature controls required for the perfect ring.",
+  'little-caesars': "Little Caesars is the third-largest pizza chain in the United States, famous for its 'Hot-N-Ready' model. This business model requires aggressive prep and holding strategies. Learn about their dough sheetout machines, sauce ladling techniques, and warming cabinet algorithms.",
+  'mcdonalds': "McDonald's is the world's largest fast food restaurant chain. Their kitchens are marvels of food science and operational engineering. Dive deep into our guides on their ABS (Automated Beverage System), high-tech vat fryers, clam-shell grills, and the legendary fry station.",
+  'multi-chain': "These guides cover operational concepts, food safety protocols, and management strategies that apply across multiple fast food and QSR (Quick Service Restaurant) brands.",
+  'panda-express': "Panda Express is the largest Asian-segment restaurant chain in the United States. Unlike burger joints, Panda Express relies on highly skilled Wok Chefs cooking in large batches. Read our guides on wok maintenance, batch cooking flow, and how they handle leftover food safely.",
+  'panera-bread': "Panera Bread is an American chain store of bakery-café fast casual restaurants. Their operations are split between daytime service and the intensive overnight baking shift. Discover the responsibilities of the overnight baker, the consolidator role, and soup thermalization.",
+  'papa-johns': "Papa John's is an American pizza restaurant franchise known for its 'Better Ingredients' marketing. Their crust requires specific stretching techniques. Learn the mechanics of their dough slapping process, the dough spinner tool, and how their make-line is structured for speed.",
+  'pizza-hut': "Pizza Hut is an American multinational pizza restaurant chain. Famous for their Pan Pizza, their kitchens require extensive proofing protocols. Explore our insider guides on deep-dish prep, the dispatch system for delivery drivers, and oven management.",
+  'popeyes': "Popeyes is an American multinational chain of fried chicken fast food restaurants. Their signature shatter-crunch crust comes from a labor-intensive hand-battering process. Learn why their kitchens often experience bottlenecks, how the battering station works, and their marination process.",
+  'raising-canes': "Raising Cane's is an American fast-food chain specializing entirely in chicken fingers. Their hyper-focused menu allows for incredible kitchen efficiency. Read our guides on their proprietary sauce mixing, the 'Bird Specialist' role, and their continuous-flow frying strategy.",
+  'shake-shack': "Shake Shack is an American fast casual restaurant chain that started as a hot dog cart. Now famous for premium smash burgers, their kitchens focus on quality crusts over speed. Discover the exact technique behind their flat-top smash, their proprietary meat blend, and bun toasting.",
+  'sonic-drive-in': "Sonic Drive-In is an American drive-in fast-food restaurant chain. Operating with a massive menu and carhop service, their layout is unique. Learn how their switchboard routing system works, the logistics of carhop skating, and their extensive beverage mixing station.",
+  'starbucks': "Starbucks is a multinational chain of coffeehouses and roastery reserves. Their behind-the-bar operations are heavily choreographed to handle massive volume. Dive into our guides on the Customer Support cycle, Frappuccino cold bar sequencing, and the reality of the 'Secret Menu'.",
+  'subway': "Subway is a multinational fast food restaurant franchise that primarily sells submarine sandwiches. With the customer directly driving the assembly line, efficiency is key. Explore our guides on their bread baking proofers, the Bain fill line rules, and how to execute the perfect wrap fold.",
+  'taco-bell': "Taco Bell is an American multinational chain of fast food restaurants serving Mexican-inspired food. Their kitchens are optimized for ridiculous speed using a standard ingredient matrix. Learn about the 'Linebacker' role, drive-thru timer hacks, and the hydration of their beans.",
+  'waffle-house': "Waffle House is an American restaurant chain with locations largely in the South, famous for being open 24/7/365. Their unique ordering system relies entirely on physical markers on plates rather than printed tickets. Read our guide explaining the legendary 'Marking System'.",
+  'wawa': "Wawa is an American chain of convenience stores and gas stations famous for its high-quality made-to-order hoagies. Their touch-screen ordering revolutionized the deli flow. Learn how their par-baked bread station and digital ticketing system manage morning rushes.",
+  'wendys': "Wendy's is an American international fast food restaurant chain known for its square hamburgers. Their 'Fresh, Never Frozen' beef promise dictates a totally different supply chain and grill protocol than competitors. Discover how their 4-corner press works and how chili is made.",
+  'whataburger': "Whataburger is an American regional fast food restaurant chain specializing in hamburgers. Their made-to-order model and extensive customization options require a highly adaptable grill line. Read our guides on their patty melt construction, Texas Toast preparation, and grill setup.",
+  'white-castle': "White Castle is an American regional hamburger restaurant chain credited as the first fast-food chain in the US. Their square sliders are steam-grilled over a bed of onions rather than seared. Learn about their five-hole patty design and the unique mechanics of the steam grill.",
+  'wingstop': "Wingstop is an American multinational chain of nostalgic, aviation-themed restaurants specializing in chicken wings. Their operation is surprisingly simple but highly focused. Explore our guides on their fry cook timing, the plain fry start, and the heavy toss-and-coat technique.",
+  'zaxbys': "Zaxby's is an American chain of fast casual restaurants offering chicken wings, chicken fingers, and signature sauces. Their kitchen balances fried items with fresh salads. Read our guides on the composition of Zax Sauce, the ratio problem, and their breading station flow.",
+  'applebees': "Applebee's is one of the largest casual dining chains in the world. Despite internet rumors about 'Chef Mike,' their kitchens balance genuine grill work with rapid-fire TurboChef ovens. Read our honest breakdown of what gets microwaved and what gets flame-grilled.",
+  'bojangles': "Bojangles is a Southern fast food chain famous for its made-from-scratch biscuits and Cajun-seasoned fried chicken. Their 4:00 AM biscuit maker shift is legendary. Learn how they hand-cut, proof, and bake biscuits that are the foundation of their entire menu.",
+  'buffalo-wild-wings': "Buffalo Wild Wings is a casual dining and sports bar chain specializing in chicken wings with over 20 signature sauces. Their sauce-tossing station is the heart of the kitchen. Discover how they fry, toss, and manage their massive sauce inventory.",
+  'cava': "Cava is a fast-casual Mediterranean restaurant chain specializing in customizable grain bowls and pitas. Their three-zone assembly line is engineered for speed and portion precision. Learn how they push hundreds of bowls per hour during the lunch rush.",
+  'chilis': "Chili's Grill & Bar is an American casual dining restaurant chain known for Baby Back Ribs and sizzling fajitas. Their ribs arrive pre-cooked and get finished on the grill with their signature glaze. Read our guide on their grill finishing technique.",
+  'dutch-bros': "Dutch Bros Coffee is a drive-thru-only coffee chain known for its high-energy service and hyper-customized drinks. Their 'Linebuster' system processes cars faster than almost any beverage chain. Learn how their dual-lane drive-thru and drink coding system work.",
+  'long-john-silvers': "Long John Silver's is the largest seafood fast-food chain in the United States. Their signature crispy batter requires a specialized 'swim and drop' frying technique. Read our guide on their fryer mechanics, oil management, and the intense Lent season rush.",
+  'sweetgreen': "Sweetgreen is a fast-casual restaurant chain specializing in salads and warm bowls made with locally sourced ingredients. Their mixing station uses a precision 'vortex toss' technique. Learn how they handle 150+ salads per hour while preventing cross-contamination."
+};
+
+function slugifyChain(chain: string): string {
+  return chain
+    .toLowerCase()
+    .replace(/[']/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+
+export async function getStaticPaths() {
+  function slugify(chain: string): string {
+    return chain.toLowerCase().replace(/[']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+  
+  const allPosts = await getCollection('articles');
+  
+  // Group posts by the standard slug to merge case variations
+  const chainsMap = new Map<string, { chainName: string, posts: any[] }>();
+  
+  for (const post of allPosts) {
+      if (!post.data.chain) continue;
+      const slug = slugify(post.data.chain);
+      if (!chainsMap.has(slug)) {
+          chainsMap.set(slug, { chainName: post.data.chain, posts: [] });
+      }
+      chainsMap.get(slug)!.posts.push(post);
+  }
+
+  return Array.from(chainsMap.entries()).map(([slug, data]) => {
+      data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+      return {
+          params: { chain: slug },
+          props: { chainName: data.chainName, posts: data.posts },
+      };
+  });
+}
+
+const { chainName, posts } = Astro.props;
+const chainSlug = slugifyChain(chainName);
+const displayName = chainMap[chainSlug] || chainName;
+const chainDesc = chainDescriptions[chainSlug];
+const metaDescription = chainDesc
+  ? chainDesc.substring(0, 155) + (chainDesc.length > 155 ? '...' : '')
+  : `Browse all insider guides for ${displayName}. Real tips from real workers.`;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead
+    title={`${displayName} Guides | Fast Food Guides`}
+    description={metaDescription}
+    noindex={posts.length < 3}
+  />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${displayName} Guides`,
+    "description": metaDescription,
+    "url": `https://fastfoodguides.com/articles/chain/${chainSlug}/`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": posts.length,
+      "itemListElement": posts.map((post, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://fastfoodguides.com/articles/${post.id}/`,
+        "name": post.data.title
+      }))
+    }
+  })} />
+</head>
+<body>
+		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>
+  <Header />
+  <main id="main-content">
+    <div class="chain-header">
+      <a href="/articles/" class="back-link">← All Guides</a>
+      <h1>{displayName} Guides</h1>
+      <p class="subtitle">{posts.length} insider guide{posts.length !== 1 ? 's' : ''} from real {displayName} workers.</p>
+      {chainDescriptions[chainSlug] && (
+        <p class="chain-description">{chainDescriptions[chainSlug]}</p>
+      )}
+    </div>
+
+    {posts.length >= 3 && (
+      <div class="hub-content">
+        <h2>What to Expect from {displayName} Operations</h2>
+        <p>
+          Unlike casual dining or full-service restaurants, {displayName} operates on a strictly optimized kitchen flow designed to maximize throughput during peak hours. Our insider guides below detail the exact stations, standard operating procedures, and unwritten rules that make {displayName} kitchens function. From prep routines to drive-thru timer management, these guides are based on real QSR experience.
+        </p>
+      </div>
+    )}
+
+    <div class="articles-grid">
+      {posts.map((post) => (
+        <a href={`/articles/${post.id}/`} class="article-card">
+          <h2>{post.data.title}</h2>
+          <p class="date"><FormattedDate date={post.data.pubDate} /></p>
+          <p class="desc">{post.data.description}</p>
+        </a>
+      ))}
+    </div>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  body {
+    background-color: var(--bg-body);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+    width: 100%;
+  }
+
+  .chain-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .back-link {
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.95rem;
+    display: inline-block;
+    margin-bottom: 1rem;
+    transition: opacity 0.2s ease;
+  }
+  .back-link:hover {
+    opacity: 0.8;
+  }
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--text-primary), #94A3B8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    color: #94A3B8;
+    font-size: 1.1rem;
+    max-width: 600px;
+  }
+
+  .chain-description {
+    color: #CBD5E1;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin-top: 1rem;
+    padding: 1rem 1.25rem;
+    background: rgba(14, 165, 233, 0.05);
+    border-left: 3px solid #0EA5E9;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hub-content {
+    background: var(--bg-surface);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hub-content h2 {
+    color: var(--text-primary);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+
+  .hub-content p {
+    color: #94A3B8;
+    line-height: 1.7;
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .article-card {
+    display: block;
+    background: #1a2332;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 0.75rem;
+    padding: 1.75rem;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .article-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(16, 185, 129, 0.3);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  }
+
+  .article-card h2 {
+    color: var(--accent);
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+  }
+
+  .date {
+    font-size: 0.875rem;
+    color: #94A3B8;
+    margin-bottom: 0.75rem;
+  }
+
+  .desc {
+    color: #94A3B8;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  @media (max-width: 640px) {
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

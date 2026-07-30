@@ -1,0 +1,341 @@
+---
+import CookieBanner from './CookieBanner.astro';
+const year = new Date().getFullYear();
+---
+
+<CookieBanner />
+
+<footer>
+	<div class="footer-inner">
+		<div class="footer-main">
+			<p class="copyright">
+				&copy; {year} Fast Food Guides. All rights reserved.
+			</p>
+			<p class="tagline">
+				Behind-the-counter guides from real QSR veterans.
+			</p>
+		<div class="footer-seo-grid">
+			<div class="footer-col">
+				<h3>Top Chains</h3>
+				<ul>
+					<li><a href="/articles/chain/mcdonalds/">McDonald's Guides</a></li>
+					<li><a href="/articles/chain/starbucks/">Starbucks Guides</a></li>
+					<li><a href="/articles/chain/taco-bell/">Taco Bell Guides</a></li>
+					<li><a href="/articles/chain/wendys/">Wendy's Guides</a></li>
+					<li><a href="/articles/chain/chick-fil-a/">Chick-fil-A Guides</a></li>
+					<li><a href="/articles/chain/subway/">Subway Guides</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h3>Top Topics</h3>
+				<ul>
+					<li><a href="/articles/topic/kitchen/">Kitchen Operations</a></li>
+					<li><a href="/articles/topic/drive-thru/">Drive-Thru Hacks</a></li>
+					<li><a href="/articles/topic/equipment/">Kitchen Equipment</a></li>
+					<li><a href="/articles/topic/training/">Crew Training</a></li>
+					<li><a href="/articles/topic/burgers/">Burger Stations</a></li>
+					<li><a href="/articles/topic/coffee/">Coffee & Beverage</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h3>Special Features</h3>
+				<ul>
+					<li><a href="/secret-menus/">Secret Menus Hub</a></li>
+					<li><a href="/articles/">All 100+ Guides</a></li>
+					<li><a href="/about/">About Our Authors</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h3>Legal & Trust</h3>
+				<ul>
+					<li><a href="/privacy/">Privacy Policy</a></li>
+					<li><a href="/terms/">Terms of Service</a></li>
+					<li><a href="/disclaimer/">YMYL Disclaimer</a></li>
+					<li><a href="/contact/">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<nav class="footer-nav" aria-label="Footer navigation">
+			<a href="/privacy/">Privacy Policy</a>
+			<span class="separator" aria-hidden="true">|</span>
+			<a href="/terms/">Terms of Service</a>
+			<span class="separator" aria-hidden="true">|</span>
+			<a href="/disclaimer/">Disclaimer</a>
+			<span class="separator" aria-hidden="true">|</span>
+			<a href="/about/">About Us</a>
+			<span class="separator" aria-hidden="true">|</span>
+			<a href="/contact/">Contact</a>
+			<span class="separator" aria-hidden="true">|</span>
+			<button id="do-not-sell-link" class="link-button">Do Not Sell My Info</button>
+		</nav>
+	</div>
+</footer>
+
+
+
+<!-- Do Not Sell Modal (CCPA) -->
+<div id="dns-modal" class="dns-modal" role="dialog" aria-modal="true" aria-labelledby="dns-modal-title" style="display: none;">
+	<div class="dns-modal-inner">
+		<h3 id="dns-modal-title">Do Not Sell My Personal Information</h3>
+		<p>Under the California Consumer Privacy Act (CCPA), you have the right to opt out of the sale of your personal information. We use advertising cookies that may constitute a "sale" under CCPA.</p>
+		<p>Current status: <strong id="dns-status">Opted In</strong></p>
+		<div class="consent-buttons">
+			<button id="dns-optout-btn" class="consent-btn consent-btn-reject">Opt Out of Sale</button>
+			<button id="dns-close-btn" class="consent-btn consent-btn-accept">Close</button>
+		</div>
+	</div>
+</div>
+
+<script>
+	(function() {
+		var dnsLink = document.getElementById('do-not-sell-link');
+		var dnsModal = document.getElementById('dns-modal');
+		var dnsStatus = document.getElementById('dns-status');
+		
+		var consent = localStorage.getItem('cookie-consent');
+		if (consent === 'rejected') {
+			dnsStatus.textContent = 'Opted Out';
+		}
+
+		dnsLink.addEventListener('click', function(e) {
+			e.preventDefault();
+			dnsModal.style.display = 'flex';
+			document.getElementById('dns-close-btn').focus();
+		});
+
+		document.getElementById('dns-optout-btn').addEventListener('click', function() {
+			localStorage.setItem('cookie-consent', 'rejected');
+			dnsStatus.textContent = 'Opted Out';
+			dnsModal.style.display = 'none';
+			dnsLink.focus();
+			
+			if (typeof gtag === 'function') {
+				gtag('consent', 'update', {
+					'ad_storage': 'denied',
+					'ad_user_data': 'denied',
+					'ad_personalization': 'denied',
+					'analytics_storage': 'denied'
+				});
+			}
+		});
+
+		document.getElementById('dns-close-btn').addEventListener('click', function() {
+			dnsModal.style.display = 'none';
+			dnsLink.focus();
+		});
+
+		// Focus trap (bind globally only once)
+		if (!window._dnsKeydownInit) {
+			window._dnsKeydownInit = true;
+			document.addEventListener('keydown', function(e) {
+				var modal = document.getElementById('dns-modal');
+				var link = document.getElementById('do-not-sell-link');
+				if (!modal || modal.style.display === 'none') return;
+				
+				const focusableElements = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+				const focusableContent = modal.querySelectorAll(focusableElements);
+				const firstFocusableElement = focusableContent[0];
+				const lastFocusableElement = focusableContent[focusableContent.length - 1];
+
+				if (e.key === 'Escape') {
+					modal.style.display = 'none';
+					if (link) link.focus();
+					return;
+				}
+				let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
+				if (!isTabPressed) return;
+				if (e.shiftKey) { 
+					if (document.activeElement === firstFocusableElement) {
+						lastFocusableElement.focus();
+						e.preventDefault();
+					}
+				} else { 
+					if (document.activeElement === lastFocusableElement) {
+						firstFocusableElement.focus();
+						e.preventDefault();
+					}
+				}
+			});
+		}
+	})();
+</script>
+
+<style>
+	footer {
+		background-color: var(--bg-body);
+		border-top: 1px solid rgba(16, 185, 129, 0.15);
+		padding: 3em 1.5em 2.5em;
+		margin-top: auto;
+	}
+
+	.footer-inner {
+		max-width: 1100px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1.25em;
+		text-align: center;
+	}
+
+	.footer-main {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25em;
+	}
+
+	.copyright {
+		margin: 0;
+		color: #94A3B8;
+		font-size: 0.9rem;
+		font-weight: 500;
+	}
+
+	.tagline {
+		margin: 0;
+		color: #94A3B8;
+		font-size: 0.825rem;
+		font-style: italic;
+	}
+
+	.footer-seo-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		gap: 2.5rem;
+		width: 100%;
+		text-align: left;
+		margin: 1.5rem 0;
+		padding: 2rem 0;
+		border-top: 1px solid rgba(255, 255, 255, 0.08);
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	}
+
+	.footer-col h3 {
+		color: #F8FAFC;
+		font-size: 0.95rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		margin: 0 0 1rem 0;
+	}
+
+	.footer-col ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.6rem;
+	}
+
+	.footer-col a {
+		color: #94A3B8;
+		text-decoration: none;
+		font-size: 0.875rem;
+		transition: color 0.2s ease;
+		display: inline-block;
+		padding: 0.4rem 0;
+	}
+
+	.footer-col a:hover {
+		color: var(--accent);
+	}
+
+	.footer-nav {
+		display: flex;
+		align-items: center;
+		gap: 0.75em;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.footer-nav a, .link-button {
+		color: #94A3B8;
+		text-decoration: none;
+		font-size: 0.85rem;
+		transition: color 0.2s ease;
+		background: none;
+		border: none;
+		padding: 0.6rem 0.5rem;
+		display: inline-block;
+		font-family: inherit;
+		cursor: pointer;
+	}
+	.footer-nav a:hover, .link-button:hover {
+		color: var(--accent);
+	}
+
+	.separator {
+		color: rgba(255, 255, 255, 0.12);
+		font-size: 0.8rem;
+		user-select: none;
+	}
+
+	/* CCPA Modal */
+	.dns-modal {
+		position: fixed;
+		top: 0; left: 0; right: 0; bottom: 0;
+		background: rgba(10, 15, 28, 0.85);
+		backdrop-filter: blur(8px);
+		z-index: 10000;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 1.5rem;
+	}
+	.dns-modal-inner {
+		background: #1a2332;
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		border-radius: 1rem;
+		padding: 2rem;
+		max-width: 500px;
+		width: 100%;
+		text-align: center;
+		box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+	}
+	.dns-modal-inner h3 {
+		color: var(--text-primary);
+		margin: 0 0 1rem 0;
+	}
+	.dns-modal-inner p {
+		color: #94A3B8;
+		font-size: 0.95rem;
+		line-height: 1.6;
+		margin-bottom: 1.5rem;
+	}
+	#dns-status {
+		color: var(--accent);
+	}
+
+	.consent-buttons {
+		display: flex;
+		gap: 1rem;
+		justify-content: center;
+	}
+	.consent-btn {
+		padding: 0.75rem 1.5rem;
+		border-radius: 0.5rem;
+		font-weight: 600;
+		font-size: 0.95rem;
+		cursor: pointer;
+		transition: all 0.2s ease;
+		border: none;
+	}
+	.consent-btn-accept {
+		background: linear-gradient(135deg, var(--accent) 0%, #059669 100%);
+		color: var(--bg-body);
+	}
+	.consent-btn-accept:hover {
+		box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+		transform: translateY(-1px);
+	}
+	.consent-btn-reject {
+		background: rgba(255, 255, 255, 0.05);
+		color: var(--text-primary);
+		border: 1px solid rgba(255, 255, 255, 0.1);
+	}
+	.consent-btn-reject:hover {
+		background: rgba(255, 255, 255, 0.1);
+	}
+</style>

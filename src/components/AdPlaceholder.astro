@@ -1,0 +1,61 @@
+---
+interface Props {
+	slot: string;
+	isApproved?: boolean;
+}
+
+const { slot, isApproved = false } = Astro.props;
+---
+
+{/* Ad inventory reservation container.
+    Before AdSense approval (isApproved = false), this component collapses to prevent Google AdSense crawlers
+    from penalizing the domain for "Deceptive Site Behavior" / "labeled empty ad boxes".
+    Once AdSense approval is received, set isApproved={true} and uncomment the ins tag below. */}
+
+{isApproved && (
+	<div class="ad-container" data-ad-position={slot} data-ad-status="active">
+		<span class="ad-label">Advertisement</span>
+		<div class="ad-slot-placeholder">
+			{/* Uncomment and populate when AdSense approval is received:
+			<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-client="ca-pub-4755826230930575"
+				data-ad-slot="XXXXXXXXXX"
+				data-ad-format="auto"
+				data-full-width-responsive="true">
+			</ins>
+			*/}
+		</div>
+	</div>
+)}
+
+<style>
+	.ad-container {
+		margin: 1.5rem 0;
+		text-align: center;
+		width: 100%;
+		max-width: 100%;
+		box-sizing: border-box;
+		display: block;
+		padding: 0.5rem 0;
+	}
+
+	.ad-label {
+		display: block;
+		margin-bottom: 0.35rem;
+		font-size: 0.7rem;
+		text-transform: uppercase;
+		letter-spacing: 0.12em;
+		color: #64748B;
+		font-weight: 600;
+	}
+
+	.ad-slot-placeholder {
+		min-height: 280px;
+		width: 100%;
+		background: rgba(255, 255, 255, 0.015);
+		border-radius: 0.5rem;
+		display: block;
+		transition: border-color 0.2s ease;
+	}
+</style>

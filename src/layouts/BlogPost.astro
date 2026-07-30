@@ -1,0 +1,626 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection, getEntries } from 'astro:content';
+import { Image } from 'astro:assets';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import AuthorBylineTop from '../components/AuthorBylineTop.astro';
+import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
+import NewsletterCTA from '../components/NewsletterCTA.astro';
+import AdPlaceholder from '../components/AdPlaceholder.astro';
+
+type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
+
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, disclaimerType, faq, isDebunk, slug, headings } = Astro.props;
+
+const allArticles = await getCollection('articles');
+let resolvedRelated: CollectionEntry<'articles'>[] = [];
+
+if (relatedArticles && relatedArticles.length > 0) {
+	resolvedRelated = await getEntries(relatedArticles);
+}
+
+if (resolvedRelated.length < 3 && chain) {
+	const fallbackArticles = allArticles
+		.filter(a => a.data.chain === chain && a.id !== slug && !resolvedRelated.find(r => r.id === a.id))
+		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+		.slice(0, 3 - resolvedRelated.length);
+	resolvedRelated = [...resolvedRelated, ...fallbackArticles];
+}
+
+// Build breadcrumb path
+function slugifyChain(c: string): string {
+	return c.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+const schemas: any[] = [
+	{
+		"@context": "https://schema.org",
+		"@type": "Article",
+		"headline": title,
+		"description": description,
+		"datePublished": pubDate.toISOString(),
+		...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+		...(chain && { "articleSection": chain }),
+		"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
+		"inLanguage": "en",
+		"author": {
+			"@type": "Person",
+			"name": author,
+			"jobTitle": authorTitle,
+			"url": "https://fastfoodguides.com/author/russell-roseberry",
+			"image": "https://fastfoodguides.com/images/russell-roseberry.jpg"
+		},
+		"publisher": {
+			"@type": "Organization",
+			"name": "Fast Food Guides",
+			"url": "https://fastfoodguides.com",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://fastfoodguides.com/og-default.png"
+			}
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": Astro.url.href
+		}
+	}
+];
+
+if (faq && faq.length > 0) {
+	schemas.push({
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		"mainEntity": faq.map((q: any) => ({
+			"@type": "Question",
+			"name": q.question,
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": q.answer
+			}
+		}))
+	});
+}
+
+
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
+		<script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", "@graph": schemas }).replace(/</g, '\\u003c')} />
+		<style>
+			body {
+				background: var(--bg-body);
+				color: var(--text-primary);
+			}
+
+			main {
+				width: 100%;
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+
+			article {
+				padding: 2rem 1rem 4rem;
+				max-width: 1200px;
+				margin: 0 auto;
+			}
+
+			.article-layout {
+				display: grid;
+				grid-template-columns: 1fr;
+				gap: 2rem;
+			}
+
+			@media (min-width: 1024px) {
+				.article-layout {
+					grid-template-columns: 1fr 300px;
+					align-items: start;
+				}
+			}
+
+			.article-content {
+				min-width: 0;
+			}
+
+			.article-sidebar {
+				display: none;
+			}
+
+			@media (min-width: 1024px) {
+				.article-sidebar {
+					display: block;
+					position: sticky;
+					top: 2rem;
+				}
+			}
+
+			.prose {
+				width: 100%;
+				color: #CBD5E1;
+				font-size: 1.05rem;
+				line-height: 1.8;
+			}
+
+			/* — Breadcrumb — */
+			.breadcrumb {
+				margin-bottom: 2.5rem;
+				font-size: 0.85rem;
+				color: #94A3B8;
+			}
+
+			.breadcrumb ol {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+			}
+
+			.breadcrumb li {
+				margin: 0;
+				padding: 0;
+				display: flex;
+				align-items: center;
+			}
+
+			.breadcrumb a {
+				color: #94A3B8;
+				text-decoration: none;
+				transition: color 0.2s ease;
+			}
+
+			.breadcrumb a:hover {
+				color: var(--accent);
+			}
+
+			.breadcrumb .bc-sep {
+				margin: 0 0.4em;
+				opacity: 0.5;
+			}
+
+			.breadcrumb .bc-current {
+				color: #94A3B8;
+			}
+
+			/* — Title block — */
+			.article-header {
+				margin-bottom: 2rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.chain-badge {
+				display: inline-block;
+				margin-bottom: 0.75rem;
+				padding: 0.2em 0.65em;
+				font-size: 0.75rem;
+				font-weight: 600;
+				letter-spacing: 0.04em;
+				text-transform: uppercase;
+				color: var(--accent);
+				background: rgba(16, 185, 129, 0.12);
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-radius: 0.375rem;
+				line-height: 1.5;
+				text-decoration: none;
+				transition: background 0.2s ease;
+			}
+
+			.chain-badge:hover {
+				background: rgba(16, 185, 129, 0.2);
+			}
+
+			.article-header h1 {
+				margin: 0 0 1rem 0;
+				font-size: 2.25rem;
+				font-weight: 800;
+				color: var(--text-primary);
+				line-height: 1.2;
+				letter-spacing: -0.02em;
+			}
+
+			.updated-note {
+				margin-top: 0.5rem;
+				font-size: 0.8rem;
+				font-style: italic;
+				color: #94A3B8;
+			}
+
+			/* — Prose typography — */
+			.prose :global(h2) {
+				margin: 2.5rem 0 1rem 0;
+				font-size: 1.6rem;
+				font-weight: 700;
+				color: var(--text-primary);
+				line-height: 1.3;
+			}
+
+			.prose :global(h3) {
+				margin: 2rem 0 0.75rem 0;
+				font-size: 1.3rem;
+				font-weight: 600;
+				color: #E2E8F0;
+				line-height: 1.35;
+			}
+
+			.prose :global(h4) {
+				margin: 1.5rem 0 0.5rem 0;
+				font-size: 1.1rem;
+				font-weight: 600;
+				color: #CBD5E1;
+				line-height: 1.4;
+			}
+
+			.prose :global(p) {
+				margin-bottom: 1.5em;
+				color: #CBD5E1;
+			}
+
+			.prose :global(a) {
+				color: #34D399;
+				text-decoration: underline;
+				text-decoration-color: rgba(52, 211, 153, 0.3);
+				text-underline-offset: 0.15em;
+				transition: color 0.2s ease, text-decoration-color 0.2s ease;
+			}
+
+			.prose :global(a:hover) {
+				color: var(--accent);
+				text-decoration-color: var(--accent);
+			}
+
+			.prose :global(strong) {
+				color: var(--text-primary);
+				font-weight: 700;
+			}
+
+			.prose :global(ul),
+			.prose :global(ol) {
+				margin-bottom: 1.5em;
+				padding-left: 1.5em;
+				color: #CBD5E1;
+			}
+
+			.prose :global(li) {
+				margin-bottom: 0.5em;
+			}
+
+			.prose :global(li::marker) {
+				color: var(--accent);
+			}
+
+			.prose :global(blockquote) {
+				margin: 1.5em 0;
+				padding: 1em 1.25em;
+				border-left: 3px solid var(--accent);
+				background: rgba(16, 185, 129, 0.06);
+				border-radius: 0 0.5rem 0.5rem 0;
+				color: #94A3B8;
+				font-style: italic;
+				font-size: 1em;
+			}
+
+			.prose :global(blockquote p) {
+				margin-bottom: 0;
+			}
+
+			.prose :global(code) {
+				padding: 0.15em 0.4em;
+				font-size: 0.875em;
+				background: rgba(255, 255, 255, 0.08);
+				border-radius: 0.25rem;
+				color: #34D399;
+			}
+
+			.prose :global(.callout) {
+				margin: 2rem 0;
+				padding: 1.5rem;
+				border-radius: 0.75rem;
+				background: rgba(255, 255, 255, 0.03);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+			}
+
+			.prose :global(.callout-tip) {
+				background: rgba(16, 185, 129, 0.05);
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-left: 4px solid var(--accent);
+			}
+
+			.prose :global(.callout-tip strong) {
+				color: var(--accent);
+				font-size: 1.05em;
+				display: block;
+				margin-bottom: 0.5rem;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+
+			.prose :global(pre) {
+				margin: 1.5em 0;
+				padding: 1.25em;
+				background: var(--bg-surface);
+				border: 1px solid rgba(255, 255, 255, 0.08);
+				border-radius: 0.5rem;
+				overflow-x: auto;
+			}
+
+			.prose :global(pre > code) {
+				all: unset;
+				color: #CBD5E1;
+			}
+
+			.prose :global(hr) {
+				margin: 2.5rem 0;
+				border: none;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.prose :global(table) {
+				width: 100%;
+				margin: 1.5em 0;
+				border-collapse: collapse;
+				display: block;
+				overflow-x: auto;
+			}
+
+			.prose :global(th) {
+				padding: 0.75em 1em;
+				text-align: left;
+				font-weight: 600;
+				color: var(--text-primary);
+				background: var(--bg-surface);
+				border-bottom: 2px solid rgba(16, 185, 129, 0.3);
+				font-size: 0.9rem;
+			}
+
+			.prose :global(td) {
+				padding: 0.65em 1em;
+				border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+				font-size: 0.95rem;
+			}
+
+			.prose :global(tr:hover td) {
+				background: rgba(255, 255, 255, 0.02);
+			}
+
+			.prose :global(img) {
+				max-width: 100%;
+				height: auto;
+				border-radius: 12px;
+				margin: 2.5rem 0;
+				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+			}
+
+			.hero-image-wrapper {
+				margin: 0 0 2.5rem 0;
+			}
+			.hero-image-wrapper img {
+				width: 100%;
+				height: auto;
+				border-radius: 12px;
+				box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+			}
+
+			/* — Related Articles — */
+			.related-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.related-section h2 {
+				font-size: 1.3rem;
+				font-weight: 700;
+				color: var(--text-primary);
+				margin: 0 0 1.25rem 0;
+			}
+
+			.related-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+				gap: 1rem;
+			}
+
+			.related-card {
+				display: block;
+				padding: 1rem;
+				background: rgba(255, 255, 255, 0.03);
+				border: 1px solid rgba(255, 255, 255, 0.06);
+				border-radius: 0.75rem;
+				text-decoration: none;
+				transition: border-color 0.2s ease, background 0.2s ease;
+			}
+
+			.related-card:hover {
+				border-color: rgba(16, 185, 129, 0.3);
+				background: rgba(16, 185, 129, 0.05);
+			}
+
+			.related-card .rc-chain {
+				display: inline-block;
+				font-size: 0.7rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				color: var(--accent);
+				margin-bottom: 0.4rem;
+			}
+
+			.related-card .rc-title {
+				font-size: 0.9rem;
+				font-weight: 600;
+				color: #E2E8F0;
+				line-height: 1.35;
+			}
+
+			/* — FAQ Section — */
+			.faq-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+
+			.faq-section h2 {
+				font-size: 1.5rem;
+				font-weight: 700;
+				color: var(--text-primary);
+				margin: 0 0 1.5rem 0;
+			}
+
+			.faq-item {
+				margin-bottom: 1.5rem;
+			}
+
+			.faq-item h3 {
+				font-size: 1.1rem;
+				font-weight: 600;
+				color: #E2E8F0;
+				margin: 0 0 0.5rem 0;
+			}
+
+			.faq-item p {
+				color: #CBD5E1;
+				margin: 0;
+				line-height: 1.6;
+			}
+
+			/* — Responsive — */
+			.toc-mobile {
+				display: block;
+			}
+			@media (min-width: 1024px) {
+				.toc-mobile {
+					display: none;
+				}
+			}
+
+			@media (max-width: 720px) {
+				.article-header h1 {
+					font-size: 1.75rem;
+				}
+
+				article {
+					padding: 1.5rem 0.75rem 3rem;
+				}
+
+				.prose {
+					font-size: 1rem;
+				}
+
+				.prose :global(img) {
+					max-width: 100%;
+					margin: 1.25em auto;
+					border-radius: 0.375rem;
+				}
+
+				.related-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>
+		<Header />
+		<main id="main-content">
+			<article class="article-layout">
+				<div class="article-content">
+					<div class="prose">
+					<!-- Breadcrumb Navigation -->
+					{chain && (
+						<nav class="breadcrumb" aria-label="Breadcrumb">
+							<ol>
+								<li><a href="/">Home</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><a href="/articles/">Guides</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><span class="bc-current" aria-current="page">{title}</span></li>
+							</ol>
+						</nav>
+					)}
+
+					<header class="article-header">
+						{chain && <a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>}
+						<h1>{title}</h1>
+						<AuthorBylineTop author={author} authorTitle={authorTitle} pubDate={pubDate} />
+						{
+							updatedDate && (
+								<p class="updated-note">
+									Updated <time datetime={updatedDate.toISOString()}>
+										{updatedDate.toLocaleDateString('en-us', {
+											year: 'numeric',
+											month: 'short',
+											day: 'numeric',
+										})}
+									</time>
+								</p>
+							)
+						}
+					</header>
+
+					{heroImage && (
+						<div class="hero-image-wrapper">
+							<Image src={heroImage} alt={title} width={800} height={450} format="webp" loading="eager" fetchpriority="high" decoding="async" />
+						</div>
+					)}
+
+					<div class="toc-mobile">
+						<TableOfContents headings={headings} />
+					</div>
+
+					{disclaimerType && <YMYLDisclaimer type={disclaimerType} />}
+
+					<slot />
+
+					<NewsletterCTA />
+
+					{faq && faq.length > 0 && (
+						<section class="faq-section">
+							<h2>Frequently Asked Questions</h2>
+							{faq.map((item: any) => (
+								<div class="faq-item">
+									<h3>{item.question}</h3>
+									<p>{item.answer}</p>
+								</div>
+							))}
+						</section>
+					)}
+
+					<AdPlaceholder slot="post-bottom" />
+
+					<!-- Related Articles (auto-rendered from frontmatter) -->
+					{resolvedRelated.length > 0 && (
+						<section class="related-section">
+							<h2>More Insider Guides</h2>
+							<div class="related-grid">
+								{resolvedRelated.map(article => (
+									<a href={`/articles/${article.id}/`} class="related-card">
+										{article.data.chain && <span class="rc-chain">{article.data.chain}</span>}
+										<span class="rc-title">{article.data.title}</span>
+									</a>
+								))}
+							</div>
+						</section>
+					)}
+
+					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
+				</div>
+				</div>
+				<aside class="article-sidebar">
+					<TableOfContents headings={headings} />
+					<div style="margin-top: 2rem;">
+						<AdPlaceholder slot="sidebar-sticky" />
+					</div>
+				</aside>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>

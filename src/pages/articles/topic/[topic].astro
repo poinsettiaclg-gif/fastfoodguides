@@ -1,0 +1,277 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
+import { slugifyTopic } from '../../../utils';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('articles');
+  const topicsMap = new Map<string, { topicName: string, posts: any[] }>();
+
+  for (const post of allPosts) {
+      if (!post.data.topic) continue;
+      const slug = slugifyTopic(post.data.topic);
+      if (!topicsMap.has(slug)) {
+          topicsMap.set(slug, { topicName: post.data.topic, posts: [] });
+      }
+      topicsMap.get(slug)!.posts.push(post);
+  }
+
+  return Array.from(topicsMap.entries()).map(([slug, data]) => {
+      data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+      return {
+          params: { topic: slug },
+          props: { topicName: data.topicName, posts: data.posts },
+      };
+  });
+}
+
+const { topicName, posts } = Astro.props;
+const topicSlug = slugifyTopic(topicName);
+
+// Comprehensive editorial descriptions for all QSR operational topics to eliminate AdSense thin content flags
+const topicDescriptions: Record<string, string> = {
+  'beverages': "Beverage station operations are the highest-margin and highest-velocity areas in any quick-service restaurant. Our guides break down automated fountain dispensing systems, espresso machine calibration protocols, syrup pumps, and iced tea brewing standards.",
+  'breakfast-coffee': "The morning breakfast and coffee rush requires an entirely different kitchen cadence than afternoon lunch service. Dive into our operational breakdowns of espresso extraction, steam wand sanitation, egg preparation, and high-speed morning drive-thru routing.",
+  'burgers': "Burger line execution is the foundation of American fast food. Explore our technical breakdowns of automated flame broilers, clamshell platen grills, smash patty techniques, and grease management systems across top QSR chains.",
+  'chicken': "Commercial fried chicken operations require strict temperature management, oil filtration, and food safety protocols. Learn how kitchen staff manage open vat fryers, pressure fryers, hand-breading stations, and raw poultry cross-contamination prevention.",
+  'coffee': "Coffeehouse baristas and QSR beverage workers handle immense customization volume during peak hours. Read our guides on espresso shot timing, milk steaming thermodynamics, cold foam preparation, and beverage sequencing loops.",
+  'drive-thru': "The drive-thru lane generates up to 70% of total revenue for modern fast-food restaurants. Discover the mechanics of magnetic induction vehicle loops, headset wireless systems, order confirmation displays, and speed-of-service (SOS) timer hacks.",
+  'drive-thru-operations': "Mastering drive-thru operations requires seamless communication between the cashier, order taker, and kitchen line. Explore our deep dives into multi-lane routing, digital expediting tablets, and strategies for eliminating handoff plane bottlenecks.",
+  'equipment': "Commercial kitchen equipment is the backbone of restaurant reliability. Our guides detail the operation, maintenance, and emergency troubleshooting of industrial fryers, platen grills, thermalizers, UHC holding cabinets, and high-speed ovens.",
+  'food-prep': "Morning prep sets the pace for the entire operational day in a restaurant. Learn how line cooks and prep masters slice meats, wash and cut produce, portion sauces, and calibrate scales before the doors open for lunch service.",
+  'fries': "The fry station is often the biggest bottleneck in a fast-food kitchen. Dive into our technical guides on potato starch washing, oil smoke points, two-stage blanch and crisp frying, salt portioning, and heat lamp holding times.",
+  'general': "General QSR operational guides covering industry-wide management strategies, labor cost optimization, food cost control, health department audit preparation, and back-of-house workflow design.",
+  'kitchen': "Behind the counter of every fast-food restaurant is a highly synchronized kitchen assembly line. Explore our comprehensive guides on station layout, KDS (Kitchen Display System) routing, ticket prioritization, and line-check sanitation.",
+  'kitchen-operations': "Efficient kitchen operations separate high-profit franchises from struggling stores. Learn how managers and line cooks handle inventory shrinkage, waste tracking, grease trap cleaning, and peak-hour line balancing.",
+  'mexican': "Mexican-inspired QSR chains rely on specialized rethermalizers, steam tables, and rapid assembly matrices. Read our breakdowns of bean hydration, tortilla steaming, high-speed wrapping, and hot food holding cabinet protocols.",
+  'operations': "Inside breakdowns of quick-service restaurant management, multi-unit operations, digital make-line integration, POS system architecture, and emergency outage handling protocols.",
+  'other-chains': "Operational breakdowns, kitchen equipment guides, and employee training workflows from regional fast-food favorites and specialty quick-service restaurant chains.",
+  'pizza': "Commercial pizza kitchens operate on rapid dough management and conveyor oven engineering. Discover the secrets of dough proofing, slap and stretch techniques, automated sauce dispensing, and delivery driver dispatch routing.",
+  'prep': "Daily kitchen prep requires precision, speed, and strict FIFO (First-In, First-Out) rotation. Learn how restaurant staff manage walk-in cooler organization, labeling systems, and par-level forecasting.",
+  'salads': "Fast-casual salad and bowl concepts require intensive raw vegetable processing and strict temperature adherence. Read our guides on commercial produce washing, spin-drying, custom dressing emulsification, and assembly line portioning.",
+  'sandwiches': "Submarine and sandwich chain kitchens focus on rapid custom assembly and ingredient presentation. Dive into our breakdowns of commercial bread proofing, baking schedules, deli meat slicing, and Bain refrigeration rules.",
+  'seafood': "Quick-service seafood restaurants face unique challenges in oil management and batter consistency. Explore our guides on commercial batter dipping, frying temperature recovery, and Lent season volume spikes.",
+  'sides': "Side items like hash browns, onion rings, mac and cheese, and biscuits drive average ticket size. Learn how kitchen teams manage holding cabinet humidity, fryer baskets, and hot table rotation.",
+  'training': "Employee onboarding and crew training are critical for reducing QSR turnover. Read our first-day survival guides, training matrices, safety certification overviews, and station mastery checklists."
+};
+
+const topicDesc = topicDescriptions[topicSlug];
+const metaDescription = topicDesc
+  ? topicDesc.substring(0, 155) + (topicDesc.length > 155 ? '...' : '')
+  : `Browse all insider guides related to ${topicName}. Real tips from real workers.`;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead
+    title={`${topicName} Fast Food Guides | Fast Food Guides`}
+    description={metaDescription}
+    noindex={posts.length < 3}
+  />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${topicName} Fast Food Guides`,
+    "description": metaDescription,
+    "url": `https://fastfoodguides.com/articles/topic/${topicSlug}/`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": posts.length,
+      "itemListElement": posts.map((post, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://fastfoodguides.com/articles/${post.id}/`,
+        "name": post.data.title
+      }))
+    }
+  })} />
+</head>
+<body>
+		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>
+  <Header />
+  <main id="main-content">
+    <div class="chain-header">
+      <a href="/articles/" class="back-link">← All Guides</a>
+      <h1>{topicName} Guides</h1>
+      <p class="subtitle">{posts.length} insider guide{posts.length !== 1 ? 's' : ''} covering {topicName.toLowerCase()} operations.</p>
+      {topicDescriptions[topicSlug] && (
+        <p class="chain-description">{topicDescriptions[topicSlug]}</p>
+      )}
+    </div>
+
+    {posts.length >= 3 && (
+      <div class="hub-content">
+        <h2>What to Expect from {topicName} Operations</h2>
+        <p>
+          Mastering {topicName.toLowerCase()} in a commercial quick-service kitchen requires strict adherence to standardized recipes, temperature thresholds, and speed-of-service benchmarks. Unlike home cooking, high-volume restaurant execution depends on specialized equipment and choreographed team communication. Our operational masterclasses below provide firsthand technical breakdowns, common pitfalls, and manager tips for mastering this area of the kitchen.
+        </p>
+      </div>
+    )}
+
+    <div class="articles-grid">
+      {posts.map((post) => (
+        <a href={`/articles/${post.id}/`} class="article-card">
+          <h2>{post.data.title}</h2>
+          <p class="date"><FormattedDate date={post.data.pubDate} /></p>
+          <p class="desc">{post.data.description}</p>
+        </a>
+      ))}
+    </div>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  body {
+    background-color: var(--bg-body);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .chain-header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .back-link {
+    display: inline-block;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    transition: color 0.2s;
+  }
+
+  .back-link:hover {
+    color: #059669;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+    margin: 0 0 1rem 0;
+    color: #F8FAFC;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+  }
+
+  .subtitle {
+    font-size: 1.25rem;
+    color: #94A3B8;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .chain-description {
+    color: #CBD5E1;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin-top: 1rem;
+    padding: 1rem 1.25rem;
+    background: rgba(14, 165, 233, 0.05);
+    border-left: 3px solid #0EA5E9;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+
+  .hub-content {
+    background: #1a2332;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hub-content h2 {
+    color: var(--text-primary);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+
+  .hub-content p {
+    color: #94A3B8;
+    line-height: 1.7;
+    margin: 0;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .article-card {
+    background: #1a2332;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(16, 185, 129, 0.4);
+    box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.5), 0 0 20px -5px rgba(16, 185, 129, 0.1);
+  }
+
+  .article-card h2 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.5rem;
+    color: var(--text-primary);
+    line-height: 1.3;
+  }
+
+  .article-card:hover h2 {
+    color: var(--accent);
+  }
+
+  .date {
+    font-size: 0.875rem;
+    color: #94A3B8;
+    margin: 0 0 1rem 0;
+    font-weight: 500;
+  }
+
+  .desc {
+    color: #94A3B8;
+    margin: 0;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    h1 { font-size: 2.5rem; }
+    main { padding: 2rem 1.5rem; }
+    .articles-grid { grid-template-columns: 1fr; }
+  }
+</style>

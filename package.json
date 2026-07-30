@@ -1,0 +1,25 @@
+{
+  "name": "fastfoodguides.com",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node prepare-pages.cjs",
+    "deploy": "npm run build -- --force && node -e \"fs.rmSync('.wrangler', { recursive: true, force: true })\" && npx wrangler pages deploy dist --project-name=project-planner-seo-hq --commit-dirty=true",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^14.1.3",
+    "@astrojs/mdx": "^6.0.2",
+    "@astrojs/partytown": "^2.1.7",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^6.4.4",
+    "sharp": "^0.35.2"
+  },
+  "devDependencies": {}
+}

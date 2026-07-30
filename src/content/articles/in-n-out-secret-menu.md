@@ -1,0 +1,79 @@
+---
+title: "How to Memorize the In-N-Out POS System and Secret Menu"
+description: "A fast-food worker's guide to mastering In-N-Out's POS system and handling Secret Menu orders like Animal Style, Protein Style, and Flying Dutchman."
+pubDate: "2025-10-19"
+updatedDate: "2026-07-23"
+author: "Russell Roseberry"
+authorTitle: "Former QSR Operations Manager"
+chain: "In-N-Out Burger"
+topic: "Burgers"
+relatedArticles:
+  - "in-n-out-level-system"
+  - "in-n-out-board-station"
+faq:
+  - question: "Is the Secret Menu officially recognized by In-N-Out?"
+    answer: "In-N-Out doesn't advertise the Secret Menu on menu boards, but the company acknowledges these items exist. The POS has dedicated buttons for them, and every Associate is trained to take them."
+  - question: "Do customers ever order Secret Menu items that don't actually exist?"
+    answer: "Occasionally. Social media has spawned some mythical items that aren't in the POS system. If a customer orders something you don't recognize, politely ask them to describe what they want, as it's often a combination of existing modifiers you can build manually."
+heroImage: "../../assets/images/general/generic-fryer.jpg"
+---
+
+
+
+If you look at [the In-N-Out](/articles/in-n-out-board-station) drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
+
+Before your first register shift, you should know: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru, you need to know these orders inside and out.
+
+## The POS System Is Built for Speed
+
+![Operational reference](../../assets/images/general/generic-prep.jpg)
+
+
+
+
+
+The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. 
+
+The POS layout at In-N-Out is surprisingly intuitive once you learn the geography. The main screen shows base menu items, and tapping any one opens a modifier screen with all available customizations. Buttons are color-coded and grouped logically—proteins in one area, cooking instructions in another, topping modifications in a third. The system flows left to right, matching how customers typically build their order verbally.
+
+I've trained new staff on POS systems at half a dozen chains, and I'll say this: In-N-Out's is one of the cleanest I've ever used. The problem isn't the interface—it's the sheer variety of modifications customers throw at you and how fast they expect you to process them.
+
+## The Big Three Modifiers You Must Memorize Instantly
+
+During your first week on the register, these three modifications will account for the vast majority of what you process:
+
+- **Animal Style (Burgers):** Mustard-fried patty, extra Secret Spread, pickles, and grilled onions. You tap the burger size, then hit the "Animal Style" button. During a busy Friday dinner, you'll punch in more Animal Style Double-Doubles than regular ones. It's that popular.
+- **Protein Style:** The bun is completely replaced with massive leaves of hand-leafed iceberg lettuce. One tap of the "Protein Style" modifier handles it. These take the Board person extra time to wrap because the lettuce wants to slide everywhere, so expect occasional kitchen pushback during peak hours.
+- **Animal Style Fries:** A tray of fries topped with two slices of melted American cheese, grilled onions, and Secret Spread. This one fires to a different station than regular fries, so make sure you're hitting the right modifier or the order gets lost.
+
+Getting fast at these three buttons—locating them without looking, tapping them without hesitation—is the first milestone for any new order taker. Once these are automatic, you've conquered about sixty percent of the modifications you'll encounter on a typical shift.
+
+## The Tricky Modifiers That Catch You Off Guard
+
+The hardest part of the POS isn't the popular items. It's the hyper-specific cooking instructions that In-N-Out allows customers to request. You need to know exactly where these toggles live on your screen:
+
+- **"Well Done" or "Light Well" Fries:** Adjusting fryer time for extra crunch or softer fries. Customers are particular about this.
+- **"Extra Toast" or "Light Toast":** Controls how long the buns sit on the grill. Extra Toast gives a crunchier bun, Light Toast keeps it softer.
+- **"Flying Dutchman":** Two meat patties and two slices of cheese. No bun, no lettuce, no tomatoes, no nothing. Just meat and cheese. The first time someone orders this, it sounds made up. It's not.
+- **"Mustard Fried":** Spreading mustard directly onto the raw patty before flipping it on the grill, creating a tangy, caramelized crust. This is part of Animal Style but can also be ordered separately.
+
+Then there are the niche modifiers that come up less frequently but will absolutely trip you up: "Chopped Chilies" (small hot peppers), "Whole Grilled Onion" versus standard grilled onion (a thick slab versus finely chopped), and custom patty-to-cheese ratios like a 3x3 or the legendary 4x4. When a customer orders one of these, they expect you to know what it means without follow-up questions. Hesitation kills your drive-thru time and backs up the line.
+
+## Navigating the Drink Screen Without Losing Your Place
+
+One area that consistently trips up new Associates is the transition from the food screen to the drink screen. After punching in burger and fry modifications, you have to navigate to the beverage menu for shakes, sodas, or lemonade. In-N-Out shakes are made with real ice cream and are wildly popular, so you'll toggle between food modifiers and shake flavor selections constantly.
+
+<div class="callout callout-tip">**ProTip:** Don't bounce between screens! Always finish all food items for one customer before touching the drink screen. Bouncing back and forth will cause you to lose track of the order and end up with missing items on the receipt.</div>
+
+## What the Kitchen Sees When You Hit Send
+
+![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+
+
+Understanding the kitchen side of the POS makes you a better order taker. When you send an order, the kitchen display shows shorthand codes: "DD AS MF" means Double-Double Animal Style Mustard Fried. "HB PS" means Hamburger Protein Style. Learning these abbreviations helps you troubleshoot when a cook asks you to clarify an order—and it happens more often than you'd think, especially with stacked modifiers on a single item.
+
+The best advice I can give any new hire: don't panic when someone orders a "3-by-3 Protein Style, Mustard Fried, with Chopped Chilies." Just take it one word at a time. The POS interface is literally built to read the way the customer speaks. Punch it in sequentially, confirm it back, and send it.
+
+<div class="callout callout-tip">**ProTip:** If a customer orders using a term you don't recognize from a viral video, calmly ask them to describe the ingredients. Nine times out of ten, it's just a combination of existing modifiers you can build manually in the POS.</div>
+
+

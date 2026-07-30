@@ -1,0 +1,57 @@
+---
+interface Props {
+  type: 'medical' | 'legal' | 'financial' | 'food_safety';
+}
+
+const { type } = Astro.props;
+
+const disclaimers = {
+  medical: "Medical/Allergy Disclaimer: The information in this article is for general informational purposes only and does not constitute medical advice. Fast food recipes and cross-contamination risks change frequently. Always consult your physician or allergist before consuming products if you have severe allergies.",
+  legal: "Legal/Insurance Disclaimer: This article is for informational purposes only and does not constitute legal or insurance advice. Every situation is unique, and insurance policies vary by provider. Always consult a licensed attorney or insurance agent for guidance.",
+  financial: "Financial/Tax Disclaimer: The information provided is for educational and informational purposes only and does not constitute financial or tax advice. Tax laws change frequently. Always consult a Certified Public Accountant (CPA) or licensed financial advisor regarding tax deductions and liability.",
+  food_safety: "Food Safety & Hygiene Disclaimer: The information provided in this article reflects standard commercial QSR operating protocols for informational and educational purposes only. Always follow official FDA Food Code guidelines, local health department regulations, and specific brand EcoSure/ServSafe standards when handling food or operating high-temperature kitchen equipment."
+};
+---
+
+<div class={`ymyl-disclaimer ymyl-${type}`}>
+  <strong>Disclaimer:</strong> {disclaimers[type]}
+</div>
+
+<style>
+  .ymyl-disclaimer {
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+  
+  .ymyl-disclaimer strong {
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .ymyl-medical {
+    background-color: rgba(239, 68, 68, 0.1);
+    border-left: 4px solid #ef4444;
+    color: #fca5a5;
+  }
+
+  .ymyl-legal {
+    background-color: rgba(245, 158, 11, 0.1);
+    border-left: 4px solid #f59e0b;
+    color: #fcd34d;
+  }
+
+  .ymyl-financial {
+    background-color: rgba(16, 185, 129, 0.1);
+    border-left: 4px solid #10b981;
+    color: #6ee7b7;
+  }
+
+  .ymyl-food_safety {
+    background-color: rgba(249, 115, 22, 0.1);
+    border-left: 4px solid #f97316;
+    color: #fdba74;
+  }
+</style>

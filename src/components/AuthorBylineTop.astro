@@ -1,0 +1,56 @@
+---
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	author: string;
+	authorTitle: string;
+	pubDate: Date;
+}
+
+const { author, authorTitle, pubDate } = Astro.props;
+---
+
+<div class="author-byline-top" role="doc-subtitle">
+	<a href="/author/russell-roseberry" class="author-name" aria-label={`Read more about ${author}`}>By {author}</a>
+	<span class="separator" aria-hidden="true">·</span>
+	<span class="author-title">{authorTitle}</span>
+	<span class="separator" aria-hidden="true">·</span>
+	<span class="pub-date">Published <FormattedDate date={pubDate} /></span>
+</div>
+
+<style>
+	.author-byline-top {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.35em;
+		font-size: 0.875rem;
+		color: #94A3B8;
+		line-height: 1.5;
+	}
+
+	.separator {
+		color: var(--accent);
+		font-weight: 700;
+	}
+
+	.author-name {
+		font-weight: 600;
+		color: #38BDF8;
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: border-color 0.2s ease;
+	}
+	
+	.author-name:hover {
+		border-bottom-color: #38BDF8;
+	}
+
+	.author-title {
+		font-style: italic;
+	}
+
+	.pub-date {
+		color: #94A3B8;
+	}
+</style>
