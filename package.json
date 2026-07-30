@@ -7,8 +7,8 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
-    "deploy": "npm run build -- --force && node -e \"fs.rmSync('.wrangler', { recursive: true, force: true })\" && npx wrangler pages deploy dist --project-name=project-planner-seo-hq --commit-dirty=true",
+    "build": "astro build && node prepare-pages.cjs",
+    "deploy": "npm run build -- --force && node -e \"fs.rmSync('.wrangler', { recursive: true, force: true })\" && npx wrangler pages deploy dist --project-name=project-planner-seo-hq --branch=master --commit-dirty=true",
     "preview": "astro preview",
     "astro": "astro"
   },
