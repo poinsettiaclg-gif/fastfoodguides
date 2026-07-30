@@ -1,27 +1,28 @@
 ---
-title: "Wendy's Closing Duties: A Full Night Breakdown"
-description: "Wendy's closing crew has a strict checklist that takes 90+ minutes. Here's how the kitchen is broken down and what gets done before the last lock-up."
-pubDate: "2024-09-09"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Burgers"
+title: 'Wendy''s Closing Duties: A Full Night Breakdown'
+description: Wendy's closing crew has a strict checklist that takes 90+ minutes. Here's
+  how the kitchen is broken down and what gets done before the last lock-up.
+pubDate: '2024-09-09'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Burgers
 faq:
-  - question: "Why does it take the closing crew so long to leave?"
-    answer: "Every single piece of equipment has to be broken down, cleaned, and sanitized, which is labor-intensive. If pre-closing wasn't done during the last open hour, the crew will easily be there 90+ minutes past close."
-  - question: "Do I have to stay if my station is completely done?"
-    answer: "Yes. Almost every Wendy's enforces a policy where the team leaves together once the manager signs off on the entire store. It's a security measure and ensures everyone helps each other."
+- question: Why does it take the closing crew so long to leave?
+  answer: Every single piece of equipment has to be broken down, cleaned, and sanitized,
+    which is labor-intensive. If pre-closing wasn't done during the last open hour,
+    the crew will easily be there 90+ minutes past close.
+- question: Do I have to stay if my station is completely done?
+  answer: Yes. Almost every Wendy's enforces a policy where the team leaves together
+    once the manager signs off on the entire store. It's a security measure and ensures
+    everyone helps each other.
 relatedArticles:
-  - "wendys-frosty-machine-boil-out"
-  - "wendys-clamshell-grill"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- wendys-frosty-machine-boil-out
+- wendys-clamshell-grill
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 Closing a fast food restaurant is a grueling, exhausting process that separates the new staff from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors, filtering the fryers, or doing the [Frosty Machine boil-out](/articles/wendys-frosty-machine-boil-out). You own the sandwich boards.
 
 ## Phase 1: The Pre-Close (Starting Around 10:00 PM)
@@ -42,7 +43,7 @@ The secret to getting out early is pre-closing. If you wait until the store offi
 
 ## Phase 2: Breaking Down the Boards
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once the manager announces the drive-thru is officially closed, the real work begins and the pressure turns up.
@@ -55,7 +56,7 @@ Once the manager announces the drive-thru is officially closed, the real work be
 
 ## Phase 3: The Three-Compartment Sink
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The metal inserts and cutting boards go through the standard three-sink wash process:

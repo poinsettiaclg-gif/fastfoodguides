@@ -1,30 +1,33 @@
 ---
-title: "What is the In-N-Out \"Board\" Station and Why is it so Hard?"
-description: "The In-N-Out Board station is the hardest job in the building. Learn the setup, wrapping technique, certification test, and what rush hour really feels like."
-pubDate: "2025-11-03"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "In-N-Out Burger"
-topic: "Burgers"
+title: What is the In-N-Out "Board" Station and Why is it so Hard?
+description: The In-N-Out Board station is the hardest job in the building. Learn
+  the setup, wrapping technique, certification test, and what rush hour really feels
+  like.
+pubDate: '2025-11-03'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: In-N-Out Burger
+topic: Burgers
 relatedArticles:
-  - "in-n-out-level-system"
-  - "in-n-out-secret-menu"
+- in-n-out-level-system
+- in-n-out-secret-menu
 faq:
-  - question: "How long does it take to get certified on the Board?"
-    answer: "Most Associates spend several weeks training before they're ready for the certification test. The deciding factors are your wrapping speed and your accuracy under real rush conditions."
-  - question: "Is the Board harder than the Grill?"
-    answer: "Most employees agree it is. The Grill requires precision, but the Board demands raw speed, constant multitasking, and simultaneous awareness of multiple orders to match the Grill cook's pace."
-heroImage: "../../assets/images/general/generic-grill.jpg"
+- question: How long does it take to get certified on the Board?
+  answer: Most Associates spend several weeks training before they're ready for the
+    certification test. The deciding factors are your wrapping speed and your accuracy
+    under real rush conditions.
+- question: Is the Board harder than the Grill?
+  answer: Most employees agree it is. The Grill requires precision, but the Board
+    demands raw speed, constant multitasking, and simultaneous awareness of multiple
+    orders to match the Grill cook's pace.
+heroImage: ../../assets/images/general/generic-grill.webp
 ---
-
-
-
 As you advance through [The In-N-Out Level System](/articles/in-n-out-level-system), you will eventually reach Level 5. The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break. 
 
 ## The Board Setup and Station Layout
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -40,7 +43,7 @@ On more than one occasion, green crew members underestimate the setup phase. Bef
 
 ## The Wrapping Speed That Separates Good from Great
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once the Grill cook drops the cooked patties onto your dressed buns, you enter the most demanding phase: the wrap. A top-tier Board person can dress, wrap, and bag a finished burger in under five seconds. That's not an exaggeration—it's a benchmark that experienced Associates actually hit during peak hours.

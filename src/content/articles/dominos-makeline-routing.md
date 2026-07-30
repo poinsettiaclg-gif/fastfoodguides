@@ -1,29 +1,40 @@
 ---
-title: "Domino's Pizza: How the Digital Makeline, KDS Routing, and Load Balancing Work"
-description: "A comprehensive operational analysis of Domino's proprietary PULSE system, makeline bump bar latency, delivery routing algorithms, and driver cash drops."
-pubDate: "2024-07-07"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Pizza"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'Domino''s Pizza: How the Digital Makeline, KDS Routing, and Load Balancing
+  Work'
+description: A comprehensive operational analysis of Domino's proprietary PULSE system,
+  makeline bump bar latency, delivery routing algorithms, and driver cash drops.
+pubDate: '2024-07-07'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Pizza
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - dominos-oven-tender-role
-  - dominos-super-bowl-pulse-system
-  - dominos-20-bank-rule
+- dominos-oven-tender-role
+- dominos-super-bowl-pulse-system
+- dominos-20-bank-rule
 faq:
-  - question: "What is the average time allowed to make a pizza at Domino's?"
-    answer: "Under Domino's strict operational standards, makeline workers are targeted to stretch the dough, sauce, cheese, top, and load a pizza onto the conveyor oven in under 3 minutes (180 seconds) from the moment it pops up on the digital screen."
-  - question: "How does the Domino's Pizza Tracker actually work?"
-    answer: "The Pizza Tracker is directly tied to kitchen hardware milestones: 'Prep' triggers when the order enters the POS; 'Bake' triggers when the makeline worker hits the bump bar bar as the pizza enters the oven; 'Quality Check' triggers during the 7-minute conveyor transit; and 'Out for Delivery' triggers when the driver checks out the order on the dispatch touch screen."
+- question: What is the average time allowed to make a pizza at Domino's?
+  answer: Under Domino's strict operational standards, makeline workers are targeted
+    to stretch the dough, sauce, cheese, top, and load a pizza onto the conveyor oven
+    in under 3 minutes (180 seconds) from the moment it pops up on the digital screen.
+- question: How does the Domino's Pizza Tracker actually work?
+  answer: 'The Pizza Tracker is directly tied to kitchen hardware milestones: ''Prep''
+    triggers when the order enters the POS; ''Bake'' triggers when the makeline worker
+    hits the bump bar bar as the pizza enters the oven; ''Quality Check'' triggers
+    during the 7-minute conveyor transit; and ''Out for Delivery'' triggers when the
+    driver checks out the order on the dispatch touch screen.'
 ---
-
 Domino's Pizza is widely regarded by franchise executives as an e-commerce and logistics technology company that happens to sell pizza. Since launching its proprietary **PULSE operating system** and algorithmic kitchen management software, Domino's has digitized, measured, and optimized every single second of a pizza's life—from the initial click on a smartphone app to the moment the delivery driver knocks on the customer's door.
 
-As someone who spent years managing high-volume pizza operations, I can tell you that surviving a Friday night dinner rush at Domino's is not just about manual dough slapping; it is a high-stakes video game played against digital clocks scattered across the kitchen.
+As someone who spent years managing high-volume pizza operations, Actually that surviving a Friday night dinner rush at Domino's is not just about manual dough slapping; it is a high-stakes video game played against digital clocks scattered across the kitchen.
 
 ## 1. The Digital Makeline: Anatomy of the 3-Minute Clock
+
+![Operational view](../../assets/images/general/generic-exterior.webp)
+
+
 
 When an order is submitted online or keyed into the register, it appears instantly on the **Digital Makeline Screen**—a large, high-definition monitor suspended directly above the refrigerated pizza prep table.
 

@@ -1,32 +1,47 @@
 ---
-title: "Your First Day at Subway: The Sandwich Artist Operational Survival Guide"
-description: "A comprehensive guide to your first shift at Subway. Learn how to master the 41°F vegetable bain, the bread-scoring hinge cut, formula portioning, and the POS."
-pubDate: "2024-09-26"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
-category: "Careers"
-chain: "Subway"
-topic: "Training"
-tags: ["subway", "first day", "sandwich artist", "training", "bain", "prep"]
+title: 'Your First Day at Subway: The Sandwich Artist Operational Survival Guide'
+description: "A comprehensive guide to your first shift at Subway. Learn how to master\
+  \ the 41\xB0F vegetable bain, the bread-scoring hinge cut, formula portioning, and\
+  \ the POS."
+pubDate: '2024-09-26'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+heroImage: ../../assets/images/general/generic-pos-2.webp
+category: Careers
+chain: Subway
+topic: Training
+tags:
+- subway
+- first day
+- sandwich artist
+- training
+- bain
+- prep
 relatedArticles:
-  - "subway-bain-fill-line-rule"
-  - "subway-bread-baking-process"
-  - "subway-pos-out-of-order"
+- subway-bain-fill-line-rule
+- subway-bread-baking-process
+- subway-pos-out-of-order
 faq:
-  - question: "What do you do on your first day at Subway?"
-    answer: "You will complete I-9 and W-4 onboarding paperwork, watch Subway University compliance videos, and shadow a veteran Sandwich Artist on the vegetable and register stations to learn basic sanitation and formula rules."
-  - question: "Is it hard to memorize the Subway sandwich formulas?"
-    answer: "While the menu is extensive, Subway uses standardized mathematical formulas based on the 'Rule of 6' and 'Rule of 8' for footlongs (e.g., 6 slices of turkey, 8 slices of pepperoni, 6 cucumber wheels). Repetition builds rapid muscle memory."
+- question: What do you do on your first day at Subway?
+  answer: You will complete I-9 and W-4 onboarding paperwork, watch Subway University
+    compliance videos, and shadow a veteran Sandwich Artist on the vegetable and register
+    stations to learn basic sanitation and formula rules.
+- question: Is it hard to memorize the Subway sandwich formulas?
+  answer: While the menu is extensive, Subway uses standardized mathematical formulas
+    based on the 'Rule of 6' and 'Rule of 8' for footlongs (e.g., 6 slices of turkey,
+    8 slices of pepperoni, 6 cucumber wheels). Repetition builds rapid muscle memory.
 ---
-
 Stepping behind the glass sneeze guard at Subway for your first shift is a trial by fire in quick-service restaurant (QSR) customer service. Unlike traditional kitchens where line cooks operate behind closed doors or stainless steel walls, at Subway, **the customer stands just 18 inches away**, dictating every single culinary movement you make in real time.
 
 If you have been hired as a "Sandwich Artist," you are about to learn that building a Footlong Italian B.M.T. in an empty store is simple, but assembling three custom sandwiches simultaneously while a line of 15 office workers watches your hands during the 12:00 PM lunch rush is an intense test of ergonomics, pacing, and composure.
 
-As someone who has managed high-volume QSR operations across the country, I can tell you that succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
+As someone who has managed high-volume QSR operations across the country, Actually that succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
 ## 1. The Refrigerated Bain: The 41°F Health Code Battlefield
+
+![Operational view](../../assets/images/general/generic-fryer.webp)
+
+
 
 The centerpiece of every Subway restaurant is the **Bain**—the long, stainless steel refrigerated makeline housing all proteins, cheeses, and fresh vegetables in plastic cambro pans.
 

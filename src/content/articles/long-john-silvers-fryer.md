@@ -1,27 +1,29 @@
 ---
-title: "Long John Silver's Fryers: The Mechanics of Perfect Batter"
-description: "How Long John Silver's utilizes specialized deep fryers and a unique drop technique to achieve their signature crispy, flaky fish batter."
-pubDate: "2024-09-05"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Long John Silver's"
-topic: "Other Chains"
+title: 'Long John Silver''s Fryers: The Mechanics of Perfect Batter'
+description: How Long John Silver's utilizes specialized deep fryers and a unique
+  drop technique to achieve their signature crispy, flaky fish batter.
+pubDate: '2024-09-05'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Long John Silver's
+topic: Other Chains
 faq:
-  - question: "What kind of oil does Long John Silver's use?"
-    answer: "Long John Silver's uses 100% pure canola oil. This oil is chosen for its high smoke point and neutral flavor profile that doesn't overpower the seafood."
-  - question: "How often do they change the oil?"
-    answer: "Oil is filtered daily, but a full vat change typically occurs every 3-5 days depending on the store's volume and Total Polar Materials (TPM) readings."
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: What kind of oil does Long John Silver's use?
+  answer: Long John Silver's uses 100% pure canola oil. This oil is chosen for its
+    high smoke point and neutral flavor profile that doesn't overpower the seafood.
+- question: How often do they change the oil?
+  answer: Oil is filtered daily, but a full vat change typically occurs every 3-5
+    days depending on the store's volume and Total Polar Materials (TPM) readings.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.
 
 If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fuses to the heating elements, and ruins the entire vat of oil. On the line, it plays out like this:
 
 ## The Specialized Fryer Vat
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.

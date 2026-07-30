@@ -1,31 +1,42 @@
 ---
-title: "Decoding the Taco Bell Rethermalizer: The 90-Minute Bag Drop Cycle Explained"
-description: "Mastering the Taco Bell retherm water bath thermodynamics and the critical 90-minute prep cycle. Learn how to manage bag drops and temperature logs without tanking your makeline speed of service."
-pubDate: "2025-10-15"
-updatedDate: "2026-07-23"
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
-chain: "Taco Bell"
-topic: "Operations"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-disclaimerType: "food_safety"
-tags: ["Retherm", "Operations", "Prep", "Food Safety"]
+title: 'Decoding the Taco Bell Rethermalizer: The 90-Minute Bag Drop Cycle Explained'
+description: Mastering the Taco Bell retherm water bath thermodynamics and the critical
+  90-minute prep cycle. Learn how to manage bag drops and temperature logs without
+  tanking your makeline speed of service.
+pubDate: '2025-10-15'
+updatedDate: '2026-07-23'
+heroImage: ../../assets/images/general/generic-fryer-2.webp
+chain: Taco Bell
+topic: Operations
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+disclaimerType: food_safety
+tags:
+- Retherm
+- Operations
+- Prep
+- Food Safety
 faq:
-  - question: "How long does the Taco Bell rethermalizer take?"
-    answer: "A standard cycle takes 90 minutes to safely heat frozen protein bags to the required 165°F."
-  - question: "How long can meat sit on the makeline after the retherm?"
-    answer: "Once placed in the hot holding cabinet, proteins have a strict 4-hour shelf life before they must be discarded."
+- question: How long does the Taco Bell rethermalizer take?
+  answer: "A standard cycle takes 90 minutes to safely heat frozen protein bags to\
+    \ the required 165\xB0F."
+- question: How long can meat sit on the makeline after the retherm?
+  answer: Once placed in the hot holding cabinet, proteins have a strict 4-hour shelf
+    life before they must be discarded.
 ---
-
 Taco Bell doesn't cook raw ground beef on a flat top. That's not how any of this works. The backbone of the entire menu—Crunchwrap Supreme, Nachos BellGrande, pretty much everything with protein—is the rethermalizer. Everyone on the crew calls it the retherm. It's basically an industrial water bath that holds at a steady 195°F. Frozen, vacuum-sealed bags of seasoned beef, chicken, steak, and nacho cheese go in, and 90 minutes later they come out at safe holding temps.
 
 The principle is similar to sous-vide cooking, but way less glamorous. If your water level drops or your heating element gets scaled up from hard water, the whole cycle falls behind. And when the makeline runs dry on beef during a $1,200 hour, you're finished. I've watched it happen more times than I can count. Here's how the 90-minute cycle actually works, what the temp logs require, and why the prep crew's timing makes or breaks the entire shift.
 
 ## The 90-Minute Bag Drop Cycle
 
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
+
 You don't just throw bags in the water and guess when they're done. The retherm operates on strict, staggered cycles to maintain continuous product flow to the makeline. 
 
-When a bag of beef drops into the basket, it sits in that 195°F water for the full 90 minutes. The first 30 minutes or so breaks the freeze and gets heat moving into the core. The remaining time brings the internal temp above the 165°F food safety threshold. Pull it early—even five minutes short—and you risk temping below 165°F when you pan it out. That means you dump the entire pan and start over. I've seen a prep cook lose three pans of beef on a Friday because he eyeballed it instead of watching the clock.
+When a bag of beef drops into the basket, it sits in that 195°F water for the full 90 minutes. The first 30 minutes or so breaks the freeze and gets heat moving into the core. The remaining time brings the internal temp above the 165°F food safety threshold. Pull it early—even five minutes short—and you risk temping below 165°F when you pan it out. That means you dump the entire pan and start over. Actually a prep cook lose three pans of beef on a Friday because he eyeballed it instead of watching the clock.
 
 ### Rack Management and FIFO
 

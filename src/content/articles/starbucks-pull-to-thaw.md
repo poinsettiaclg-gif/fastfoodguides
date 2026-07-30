@@ -1,31 +1,36 @@
 ---
-title: "How the Starbucks \"Pull to Thaw\" Pastry System Works"
-description: "Inside the Starbucks Pull to Thaw system: the 18-hour thaw cycle, iPad algorithm, dating rules, and what happens to expired pastries."
-pubDate: "2024-08-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Breakfast & Coffee"
+title: How the Starbucks "Pull to Thaw" Pastry System Works
+description: 'Inside the Starbucks Pull to Thaw system: the 18-hour thaw cycle, iPad
+  algorithm, dating rules, and what happens to expired pastries.'
+pubDate: '2024-08-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Breakfast & Coffee
 relatedArticles:
-  - "starbucks-customer-support-cycle"
-  - "starbucks-morning-rush"
-  - "panera-overnight-baker"
-
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- starbucks-customer-support-cycle
+- starbucks-morning-rush
+- panera-overnight-baker
+heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
-  - question: "Can you microwave a frozen pastry if the store runs out of thawed ones?"
-    answer: "No. Starbucks policy explicitly prohibits using a microwave or oven to speed-thaw a frozen pastry for a customer. The texture and moisture profile will be completely wrong—croissants come out rubbery, muffin tops turn hard and dense."
-  - question: "Who is responsible for the Pull to Thaw—the barista or the Shift Supervisor?"
-    answer: "The Pull to Thaw is officially a Shift Supervisor responsibility. They access the iPad, review the algorithm's recommendations, and make the final call on quantities. However, baristas are often asked to physically pull the boxes from the freezer and arrange the trays."
+- question: Can you microwave a frozen pastry if the store runs out of thawed ones?
+  answer: "No. Starbucks policy explicitly prohibits using a microwave or oven to\
+    \ speed-thaw a frozen pastry for a customer. The texture and moisture profile\
+    \ will be completely wrong\u2014croissants come out rubbery, muffin tops turn\
+    \ hard and dense."
+- question: "Who is responsible for the Pull to Thaw\u2014the barista or the Shift\
+    \ Supervisor?"
+  answer: The Pull to Thaw is officially a Shift Supervisor responsibility. They access
+    the iPad, review the algorithm's recommendations, and make the final call on quantities.
+    However, baristas are often asked to physically pull the boxes from the freezer
+    and arrange the trays.
 ---
-
-
 When you see a display case full of perfectly golden croissants, neatly arranged muffins, and rows of cake pops at Starbucks, you might assume a baker arrived at 4:00 AM to make them fresh. The reality is very different. Every single pastry in that case arrived at the store frozen solid in a cardboard box. What makes them look and taste fresh is a carefully calculated logistics system called the Pull to Thaw, and getting it wrong means either empty pastry cases that cost the store hundreds in lost sales or overflowing trays of stale food that go straight into the waste bin.
 
 ## The 18-Hour Thaw Cycle
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -66,7 +71,7 @@ Many Starbucks locations participate in the FoodShare initiative, which donates 
 
 ## Freezer Organization: FIFO or Chaos
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The walk-in freezer has to be organized using strict First In, First Out (FIFO) rotation. New shipments go to the back of the shelves. Older boxes get moved to the front so they're always pulled first.

@@ -1,29 +1,33 @@
 ---
-title: "Starbucks Morning Rush: How the Bar Stays Afloat"
-description: "Starbucks morning rush requires specific bar positioning and drink routing. Here's how a well-run store manages 200+ drinks in the first hour of service."
-pubDate: "2025-10-23"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Breakfast & Coffee"
+title: 'Starbucks Morning Rush: How the Bar Stays Afloat'
+description: Starbucks morning rush requires specific bar positioning and drink routing.
+  Here's how a well-run store manages 200+ drinks in the first hour of service.
+pubDate: '2025-10-23'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Breakfast & Coffee
 relatedArticles:
-  - "starbucks-cold-bar-frappuccino"
-  - "starbucks-customer-support-cycle"
-
-heroImage: "../../assets/images/general/generic-pos.jpg"
+- starbucks-cold-bar-frappuccino
+- starbucks-customer-support-cycle
+heroImage: ../../assets/images/general/generic-pos.webp
 faq:
-  - question: "How many drinks should I be making per 10-minute window during Peak?"
-    answer: "A strong Hot Bar barista typically produces 8 to 12 drinks every 10 minutes during a heavy Peak. When you're just starting, aim for 6 to 8 and focus on accuracy over speed. Remakes cost more time than going slightly slower on the first build. Speed comes naturally once the Beverage Routine is locked into muscle memory."
-  - question: "What do I do if the espresso machine goes down during Peak?"
-    answer: "Immediately call it out to your Shift Supervisor. They'll either swap you to the backup Mastrena or redeploy you to Cold Bar while they troubleshoot. Never try to fix the machine yourself during Peak—it wastes precious time."
+- question: How many drinks should I be making per 10-minute window during Peak?
+  answer: A strong Hot Bar barista typically produces 8 to 12 drinks every 10 minutes
+    during a heavy Peak. When you're just starting, aim for 6 to 8 and focus on accuracy
+    over speed. Remakes cost more time than going slightly slower on the first build.
+    Speed comes naturally once the Beverage Routine is locked into muscle memory.
+- question: What do I do if the espresso machine goes down during Peak?
+  answer: "Immediately call it out to your Shift Supervisor. They'll either swap you\
+    \ to the backup Mastrena or redeploy you to Cold Bar while they troubleshoot.\
+    \ Never try to fix the machine yourself during Peak\u2014it wastes precious time."
 ---
-
 The ticket printer hasn't stopped for 45 minutes, there are twenty mobile orders waiting on the handoff plane, and the drive-thru line is wrapped around the building. Welcome to "Peak" at Starbucks. Surviving the 7:00 AM to 9:00 AM gauntlet on the Hot Espresso Bar requires mechanical precision and a strict commitment to the sequence.
 
 ## Respect the Beverage Routine
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -54,7 +58,7 @@ The stickers come from multiple channels—cafe orders, mobile orders, drive-thr
 
 ## Keep Your Station Immaculate
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 A messy bar slows you down in ways you don't notice until it's too late. If you spill milk, wipe it immediately. If the espresso grounds bin is getting full, empty it the second you have a 10-second gap. If you let milk crust onto your steam wand or syrup pool on the counter, you will eventually drop a cup, knock over a bottle, or slip on a wet floor and completely derail the flow.

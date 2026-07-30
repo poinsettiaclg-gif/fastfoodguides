@@ -1,30 +1,36 @@
 ---
-title: "In-N-Out Animal Style Fries: The Fry Board Bottleneck and Thermal Collapse"
-description: "A deep dive into the logistics of In-N-Out's busiest station. An operations manager explains the steam dome mechanics, thermal fry collapse, and why Animal Style Fries wreck drive-thru times."
-pubDate: "2025-03-21"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
-chain: "In-N-Out"
-topic: "Operations"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'In-N-Out Animal Style Fries: The Fry Board Bottleneck and Thermal Collapse'
+description: A deep dive into the logistics of In-N-Out's busiest station. An operations
+  manager explains the steam dome mechanics, thermal fry collapse, and why Animal
+  Style Fries wreck drive-thru times.
+pubDate: '2025-03-21'
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
+chain: In-N-Out
+topic: Operations
+heroImage: ../../assets/images/general/generic-fryer.webp
 operationalAnnoyanceScore: 7
 isVerified: true
 ingredients:
-  - "Fresh-Cut Kennebec Potatoes"
-  - "2 Slices American Cheese"
-  - "Grilled Chopped Onions"
-  - "Spread (Thousand Island variant)"
-howToOrder: "Ask for 'Animal Style Fries' at the register or speaker box."
-priceEstimate: "$4.50 - $5.50"
+- Fresh-Cut Kennebec Potatoes
+- 2 Slices American Cheese
+- Grilled Chopped Onions
+- Spread (Thousand Island variant)
+howToOrder: Ask for 'Animal Style Fries' at the register or speaker box.
+priceEstimate: $4.50 - $5.50
 relatedArticles:
-  - "in-n-out-board-station"
+- in-n-out-board-station
 faq:
-  - question: "What is on Animal Style fries?"
-    answer: "In-N-Out Animal Style Fries consist of a bed of fresh-cut Kennebec potatoes covered in two slices of melted American cheese, topped with a heavy scoop of grilled chopped onions, and finished with their signature Thousand Island-style Spread."
-  - question: "How do you order Animal Style fries?"
-    answer: "Simply ask the cashier for 'Animal Style Fries.' It is the most famous item on their unofficial secret menu, and every associate is trained on how to ring it up and build it."
+- question: What is on Animal Style fries?
+  answer: In-N-Out Animal Style Fries consist of a bed of fresh-cut Kennebec potatoes
+    covered in two slices of melted American cheese, topped with a heavy scoop of
+    grilled chopped onions, and finished with their signature Thousand Island-style
+    Spread.
+- question: How do you order Animal Style fries?
+  answer: Simply ask the cashier for 'Animal Style Fries.' It is the most famous item
+    on their unofficial secret menu, and every associate is trained on how to ring
+    it up and build it.
 ---
-
 The reality of the line at any In-N-Out Burger is that the grill is not the bottleneck. The grill cooks at a predictable, mathematical rhythm. The true choke point—the station that makes or breaks a Friday night dinner rush—is the Fry Board. And nothing destroys the rhythm of the fry portioner faster than a string of tickets calling for "Animal Style Fries."
 
 To understand why this seemingly simple secret menu item is an operational nightmare, you have to understand the logistics of fresh-cut fries. In-N-Out does not use frozen, pre-blanched potatoes. They peel, dice, and fry fresh Kennebec potatoes directly in 100% sunflower oil. Fresh potatoes have a massive moisture content. When they come out of the fryer, they have a critically short window of structural integrity before the ambient humidity and residual internal steam cause them to lose their crunch.
@@ -32,6 +38,10 @@ To understand why this seemingly simple secret menu item is an operational night
 When you order regular fries, the portioner scoops them into a paper sleeve, allowing the steam to vent upward, preserving the crispy exterior. But when you order Animal Style Fries, that entire carefully engineered thermal dynamic is thrown out the window. Step by step, this is the workflow that occurs on the board.
 
 ## The Steam Dome and Cheese Melting Physics
+
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
 
 When the ticket prints for Animal Fries, the fry portioner grabs an open-faced corrugated cardboard boat instead of the standard paper sleeve. They lay down a heavy bed of hot fries. Then, they lay two overlapping slices of standard American cheese directly over the top of the fry matrix. 
 

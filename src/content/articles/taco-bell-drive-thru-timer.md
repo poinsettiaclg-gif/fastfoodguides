@@ -1,32 +1,32 @@
 ---
-title: "How Does the Taco Bell Drive-Thru Timer Actually Work?"
-description: "An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors under the asphalt, the 50-second goal, and how crews hack the clock."
-pubDate: "2025-06-13"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Taco Bell"
-topic: "Mexican"
+title: How Does the Taco Bell Drive-Thru Timer Actually Work?
+description: An insider breakdown of Taco Bell's OTD timer system, the magnetic sensors
+  under the asphalt, the 50-second goal, and how crews hack the clock.
+pubDate: '2025-06-13'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Taco Bell
+topic: Mexican
 relatedArticles:
-  - "taco-bell-linebacker-role"
-  - "taco-bell-menu"
+- taco-bell-linebacker-role
+- taco-bell-menu
 faq:
-  - question: "What is OTD in fast food drive-thrus?"
-    answer: "OTD stands for Order to Delivery. It measures the total time from when a customer hits the menu board sensor to the moment they leave the drive-thru window."
-  - question: "Why do Taco Bell employees ask me to back up at the drive-thru window?"
-    answer: "This is an internal workaround to 'reset' the sensor loop tracking your car, keeping their window timer metrics artificially low."
-heroImage: "../../assets/images/general/generic-pos.jpg"
+- question: What is OTD in fast food drive-thrus?
+  answer: OTD stands for Order to Delivery. It measures the total time from when a
+    customer hits the menu board sensor to the moment they leave the drive-thru window.
+- question: Why do Taco Bell employees ask me to back up at the drive-thru window?
+  answer: This is an internal workaround to 'reset' the sensor loop tracking your
+    car, keeping their window timer metrics artificially low.
+heroImage: ../../assets/images/general/generic-pos.webp
 ---
-
-
-
 When you work at Taco Bell, your entire existence during a shift is governed by a digital screen mounted above the drive-thru window. The numbers on that screen are either bright green or glaring red, and the difference between those two colors determines whether your shift lead is calm or screaming at the makeline to move faster. 
 
 This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" system. Fast food is a game of seconds, and franchise owners live and die by these numbers. I have watched Area Managers walk into a store, glance at the timer screen for three seconds, and immediately start making phone calls. The process relies on a strict set of operational zones. 
 
 ## The Sensors and the Zones
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -66,7 +66,7 @@ Then there are the problems nobody can control. **Ghost cars** happen when a sen
 
 ## The Daily Report and the Area Manager Visit
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Every morning, the General Manager reviews the previous day's drive-thru report. This report breaks down the average OTD time by hour, identifies the slowest and fastest periods, and flags any individual transactions that exceeded a threshold—usually anything over 3 minutes gets called out specifically.

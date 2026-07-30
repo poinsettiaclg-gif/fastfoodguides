@@ -1,25 +1,26 @@
 ---
-title: "Zaxby's Sauce: What's Actually In Zax Sauce"
-description: "Zax Sauce is a proprietary blend that Zaxby's guards closely. Here's what the sauce contains, how it's portioned, and why getting the ratio right matters."
-pubDate: "2026-07-11"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Zaxby's"
-topic: "Chicken"
+title: 'Zaxby''s Sauce: What''s Actually In Zax Sauce'
+description: Zax Sauce is a proprietary blend that Zaxby's guards closely. Here's
+  what the sauce contains, how it's portioned, and why getting the ratio right matters.
+pubDate: '2026-07-11'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Zaxby's
+topic: Chicken
 faq:
-  - question: "Do Zaxby's employees make Zax sauce from scratch?"
-    answer: "No, the sauce arrives pre-made in bulk bags. Prep employees manually portion it out into 2-ounce soufflé cups during slow periods."
-  - question: "Why isn't Zax sauce sold in grocery stores?"
-    answer: "The mayonnaise base lacks the heavy preservatives needed for a stable, unrefrigerated shelf life, and keeping it exclusive drives restaurant visits."
+- question: Do Zaxby's employees make Zax sauce from scratch?
+  answer: "No, the sauce arrives pre-made in bulk bags. Prep employees manually portion\
+    \ it out into 2-ounce souffl\xE9 cups during slow periods."
+- question: Why isn't Zax sauce sold in grocery stores?
+  answer: The mayonnaise base lacks the heavy preservatives needed for a stable, unrefrigerated
+    shelf life, and keeping it exclusive drives restaurant visits.
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 7.  What is Zax Sauce? (And Why Employees Guard the Recipe)
 
 
@@ -29,7 +30,7 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 
 ## What's Actually in Zax Sauce
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -50,7 +51,7 @@ The reason employees don't bother guarding the ingredient list is because it doe
 
 ## The Ratio Problem
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 I'll put it this way: mayo is roughly 70 to 75 percent of the sauce. That's a lot more mayo than most home cooks expect. People tend to go heavy on the ketchup because they want that tangy pink color, and they end up with something that tastes like Thousand Island dressing. That's the number one mistake.
 
@@ -84,7 +85,7 @@ Zaxby's has also sold sauce bottles through their own locations and online store
 
 ## Customer Hacks for Getting More Sauce
 
-In my years in QSR, I've seen every trick in the book. Here are the most common ways Zaxby's regulars get their hands on extra Zax Sauce without paying through the nose:
+In my years in QSR, Actually every trick in the book. Here are the most common ways Zaxby's regulars get their hands on extra Zax Sauce without paying through the nose:
 
 **Order your sauce on the side for items that come sauced.** If you order a Zax Snack with sauce already on the sandwich, ask for the sauce on the side instead. You'll get a portion cup in addition to whatever's on the sandwich, because most crew members will still sauce the sandwich and also give you the cup. It's not a deliberate act of generosity — it's just that the line cook and the person filling cups are usually two different people who don't communicate about it.
 

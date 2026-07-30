@@ -1,32 +1,38 @@
 ---
-title: "Starbucks Mastrena II: Espresso Calibration"
-description: "The Mastrena II auto-calibrates grind size throughout the day. Here's how the 18-23 second extraction window is maintained and what throws it off."
-pubDate: "2024-12-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Coffee"
-disclaimerType: "food_safety"
+title: 'Starbucks Mastrena II: Espresso Calibration'
+description: The Mastrena II auto-calibrates grind size throughout the day. Here's
+  how the 18-23 second extraction window is maintained and what throws it off.
+pubDate: '2024-12-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Coffee
+disclaimerType: food_safety
 relatedArticles:
-  - "starbucks-morning-rush"
-  - "starbucks-customer-support-cycle"
-
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- starbucks-morning-rush
+- starbucks-customer-support-cycle
+heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
-  - question: "Why do baristas pull shots into those tiny shot glasses instead of directly into the cup?"
-    answer: "It depends on the drink! For standard hot lattes, the shots usually pull directly into the paper cup to save time and preserve the crema. But for iced drinks, caramel macchiatos (where the shots go on top), or measuring exact quantities, baristas pull the shots into heavy shot glasses with measurement lines."
-  - question: "What happens if the Mastrena II breaks?"
-    answer: "It's a massive problem. Starbucks stores usually have two Mastrena II units. If one goes down, the entire store has to route all hot bar drinks through a single machine, instantly doubling ticket times. Store managers have emergency service lines they call, and technicians usually arrive within hours."
+- question: Why do baristas pull shots into those tiny shot glasses instead of directly
+    into the cup?
+  answer: It depends on the drink! For standard hot lattes, the shots usually pull
+    directly into the paper cup to save time and preserve the crema. But for iced
+    drinks, caramel macchiatos (where the shots go on top), or measuring exact quantities,
+    baristas pull the shots into heavy shot glasses with measurement lines.
+- question: What happens if the Mastrena II breaks?
+  answer: It's a massive problem. Starbucks stores usually have two Mastrena II units.
+    If one goes down, the entire store has to route all hot bar drinks through a single
+    machine, instantly doubling ticket times. Store managers have emergency service
+    lines they call, and technicians usually arrive within hours.
 ---
-
 If you stand at the hand-off plane of any high-volume Starbucks location, you will see a massive, low-profile machine dominating the hot bar. This is the Mastrena II, a piece of equipment so central to the Starbucks operation that a single breakdown can instantly back up the entire store and ruin the [Starbucks Morning Rush: How the Bar Stays Afloat](/articles/starbucks-morning-rush/).
 
 The jump from the original Mastrena to the Mastrena II was a massive technological shift for the company. The newer machines are shorter, allowing baristas to make eye contact with customers while pulling shots, and they feature three separate bean hoppers (usually holding signature espresso, blonde espresso, and decaf). 
 
 But the real magic of the Mastrena II happens behind the digital screen. On the line, it plays out like this:
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">**ProTip:** The machine relies on consistent gravity pressure to feed the grinders. Keeping hoppers full helps the machine maintain a consistent grind and reduces the frequency of "powder quantity" errors.</div>
 

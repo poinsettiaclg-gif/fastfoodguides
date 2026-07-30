@@ -1,33 +1,36 @@
 ---
-title: "How Does the Pizza Hut Dispatch System Work?"
-description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating the FIFO queue, and maximizing your tips per shift."
-pubDate: "2026-01-28"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Pizza Hut"
-topic: "Pizza"
+title: How Does the Pizza Hut Dispatch System Work?
+description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal\
+  \ \u2014 doubling up orders, beating the FIFO queue, and maximizing your tips per\
+  \ shift."
+pubDate: '2026-01-28'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Pizza Hut
+topic: Pizza
 relatedArticles:
-  - "pizza-delivery-driver-accident"
-  - "dominos-gas"
-
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- pizza-delivery-driver-accident
+- dominos-gas
+heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
-  - question: "Does the Pizza Hut dispatch system hide tips from drivers?"
-    answer: "The dispatch screen itself primarily shows order data and routing. Drivers usually see their credit card tips during the end-of-shift cash-out process, not before taking the delivery."
-  - question: "Why do third-party drivers sometimes have tip discrepancies on Pizza Hut orders?"
-    answer: "When a Pizza Hut order is transferred to a third-party app like DoorDash due to understaffing, system integration can occasionally cause visibility issues with the tip."
+- question: Does the Pizza Hut dispatch system hide tips from drivers?
+  answer: The dispatch screen itself primarily shows order data and routing. Drivers
+    usually see their credit card tips during the end-of-shift cash-out process, not
+    before taking the delivery.
+- question: Why do third-party drivers sometimes have tip discrepancies on Pizza Hut
+    orders?
+  answer: When a Pizza Hut order is transferred to a third-party app like DoorDash
+    due to understaffing, system integration can occasionally cause visibility issues
+    with the tip.
 ---
-
-
-
 If you get hired as a delivery driver at Pizza Hut, your entire night revolves around one screen in the back of the store. Not the oven. Not the cut table. The Dispatch Terminal. That glowing touchscreen monitor next to the heat racks is the brain of the operation, and understanding how it works is the difference between a $60 night and a $150 night. 
 
 The old days of writing addresses on a whiteboard and fighting with other drivers over the best tippers are long gone. Modern pizza delivery is automated, GPS-tracked, and timed down to the second.
 
 ## The Drag-and-Drop System
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -43,7 +46,7 @@ The reality on the ground is during training: **that dispatch timer is one of th
 
 ## Doubles, Triples, and the Routing Algorithm
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Taking one pizza at a time is a rookie move. Experienced drivers make their real money on "Doubles" — taking two orders at once — or even "Triples" on busy nights. But you can't just grab three random boxes and run.

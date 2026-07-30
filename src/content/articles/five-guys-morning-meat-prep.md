@@ -1,30 +1,30 @@
 ---
-title: "Five Guys Morning Prep: Hand-Rolling the Meatballs"
-description: "Five Guys famously refuses to use freezers. Discover the grueling 5 AM morning prep shift where every single burger patty is weighed and rolled by hand."
-pubDate: "2026-06-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Five Guys"
-topic: "Burgers"
-disclaimerType: "food_safety"
+title: 'Five Guys Morning Prep: Hand-Rolling the Meatballs'
+description: Five Guys famously refuses to use freezers. Discover the grueling 5 AM
+  morning prep shift where every single burger patty is weighed and rolled by hand.
+pubDate: '2026-06-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Five Guys
+topic: Burgers
+disclaimerType: food_safety
 faq:
-  - question: "How much does a Five Guys burger patty weigh?"
-    answer: "Every patty is weighed to exactly 3.6 ounces before being rolled and stored."
-  - question: "Do they add oil to the grill for the burgers?"
-    answer: "No, Five Guys uses the natural fat from the 80/20 beef blend to grease the grill during cooking."
+- question: How much does a Five Guys burger patty weigh?
+  answer: Every patty is weighed to exactly 3.6 ounces before being rolled and stored.
+- question: Do they add oil to the grill for the burgers?
+  answer: No, Five Guys uses the natural fat from the 80/20 beef blend to grease the
+    grill during cooking.
 relatedArticles:
-  - "five-guys-burger-build"
-  - "five-guys-no-freezers"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- five-guys-burger-build
+- five-guys-no-freezers
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 Five Guys built its entire brand on a single, unwavering promise: there are zero [freezers](/articles/five-guys-no-freezers/) in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.
 
 This commitment to fresh food means that the back-of-house operations at Five Guys look more like a high-volume butcher shop than a modern fast food kitchen. Before a single customer walks through the doors at 11:00 AM, a dedicated morning prep crew has already been in the building for hours, engaging in one of the most physically repetitive tasks in the industry: rolling the meat.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The 5 AM Arrival
 

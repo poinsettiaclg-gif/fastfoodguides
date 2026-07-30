@@ -1,25 +1,28 @@
 ---
-title: "Waffle House Hash Brown System: All Nine Mods"
-description: "Waffle House hash browns have nine official modification options. Here's how the ticket system tracks each order and how the grill cook executes them."
-pubDate: "2026-07-18"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Waffle House"
-topic: "Breakfast & Coffee"
+title: 'Waffle House Hash Brown System: All Nine Mods'
+description: Waffle House hash browns have nine official modification options. Here's
+  how the ticket system tracks each order and how the grill cook executes them.
+pubDate: '2026-07-18'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Waffle House
+topic: Breakfast & Coffee
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 faq:
-  - question: "What does scattered, smothered, and covered mean at Waffle House?"
-    answer: "Scattered means the hash browns are spread out on the grill for maximum crispiness. Smothered adds sautéed onions, and covered means a slice of American cheese is melted on top."
-  - question: "How does Waffle House know my hash brown order without a ticket?"
-    answer: "Servers use a visual marking system, placing specific condiment packets or jelly packets in certain positions on the plate to communicate the modifications to the grill operator."
+- question: What does scattered, smothered, and covered mean at Waffle House?
+  answer: "Scattered means the hash browns are spread out on the grill for maximum\
+    \ crispiness. Smothered adds saut\xE9ed onions, and covered means a slice of American\
+    \ cheese is melted on top."
+- question: How does Waffle House know my hash brown order without a ticket?
+  answer: Servers use a visual marking system, placing specific condiment packets
+    or jelly packets in certain positions on the plate to communicate the modifications
+    to the grill operator.
 ---
-
 7.  How Does the Waffle House Hash Brown Ordering System Work?
 
 
@@ -29,7 +32,7 @@ I spent time working alongside Waffle House crew members during a cross-training
 
 ## The Nine Modifications, Explained
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -59,7 +62,7 @@ You can order any combination of these. All nine at once if you want. And yes, p
 
 ## The Marking System: How Tickets Actually Work
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 This is the part that fascinates most people, and it's the part that's hardest to explain without seeing it in person. Waffle House uses a physical marking system on the plates and tickets to communicate orders from the server to the grill operator without verbal callouts.
 
@@ -119,7 +122,7 @@ Waffle House is a 24-hour operation, and anyone who's worked in or near one know
 
 During a late-night slam, a single grill operator might be handling a continuous stream of orders that doesn't let up for three or four hours straight. The hash brown orders pile up because that's what people crave at 2 AM — something hot, greasy, salty, and customizable.
 
-I've seen ticket rails so full that servers are holding tickets in their hands waiting for a clip to open up. The grill operator is working the entire flat-top surface, every square inch, with hash browns in various stages of completion overlapping with eggs over-easy, patty melts, and scattered, smothered everything.
+Actually ticket rails so full that servers are holding tickets in their hands waiting for a clip to open up. The grill operator is working the entire flat-top surface, every square inch, with hash browns in various stages of completion overlapping with eggs over-easy, patty melts, and scattered, smothered everything.
 
 The noise level is something else too. A packed Waffle House at 1 AM on a Saturday is louder than most sports bars. Jukeboxes playing, customers yelling across the counter, servers calling out orders over the din. And through all of it, the grill operator is quietly reading markers, tracking modifications, and putting out plate after plate.
 

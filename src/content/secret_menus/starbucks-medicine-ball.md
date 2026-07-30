@@ -1,32 +1,37 @@
 ---
-title: "The Medicine Ball (Honey Citrus Mint Tea): Why Baristas Dread Making Starbucks' Viral Cold Remedy"
-description: "An operational breakdown of why Starbucks baristas dread the Medicine Ball (Honey Citrus Mint Tea) during peak rushes and its Hot Bar disruption."
-pubDate: "2025-09-18"
-updatedDate: "2026-07-25"
-chain: "Starbucks"
+title: 'The Medicine Ball (Honey Citrus Mint Tea): Why Baristas Dread Making Starbucks''
+  Viral Cold Remedy'
+description: An operational breakdown of why Starbucks baristas dread the Medicine
+  Ball (Honey Citrus Mint Tea) during peak rushes and its Hot Bar disruption.
+pubDate: '2025-09-18'
+updatedDate: '2026-07-25'
+chain: Starbucks
 operationalAnnoyanceScore: 8
 isVerified: true
 ingredients:
-  - "1 bag Jade Citrus Mint Tea"
-  - "1 bag Peach Tranquility Tea"
-  - "Half hot water"
-  - "Half steamed lemonade"
-  - "Honey"
-howToOrder: "Can I please get a Venti Honey Citrus Mint Tea with two pumps of peppermint?"
-priceEstimate: "$4.50"
+- 1 bag Jade Citrus Mint Tea
+- 1 bag Peach Tranquility Tea
+- Half hot water
+- Half steamed lemonade
+- Honey
+howToOrder: Can I please get a Venti Honey Citrus Mint Tea with two pumps of peppermint?
+priceEstimate: $4.50
 relatedArticles:
-  - "starbucks-dpm-routing"
-  - "starbucks-morning-rush"
-  - "starbucks-mastrena-espresso-calibration"
+- starbucks-dpm-routing
+- starbucks-morning-rush
+- starbucks-mastrena-espresso-calibration
 faq:
-  - question: "Does the Starbucks Medicine Ball actually cure colds?"
-    answer: "No. Despite its viral nickname, the Honey Citrus Mint Tea has no proven medical or pharmaceutical benefits. It is simply a soothing warm beverage made of green tea, herbal tea, lemonade, and sugar."
-  - question: "Why is the Medicine Ball rated an 8/10 operational annoyance by baristas?"
-    answer: "Because making it requires opening two separate plastic tea bag wrappers by hand, pumping thick honey blend, and steaming lemonade on the espresso machine's steam wand, breaking the barista's rapid 2-drink espresso sequencing cadence."
-  - question: "What is the official menu name for the Medicine Ball at Starbucks?"
-    answer: "The official corporate name on the Starbucks POS and mobile app is 'Honey Citrus Mint Tea.' Customers should always order it by this name rather than 'Medicine Ball' or 'Cold Buster.'"
+- question: Does the Starbucks Medicine Ball actually cure colds?
+  answer: No. Despite its viral nickname, the Honey Citrus Mint Tea has no proven
+    medical or pharmaceutical benefits. It is simply a soothing warm beverage made
+    of green tea, herbal tea, lemonade, and sugar.
+- question: Why is the Medicine Ball rated an 8/10 operational annoyance by baristas?
+  answer: Because making it requires opening two separate plastic tea bag wrappers
+    by hand, pumping thick honey blend, and steaming lemonade on the espresso machine's
+    steam wand, breaking the barista's rapid 2-drink espresso sequencing cadence.
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
 ---
-
 > **Medical Disclaimer:** The "Medicine Ball" is an unofficial customer nickname. It is not a medical cold cure or pharmaceutical health remedy, and it has no medically proven curative benefits for illnesses or viral infections.
 
 In the entire history of Starbucks secret menu items, no beverage has achieved the massive cultural dominance of **The Medicine Ball**. Originally invented by customers on social media as a soothing winter throat-warmer under names like the "Cold Buster" or "Secret Tea Fix," the drink became so overwhelmingly popular that Starbucks corporate executives did something unprecedented: they adopted the hack into the official POS database under the standardized name **"Honey Citrus Mint Tea."**
@@ -36,6 +41,10 @@ Yet, despite its official status on the menu board, any Starbucks shift supervis
 When a customer orders a Venti Medicine Ball during an 8:00 AM morning peak when 40 mobile orders are queued on the [Digital Production Manager (DPM)](/articles/starbucks-dpm-routing), it brings high-speed espresso bar sequencing to a grinding halt. Here is the operational science and kitchen mechanics behind why baristas dread making this viral tea.
 
 ## 1. Anatomy of the Build: A 5-Step Mechanical Slowdown
+
+![Operational view](../../assets/images/general/generic-baking.webp)
+
+
 
 To understand why a simple cup of hot tea scores an 8/10 in kitchen annoyance, you must compare its physical labor requirements against a standard espresso beverage like a Vanilla Latte. 
 
@@ -70,3 +79,7 @@ If you love the soothing, citrus-mint flavor of the Honey Citrus Mint Tea and wa
 1.  **Use the Official POS Name:** Never ask for a "Medicine Ball," "Cold Buster," or "Sick Tea" at the register. Always state clearly: **"I would like a hot Honey Citrus Mint Tea."**
 2.  **Order via Mobile App:** Order your tea using Starbucks Mobile Order & Pay 10 minutes before you arrive at the store. This allows the barista to open the tea sachets and steam the lemonade during natural lulls in the queue without the pressure of an induction loop drive-thru timer ticking above their head.
 3.  **Avoid Custom Honey Packets:** If your store offers syrup vs. raw honey packets, always stick with the default **Honey Blend Syrup**. Asking a barista to manually tear open three sticky plastic packets of raw honey during a peak rush adds 30 seconds of pure manual friction to an already labor-intensive beverage.
+
+
+<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
+

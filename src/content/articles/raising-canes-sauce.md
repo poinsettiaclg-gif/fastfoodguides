@@ -1,24 +1,27 @@
 ---
-title: "Raising Cane's Sauce: The Recipe and Prep Process"
-description: "Raising Cane's sauce is made in-house daily. Here's what goes into it, the mixing process, and why every location has to get it exactly right."
-pubDate: "2025-06-29"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Raising Cane's"
-topic: "Chicken"
+title: 'Raising Cane''s Sauce: The Recipe and Prep Process'
+description: Raising Cane's sauce is made in-house daily. Here's what goes into it,
+  the mixing process, and why every location has to get it exactly right.
+pubDate: '2025-06-29'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Raising Cane's
+topic: Chicken
 faq:
-  - question: "Does Raising Cane's sell their sauce in bottles?"
-    answer: "No, Raising Cane's does not sell bottled sauce. However, you can order a large 32 oz cup of it (sometimes called a Caniac size) if you need a bulk amount for a party."
-  - question: "How long does Cane's sauce last in the fridge?"
-    answer: "Since it is mayonnaise-based, the homemade or copycat versions usually last about two weeks in the refrigerator. At the restaurant, it is made fresh every single day."
+- question: Does Raising Cane's sell their sauce in bottles?
+  answer: No, Raising Cane's does not sell bottled sauce. However, you can order a
+    large 32 oz cup of it (sometimes called a Caniac size) if you need a bulk amount
+    for a party.
+- question: How long does Cane's sauce last in the fridge?
+  answer: Since it is mayonnaise-based, the homemade or copycat versions usually last
+    about two weeks in the refrigerator. At the restaurant, it is made fresh every
+    single day.
 relatedArticles:
-  - "raising-canes-bird-specialist"
-  - "mcdonalds-fry-station"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- raising-canes-bird-specialist
+- mcdonalds-fry-station
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day. 
 
 That's the part most people don't realize. When you peel back the lid on that little cup of sauce, you're eating something that was mixed by hand in the back of that specific restaurant, probably within the last few hours. It's not shipped in from a warehouse. It's not squirted from a machine. Someone in the kitchen made it. 
@@ -26,6 +29,10 @@ That's the part most people don't realize. When you peel back the lid on that li
 I spent time working alongside Cane's employees during a consulting stint, and watching the sauce prep process was one of those moments where you realize why certain fast food items taste noticeably better than the competition. It's because someone actually made it that morning. 
 
 ## The Ingredients Are Not a Secret
+
+![Operational view](../../assets/images/general/generic-coffee.webp)
+
+
 
 Cane's has never officially published their sauce recipe, but the ingredients have been widely confirmed by employees, food scientists, and the company's own ingredient disclosures. The base components are:
 

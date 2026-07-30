@@ -1,24 +1,26 @@
 ---
-title: "Krispy Kreme Hot Light: What It Actually Means"
-description: "The Krispy Kreme Hot Light signals fresh glazed donuts coming off the line. Here's how the production schedule works and what triggers the light."
-pubDate: "2026-06-07"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Krispy Kreme"
-topic: "Breakfast & Coffee"
+title: 'Krispy Kreme Hot Light: What It Actually Means'
+description: The Krispy Kreme Hot Light signals fresh glazed donuts coming off the
+  line. Here's how the production schedule works and what triggers the light.
+pubDate: '2026-06-07'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Krispy Kreme
+topic: Breakfast & Coffee
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
 faq:
-  - question: "Can you get a free doughnut when the Hot Light is on?"
-    answer: "Yes, at many participating locations, visiting while the Hot Light is illuminated entitles you to one free Original Glazed doughnut with your visit."
-  - question: "Does every Krispy Kreme have a Hot Light?"
-    answer: "No, smaller 'fresh shop' formats receive doughnuts delivered from a hub production kitchen and do not have the on-site production line required for a Hot Light."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: Can you get a free doughnut when the Hot Light is on?
+  answer: Yes, at many participating locations, visiting while the Hot Light is illuminated
+    entitles you to one free Original Glazed doughnut with your visit.
+- question: Does every Krispy Kreme have a Hot Light?
+  answer: No, smaller 'fresh shop' formats receive doughnuts delivered from a hub
+    production kitchen and do not have the on-site production line required for a
+    Hot Light.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 7.  What Does the Krispy Kreme Hot Light Actually Mean?
 
 
@@ -29,6 +31,10 @@ None of the above. The Hot Light means something very specific: a fresh batch of
 I want to walk you through exactly what's happening behind the scenes when that light flips on, because the production process that creates an Original Glazed doughnut is one of the most fascinating automated systems in the entire fast-food industry. This isn't a person standing at a fryer dropping dough in oil. This is a continuous, mechanized production line that takes raw yeast dough and turns it into finished, glazed doughnuts in about 15 to 20 minutes with minimal human intervention. 
 
 ## The Production Line: A Factory Inside a Restaurant
+
+![Operational view](../../assets/images/general/generic-prep.webp)
+
+
 
 Most Krispy Kreme locations with a Hot Light have the production line visible to customers through a large window. This is intentional—watching doughnuts being made is part of the brand experience, and the visible production line serves as a constant advertisement. But what you're seeing through that glass is genuinely impressive from an engineering standpoint. Here's the step-by-step process:
 

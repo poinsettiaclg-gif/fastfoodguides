@@ -1,20 +1,24 @@
 ---
-title: "The Chick-fil-A Drive-Thru Tablets: How the iPOS System Kills the Speaker Box"
-description: "A gritty breakdown of how Chick-fil-A bypasses the traditional drive-thru bottleneck using outdoor iPads, tandem ordering, and relentless operational speed."
-pubDate: "2026-05-31"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chick-fil-A"
-topic: "Operations"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: 'The Chick-fil-A Drive-Thru Tablets: How the iPOS System Kills the Speaker
+  Box'
+description: A gritty breakdown of how Chick-fil-A bypasses the traditional drive-thru
+  bottleneck using outdoor iPads, tandem ordering, and relentless operational speed.
+pubDate: '2026-05-31'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chick-fil-A
+topic: Operations
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 faq:
-  - question: "What tablet does Chick-fil-A use outside?"
-    answer: "Chick-fil-A primarily uses Apple iPads housed in heavy-duty, ruggedized commercial sleds that feature built-in credit card readers and sunshades."
-  - question: "How does Chick-fil-A handle payment outside?"
-    answer: "Order takers process credit cards directly on their iPOS tablets. For cash or complex transactions, they often deploy a mobile 'Cash Cart' further down the line."
+- question: What tablet does Chick-fil-A use outside?
+  answer: Chick-fil-A primarily uses Apple iPads housed in heavy-duty, ruggedized
+    commercial sleds that feature built-in credit card readers and sunshades.
+- question: How does Chick-fil-A handle payment outside?
+  answer: Order takers process credit cards directly on their iPOS tablets. For cash
+    or complex transactions, they often deploy a mobile 'Cash Cart' further down the
+    line.
 ---
-
 If you look at the drive-thru layout of a [McDonald's](/articles/chain/mcdonalds) or a [Wendy's](/articles/chain/wendys), the architecture is fundamentally the same as it was in the 1980s. A customer pulls up to a metal speaker box, shouts their order into a microphone, and drives forward. The speaker box is a structural bottleneck. No matter how fast the kitchen cooks the food, you can only process one car at a time through that speaker.
 
 Chick-fil-A looked at that bottleneck and completely engineered it out of existence. 
@@ -60,7 +64,7 @@ When you order through a speaker box, the audio is heavily compressed. "I want a
 
 With iPOS, the team member is standing three feet from the driver. They can hear them clearly, read their lips, and instantly clarify confusing orders. The team member takes the payment right there in the parking lot. By the time the car reaches the physical drive-thru window, the transaction is already finished. The only thing left to do is hand them the bag.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## Managing the Elements
 

@@ -1,26 +1,25 @@
 ---
-title: "The Bizarre Way Jack in the Box Tacos Are Made"
-description: "Ever wonder why Jack in the Box tacos look fried shut? Learn the weird frozen-to-fryer process, the pry-and-stuff technique, and late-night volume tips."
-pubDate: "2024-11-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Jack in the Box"
-topic: "Burgers"
+title: The Bizarre Way Jack in the Box Tacos Are Made
+description: Ever wonder why Jack in the Box tacos look fried shut? Learn the weird
+  frozen-to-fryer process, the pry-and-stuff technique, and late-night volume tips.
+pubDate: '2024-11-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Jack in the Box
+topic: Burgers
 relatedArticles:
-  - "kfc-pressure-fryers"
-  - "five-guys-no-freezers"
+- kfc-pressure-fryers
+- five-guys-no-freezers
 faq:
-  - question: "Are Jack in the Box tacos actually fried?"
-    answer: "Yes, they arrive frozen with the meat already inside and are deep-fried in canola oil at 350°F until the shell is crunchy."
-  - question: "Why does the taco meat look like paste?"
-    answer: "The filling is a blended mixture of beef and soy protein designed to cook evenly through the shell during the quick frying process without burning."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: Are Jack in the Box tacos actually fried?
+  answer: "Yes, they arrive frozen with the meat already inside and are deep-fried\
+    \ in canola oil at 350\xB0F until the shell is crunchy."
+- question: Why does the taco meat look like paste?
+  answer: The filling is a blended mixture of beef and soy protein designed to cook
+    evenly through the shell during the quick frying process without burning.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. 
 
 The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard. 
@@ -43,7 +42,7 @@ I've watched new cooks open their first box of frozen Jack tacos and genuinely n
 
 ## The Deep Fryer Does All the Heavy Lifting
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 When a customer orders tacos, you grab the frozen, meat-filled tortillas and drop them directly into the deep fryer. No thawing, no prep—straight from the freezer into 350°F oil.
@@ -56,7 +55,7 @@ The frying process is what gives the Jack in the Box taco its signature greasy, 
 
 ## The Pry-and-Stuff Technique
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is where things get weird, and it's the step that makes new cooks nervous. The taco was fried shut, remember? So now you have to open it back up to add the cold toppings.

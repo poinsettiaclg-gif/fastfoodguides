@@ -1,33 +1,35 @@
 ---
-title: "What Is the Taco Bell \"Linebacker\" Role?"
-description: "Inside the most physically demanding role at Taco Bell: the Linebacker who restocks the makeline mid-rush so the food builders never stop moving."
-pubDate: "2025-03-26"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Taco Bell"
-topic: "Mexican"
+title: What Is the Taco Bell "Linebacker" Role?
+description: 'Inside the most physically demanding role at Taco Bell: the Linebacker
+  who restocks the makeline mid-rush so the food builders never stop moving.'
+pubDate: '2025-03-26'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Taco Bell
+topic: Mexican
 relatedArticles:
-  - "taco-bell-drive-thru-timer"
-  - "taco-bell-menu"
-  - "taco-bell-rehydrate-beans"
+- taco-bell-drive-thru-timer
+- taco-bell-menu
+- taco-bell-rehydrate-beans
 faq:
-  - question: "What exactly does a Linebacker do?"
-    answer: "The Linebacker is a support position responsible for restocking all hot and cold ingredients on the makeline so the service team never has to stop building food during a rush."
-  - question: "Is the Linebacker role unique to Taco Bell?"
-    answer: "While the specific name 'Linebacker' is mostly unique to Taco Bell and some other Yum! Brands concepts, similar support roles exist across the fast-food industry (like the Initiator at McDonald's)."
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: What exactly does a Linebacker do?
+  answer: The Linebacker is a support position responsible for restocking all hot
+    and cold ingredients on the makeline so the service team never has to stop building
+    food during a rush.
+- question: Is the Linebacker role unique to Taco Bell?
+  answer: While the specific name 'Linebacker' is mostly unique to Taco Bell and some
+    other Yum! Brands concepts, similar support roles exist across the fast-food industry
+    (like the Initiator at McDonald's).
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker. 
 
 If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. 
 
 ## How the Makeline Is Divided
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -43,7 +45,7 @@ When the Starter runs out of ground beef, they have to stop building, turn aroun
 
 ## The Linebacker's Core Duties
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The Linebacker's job is deceptively simple to describe and incredibly demanding to execute:

@@ -1,25 +1,27 @@
 ---
-title: "Shake Shack Smash Burger: The Grill Technique"
-description: "Shake Shack smashes every patty to order on a flat-top grill. Here's how the pressing and crust technique creates their signature burger flavor."
-pubDate: "2026-06-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Shake Shack"
-topic: "Burgers"
+title: 'Shake Shack Smash Burger: The Grill Technique'
+description: Shake Shack smashes every patty to order on a flat-top grill. Here's
+  how the pressing and crust technique creates their signature burger flavor.
+pubDate: '2026-06-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Shake Shack
+topic: Burgers
 faq:
-  - question: "Does Shake Shack put mustard on their burgers?"
-    answer: "By default, Shake Shack does not put mustard on the ShackBurger. The signature ShackSauce provides a tangy, savory flavor profile instead."
-  - question: "What kind of grill does Shake Shack use?"
-    answer: "Shake Shack utilizes thick, chrome-plated flat-top griddles capable of holding steady temperatures between 400°F and 450°F, which is essential for a proper smash."
+- question: Does Shake Shack put mustard on their burgers?
+  answer: By default, Shake Shack does not put mustard on the ShackBurger. The signature
+    ShackSauce provides a tangy, savory flavor profile instead.
+- question: What kind of grill does Shake Shack use?
+  answer: "Shake Shack utilizes thick, chrome-plated flat-top griddles capable of\
+    \ holding steady temperatures between 400\xB0F and 450\xB0F, which is essential\
+    \ for a proper smash."
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 7.  What is the Shake Shack Smash Burger Technique?
 
 
@@ -29,7 +31,7 @@ I've watched this technique executed thousands of times across different burger 
 
 ## The Smash: What Actually Happens on the Flat-Top
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -49,7 +51,7 @@ That single motion is the entire technique. And everything that makes the burger
 
 ## Why the Crust Is the Whole Point
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 Here's the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 

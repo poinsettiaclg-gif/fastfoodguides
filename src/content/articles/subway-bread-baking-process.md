@@ -1,27 +1,28 @@
 ---
-title: "The Subway Bread Baking Process: Why It Smells Like That"
-description: "A behind-the-counter look at Subway's 12-hour bread baking process, from frozen dough sticks to the iconic smell that sticks to your clothes for days."
-pubDate: "2025-05-31"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Subway"
-topic: "Sandwiches"
+title: 'The Subway Bread Baking Process: Why It Smells Like That'
+description: A behind-the-counter look at Subway's 12-hour bread baking process, from
+  frozen dough sticks to the iconic smell that sticks to your clothes for days.
+pubDate: '2025-05-31'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Subway
+topic: Sandwiches
 relatedArticles:
-  - "subway-bain-fill-line-rule"
-  - "subway-wrap-folding"
-  - "subway-pos-out-of-order"
-
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- subway-bain-fill-line-rule
+- subway-wrap-folding
+- subway-pos-out-of-order
+heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
-  - question: "Why does Subway bread smell so strong?"
-    answer: "The high sugar content in the frozen dough caramelizes during baking, and the Italian Herb seasoning builds up on silicone mats, permanently impregnating the scent into store walls and HVAC."
-  - question: "Does Subway make bread from scratch in the store?"
-    answer: "No. The dough arrives at the store completely raw but frozen into sticks. Staff must thaw it in a retarder, proof it in a high-humidity cabinet, score it, and bake it on-site."
+- question: Why does Subway bread smell so strong?
+  answer: The high sugar content in the frozen dough caramelizes during baking, and
+    the Italian Herb seasoning builds up on silicone mats, permanently impregnating
+    the scent into store walls and HVAC.
+- question: Does Subway make bread from scratch in the store?
+  answer: No. The dough arrives at the store completely raw but frozen into sticks.
+    Staff must thaw it in a retarder, proof it in a high-humidity cabinet, score it,
+    and bake it on-site.
 ---
-
-
-
 Subway's retarder and proofer cabinets are the most important pieces of equipment in the store, driving a rigid 12-hour production cycle. The unmistakable, sweet yeasty scent that hits you at the door isn't artificial—it's the byproduct of baking high-sugar dough repeatedly on silicone mats. I've personally had to throw away jackets because the Italian Herbs & Cheese scent permanently bonded to the fabric. 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
@@ -40,13 +41,13 @@ The bread timeline starts the night before service. The closing crew is responsi
 
 What the training manual skips over is: the retarder is the most important piece of equipment in a Subway, and it is also the most neglected. The dough sits in this unit overnight to slowly thaw in a controlled environment without the yeast activating too aggressively. If someone on the closing crew accidentally bumps the retarder temperature up—even by just a couple of degrees—the yeast wakes up early. You will arrive in the morning to bloated, cratered dough sticks full of massive air pockets that collapse the second you try to score them. There is no fixing over-proofed dough. You throw it out and pull from the freezer, which puts you behind by at least two hours.
 
-I have seen rookies stack the bread molds too close together inside the retarder, blocking the airflow vents. Result: uneven thawing. The sticks on the outside thaw perfectly while the ones in the center are still partially frozen. Getting the retarder load right is one of the most important closing responsibilities, and it is the one that gets the least attention in training.
+Actually rookies stack the bread molds too close together inside the retarder, blocking the airflow vents. Result: uneven thawing. The sticks on the outside thaw perfectly while the ones in the center are still partially frozen. Getting the retarder load right is one of the most important closing responsibilities, and it is the one that gets the least attention in training.
 
 <div class="callout callout-tip">**ProTip:** If the retarder temperature runs too warm (even a few degrees above 38°F), the yeast activates early overnight. You will arrive to bloated, ruined dough that has to be thrown away, setting morning prep back by two hours.</div>
 
 ### Step 2: The Proofer (The Morning Of)
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 When the opener arrives—usually around 6:30 or 7:00 AM—the thawed dough goes directly into the proofer, a heated, high-humidity cabinet that looks like a tall metal closet with racks. The proofer runs at roughly 95°F to 100°F with about 80% humidity. The heat and moisture wake the yeast up, and the thin dough sticks begin to expand into puffy sub rolls.
@@ -61,7 +62,7 @@ The test is simple: gently press the surface of the dough with one finger. If it
 
 ### Step 3: Scoring, Seasoning, and Baking
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Before the proofed dough goes into the oven, the Sandwich Artist preps each loaf:

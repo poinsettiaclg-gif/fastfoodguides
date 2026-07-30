@@ -1,33 +1,38 @@
 ---
-title: "Cava's Digital Make Line (DML): The Secret Ghost Kitchen"
-description: "Cava runs a hidden Digital Make Line exclusively for online and catering orders. Here is how the DML keeps the front line moving during a rush."
-pubDate: "2024-11-01"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Cava"
-topic: "Other Chains"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'Cava''s Digital Make Line (DML): The Secret Ghost Kitchen'
+description: Cava runs a hidden Digital Make Line exclusively for online and catering
+  orders. Here is how the DML keeps the front line moving during a rush.
+pubDate: '2024-11-01'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Cava
+topic: Other Chains
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - "cava-assembly-line"
-  - "sweetgreen-mixing-station"
-  - "dominos-makeline-routing"
+- cava-assembly-line
+- sweetgreen-mixing-station
+- dominos-makeline-routing
 faq:
-  - question: "Why doesn't Cava make mobile orders on the front line?"
-    answer: "Mixing digital orders with walk-in customers creates massive bottlenecks and friction. The dedicated DML ensures both channels operate at maximum speed independently without causing a line backup."
-  - question: "Do mobile orders get smaller portions?"
-    answer: "Technically, no. Digital orders receive the exact standardized portions dictated by the corporate recipe cards. However, walk-in customers often use 'the nod' to ask for a little extra rice or dip, leading to the perception of smaller digital portions."
+- question: Why doesn't Cava make mobile orders on the front line?
+  answer: Mixing digital orders with walk-in customers creates massive bottlenecks
+    and friction. The dedicated DML ensures both channels operate at maximum speed
+    independently without causing a line backup.
+- question: Do mobile orders get smaller portions?
+  answer: Technically, no. Digital orders receive the exact standardized portions
+    dictated by the corporate recipe cards. However, walk-in customers often use 'the
+    nod' to ask for a little extra rice or dip, leading to the perception of smaller
+    digital portions.
 ---
-
 If you walk into any high-volume Cava location during the noon lunch rush, you will immediately bear witness to a scene of highly organized chaos. The main [How Is Cava Food Made? Inside the Bowl Assembly Line](/articles/cava-assembly-line/) is packed shoulder-to-shoulder with customers pointing enthusiastically at the Crazy Feta, asking for extra scoops of RightRice, and agonizing over whether to finish their bowl with the Harissa or the classic Tzatziki. But behind the scenes, often obscured by a dividing wall or tucked away entirely in the back of the house, there is a completely separate operation humming along at an even more breakneck speed. This is the Digital Make Line, universally referred to in the industry as the DML.
 
-As a former multi-unit kitchen manager who has overseen the opening, staffing, and daily operation of countless fast-casual restaurants, I can tell you from firsthand experience that the DML is the operational core of the modern quick-service industry. It is essentially a high-efficiency ghost kitchen operating within the four walls of a traditional brick-and-mortar restaurant. While the [How Is Cava Food Made? Inside the Bowl Assembly Line](/articles/cava-assembly-line/) caters to the visible walk-in crowd, the DML handles the invisible but massive avalanche of mobile app orders, DoorDash drivers, Uber Eats couriers, and massive catering spreads. 
+As a former multi-unit kitchen manager who has overseen the opening, staffing, and daily operation of countless fast-casual restaurants, Actually from firsthand experience that the DML is the operational core of the modern quick-service industry. It is essentially a high-efficiency ghost kitchen operating within the four walls of a traditional brick-and-mortar restaurant. While the [How Is Cava Food Made? Inside the Bowl Assembly Line](/articles/cava-assembly-line/) caters to the visible walk-in crowd, the DML handles the invisible but massive avalanche of mobile app orders, DoorDash drivers, Uber Eats couriers, and massive catering spreads. 
 
 In the early days of fast-casual dining, digital orders were an afterthought. A ticket would violently print out on a little receipt printer near the cash register, and a stressed line worker would awkwardly try to build the digital bowl in between helping the actual human beings standing right in front of them. It was a complete disaster. If a customer is waiting in line and sees you making three bowls for someone who isn't even in the building, they get annoyed. Friction builds. The line slows to a crawl. Cava, recognizing this fatal flaw in operational flow early on, invested heavily in the DML concept, completely decoupling the digital revenue stream from the physical one.
 
 ## What Exactly is the Digital Make Line (DML)?
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 To put it simply, the DML is a full-scale replica of the front assembly line, but stripped of all the customer-facing aesthetics. There are no glass sneeze guards to wipe down constantly, no decorative lighting, and absolutely no conversational banter. It is an environment built purely for unadulterated food production. You have the exact same hot wells holding the steaming saffron basmati rice, the perfectly fried falafel, and the spicy lamb meatballs. You have the exact same cold wells stocked meticulously with pickled onions, tomato and cucumber salad, and Kalamata olives. You have the same array of proprietary dressings lined up in squeeze bottles.
@@ -60,7 +65,7 @@ When a DoorDash driver shoves their phone in the Expo's face, the Expo needs to 
 
 ## Portion Control: When the Customer Isn't Watching
 
-One of the most controversial and frequently discussed topics surrounding the DML—and digital ordering in general—is portion control. We've all seen the viral TikToks and Reddit threads of customers complaining that their mobile order bowl feels significantly lighter than the bowl they get when they walk into the restaurant in person. As a former manager who has run the food cost numbers on both lines, I can tell you exactly why this happens, and I promise you it's not a corporate conspiracy to cheat you out of a half-ounce of chicken.
+One of the most controversial and frequently discussed topics surrounding the DML—and digital ordering in general—is portion control. We've all seen the viral TikToks and Reddit threads of customers complaining that their mobile order bowl feels significantly lighter than the bowl they get when they walk into the restaurant in person. As a former manager who has run the food cost numbers on both lines, Actually exactly why this happens, and I promise you it's not a corporate conspiracy to cheat you out of a half-ounce of chicken.
 
 On the front customer-facing line, portion control is essentially a psychological negotiation. A worker uses a standardized spoodle to dish out the Harissa Honey Chicken. But the customer is standing right there, staring intently at them, judging the scoop. If the scoop looks even slightly light, the customer might frown or casually ask for "just a little bit more." In the interest of hospitality, avoiding confrontation, and keeping the line moving quickly, the worker very often obliges. This phenomenon is known in the industry as "the nod" or "the hookup." Over time, this inflates the baseline consumer expectation of what a standard corporate portion actually looks like. You can read more about this exact psychological phenomenon in our detailed breakdown of [The Secret to Rolling a Massive Double-Meat Chipotle Burrito](/articles/chipotle-massive-burrito-rolling/).
 

@@ -72,9 +72,6 @@ import HeaderLink from './HeaderLink.astro';
 
 	// Run on initial load
 	initNav();
-	
-	// Also listen for view transitions in case they are added later
-	document.addEventListener('astro:page-load', initNav);
 </script>
 
 <style>
@@ -200,6 +197,8 @@ import HeaderLink from './HeaderLink.astro';
 			top: 4rem;
 			left: 0;
 			right: 0;
+			max-height: calc(100vh - 4rem);
+			overflow-y: auto;
 			flex-direction: column;
 			background-color: var(--bg-surface);
 			border-bottom: 1px solid rgba(16, 185, 129, 0.15);

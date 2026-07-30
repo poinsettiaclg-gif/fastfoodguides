@@ -1,32 +1,33 @@
 ---
-title: "KFC Original vs. Extra Crispy: How They Differ"
-description: "KFC's Original Recipe and Extra Crispy use different cooking methods entirely. Here's exactly how each style is prepared and why the texture differs."
-pubDate: "2024-11-11"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "KFC"
-topic: "Chicken"
+title: 'KFC Original vs. Extra Crispy: How They Differ'
+description: KFC's Original Recipe and Extra Crispy use different cooking methods
+  entirely. Here's exactly how each style is prepared and why the texture differs.
+pubDate: '2024-11-11'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: KFC
+topic: Chicken
 relatedArticles:
-  - "kfc-coleslaw-secret"
-  - "kfc-pressure-fryers"
-  - "popeyes-chicken-battering-process"
+- kfc-coleslaw-secret
+- kfc-pressure-fryers
+- popeyes-chicken-battering-process
 faq:
-  - question: "Can you pressure-fry the Extra Crispy chicken?"
-    answer: "No, pressure frying the double-breaded Extra Crispy would cause the thick layers of dough to become gummy and fall off, completely ruining the signature crunch."
-  - question: "Does KFC use the same fryer oil for both?"
-    answer: "Yes, standard canola or soybean oil blends are used, but the different machines—pressure fryers versus open fryers—change how the oil interacts with the breading."
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: Can you pressure-fry the Extra Crispy chicken?
+  answer: No, pressure frying the double-breaded Extra Crispy would cause the thick
+    layers of dough to become gummy and fall off, completely ruining the signature
+    crunch.
+- question: Does KFC use the same fryer oil for both?
+  answer: "Yes, standard canola or soybean oil blends are used, but the different\
+    \ machines\u2014pressure fryers versus open fryers\u2014change how the oil interacts\
+    \ with the breading."
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food. 
 
 ## Original Recipe: The Pressure Fryer
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -44,7 +45,7 @@ Here's the operational reality that training glosses over: once that lid locks, 
 
 ## Extra Crispy: The Open Fryer and the Double Dip
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Extra Crispy is engineered for maximum crunch, and the process starts at the breading station with a technique called the Double Dip.

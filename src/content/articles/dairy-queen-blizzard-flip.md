@@ -1,33 +1,34 @@
 ---
-title: "Dairy Queen Blizzard Flip: Why They Flip It Upside Down"
-description: "Dairy Queen flips every Blizzard before handing it over. Here's the consistency standard behind the flip and what happens when a store skips it."
-pubDate: "2026-02-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Dairy Queen"
-topic: "Other Chains"
+title: 'Dairy Queen Blizzard Flip: Why They Flip It Upside Down'
+description: Dairy Queen flips every Blizzard before handing it over. Here's the consistency
+  standard behind the flip and what happens when a store skips it.
+pubDate: '2026-02-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Dairy Queen
+topic: Other Chains
 relatedArticles:
-  - "dairy-queen-perfect-cone-curl"
-  - "five-guys-fry-calibration"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- dairy-queen-perfect-cone-curl
+- five-guys-fry-calibration
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Do you really get a free Blizzard if they forget to flip it?"
-    answer: "Dairy Queen's official policy is that if the employee does not flip your Blizzard upside down, you are entitled to a free one. However, enforcement varies by franchise, and you usually have to point it out at the time of service."
-  - question: "Why does Dairy Queen flip the Blizzard?"
-    answer: "The flip serves as a visual quality guarantee that the soft serve is at the proper temperature and has the correct thickness. It acts as an instant operational QA check while doubling as memorable marketing."
+- question: Do you really get a free Blizzard if they forget to flip it?
+  answer: Dairy Queen's official policy is that if the employee does not flip your
+    Blizzard upside down, you are entitled to a free one. However, enforcement varies
+    by franchise, and you usually have to point it out at the time of service.
+- question: Why does Dairy Queen flip the Blizzard?
+  answer: The flip serves as a visual quality guarantee that the soft serve is at
+    the proper temperature and has the correct thickness. It acts as an instant operational
+    QA check while doubling as memorable marketing.
 ---
-
-
-
 It is the most famous parlor trick in all of fast food: when a Dairy Queen employee hands you a Blizzard, they are required to flip the cup completely upside down for a full second before passing it across the counter. If they don't flip it, corporate policy says you get the Blizzard for free. 
 
 I've watched hundreds of new DQ employees stare at a full Blizzard cup like it's a live grenade the first time they're told to invert it over a customer's outstretched hand. And I've also watched the aftermath when it goes wrong—a 16-ounce avalanche of Oreo soft serve splattering across a drive-thru counter while the customer and the employee both freeze in mutual horror. The breakdown below explains why it usually works, what makes it fail, and what happens when it all goes sideways. 
 
 ## The Science Behind the Flip
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -45,7 +46,7 @@ When you flip the cup upside down, gravity is pulling the ice cream downward, bu
 
 ## The Blending Technique That Makes or Breaks the Flip
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The part they leave out of orientation is during training: the flip's success has almost nothing to do with the ice cream itself. It's almost entirely about how the employee blends it.

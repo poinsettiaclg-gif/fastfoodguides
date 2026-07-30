@@ -1,29 +1,36 @@
 ---
-title: "McDonald's UHC (Universal Holding Cabinet): The Secret to the Speed"
-description: "An operational breakdown of the McDonald's Universal Holding Cabinet (UHC). How digital timers and zone temperatures allow the kitchen to stay ahead of peak rush hours."
-pubDate: "2026-03-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Operations"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'McDonald''s UHC (Universal Holding Cabinet): The Secret to the Speed'
+description: An operational breakdown of the McDonald's Universal Holding Cabinet
+  (UHC). How digital timers and zone temperatures allow the kitchen to stay ahead
+  of peak rush hours.
+pubDate: '2026-03-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Operations
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - mcdonalds-fresh-beef-grill-process
-  - mcdonalds-nugget-process
+- mcdonalds-fresh-beef-grill-process
+- mcdonalds-nugget-process
 faq:
-  - question: "What is a McDonald's UHC?"
-    answer: "The Universal Holding Cabinet (UHC) is a heated storage unit that maintains the temperature and quality of cooked items using independently controlled heating zones and strict digital timers."
-  - question: "How does the UHC ensure food quality?"
-    answer: "It uses specific trays and lids to control moisture for different products, while color-coded digital timers enforce 'First In, First Out' holding times."
-
+- question: What is a McDonald's UHC?
+  answer: The Universal Holding Cabinet (UHC) is a heated storage unit that maintains
+    the temperature and quality of cooked items using independently controlled heating
+    zones and strict digital timers.
+- question: How does the UHC ensure food quality?
+  answer: It uses specific trays and lids to control moisture for different products,
+    while color-coded digital timers enforce 'First In, First Out' holding times.
 ---
-
 If you’ve ever watched a McDonald's kitchen during a massive 12:30 PM lunch rush, you might wonder how they manage to assemble a 10-piece McNugget, a McChicken, and a Filet-O-Fish in under 45 seconds. The answer isn't that they are cooking these items to order. The secret to McDonald's unprecedented speed of service is a piece of equipment called the **Universal Holding Cabinet (UHC)**.
 
-As a former multi-unit kitchen manager, I can tell you that the UHC is the absolute heartbeat of the McDonald's kitchen. Without it, the modern drive-thru model would collapse under its own weight. 
+As a former multi-unit kitchen manager, Actually that the UHC is the absolute heartbeat of the McDonald's kitchen. Without it, the modern drive-thru model would collapse under its own weight. 
 
 ## What is the Universal Holding Cabinet?
+
+![Operational view](../../assets/images/general/generic-coffee.webp)
+
+
 
 The UHC is a large, open-faced stainless steel shelving unit that sits squarely between the grill/fry area and the assembly line (the prep table). 
 

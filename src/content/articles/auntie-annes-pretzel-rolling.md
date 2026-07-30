@@ -1,28 +1,37 @@
 ---
-title: "The Auntie Anne's Pretzel Rolling Masterclass: Inside the Mall Bakery"
-description: "How mall employees learn to twist the perfect pretzel in under 3 seconds, the chemistry of the alkaline baking soda dip, and the 30-minute freshness timer."
-pubDate: "2026-03-30"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Auntie Anne's"
-topic: "Operations"
+title: 'The Auntie Anne''s Pretzel Rolling Masterclass: Inside the Mall Bakery'
+description: How mall employees learn to twist the perfect pretzel in under 3 seconds,
+  the chemistry of the alkaline baking soda dip, and the 30-minute freshness timer.
+pubDate: '2026-03-30'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Auntie Anne's
+topic: Operations
 relatedArticles:
-  - "krispy-kreme-hot-light"
-  - "subway-bread-baking-process"
-  - "first-day-fast-food-what-to-expect"
+- krispy-kreme-hot-light
+- subway-bread-baking-process
+- first-day-fast-food-what-to-expect
 faq:
-  - question: "Why are Auntie Anne's pretzels dipped in baking soda water?"
-    answer: "Dipping raw dough into an alkaline solution of warm water and sodium bicarbonate (baking soda) gelatinizes the starch on the dough's exterior. During baking, this alkaline layer accelerates the Maillard browning reaction, creating the signature dark golden-brown crust and distinctive pretzel flavor."
-  - question: "Does Auntie Anne's use frozen pre-made dough?"
-    answer: "No. Unlike many fast-food bakery concepts, Auntie Anne's mixes fresh dough on-site every single morning using flour mix, yeast, and strictly temperature-controlled water in commercial Hobart or Bakemax stand mixers."
+- question: Why are Auntie Anne's pretzels dipped in baking soda water?
+  answer: Dipping raw dough into an alkaline solution of warm water and sodium bicarbonate
+    (baking soda) gelatinizes the starch on the dough's exterior. During baking, this
+    alkaline layer accelerates the Maillard browning reaction, creating the signature
+    dark golden-brown crust and distinctive pretzel flavor.
+- question: Does Auntie Anne's use frozen pre-made dough?
+  answer: No. Unlike many fast-food bakery concepts, Auntie Anne's mixes fresh dough
+    on-site every single morning using flour mix, yeast, and strictly temperature-controlled
+    water in commercial Hobart or Bakemax stand mixers.
 ---
-
 If you have ever walked through an enclosed shopping mall, an airport terminal, or a stadium concourse, the warm, buttery, yeasty aroma of Auntie Anne's is unmistakable. To the average consumer, it looks like a simple snack counter. To a QSR operations manager, an Auntie Anne's store is a highly regimented, high-volume **scratch bakery operating on a micro-assembly line** directly in front of the customer.
 
 Unlike competitors who rely on frozen, pre-shaped dough pucks reheated in rapid convection ovens, every single pretzel sold at Auntie Anne's is mixed, proofed, rolled, twisted, dipped, and baked fresh on-site. Here is the exact operational and chemical breakdown of how mall employees turn bags of flour into golden pretzels at speeds exceeding 100 twists per hour.
 
 ## 1. The Scratch Dough Prep: Precision Chemistry
+
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
 
 The foundation of the entire store begins at 6:00 AM, hours before the mall gates open to the public. The designated opening baker (known internally as the "Mixer") must prepare the master dough batches for the day's projected sales volume.
 

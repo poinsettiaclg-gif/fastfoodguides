@@ -1,24 +1,29 @@
 ---
-title: "What to Expect on Your First Day of Fast Food: A Complete Survival Guide"
-description: "A brutally honest, step-by-step walkthrough of what your first day working in fast food actually looks like, from onboarding paperwork and I-9 verification to your first kitchen station."
-pubDate: "2025-05-27"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Multi-Chain"
-topic: "Training"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: 'What to Expect on Your First Day of Fast Food: A Complete Survival Guide'
+description: A brutally honest, step-by-step walkthrough of what your first day working
+  in fast food actually looks like, from onboarding paperwork and I-9 verification
+  to your first kitchen station.
+pubDate: '2025-05-27'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Multi-Chain
+topic: Training
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-  - "fast-food-beginner-tips-starting-out"
-  - "mcdonalds-first-day-training"
-  - "chick-fil-a-first-day-training"
+- fast-food-beginner-tips-starting-out
+- mcdonalds-first-day-training
+- chick-fil-a-first-day-training
 faq:
-  - question: "What should I wear to my first day of work in fast food?"
-    answer: "Wear non-slip, oil-resistant work shoes (such as TredSafe or Shoes for Crews), dark solid-colored slacks or jeans without rips, and a plain black or white t-shirt if you haven't received your uniform shirt yet. Keep jewelry to an absolute minimum for food safety."
-  - question: "Do you get paid for orientation and training videos in fast food?"
-    answer: "Yes. By federal law, all onboarding orientation, paperwork completion, and digital training video modules must be fully paid at your agreed-upon hourly wage."
+- question: What should I wear to my first day of work in fast food?
+  answer: Wear non-slip, oil-resistant work shoes (such as TredSafe or Shoes for Crews),
+    dark solid-colored slacks or jeans without rips, and a plain black or white t-shirt
+    if you haven't received your uniform shirt yet. Keep jewelry to an absolute minimum
+    for food safety.
+- question: Do you get paid for orientation and training videos in fast food?
+  answer: Yes. By federal law, all onboarding orientation, paperwork completion, and
+    digital training video modules must be fully paid at your agreed-upon hourly wage.
 ---
-
 The store smells like fryer oil and industrial sanitizer. The manager who hired you isn't even working today—instead, a shift lead you've never met hands you a stack of paperwork and points at a wobbly table in the break room. Welcome to orientation.
 
 That anxious knot in your stomach? Every single person in that building had it on their first day, including the general manager. Green crew members imagine being thrown onto a screaming drive-thru headset during a Friday night rush while angry customers yell about missing fries.
@@ -26,6 +31,10 @@ That anxious knot in your stomach? Every single person in that building had it o
 The reality of your first day is much more structured, much slower-paced, and largely focused on compliance, safety, and foundational repetition. Let's break down what happens on your first day working in fast-food, what you need to bring, and how to navigate your first shift without panicking.
 
 ## 1. Before You Arrive: The Non-Negotiable Checklist
+
+![Operational view](../../assets/images/general/generic-exterior.webp)
+
+
 
 Your first test as a new hire happens before you even step foot on the property: arriving prepared and compliant with local health department regulations. If you show up missing essential items, your manager may be legally forced to send you home before you clock in.
 

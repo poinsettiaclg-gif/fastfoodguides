@@ -9,6 +9,10 @@ const corsHeaders = {
 	'Access-Control-Allow-Headers': 'Content-Type',
 };
 
+export const OPTIONS: APIRoute = () => {
+    return new Response(null, { headers: corsHeaders });
+};
+
 export const POST: APIRoute = async ({ request, locals }) => {
 	try {
 		// Ensure we have D1 binding

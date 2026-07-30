@@ -166,9 +166,8 @@ const metaDescription = chainDesc
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": `${displayName} Guides`,
-    "description": metaDescription,
-    "url": `https://fastfoodguides.com/articles/chain/${chainSlug}/`,
+    "name": `${displayName} Fast Food Guides & Insider Secrets`,
+    "url": Astro.url.href,
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": posts.length,

@@ -1,26 +1,27 @@
 ---
-title: "McDonald's ABS System: Made-for-You Explained"
-description: "McDonald's ABS (Assembly Board System) coordinates every made-to-order burger. Here's how the screen system works behind the counter."
-pubDate: "2024-09-19"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Burgers"
+title: 'McDonald''s ABS System: Made-for-You Explained'
+description: McDonald's ABS (Assembly Board System) coordinates every made-to-order
+  burger. Here's how the screen system works behind the counter.
+pubDate: '2024-09-19'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Burgers
 relatedArticles:
-  - "mcdonalds-pos-crash"
-  - "taco-bell-drive-thru-timer"
-  - "chick-fil-a-ipos-system"
+- mcdonalds-pos-crash
+- taco-bell-drive-thru-timer
+- chick-fil-a-ipos-system
 faq:
-  - question: "How does the ABS handle modified drinks like no ice?"
-    answer: "The POS system sends modifiers directly to the ABS. It dynamically adjusts the mechanical ice chute or skips the ice drop completely before dispensing the exact calibrated liquid amount."
-  - question: "Can the ABS make Frappes or hot drinks?"
-    answer: "No, the ABS only handles carbonated beverages and iced teas. All hot and blended drinks are prepared manually at a separate McCafé station."
-heroImage: "../../assets/images/general/generic-grill-3.jpg"
+- question: How does the ABS handle modified drinks like no ice?
+  answer: The POS system sends modifiers directly to the ABS. It dynamically adjusts
+    the mechanical ice chute or skips the ice drop completely before dispensing the
+    exact calibrated liquid amount.
+- question: Can the ABS make Frappes or hot drinks?
+  answer: "No, the ABS only handles carbonated beverages and iced teas. All hot and\
+    \ blended drinks are prepared manually at a separate McCaf\xE9 station."
+heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
-
-
-
 If you've been through a McDonald's drive-thru recently, you might have noticed something odd: the cashier at the window didn't pour your drink. They turned around, grabbed a cup off what looked like a small conveyor belt, snapped a lid on it, and handed it to you. The whole thing took maybe five seconds. That piece of machinery is called the ABS (Automated Beverage System)—specifically, the Multiplex ABS unit—and it is, without exaggeration, the most brilliant piece of automation in the entire fast-food industry. I've worked in half a dozen different chains, and nothing else comes close to the operational impact the ABS has on drive-thru speed. It eliminates an entire labor step from the beverage process and does it more accurately and consistently than any employee ever could. When it's working, it's invisible. When it breaks down during a Friday lunch rush, your entire operation falls apart in about ninety seconds. 
 
 ## From POS Tap to Finished Cup: The Seamless Connection
@@ -35,7 +36,7 @@ The machine has a hopper—a vertical tube—loaded with stacked cups of each si
 
 ## The Three-Step Fill Process
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Once the cup is on the belt, three things happen in rapid succession:
@@ -52,7 +53,7 @@ The entire journey—empty cup drop to finished drink in the staging area—take
 
 ## Why McDonald's Coke Actually Tastes Better
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is one of the most common questions I've gotten over the years, and the ABS is a significant piece of the answer. McDonald's Coca-Cola consistently tastes crisper and more balanced than what you get at other fast food restaurants, and there are multiple factors at play.

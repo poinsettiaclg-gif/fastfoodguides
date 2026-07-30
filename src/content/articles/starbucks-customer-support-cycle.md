@@ -1,25 +1,29 @@
 ---
-title: "What is the Starbucks Customer Support (CS) Cycle?"
-description: "Inside the Starbucks CS Cycle: the 10-minute timed cadence that keeps the entire store running during peak hours and how to master it."
-pubDate: "2024-10-03"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Breakfast & Coffee"
+title: What is the Starbucks Customer Support (CS) Cycle?
+description: 'Inside the Starbucks CS Cycle: the 10-minute timed cadence that keeps
+  the entire store running during peak hours and how to master it.'
+pubDate: '2024-10-03'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Breakfast & Coffee
 relatedArticles:
-  - "starbucks-cold-bar-frappuccino"
-  - "starbucks-morning-rush"
-  - "starbucks-pull-to-thaw"
+- starbucks-cold-bar-frappuccino
+- starbucks-morning-rush
+- starbucks-pull-to-thaw
 faq:
-  - question: "Is the CS role harder than working the bar?"
-    answer: "It requires constant physical movement, aggressive multitasking, and mental discipline to follow the timed cycle, which many find more exhausting than standing at the bar."
-  - question: "What happens if you can't finish all four steps before the timer goes off?"
-    answer: "Reset the timer and start back at Step 1. The highest-priority tasks—brewing coffee and restocking—must always get done, even if the lobby check is skipped."
-heroImage: "../../assets/images/general/generic-pos-3.jpg"
+- question: Is the CS role harder than working the bar?
+  answer: It requires constant physical movement, aggressive multitasking, and mental
+    discipline to follow the timed cycle, which many find more exhausting than standing
+    at the bar.
+- question: What happens if you can't finish all four steps before the timer goes
+    off?
+  answer: "Reset the timer and start back at Step 1. The highest-priority tasks\u2014\
+    brewing coffee and restocking\u2014must always get done, even if the lobby check\
+    \ is skipped."
+heroImage: ../../assets/images/general/generic-pos-3.webp
 ---
-
-
 During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. Pulling double shifts taught me that it happen. The process operates under strict guidelines:
 
 ## The Timed Cadence: 8, 10, or 15 Minutes
@@ -36,14 +40,14 @@ The cadence length is set by the Shift Supervisor based on current store conditi
 
 ## The Four Steps of Every CS Cycle
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Each cycle follows the same four steps, in the same order, every single time:
 
 ### Step 1: Brew Coffee
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The very first priority is always drip coffee. Check the timers on the urns. If any batch has been sitting longer than 30 minutes, dump it, rinse the urn, and brew a fresh batch of Pike Place, Blonde, or Dark Roast. Drip coffee has a strict 30-minute freshness window. Coffee that sits beyond that tastes stale and flat, and regular customers who order the same Pike Place every morning will absolutely notice the difference and say something.
@@ -78,7 +82,7 @@ When the timer beeps, you drop the flex task, reset, and go back to Step 1.
 
 ## Why Shift Supervisors Protect the CS Role
 
-A crucial operational reality: the CS barista looks like they're doing grunt work, but they have an enormous multiplier effect on the entire store. When the CS cycle runs well, bar partners never stop moving. They never run out of cups, milk, ice, or syrup. They never have to pause mid-drink to brew coffee or wash a blender pitcher.
+A Actually operational reality: the CS barista looks like they're doing grunt work, but they have an enormous multiplier effect on the entire store. When the CS cycle runs well, bar partners never stop moving. They never run out of cups, milk, ice, or syrup. They never have to pause mid-drink to brew coffee or wash a blender pitcher.
 
 The moment the CS barista falls behind—maybe they get pulled to help take orders, or they skip a restock step—bar partners start running dry. One missing supply creates 30 seconds of delay. Three missing supplies and the drink queue spirals out of control within minutes.
 

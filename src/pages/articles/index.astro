@@ -198,9 +198,9 @@ const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] a
 
 			{chains.length > 0 && (
 				<nav class="chain-filters" aria-label="Filter by chain">
-					<button class="chain-pill active" data-chain="all" type="button">All</button>
+					<a href="/articles/" class="chain-pill active" data-chain="all">All</a>
 					{chains.sort().map((chain) => (
-						<button class="chain-pill" data-chain={chain} type="button">{chain}</button>
+						<a href={`/articles/chain/${chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/`} class="chain-pill" data-chain={chain}>{chain}</a>
 					))}
 				</nav>
 			)}
@@ -226,30 +226,5 @@ const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] a
 		</main>
 		<Footer />
 
-		<script>
-			document.addEventListener('DOMContentLoaded', () => {
-				const pills = document.querySelectorAll<HTMLButtonElement>('.chain-pill');
-				const cards = document.querySelectorAll<HTMLLIElement>('.article-card');
-				const countEl = document.querySelector<HTMLElement>('.guide-count strong');
-
-				pills.forEach((pill) => {
-					pill.addEventListener('click', () => {
-						pills.forEach((p) => p.classList.remove('active'));
-						pill.classList.add('active');
-
-						const chain = pill.dataset.chain;
-						let visible = 0;
-
-						cards.forEach((card) => {
-							const match = chain === 'all' || card.dataset.chain === chain;
-							card.style.display = match ? '' : 'none';
-							if (match) visible++;
-						});
-
-						if (countEl) countEl.textContent = String(visible);
-					});
-				});
-			});
-		</script>
 	</body>
 </html>

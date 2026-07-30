@@ -1,29 +1,33 @@
 ---
-title: "Dutch Bros Drive-Thru: The Walk-Up Model"
-description: "Dutch Bros employees walk up to your car window instead of using a speaker box. Here's how the model works and why it creates faster service times."
-pubDate: "2026-02-15"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Dutch Bros"
-topic: "Breakfast & Coffee"
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+title: 'Dutch Bros Drive-Thru: The Walk-Up Model'
+description: Dutch Bros employees walk up to your car window instead of using a speaker
+  box. Here's how the model works and why it creates faster service times.
+pubDate: '2026-02-15'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Dutch Bros
+topic: Breakfast & Coffee
+heroImage: ../../assets/images/general/generic-pos-2.webp
 relatedArticles:
-  - "starbucks-morning-rush"
+- starbucks-morning-rush
 faq:
-  - question: "Why doesn't Dutch Bros have a speaker box?"
-    answer: "Dutch Bros uses 'Linebusters' with iPads instead of a speaker box to allow for parallel processing. Multiple employees can take orders at the same time, preventing the single-lane bottleneck of a traditional menu board."
-  - question: "How fast is the Dutch Bros drive-thru?"
-    answer: "During optimal peak flow, average drive-thru times from order to handoff hover around 3 to 4 minutes. Highly efficient stores with strong Linebusters can push times under 2.5 minutes."
+- question: Why doesn't Dutch Bros have a speaker box?
+  answer: Dutch Bros uses 'Linebusters' with iPads instead of a speaker box to allow
+    for parallel processing. Multiple employees can take orders at the same time,
+    preventing the single-lane bottleneck of a traditional menu board.
+- question: How fast is the Dutch Bros drive-thru?
+  answer: During optimal peak flow, average drive-thru times from order to handoff
+    hover around 3 to 4 minutes. Highly efficient stores with strong Linebusters can
+    push times under 2.5 minutes.
 ---
-
 Dutch Bros Coffee doesn't operate like a traditional fast-food drive-thru. There are no static speaker boxes, and the menu is overwhelmingly complex. Yet, they process cars faster than almost anyone else in the beverage game.
 
 The secret? Human interaction masking a highly optimized, militaristic dispatch system.
 
 ## The "Linebusters"
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The core of the Dutch Bros model is the "Linebuster"—the employee standing outside with an iPad, regardless of the weather. Rain, snow, 105°F summer heat in Arizona—doesn't matter. That person is out there.

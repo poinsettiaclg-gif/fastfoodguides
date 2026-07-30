@@ -1,26 +1,26 @@
 ---
-title: "What is the Subway \"Bain\" (And Why Can't You Overfill It?)"
-description: "Learn how the Subway Bain-Marie keeps food cold with forced air, why overfilling pans is a health code violation, and the backup pan system."
-pubDate: "2025-04-11"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Subway"
-topic: "Sandwiches"
+title: What is the Subway "Bain" (And Why Can't You Overfill It?)
+description: Learn how the Subway Bain-Marie keeps food cold with forced air, why
+  overfilling pans is a health code violation, and the backup pan system.
+pubDate: '2025-04-11'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Subway
+topic: Sandwiches
 relatedArticles:
-  - "subway-bread-baking-process"
-  - "subway-wrap-folding"
-
-heroImage: "../../assets/images/general/generic-drive-thru.jpg"
+- subway-bread-baking-process
+- subway-wrap-folding
+heroImage: ../../assets/images/general/generic-drive-thru.webp
 faq:
-  - question: "What is the fill line in a Subway bain?"
-    answer: "The fill line is a physical mark etched into the cambro pans indicating the maximum height food can be stacked while still being adequately cooled by the open-air forced refrigeration system."
-  - question: "Why can't Subway employees overfill the pans?"
-    answer: "Overfilling places food above the refrigerated air blanket, leading to rapid spoilage and guaranteed FDA Food Code temperature violations during health inspections."
+- question: What is the fill line in a Subway bain?
+  answer: The fill line is a physical mark etched into the cambro pans indicating
+    the maximum height food can be stacked while still being adequately cooled by
+    the open-air forced refrigeration system.
+- question: Why can't Subway employees overfill the pans?
+  answer: Overfilling places food above the refrigerated air blanket, leading to rapid
+    spoilage and guaranteed FDA Food Code temperature violations during health inspections.
 ---
-
-
-
 Subway's bain is the most important piece of equipment in the store, and it is entirely unforgiving of lazy prep work. You know it as the colorful spread of meats, cheeses, and vegetables behind the glass, but in the restaurant industry, it's called a Bain-Marie. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that fresh trainees violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections because someone tried to save time by piling food too high.
 ## How the Bain-Marie Actually Cools Food
 
@@ -38,7 +38,7 @@ Per [FDA Food Code guidelines](https://www.fda.gov/food/fda-food-code/food-code-
 
 <div class="callout callout-tip">**ProTip:** While the FDA Food Code doesn't mandate the existence of a visual 'fill line' itself, it strictly mandates holding TCS (Time/Temperature Control for Safety) foods at 41°F or below. The line exists because the equipment physically cannot maintain that temp above a certain volume.</div>
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 During a heavy lunch rush, it's tempting to grab a massive bag of shredded lettuce and pile it into a mountain inside the Cambro pan so you don't have to restock for an hour. I get the impulse. You're slammed, you're making sandwiches as fast as you can, and stopping to swap pans feels like a luxury you can't afford.
@@ -49,7 +49,7 @@ The cheese gets greasy and warm. The lettuce wilts and goes limp. If a health in
 
 ## Temperature Logging: The Paper Trail That Saves You
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Eyeballing the fill line isn't enough. Most Subway locations are required to log the temperature of the Bain at set intervals throughout the day—typically every four hours. The Shift Lead or a designated Sandwich Artist uses a calibrated probe thermometer to check the surface temperature of several pans, and the readings go onto a clipboard or into a digital system.

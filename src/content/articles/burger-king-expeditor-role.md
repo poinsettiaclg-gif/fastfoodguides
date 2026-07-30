@@ -1,31 +1,33 @@
 ---
-title: "What Is the Burger King Expeditor Role During a Rush?"
-description: "Inside the most critical position at Burger King—how the Expo station controls order accuracy, speed, and the flow of the entire kitchen during peak hours."
-pubDate: "2025-11-25"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Burger King"
-topic: "Burgers"
+title: What Is the Burger King Expeditor Role During a Rush?
+description: "Inside the most critical position at Burger King\u2014how the Expo station\
+  \ controls order accuracy, speed, and the flow of the entire kitchen during peak\
+  \ hours."
+pubDate: '2025-11-25'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Burger King
+topic: Burgers
 relatedArticles:
-  - "burger-king-broiler"
-  - "burger-king-broiler-closing"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- burger-king-broiler
+- burger-king-broiler-closing
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "Does the Burger King expeditor take orders or handle money?"
-    answer: "No. The expeditor is entirely focused on order assembly, quality control, and directing kitchen flow. They do not interact with the POS system or take customer orders."
-  - question: "How does the expeditor communicate with the kitchen?"
-    answer: "The expeditor constantly reads the KDS (Kitchen Display System) and calls out immediate needs to the line, acting as the 'glue' between the sandwich board, the fry station, and the front counter."
+- question: Does the Burger King expeditor take orders or handle money?
+  answer: No. The expeditor is entirely focused on order assembly, quality control,
+    and directing kitchen flow. They do not interact with the POS system or take customer
+    orders.
+- question: How does the expeditor communicate with the kitchen?
+  answer: The expeditor constantly reads the KDS (Kitchen Display System) and calls
+    out immediate needs to the line, acting as the 'glue' between the sandwich board,
+    the fry station, and the front counter.
 ---
-
-
-
 During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and Having lived through it, it is simultaneously the most stressful and most satisfying role in the entire building. 
 
 ## The Bridge Between Kitchen and Customer
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -53,7 +55,7 @@ During a peak rush, the Expo might verify and bag 60 to 80 orders per hour. Ever
 
 ## The Modification Nightmare
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 A standard Whopper has lettuce, tomato, onion, pickle, ketchup, and mayo. That is the baseline. But customers constantly customize their orders, and every single modification has to be verified before the food leaves the counter.

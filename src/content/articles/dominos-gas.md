@@ -1,32 +1,34 @@
 ---
-title: "Domino's Gas Reimbursement: How Driver Pay Works"
-description: "Domino's delivery drivers are paid a mileage reimbursement, not a gas allowance. Here's exactly how driver compensation is structured per delivery."
-pubDate: "2024-06-12"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Pizza"
+title: 'Domino''s Gas Reimbursement: How Driver Pay Works'
+description: Domino's delivery drivers are paid a mileage reimbursement, not a gas
+  allowance. Here's exactly how driver compensation is structured per delivery.
+pubDate: '2024-06-12'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Pizza
 relatedArticles:
-  - "dominos-20-bank-rule"
-  - "dominos-oven-tender-role"
-  - "pizza-delivery-driver-accident"
-
-heroImage: "../../assets/images/general/generic-pos-3.jpg"
+- dominos-20-bank-rule
+- dominos-oven-tender-role
+- pizza-delivery-driver-accident
+heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
-  - question: "How does Domino's track driver mileage?"
-    answer: "The Domino's Pulse POS and dispatch system automatically calculates the round-trip distance between the store and the customer's delivery address when the driver is assigned the order. It is calculated automatically, not off your odometer."
-  - question: "Does the mileage reimbursement cover wear and tear?"
-    answer: "Technically yes, the IRS-influenced rate is meant to cover gas, depreciation, and maintenance. However, how well it actually covers wear and tear depends entirely on the fuel efficiency and age of the vehicle you drive."
+- question: How does Domino's track driver mileage?
+  answer: The Domino's Pulse POS and dispatch system automatically calculates the
+    round-trip distance between the store and the customer's delivery address when
+    the driver is assigned the order. It is calculated automatically, not off your
+    odometer.
+- question: Does the mileage reimbursement cover wear and tear?
+  answer: Technically yes, the IRS-influenced rate is meant to cover gas, depreciation,
+    and maintenance. However, how well it actually covers wear and tear depends entirely
+    on the fuel efficiency and age of the vehicle you drive.
 ---
-
-
-
 Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. 
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -54,7 +56,7 @@ Let me run the numbers I used to show first-timers during orientation, because t
 
 If gas costs $3.50 per gallon and your car gets 30 miles per gallon (think Honda Civic, Toyota Corolla, Hyundai Elantra), each mile costs you roughly $0.12 in fuel. If the store reimburses you at $0.40 per mile, you pocket $0.28 per mile in pure reimbursement profit—money that goes toward nothing but your bank account. On a 60-mile shift, that's nearly $17 in reimbursement surplus before you count a single dollar of tips or hourly pay.
 
-Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, that same mile costs you $0.25 in fuel. Your reimbursement surplus just dropped to $0.15 per mile, and that's before you factor in the accelerated wear on a heavier vehicle. I've seen rookies show up in lifted trucks and wonder why they're barely breaking even after gas. The vehicle you drive is the single biggest variable in whether delivery driving is profitable.
+Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, that same mile costs you $0.25 in fuel. Your reimbursement surplus just dropped to $0.15 per mile, and that's before you factor in the accelerated wear on a heavier vehicle. Actually rookies show up in lifted trucks and wonder why they're barely breaking even after gas. The vehicle you drive is the single biggest variable in whether delivery driving is profitable.
 
 **The verdict:** If you're driving a fuel-efficient sedan, Domino's delivery is one of the best-paying hourly jobs in fast food. Drivers at my stores regularly averaged $20 to $25 an hour on busy nights when you combined their $7.25 to $9 hourly rate, tips, and mileage reimbursement. But you need the right car.
 
@@ -62,7 +64,7 @@ Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, tha
 
 ## The Hidden Costs Nobody Mentions in the Interview
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. Here's what I saw drivers dealing with constantly:

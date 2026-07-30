@@ -1,22 +1,25 @@
 ---
-title: "Chick-fil-A Lemonade: Made Fresh Every Day"
-description: "Chick-fil-A squeezes real lemons every single day. Here's the prep process, the exact ratio, and what separates it from fountain lemonade."
-pubDate: "2025-09-01"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chick-fil-A"
-topic: "Chicken"
+title: 'Chick-fil-A Lemonade: Made Fresh Every Day'
+description: Chick-fil-A squeezes real lemons every single day. Here's the prep process,
+  the exact ratio, and what separates it from fountain lemonade.
+pubDate: '2025-09-01'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chick-fil-A
+topic: Chicken
 relatedArticles:
-  - "chick-fil-a-breading-process"
-  - "chick-fil-a-ipos-system"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- chick-fil-a-breading-process
+- chick-fil-a-ipos-system
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "Does Chick-fil-A squeeze lemons in the store?"
-    answer: "While historically squeezed in-store daily, Chick-fil-A has transitioned many locations to receiving fresh-squeezed lemon juice in sealed bags from their centralized Bay Center Foods facility to reduce prep bottlenecks."
-  - question: "How much sugar is in a batch of Chick-fil-A lemonade?"
-    answer: "A standard 11-quart batch uses two quarts of fresh lemon juice, about three pounds of cane sugar, and nine quarts of filtered water."
+- question: Does Chick-fil-A squeeze lemons in the store?
+  answer: While historically squeezed in-store daily, Chick-fil-A has transitioned
+    many locations to receiving fresh-squeezed lemon juice in sealed bags from their
+    centralized Bay Center Foods facility to reduce prep bottlenecks.
+- question: How much sugar is in a batch of Chick-fil-A lemonade?
+  answer: A standard 11-quart batch uses two quarts of fresh lemon juice, about three
+    pounds of cane sugar, and nine quarts of filtered water.
 ---
 ## Yes, They Actually Squeeze Real Lemons
 
@@ -46,7 +49,7 @@ The halved lemons go into a **commercial citrus juicer** — most locations use 
 
 The juicing process produces approximately **3 gallons of fresh lemon juice** from a full batch of lemons. The juice collects in a container below the juicer with a strainer that catches seeds but allows some pulp through — Chick-fil-A's lemonade is intentionally **slightly pulpy**, which is one of the visual cues that it's made from real fruit.
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ### Step 3: Make the Simple Syrup
 
@@ -66,7 +69,7 @@ The fresh lemon juice and simple syrup are combined in a **large Cambro containe
 
 The mixture is stirred thoroughly and then stored in the walk-in cooler or transferred directly to the front-of-house dispensing container.
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## The Dispensing Setup
 

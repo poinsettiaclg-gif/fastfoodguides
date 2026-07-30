@@ -1,25 +1,25 @@
 ---
-title: "Dairy Queen Cone Curl: The Standard for Soft Serve"
-description: "Dairy Queen trains every crew member to pull a perfect curl on soft-serve cones. Here's the exact technique and pressure required to nail it."
-pubDate: "2025-12-02"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Dairy Queen"
-topic: "Other Chains"
+title: 'Dairy Queen Cone Curl: The Standard for Soft Serve'
+description: Dairy Queen trains every crew member to pull a perfect curl on soft-serve
+  cones. Here's the exact technique and pressure required to nail it.
+pubDate: '2025-12-02'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Dairy Queen
+topic: Other Chains
 relatedArticles:
-  - "dairy-queen-blizzard-flip"
-
-heroImage: "../../assets/images/general/generic-drive-thru-2.jpg"
+- dairy-queen-blizzard-flip
+heroImage: ../../assets/images/general/generic-drive-thru-2.webp
 faq:
-  - question: "How long does it take to learn the perfect curl?"
-    answer: "Most new employees start producing consistently acceptable curls after one to two weeks of practice. Doing it at speed during a rush takes closer to a full month before it feels natural."
-  - question: "Does every DQ location require the curl?"
-    answer: "Yes, the curl is a corporate brand standard. Every cone served is expected to have the signature curl on top, regardless of which direction it twists."
+- question: How long does it take to learn the perfect curl?
+  answer: Most new employees start producing consistently acceptable curls after one
+    to two weeks of practice. Doing it at speed during a rush takes closer to a full
+    month before it feels natural.
+- question: Does every DQ location require the curl?
+  answer: Yes, the curl is a corporate brand standard. Every cone served is expected
+    to have the signature curl on top, regardless of which direction it twists.
 ---
-
-
-
 At Dairy Queen, making an ice cream cone is not just about pulling a lever and hoping for the best. Every single cone that leaves the counter—small, medium, or large—must have the brand's iconic signature sitting right on top: the Curl. That perfect little "Q" swirl of soft serve that loops back onto itself like a question mark made of frozen cream. 
 
 I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. The breakdown below explains the exact technique and pressure required to nail it. 
@@ -42,7 +42,7 @@ Each ball has a specific weight and volume that contributes to the overall porti
 
 ## The Technique: Base, Tiers, and the Snap
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The entire cone is built in one continuous motion. You don't stop and restart between tiers—it's a flowing sequence that takes about 5 to 8 seconds total.
@@ -67,7 +67,7 @@ Most stores calibrate their machines first thing in the morning, but temperature
 
 ## The Chocolate Dip: Where Cones Go to Die
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 If you thought the curl was hard, try dipping it in chocolate. The Chocolate Dipped Cone is the single most terrifying order for a new Chill Staff employee, and for good reason.

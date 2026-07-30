@@ -1,30 +1,35 @@
 ---
-title: "Jimmy John's Freaky Fast: How They Do It"
-description: "Jimmy John's speed comes from a highly specific prep and assembly system. Here's the exact process that allows them to make a sub in under 30 seconds."
-pubDate: "2025-05-08"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Jimmy John's"
-topic: "Sandwiches"
+title: 'Jimmy John''s Freaky Fast: How They Do It'
+description: Jimmy John's speed comes from a highly specific prep and assembly system.
+  Here's the exact process that allows them to make a sub in under 30 seconds.
+pubDate: '2025-05-08'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Jimmy John's
+topic: Sandwiches
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
 faq:
-  - question: "How does Jimmy John's make sandwiches so fast?"
-    answer: "The cold table is laid out linearly from left to right, ingredients are pre-sliced, and employees use muscle memory to eliminate context switching."
-  - question: "Why is the Jimmy John's delivery radius so small?"
-    answer: "The delivery zone is typically capped at a 5-minute drive to ensure sandwiches arrive within 10 minutes of ordering, maintaining the Freaky Fast standard."
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: How does Jimmy John's make sandwiches so fast?
+  answer: The cold table is laid out linearly from left to right, ingredients are
+    pre-sliced, and employees use muscle memory to eliminate context switching.
+- question: Why is the Jimmy John's delivery radius so small?
+  answer: The delivery zone is typically capped at a 5-minute drive to ensure sandwiches
+    arrive within 10 minutes of ordering, maintaining the Freaky Fast standard.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 7.  How Does Jimmy John's Actually Deliver 'Freaky Fast'?
 
 
 “Freaky Fast” is not a marketing gimmick. It is a ruthlessly engineered operating philosophy that dictates every single decision Jimmy John's makes — from the menu design to the store layout to the delivery zone to the way bread is sliced at 7 AM. I have worked in sandwich shops where a single sub takes three or four minutes to build. At Jimmy John's, the expectation is that a sandwich goes from order ticket to wrapped-and-bagged in under 30 seconds. That is not a typo. Thirty seconds. And the scariest part? It is completely achievable once you understand how every piece of the operation is designed around one obsession: eliminating wasted time. 
 
 ## The 5-Minute Delivery Radius Is Not a Suggestion
+
+![Operational view](../../assets/images/general/generic-fryer.webp)
+
+
 
 Most pizza delivery operations will drive 15, 20, even 30 minutes to reach a customer. Jimmy John's will not. The standard delivery zone is capped at roughly a 5-minute driving radius from the store — sometimes slightly more in rural markets, sometimes even tighter in dense urban areas with heavy traffic. This is not because Jimmy John's is lazy. It is because the entire promise of the brand collapses if a sandwich takes 45 minutes to arrive. 
 
@@ -54,7 +59,7 @@ The lettuce is hand-shredded — not chopped, not diced, but shredded into thin 
 
 Meats come pre-sliced from the distributor in most locations, though some stores still slice roast beef and turkey in-house using a commercial deli slicer. Either way, every protein is portioned and ready to grab before the doors open. Nothing gets sliced during service. Nothing. The entire operation depends on this.
 
-I have seen what happens when a store falls behind on prep. Somebody called in sick, or the opener overslept, and suddenly you're trying to slice tomatoes while tickets are printing at noon. The line backs up within minutes. Customers wait. Drivers wait. The entire “Freaky Fast” promise turns into “Moderately Prompt,” and nobody is happy about it.
+Actually what happens when a store falls behind on prep. Somebody called in sick, or the opener overslept, and suddenly you're trying to slice tomatoes while tickets are printing at noon. The line backs up within minutes. Customers wait. Drivers wait. The entire “Freaky Fast” promise turns into “Moderately Prompt,” and nobody is happy about it.
 
 ## The Assembly Line: Under 30 Seconds, Every Time
 

@@ -1,30 +1,32 @@
 ---
-title: "What is the \"Oven Tender\" Role at Domino's During a Friday Rush?"
-description: "A former kitchen manager breaks down the Domino's Oven Tender position—the catch, the cut, the labels, and why it's the hardest insider job in the building."
-pubDate: "2026-03-14"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Pizza"
+title: What is the "Oven Tender" Role at Domino's During a Friday Rush?
+description: "A former kitchen manager breaks down the Domino's Oven Tender position\u2014\
+  the catch, the cut, the labels, and why it's the hardest insider job in the building."
+pubDate: '2026-03-14'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Pizza
 relatedArticles:
-  - "dominos-20-bank-rule"
-  - "dominos-gas"
+- dominos-20-bank-rule
+- dominos-gas
 faq:
-  - question: "Why do items get backed up in the Domino's oven?"
-    answer: "Bottlenecks usually happen when the makeline 'snake loads' items too closely (nuts to butts) restricting airflow and forcing remakes, or when a massive rush overloads a double-stack oven that lacks the capacity for the volume."
-  - question: "How do oven tenders manage multiple pizzas at once?"
-    answer: "Experienced tenders work two items at a time, pulling them together just before the edge to minimize the time spent picking up and putting down the peel, keeping the belt completely clear."
-heroImage: "../../assets/images/general/generic-pos.jpg"
+- question: Why do items get backed up in the Domino's oven?
+  answer: Bottlenecks usually happen when the makeline 'snake loads' items too closely
+    (nuts to butts) restricting airflow and forcing remakes, or when a massive rush
+    overloads a double-stack oven that lacks the capacity for the volume.
+- question: How do oven tenders manage multiple pizzas at once?
+  answer: Experienced tenders work two items at a time, pulling them together just
+    before the edge to minimize the time spent picking up and putting down the peel,
+    keeping the belt completely clear.
+heroImage: ../../assets/images/general/generic-pos.webp
 ---
-
-
-
 A single Domino's conveyor belt oven can spit out a screaming-hot pizza every 15 seconds during peak volume. The person who determines whether the entire store sinks or swims is standing at the end of that 450-degree tunnel, sweating through their shirt, catching those pizzas as fast as they emerge. That person is the Oven Tender, and I've watched this position break more promising trainees than any other job in the building. 
 
 ## The Catch: A Conveyor Belt That Never Stops
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -42,7 +44,7 @@ The Oven Tender stands at the exit with a long metal peel—a flat spatula desig
 
 ## The Cut and Box: 15 Seconds Per Pizza or You're Drowning
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Catching the pizza is only step one. Here's the full sequence a good Oven Tender executes in under 15 seconds:
@@ -79,7 +81,7 @@ These finishing touches are not optional, and they're not cosmetic. Customers no
 
 I need to be straight about this—the oven position is physically punishing in a way that the other stations simply aren't. The conveyor belt radiates a constant wall of 450-degree heat directly at the Tender's face, chest, and arms for the entire shift. By the end of a four-hour Friday rush, your face is flushed red, your shirt is soaked through, and your forearms have a collection of small red marks from accidental contact with the hot peel or the oven's metal edge.
 
-Smart Tenders keep a towel draped over one shoulder to wipe sweat from their hands and forehead. Wet, sweaty hands on a metal peel and a rocking blade are a legitimate safety hazard—one slip and you've either dropped a pizza or cut yourself. A water bottle within arm's reach is absolutely non-negotiable. I've seen dehydration hit Tenders faster than they expected, especially newcomers who aren't used to sustained heat exposure. Dizziness at the oven is real and it's dangerous.
+Smart Tenders keep a towel draped over one shoulder to wipe sweat from their hands and forehead. Wet, sweaty hands on a metal peel and a rocking blade are a legitimate safety hazard—one slip and you've either dropped a pizza or cut yourself. A water bottle within arm's reach is absolutely non-negotiable. Actually dehydration hit Tenders faster than they expected, especially newcomers who aren't used to sustained heat exposure. Dizziness at the oven is real and it's dangerous.
 
 The oven position isn't an official promotion—there's no title change or automatic pay bump. But in every Domino's I've managed, the oven was reserved for the most trusted and capable insiders. Being assigned to the oven is the store's way of saying you're the best they've got. It's a point of pride for the people who master it.
 

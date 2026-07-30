@@ -1,24 +1,27 @@
 ---
-title: "Chili's Baby Back Ribs: How They Are Actually Made"
-description: "Chili's baby back ribs are slow-cooked and finished on a grill. Here's the full multi-step prep process behind their signature rib rack."
-pubDate: "2024-10-21"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chili's"
-topic: "Other Chains"
+title: 'Chili''s Baby Back Ribs: How They Are Actually Made'
+description: Chili's baby back ribs are slow-cooked and finished on a grill. Here's
+  the full multi-step prep process behind their signature rib rack.
+pubDate: '2024-10-21'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chili's
+topic: Other Chains
 relatedArticles:
-  - "applebees-microwave-reality"
-  - "buffalo-wild-wings-sauce-tossing"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- applebees-microwave-reality
+- buffalo-wild-wings-sauce-tossing
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "Are Chili's ribs actually smoked in-house?"
-    answer: "While they once heavily advertised 'smoked in-house,' the modern operational model relies on centralized off-site smoking with pecan wood, followed by flash-freezing to ensure consistency across their 1,600+ locations."
-  - question: "How are Chili's ribs so tender?"
-    answer: "The 'fall-off-the-bone' texture is achieved through a sous vide-style pre-cooking or controlled vapor process that breaks down the collagen long before the ribs ever hit the grill for their final char."
+- question: Are Chili's ribs actually smoked in-house?
+  answer: While they once heavily advertised 'smoked in-house,' the modern operational
+    model relies on centralized off-site smoking with pecan wood, followed by flash-freezing
+    to ensure consistency across their 1,600+ locations.
+- question: How are Chili's ribs so tender?
+  answer: The 'fall-off-the-bone' texture is achieved through a sous vide-style pre-cooking
+    or controlled vapor process that breaks down the collagen long before the ribs
+    ever hit the grill for their final char.
 ---
-
 ## "I Want My Baby Back, Baby Back..."
 
 Let's be honest — Chili's built an entire brand identity around that jingle. For a lot of people, it's the first thing that pops into their head when someone says "Chili's." And it did its job almost too well: it set an expectation that there's some mythical pit out back where a guy in a stained apron is slow-smoking racks of baby backs over smoldering hardwood for the better part of a day.
@@ -31,7 +34,7 @@ I managed multiple Chili's kitchens over a stretch of years, and that is not wha
 
 What Chili's does is run a hybrid system: off-site smoking for the base flavor, precision reheating for tenderness, and high-heat grilling on-site for finish and char. Every single step is engineered around consistency, speed, and food safety. And when it's executed correctly, it works extremely well.
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## The Off-Site Smoking Process
 

@@ -1,23 +1,25 @@
 ---
-title: "Chick-fil-A Breading Process: The Pressure Cooker"
-description: "Chick-fil-A hand-breads every filet to order. Here is how the breading station works and what makes the coating stick perfectly every time."
-pubDate: "2025-09-14"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chick-fil-A"
-topic: "Chicken"
+title: 'Chick-fil-A Breading Process: The Pressure Cooker'
+description: Chick-fil-A hand-breads every filet to order. Here is how the breading
+  station works and what makes the coating stick perfectly every time.
+pubDate: '2025-09-14'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chick-fil-A
+topic: Chicken
 relatedArticles:
-  - "chick-fil-a-lemonade"
+- chick-fil-a-lemonade
 faq:
-  - question: "What oil does Chick-fil-A use for frying its chicken?"
-    answer: "Chick-fil-A uses 100% refined peanut oil for its pressure-fried chicken. The fryers are maintained at 325°F to ensure a gentle cook."
-  - question: "Why does Chick-fil-A chicken have a slightly sweet flavor?"
-    answer: "The chicken is dipped in a proprietary milk wash that includes an egg blend before breading. The milk proteins undergo a Maillard reaction during pressure frying, creating that signature golden crust and subtle sweetness."
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: What oil does Chick-fil-A use for frying its chicken?
+  answer: "Chick-fil-A uses 100% refined peanut oil for its pressure-fried chicken.\
+    \ The fryers are maintained at 325\xB0F to ensure a gentle cook."
+- question: Why does Chick-fil-A chicken have a slightly sweet flavor?
+  answer: The chicken is dipped in a proprietary milk wash that includes an egg blend
+    before breading. The milk proteins undergo a Maillard reaction during pressure
+    frying, creating that signature golden crust and subtle sweetness.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 ## The Chicken Arrives Raw. Every Single Piece.
 
 A single high-volume Chick-fil-A will hand-bread over a thousand raw chicken filets during a typical lunch rush. Unlike the majority of fast food chains that rely on flash-frozen, factory-breaded pucks, Chick-fil-A forces its kitchen staff to execute a massive prep operation from scratch every single day. 
@@ -33,7 +35,7 @@ The breading process starts with a **milk wash bath**. This is not buttermilk (a
 
 The chicken filets are submerged fully in the wash and allowed to sit. The timing matters. Too short and the coating won't adhere uniformly. Too long and the chicken absorbs too much liquid, which causes oil splatter in the fryer and produces a soggy result.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Seasoned Flour: Step Two
 
@@ -68,7 +70,7 @@ A pressure fryer is not just a deep fryer with a lid. When the lid seals, it tra
 1. **Cooks faster** — The elevated pressure raises the effective cooking temperature of the moisture inside the chicken, reducing cook time to about **4 minutes and 30 seconds** for a standard filet.
 2. **Locks in moisture** — The pressure prevents moisture from escaping the chicken as rapidly as it would in an open fryer. This is why Chick-fil-A's chicken is noticeably juicier than chicken fried in a standard open vat.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### The Temperature and Timing
 

@@ -1,23 +1,26 @@
 ---
-title: "Five Guys Burger Build: How It's Assembled"
-description: "Five Guys builds every burger fresh to order with no heat lamps. Here's the exact assembly sequence and why the build order affects the final bite."
-pubDate: "2025-12-29"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Five Guys"
-topic: "Burgers"
+title: 'Five Guys Burger Build: How It''s Assembled'
+description: Five Guys builds every burger fresh to order with no heat lamps. Here's
+  the exact assembly sequence and why the build order affects the final bite.
+pubDate: '2025-12-29'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Five Guys
+topic: Burgers
 faq:
-  - question: "Why does Five Guys wrap their burgers in foil?"
-    answer: "Foil wrapping is a deliberate operational choice to retain heat and moisture. It creates a mini steam environment that softens the bun, melts the cheese perfectly, and ensures the burger is hot when handed to the customer."
-  - question: "Does Five Guys use frozen beef patties?"
-    answer: "No. Five Guys strictly uses fresh, never-frozen ground beef. Every morning, bulk ground beef is portioned and rolled into balls by hand in the restaurant before being hand-smashed on the grill."
+- question: Why does Five Guys wrap their burgers in foil?
+  answer: Foil wrapping is a deliberate operational choice to retain heat and moisture.
+    It creates a mini steam environment that softens the bun, melts the cheese perfectly,
+    and ensures the burger is hot when handed to the customer.
+- question: Does Five Guys use frozen beef patties?
+  answer: No. Five Guys strictly uses fresh, never-frozen ground beef. Every morning,
+    bulk ground beef is portioned and rolled into balls by hand in the restaurant
+    before being hand-smashed on the grill.
 relatedArticles:
-  - "five-guys-fry-calibration"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- five-guys-fry-calibration
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 ## The Beef Arrives Fresh. Every Single Day.
 
 Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. 
@@ -48,7 +51,7 @@ The smash accomplishes two critical things:
 
 <div class="callout callout-tip">**ProTip:** The exact timing of the "smash" is critical. If a cook waits too long after the ball hits the 400°F grill, the proteins seize up. Smashing at that point will squeeze all the juices out, resulting in a dry, crumbly patty instead of one with a properly caramelized Maillard crust.</div>
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ### Step 3: Season and Wait
 
@@ -84,7 +87,7 @@ Five Guys' most famous operational feature is their **unlimited free toppings** 
 
 The topping station is set up as a long line of **stainless steel bins** filled with pre-prepped ingredients:
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The Standard Toppings (All Free)
 

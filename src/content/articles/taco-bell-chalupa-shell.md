@@ -1,23 +1,26 @@
 ---
-title: "Taco Bell Chalupa Shell: How It's Fried Fresh"
-description: "Taco Bell fries their Chalupa shells to order. Here's how the fryer mold works and why the dough requires a specific hydration to fry properly."
-pubDate: "2025-07-09"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Taco Bell"
-topic: "Mexican"
+title: 'Taco Bell Chalupa Shell: How It''s Fried Fresh'
+description: Taco Bell fries their Chalupa shells to order. Here's how the fryer mold
+  works and why the dough requires a specific hydration to fry properly.
+pubDate: '2025-07-09'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Taco Bell
+topic: Mexican
 relatedArticles:
-  - "taco-bell-menu"
-  - "taco-bell-linebacker-role"
+- taco-bell-menu
+- taco-bell-linebacker-role
 faq:
-  - question: "How long does Taco Bell fry their Chalupa shells?"
-    answer: "The standard procedure calls for frying the shell in a specialized mold for approximately 50 to 55 seconds in 350°F oil."
-  - question: "Why is my Taco Bell Chalupa sometimes greasy or too soft?"
-    answer: "This usually happens if the oil temperature drops from frying too many shells at once, or if the shell isn't allowed to drain for the standard 30 seconds before assembly."
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: How long does Taco Bell fry their Chalupa shells?
+  answer: "The standard procedure calls for frying the shell in a specialized mold\
+    \ for approximately 50 to 55 seconds in 350\xB0F oil."
+- question: Why is my Taco Bell Chalupa sometimes greasy or too soft?
+  answer: This usually happens if the oil temperature drops from frying too many shells
+    at once, or if the shell isn't allowed to drain for the standard 30 seconds before
+    assembly.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 ## It Starts as a Flat Disc of Dough
 
 The Chalupa Supreme is one of Taco Bell's most popular premium items, and the shell is what makes it distinct from everything else on the menu. Unlike the hard corn taco shell (shipped pre-formed) or the soft flour tortilla (shipped flat and steamed), the Chalupa shell is **deep-fried in the restaurant from a pre-formed disc of raw flatbread dough**. 
@@ -49,7 +52,7 @@ When the dough hits the **350°F oil**, it immediately begins to puff. But becau
 - A **puffy, blistered exterior** with air pockets throughout
 - A **chewy, bread-like interior** that's denser than a tortilla but lighter than a roll
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ### Timing Is Everything
 
@@ -90,7 +93,7 @@ Once the shell comes out of the fryer and drains for a few seconds, it moves to 
 5. **Three-cheese blend** — a mix of cheddar, pepper jack, and mozzarella
 6. **Sour cream** — a measured portion on top
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The Steak and Chicken Variants
 

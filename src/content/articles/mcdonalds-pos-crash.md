@@ -1,32 +1,33 @@
 ---
-title: "What Happens When the McDonald's POS System Crashes?"
-description: "Find out what really happens inside a McDonald's when every register goes dark. The Crash Kit, paper orders, kitchen chaos, and the reconciliation nightmare."
-pubDate: "2025-08-19"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Burgers"
+title: What Happens When the McDonald's POS System Crashes?
+description: Find out what really happens inside a McDonald's when every register
+  goes dark. The Crash Kit, paper orders, kitchen chaos, and the reconciliation nightmare.
+pubDate: '2025-08-19'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Burgers
 faq:
-  - question: "Is the system really down, or are employees just avoiding work?"
-    answer: "Most modern POS issues are technical. If a store is 24 hours, they must perform daily reboots, which can sometimes experience hiccups that take longer than expected."
-  - question: "Can I still order if the internet is down?"
-    answer: "This depends on whether the POS system has an 'offline mode' capable of storing transactions locally to be synced later. If the entire network is down, most digital integrations will likely be unavailable."
+- question: Is the system really down, or are employees just avoiding work?
+  answer: Most modern POS issues are technical. If a store is 24 hours, they must
+    perform daily reboots, which can sometimes experience hiccups that take longer
+    than expected.
+- question: Can I still order if the internet is down?
+  answer: This depends on whether the POS system has an 'offline mode' capable of
+    storing transactions locally to be synced later. If the entire network is down,
+    most digital integrations will likely be unavailable.
 relatedArticles:
-  - "mcdonalds-abs-system"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-abs-system
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't. 
 
 A detail you only learn on the line is during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985. 
 
 ## The Manual Crash Kit
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -45,7 +46,7 @@ Some locations also keep a backup cash drawer with a pre-counted starting bank s
 
 <div class="callout callout-tip">**ProTip:** Modern McDonald's locations utilize an "Automatic Business Cutover" process to handle daily reboots, usually in the early morning. While designed to be automatic, these reboots occasionally hang, simulating a mini-crash.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The hardest part of a system crash isn't calculating money — it's communicating with the grill. When those kitchen display screens go black, the cooks are completely blind. They have zero visibility into what's been ordered.

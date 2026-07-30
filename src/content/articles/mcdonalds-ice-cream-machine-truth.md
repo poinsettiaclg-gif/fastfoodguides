@@ -1,24 +1,31 @@
 ---
-title: "How the McDonald's Ice Cream Machine Operates"
-description: "A look at the technical operation of the Taylor C602 soft serve machine, its automated pasteurization cycles, and maintenance requirements."
-pubDate: "2024-11-17"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Operations"
+title: How the McDonald's Ice Cream Machine Operates
+description: A look at the technical operation of the Taylor C602 soft serve machine,
+  its automated pasteurization cycles, and maintenance requirements.
+pubDate: '2024-11-17'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Operations
 faq:
-  - question: "Why are McDonald's ice cream machines always broken?"
-    answer: "It is rarely 'broken' in the traditional sense; it is often in a mandatory, hours-long automated heat-treatment mode to kill bacteria or is locked out due to a failed maintenance cycle."
-  - question: "What is McBroken?"
-    answer: "McBroken is a popular website created by a software engineer that uses the McDonald's internal API to track which locations have working ice cream machines."
+- question: Why are McDonald's ice cream machines always broken?
+  answer: It is rarely 'broken' in the traditional sense; it is often in a mandatory,
+    hours-long automated heat-treatment mode to kill bacteria or is locked out due
+    to a failed maintenance cycle.
+- question: What is McBroken?
+  answer: McBroken is a popular website created by a software engineer that uses the
+    McDonald's internal API to track which locations have working ice cream machines.
 ---
-
 If there is one universal truth in the fast-food industry, it is the running joke that the McDonald's ice cream machine is always broken. As someone who has spent a decade managing QSR operations, believe me when I say the reality is far more complicated—and frustrating—than "the employees just don't want to clean it."
 
 The machine in question is usually the **Taylor C602** digital soft serve and shake machine. It is an incredibly sophisticated, highly temperamental piece of dairy equipment. Walk with me through the actual steps:
 
 ## The Dreaded Heat Treatment Cycle
+
+![Operational view](../../assets/images/general/generic-fryer.webp)
+
+
 
 Unlike standard soft serve machines that must be completely drained and brush-cleaned every single night, the Taylor machines used by McDonald's are designed to save labor. They utilize an automated "Heat Treatment Cycle."
 

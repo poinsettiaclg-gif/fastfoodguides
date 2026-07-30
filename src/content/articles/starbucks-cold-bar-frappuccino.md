@@ -1,28 +1,31 @@
 ---
-title: "Starbucks Cold Bar: How Frappuccinos Are Built"
-description: "Starbucks Frappuccinos require a specific layering and blending sequence. Here's how the cold bar station is set up and timed during peak hours."
-pubDate: "2025-02-27"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Breakfast & Coffee"
+title: 'Starbucks Cold Bar: How Frappuccinos Are Built'
+description: Starbucks Frappuccinos require a specific layering and blending sequence.
+  Here's how the cold bar station is set up and timed during peak hours.
+pubDate: '2025-02-27'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Breakfast & Coffee
 relatedArticles:
-  - "starbucks-customer-support-cycle"
+- starbucks-customer-support-cycle
 faq:
-  - question: "What is the hardest part about working Cold Bar?"
-    answer: "The sheer volume. During a summer afternoon, Cold Bar can receive a continuous stream of Frappuccino and Refresher orders for hours, requiring immense physical and mental stamina to maintain sequencing speed."
-  - question: "What happens if a blender breaks during a rush?"
-    answer: "You lose the ability to sequence and are forced to make Frappuccinos one at a time on the remaining blender. This immediately cuts output in half and creates a massive backlog."
-heroImage: "../../assets/images/general/generic-coffee-2.jpg"
+- question: What is the hardest part about working Cold Bar?
+  answer: The sheer volume. During a summer afternoon, Cold Bar can receive a continuous
+    stream of Frappuccino and Refresher orders for hours, requiring immense physical
+    and mental stamina to maintain sequencing speed.
+- question: What happens if a blender breaks during a rush?
+  answer: You lose the ability to sequence and are forced to make Frappuccinos one
+    at a time on the remaining blender. This immediately cuts output in half and creates
+    a massive backlog.
+heroImage: ../../assets/images/general/generic-coffee-2.webp
 ---
-
-
 The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. The exact sequencing routine must be memorized to survive the operational demands of the station.
 
 ## The Frappuccino Build: Step by Step
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -53,7 +56,7 @@ The key to clean sequencing is station organization. Before the rush hits, your 
 
 ## CBS Pumps vs. Hot Bar Pumps: The Mistake That Ruins Drinks
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is the single most common Cold Bar error, and it trips up experienced baristas who transfer from Hot Bar, not just new staff.
@@ -63,7 +66,7 @@ This is the single most common Cold Bar error, and it trips up experienced baris
 
 When a Frappuccino recipe calls for "3 pumps of Caramel," it means 3 CBS pumps. If your Cold Bar runs out of Caramel and you walk over to the Hot Bar to borrow theirs, you only push the pump down 1.5 times. If you do 3 full Hot Bar pumps, the drink will be so sweet it's almost undrinkable.
 
-The pump heads are physically different sizes—CBS heads are smaller—but in the middle of a rush, it's easy to grab the wrong bottle and pump without thinking. Some stores color-code the pump heads or label the bottles, but ultimately it's on you to know which station you're pulling from. I witnessed entire batches of drinks get remade because someone grabbed the wrong Vanilla bottle during a Friday afternoon rush. Each remake costs you another 45 seconds you don't have.
+The pump heads are physically different sizes—CBS heads are smaller—but in the middle of a rush, it's easy to grab the wrong bottle and pump without thinking. Some stores color-code the pump heads or label the bottles, but Actually it's on you to know which station you're pulling from. I witnessed entire batches of drinks get remade because someone grabbed the wrong Vanilla bottle during a Friday afternoon rush. Each remake costs you another 45 seconds you don't have.
 
 ## Refreshers and Iced Teas: Volume Over Complexity
 

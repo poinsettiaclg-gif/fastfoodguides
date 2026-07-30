@@ -1,25 +1,28 @@
 ---
-title: "Does Wendy's Really Use 'Fresh, Never Frozen' Beef?"
-description: "The full truth behind Wendy's famous 'fresh, never frozen' beef claim — how the supply chain works, what it costs, and which menu items are the exception."
-pubDate: "2025-01-21"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Burgers"
+title: Does Wendy's Really Use 'Fresh, Never Frozen' Beef?
+description: "The full truth behind Wendy's famous 'fresh, never frozen' beef claim\
+  \ \u2014 how the supply chain works, what it costs, and which menu items are the\
+  \ exception."
+pubDate: '2025-01-21'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Burgers
 relatedArticles:
-  - "wendys-closing-duties"
-  - "wendys-4-corner-press"
-  - "wendys-clamshell-grill"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- wendys-closing-duties
+- wendys-4-corner-press
+- wendys-clamshell-grill
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 faq:
-  - question: "Does Wendy's beef ever get frozen by accident?"
-    answer: "If a walk-in cooler malfunctions and drops below freezing, standard food safety protocols require the beef to be evaluated and discarded rather than served."
-  - question: "Is Wendy's chicken fresh or frozen?"
-    answer: "Wendy's chicken, including nuggets and sandwiches, arrives at the store frozen. The 'fresh, never frozen' claim only applies to their North American beef hamburger patties."
+- question: Does Wendy's beef ever get frozen by accident?
+  answer: If a walk-in cooler malfunctions and drops below freezing, standard food
+    safety protocols require the beef to be evaluated and discarded rather than served.
+- question: Is Wendy's chicken fresh or frozen?
+  answer: Wendy's chicken, including nuggets and sandwiches, arrives at the store
+    frozen. The 'fresh, never frozen' claim only applies to their North American beef
+    hamburger patties.
 ---
-
 ## Does Wendy's Really Use 'Fresh, Never Frozen' Beef?
 
 
@@ -27,7 +30,7 @@ Managing fresh beef inventory at Wendy's is a daily logistics nightmare that for
 
 ## The Beef Arrives Refrigerated, Not Frozen
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -43,7 +46,7 @@ The shelf life of fresh beef stored at proper refrigeration temps is roughly 5 t
 
 ## What This Costs — And Why Most Chains Don't Bother
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 Running a fresh beef program is significantly more expensive than using frozen patties. The cost difference breaks down into several categories:
 

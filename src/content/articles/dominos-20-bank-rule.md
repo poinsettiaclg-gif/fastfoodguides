@@ -1,25 +1,26 @@
 ---
-title: "What is the Domino's \"$20 Bank Rule\" for Delivery Drivers?"
-description: "Learn about the strict $20 Bank Rule every Domino's driver must follow, how the Cash Drop system works, and why violating it can get you terminated."
-pubDate: "2024-10-26"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Pizza"
+title: What is the Domino's "$20 Bank Rule" for Delivery Drivers?
+description: Learn about the strict $20 Bank Rule every Domino's driver must follow,
+  how the Cash Drop system works, and why violating it can get you terminated.
+pubDate: '2024-10-26'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Pizza
 relatedArticles:
-  - "dominos-gas"
-
-heroImage: "../../assets/images/general/generic-drive-thru-3.jpg"
+- dominos-gas
+heroImage: ../../assets/images/general/generic-drive-thru-3.webp
 faq:
-  - question: "Can a Domino's driver break a $100 bill?"
-    answer: "No. Drivers carry a strict $20 bank and are not allowed to carry enough change to break large bills. If a customer tries to pay with a $50 or $100, the driver must decline for safety and policy reasons."
-  - question: "Do you have to drop cash tips in the smart safe?"
-    answer: "No, cash tips are yours to keep on your person. However, you must immediately drop any store cash collected for an order into the safe upon returning from a run to maintain the $20 limit."
+- question: Can a Domino's driver break a $100 bill?
+  answer: No. Drivers carry a strict $20 bank and are not allowed to carry enough
+    change to break large bills. If a customer tries to pay with a $50 or $100, the
+    driver must decline for safety and policy reasons.
+- question: Do you have to drop cash tips in the smart safe?
+  answer: No, cash tips are yours to keep on your person. However, you must immediately
+    drop any store cash collected for an order into the safe upon returning from a
+    run to maintain the $20 limit.
 ---
-
-
-
 Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. 
 
 I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Step by step, this is the workflow: 
@@ -40,7 +41,7 @@ At the end of your shift, you must return the bank in full. If you come back sho
 
 ## The Cash Drop System
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Here's where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
@@ -53,7 +54,7 @@ I've fired drivers for this. Not because I wanted to—because the policy is iro
 
 ## The Double and Triple Run Complication
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The $20 rule gets complicated during busy Friday and Saturday nights when drivers take multiple deliveries per run. If you're carrying two or three orders at once—a "double" or a "triple"—you might collect cash from multiple customers before returning to the store.

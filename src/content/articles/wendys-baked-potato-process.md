@@ -1,19 +1,22 @@
 ---
-title: "The Wendy's Baked Potato Process"
-description: "How Wendy's prepares, bakes, and holds fresh baked potatoes, and the strict operational discard timelines."
-pubDate: "2026-07-30"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
-chain: "wendys"
-topic: "sides"
-heroImage: "../../assets/images/general/generic-baking-3.jpg"
+title: The Wendy's Baked Potato Process
+description: How Wendy's prepares, bakes, and holds fresh baked potatoes, and the
+  strict operational discard timelines.
+pubDate: '2026-07-30'
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
+chain: wendys
+topic: sides
+heroImage: ../../assets/images/general/generic-baking-3.webp
 faq:
-  - question: "How long does it take Wendy's to bake a potato?"
-    answer: "It takes exactly one hour to bake the potatoes in the convection oven at 450°F."
-  - question: "Are Wendy's baked potatoes microwaved?"
-    answer: "No, they are baked fresh in a convection oven. However, some stores may use a microwave to flash-heat a potato if they run out during a massive rush, but this violates standard protocol."
+- question: How long does it take Wendy's to bake a potato?
+  answer: "It takes exactly one hour to bake the potatoes in the convection oven at\
+    \ 450\xB0F."
+- question: Are Wendy's baked potatoes microwaved?
+  answer: No, they are baked fresh in a convection oven. However, some stores may
+    use a microwave to flash-heat a potato if they run out during a massive rush,
+    but this violates standard protocol.
 ---
-
 If there is one item on the Wendy's menu that completely throws a wrench into standard fast-food timing, it's the baked potato. While a burger takes a few minutes and fries take three, a baked potato takes a full hour to cook. Managing the potato supply during a lunch rush is a constant source of stress for the prep station. If you miscalculate the drop, you either have angry customers waiting 45 minutes for a potato, or you end up throwing away perfectly good inventory when the holding timer expires.
 
 ## The Washing and Panning Process
@@ -32,7 +35,7 @@ Once panned, they get shoved into the convection oven. The timer is set for exac
 
 When the timer screams, the prep person pulls the heavy tray out. We have to temp them immediately. The internal temperature needs to hit at least 210°F to ensure the starches have completely broken down into that fluffy, soft texture customers expect. If they temp at 195°F, they go back in for another ten minutes. 
 
-![Oven holding setup](../../assets/images/general/generic-walk-in-2.jpg)
+![Oven holding setup](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Foil Wrapping Station
 

@@ -51,8 +51,8 @@ const schemas: any[] = [
 			"@type": "Person",
 			"name": author,
 			"jobTitle": authorTitle,
-			"url": "https://fastfoodguides.com/author/russell-roseberry",
-			"image": "https://fastfoodguides.com/images/russell-roseberry.jpg"
+			"url": "https://fastfoodguides.com/author/" + author.toLowerCase().replace(/ /g, '-'),
+			"image": "https://fastfoodguides.com/images/" + author.toLowerCase().replace(/ /g, '-') + ".jpg"
 		},
 		"publisher": {
 			"@type": "Organization",

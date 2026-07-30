@@ -1,32 +1,41 @@
 ---
-title: "The Cost of Virality: How TikTok Hacks Are Destroying Drive-Thru Timer Metrics"
-description: "An operational analysis of the chaos caused by viral custom fast-food orders, and how they obliterate Speed of Service (SOS) metrics and drive up labor costs for QSR operators."
-pubDate: "2026-06-18"
-updatedDate: "2026-07-23"
-chain: "Multiple"
-topic: "Operations"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-disclaimerType: "food_safety"
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+title: 'The Cost of Virality: How TikTok Hacks Are Destroying Drive-Thru Timer Metrics'
+description: An operational analysis of the chaos caused by viral custom fast-food
+  orders, and how they obliterate Speed of Service (SOS) metrics and drive up labor
+  costs for QSR operators.
+pubDate: '2026-06-18'
+updatedDate: '2026-07-23'
+chain: Multiple
+topic: Operations
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+disclaimerType: food_safety
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 relatedArticles:
-  - "fast-food-hacks-never-order"
-  - "applebees-microwave-reality"
-  - "arbys-meat-slicer"
+- fast-food-hacks-never-order
+- applebees-microwave-reality
+- arbys-meat-slicer
 faq:
-  - question: "Why do fast food places hate TikTok hacks?"
-    answer: "TikTok hacks break established kitchen sequencing and add excessive prep time, causing the entire drive-thru line to back up and ruining the store's speed of service metrics."
-  - question: "Why do employees pull cars forward for custom orders?"
-    answer: "Pulling a car forward clears the drive-thru window sensor, stopping the primary timer and protecting the store's metrics while the kitchen finishes the complex order."
+- question: Why do fast food places hate TikTok hacks?
+  answer: TikTok hacks break established kitchen sequencing and add excessive prep
+    time, causing the entire drive-thru line to back up and ruining the store's speed
+    of service metrics.
+- question: Why do employees pull cars forward for custom orders?
+  answer: Pulling a car forward clears the drive-thru window sensor, stopping the
+    primary timer and protecting the store's metrics while the kitchen finishes the
+    complex order.
 ---
-
 The Quick Service Restaurant (QSR) industry is built on a razor-thin margin of time. Every single station, from the grill to the deep fryer to the drive-thru window, is engineered to shave seconds off the total order fulfillment time. 
 
 For decades, the standard drive-thru timer goal was 90 seconds. Today, top-tier operators push for 45 to 60 seconds per car from speaker box to window departure. But in the era of viral TikTok "Secret Menu" hacks, those carefully calibrated metrics are being completely obliterated.
 
-As a former operations manager who stared at digital timer screens for a decade, I can tell you that a single viral drink or custom "Meat Mountain" burger doesn't just delay one order—it brings the entire kitchen to a grinding halt.
+As a former operations manager who stared at digital timer screens for a decade, Actually that a single viral drink or custom "Meat Mountain" burger doesn't just delay one order—it brings the entire kitchen to a grinding halt.
 
 ## The Assembly Line Breakdown
+
+![Operational view](../../assets/images/general/generic-coffee.webp)
+
+
 
 The core issue with viral menu hacks is that they break **sequencing**. 
 

@@ -1,32 +1,33 @@
 ---
-title: "How Dangerous Are the KFC Pressure Fryers?"
-description: "An insider look at the Collectramatic pressure fryers at KFC—the safety locks, the terrifying 'drop,' oil filtration burns, and the PPE that keeps cooks alive."
-pubDate: "2026-01-21"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "KFC"
-topic: "Chicken"
-disclaimerType: "food_safety"
+title: How Dangerous Are the KFC Pressure Fryers?
+description: "An insider look at the Collectramatic pressure fryers at KFC\u2014the\
+  \ safety locks, the terrifying 'drop,' oil filtration burns, and the PPE that keeps\
+  \ cooks alive."
+pubDate: '2026-01-21'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: KFC
+topic: Chicken
+disclaimerType: food_safety
 relatedArticles:
-  - "kfc-original-vs-extra-crispy"
-  - "kfc-coleslaw-secret"
+- kfc-original-vs-extra-crispy
+- kfc-coleslaw-secret
 faq:
-  - question: "Why doesn't KFC just use open fryers for everything?"
-    answer: "The sealed pressure environment forces moisture back into the meat and allows the chicken to cook in about 15 minutes instead of 20-plus, which is essential for high-volume service."
-  - question: "How often do they filter the oil in the Collectramatic?"
-    answer: "Standard procedure allows for 20 to 30 cook cycles before the oil must be filtered using the built-in mechanical filtration system to maintain product quality."
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: Why doesn't KFC just use open fryers for everything?
+  answer: The sealed pressure environment forces moisture back into the meat and allows
+    the chicken to cook in about 15 minutes instead of 20-plus, which is essential
+    for high-volume service.
+- question: How often do they filter the oil in the Collectramatic?
+  answer: Standard procedure allows for 20 to 30 cook cycles before the oil must be
+    filtered using the built-in mechanical filtration system to maintain product quality.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
-
-
 I still remember the adrenaline spike of my first "drop" into a commercial pressure fryer. You're loading racks of wet, breaded chicken into a vat of 350-degree oil, then sealing the heavy lid to let steam pressure build to terrifying levels. The Winston Collectramatic pressure fryer is the industrial workhorse behind KFC's Original Recipe, and treating this machine with anything less than absolute respect is a fast track to the emergency room. 
 
 ## The Machine and Its Safety Engineering
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -62,7 +63,7 @@ The temptation to skip gear is real. The kitchen is already 95 degrees. You're w
 
 ## Oil Filtration: The Closing Shift's Most Dangerous Task
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Beyond the daily cooking, KFC cooks are responsible for filtering the fryer oil at the end of each shift. This process involves draining the hot oil out of the fryer vat through a filtration system, scrubbing the inside of the empty vat, and pumping the filtered oil back in.

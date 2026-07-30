@@ -1,33 +1,44 @@
 ---
-title: "The Wendy's T-Rex Burger: Why the 9-Patty Meat Cube Wipes Out Clamshell Grill Cycles"
-description: "A 10-year QSR kitchen veteran breaks down the platen grill geometry, grease extraction limits, and corporate bans behind Wendy's infamous 9-patty T-Rex Burger."
-pubDate: "2025-07-02"
-updatedDate: "2026-07-28"
-heroImage: "../../assets/images/general/generic-grill-3.jpg"
-chain: "Wendy's"
+title: 'The Wendy''s T-Rex Burger: Why the 9-Patty Meat Cube Wipes Out Clamshell Grill
+  Cycles'
+description: A 10-year QSR kitchen veteran breaks down the platen grill geometry,
+  grease extraction limits, and corporate bans behind Wendy's infamous 9-patty T-Rex
+  Burger.
+pubDate: '2025-07-02'
+updatedDate: '2026-07-28'
+heroImage: ../../assets/images/general/generic-grill-3.webp
+chain: Wendy's
 operationalAnnoyanceScore: 10
 isVerified: true
 ingredients:
-  - "9 Fresh, Never-Frozen Square Beef Patties (4 ounces each before cooking, totaling 2.25 pounds of beef)"
-  - "9 Slices of Melted American Cheese"
-  - "1 Premium Toasted Sandwich Bun"
-  - "Standard Dave's Triple Condiments (Lettuce, Tomato, Sweet Onion, Pickles, Ketchup, Mayonnaise)"
-howToOrder: "Can I order a Dave's Triple and add six extra side patties with cheese? (If cashiers cite corporate sizing restrictions, order three separate Dave's Triples and assemble the 9-patty stack yourself at your table)."
-priceEstimate: "$22.00 - $26.00"
+- 9 Fresh, Never-Frozen Square Beef Patties (4 ounces each before cooking, totaling
+  2.25 pounds of beef)
+- 9 Slices of Melted American Cheese
+- 1 Premium Toasted Sandwich Bun
+- Standard Dave's Triple Condiments (Lettuce, Tomato, Sweet Onion, Pickles, Ketchup,
+  Mayonnaise)
+howToOrder: Can I order a Dave's Triple and add six extra side patties with cheese?
+  (If cashiers cite corporate sizing restrictions, order three separate Dave's Triples
+  and assemble the 9-patty stack yourself at your table).
+priceEstimate: $22.00 - $26.00
 relatedArticles:
-  - "wendys-4-corner-press"
-  - "wendys-clamshell-grill"
-  - "wendys-fresh-never-frozen"
-disclaimerType: "food_safety"
+- wendys-4-corner-press
+- wendys-clamshell-grill
+- wendys-fresh-never-frozen
+disclaimerType: food_safety
 faq:
-  - question: "What is the Wendy's T-Rex Burger?"
-    answer: "The T-Rex Burger (also known as the Meat Cube or 9-Patty Barnyard) is an infamous secret menu sandwich consisting of nine fresh, never-frozen square beef patties and nine slices of American cheese stacked inside a single sandwich bun."
-  - question: "Why did corporate Wendy's ban employees from making the T-Rex Burger?"
-    answer: "In 2013, corporate Wendy's issued a nationwide directive prohibiting kitchens from building anything larger than a Dave's Triple due to severe grill capacity bottlenecks, employee burn risks from hot grease instability, and extreme nutritional liability."
-  - question: "Why does a 9-patty burger stall the entire Wendy's kitchen?"
-    answer: "A standard Wendy's clamshell grill platen holds a maximum of eight to twelve fresh patties per cooking cycle. A single T-Rex order consumes an entire grill surface, halting patty production for all other drive-thru and dining room customers for nearly three minutes."
+- question: What is the Wendy's T-Rex Burger?
+  answer: The T-Rex Burger (also known as the Meat Cube or 9-Patty Barnyard) is an
+    infamous secret menu sandwich consisting of nine fresh, never-frozen square beef
+    patties and nine slices of American cheese stacked inside a single sandwich bun.
+- question: Why did corporate Wendy's ban employees from making the T-Rex Burger?
+  answer: In 2013, corporate Wendy's issued a nationwide directive prohibiting kitchens
+    from building anything larger than a Dave's Triple due to severe grill capacity
+    bottlenecks, employee burn risks from hot grease instability, and extreme nutritional
+    liability.
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
 ---
-
 In the folklore of fast food gluttony, the **Wendy's T-Rex Burger** occupies a legendary status. Originating in 2013 as an over-the-top promotional stunt at a single franchise in Brandon, Manitoba, this 9-patty, 9-cheese colossus quickly went viral across online communities. Weighing in at over two and a quarter pounds of cooked beef and packing upwards of 3,000 calories, it became the ultimate test of secret menu endurance.
 
 While online food vloggers treat the T-Rex Burger as a fun visual novelty, seasoned QSR kitchen managers view it as an operational catastrophe. In a Wendy's kitchen operating under tight speed-of-service mandates where grill operators are expected to continuously feed the sandwich assembly line without dropping patty holding temperatures, a 9-patty order is a system-wide wrench in the gears.
@@ -45,7 +56,7 @@ Specifically, a single standard platen zone is engineered to hold exactly **eigh
 
 When a cashier rings up a 9-patty T-Rex Burger during a noon lunch rush, that single order consumes 100% of an entire platen cooking zone. For the next 135 seconds, the grill operator cannot drop beef for a single Dave's Double, Baconator, or Junior Bacon Cheeseburger. If three cars in the drive-thru are waiting on double cheeseburgers, their tickets immediately stall. A single T-Rex build creates an instant 3-minute traffic jam across the entire restaurant, causing overhead drive-thru timers to flash critical red warnings.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The Grease Well Overflow Hazard</strong>
@@ -98,4 +109,8 @@ If you are determined to tackle a 9-patty Wendy's build for a personal challenge
 2. **Execute the Modular Order Strategy:** Step up to the counter (or use the mobile app) and order **three separate Dave's Triples**. Alternatively, order one Dave's Triple and ask for six side patties of beef with cheese in separate side containers.
 3. **Request a Plastic Salad Bowl:** Do not attempt to eat a 9-patty stack out of a foil wrapper; the grease will ruin your clothing and table. Ask the cashier for an empty, clean plastic salad bowl and a fork.
 4. **Tabletop Assembly:** Take your modular containers to a booth. Open the three Dave's Triples, discard two sets of top and bottom buns, and carefully stack the beef towers inside the plastic salad bowl using the remaining bun as a structural base and cap. This keeps the kitchen assembly line moving at maximum speed while giving you the exact 9-patty mountain you came for.
+
+
+
+<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
 

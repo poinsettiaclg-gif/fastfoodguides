@@ -1,33 +1,32 @@
 ---
-title: "The Secret to Folding a Subway Wrap Without Tearing It"
-description: "A Sandwich Artist's step-by-step guide to warming, stacking, rolling, and cutting a heavily loaded Subway wrap without ripping the tortilla apart."
-pubDate: "2025-01-15"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Subway"
-topic: "Sandwiches"
+title: The Secret to Folding a Subway Wrap Without Tearing It
+description: A Sandwich Artist's step-by-step guide to warming, stacking, rolling,
+  and cutting a heavily loaded Subway wrap without ripping the tortilla apart.
+pubDate: '2025-01-15'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Subway
+topic: Sandwiches
 relatedArticles:
-  - "subway-bread-baking-process"
-  - "subway-bain-fill-line-rule"
+- subway-bread-baking-process
+- subway-bain-fill-line-rule
 faq:
-  - question: "Why do Subway wraps tear so easily?"
-    answer: "Wraps tear primarily due to overstuffing with too many veggies, excess sauce soaking into the tortilla, and attempting to fold a cold, brittle wrap."
-  - question: "What is the purpose of the sticker on the wrap?"
-    answer: "The sticker holds the deli paper closed so the wrap doesn't stick to the worker's gloves, and acts as a tamper-evident seal for delivery orders."
-
-heroImage: "../../assets/images/general/generic-grill-2.jpg"
+- question: Why do Subway wraps tear so easily?
+  answer: Wraps tear primarily due to overstuffing with too many veggies, excess sauce
+    soaking into the tortilla, and attempting to fold a cold, brittle wrap.
+- question: What is the purpose of the sticker on the wrap?
+  answer: The sticker holds the deli paper closed so the wrap doesn't stick to the
+    worker's gloves, and acts as a tamper-evident seal for delivery orders.
+heroImage: ../../assets/images/general/generic-grill-2.webp
 ---
-
-
-
 If there is one item that strikes genuine fear into the heart of a new Subway Sandwich Artist, it is the wrap. Not the bread. Not the register. The wrap. 
 
 Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. This is the method for rolling a loaded Subway wrap perfectly. 
 
 ## Step 1: Warm the Tortilla (Never Skip This)
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -67,7 +66,7 @@ Do not try to fold this like a traditional burrito. Use [the Subway](/articles/s
 
 ## Step 4: The Diagonal Cut
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The cut angle is not just for aesthetics—it serves a functional purpose. Cutting straight across a wrap compresses the filling at the cut point and can blow out the ends. A diagonal cut distributes the pressure across a longer line, keeping the filling intact inside both halves.

@@ -1,27 +1,30 @@
 ---
-title: "Sweetgreen Mixing Station: Portion Control at Scale"
-description: "Sweetgreen mixes every salad to order using a precise portion and toss technique. This covers how the mixing station is structured to handle a lunch rush."
-pubDate: "2025-02-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Sweetgreen"
-topic: "Other Chains"
+title: 'Sweetgreen Mixing Station: Portion Control at Scale'
+description: Sweetgreen mixes every salad to order using a precise portion and toss
+  technique. This covers how the mixing station is structured to handle a lunch rush.
+pubDate: '2025-02-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Sweetgreen
+topic: Other Chains
 faq:
-  - question: "Why doesn't Sweetgreen use disposable mixing bowls?"
-    answer: "Metal bowls create a necessary vortex effect for tossing that flexible disposable bowls can't replicate, and they save an estimated $8,000 per year per store in waste costs."
-  - question: "What is the most common mixing station mistake?"
-    answer: "New staff often over-toss the salads for too many rotations, bruising the delicate greens and creating a soggy, unappealing texture."
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: Why doesn't Sweetgreen use disposable mixing bowls?
+  answer: Metal bowls create a necessary vortex effect for tossing that flexible disposable
+    bowls can't replicate, and they save an estimated $8,000 per year per store in
+    waste costs.
+- question: What is the most common mixing station mistake?
+  answer: New staff often over-toss the salads for too many rotations, bruising the
+    delicate greens and creating a soggy, unappealing texture.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 At Sweetgreen, the ingredients might be high-quality and locally sourced, but the true magic happens at the very end of the line: the mixing station. It's the loudest, messiest, and most physically demanding position in the restaurant.
 
 During a peak lunch rush in a busy metro area, the person working the mixing station is tossing upwards of 150 salads an hour. Doing that without destroying the delicate greens or slinging balsamic vinaigrette onto a customer's shirt requires a highly specific technique.
 
 ## The Tools of the Trade
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 You don't just use standard kitchen tongs at Sweetgreen. The mixing station relies on heavy-duty, oversized metal mixing bowls and specialized long-handled tongs designed specifically for volume tossing.

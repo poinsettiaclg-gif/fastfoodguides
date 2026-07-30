@@ -1,23 +1,26 @@
 ---
-title: "Chipotle Guacamole: Made From Scratch Daily"
-description: "Chipotle makes guacamole in-house every day. Here's the exact recipe, the prep process, and why it takes a skilled hand to hit the right texture."
-pubDate: "2024-06-27"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chipotle"
-topic: "Mexican"
+title: 'Chipotle Guacamole: Made From Scratch Daily'
+description: Chipotle makes guacamole in-house every day. Here's the exact recipe,
+  the prep process, and why it takes a skilled hand to hit the right texture.
+pubDate: '2024-06-27'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chipotle
+topic: Mexican
 relatedArticles:
-  - "chipotle-fajita-veggie-cut"
+- chipotle-fajita-veggie-cut
 faq:
-  - question: "How many avocados are in a batch of Chipotle guacamole?"
-    answer: "A standard batch requires 48 whole, ripe Hass avocados. However, depending on avocado size, a single case from a distributor can contain anywhere from 32 to 84 avocados."
-  - question: "Does Chipotle use a machine to make their guacamole?"
-    answer: "Traditionally, it is hand-mashed by prep cooks. However, Chipotle is testing a cobotic device called 'Autocado' that automatically cuts, cores, and peels the avocados to reduce prep time."
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: How many avocados are in a batch of Chipotle guacamole?
+  answer: A standard batch requires 48 whole, ripe Hass avocados. However, depending
+    on avocado size, a single case from a distributor can contain anywhere from 32
+    to 84 avocados.
+- question: Does Chipotle use a machine to make their guacamole?
+  answer: Traditionally, it is hand-mashed by prep cooks. However, Chipotle is testing
+    a cobotic device called 'Autocado' that automatically cuts, cores, and peels the
+    avocados to reduce prep time.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 ## Six Ingredients. No Blender. No Shortcuts.
 
 Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: 
@@ -51,7 +54,7 @@ The first thing the prep cook does is check ripeness. Not every avocado in a cas
 - **Perfect** (slight give when pressed, dark green to nearly black skin): Ready for guac. The flesh should be creamy yellow-green with no brown spots
 - **Overripe** (mushy, brown flesh inside): Discarded. Brown avocado produces bitter, off-tasting guacamole
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 Chipotle's supply chain tries to time deliveries so avocados arrive at peak ripeness, but it's an imperfect science. Temperature fluctuations during shipping, seasonal variation, and the natural unpredictability of fruit ripening mean that every case is a gamble. Experienced prep cooks can assess a full case of 48 avocados in about 2 minutes just by feel.
 
@@ -86,7 +89,7 @@ Once the avocado is mashed to the right consistency, the remaining ingredients g
 
 Everything is **folded in gently** — not stirred aggressively — to maintain the chunky texture. Over-mixing at this stage would turn the guacamole into a smooth paste.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### Step 5: Taste and Adjust
 

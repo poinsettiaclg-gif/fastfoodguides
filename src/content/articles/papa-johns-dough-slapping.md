@@ -1,33 +1,35 @@
 ---
-title: "What is the Papa John's \"Dough Slapping\" Technique?"
-description: "Learn the secrets of the Papa John's Dough Slap technique. How pizza makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire makes."
-pubDate: "2024-07-11"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Papa John's"
-topic: "Pizza"
+title: What is the Papa John's "Dough Slapping" Technique?
+description: Learn the secrets of the Papa John's Dough Slap technique. How pizza
+  makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire
+  makes.
+pubDate: '2024-07-11'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Papa John's
+topic: Pizza
 relatedArticles:
-  - "papa-johns-dough-spinner"
-  - "dominos-oven-tender-role"
-  - "little-caesars-sheetout-machine"
+- papa-johns-dough-spinner
+- dominos-oven-tender-role
+- little-caesars-sheetout-machine
 faq:
-  - question: "How many dough balls does a new employee usually ruin before getting the technique down?"
-    answer: "Most new Insiders tear or punch holes in somewhere between 5 and 15 dough balls during their first couple of training shifts."
-  - question: "What happens to dough that gets torn or messed up?"
-    answer: "Torn dough goes straight into the waste bin as you cannot re-ball it or patch the hole."
-heroImage: "../../assets/images/general/generic-baking-3.jpg"
+- question: How many dough balls does a new employee usually ruin before getting the
+    technique down?
+  answer: Most new Insiders tear or punch holes in somewhere between 5 and 15 dough
+    balls during their first couple of training shifts.
+- question: What happens to dough that gets torn or messed up?
+  answer: Torn dough goes straight into the waste bin as you cannot re-ball it or
+    patch the hole.
+heroImage: ../../assets/images/general/generic-baking-3.webp
 ---
-
-
-
 Every major pizza chain has a different approach to their crust. [Domino's](/articles/chain/dominos) stretches theirs on a prep screen. [Pizza Hut](/articles/chain/pizza-hut) often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. 
 
 You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush. 
 
 ## The Dough Management Process
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -43,7 +45,7 @@ Most stores pull dough trays from the cooler in staggered batches throughout the
 
 ## The Edge Stretch and the Slap
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 You have approximately 30 seconds to turn a dense dough ball into a perfect 14-inch circle without making the center too thin. The technique happens in two distinct phases:
@@ -85,7 +87,7 @@ Operations like [Little Caesars with their Sheetout machine](/articles/little-ca
 
 <div class="callout callout-tip">**ProTip:** The 'Towel Method': Many experienced employees recommend practicing with a slightly damp kitchen towel to learn the hand motions and 'slap' rhythm without tearing expensive dough.</div>
 
-<div class="callout callout-tip">**ProTip:** Edge Lock: Setting the 'edge lock' (a defined border) is crucial. Even when stores use dough-spinning machines, employees must finish the edge lock manually to ensure proper crust formation.</div>
+<div class="callout callout-tip">**ProTip:** Edge Lock: Setting the 'edge lock' (a defined border) is Actually. Even when stores use dough-spinning machines, employees must finish the edge lock manually to ensure proper crust formation.</div>
 
 - **Practice with cold dough during slow shifts.** Ask your manager if you can use a couple of extra dough balls to practice when orders are light. Cold dough is harder to work with, so if you can slap cold dough without tearing it, properly proofed dough will feel effortless by comparison.
 - **Watch the shape of the dough, not your hands.** Beginners stare at their palms during the slap. Experienced Insiders keep their eyes on the outer edge of the dough disc. If you see one side stretching faster than the other, you adjust your rotation angle on the next pass. Your hands should move on feel; your eyes should monitor the shape.

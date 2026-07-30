@@ -1,26 +1,28 @@
 ---
-title: "The In-N-Out Level System Explained (Level 1 to Level 7)"
-description: "A complete breakdown of In-N-Out's strict 7-level promotion track, from Level 1 cleanup to Level 7 management, with pay details and insider tips."
-pubDate: "2024-06-20"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "In-N-Out Burger"
-topic: "Burgers"
+title: The In-N-Out Level System Explained (Level 1 to Level 7)
+description: A complete breakdown of In-N-Out's strict 7-level promotion track, from
+  Level 1 cleanup to Level 7 management, with pay details and insider tips.
+pubDate: '2024-06-20'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: In-N-Out Burger
+topic: Burgers
 relatedArticles:
-  - "in-n-out-board-station"
-  - "in-n-out-secret-menu"
-  - "chick-fil-a-ipos-system"
+- in-n-out-board-station
+- in-n-out-secret-menu
+- chick-fil-a-ipos-system
 faq:
-  - question: "How long does it take to go from Level 1 to Level 7?"
-    answer: "There's no fixed timeline, but a motivated, full-time Associate can typically reach Level 7 within 12 to 18 months. The pace is entirely determined by your performance and your managers' assessment of your readiness."
-  - question: "Do you lose your level if you take time off or transfer stores?"
-    answer: "No. Your level stays with you even if you transfer to a different location. Your certifications are tracked in the company's system and follow you wherever you go."
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: How long does it take to go from Level 1 to Level 7?
+  answer: There's no fixed timeline, but a motivated, full-time Associate can typically
+    reach Level 7 within 12 to 18 months. The pace is entirely determined by your
+    performance and your managers' assessment of your readiness.
+- question: Do you lose your level if you take time off or transfer stores?
+  answer: No. Your level stays with you even if you transfer to a different location.
+    Your certifications are tracked in the company's system and follow you wherever
+    you go.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 [In-N-Out](/articles/chain/in-n-out) Burger is famous for paying its people well—significantly better than the industry average, in fact. But The part they leave out of orientation is during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
 
 It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
@@ -39,7 +41,7 @@ Associates who show up on time, keep the dining room spotless without prompting,
 
 ## Levels 2 Through 4: Front-of-House Fundamentals
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of [the In-N-Out](/articles/in-n-out-board-station) operation.
@@ -56,7 +58,7 @@ Each level requires a formal evaluation before promotion. Your managers are watc
 
 ## Levels 5 Through 7: Kitchen Mastery and Management
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is where the money gets real, but the difficulty spikes dramatically.

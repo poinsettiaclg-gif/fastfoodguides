@@ -1,24 +1,31 @@
 ---
-title: "Starbucks Digital Production Manager (DPM): How Mobile Orders Are Routed and Managed"
-description: "A comprehensive operational analysis of Starbucks' DPM tablet system, mobile order queue routing, the Force Print feature, and handoff plane logistics."
-pubDate: "2025-01-28"
-updatedDate: "2026-07-25"
-heroImage: "../../assets/images/general/generic-pos.jpg"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit QSR Kitchen Manager"
-chain: "Starbucks"
-topic: "Coffee"
+title: 'Starbucks Digital Production Manager (DPM): How Mobile Orders Are Routed and
+  Managed'
+description: A comprehensive operational analysis of Starbucks' DPM tablet system,
+  mobile order queue routing, the Force Print feature, and handoff plane logistics.
+pubDate: '2025-01-28'
+updatedDate: '2026-07-25'
+heroImage: ../../assets/images/general/generic-pos.webp
+author: Russell Roseberry
+authorTitle: Former Multi-Unit QSR Kitchen Manager
+chain: Starbucks
+topic: Coffee
 relatedArticles:
-  - "starbucks-customer-support-cycle"
-  - "starbucks-morning-rush"
-  - "starbucks-mastrena-espresso-calibration"
+- starbucks-customer-support-cycle
+- starbucks-morning-rush
+- starbucks-mastrena-espresso-calibration
 faq:
-  - question: "Why does my mobile order sometimes take 20 minutes while cafe orders take 5 minutes?"
-    answer: "Mobile orders and Cafe orders are often routed to entirely different espresso machines (Cold Bar/Hot Bar vs. Mobile Bar). If the Mobile Bar is backed up with 50 tickets during the morning rush, your drink sits in that digital queue while the Cafe Bar might be completely empty."
-  - question: "Can a barista bump my order to the front of the line?"
-    answer: "Yes. Using the DPM tablet, a shift supervisor or barista can manually execute a 'Force Print' to push a specific ticket to the front of the label printer queue if an order was lost, remade, or prioritized for a VIP customer."
+- question: Why does my mobile order sometimes take 20 minutes while cafe orders take
+    5 minutes?
+  answer: Mobile orders and Cafe orders are often routed to entirely different espresso
+    machines (Cold Bar/Hot Bar vs. Mobile Bar). If the Mobile Bar is backed up with
+    50 tickets during the morning rush, your drink sits in that digital queue while
+    the Cafe Bar might be completely empty.
+- question: Can a barista bump my order to the front of the line?
+  answer: Yes. Using the DPM tablet, a shift supervisor or barista can manually execute
+    a 'Force Print' to push a specific ticket to the front of the label printer queue
+    if an order was lost, remade, or prioritized for a VIP customer.
 ---
-
 If you have ever stood inside a high-volume Starbucks during the 8:00 AM morning peak, you have witnessed a level of operational density that feels like organized chaos. Blenders are roaring on the Cold Bar, milk pitchers are steaming on the [Mastrena espresso machines](/articles/starbucks-mastrena-espresso-calibration), and dozens of customized mobile order cups line the handoff plane.
 
 To the untrained eye, it looks like an uncoordinated scramble. Behind the counter, however, every single beverage movement is governed by a piece of corporate software known as the **Digital Production Manager (DPM)**.
@@ -26,6 +33,10 @@ To the untrained eye, it looks like an uncoordinated scramble. Behind the counte
 The DPM is the tablet interface (typically running on iPad hardware mounted at eye level above the espresso bars and handoff plane) that acts as the air traffic control tower for modern Starbucks operations. It has completely replaced the legacy system of hand-writing cups with Sharpies, turning drink execution into a routed digital pipeline. The operational mechanics for routing and managing orders are as follows:
 
 ## 1. Multi-Channel Ingestion and Queue Routing
+
+![Operational view](../../assets/images/general/generic-exterior.webp)
+
+
 
 In a modern Starbucks store, orders arrive simultaneously from four distinct ingestion channels: **Drive-Thru (DT), Cafe Point of Sale (POS), Mobile Order & Pay (MOP), and Third-Party Delivery (UberEats/DoorDash)**. 
 

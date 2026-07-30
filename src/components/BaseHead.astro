@@ -44,9 +44,9 @@ const ogImageUrl = image ? new URL(image, Astro.site) : new URL('/og-default.png
 <meta name="generator" content={Astro.generator} />
 <meta name="theme-color" content="#0a0f1c" />
 
-<!-- Preconnect to third-party origins -->
-<link rel="preconnect" href="https://pagead2.googlesyndication.com" />
-<link rel="preconnect" href="https://www.googletagmanager.com" />
+<!-- Preconnect to external domains -->
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />
 
 
 

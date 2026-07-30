@@ -1,23 +1,26 @@
 ---
-title: "Starbucks Drive-Thru: The DTO and DTR Roles Explained"
-description: "An inside look at the Starbucks drive-thru ecosystem. How the DTO (Drive-Thru Order) and DTR (Drive-Thru Register) roles orchestrate peak morning volume."
-pubDate: "2024-11-29"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Coffee"
-heroImage: "../../assets/images/general/generic-pos.jpg"
+title: 'Starbucks Drive-Thru: The DTO and DTR Roles Explained'
+description: An inside look at the Starbucks drive-thru ecosystem. How the DTO (Drive-Thru
+  Order) and DTR (Drive-Thru Register) roles orchestrate peak morning volume.
+pubDate: '2024-11-29'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Coffee
+heroImage: ../../assets/images/general/generic-pos.webp
 relatedArticles:
-  - starbucks-morning-rush
-  - starbucks-customer-support-cycle
+- starbucks-morning-rush
+- starbucks-customer-support-cycle
 faq:
-  - question: "How long does it take to learn the DTO/DTR roles?"
-    answer: "Most baristas report it takes 2 to 6 months of consistent practice to feel truly comfortable multitasking between the headset, POS, and window duties."
-  - question: "What is the biggest bottleneck in the drive-thru?"
-    answer: "Food warming. Warmed pastries and sandwiches take longer than most drinks, which is why skilled DTOs try to punch food items into the system before the customer even finishes ordering their drinks."
+- question: How long does it take to learn the DTO/DTR roles?
+  answer: Most baristas report it takes 2 to 6 months of consistent practice to feel
+    truly comfortable multitasking between the headset, POS, and window duties.
+- question: What is the biggest bottleneck in the drive-thru?
+  answer: Food warming. Warmed pastries and sandwiches take longer than most drinks,
+    which is why skilled DTOs try to punch food items into the system before the customer
+    even finishes ordering their drinks.
 ---
-
 The morning rush at a high-volume Starbucks drive-thru is a masterclass in synchronized chaos. When 60 cars an hour are wrapping around the building, the success or failure of the shift rests entirely on the shoulders of two specific positions: **DTO (Drive-Thru Order)** and **DTR (Drive-Thru Register)**.
 
 If you’ve ever wondered how the barista at the window manages to hand you a highly customized Iced Caramel Macchiato exactly 90 seconds after you ordered it at the speaker box, it’s because of the tightly choreographed dance between the DTO and DTR.
@@ -25,6 +28,10 @@ If you’ve ever wondered how the barista at the window manages to hand you a hi
 The operations on the other side of the headset run as follows:
 
 ## DTO: Drive-Thru Order (The Orchestrator)
+
+![Operational view](../../assets/images/general/generic-walk-in.webp)
+
+
 
 The DTO is the voice in the speaker box. But taking your order is only about 30% of their actual job. The DTO is the logistical orchestrator of the entire drive-thru ecosystem. 
 

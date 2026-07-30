@@ -1,27 +1,28 @@
 ---
-title: "How Wendy's Prepares Beef for Chili"
-description: "An inside look at the strict culinary process Wendy's uses to repurpose over-grilled burger patties into their famous chili base."
-pubDate: "2026-05-01"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Burgers"
-disclaimerType: "food_safety"
+title: How Wendy's Prepares Beef for Chili
+description: An inside look at the strict culinary process Wendy's uses to repurpose
+  over-grilled burger patties into their famous chili base.
+pubDate: '2026-05-01'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Burgers
+disclaimerType: food_safety
 faq:
-  - question: "Is Wendy's chili made from grill scrapings?"
-    answer: "No, this is a pervasive myth. The meat used is actual, fully cooked burger patties that simply exceeded their short hold-time window on the grill and could not be served on sandwiches."
-  - question: "Why don't they just use fresh ground beef for the chili?"
-    answer: "Using unsold patties is a waste-reduction strategy implemented by Dave Thomas himself. The patties are perfectly safe and the grill char actually adds significant flavor to the chili base that raw ground beef wouldn't provide."
+- question: Is Wendy's chili made from grill scrapings?
+  answer: No, this is a pervasive myth. The meat used is actual, fully cooked burger
+    patties that simply exceeded their short hold-time window on the grill and could
+    not be served on sandwiches.
+- question: Why don't they just use fresh ground beef for the chili?
+  answer: Using unsold patties is a waste-reduction strategy implemented by Dave Thomas
+    himself. The patties are perfectly safe and the grill char actually adds significant
+    flavor to the chili base that raw ground beef wouldn't provide.
 relatedArticles:
-  - "wendys-4-corner-press"
-  - "wendys-clamshell-grill"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- wendys-4-corner-press
+- wendys-clamshell-grill
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 An average busy Wendy's restaurant churns through dozens of pounds of overcooked hamburger patties every week. Rather than throwing that expensive protein in the dumpster, it becomes the foundation of their chili. If you're a new hire, you'll learn on your very first day that Wendy's chili incorporates cooked hamburger patties that have exceeded their strict hold-time on the grill. But rather than a shortcut, this is actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are incredibly rigorous.
 
 ## The "Burned" Meat Rule
@@ -34,7 +35,7 @@ So Wendy's repurposes it. And the key word here is "repurposes," not "reuses." T
 
 ## The Chili Meat Process: Step by Step
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 1. **The Chop:** The overcooked patties are pulled off the grill and placed into a designated metal pan. A cook takes a heavy metal chopping tool—essentially a flat-edged metal blade—and breaks the square patties down into small, bite-sized crumbles. The target crumble size is about the size of a pea. Uniform, small crumbles ensure every ladle has the same consistency and that the meat reheats evenly.
@@ -59,7 +60,7 @@ When those charred crumbles are simmered in the chili base for hours, they relea
 
 ## Holding, Rotation, and Daily Production
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Once the chili is simmering in the warmer, it is absolutely not a set-it-and-forget-it situation. The chili must be stirred from the bottom at least every 30 minutes. If it sits undisturbed, the beans and meat settle while the liquid rises, creating an uneven product where one customer gets watery broth and the next gets a thick, chunky ladle.

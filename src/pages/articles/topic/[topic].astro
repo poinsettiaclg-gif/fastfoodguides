@@ -75,9 +75,9 @@ const metaDescription = topicDesc
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": `${topicName} Fast Food Guides`,
+    "name": `Fast Food Guides: ${topicName}`,
     "description": metaDescription,
-    "url": `https://fastfoodguides.com/articles/topic/${topicSlug}/`,
+    "url": Astro.url.href,
     "mainEntity": {
       "@type": "ItemList",
       "numberOfItems": posts.length,

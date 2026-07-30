@@ -1,25 +1,26 @@
 ---
-title: "What Happens if a Pizza Delivery Driver Gets in an Accident?"
-description: "The ugly truth about pizza delivery auto insurance gaps, what your personal policy won't cover, and exactly what to do if you crash on the clock."
-pubDate: "2025-10-09"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Multi-Chain"
-topic: "Pizza"
+title: What Happens if a Pizza Delivery Driver Gets in an Accident?
+description: The ugly truth about pizza delivery auto insurance gaps, what your personal
+  policy won't cover, and exactly what to do if you crash on the clock.
+pubDate: '2025-10-09'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Multi-Chain
+topic: Pizza
 relatedArticles:
-  - "pizza-hut-dispatch"
-  - "dominos-gas"
+- pizza-hut-dispatch
+- dominos-gas
 faq:
-  - question: "Can the pizza company fire me for getting in an accident?"
-    answer: "It depends on the circumstances. If the accident was clearly your fault, the franchise can and often will terminate your employment."
-  - question: "What if the accident happens while I'm driving back to the store without food in the car?"
-    answer: "You're still on the clock and still driving for commercial purposes, so the same insurance exclusions apply."
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- question: Can the pizza company fire me for getting in an accident?
+  answer: It depends on the circumstances. If the accident was clearly your fault,
+    the franchise can and often will terminate your employment.
+- question: What if the accident happens while I'm driving back to the store without
+    food in the car?
+  answer: You're still on the clock and still driving for commercial purposes, so
+    the same insurance exclusions apply.
+heroImage: ../../assets/images/general/generic-pos-2.webp
 ---
-
-
-
 I've managed stores where we had to deal with driver accidents more times than I'd like to count. Fender benders in apartment complex parking lots. A driver who slid into a ditch during an ice storm. One guy rear-ended someone at a red light because he was looking at his phone trying to find the customer's apartment number. Every single time, the same ugly reality comes crashing down: nobody — not the driver, not the franchise, not the insurance company — wants to be the one holding the bag. 
 
 Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles/chain/pizza-hut), or [Papa John's](/articles/chain/papa-johns) is one of the most dangerous jobs in food service. You're spending 6 to 8 hours a night weaving through busy intersections, navigating dark neighborhoods, and driving in weather that sensible people stay home in. The operational reality: 
@@ -52,7 +53,7 @@ I cannot stress this enough: ensure you have proper personal coverage.
 
 ## Exactly What to Do if You Crash on the Clock
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 When the worst happens, adrenaline takes over and your brain stops working logically.
@@ -73,12 +74,12 @@ When the worst happens, adrenaline takes over and your brain stops working logic
 
 ## Vehicle Requirements You Should Actually Follow
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Before you start delivering, most franchises require your car to pass a basic inspection. Working headlights, taillights, brake lights, and turn signals are non-negotiable. Valid registration, state-minimum insurance, and a current inspection sticker where applicable. Management is supposed to do periodic vehicle checks throughout your employment — not just at hiring.
 
-Here's the reality though: In my time behind the counter, managers who inspect every driver's car monthly like clockwork, and I've seen managers who look the other way because they're desperate for warm bodies during the dinner rush. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle just because your manager does.
+Here's the reality though: In my time behind the counter, managers who inspect every driver's car monthly like clockwork, and Actually managers who look the other way because they're desperate for warm bodies during the dinner rush. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle just because your manager does.
 
 Keep a basic [bank of cash for making change](/articles/dominos-20-bank-rule), a working dashcam (they cost as little as $30), and a phone charger in your car at all times. A dashcam provides indisputable evidence of what happened in an accident. If the other driver claims you ran a red light and your footage says otherwise, that camera just saved your livelihood.
 

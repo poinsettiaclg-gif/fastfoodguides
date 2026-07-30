@@ -1,25 +1,29 @@
 ---
-title: "Wawa Hoagie Build: The Touchscreen Assembly Line"
-description: "Wawa hoagies are ordered via touchscreen and built to a specific sequence. Here's how the assembly line works and what separates a great Wawa hoagie."
-pubDate: "2026-03-01"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wawa"
-topic: "Sandwiches"
+title: 'Wawa Hoagie Build: The Touchscreen Assembly Line'
+description: Wawa hoagies are ordered via touchscreen and built to a specific sequence.
+  Here's how the assembly line works and what separates a great Wawa hoagie.
+pubDate: '2026-03-01'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wawa
+topic: Sandwiches
 faq:
-  - question: "Why does it sometimes take so long to get a Wawa hoagie?"
-    answer: "During peak rushes, delis face competing order streams from kiosks, mobile apps, and delivery drivers simultaneously. If a store has reduced labor hours, the digital board can backlog so heavily that they must temporarily stop accepting new orders."
-  - question: "Why are my ingredients stuffed into the hinge of the roll?"
-    answer: "This is a common rush-hour execution error. Meats and cheeses should be fanned flat across the bread. When employees fall behind, they often stuff the proteins directly into the bread's hinge cut, which ruins the ingredient distribution."
+- question: Why does it sometimes take so long to get a Wawa hoagie?
+  answer: During peak rushes, delis face competing order streams from kiosks, mobile
+    apps, and delivery drivers simultaneously. If a store has reduced labor hours,
+    the digital board can backlog so heavily that they must temporarily stop accepting
+    new orders.
+- question: Why are my ingredients stuffed into the hinge of the roll?
+  answer: This is a common rush-hour execution error. Meats and cheeses should be
+    fanned flat across the bread. When employees fall behind, they often stuff the
+    proteins directly into the bread's hinge cut, which ruins the ingredient distribution.
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
 
 
@@ -28,6 +32,10 @@ If you've never ordered a hoagie at Wawa, the experience can throw you off. Ther
 I've worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer's hands.
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
+
+![Operational view](../../assets/images/general/generic-grill.webp)
+
+
 
 Walk into any Wawa and you'll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store's size. These aren't generic tablet stands. They're custom-built ordering terminals running Wawa's proprietary software, and they're the only way to order a built-to-order item. You can't walk up to the deli and ask someone to make you a hoagie verbally. That's not how it works here. 
 

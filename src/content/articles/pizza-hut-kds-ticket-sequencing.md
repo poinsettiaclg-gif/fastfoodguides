@@ -1,25 +1,36 @@
 ---
-title: "The Real Reason Your Makeline is Bottlenecking: Optimizing Ticket Sequencing on the Pizza Hut KDS"
-description: "A comprehensive operational guide to Pizza Hut KDS ticket-routing mechanics, make/bake/cut synchronization, and eliminating conveyor belt gap bottlenecks."
-pubDate: "2024-08-19"
-updatedDate: "2026-07-25"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
-chain: "Pizza Hut"
-topic: "Operations"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-tags: ["KDS", "Operations", "Training", "Pizza Hut"]
+title: 'The Real Reason Your Makeline is Bottlenecking: Optimizing Ticket Sequencing
+  on the Pizza Hut KDS'
+description: A comprehensive operational guide to Pizza Hut KDS ticket-routing mechanics,
+  make/bake/cut synchronization, and eliminating conveyor belt gap bottlenecks.
+pubDate: '2024-08-19'
+updatedDate: '2026-07-25'
+heroImage: ../../assets/images/general/generic-fryer-3.webp
+chain: Pizza Hut
+topic: Operations
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+tags:
+- KDS
+- Operations
+- Training
+- Pizza Hut
 relatedArticles:
-  - "dominos-makeline-routing"
-  - "dominos-oven-tender-role"
-  - "dominos-super-bowl-pulse-system"
+- dominos-makeline-routing
+- dominos-oven-tender-role
+- dominos-super-bowl-pulse-system
 faq:
-  - question: "Why should makeline workers avoid strict FIFO when building pizzas?"
-    answer: "Because different pizzas have vastly different assembly times (e.g., a 20-second Pepperoni vs. a 90-second Stuffed Crust Supreme). Following strict chronological FIFO without KDS load balancing creates empty gaps on the conveyor oven belt, wasting heat and lowering hourly ticket throughput."
-  - question: "What is Make/Bake/Cut synchronization in a pizzeria?"
-    answer: "Make/Bake/Cut synchronization is the operational alignment of raw dough preparation, 7-minute conveyor oven bake times, and cut-table box labeling so that all items in a customer's order exit the oven tunnel within 30 seconds of each other."
+- question: Why should makeline workers avoid strict FIFO when building pizzas?
+  answer: Because different pizzas have vastly different assembly times (e.g., a 20-second
+    Pepperoni vs. a 90-second Stuffed Crust Supreme). Following strict chronological
+    FIFO without KDS load balancing creates empty gaps on the conveyor oven belt,
+    wasting heat and lowering hourly ticket throughput.
+- question: What is Make/Bake/Cut synchronization in a pizzeria?
+  answer: Make/Bake/Cut synchronization is the operational alignment of raw dough
+    preparation, 7-minute conveyor oven bake times, and cut-table box labeling so
+    that all items in a customer's order exit the oven tunnel within 30 seconds of
+    each other.
 ---
-
 The number one reason your Friday night dinner rush falls apart is not because you need more people on the line. I managed high-volume pizza operations for years and watched this breakdown happen every single weekend. The real throughput killer is how your **Kitchen Display System (KDS)** routes tickets—and more importantly, how your makeline team responds to that routing. 
 
 If you get ticket sequencing wrong, no amount of extra labor or slapping speed will fix it.
@@ -27,6 +38,10 @@ If you get ticket sequencing wrong, no amount of extra labor or slapping speed w
 The Pizza Hut KDS is a highly specific piece of digital architecture. When it routes a ticket from the Point of Sale (POS) register to the overhead kitchen prep screens, it assumes a calibrated mathematical flow. But when your line cooks start cherry-picking tickets instead of following the strict algorithmic sequence, your physical oven belt flow gets completely mangled.
 
 ## 1. The Illusion of "First In, First Out" (FIFO)
+
+![Operational view](../../assets/images/general/generic-fryer.webp)
+
+
 
 In standard food-safety training, we all had **FIFO (First In, First Out)** drilled into our heads. But applying strict chronological FIFO to a digital KDS when you are managing staggered pizza build times is a rookie kitchen mistake.
 

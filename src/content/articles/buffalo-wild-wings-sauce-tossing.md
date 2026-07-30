@@ -1,24 +1,27 @@
 ---
-title: "Buffalo Wild Wings Sauce Tossing: The Real Process"
-description: "Buffalo Wild Wings sauces every wing to order. Learn the exact tossing method, sauce ratios, and why over-coating ruins the wing."
-pubDate: "2025-08-13"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Buffalo Wild Wings"
-topic: "Chicken"
+title: 'Buffalo Wild Wings Sauce Tossing: The Real Process'
+description: Buffalo Wild Wings sauces every wing to order. Learn the exact tossing
+  method, sauce ratios, and why over-coating ruins the wing.
+pubDate: '2025-08-13'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Buffalo Wild Wings
+topic: Chicken
 relatedArticles:
-  - "wingstop-sauce-process"
-  - "kfc-pressure-fryers"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- wingstop-sauce-process
+- kfc-pressure-fryers
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Why do my boneless wings sometimes seem dry at Buffalo Wild Wings?"
-    answer: "The breading on boneless wings rapidly absorbs sauce. Even if the kitchen applies the correct calibrated amount of sauce, a short delay in serving can make the wings appear dry by the time they reach the table."
-  - question: "How does the sauce tossing bucket work?"
-    answer: "The specialized tossing buckets have textured interior walls. When wings are aggressively shaken, the friction helps emulsify the sauce and creates micro-abrasions on the wing skin, allowing the sauce to bond evenly."
+- question: Why do my boneless wings sometimes seem dry at Buffalo Wild Wings?
+  answer: The breading on boneless wings rapidly absorbs sauce. Even if the kitchen
+    applies the correct calibrated amount of sauce, a short delay in serving can make
+    the wings appear dry by the time they reach the table.
+- question: How does the sauce tossing bucket work?
+  answer: The specialized tossing buckets have textured interior walls. When wings
+    are aggressively shaken, the friction helps emulsify the sauce and creates micro-abrasions
+    on the wing skin, allowing the sauce to bond evenly.
 ---
-
 ## The Chaos of the Fry Station
 
 If you've never stood behind the line at a Buffalo Wild Wings on a Sunday afternoon during football season, you can't fully appreciate the controlled pandemonium that makes this chain work. Tickets are printing non-stop. Every single one demands a different combination of wing type, count, and sauce. One ticket wants 20 traditional Medium, the next wants 6 boneless Mango Habanero, and the one behind it is a party platter split across four sauces. The kitchen display screen is a wall of orange and red.
@@ -29,7 +32,7 @@ If you've never stood behind the line at a Buffalo Wild Wings on a Sunday aftern
 
 The entire operation hinges on two positions: the fry cook and the sauce tosser. The fry cook is the engine. The tosser is the transmission. If either one falls behind, the whole restaurant feels it within minutes — ticket times balloon, servers start hovering, and managers start jumping on the line. There's no hiding. BWW kitchens are built around the fryer and the sauce station, and during peak hours, those two stations are the loudest, hottest, most demanding spots in any casual dining kitchen in the country.
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## The Wing Cook Process and Fryer Setup
 
@@ -91,7 +94,7 @@ Dry rubs — Desert Heat, Lemon Pepper, Salt & Vinegar, [Chipotle](/articles/cha
 
 ### Timing Is Everything
 
-Wings destined for a dry rub must be tossed **immediately** out of the fryer. Not 30 seconds later. Not after you finish the wet sauce order in front of it. Immediately. Here's why: the residual oil on the wing's surface is what makes the dry rub adhere. That oil is hottest and most "active" in the first few seconds after pulling. If the wings sit for even a minute, the surface oil begins to cool and absorb back into the skin. At that point, the dry rub just slides off and collects at the bottom of the bucket — and you've got bland wings and wasted seasoning.
+Wings destined for a dry rub must be tossed **immediately** out of the fryer. Not 30 seconds later. Not after you finish the wet sauce order in front of it. Immediately. Actually: the residual oil on the wing's surface is what makes the dry rub adhere. That oil is hottest and most "active" in the first few seconds after pulling. If the wings sit for even a minute, the surface oil begins to cool and absorb back into the skin. At that point, the dry rub just slides off and collects at the bottom of the bucket — and you've got bland wings and wasted seasoning.
 
 ### The Technique
 

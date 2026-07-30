@@ -1,23 +1,25 @@
 ---
-title: "White Castle Slider: The Steam Grill Method"
-description: "White Castle steams every slider on a bed of onions. The five-hole patty exists for a specific engineering reason, and the steam-grill method is what creates that signature taste."
-pubDate: "2025-12-18"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "White Castle"
-topic: "Burgers"
+title: 'White Castle Slider: The Steam Grill Method'
+description: White Castle steams every slider on a bed of onions. The five-hole patty
+  exists for a specific engineering reason, and the steam-grill method is what creates
+  that signature taste.
+pubDate: '2025-12-18'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: White Castle
+topic: Burgers
 faq:
-  - question: "Why doesn't White Castle flip their burgers?"
-    answer: "Because the steam rising through the five holes in the patty cooks the meat from the inside out and bottom up simultaneously."
-  - question: "What is the main operational bottleneck at White Castle?"
-    answer: "Historically, it was the speed and evenness of cooking on a standard flat-top. The five-hole patty and steam-grill method solved this."
+- question: Why doesn't White Castle flip their burgers?
+  answer: Because the steam rising through the five holes in the patty cooks the meat
+    from the inside out and bottom up simultaneously.
+- question: What is the main operational bottleneck at White Castle?
+  answer: Historically, it was the speed and evenness of cooking on a standard flat-top.
+    The five-hole patty and steam-grill method solved this.
 relatedArticles:
-  - "mcdonalds-fry-station"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- mcdonalds-fry-station
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 7.  Why Are White Castle Sliders Steamed Instead of Grilled?
 
 
@@ -29,7 +31,7 @@ I've spent a decade in QSR kitchens, and the White Castle method remains one of 
 
 ## The Grill and the Onion Bed
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -62,7 +64,7 @@ So White Castle kept using them. What started as a wartime substitution became a
 
 ## The Five-Hole Patty
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 This is the most visually distinctive feature of a White Castle slider, and it's also the most functionally important part of the entire cooking process.
 

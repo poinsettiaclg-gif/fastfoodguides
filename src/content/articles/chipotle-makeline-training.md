@@ -1,24 +1,30 @@
 ---
-title: "Chipotle Makeline Training: Surviving the Lunch Rush on Tortilla and Salsa"
-description: "A comprehensive operational walkthrough of Chipotle's front makeline, detailing the division between Tortilla and Salsa stations, portion control math, and rush cadences."
-pubDate: "2024-06-05"
-updatedDate: "2026-07-25"
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit QSR Kitchen Manager"
-chain: "Chipotle"
-topic: "Operations"
+title: 'Chipotle Makeline Training: Surviving the Lunch Rush on Tortilla and Salsa'
+description: A comprehensive operational walkthrough of Chipotle's front makeline,
+  detailing the division between Tortilla and Salsa stations, portion control math,
+  and rush cadences.
+pubDate: '2024-06-05'
+updatedDate: '2026-07-25'
+heroImage: ../../assets/images/general/generic-fryer-2.webp
+author: Russell Roseberry
+authorTitle: Former Multi-Unit QSR Kitchen Manager
+chain: Chipotle
+topic: Operations
 relatedArticles:
-  - "chipotle-fajita-veggie-cut"
-  - "chipotle-grill-validation"
-  - "chipotle-guacamole"
+- chipotle-fajita-veggie-cut
+- chipotle-grill-validation
+- chipotle-guacamole
 faq:
-  - question: "What is the difference between Tortilla and Salsa stations at Chipotle?"
-    answer: "Tortilla is the hot-side station at the beginning of the line where workers steam tortillas, scoop rice, beans, meats, and fajita veggies. Salsa is the cold-side station where workers apply salsas, sour cream, corn, cheese, guacamole, and lettuce before bagging."
-  - question: "Why do Chipotle employees tap the spoon against the meat pan?"
-    answer: "Tapping the serving spoon against the stainless steel divider removes excess liquid marinade or fat and knocks off protruding pieces of meat, ensuring the customer receives an accurate 4-ounce portion without over-portioning inventory."
+- question: What is the difference between Tortilla and Salsa stations at Chipotle?
+  answer: Tortilla is the hot-side station at the beginning of the line where workers
+    steam tortillas, scoop rice, beans, meats, and fajita veggies. Salsa is the cold-side
+    station where workers apply salsas, sour cream, corn, cheese, guacamole, and lettuce
+    before bagging.
+- question: Why do Chipotle employees tap the spoon against the meat pan?
+  answer: Tapping the serving spoon against the stainless steel divider removes excess
+    liquid marinade or fat and knocks off protruding pieces of meat, ensuring the
+    customer receives an accurate 4-ounce portion without over-portioning inventory.
 ---
-
 If you have ever stood in line at a high-volume Chipotle location during a weekday lunch rush, you have witnessed one of the most intense, highly choreographed assembly line operations in the fast-casual restaurant industry.
 
 At peak efficiency, a top-performing Chipotle crew can process between **80 and 110 entrees per hour** across a single makeline—meaning a customized burrito, bowl, or salad is built, wrapped, rung up, and handed to a customer every 35 to 45 seconds. 
@@ -26,6 +32,10 @@ At peak efficiency, a top-performing Chipotle crew can process between **80 and 
 Achieving this velocity without destroying food cost margins requires an obsessive approach to employee onboarding. When a new hire steps behind the counter, they do not simply "make burritos." They are trained on a strict division of labor between two operational zones: **Tortilla** and **Salsa**. Here is the insider breakdown of how Chipotle trains its makeline crew to survive the rush.
 
 ## 1. The Tortilla Station: The Hot Side Foundation
+
+![Operational view](../../assets/images/general/generic-pos.webp)
+
+
 
 The Tortilla station is the anchor of the makeline. Whoever works Tortilla controls the speed and pacing of the entire restaurant. If Tortilla moves slowly, the cashier and Salsa workers stand idle; if Tortilla moves too fast without clear communication, the line crashes into a bottleneck.
 

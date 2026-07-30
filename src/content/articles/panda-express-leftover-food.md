@@ -1,33 +1,35 @@
 ---
-title: "What Happens to Leftover Panda Express Food at Closing?"
-description: "Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, the no take-home rule, and the Panda Cares donation program."
-pubDate: "2025-04-17"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Panda Express"
-topic: "Other Chains"
+title: What Happens to Leftover Panda Express Food at Closing?
+description: Ever wonder what happens to all that leftover Orange Chicken at closing?
+  Learn about the Waste Log, the no take-home rule, and the Panda Cares donation program.
+pubDate: '2025-04-17'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Panda Express
+topic: Other Chains
 relatedArticles:
-  - "panda-express-wok-chef"
-  - "wendys-chili-leftover-hamburgers"
+- panda-express-wok-chef
+- wendys-chili-leftover-hamburgers
 faq:
-  - question: "Can employees eat leftover food during their shift instead of at closing?"
-    answer: "Yes, most Panda Express locations allow employees to eat a meal during their break, but the food must be rung up as an employee meal at a discounted rate. This is separate from the no take-home policy, which specifically applies to leftover food at closing time."
-  - question: "How much food does an average Panda Express location throw away each night?"
-    answer: "It varies widely. A well-managed store with an experienced closing team might throw away only 3 to 5 pounds of food total. A poorly managed store or one hit with an unexpected slow night could throw away 15 to 20 pounds or more."
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: Can employees eat leftover food during their shift instead of at closing?
+  answer: Yes, most Panda Express locations allow employees to eat a meal during their
+    break, but the food must be rung up as an employee meal at a discounted rate.
+    This is separate from the no take-home policy, which specifically applies to leftover
+    food at closing time.
+- question: How much food does an average Panda Express location throw away each night?
+  answer: It varies widely. A well-managed store with an experienced closing team
+    might throw away only 3 to 5 pounds of food total. A poorly managed store or one
+    hit with an unexpected slow night could throw away 15 to 20 pounds or more.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 A single high-volume Panda Express can throw away over 15 pounds of perfectly edible food on a bad closing shift. The steam table is kept looking like a beautiful wall of glistening Orange Chicken and heaping mounds of Chow Mein right until the end, because visual abundance sells. But all of that marketing creates a massive waste problem the moment the last customer walks out.
 
 I've managed closing shifts where we threw away enough food to feed a dozen families. It's one of the most frustrating parts of the job, and it's governed by a system of policies, metrics, and consequences that most customers never see. 
 
 ## The Strict Waste Logging Policy
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -47,7 +49,7 @@ The Waste Log also serves a secondary purpose that most crew members don't think
 
 ## The Cut-Off Time Strategy
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/) to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.

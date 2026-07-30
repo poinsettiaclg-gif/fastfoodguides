@@ -1,23 +1,24 @@
 ---
-title: "Subway Tuna: How It's Actually Made In-Store"
-description: "Subway tuna arrives in sealed pouches and is mixed with mayo in-store daily. This guide details the prep process and what controls the ratio."
-pubDate: "2025-08-25"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Subway"
-topic: "Sandwiches"
+title: 'Subway Tuna: How It''s Actually Made In-Store'
+description: Subway tuna arrives in sealed pouches and is mixed with mayo in-store
+  daily. This guide details the prep process and what controls the ratio.
+pubDate: '2025-08-25'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Subway
+topic: Sandwiches
 relatedArticles:
-  - "subway-bain-fill-line-rule"
+- subway-bain-fill-line-rule
 faq:
-  - question: "Why does the tuna sometimes look watery?"
-    answer: "If the prep worker does not drain the 66.5-ounce cans of skipjack thoroughly before mixing, excess brine seeps into the mayo, creating a watery consistency."
-  - question: "Is the tuna mixed in a machine?"
-    answer: "No, the tuna and mayo are mixed entirely by hand in a large stainless steel bowl using a spoon or spatula to prevent turning it into a puree."
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: Why does the tuna sometimes look watery?
+  answer: If the prep worker does not drain the 66.5-ounce cans of skipjack thoroughly
+    before mixing, excess brine seeps into the mayo, creating a watery consistency.
+- question: Is the tuna mixed in a machine?
+  answer: No, the tuna and mayo are mixed entirely by hand in a large stainless steel
+    bowl using a spoon or spatula to prevent turning it into a puree.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 ## Two Ingredients. That's It.
 
 Subway's tuna salad is made from exactly **two ingredients** mixed together in the restaurant:
@@ -53,7 +54,7 @@ Subway uses **commercial mayonnaise** that arrives in large bags or pouches (not
 
 This ratio surprises most people, but it's standard for commercial tuna salad. The mayo serves as both a binder (holding the tuna together so it's scoopable) and a flavor carrier. Without enough mayo, the tuna salad would be dry, crumbly, and difficult to portion consistently.
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ### Step 3: Mix
 
@@ -78,7 +79,7 @@ When a customer orders a tuna sub, the sandwich artist portions the tuna using a
 
 The tuna goes onto the bread and is spread evenly with a gloved hand or the back of the scoop. Unlike deli meats that are laid in precise patterns, tuna is a spread — it gets distributed across the bread surface.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Lawsuit: "Not Real Tuna"
 

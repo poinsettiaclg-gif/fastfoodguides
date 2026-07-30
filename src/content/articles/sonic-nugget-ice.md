@@ -1,25 +1,26 @@
 ---
-title: "Sonic Nugget Ice: Why Customers Love It"
-description: "Sonic's nugget ice is softer and more chewable than standard ice cubes. Here's the machine that makes it and why the ice type changes how drinks taste."
-pubDate: "2024-08-04"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Sonic Drive-In"
-topic: "Chicken"
+title: 'Sonic Nugget Ice: Why Customers Love It'
+description: Sonic's nugget ice is softer and more chewable than standard ice cubes.
+  Here's the machine that makes it and why the ice type changes how drinks taste.
+pubDate: '2024-08-04'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Sonic Drive-In
+topic: Chicken
 faq:
-  - question: "What kind of ice machine does Sonic use?"
-    answer: "Sonic typically uses high-capacity commercial nugget ice machines made by brands like Hoshizaki or Scotsman."
-  - question: "Can you buy bags of ice at Sonic?"
-    answer: "Yes, most Sonic locations will sell you a 10-pound bag of their famous nugget ice directly from the drive-thru or stall for a few dollars."
+- question: What kind of ice machine does Sonic use?
+  answer: Sonic typically uses high-capacity commercial nugget ice machines made by
+    brands like Hoshizaki or Scotsman.
+- question: Can you buy bags of ice at Sonic?
+  answer: Yes, most Sonic locations will sell you a 10-pound bag of their famous nugget
+    ice directly from the drive-thru or stall for a few dollars.
 relatedArticles:
-  - "sonic-switchboard-how-it-works"
-  - "sonic-carhops-roller-skate"
-  - "starbucks-secret-menu"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- sonic-switchboard-how-it-works
+- sonic-carhops-roller-skate
+- starbucks-secret-menu
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 ## It's Not Regular Ice. It Never Was.
 
 If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. 
@@ -51,7 +52,7 @@ The result is ice that is approximately **80% ice and 20% air**, compared to cub
 
 <div class="callout callout-tip">**ProTip:** Nugget ice machines compress flaked ice into porous pellets. This aerated structure makes the ice satisfyingly chewable but also means the machine requires rigorous descaling to prevent mineral buildup on the internal auger.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## Why Sonic Chose Nugget Ice (And Why Most Chains Don't)
 
@@ -110,7 +111,7 @@ Sonic's drink preparation area is designed around the ice machine as the centerp
 5. For specialty drinks like Slushes, the frozen base comes from a separate **slush machine** and is combined with flavors
 6. A lid and straw go on, and the drink is routed to the carhop or drive-thru window
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### The Speed Challenge
 

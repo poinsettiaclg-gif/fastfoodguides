@@ -1,24 +1,26 @@
 ---
-title: "Bojangles Biscuit Process: Made From Scratch"
-description: "Bojangles bakes biscuits from scratch every 20 minutes. Here is what the prep cook does at 4 AM before the store ever opens."
-pubDate: "2025-05-02"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Bojangles"
-topic: "Chicken"
+title: 'Bojangles Biscuit Process: Made From Scratch'
+description: Bojangles bakes biscuits from scratch every 20 minutes. Here is what
+  the prep cook does at 4 AM before the store ever opens.
+pubDate: '2025-05-02'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Bojangles
+topic: Chicken
 relatedArticles:
-  - "hardees-biscuit-maker-shift"
-  - "chick-fil-a-breading-process"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- hardees-biscuit-maker-shift
+- chick-fil-a-breading-process
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "How many steps are in the Bojangles biscuit process?"
-    answer: "The rigorous Master Biscuit Maker certification involves a 49-step process, requiring the baker to hand-knead, fold, and cut the dough to exact specifications."
-  - question: "What is the biggest bottleneck in making Bojangles biscuits?"
-    answer: "The strict 20-minute freshness rule forces a relentless production rhythm. If a rush depletes inventory faster than the single baker can complete the 49-step cycle, the kitchen hits a hard throughput bottleneck."
+- question: How many steps are in the Bojangles biscuit process?
+  answer: The rigorous Master Biscuit Maker certification involves a 49-step process,
+    requiring the baker to hand-knead, fold, and cut the dough to exact specifications.
+- question: What is the biggest bottleneck in making Bojangles biscuits?
+  answer: The strict 20-minute freshness rule forces a relentless production rhythm.
+    If a rush depletes inventory faster than the single baker can complete the 49-step
+    cycle, the kitchen hits a hard throughput bottleneck.
 ---
-
 ## The Hardest Job in the Kitchen
 
 Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else in terms of difficulty, pressure, and pure physical output: the Biscuit Maker.
@@ -31,7 +33,7 @@ This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is resp
 
 I managed multiple Bojangles locations over several years, and Take it from someone who's been there — without hesitation: the Biscuit Maker position is harder than anything Over the years, at other chains. That includes the [Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift/), which is grueling in its own right, and [Chick-fil-A Breading Process: The Pressure Cooker](/articles/chick-fil-a-breading-process/), which demands serious consistency. But neither of those roles carries the same combination of speed, technique, and sheer volume that Bojangles demands.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The 4:00 AM Arrival
 

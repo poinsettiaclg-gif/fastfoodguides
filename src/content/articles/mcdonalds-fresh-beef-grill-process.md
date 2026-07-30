@@ -1,31 +1,33 @@
 ---
-title: "McDonald's Fresh Beef: The Grill Process"
-description: "McDonald's fresh beef Quarter Pounder is never frozen. Here's how the Blue Glove protocol and clamshell grill process works on every cook."
-pubDate: "2025-07-25"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Burgers"
+title: 'McDonald''s Fresh Beef: The Grill Process'
+description: McDonald's fresh beef Quarter Pounder is never frozen. Here's how the
+  Blue Glove protocol and clamshell grill process works on every cook.
+pubDate: '2025-07-25'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Burgers
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - mcdonalds-nugget-process
-  - mcdonalds-ice-cream-machine-truth
+- mcdonalds-fry-station
+- mcdonalds-nugget-process
+- mcdonalds-ice-cream-machine-truth
 faq:
-  - question: "Is all the beef at McDonald's fresh now?"
-    answer: "No. The fresh beef protocol applies exclusively to the Quarter Pounder patties. Standard 10:1 hamburger and Big Mac patties are still cooked from frozen."
-  - question: "Why is salt and pepper added after cooking?"
-    answer: "Seasoning is applied with a specialized dispenser after the clamshell grill opens. Adding it before would cause the salt to burn onto the Teflon platen."
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: Is all the beef at McDonald's fresh now?
+  answer: No. The fresh beef protocol applies exclusively to the Quarter Pounder patties.
+    Standard 10:1 hamburger and Big Mac patties are still cooked from frozen.
+- question: Why is salt and pepper added after cooking?
+  answer: Seasoning is applied with a specialized dispenser after the clamshell grill
+    opens. Adding it before would cause the salt to burn onto the Teflon platen.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 When McDonald's announced they were switching the Quarter Pounder patty from frozen to fresh beef, the entire fast food industry paused to watch. For decades, the system was built around cooking frozen pucks of meat in massive batches and holding them in warming cabinets. Handling raw, unfrozen beef at that scale, while maintaining ticket times under two minutes, seemed impossible. 
 
 I was running kitchens when this rollout happened. Let me tell you, it was the biggest operational shock to the system I had ever seen. The training manuals were completely rewritten, the grill stations had to be heavily modified, and the line cooks had to learn a completely new rhythm. 
 
 It wasn't just a menu update—it was a total tear-down of the standard operating procedure. Let me lay out the process:
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## The Blue Glove Rule
 

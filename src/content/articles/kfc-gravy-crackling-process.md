@@ -1,25 +1,29 @@
 ---
-title: "KFC Gravy: How Cracklings Make the Difference"
-description: "KFC gravy isn't just a powder packet. Cooks harvest cracklings from the pressure fryer to give the gravy its signature deep flavor and color."
-pubDate: "2025-03-03"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "KFC"
-topic: "Other Chains"
-disclaimerType: "food_safety"
+title: 'KFC Gravy: How Cracklings Make the Difference'
+description: KFC gravy isn't just a powder packet. Cooks harvest cracklings from the
+  pressure fryer to give the gravy its signature deep flavor and color.
+pubDate: '2025-03-03'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: KFC
+topic: Other Chains
+disclaimerType: food_safety
 relatedArticles:
-  - "kfc-pressure-fryers"
-  - "kfc-original-vs-extra-crispy"
+- kfc-pressure-fryers
+- kfc-original-vs-extra-crispy
 faq:
-  - question: "Why do some customers find KFC gravy controversial?"
-    answer: "Because the traditional gravy uses the actual leftover 'crackling' sludge from the bottom of the pressure fryers, some customers unfamiliar with traditional cooking methods are put off by the look of the raw ingredient, though it provides the authentic flavor."
-  - question: "Are all KFC gravies made with real crackling?"
-    answer: "No, in certain regions and franchise locations, the process has been simplified to use purely pre-packaged instant mixtures to save labor and reduce consistency problems."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: Why do some customers find KFC gravy controversial?
+  answer: Because the traditional gravy uses the actual leftover 'crackling' sludge
+    from the bottom of the pressure fryers, some customers unfamiliar with traditional
+    cooking methods are put off by the look of the raw ingredient, though it provides
+    the authentic flavor.
+- question: Are all KFC gravies made with real crackling?
+  answer: No, in certain regions and franchise locations, the process has been simplified
+    to use purely pre-packaged instant mixtures to save labor and reduce consistency
+    problems.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 If you have ever worked in the fast food industry, you know that gravy is usually an afterthought. At most chains, making gravy involves tearing open a foil packet of brown powder, dumping it into a large metal cambro, adding boiling water from the coffee machine, and whisking until your arm falls off. It is cheap, fast, and entirely unremarkable.
 
 KFC does things differently. While they do use a proprietary seasoning packet as a base, the secret ingredient that gives KFC gravy its dark color, rich mouthfeel, and highly specific savory flavor is a back-of-house byproduct known as "crackling."
@@ -27,7 +31,7 @@ KFC does things differently. While they do use a proprietary seasoning packet as
 When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown sludge at the bottom of the deep fryer is actually the foundation of a beloved side dish is a rite of passage.
 
 <div class="callout callout-tip">**ProTip:** The most common mistake new cooks make is failing to distinguish between usable, savory crackling and the entirely burnt sediment at the very bottom. Overly bitter gravy usually means someone scraped the fry pot too aggressively.</div>
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## Harvesting the Crackling
 

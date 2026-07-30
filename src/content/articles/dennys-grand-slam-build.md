@@ -1,29 +1,37 @@
 ---
-title: "Denny's Grand Slam: How the Kitchen Builds It"
-description: "Denny's Grand Slam requires precise timing across four components. Here's how the kitchen coordinates eggs, pancakes, and sides to plate at once."
-pubDate: "2024-12-26"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Denny's"
-topic: "Breakfast & Coffee"
+title: 'Denny''s Grand Slam: How the Kitchen Builds It'
+description: Denny's Grand Slam requires precise timing across four components. Here's
+  how the kitchen coordinates eggs, pancakes, and sides to plate at once.
+pubDate: '2024-12-26'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Denny's
+topic: Breakfast & Coffee
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Are Denny's eggs real or powdered?"
-    answer: "Denny's uses real, freshly cracked eggs for almost all made-to-order requests like over-easy or sunny-side-up. Liquid egg mixtures are sometimes utilized for high-volume scrambled egg orders or omelettes depending on the location, but they are still real eggs."
-  - question: "What temperature does Denny's cook pancakes at?"
-    answer: "Denny's cooks pancakes on a dedicated zone of the flat-top griddle set to approximately 350°F to 375°F. This moderate heat ensures the pancakes cook through without burning the exterior."
+- question: Are Denny's eggs real or powdered?
+  answer: Denny's uses real, freshly cracked eggs for almost all made-to-order requests
+    like over-easy or sunny-side-up. Liquid egg mixtures are sometimes utilized for
+    high-volume scrambled egg orders or omelettes depending on the location, but they
+    are still real eggs.
+- question: What temperature does Denny's cook pancakes at?
+  answer: "Denny's cooks pancakes on a dedicated zone of the flat-top griddle set\
+    \ to approximately 350\xB0F to 375\xB0F. This moderate heat ensures the pancakes\
+    \ cook through without burning the exterior."
 ---
-
 The Grand Slam is probably the most recognizable breakfast plate in American dining. Two eggs, two strips of bacon, two sausage links, two buttermilk pancakes. It sounds simple — and the menu makes it look simple — but landing all four of those components on one plate at the right temperature, at the right time, cooked correctly, is one of the more demanding tickets you can get in a Denny's kitchen. 
 
 I spent almost two years working the grill at a Denny's off I-35 in central Texas, and the Grand Slam was the ticket that separated the competent cooks from the ones who couldn't hack it. Not because any single component is difficult, but because you're juggling four different cook times on the same flat-top surface, and every table wants their eggs a different way. The breakdown below explains the operational process:
 
 ## The Flat-Top Is the Entire Operation
+
+![Operational view](../../assets/images/general/generic-prep.webp)
+
+
 
 Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. 
 

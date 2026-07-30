@@ -2,12 +2,9 @@
   "name": "fastfoodguides.com",
   "type": "module",
   "version": "0.0.1",
-  "engines": {
-    "node": ">=22.12.0"
-  },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node prepare-pages.cjs",
+    "build": "astro build",
     "deploy": "npm run build -- --force && node -e \"fs.rmSync('.wrangler', { recursive: true, force: true })\" && npx wrangler pages deploy dist --project-name=project-planner-seo-hq --branch=master --commit-dirty=true",
     "preview": "astro preview",
     "astro": "astro"
@@ -18,8 +15,9 @@
     "@astrojs/partytown": "^2.1.7",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/tailwind": "^6.0.0",
     "astro": "^6.4.4",
-    "sharp": "^0.35.2"
+    "tailwindcss": "^3.4.3"
   },
   "devDependencies": {}
 }

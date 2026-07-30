@@ -1,31 +1,36 @@
 ---
-title: "How Is Cava Food Made? Inside the Bowl Assembly Line"
-description: "Cava builds every bowl on a three-zone assembly line with strict portion controls. Here is how the kitchen moves hundreds of custom bowls per hour."
-pubDate: "2024-12-16"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Cava"
-topic: "Other Chains"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: How Is Cava Food Made? Inside the Bowl Assembly Line
+description: Cava builds every bowl on a three-zone assembly line with strict portion
+  controls. Here is how the kitchen moves hundreds of custom bowls per hour.
+pubDate: '2024-12-16'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Cava
+topic: Other Chains
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - "sweetgreen-mixing-station"
-  - "chipotle-guacamole"
-  - "chipotle-massive-burrito-rolling"
+- sweetgreen-mixing-station
+- chipotle-guacamole
+- chipotle-massive-burrito-rolling
 faq:
-  - question: "How does Cava maintain portion control on the assembly line?"
-    answer: "Cava uses a strict scoop-and-spade system. Proteins get a 4oz flat scoop, and dips get a 1.5oz standard scoop. Managers also conduct weekly 'portion variance audits' where they randomly weigh completed bowls."
-  - question: "Why does the Cava line sometimes stop moving?"
-    answer: "Bottlenecks usually happen at the Protein & Toppings station, where customers take the longest to decide. However, if the Base Station worker (who controls the pace) stops to wait for an indecisive customer instead of using the 'skip and return' technique, the whole line starves."
+- question: How does Cava maintain portion control on the assembly line?
+  answer: Cava uses a strict scoop-and-spade system. Proteins get a 4oz flat scoop,
+    and dips get a 1.5oz standard scoop. Managers also conduct weekly 'portion variance
+    audits' where they randomly weigh completed bowls.
+- question: Why does the Cava line sometimes stop moving?
+  answer: Bottlenecks usually happen at the Protein & Toppings station, where customers
+    take the longest to decide. However, if the Base Station worker (who controls
+    the pace) stops to wait for an indecisive customer instead of using the 'skip
+    and return' technique, the whole line starves.
 ---
-
 The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully orchestrated panic attack, yet the line keeps moving. Fast.
 
 The secret to Cava's throughput isn't just hustle; it's a meticulously designed assembly line that prevents bottlenecks before they happen.
 
 ## The Three-Zone Layout
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 Cava's makeline is functionally broken down into three zones, and crossing over them is a massive operational faux pas during peak hours.
 

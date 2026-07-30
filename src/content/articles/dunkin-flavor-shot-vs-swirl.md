@@ -1,26 +1,26 @@
 ---
-title: "Dunkin' Flavor Shot vs. Swirl: What's the Difference"
-description: "Dunkin' offers two types of flavor add-ins and most customers don't know the difference. Here's what separates a shot from a swirl in the cup."
-pubDate: "2026-03-17"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Dunkin'"
-topic: "Breakfast & Coffee"
+title: 'Dunkin'' Flavor Shot vs. Swirl: What''s the Difference'
+description: Dunkin' offers two types of flavor add-ins and most customers don't know
+  the difference. Here's what separates a shot from a swirl in the cup.
+pubDate: '2026-03-17'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Dunkin'
+topic: Breakfast & Coffee
 relatedArticles:
-  - "starbucks-cold-bar-frappuccino"
-  - "starbucks-morning-rush"
+- starbucks-cold-bar-frappuccino
+- starbucks-morning-rush
 faq:
-  - question: "Do Dunkin' flavor swirls have dairy?"
-    answer: "Yes, almost all Dunkin' flavor swirls are dairy-based, as they are formulated with sweetened condensed milk. The only exception is the Mocha Swirl, which is dairy-free."
-  - question: "Are Dunkin' flavor shots sweetened?"
-    answer: "No, flavor shots are completely unsweetened and sugar-free. They only provide the flavor extract and aroma, adding virtually zero calories to the drink."
-
-heroImage: "../../assets/images/general/generic-pos-3.jpg"
+- question: Do Dunkin' flavor swirls have dairy?
+  answer: Yes, almost all Dunkin' flavor swirls are dairy-based, as they are formulated
+    with sweetened condensed milk. The only exception is the Mocha Swirl, which is
+    dairy-free.
+- question: Are Dunkin' flavor shots sweetened?
+  answer: No, flavor shots are completely unsweetened and sugar-free. They only provide
+    the flavor extract and aroma, adding virtually zero calories to the drink.
+heroImage: ../../assets/images/general/generic-pos-3.webp
 ---
-
-
-
 I managed a store near a Dunkin' for two years and ate lunch with their shift leads almost every day. The number one thing that drove them insane wasn't the 5 AM alarm or the line out the door—it was the flavor system. At [Starbucks](/articles/chain/starbucks), everything is just "syrup." At Dunkin', the flavoring is split into two completely separate product categories that look different, taste different, and have wildly different calorie counts. Pump the wrong one and you've ruined someone's morning, guaranteed yourself a remake, and backed up the line during the most unforgiving three hours in QSR. 
 
 ## Flavor Swirls: The Sweet, Creamy, Dessert-in-a-Cup Option
@@ -44,7 +44,7 @@ The permanent Swirl lineup typically includes Caramel, Mocha, French Vanilla, an
 
 ## Flavor Shots: The Sugar-Free, Nearly Invisible Alternative
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 If a customer is counting calories, watching their sugar intake, or just wants black coffee with a hint of something extra, they want a Flavor Shot. And here's where the confusion starts for both fresh trainees and customers.
@@ -58,7 +58,7 @@ The distinction between Shots and Swirls is the single most common source of cus
 
 ## The Pump Count Standard: Getting the Ratio Right
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Dunkin' has specific pump counts based on drink size, and getting this wrong changes the flavor intensity dramatically:

@@ -15,10 +15,10 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm install --legacy-peer-deps
+      - run: npm ci
       - run: npm run build
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy dist --project-name=project-planner-seo-hq
+          command: pages deploy dist --project-name=project-planner-seo-hq --branch=master

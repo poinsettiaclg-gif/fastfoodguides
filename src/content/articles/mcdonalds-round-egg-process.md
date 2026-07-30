@@ -1,19 +1,21 @@
 ---
-title: "The McDonald's Round Egg Process"
-description: "How McDonald's cooks real, fresh round eggs for the Egg McMuffin using the 8-ring egg cooker and steam process."
-pubDate: "2026-07-30"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
-chain: "mcdonalds"
-topic: "operations"
-heroImage: "../../assets/images/general/generic-grill-3.jpg"
+title: The McDonald's Round Egg Process
+description: How McDonald's cooks real, fresh round eggs for the Egg McMuffin using
+  the 8-ring egg cooker and steam process.
+pubDate: '2026-07-30'
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
+chain: mcdonalds
+topic: operations
+heroImage: ../../assets/images/general/generic-grill-3.webp
 faq:
-  - question: "Are McDonald's round eggs actually real eggs?"
-    answer: "Yes, the round egg used on the Egg McMuffin is a Grade A large whole egg cracked fresh onto the grill."
-  - question: "Why do they put water on the grill when cooking the eggs?"
-    answer: "The water turns to steam immediately when the lid is closed, cooking the top of the egg while the grill cooks the bottom."
+- question: Are McDonald's round eggs actually real eggs?
+  answer: Yes, the round egg used on the Egg McMuffin is a Grade A large whole egg
+    cracked fresh onto the grill.
+- question: Why do they put water on the grill when cooking the eggs?
+  answer: The water turns to steam immediately when the lid is closed, cooking the
+    top of the egg while the grill cooks the bottom.
 ---
-
 The reality of the breakfast shift at McDonald’s is that the grill area becomes a warzone by 7:00 AM. Between the folded eggs, scrambled eggs, and sausage patties, the star of the show is always the round egg. Unlike the folded eggs, which come pre-cooked and flash-frozen in a liquid mixture, the round egg—the one that goes on the iconic Egg McMuffin—is a real, whole egg cracked fresh to order. If you've ever wondered how they get it perfectly round and cooked through without flipping it, this is the exact breakdown of the station.
 
 ## The Egg Ring Setup
@@ -30,7 +32,7 @@ Once the rings are down and hot, the process moves extremely fast. The grill per
 
 What actually happens when a shell fragment drops into the ring? The trainee panics. The protocol is to fish it out immediately with a small spatula or a gloved finger before the egg whites set. If the egg white sets around the shell, the entire egg goes into the waste bucket. We don't serve crunchy Egg McMuffins.
 
-![Egg cooking setup](../../assets/images/general/generic-baking-3.jpg)
+![Egg cooking setup](../../assets/images/general/generic-baking-3.webp)
 
 After the eggs are in the rings, the next step is breaking the yolks. This is highly debated among customers, but standard McDonald's operating procedure dictates breaking the yolk. The grill cook takes a specialized spatula and lightly taps the center of each yolk. This ensures the yolk cooks evenly and doesn't explode when the customer bites into the sandwich. 
 

@@ -1,26 +1,36 @@
 ---
-title: "Your First Day at McDonald's: What Actually Happens (From a Manager Who Ran Orientation)"
-description: "A realistic walkthrough of what your first day at McDonald's looks like, from the paperwork to your first station assignment. Written by a former QSR manager who trained hundreds of new crew members."
-pubDate: "2026-05-18"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Training"
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+title: 'Your First Day at McDonald''s: What Actually Happens (From a Manager Who Ran
+  Orientation)'
+description: A realistic walkthrough of what your first day at McDonald's looks like,
+  from the paperwork to your first station assignment. Written by a former QSR manager
+  who trained hundreds of new crew members.
+pubDate: '2026-05-18'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Training
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 relatedArticles:
-  - "mcdonalds-fry-station"
+- mcdonalds-fry-station
 faq:
-  - question: "What should I wear to my first day at McDonald's?"
-    answer: "Wear the uniform provided by your manager (usually a shirt and hat), dark pants (usually black slacks or jeans without rips), and slip-resistant shoes. Slip-resistant shoes are absolutely mandatory for safety."
-  - question: "Do you get paid for orientation at McDonald's?"
-    answer: "Yes, orientation and all training hours are fully paid at your normal hourly rate. It is illegal for any restaurant to require unpaid training."
+- question: What should I wear to my first day at McDonald's?
+  answer: Wear the uniform provided by your manager (usually a shirt and hat), dark
+    pants (usually black slacks or jeans without rips), and slip-resistant shoes.
+    Slip-resistant shoes are absolutely mandatory for safety.
+- question: Do you get paid for orientation at McDonald's?
+  answer: Yes, orientation and all training hours are fully paid at your normal hourly
+    rate. It is illegal for any restaurant to require unpaid training.
 ---
 I ran orientation at a high-volume store for about two years. In that time, I onboarded somewhere around 200 crew members. Some of them lasted a decade. Most didn't make it past their second week. The ones who survived almost always had one thing in common: they showed up on day one with realistic expectations instead of anxiety about things that don't actually matter.
 
 So here's what your first day at a McDonald's actually looks like, from someone who stood on the other side of the counter and watched hundreds of people walk through that crew entrance for the first time.
 
 ## Before You Show Up
+
+![Operational view](../../assets/images/general/generic-grill.webp)
+
+
 
 Your hiring manager should have already told you what time to arrive, where to enter (usually the back crew door, not the front counter), and what to bring. If they didn't tell you clearly, here's the baseline:
 

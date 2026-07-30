@@ -1,24 +1,30 @@
 ---
-title: "In-N-Out Double-Double Assembly: The Anatomy of the Board Station"
-description: "A granular look at the In-N-Out Board Station, detailing the exact build order, the Thousand Island spread technique, ticket prioritization, and the spatial logistics of the Double-Double."
-pubDate: "2025-05-21"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "In-N-Out Burger"
-topic: "Burgers"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'In-N-Out Double-Double Assembly: The Anatomy of the Board Station'
+description: A granular look at the In-N-Out Board Station, detailing the exact build
+  order, the Thousand Island spread technique, ticket prioritization, and the spatial
+  logistics of the Double-Double.
+pubDate: '2025-05-21'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: In-N-Out Burger
+topic: Burgers
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - in-n-out-board-station
-  - in-n-out-animal-style-fries
-  - fast-food-beginner-tips-starting-out
+- in-n-out-board-station
+- in-n-out-animal-style-fries
+- fast-food-beginner-tips-starting-out
 faq:
-  - question: "Why does In-N-Out put tomatoes under the lettuce?"
-    answer: "Placing the tomato slice directly above the spread and below the hand-leafed iceberg lettuce acts as a structural moisture barrier. It prevents the lettuce from wilting against warm spread and keeps the bottom bun from absorbing tomato juice and turning soggy."
-  - question: "What does 'Animal Style' mean for burger assembly at the board?"
-    answer: "When a burger is ordered Animal Style, the Board worker adds pickles to the bottom bun setup and applies extra spread, while the grill cook mustard-fries the beef patties and tops them with grilled caramelized onions."
+- question: Why does In-N-Out put tomatoes under the lettuce?
+  answer: Placing the tomato slice directly above the spread and below the hand-leafed
+    iceberg lettuce acts as a structural moisture barrier. It prevents the lettuce
+    from wilting against warm spread and keeps the bottom bun from absorbing tomato
+    juice and turning soggy.
+- question: What does 'Animal Style' mean for burger assembly at the board?
+  answer: When a burger is ordered Animal Style, the Board worker adds pickles to
+    the bottom bun setup and applies extra spread, while the grill cook mustard-fries
+    the beef patties and tops them with grilled caramelized onions.
 ---
-
 The [In-N-Out](/articles/in-n-out-board-station) kitchen operates on a strict, highly synchronized hierarchy. The fry cook handles the fresh potato cutters and high-capacity fryers, the grill cook manages the 400°F flat-top griddle, and the Board worker stands between them as the culinary traffic controller, responsible for the final assembly of every single burger.
 
 While the grill cook gets the visual glory of searing beef and flipping patties, the Board is where the real operational bottleneck happens. The Board worker must memorize every custom modifier (extra toast, light spread, whole grilled onion, protein style) and execute the build with extreme speed while maintaining visual perfection.
@@ -26,6 +32,10 @@ While the grill cook gets the visual glory of searing beef and flipping patties,
 As someone who has managed high-volume QSR kitchens for a decade, I consider the In-N-Out Board station one of the most impressive displays of line ergonomics in the restaurant industry. Let's break down how the classic Double-Double is built at the Board, the mechanics of bun dressing, and how line rhythm dictates speed.
 
 ## 1. The Foundation: Bun Prep and The 1-Swipe Spread Rule
+
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
 
 Before the meat even leaves the grill, the Board worker receives the freshly toasted sponge dough buns from the bun toaster. The structural integrity of the entire burger relies on what happens in these critical first five seconds.
 

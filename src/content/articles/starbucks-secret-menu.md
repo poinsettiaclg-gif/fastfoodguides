@@ -1,24 +1,26 @@
 ---
-title: "Starbucks Secret Menu: The Truth From Behind the Bar"
-description: "The Starbucks secret menu doesn't officially exist. Here's why baristas dread it, how they handle custom orders, and what actually goes into making them."
-pubDate: "2025-06-19"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Coffee"
+title: 'Starbucks Secret Menu: The Truth From Behind the Bar'
+description: The Starbucks secret menu doesn't officially exist. Here's why baristas
+  dread it, how they handle custom orders, and what actually goes into making them.
+pubDate: '2025-06-19'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Coffee
 relatedArticles:
-  - "starbucks-cold-bar-frappuccino"
-  - "starbucks-morning-rush"
-
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
+- starbucks-cold-bar-frappuccino
+- starbucks-morning-rush
+heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
-  - question: "Will a barista refuse to make a 'secret menu' drink?"
-    answer: "No, as long as you can provide the recipe using Starbucks' available ingredients. They won't refuse a custom drink — they'll refuse to guess at a recipe they don't know."
-  - question: "Are 'secret menu' drinks available on the Starbucks app?"
-    answer: "Not by their social media names, but you can build them using the app's customization options. This is actually the best way to order complex custom drinks."
+- question: Will a barista refuse to make a 'secret menu' drink?
+  answer: "No, as long as you can provide the recipe using Starbucks' available ingredients.\
+    \ They won't refuse a custom drink \u2014 they'll refuse to guess at a recipe\
+    \ they don't know."
+- question: Are 'secret menu' drinks available on the Starbucks app?
+  answer: Not by their social media names, but you can build them using the app's
+    customization options. This is actually the best way to order complex custom drinks.
 ---
-
 7. Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
 
 Starbucks does not have a secret menu. There is no laminated card hidden under the register. There is no special screen on the POS system that unlocks when you say the right password. There is no training module where baristas learn to make the “Cotton Candy Frappuccino” or the “Butterbeer Latte.” None of that exists. 
@@ -27,7 +29,7 @@ What people call the Starbucks “secret menu” is actually just a collection o
 
 ## How the “Secret Menu” Myth Got Started
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -43,7 +45,7 @@ That's a perfectly reasonable position. The problem is that most customers don't
 
 ## Why This Drives Baristas Up the Wall
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 Imagine you're working the bar during the [morning rush](/articles/starbucks-morning-rush), which at most Starbucks locations means a steady stream of 30 to 50 drinks per half hour. The store is loud. The espresso machine is pulling shots. The blender is running. The mobile order printer is spitting out tickets faster than you can read them. You are in survival mode.
 

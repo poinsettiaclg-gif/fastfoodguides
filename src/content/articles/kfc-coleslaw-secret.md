@@ -1,31 +1,31 @@
 ---
-title: "The Secret to KFC Coleslaw: Why It Sits Overnight"
-description: "Discover why KFC coleslaw must rest for 12 hours before serving. An insider breakdown of the fine chop, proprietary dressing, and maceration science."
-pubDate: "2025-12-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "KFC"
-topic: "Chicken"
+title: 'The Secret to KFC Coleslaw: Why It Sits Overnight'
+description: Discover why KFC coleslaw must rest for 12 hours before serving. An insider
+  breakdown of the fine chop, proprietary dressing, and maceration science.
+pubDate: '2025-12-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: KFC
+topic: Chicken
 relatedArticles:
-  - "kfc-original-vs-extra-crispy"
-  - "kfc-pressure-fryers"
+- kfc-original-vs-extra-crispy
+- kfc-pressure-fryers
 faq:
-  - question: "Why is KFC coleslaw chopped so finely?"
-    answer: "The 'rice-sized' confetti chop increases surface area, allowing the proprietary dressing to fully penetrate and break down the cabbage fibers during the overnight rest."
-  - question: "What makes KFC coleslaw dressing unique?"
-    answer: "The dressing is a carefully balanced ratio of mayonnaise, sugar, buttermilk, and vinegar that relies on osmosis to extract water from the cabbage over 12 hours."
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: Why is KFC coleslaw chopped so finely?
+  answer: The 'rice-sized' confetti chop increases surface area, allowing the proprietary
+    dressing to fully penetrate and break down the cabbage fibers during the overnight
+    rest.
+- question: What makes KFC coleslaw dressing unique?
+  answer: The dressing is a carefully balanced ratio of mayonnaise, sugar, buttermilk,
+    and vinegar that relies on osmosis to extract water from the cabbage over 12 hours.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
-
-
 One operational reality often surprises new KFC hires: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet. 
 
 ## The Fine Chop: Why Confetti, Not Shreds
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -51,7 +51,7 @@ The reality is that veterans know the correct ratio by sight and feel. Every pie
 
 ## The Mandatory 12-Hour Maceration
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is the step that makes KFC coleslaw fundamentally different from anything you'd make at home. KFC has a strict corporate policy: freshly mixed coleslaw must sit in the walk-in refrigerator for a minimum of 12 hours—preferably overnight—before a single spoonful can be served to a customer.

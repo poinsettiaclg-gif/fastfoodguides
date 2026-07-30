@@ -1,21 +1,22 @@
 ---
-title: "How to Memorize Starbucks Syrup Pump Ratios Fast"
-description: "Overwhelmed by your first week on bar? Here is the actual logic behind Starbucks pump counts for hot bar, cold bar, and frapps so you don't have to guess."
-pubDate: "2024-08-30"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Starbucks"
-topic: "Coffee"
-
-heroImage: "../../assets/images/general/generic-pos-3.jpg"
+title: How to Memorize Starbucks Syrup Pump Ratios Fast
+description: Overwhelmed by your first week on bar? Here is the actual logic behind
+  Starbucks pump counts for hot bar, cold bar, and frapps so you don't have to guess.
+pubDate: '2024-08-30'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Starbucks
+topic: Coffee
+heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
-  - question: "What is a 'pump' in terms of volume?"
-    answer: "A single full hot bar pump of thin syrup generally equals about 0.25 fluid ounces, whereas thick sauces dispense about 0.5 fluid ounces per pump."
-  - question: "How do I cut sweetness without changing the drink profile?"
-    answer: "You don't need to change the size; simply ask for 'half the syrup' or specify a lower number of pumps (e.g., '2 pumps of vanilla instead of 4')."
+- question: What is a 'pump' in terms of volume?
+  answer: A single full hot bar pump of thin syrup generally equals about 0.25 fluid
+    ounces, whereas thick sauces dispense about 0.5 fluid ounces per pump.
+- question: How do I cut sweetness without changing the drink profile?
+  answer: You don't need to change the size; simply ask for 'half the syrup' or specify
+    a lower number of pumps (e.g., '2 pumps of vanilla instead of 4').
 ---
-
 If you've just been hired at Starbucks, you are about to consume more caffeine in a single week than most people do in a month. But before you can get comfortable, you have to survive "Bar Training." 
 
 The most common reason new baristas panic during the morning rush is forgetting how many pumps of syrup go into a drink. Staring blankly at a Venti Iced Caramel Macchiato ticket while the line stretches to the door is a rite of passage.
@@ -37,7 +38,7 @@ If a customer orders a Grande Vanilla Latte, it gets 4 pumps of Vanilla. If they
 
 <div class="callout callout-tip">**ProTip:** Always pump the syrup into the cup *before* pulling the espresso shots. The heat and pressure of the espresso hitting the syrup is what mixes the drink. If you pump syrup on top of the milk, the customer will get a mouthful of unflavored milk and a thick layer of pure sugar at the bottom.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ## The Iced Venti Exception
 
@@ -70,7 +71,7 @@ For Frappuccinos, the rule is the **2-3-4 Rule** (Tall, Grande, Venti).
 *   **Grande:** 3 pumps (Frap Roast) + 3 pumps (Syrup)
 *   **Venti:** 4 pumps (Frap Roast) + 4 pumps (Syrup)
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">**ProTip:** If you run out of a CBS syrup pump during a rush and have to use a Hot Bar pump for a Frappuccino, you must cut the recipe in half. A Grande Frappuccino needs 3 CBS pumps. If you only have a Hot Bar pump, use 1.5 pumps. If you use 3 full Hot Bar pumps, the Frappuccino will be pure liquid sugar and won't blend correctly.</div>
 

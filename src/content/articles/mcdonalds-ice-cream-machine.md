@@ -1,25 +1,28 @@
 ---
-title: "McDonald's Ice Cream Machine: Why It's Broken"
-description: "The ice cream machine requires a nightly heat cycle that locks it for hours. Here is why it breaks and what the full cleaning cycle involves."
-pubDate: "2025-12-13"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Burgers"
+title: 'McDonald''s Ice Cream Machine: Why It''s Broken'
+description: The ice cream machine requires a nightly heat cycle that locks it for
+  hours. Here is why it breaks and what the full cleaning cycle involves.
+pubDate: '2025-12-13'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Burgers
 faq:
-  - question: "Why are McDonald's ice cream machines always broken?"
-    answer: "It is rarely 'broken' in the traditional sense; it is often in a mandatory, hours-long automated heat-treatment mode to kill bacteria or is locked out due to a failed maintenance cycle."
-  - question: "Can McDonald's fix their ice cream machines?"
-    answer: "Recent years have seen increased focus on 'right to repair' initiatives, which aim to make it easier for franchisees to diagnose and repair their own equipment rather than relying exclusively on the manufacturer's technicians."
+- question: Why are McDonald's ice cream machines always broken?
+  answer: It is rarely 'broken' in the traditional sense; it is often in a mandatory,
+    hours-long automated heat-treatment mode to kill bacteria or is locked out due
+    to a failed maintenance cycle.
+- question: Can McDonald's fix their ice cream machines?
+  answer: Recent years have seen increased focus on 'right to repair' initiatives,
+    which aim to make it easier for franchisees to diagnose and repair their own equipment
+    rather than relying exclusively on the manufacturer's technicians.
 relatedArticles:
-  - "mcdonalds-nugget-process"
-  - "mcdonalds-abs-system"
-  - "mcdonalds-pos-crash"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- mcdonalds-nugget-process
+- mcdonalds-abs-system
+- mcdonalds-pos-crash
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
 ## It's Not Actually Broken (Most of the Time)
 
 I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think we're just being lazy. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
@@ -44,7 +47,7 @@ Here's what's inside:
 
 The air incorporation is critical. Soft-serve is typically 30–60% air by volume — this is called **overrun**. Without the right amount of air, the product would be too dense and icy. Too much air and it would be foamy and melt instantly.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Heat Cycle: Why the Machine Locks Itself
 
@@ -61,7 +64,7 @@ To handle this, the machine runs an automated **heat pasteurization cycle**, typ
 
 **During this entire cycle, the machine cannot dispense product.** The control panel locks out the dispensing function. If a crew member tries to override it, the machine throws an error.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### When Things Go Wrong
 

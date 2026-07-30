@@ -1,24 +1,28 @@
 ---
-title: "Subway POS Down: How Staff Handle a Cash-Only Shift"
-description: "When Subway's POS system goes offline, everything shifts to manual entry. Here's how staff manage orders, cash, and the receipt printer during an outage."
-pubDate: "2025-05-17"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Subway"
-topic: "Sandwiches"
+title: 'Subway POS Down: How Staff Handle a Cash-Only Shift'
+description: When Subway's POS system goes offline, everything shifts to manual entry.
+  Here's how staff manage orders, cash, and the receipt printer during an outage.
+pubDate: '2025-05-17'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Subway
+topic: Sandwiches
 relatedArticles:
-  - "subway-bread-baking-process"
-  - "subway-bain-fill-line-rule"
-  - "subway-wrap-folding"
-heroImage: "../../assets/images/general/generic-pos-3.jpg"
+- subway-bread-baking-process
+- subway-bain-fill-line-rule
+- subway-wrap-folding
+heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
-  - question: "Does Subway POS have an offline mode for credit cards?"
-    answer: "Yes, many modern Subway POS systems support an Offline Store-and-Forward mode. It securely stores card swipes locally and processes them once internet is restored, subject to a strict floor limit (usually $25-$50) to minimize fraud risk."
-  - question: "Can I use the Subway app or gift cards if the internet is down?"
-    answer: "No. Third-party app orders, digital rewards, and physical gift cards require live database verification. When the POS is offline, those systems cannot be accessed."
+- question: Does Subway POS have an offline mode for credit cards?
+  answer: Yes, many modern Subway POS systems support an Offline Store-and-Forward
+    mode. It securely stores card swipes locally and processes them once internet
+    is restored, subject to a strict floor limit (usually $25-$50) to minimize fraud
+    risk.
+- question: Can I use the Subway app or gift cards if the internet is down?
+  answer: No. Third-party app orders, digital rewards, and physical gift cards require
+    live database verification. When the POS is offline, those systems cannot be accessed.
 ---
-
 The most stressful moment in any quick-service restaurant is not a line out the door during the Friday lunch rush. It is hearing the sudden, ominous beep of the Point of Sale (POS) terminal losing network connectivity right as you try to ring up a line of 15 impatient customers.
 
 In a modern Subway kitchen, everything revolves around digital integration. The POS terminal connects to cloud servers, app-based mobile ordering queues, credit card payment gateways, and inventory deduction databases. When a local internet service provider drops an outage, a router overheats in the back office, or a corporate software update pushes through at the wrong time, the entire digital infrastructure freezes. 
@@ -89,7 +93,7 @@ To access the till for cash-only transactions, the shift leader must use the **M
 
 In stores equipped with Kitchen Display Systems (KDS) or remote sandwich preparation receipt printers (often used for drive-thru or digital make lines), a network drop breaks the communication link between the front register and the kitchen printers.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 When the printer loses network communication, its internal buffer memory begins holding print jobs. If line cooks rely on printed tickets to assemble sandwiches, the shift leader must immediately assign an expeditor at the front register. The expeditor manually calls out sandwich builds ("Footlong Italian B.M.T. on White, toasted, toasted with Provolone!") directly to the line workers, writing the order number on the sandwich wrapping paper with a grease pencil or Sharpie.
 

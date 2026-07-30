@@ -1,32 +1,32 @@
 ---
-title: "Little Caesars Hot-N-Ready: How the System Works"
-description: "Little Caesars keeps pizzas ready without a customer order. Here's the production cadence and what happens when demand outpaces supply."
-pubDate: "2025-10-12"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Little Caesars"
-topic: "Pizza"
+title: 'Little Caesars Hot-N-Ready: How the System Works'
+description: Little Caesars keeps pizzas ready without a customer order. Here's the
+  production cadence and what happens when demand outpaces supply.
+pubDate: '2025-10-12'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Little Caesars
+topic: Pizza
 relatedArticles:
-  - "little-caesars-sheetout-machine"
-  - "dominos-oven-tender-role"
-  - "pizza-hut-dispatch"
+- little-caesars-sheetout-machine
+- dominos-oven-tender-role
+- pizza-hut-dispatch
 faq:
-  - question: "Does Little Caesars use CVap ovens to hold the pizzas?"
-    answer: "While many mistakenly believe they use CVap technology, Little Caesars actually utilizes standard heated display cabinets that maintain a set temperature for the strict 30-minute hold time."
-  - question: "How fast do the conveyor ovens cook the pizzas?"
-    answer: "The impingement-style conveyor ovens use high-velocity hot air to cook a standard pizza in approximately five to eight minutes."
-
-heroImage: "../../assets/images/general/generic-pos.jpg"
+- question: Does Little Caesars use CVap ovens to hold the pizzas?
+  answer: While many mistakenly believe they use CVap technology, Little Caesars actually
+    utilizes standard heated display cabinets that maintain a set temperature for
+    the strict 30-minute hold time.
+- question: How fast do the conveyor ovens cook the pizzas?
+  answer: The impingement-style conveyor ovens use high-velocity hot air to cook a
+    standard pizza in approximately five to eight minutes.
+heroImage: ../../assets/images/general/generic-pos.webp
 ---
-
-
-
 The most stressful job in a Little Caesars isn't making the pizzas; it's predicting exactly when people will buy them. Hand the cashier your money and walk out with a hot pepperoni pizza in under thirty seconds—it sounds like magic to the customer. But the reality is a brutally efficient system of precision holding cabinets, grease-pencil time stamps, and demand forecasting. Every pizza in that warmer is on a strict 30-minute death clock. If your production flow is even slightly off, you're either throwing away hundreds of dollars in wasted food or telling customers to wait eight minutes while the oven catches up. 
 
 ## The Holding Cabinets: Temperature Management
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -40,7 +40,7 @@ The balance is everything. The cabinets are calibrated to corporate specificatio
 
 ## The Clock Marking System: 30 Minutes to Live
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Every pizza that comes out of the oven gets a time stamp, and the system is designed to be fast and completely idiot-proof during a rush.

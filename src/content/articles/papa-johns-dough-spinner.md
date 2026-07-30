@@ -1,31 +1,30 @@
 ---
-title: "What is the Papa John's \"Dough Spinner\" (And Is It Cheating?)"
-description: "An insider look at the Papa John's Dough Spinner machine — how it works, why veterans hate it, and what it means for your pizza crust quality."
-pubDate: "2024-07-21"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Papa John's"
-topic: "Pizza"
+title: What is the Papa John's "Dough Spinner" (And Is It Cheating?)
+description: "An insider look at the Papa John's Dough Spinner machine \u2014 how\
+  \ it works, why veterans hate it, and what it means for your pizza crust quality."
+pubDate: '2024-07-21'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Papa John's
+topic: Pizza
 relatedArticles:
-  - "papa-johns-dough-slapping"
+- papa-johns-dough-slapping
 faq:
-  - question: "Does every Papa John's location have a Dough Spinner?"
-    answer: "No. The decision to purchase one is made at the franchise level."
-  - question: "Can you use the Dough Spinner for all pizza sizes?"
-    answer: "Most newer models have adjustable pressure settings for different sizes, but older machines may need manual finishing for extra-large sizes."
-heroImage: "../../assets/images/general/generic-coffee.jpg"
+- question: Does every Papa John's location have a Dough Spinner?
+  answer: No. The decision to purchase one is made at the franchise level.
+- question: Can you use the Dough Spinner for all pizza sizes?
+  answer: Most newer models have adjustable pressure settings for different sizes,
+    but older machines may need manual finishing for extra-large sizes.
+heroImage: ../../assets/images/general/generic-coffee.webp
 ---
-
-
-
 For decades, making a pizza at Papa John's required one specific physical skill that separated the seasoned Insiders from the terrified green crew members: The Dough Slap. You had to pull a cold, springy dough ball out of the cooler, slap it between your hands, stretch it, spin it, and somehow create a perfectly round 14-inch base without punching a hole through the center. I've watched new employees destroy a dozen dough balls in their first hour, flour flying everywhere, dough stuck to the ceiling. It was a brutal learning curve — and honestly, kind of beautiful when you finally got it right. 
 
 Then the Dough Spinner showed up, and everything changed.
 
 ## What the Dough Spinner Actually Is
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -39,7 +38,7 @@ It hums. There's a constant low electrical hum when it's warmed up and ready to 
 
 ## How the Machine Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Instead of the theatrical slapping and spinning that [Papa John's traditionalists love](/articles/papa-johns-dough-slapping), the process is almost insultingly simple:

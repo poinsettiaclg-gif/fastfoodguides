@@ -1,26 +1,31 @@
 ---
-title: "IHOP Pancake Batter: What's Actually In It"
-description: "IHOP uses a proprietary batter mix that arrives in powdered form. Here is how the batter is prepped each morning and what gives their pancakes the flavor."
-pubDate: "2026-04-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "IHOP"
-topic: "Breakfast & Coffee"
+title: 'IHOP Pancake Batter: What''s Actually In It'
+description: IHOP uses a proprietary batter mix that arrives in powdered form. Here
+  is how the batter is prepped each morning and what gives their pancakes the flavor.
+pubDate: '2026-04-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: IHOP
+topic: Breakfast & Coffee
 faq:
-  - question: "At what temperature does IHOP cook their pancakes?"
-    answer: "IHOP specifically sets its pancake griddles to 350°F to ensure a consistent, even cook."
-  - question: "Does IHOP use butter on the griddle?"
-    answer: "No, IHOP does not use butter, oil, or cooking spray on the griddle. They dry-cook the pancakes to prevent a lacy edge."
+- question: At what temperature does IHOP cook their pancakes?
+  answer: "IHOP specifically sets its pancake griddles to 350\xB0F to ensure a consistent,\
+    \ even cook."
+- question: Does IHOP use butter on the griddle?
+  answer: No, IHOP does not use butter, oil, or cooking spray on the griddle. They
+    dry-cook the pancakes to prevent a lacy edge.
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-  - "wendys-chili-leftover-hamburgers"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+- wendys-chili-leftover-hamburgers
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 ## Does IHOP Actually Make Their Pancake Batter From Scratch?
+
+![Operational view](../../assets/images/general/generic-fryer.webp)
+
+
 
 
 If you've ever eaten a stack of IHOP's Original Buttermilk pancakes and thought “there's no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother's recipe does. But they're also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for. 

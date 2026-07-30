@@ -1,25 +1,28 @@
 ---
-title: "Sweetgreen Morning Prep: What Happens Before Open"
-description: "Sweetgreen's morning prep crew chops, roasts, and portions every ingredient before the store opens. This is the full prep schedule from open to close."
-pubDate: "2026-01-05"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Sweetgreen"
-topic: "Other Chains"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'Sweetgreen Morning Prep: What Happens Before Open'
+description: Sweetgreen's morning prep crew chops, roasts, and portions every ingredient
+  before the store opens. This is the full prep schedule from open to close.
+pubDate: '2026-01-05'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Sweetgreen
+topic: Other Chains
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - "sweetgreen-mixing-station"
-  - "cava-assembly-line"
-  - "chipotle-guacamole"
+- sweetgreen-mixing-station
+- cava-assembly-line
+- chipotle-guacamole
 faq:
-  - question: "Do they really chop all the vegetables by hand every morning?"
-    answer: "While some delicate items are hand-prepped, the bulk of heavy dicing is pushed through commercial Robot Coupe food processors to ensure uniform cuts and save labor hours."
-  - question: "How do they handle local produce variations?"
-    answer: "Because Sweetgreen relies heavily on local farms, prep teams often have to adjust to inconsistencies in produce size and dirt levels, requiring rigorous multi-stage washing."
+- question: Do they really chop all the vegetables by hand every morning?
+  answer: While some delicate items are hand-prepped, the bulk of heavy dicing is
+    pushed through commercial Robot Coupe food processors to ensure uniform cuts and
+    save labor hours.
+- question: How do they handle local produce variations?
+  answer: Because Sweetgreen relies heavily on local farms, prep teams often have
+    to adjust to inconsistencies in produce size and dirt levels, requiring rigorous
+    multi-stage washing.
 ---
-
-
 Listen, there’s something undeniably romantic about the idea of a farm-to-table salad concept. You walk into a Sweetgreen at 12:15 PM, the line is practically out the door, the music is bumping, and a small army of team members is rhythmically tossing vibrant greens and colorful roasted vegetables in massive steel bowls. It looks effortless. It looks fresh. It looks like a perfectly choreographed dance of health and wellness. 
 
 But as a former multi-unit kitchen manager, let me tell you a little secret: that beautiful lunch rush is built on the sweat, adrenaline, and pure mechanical power of the morning prep shift. Long before the first customer contemplates adding double chicken to their Harvest Bowl, the kitchen is a battlefield. Specifically, it is a battlefield focused on processing upwards of 500 pounds of raw vegetables before 10:00 AM. 
@@ -28,7 +31,7 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 ## 6:00 AM: The Arrival and The Assessment
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 

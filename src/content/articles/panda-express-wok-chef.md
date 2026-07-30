@@ -1,33 +1,36 @@
 ---
-title: "How Dangerous is the Wok Chef Job at Panda Express?"
-description: "An inside look at the physical toll, extreme heat, grease burns, and the strict Wok Test required to become a Wok Chef at Panda Express."
-pubDate: "2025-04-04"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Panda Express"
-topic: "Other Chains"
+title: How Dangerous is the Wok Chef Job at Panda Express?
+description: An inside look at the physical toll, extreme heat, grease burns, and
+  the strict Wok Test required to become a Wok Chef at Panda Express.
+pubDate: '2025-04-04'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Panda Express
+topic: Other Chains
 relatedArticles:
-  - "panda-express-leftover-food"
-  - "chipotle-grill-validation"
+- panda-express-leftover-food
+- chipotle-grill-validation
 faq:
-  - question: "How long does it take to pass the Wok Test?"
-    answer: "Most green crew members spend one to three weeks training on the wok before they're allowed to attempt the test. Some people pass on their first try, while others need two or three attempts. It depends on your comfort with high heat, your physical strength, and how quickly you can memorize the recipes."
-  - question: "What happens if you fail the Wok Test?"
-    answer: "If you fail, you continue training for another week or two and then try again. If a new hire fails the test multiple times, the manager will usually reassign them to a different position — front counter, prep, or steam table service."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: How long does it take to pass the Wok Test?
+  answer: Most green crew members spend one to three weeks training on the wok before
+    they're allowed to attempt the test. Some people pass on their first try, while
+    others need two or three attempts. It depends on your comfort with high heat,
+    your physical strength, and how quickly you can memorize the recipes.
+- question: What happens if you fail the Wok Test?
+  answer: "If you fail, you continue training for another week or two and then try\
+    \ again. If a new hire fails the test multiple times, the manager will usually\
+    \ reassign them to a different position \u2014 front counter, prep, or steam table\
+    \ service."
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 I spent my first six months at Panda Express with no hair on my knuckles and a permanent ache in my right shoulder. The wok station isn't just a kitchen job—it's an athletic event. Wok Chefs stand over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce at a speed that would make most home cooks panic. This isn't a flat-top grill job or pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. 
 
 I've trained people across multiple chains, and no exaggeration — honestly — the Panda Express wok station is in a league of its own when it comes to physical punishment. 
 
 ## The Heat and the Fire
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -49,7 +52,7 @@ The environment around the wok station is brutal year-round, but summer is a spe
 
 ## The Physical Toll of the Wok
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 A standard commercial wok at Panda Express, when fully loaded with 8 pounds of battered chicken swimming in thick orange sauce, is incredibly heavy. And you can't just stir it with a ladle and call it done.

@@ -1,24 +1,26 @@
 ---
-title: "Wingstop Sauce Process: Toss, Coat, and Serve"
-description: "Wingstop sauces every wing to order using a toss-and-coat method. Here's how the process works and why the plain-fry-first rule affects every flavor."
-pubDate: "2026-03-20"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wingstop"
-topic: "Chicken"
+title: 'Wingstop Sauce Process: Toss, Coat, and Serve'
+description: Wingstop sauces every wing to order using a toss-and-coat method. Here's
+  how the process works and why the plain-fry-first rule affects every flavor.
+pubDate: '2026-03-20'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wingstop
+topic: Chicken
 faq:
-  - question: "Why doesn't Wingstop pre-sauce their wings?"
-    answer: "Tossing wings in sauce immediately after frying preserves the crispy exterior. Pre-saucing and holding would turn the breading mushy."
-  - question: "How does Wingstop handle so many different flavors?"
-    answer: "The plain-fry method allows the kitchen to cook a generic batch of wings and customize the flavor at the plating station using specific bowls for each sauce."
+- question: Why doesn't Wingstop pre-sauce their wings?
+  answer: Tossing wings in sauce immediately after frying preserves the crispy exterior.
+    Pre-saucing and holding would turn the breading mushy.
+- question: How does Wingstop handle so many different flavors?
+  answer: The plain-fry method allows the kitchen to cook a generic batch of wings
+    and customize the flavor at the plating station using specific bowls for each
+    sauce.
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 7.  How Does Wingstop Make Their Sauces? (The Toss-and-Coat Method)
 
 
@@ -28,7 +30,7 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 ## The Plain Fry — Everything Starts Bare
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -50,7 +52,7 @@ More importantly, saucing to order means the wings are always freshly coated. Th
 
 ## The Toss-and-Coat Technique
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 This is the heart of Wingstop's operation and the step that every new team member has to master before they can work the saucing station.
 
@@ -165,7 +167,7 @@ The breading on boneless wings tends to be slightly thicker than on traditional 
 
 ## What to Know When You Order
 
-Here are a few practical tips based on what I've seen behind the counter:
+Here are a few practical tips based on what Actually behind the counter:
 
 **Don't order during peak football hours if you want speed.** The saucing station backs up hard during NFL Sundays. If you want quick service, order during off-peak times.
 

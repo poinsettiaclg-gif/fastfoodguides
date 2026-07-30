@@ -1,33 +1,32 @@
 ---
-title: "What is \"Mike's Way\" at Jersey Mike's (And the Exact Sequence)"
-description: "Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's, why the order matters, plus meat slicer safety and sandwich line rhythm tips."
-pubDate: "2026-01-09"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Jersey Mike's"
-topic: "Sandwiches"
+title: What is "Mike's Way" at Jersey Mike's (And the Exact Sequence)
+description: Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's, why
+  the order matters, plus meat slicer safety and sandwich line rhythm tips.
+pubDate: '2026-01-09'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Jersey Mike's
+topic: Sandwiches
 relatedArticles:
-  - "jersey-mikes-hot-sub-grill"
-  - "subway-bread-baking-process"
+- jersey-mikes-hot-sub-grill
+- subway-bread-baking-process
 faq:
-  - question: "What is the exact ratio of the Jersey Mike's juice?"
-    answer: "The juice is typically a blend of 75% canola oil and 25% olive oil, mixed with 5% acidity red wine vinegar."
-  - question: "What seasonings are in the Mike's Way shakers?"
-    answer: "They use two distinct shakers: one for dried oregano and a separate silver shaker for salt."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: What is the exact ratio of the Jersey Mike's juice?
+  answer: The juice is typically a blend of 75% canola oil and 25% olive oil, mixed
+    with 5% acidity red wine vinegar.
+- question: What seasonings are in the Mike's Way shakers?
+  answer: 'They use two distinct shakers: one for dried oregano and a separate silver
+    shaker for salt.'
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
-When working at Jersey Mike's, it's vital to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." 
+When working at Jersey Mike's, it's Actually to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." 
 
 If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry. 
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -57,7 +56,7 @@ The tomatoes need to be on top because their flat, wet surface catches and holds
 
 ## The [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/): Speed, Danger, and Respect
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There's no pre-sliced, packaged deli meat anywhere in the operation.

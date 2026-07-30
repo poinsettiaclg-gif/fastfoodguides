@@ -1,33 +1,32 @@
 ---
-title: "The Jersey Mike's \"Hot Sub\" Grill Station: What to Expect"
-description: "A behind-the-scenes look at Jersey Mike's grill station, from raw beef protocols and the chop-and-flip technique to the dreaded bread transfer flip."
-pubDate: "2026-07-08"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Jersey Mike's"
-topic: "Sandwiches"
+title: 'The Jersey Mike''s "Hot Sub" Grill Station: What to Expect'
+description: A behind-the-scenes look at Jersey Mike's grill station, from raw beef
+  protocols and the chop-and-flip technique to the dreaded bread transfer flip.
+pubDate: '2026-07-08'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Jersey Mike's
+topic: Sandwiches
 relatedArticles:
-  - "jersey-mikes-mikes-way"
-  - "arbys-meat-slicer"
+- jersey-mikes-mikes-way
+- arbys-meat-slicer
 faq:
-  - question: "What temperature is the Jersey Mike's grill?"
-    answer: "The commercial flat-top grills are set high enough to perform a 'heat kill' on pathogens, bringing the meat to a food-safe 165°F."
-  - question: "Why do they use different spatulas?"
-    answer: "Color-coded spatulas (like red for steak and yellow for chicken) are strictly used to prevent cross-contamination between different raw proteins."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: What temperature is the Jersey Mike's grill?
+  answer: "The commercial flat-top grills are set high enough to perform a 'heat kill'\
+    \ on pathogens, bringing the meat to a food-safe 165\xB0F."
+- question: Why do they use different spatulas?
+  answer: Color-coded spatulas (like red for steak and yellow for chicken) are strictly
+    used to prevent cross-contamination between different raw proteins.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way/))*
 
 The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef on a real flat-top grill. There's nothing pre-cooked, microwaved, or processed about it. And that distinction is exactly what makes this station both the most rewarding and the most physically punishing position in the store. 
 
 ## Raw Beef, Raw Chicken, and Zero Margin for Error
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -47,7 +46,7 @@ It sounds extreme, but here's the reality: health inspectors know that operation
 
 ## The Chop-and-Flip Technique That Destroys Your Forearms
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep. Here's the sequence:

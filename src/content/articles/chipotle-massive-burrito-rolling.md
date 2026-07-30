@@ -1,34 +1,33 @@
 ---
-title: "The Secret to Rolling a Massive Double-Meat Chipotle Burrito"
-description: "Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required to safely wrap a massive, over-stuffed Chipotle burrito without breaking the tortilla."
-pubDate: "2025-01-02"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chipotle"
-topic: "Mexican"
+title: The Secret to Rolling a Massive Double-Meat Chipotle Burrito
+description: Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required
+  to safely wrap a massive, over-stuffed Chipotle burrito without breaking the tortilla.
+pubDate: '2025-01-02'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chipotle
+topic: Mexican
 relatedArticles:
-  - "chipotle-fajita-veggie-cut"
-  - "chipotle-grill-validation"
-  - "subway-wrap-folding"
+- chipotle-fajita-veggie-cut
+- chipotle-grill-validation
+- subway-wrap-folding
 faq:
-  - question: "What is the most common reason a burrito tears during the roll?"
-    answer: "A cold tortilla. If the tortilla was not properly warmed on the press, it will be stiff and brittle, and it will crack the moment you try to fold it."
-  - question: "Does Chipotle charge extra for a double-wrapped burrito?"
-    answer: "No. The double-wrap—adding a second tortilla—is completely free of charge. It is considered a standard accommodation, not an add-on."
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: What is the most common reason a burrito tears during the roll?
+  answer: A cold tortilla. If the tortilla was not properly warmed on the press, it
+    will be stiff and brittle, and it will crack the moment you try to fold it.
+- question: Does Chipotle charge extra for a double-wrapped burrito?
+  answer: "No. The double-wrap\u2014adding a second tortilla\u2014is completely free\
+    \ of charge. It is considered a standard accommodation, not an add-on."
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. 
 
 Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I witnessed line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And Over the years, first-timers watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties. 
 
 ## Step 1: The U-Shape Placement
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -48,7 +47,7 @@ First-timers on the line tend to dump hot salsa directly onto the center of the 
 
 ## Step 2: The Stretch and Tuck
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is where burritos live or die. Do not try to fold it like a Christmas present. The Chipotle roll is a specific four-part motion:

@@ -1,23 +1,29 @@
 ---
-title: "The Insane Logistics of Crumbl Cookies' Weekly Menu Rotation"
-description: "How Crumbl manages a completely different 6-cookie menu every single week without destroying its supply chain, prep tables, or food cost margins."
-pubDate: "2025-11-06"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Crumbl Cookies"
-topic: "Operations"
+title: The Insane Logistics of Crumbl Cookies' Weekly Menu Rotation
+description: How Crumbl manages a completely different 6-cookie menu every single
+  week without destroying its supply chain, prep tables, or food cost margins.
+pubDate: '2025-11-06'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Crumbl Cookies
+topic: Operations
 relatedArticles:
-  - "panera-overnight-baker"
-  - "first-day-fast-food-what-to-expect"
-  - "fast-food-beginner-tips-starting-out"
+- panera-overnight-baker
+- first-day-fast-food-what-to-expect
+- fast-food-beginner-tips-starting-out
 faq:
-  - question: "Why is Crumbl Cookies closed on Sundays?"
-    answer: "In addition to honoring the founders' personal values, Sunday closure is a non-negotiable operational necessity. It gives store teams a dedicated day to purge outgoing inventory, sanitize mixers and prep tables, and prep master dough batches for Monday's brand-new weekly menu."
-  - question: "How does Crumbl make so many different cookie flavors?"
-    answer: "Crumbl maintains a proprietary digital recipe vault of over 300+ tested cookie specifications. Every Sunday evening, corporate pushes the exact ingredient scaling, baking temperatures, and decorating specs for the upcoming week's 6 featured flavors to store iPads nationwide."
+- question: Why is Crumbl Cookies closed on Sundays?
+  answer: In addition to honoring the founders' personal values, Sunday closure is
+    a non-negotiable operational necessity. It gives store teams a dedicated day to
+    purge outgoing inventory, sanitize mixers and prep tables, and prep master dough
+    batches for Monday's brand-new weekly menu.
+- question: How does Crumbl make so many different cookie flavors?
+  answer: Crumbl maintains a proprietary digital recipe vault of over 300+ tested
+    cookie specifications. Every Sunday evening, corporate pushes the exact ingredient
+    scaling, baking temperatures, and decorating specs for the upcoming week's 6 featured
+    flavors to store iPads nationwide.
 ---
-
 In the quick-service restaurant (QSR) and commercial bakery industry, the golden rule of operational profitability is **menu stability**. Companies like McDonald's, Domino's, and Dunkin' spend years optimizing a static menu so they can negotiate long-term bulk supply contracts, build automated kitchen equipment, and train employees on muscle memory that never changes.
 
 Crumbl Cookies has built a multibillion-dollar dessert empire by intentionally breaking this rule. Their business model revolves around a **100% rotating weekly menu**. Every Sunday at 6:00 PM Mountain Time, Crumbl drops a new lineup of six gourmet cookie flavors selected from a vault of over 300+ proprietary recipes. 
@@ -25,6 +31,10 @@ Crumbl Cookies has built a multibillion-dollar dessert empire by intentionally b
 From a store-level management perspective, executing a completely new menu every seven days across 800+ bakery locations is a logistical marvel. The breakdown below details how Crumbl manages weekly recipe pivots without causing total supply chain collapse.
 
 ## 1. The Sunday Pivot: Why a 6-Day Workweek is Mandatory
+
+![Operational view](../../assets/images/general/generic-coffee.webp)
+
+
 
 Many customers assume Crumbl's Sunday closure is purely a lifestyle choice by its founders. In reality, a 7-day operational schedule would instantly break the Crumbl store-level supply chain. **Sunday is the operational reset day.**
 

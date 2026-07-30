@@ -1,34 +1,36 @@
 ---
-title: "What is the Wendy's \"4-Corner Press\" Technique?"
-description: "Former grill manager explains the 4-Corner Press technique Wendy's uses to keep fresh square patties from shrinking, with timing windows and common mistakes."
-pubDate: "2026-04-12"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Burgers"
+title: What is the Wendy's "4-Corner Press" Technique?
+description: Former grill manager explains the 4-Corner Press technique Wendy's uses
+  to keep fresh square patties from shrinking, with timing windows and common mistakes.
+pubDate: '2026-04-12'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Burgers
 faq:
-  - question: "What is the 4-Corner Press?"
-    answer: "It's a specific grilling technique created by Wendy's where the operator presses the four corners of a square patty (top to bottom, left to right) to prevent it from shrinking and curling on the grill."
-  - question: "Do Wendy's cooks still use the 4-Corner Press today?"
-    answer: "In many modern locations, the introduction of double-sided clamshell grills has automated much of the pressing process. However, the technique is still taught for flat-top operations and remains a piece of core company lore from their 1989 Grill Skills video."
+- question: What is the 4-Corner Press?
+  answer: It's a specific grilling technique created by Wendy's where the operator
+    presses the four corners of a square patty (top to bottom, left to right) to prevent
+    it from shrinking and curling on the grill.
+- question: Do Wendy's cooks still use the 4-Corner Press today?
+  answer: In many modern locations, the introduction of double-sided clamshell grills
+    has automated much of the pressing process. However, the technique is still taught
+    for flat-top operations and remains a piece of core company lore from their 1989
+    Grill Skills video.
 relatedArticles:
-  - "wendys-clamshell-grill"
-  - "wendys-chili-leftover-hamburgers"
-  - "wendys-closing-duties"
-
-heroImage: "../../assets/images/general/generic-grill.jpg"
+- wendys-clamshell-grill
+- wendys-chili-leftover-hamburgers
+- wendys-closing-duties
+heroImage: ../../assets/images/general/generic-grill.webp
 ---
-
-
-
 Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But keeping that shape intact isn't automatic—it requires a specific technique on the flat-top.
 
 It's called the 4-Corner Press. If you skip it, you'll turn a beautiful square patty into a shrunken, lopsided meatball that your manager will make you throw away.
 
 ## Why Fresh Beef Fights Back
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -42,7 +44,7 @@ I watched trainees stare at this process in complete bewilderment. They drop a p
 
 ## The 4-Corner Press Technique
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The technique itself is deceptively simple, but the timing window is critical. Here's the exact sequence:

@@ -1,32 +1,34 @@
 ---
-title: "How Does the Burger King Broiler Work, and Is It Dangerous?"
-description: "A veteran kitchen manager explains how the BK flame broiler really works, what the burn hazards feel like, and how to survive your first shift on the fire line."
-pubDate: "2025-02-20"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Burger King"
-topic: "Burgers"
+title: How Does the Burger King Broiler Work, and Is It Dangerous?
+description: A veteran kitchen manager explains how the BK flame broiler really works,
+  what the burn hazards feel like, and how to survive your first shift on the fire
+  line.
+pubDate: '2025-02-20'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Burger King
+topic: Burgers
 relatedArticles:
-  - "burger-king-broiler-closing"
-  - "burger-king-expeditor-role"
-  - "wendys-clamshell-grill"
-
-heroImage: "../../assets/images/general/generic-grill-2.jpg"
+- burger-king-broiler-closing
+- burger-king-expeditor-role
+- wendys-clamshell-grill
+heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
-  - question: "Can customers order a burger 'hot off the broiler'?"
-    answer: "Yes, customers can request their burger 'hot off the broiler' (often abbreviated as HOB) to ensure the patty doesn't come from the holding cabinet. However, during busy drive-thru rushes, this will significantly slow down the speed of service."
-  - question: "Who makes the Burger King broiler?"
-    answer: "The automated chain broilers used by Burger King are primarily manufactured by Nieco. They use a conveyor system and gas flames to cook the patties consistently from the top and bottom simultaneously."
+- question: Can customers order a burger 'hot off the broiler'?
+  answer: Yes, customers can request their burger 'hot off the broiler' (often abbreviated
+    as HOB) to ensure the patty doesn't come from the holding cabinet. However, during
+    busy drive-thru rushes, this will significantly slow down the speed of service.
+- question: Who makes the Burger King broiler?
+  answer: The automated chain broilers used by Burger King are primarily manufactured
+    by Nieco. They use a conveyor system and gas flames to cook the patties consistently
+    from the top and bottom simultaneously.
 ---
-
-
-
 Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike [McDonald's](/articles/chain/mcdonalds) or [Wendy's](/articles/chain/wendys), which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
 
 ## How the Flame Broiler Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -58,7 +60,7 @@ I am going to be completely blunt: yes, it can be dangerous if you do not respec
 
 Burger King has rigorous safety protocols, and they exist for very good reasons.
 
-- **Use the Tongs:** Never use your bare hands to adjust a patty that is already on the belt near the flames. Always use the long metal tongs. I have seen cooks reach in with their fingers to reposition a patty that was crooked, and every single time, they regretted it immediately.
+- **Use the Tongs:** Never use your bare hands to adjust a patty that is already on the belt near the flames. Always use the long metal tongs. Actually cooks reach in with their fingers to reposition a patty that was crooked, and every single time, they regretted it immediately.
 - **Stay Hydrated:** Standing in front of a 600-degree machine for an 8-hour shift will dehydrate you faster than you think. Keep a water bottle close and drink constantly. I used to go through a full gallon of water on a summer broiler shift, and I still felt dried out by the end.
 - **Wear the Right Gear:** Closed-toe, non-slip shoes are mandatory. Keep your sleeves rolled down, not up—your forearms need the protection. Many veteran broiler cooks keep a damp towel draped over one shoulder, not for cleaning, but to cool down their neck and face during intense rushes. It looks ridiculous. It works.
 - **Keep It Clean Throughout the Day:** The number one cause of dangerous flare-ups is accumulated grease. Good cooks empty the bottom catch pans periodically during their shift and use a wire brush to knock carbon off the belt during slow periods. If you wait until closing to deal with all the grease, you are asking for trouble.
@@ -67,7 +69,7 @@ Burger King has rigorous safety protocols, and they exist for very good reasons.
 
 ## When the Broiler Goes Down
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Despite its rugged construction, the broiler is a mechanical system that breaks. The most common failure is a faulty igniter—the component that lights the gas burners. When the igniter dies, the gas flows but does not light, and the machine shuts itself down as a safety measure.

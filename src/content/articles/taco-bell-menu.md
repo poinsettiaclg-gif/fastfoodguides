@@ -1,24 +1,25 @@
 ---
-title: "How to Memorize the Taco Bell Menu Build Cards Fast"
-description: "A veteran's system for quickly memorizing Taco Bell's massive menu using base builds, color-coded scoops, and the Crunchwrap cheat code."
-pubDate: "2026-05-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Taco Bell"
-topic: "Mexican"
+title: How to Memorize the Taco Bell Menu Build Cards Fast
+description: A veteran's system for quickly memorizing Taco Bell's massive menu using
+  base builds, color-coded scoops, and the Crunchwrap cheat code.
+pubDate: '2026-05-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Taco Bell
+topic: Mexican
 relatedArticles:
-  - "taco-bell-linebacker-role"
+- taco-bell-linebacker-role
 faq:
-  - question: "How long does it take to learn the Taco Bell menu?"
-    answer: "Most first-timers can comfortably handle the core menu items within two to three weeks of consistent makeline experience."
-  - question: "How do employees remember all the Taco Bell ingredients?"
-    answer: "Employees focus on memorizing the 8 core 'bases' and rely on laminated build cards mounted above the assembly line for reference, rather than memorizing every single item independently."
-heroImage: "../../assets/images/general/generic-grill-3.jpg"
+- question: How long does it take to learn the Taco Bell menu?
+  answer: Most first-timers can comfortably handle the core menu items within two
+    to three weeks of consistent makeline experience.
+- question: How do employees remember all the Taco Bell ingredients?
+  answer: Employees focus on memorizing the 8 core 'bases' and rely on laminated build
+    cards mounted above the assembly line for reference, rather than memorizing every
+    single item independently.
+heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
-
-
-
 Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart. 
 
 Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. Rookies stare at the build cards posted above the line and feel overwhelmed. However, Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. 
@@ -41,7 +42,7 @@ Take the Cheesy Gordita Crunch. It sounds complicated. But it is just the standa
 
 ## The Portion Control System: Scoops Over Ounces
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Taco Bell relies heavily on strict portion control, and the system is designed to be intuitive once you understand the tools:
@@ -56,7 +57,7 @@ The root cause: If you add an extra half-scoop of beef to 200 burritos in a day,
 
 ## The Crunchwrap Supreme Cheat Code
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The Crunchwrap is the item that intimidates green crew members the most, not because the ingredients are complicated but because of the fold. Here is the exact build order:

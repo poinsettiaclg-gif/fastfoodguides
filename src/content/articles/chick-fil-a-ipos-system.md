@@ -1,31 +1,32 @@
 ---
-title: "How the Chick-fil-A iPOS Drive-Thru System Works"
-description: "Inside the iPad-based ordering system that lets Chick-fil-A push 150+ cars per hour through a single drive-thru lane while competitors struggle with 60."
-pubDate: "2026-01-14"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chick-fil-A"
-topic: "Chicken"
+title: How the Chick-fil-A iPOS Drive-Thru System Works
+description: Inside the iPad-based ordering system that lets Chick-fil-A push 150+
+  cars per hour through a single drive-thru lane while competitors struggle with 60.
+pubDate: '2026-01-14'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chick-fil-A
+topic: Chicken
 relatedArticles:
-  - "chick-fil-a-core-4"
-  - "taco-bell-drive-thru-timer"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- chick-fil-a-core-4
+- taco-bell-drive-thru-timer
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "What does iPOS stand for at Chick-fil-A?"
-    answer: "iPOS stands for Internet Point of Sale. It refers to the mobile tablet system Chick-fil-A uses to take orders and process payments face-to-face in the drive-thru line before customers reach the window."
-  - question: "How does Chick-fil-A manage drive-thru bottlenecks?"
-    answer: "Chick-fil-A uses 'line-busting' tactics where team members walk up to cars with iPOS tablets. A dedicated 'sequencer' manages the flow of vehicles to ensure double lanes merge correctly and the right order goes to the right car."
+- question: What does iPOS stand for at Chick-fil-A?
+  answer: iPOS stands for Internet Point of Sale. It refers to the mobile tablet system
+    Chick-fil-A uses to take orders and process payments face-to-face in the drive-thru
+    line before customers reach the window.
+- question: How does Chick-fil-A manage drive-thru bottlenecks?
+  answer: Chick-fil-A uses 'line-busting' tactics where team members walk up to cars
+    with iPOS tablets. A dedicated 'sequencer' manages the flow of vehicles to ensure
+    double lanes merge correctly and the right order goes to the right car.
 ---
-
-
-
 If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a [McDonald's](/articles/chain/mcdonalds) or [Taco Bell](/articles/chain/taco-bell). The reason is a system called iPOS—Internet Point of Sale—and it is arguably the brilliantly engineered operational innovations in any kitchen. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it. 
 
 ## Bypassing the Speaker Box Bottleneck
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -43,7 +44,7 @@ The beauty is parallel processing. While one employee is helping a family of six
 
 ## The "Send" Before the Window
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The true brilliance of iPOS is not just where the order is taken—it is when.
@@ -73,7 +74,7 @@ Some locations have also begun deploying camera systems and digital order tracki
 
 Being an iPOS team member is not a glamorous job. You are standing outside, in a parking lot, for hours at a time, in whatever weather your region decides to throw at you that day.
 
-**Summer heat:** In southern locations where temperatures regularly exceed 100°F, iPOS team members rotate out every 20 to 30 minutes to prevent heat exhaustion. Stores keep coolers of water and electrolyte drinks outside specifically for the drive-thru crew, and shade canopies with industrial fans are deployed to provide some relief. Even with these precautions, I have seen team members come inside after a 25-minute rotation looking like they just stepped out of a swimming pool. The iPad screens also get finicky in extreme heat—touchscreens become unresponsive, glare makes the display unreadable, and the devices occasionally overheat and shut down.
+**Summer heat:** In southern locations where temperatures regularly exceed 100°F, iPOS team members rotate out every 20 to 30 minutes to prevent heat exhaustion. Stores keep coolers of water and electrolyte drinks outside specifically for the drive-thru crew, and shade canopies with industrial fans are deployed to provide some relief. Even with these precautions, Actually team members come inside after a 25-minute rotation looking like they just stepped out of a swimming pool. The iPad screens also get finicky in extreme heat—touchscreens become unresponsive, glare makes the display unreadable, and the devices occasionally overheat and shut down.
 
 **Winter cold and rain:** During cold weather or heavy rain, team members are issued high-visibility cold-weather gear, and many stores deploy heated "weather pods"—enclosed canopy structures with industrial heaters—so employees can stay warm while they punch in orders. Rain is the worst scenario because the iPad screens do not respond well to wet fingers, and card readers sometimes struggle with damp cards. Good iPOS operators learn to keep a small towel in their apron pocket for exactly this reason.
 

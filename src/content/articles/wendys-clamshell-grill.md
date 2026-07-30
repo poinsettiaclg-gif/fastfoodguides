@@ -1,32 +1,33 @@
 ---
-title: "What is the Wendy's Double-Sided \"Clamshell\" Grill?"
-description: "Former kitchen manager breaks down the Wendy's clamshell grill, from Auto-Gap technology to cook times, cleaning procedures, and what happens when it breaks."
-pubDate: "2024-07-25"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Burgers"
+title: What is the Wendy's Double-Sided "Clamshell" Grill?
+description: Former kitchen manager breaks down the Wendy's clamshell grill, from
+  Auto-Gap technology to cook times, cleaning procedures, and what happens when it
+  breaks.
+pubDate: '2024-07-25'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Burgers
 faq:
-  - question: "Who manufactures the clamshell grills for Wendy's?"
-    answer: "Taylor Company is a primary manufacturer of the double-sided clamshell grills used in many Wendy's locations."
-  - question: "Why do some veterans prefer the old flat-top grills?"
-    answer: "Many older employees feel the automated pressure of the clamshell compresses the meat more than manual grilling, resulting in a denser patty compared to the hand-managed 4-Corner Press method."
+- question: Who manufactures the clamshell grills for Wendy's?
+  answer: Taylor Company is a primary manufacturer of the double-sided clamshell grills
+    used in many Wendy's locations.
+- question: Why do some veterans prefer the old flat-top grills?
+  answer: Many older employees feel the automated pressure of the clamshell compresses
+    the meat more than manual grilling, resulting in a denser patty compared to the
+    hand-managed 4-Corner Press method.
 relatedArticles:
-  - "wendys-4-corner-press"
-  - "wendys-chili-leftover-hamburgers"
-  - "wendys-closing-duties"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- wendys-4-corner-press
+- wendys-chili-leftover-hamburgers
+- wendys-closing-duties
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
-
-
 For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen. 
 
 ## How the Clamshell Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -64,7 +65,7 @@ However, Auto-Gap calibration drifts over time. Grease buildup on the sensors, m
 
 ## Cleaning the Clamshell: The Nightly Battle
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The clamshell grill requires thorough cleaning at the end of every single shift. Because the top platen presses directly onto the meat, it accumulates a heavy layer of baked-on grease, charred protein, and carbonized fat that must be completely removed. This is one of the most time-consuming [closing duties](/articles/wendys-closing-duties) in the entire restaurant.

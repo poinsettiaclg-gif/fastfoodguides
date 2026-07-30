@@ -1,24 +1,36 @@
 ---
-title: "Your First Day at Starbucks: Surviving the Barista Trial"
-description: "A complete guide to your first shift as a Starbucks barista. Learn what to expect, from navigating the POS to understanding the Customer Support cycle and cup markings."
-pubDate: "2025-10-02"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
-category: "Careers"
-chain: "Starbucks"
-topic: "Training"
-tags: ["starbucks", "first day", "barista", "training", "pos", "coffee"]
+title: 'Your First Day at Starbucks: Surviving the Barista Trial'
+description: A complete guide to your first shift as a Starbucks barista. Learn what
+  to expect, from navigating the POS to understanding the Customer Support cycle and
+  cup markings.
+pubDate: '2025-10-02'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+heroImage: ../../assets/images/general/generic-pos-2.webp
+category: Careers
+chain: Starbucks
+topic: Training
+tags:
+- starbucks
+- first day
+- barista
+- training
+- pos
+- coffee
 faq:
-  - question: "What should I wear to Starbucks training?"
-    answer: "Wear the Starbucks dress code: a clean shirt in an approved color (black, white, grey, navy), dark pants, and slip-resistant shoes. Your hair must be tied back and you cannot wear nail polish or watches/bracelets for food safety reasons."
-  - question: "How long does Starbucks barista training take?"
-    answer: "The formal training program usually takes about two weeks of shadowing and guided practice before you are fully comfortable working a bar position alone during a rush."
+- question: What should I wear to Starbucks training?
+  answer: 'Wear the Starbucks dress code: a clean shirt in an approved color (black,
+    white, grey, navy), dark pants, and slip-resistant shoes. Your hair must be tied
+    back and you cannot wear nail polish or watches/bracelets for food safety reasons.'
+- question: How long does Starbucks barista training take?
+  answer: The formal training program usually takes about two weeks of shadowing and
+    guided practice before you are fully comfortable working a bar position alone
+    during a rush.
 ---
 Stepping behind the bar at Starbucks for the first time is legendary for being one of the most overwhelming experiences in fast food. The sounds alone—the steaming wands screaming, the blenders grinding ice, the relentless printer spitting out mobile orders—are enough to induce sensory overload.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 If you've just been hired as a "Partner" (Starbucks speak for employee), you might be terrified that they are going to throw you on the espresso machine during the 7:00 AM rush. Put your mind at ease: they absolutely will not do that.
 

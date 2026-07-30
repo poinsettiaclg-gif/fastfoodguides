@@ -1,34 +1,36 @@
 ---
-title: "What Does a \"Bird Specialist\" Actually Do at Raising Cane's?"
-description: "Everything you need to know about the Raising Cane's Bird Specialist role — the 24-hour marinade, 6-minute fry timer, and the art of reading the rush."
-pubDate: "2025-09-27"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Raising Cane's"
-topic: "Chicken"
+title: What Does a "Bird Specialist" Actually Do at Raising Cane's?
+description: "Everything you need to know about the Raising Cane's Bird Specialist\
+  \ role \u2014 the 24-hour marinade, 6-minute fry timer, and the art of reading the\
+  \ rush."
+pubDate: '2025-09-27'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Raising Cane's
+topic: Chicken
 relatedArticles:
-  - "popeyes-chicken-battering-process"
-  - "kfc-pressure-fryers"
-  - "five-guys-no-freezers"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- popeyes-chicken-battering-process
+- kfc-pressure-fryers
+- five-guys-no-freezers
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "How long does it take to become a proficient Bird Specialist?"
-    answer: "Most newcomers need about two to three weeks of training before they can run the station solo during a rush. Basic competency comes within the first week, but mastering demand anticipation takes longer."
-  - question: "Is the Bird Specialist position paid more than other roles?"
-    answer: "In many locations, they earn the same base hourly rate as other crew members. However, because it's the most demanding position in the kitchen, it's often one of the first roles considered for pay raises and promotions."
+- question: How long does it take to become a proficient Bird Specialist?
+  answer: Most newcomers need about two to three weeks of training before they can
+    run the station solo during a rush. Basic competency comes within the first week,
+    but mastering demand anticipation takes longer.
+- question: Is the Bird Specialist position paid more than other roles?
+  answer: In many locations, they earn the same base hourly rate as other crew members.
+    However, because it's the most demanding position in the kitchen, it's often one
+    of the first roles considered for pay raises and promotions.
 ---
-
-
-
 Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. 
 
 That's why they don't have generic "grill cooks" or "prep cooks." They have the Bird Specialist. And if you're hired for this position, you are the most important person in the building. You are the heartbeat of the operation. If you fail, the entire restaurant grinds to a halt. 
 
 ## The 24-Hour Marinade and Why It Can't Be Rushed
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -42,7 +44,7 @@ Here's the operational stress this creates: if the night shift doesn't prep enou
 
 ## The Art of the Drop
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 At a generic fast-food place, chicken nuggets arrive frozen in a bag and you dump them into a fryer basket. Raising Cane's is a completely different animal. Your job as the Bird Specialist is an endless, highly choreographed dance of breading and frying:

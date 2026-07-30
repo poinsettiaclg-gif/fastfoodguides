@@ -1,26 +1,36 @@
 ---
-title: "Your First Day at Domino's: The Pizza Make-Line Reality"
-description: "A complete guide to your first shift at Domino's Pizza. Learn what to expect, from mastering dough slapping to surviving the oven-tending gauntlet."
-pubDate: "2025-03-31"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-heroImage: "../../assets/images/general/generic-pos-2.jpg"
-category: "Careers"
-chain: "Domino's"
-topic: "Training"
-tags: ["dominos", "first day", "pizza", "training", "makeline", "oven tender"]
+title: 'Your First Day at Domino''s: The Pizza Make-Line Reality'
+description: A complete guide to your first shift at Domino's Pizza. Learn what to
+  expect, from mastering dough slapping to surviving the oven-tending gauntlet.
+pubDate: '2025-03-31'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+heroImage: ../../assets/images/general/generic-pos-2.webp
+category: Careers
+chain: Domino's
+topic: Training
+tags:
+- dominos
+- first day
+- pizza
+- training
+- makeline
+- oven tender
 faq:
-  - question: "What happens on your first day at Domino's?"
-    answer: "You'll fill out onboarding paperwork, get a tour of the store, learn the POS system for taking orders, and likely start learning how to properly fold pizza boxes (which is harder than it looks to do quickly)."
-  - question: "Do Domino's drivers get paid for training?"
-    answer: "Yes, delivery drivers are paid for all training hours, which usually includes riding along with an experienced driver to learn the delivery area and store procedures."
+- question: What happens on your first day at Domino's?
+  answer: You'll fill out onboarding paperwork, get a tour of the store, learn the
+    POS system for taking orders, and likely start learning how to properly fold pizza
+    boxes (which is harder than it looks to do quickly).
+- question: Do Domino's drivers get paid for training?
+  answer: Yes, delivery drivers are paid for all training hours, which usually includes
+    riding along with an experienced driver to learn the delivery area and store procedures.
 ---
 Walking into a Domino's Pizza for your first shift feels a bit like walking into a manufacturing plant. Everything is built around the conveyor belt oven. The entire store is a machine designed to move raw dough from the walk-in cooler to a cardboard box in under 15 minutes.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
-If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput, I can tell you that Domino's operates on absolute precision.
+If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput, Actually that Domino's operates on absolute precision.
 
 ## Clocking In: The Pulse Dashboard and Your First Pizza
 

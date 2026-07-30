@@ -1,21 +1,26 @@
 ---
-title: "Five Guys First Day Training: What to Expect During Orientation"
-description: "A detailed breakdown of the Five Guys orientation process, from Five Guys University videos to your first hands-on shifts at the topping station."
-pubDate: "2025-01-08"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "10-Year QSR Operations Manager"
-chain: "Five Guys"
-topic: "Training"
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+title: 'Five Guys First Day Training: What to Expect During Orientation'
+description: A detailed breakdown of the Five Guys orientation process, from Five
+  Guys University videos to your first hands-on shifts at the topping station.
+pubDate: '2025-01-08'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: 10-Year QSR Operations Manager
+chain: Five Guys
+topic: Training
+heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-  - "wendys-fresh-never-frozen"
-  - "five-guys-fry-calibration"
+- wendys-fresh-never-frozen
+- five-guys-fry-calibration
 faq:
-  - question: "What is the Five Guys uniform?"
-    answer: "Five Guys provides a red shirt and a hat or visor. You need to wear jeans without holes and slip-resistant shoes. They are very strict about the slip-resistant shoes due to the peanut oil."
-  - question: "Do you cook on your first day at Five Guys?"
-    answer: "Usually not. Your first day will involve watching the Five Guys University training videos, learning the prep processes (like cutting potatoes), and understanding their strict quality standards."
+- question: What is the Five Guys uniform?
+  answer: Five Guys provides a red shirt and a hat or visor. You need to wear jeans
+    without holes and slip-resistant shoes. They are very strict about the slip-resistant
+    shoes due to the peanut oil.
+- question: Do you cook on your first day at Five Guys?
+  answer: Usually not. Your first day will involve watching the Five Guys University
+    training videos, learning the prep processes (like cutting potatoes), and understanding
+    their strict quality standards.
 ---
 Five Guys is loud. That is usually the first thing newcomers notice when they walk in for orientation. Between the music, the constant callouts from the grill, and the rhythmic thumping of the fry shakers, it is an environment built on constant, high-energy movement.
 
@@ -24,6 +29,10 @@ If you are preparing for your first day at Five Guys, you might be intimidated b
 Let's walk through what you can expect during your initial training period.
 
 ## Phase 1: Five Guys University and Administration
+
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
 
 Your first shift will almost entirely consist of administration and digital learning. You will usually sit in the back office or a quiet corner of the dining room. 
 

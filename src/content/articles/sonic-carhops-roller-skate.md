@@ -1,27 +1,26 @@
 ---
-title: "Sonic Carhops on Roller Skates: How It Works"
-description: "Not every Sonic carhop skates, but the ones who do follow a specific training program. Here's how the skating program is structured at the drive-in."
-pubDate: "2026-03-08"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Sonic Drive-In"
-topic: "Other Chains"
+title: 'Sonic Carhops on Roller Skates: How It Works'
+description: Not every Sonic carhop skates, but the ones who do follow a specific
+  training program. Here's how the skating program is structured at the drive-in.
+pubDate: '2026-03-08'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Sonic Drive-In
+topic: Other Chains
 faq:
-  - question: "Do Sonic carhops have to wear roller skates?"
-    answer: "No, roller skating is optional and varies by franchise location. The vast majority of carhops simply walk orders to the cars wearing slip-resistant shoes."
-  - question: "How much do Sonic carhops make on average?"
-    answer: "Carhops earn a base hourly wage plus tips. Skating carhops often receive higher tips, increasing their total take-home pay significantly on busy shifts."
+- question: Do Sonic carhops have to wear roller skates?
+  answer: No, roller skating is optional and varies by franchise location. The vast
+    majority of carhops simply walk orders to the cars wearing slip-resistant shoes.
+- question: How much do Sonic carhops make on average?
+  answer: Carhops earn a base hourly wage plus tips. Skating carhops often receive
+    higher tips, increasing their total take-home pay significantly on busy shifts.
 relatedArticles:
-  - "sonic-switchboard-how-it-works"
-  - "dairy-queen-perfect-cone-curl"
-  - "in-n-out-level-system"
-
-heroImage: "../../assets/images/general/generic-grill-3.jpg"
+- sonic-switchboard-how-it-works
+- dairy-queen-perfect-cone-curl
+- in-n-out-level-system
+heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
-
-
-
 A typical Sonic Drive-In location handles hundreds of cars a day, but surprisingly, less than 20% of their carhops nationwide actually wear roller skates. While the teenager gliding across the parking lot with a tray of Route 44 cherry limeades is one of the most iconic images in fast food, it's becoming increasingly rare. 
 
 If you're filling out a Sonic application and the thought of strapping wheels to your feet while carrying $40 worth of somebody's lunch is giving you cold sweats, I've got good news and bad news. The good news: skating is almost never mandatory. The bad news: if you choose not to skate, you're leaving serious money on the table. Let me explain. 
@@ -46,7 +45,7 @@ If you've never skated before, most managers will let you practice in the parkin
 
 ## The Skates: What You Actually Wear
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Sonic doesn't issue a standardized pair of skates to every carhop. Policies vary by franchise — some stores keep a communal set in common sizes, but sharing skates is unpopular for obvious hygiene reasons. If you plan to skate regularly, buying your own pair is the move for fit, comfort, and not strapping on someone else's sweat-soaked wheels.
@@ -55,7 +54,7 @@ Here's a detail that matters more than people think: most skating carhops choose
 
 ## How They Don't Spill: The Tray Technique
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Whether you skate or walk, mastering the Sonic tray is an acquired skill that every new carhop has to learn — usually the hard way.

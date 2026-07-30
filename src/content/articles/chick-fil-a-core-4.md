@@ -1,31 +1,30 @@
 ---
-title: "Chick-fil-A Core 4: The Service Model Explained"
-description: "Chick-fil-A trains every employee on four specific behaviors. Here's what Core 4 means and how it shapes every customer interaction."
-pubDate: "2025-10-29"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chick-fil-A"
-topic: "Chicken"
+title: 'Chick-fil-A Core 4: The Service Model Explained'
+description: Chick-fil-A trains every employee on four specific behaviors. Here's
+  what Core 4 means and how it shapes every customer interaction.
+pubDate: '2025-10-29'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chick-fil-A
+topic: Chicken
 relatedArticles:
-  - "chick-fil-a-ipos-system"
-  - "in-n-out-level-system"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- chick-fil-a-ipos-system
+- in-n-out-level-system
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "What happens if a customer is upset?"
-    answer: "Beyond the Core 4, employees use the HEARD model (Hear, Empathize, Apologize, Resolve, Delight) to handle complaints and resolve wait-time frustrations."
-  - question: "How do employees learn the Core 4?"
-    answer: "Training is tracked on an internal app called Pathway, alongside real-time 'Teach, Model, Coach, Correct' feedback from Certified Trainers."
+- question: What happens if a customer is upset?
+  answer: Beyond the Core 4, employees use the HEARD model (Hear, Empathize, Apologize,
+    Resolve, Delight) to handle complaints and resolve wait-time frustrations.
+- question: How do employees learn the Core 4?
+  answer: Training is tracked on an internal app called Pathway, alongside real-time
+    'Teach, Model, Coach, Correct' feedback from Certified Trainers.
 ---
-
-
-
 Chick-fil-A is not a normal fast food job. I say that as someone who has worked in or managed kitchens across half a dozen major chains, and nothing I encountered at any of them prepared me for the level of hospitality discipline that Chick-fil-A demands from every single team member. Most QSR chains train you to take orders fast and keep the line moving. Chick-fil-A trains you to make a stranger feel like you genuinely care about their day—and then they measure whether you actually did it. The entire system is built on four non-negotiable behaviors called the Core 4, and if you are applying for a job here, understanding these four pillars is the difference between getting hired and getting a polite rejection email. 
 
 ## The Chick-fil-A Core 4 Explained
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -61,7 +60,7 @@ The result is a customer experience that feels dramatically different from walki
 
 ## How to Demonstrate the Core 4 in Your Interview
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Here is the part that catches most applicants off guard: Chick-fil-A hiring managers are trained to evaluate you against the Core 4 during the interview itself. They are not just listening to your answers. They are watching your behavior in real time.

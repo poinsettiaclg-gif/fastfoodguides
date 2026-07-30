@@ -1,25 +1,26 @@
 ---
-title: "How Does the Arby's Slicer Work (And Is the Meat Real)?"
-description: "Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and real technique behind Arby's commercial deli slicer station."
-pubDate: "2024-06-16"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Arby's"
-topic: "Other Chains"
+title: How Does the Arby's Slicer Work (And Is the Meat Real)?
+description: Debunking the liquid meat myth and revealing the strict safety protocols,
+  morning calibration, and real technique behind Arby's commercial deli slicer station.
+pubDate: '2024-06-16'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Arby's
+topic: Other Chains
 relatedArticles:
-  - "five-guys-no-freezers"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- five-guys-no-freezers
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Why doesn't Arby's pre-slice their roast beef?"
-    answer: "Pre-slicing makes precise portion control (exactly 3.0 ounces per Classic sandwich) nearly impossible at speed, and the freshly sliced meat retains moisture much better than pre-sliced meat sitting in a warmer."
-  - question: "What is the PAA bottleneck at Arby's?"
-    answer: "PAA stands for Plan vs. Actual, a metric managers use to track labor and productivity. The slicer station is a common bottleneck, so managers monitor PAA to ensure throughput standards like 50-75 second drive-thru times are met."
+- question: Why doesn't Arby's pre-slice their roast beef?
+  answer: Pre-slicing makes precise portion control (exactly 3.0 ounces per Classic
+    sandwich) nearly impossible at speed, and the freshly sliced meat retains moisture
+    much better than pre-sliced meat sitting in a warmer.
+- question: What is the PAA bottleneck at Arby's?
+  answer: PAA stands for Plan vs. Actual, a metric managers use to track labor and
+    productivity. The slicer station is a common bottleneck, so managers monitor PAA
+    to ensure throughput standards like 50-75 second drive-thru times are met.
 ---
-
-
-
 Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef went viral. The internet collectively decided the meat was fake—some kind of liquid paste poured into a mold. I was managing a QSR kitchen at the time, and I remember a cashier showing me the photo on her phone during a slow Tuesday afternoon. "Is this real?" she asked. The answer is more interesting than the conspiracy theory, and the job of actually running the slicer station is one of the most tightly regulated positions in any fast food restaurant. 
 
 ## The Truth About the Meat
@@ -36,7 +37,7 @@ The liquid meat myth stems entirely from the marinade. When you tear open that v
 
 ## The Deli Slicer Station
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 Arby's does not pre-slice their meat. Every single sandwich gets its meat sliced fresh, paper-thin, on a massive commercial-grade deli slicer positioned right on the assembly line. This is not a decorative feature—it is the operational heart of the store.
@@ -63,7 +64,7 @@ You are required to wear a thick Kevlar mesh glove during this entire process. M
 
 ## The Morning Calibration Routine
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The slicer station does not just fire up when the doors open. There is a dedicated morning calibration every single day. The opening manager powers up the slicer, verifies the blade guard setting with a thickness gauge, and runs a test slice to ensure the blade is sharp and cutting cleanly.

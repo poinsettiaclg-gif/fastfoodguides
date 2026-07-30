@@ -1,33 +1,32 @@
 ---
-title: "What is the Panera Bread \"Consolidator\" Role?"
-description: "Inside the most demanding role at Panera Bread: the Consolidator who acts as air traffic control for every order leaving the kitchen during a lunch rush."
-pubDate: "2024-08-16"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Panera Bread"
-topic: "Other Chains"
+title: What is the Panera Bread "Consolidator" Role?
+description: 'Inside the most demanding role at Panera Bread: the Consolidator who
+  acts as air traffic control for every order leaving the kitchen during a lunch rush.'
+pubDate: '2024-08-16'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Panera Bread
+topic: Other Chains
 relatedArticles:
-  - "panera-overnight-baker"
-  - "burger-king-expeditor-role"
-  - "starbucks-customer-support-cycle"
+- panera-overnight-baker
+- burger-king-expeditor-role
+- starbucks-customer-support-cycle
 faq:
-  - question: "How long does it take before a new employee gets trained on Consolidator?"
-    answer: "Most Panera locations require at least two to three months of experience before an employee is even considered for Consolidator training."
-  - question: "Is the Consolidator position paid more than other roles?"
-    answer: "Not typically, but it acts as a stepping stone to shift supervisor."
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: How long does it take before a new employee gets trained on Consolidator?
+  answer: Most Panera locations require at least two to three months of experience
+    before an employee is even considered for Consolidator training.
+- question: Is the Consolidator position paid more than other roles?
+  answer: Not typically, but it acts as a stepping stone to shift supervisor.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 During a lunch rush at Panera Bread, the production line is a flurry of organized chaos. There are people making sandwiches on one station, people tossing salads on another, and people ladling soup at a third. Items come off these stations at different speeds, in different containers, heading to different customers — and somehow, they all need to end up on the right tray with the right side item before reaching the right person. 
 
 That's where the Consolidator comes in. Standing at the very end of the production line, this person touches every single order before it leaves the kitchen. If you get assigned to this position, you are the final boss. You are the last line of defense between the kitchen and an angry customer holding a bowl of Broccoli Cheddar soup that was supposed to be Tomato. 
 
 ## The Master of the "You Pick Two"
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -43,7 +42,7 @@ If you lose track of which half-sandwich belongs to which combo, the entire orde
 
 ## The Quality Control Check
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 The Consolidator is Panera's last line of defense against remakes and customer complaints. Before a plate leaves the kitchen, the Consolidator must quickly verify:

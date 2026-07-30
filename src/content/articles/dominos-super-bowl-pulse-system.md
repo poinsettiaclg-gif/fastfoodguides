@@ -1,23 +1,28 @@
 ---
-title: "Domino's Super Bowl Pulse System Explained"
-description: "Domino's uses a real-time order monitoring system during peak events. Here's how the Pulse system manages thousands of simultaneous orders."
-pubDate: "2026-02-03"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Operations"
+title: Domino's Super Bowl Pulse System Explained
+description: Domino's uses a real-time order monitoring system during peak events.
+  Here's how the Pulse system manages thousands of simultaneous orders.
+pubDate: '2026-02-03'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Operations
 relatedArticles:
-  - "dominos-dough-stretching"
-  - "dominos-oven-tender-role"
-  - "dominos-20-bank-rule"
+- dominos-dough-stretching
+- dominos-oven-tender-role
+- dominos-20-bank-rule
 faq:
-  - question: "Does the Pulse system crash during the Super Bowl?"
-    answer: "While massive volume can stress the system, total outages are rare because corporate IT monitors stores via a 'command center.' When delays happen, it's usually local hardware reboots or UI lag under extreme load rather than a full network collapse."
-  - question: "How does Domino's prep Pulse for high-volume days?"
-    answer: "Corporate runs synthetic load testing before major events like the Super Bowl to simulate higher-than-expected traffic, ensuring the network backbone can handle the nationwide transaction spike."
+- question: Does the Pulse system crash during the Super Bowl?
+  answer: While massive volume can stress the system, total outages are rare because
+    corporate IT monitors stores via a 'command center.' When delays happen, it's
+    usually local hardware reboots or UI lag under extreme load rather than a full
+    network collapse.
+- question: How does Domino's prep Pulse for high-volume days?
+  answer: Corporate runs synthetic load testing before major events like the Super
+    Bowl to simulate higher-than-expected traffic, ensuring the network backbone can
+    handle the nationwide transaction spike.
 ---
-
 If you work in the pizza industry, you don't care about the Super Bowl. You don't care who is playing, you don't care about the commercials, and you definitely don't care about the halftime show. You only care about the clock. 
 
 Super Bowl Sunday is the highest-volume pizza delivery day of the year in the United States. For a high-volume Domino's store, the hours between 4:00 PM and kickoff are an absolute gauntlet. The store will do a normal Friday night's entire sales volume in the span of about two hours. 
@@ -29,6 +34,10 @@ You cannot survive that kind of volume with a good attitude and elbow grease. Yo
 At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. Throughout this breakdown, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
 
 ## The Brain of the Operation: The Pulse System
+
+![Operational view](../../assets/images/general/generic-walk-in.webp)
+
+
 
 Domino's isn't just a pizza company; it is a tech company that happens to sell pizza. Pulse is the software architecture that makes the vaunted Domino's Pizza Tracker possible, but its real magic happens on the backend in the kitchen.
 

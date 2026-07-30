@@ -1,30 +1,31 @@
 ---
-title: "Little Caesars Sheet-Out Machine: Press and Go"
-description: "Little Caesars uses a mechanical press to standardize every pizza dough round. Here's how the machine works and what the specs are per crust size."
-pubDate: "2026-02-22"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Little Caesars"
-topic: "Pizza"
+title: 'Little Caesars Sheet-Out Machine: Press and Go'
+description: Little Caesars uses a mechanical press to standardize every pizza dough
+  round. Here's how the machine works and what the specs are per crust size.
+pubDate: '2026-02-22'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Little Caesars
+topic: Pizza
 relatedArticles:
-  - "little-caesars-hot-n-ready-system"
-  - "papa-johns-dough-slapping"
+- little-caesars-hot-n-ready-system
+- papa-johns-dough-slapping
 faq:
-  - question: "Why does the pizza dough shrink after going through the sheeter?"
-    answer: "Shrinking usually occurs when the dough is too cold or hasn't had enough time to rest. Pulling dough racks from the walk-in cooler 15-30 minutes before sheeting allows the gluten to relax."
-  - question: "How does the machine accommodate different pizza sizes?"
-    answer: "The sheeter rollers are set to a fixed gap. The size of the crust is determined by the weight of the dough ball used (e.g., 18 oz for Grande, 23 oz for Deep Dish)."
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: Why does the pizza dough shrink after going through the sheeter?
+  answer: Shrinking usually occurs when the dough is too cold or hasn't had enough
+    time to rest. Pulling dough racks from the walk-in cooler 15-30 minutes before
+    sheeting allows the gluten to relax.
+- question: How does the machine accommodate different pizza sizes?
+  answer: The sheeter rollers are set to a fixed gap. The size of the crust is determined
+    by the weight of the dough ball used (e.g., 18 oz for Grande, 23 oz for Deep Dish).
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
-
-
 At a traditional pizzeria, making a crust is a craft. You take a dough ball, stretch it by hand, maybe toss it in the air for show, and spend 15 to 20 seconds working it into a round shape that's never quite perfectly uniform. That's charming when you're making 40 pizzas on a Saturday night. At Little Caesars, where a busy location pumps out 300 to 500 pizzas a day and the entire business model depends on having hot pizzas ready the instant a customer walks through the door, hand-tossing is a fantasy. Enter the Sheetout Machine—called "the Sheeter" by every employee who's ever used one—and the reason Little Caesars can make the Hot-N-Ready promise work at industrial scale. 
 
 ## What the Sheeter Actually Is
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -36,7 +37,7 @@ The rollers are calibrated to corporate specifications. The gap between them det
 
 ## The Two-Pass Technique
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The actual process takes about three to four seconds per pizza, and it involves two passes through the rollers with a critical rotation between them.

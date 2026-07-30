@@ -1,31 +1,38 @@
 ---
-title: "Firehouse Subs Steaming: How Every Sub Gets Made"
-description: "Firehouse Subs steams their meats and cheeses before building the sandwich. Here's the exact process and why the steam makes a measurable difference."
-pubDate: "2026-05-13"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Firehouse Subs"
-topic: "Sandwiches"
+title: 'Firehouse Subs Steaming: How Every Sub Gets Made'
+description: Firehouse Subs steams their meats and cheeses before building the sandwich.
+  Here's the exact process and why the steam makes a measurable difference.
+pubDate: '2026-05-13'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Firehouse Subs
+topic: Sandwiches
 faq:
-  - question: "Does Firehouse Subs toast their bread at all?"
-    answer: "No. The standard process is a soft, untoasted sub roll. The bread does not go through the steamer or any oven. This keeps the bread pliable so it doesn't squeeze fillings out when you bite down."
-  - question: "How hot is the steamer?"
-    answer: "The conveyor steamer runs at approximately 200°F steam temperature. This lower temperature efficiently transfers heat, fully melting the cheese and thoroughly warming the deli meats without drying them out."
+- question: Does Firehouse Subs toast their bread at all?
+  answer: No. The standard process is a soft, untoasted sub roll. The bread does not
+    go through the steamer or any oven. This keeps the bread pliable so it doesn't
+    squeeze fillings out when you bite down.
+- question: How hot is the steamer?
+  answer: "The conveyor steamer runs at approximately 200\xB0F steam temperature.\
+    \ This lower temperature efficiently transfers heat, fully melting the cheese\
+    \ and thoroughly warming the deli meats without drying them out."
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 Firehouse doesn't toast their subs. They don't bake them. They don't grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. 
 
 Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you'll notice a machine that looks nothing like the conveyor toaster at [Chick-fil-A Breading Process: The Pressure Cooker](/articles/chick-fil-a-breading-process/))*
 
-I've worked in QSR kitchens for over a decade, and Firehouse's approach to heating a sub is one of the smartest things I've seen in the sandwich segment. Here's exactly how it works and why it matters. 
+I've worked in QSR kitchens for over a decade, and Firehouse's approach to heating a sub is one of the smartest things Actually in the sandwich segment. Here's exactly how it works and why it matters. 
 
 ## How the Conveyor Steamer Actually Works
+
+![Operational view](../../assets/images/general/generic-coffee.webp)
+
+
 
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It's not a modified oven, not a repurposed bakery proofer — it's specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
 

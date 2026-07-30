@@ -1,31 +1,36 @@
 ---
-title: "Panda Express Steam Table: How 'Calling Food' Works"
-description: "Panda Express doesn't use digital screens for their wok chefs. Front-of-house staff call batch sizes verbally to keep the steam table stocked."
-pubDate: "2025-09-08"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Panda Express"
-topic: "Operations"
+title: 'Panda Express Steam Table: How ''Calling Food'' Works'
+description: Panda Express doesn't use digital screens for their wok chefs. Front-of-house
+  staff call batch sizes verbally to keep the steam table stocked.
+pubDate: '2025-09-08'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Panda Express
+topic: Operations
 relatedArticles:
-  - "panda-express-wok-chef"
-  - "panda-express-leftover-food"
+- panda-express-wok-chef
+- panda-express-leftover-food
 faq:
-  - question: "Do they ever use timers for the food?"
-    answer: "While the callers dictate when to cook the food, Panda Express does use strict timers for food safety and quality control. Once a fresh pan hits the steam table, a dry-erase marker or a digital timer is used to track how long it has been sitting. If it sits too long, it must be discarded."
-  - question: "Can the wok chef refuse a call?"
-    answer: "No, but they can negotiate priority. If a caller asks for Kung Pao Chicken and Beijing Beef at the exact same time, a busy wok chef will shout back a priority order, telling the caller which dish will hit the table first so the front-of-house can manage customer expectations."
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- question: Do they ever use timers for the food?
+  answer: While the callers dictate when to cook the food, Panda Express does use
+    strict timers for food safety and quality control. Once a fresh pan hits the steam
+    table, a dry-erase marker or a digital timer is used to track how long it has
+    been sitting. If it sits too long, it must be discarded.
+- question: Can the wok chef refuse a call?
+  answer: No, but they can negotiate priority. If a caller asks for Kung Pao Chicken
+    and Beijing Beef at the exact same time, a busy wok chef will shout back a priority
+    order, telling the caller which dish will hit the table first so the front-of-house
+    can manage customer expectations.
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 "Waiting on Batch One Orange Chicken!" The shout cuts through the roar of exhaust hoods and sizzling woks, demanding an immediate response from the kitchen. While most modern fast food restaurants rely on silent, highly digitized Kitchen Display Systems (KDS) to track orders, Panda Express rejects this entirely for its hot food prep.
 
 Stand in line at Panda Express during a lunch rush, and you won't hear the gentle beep of order screens—you'll hear a constant stream of yelling. The front-of-house workers (the people serving your food) are shouting things like, "Half pan Orange!" or "Batch two Beijing Beef!" while the wok chefs shout back to acknowledge the order. 
 
 This verbal loop is called "calling food," and it is the single most important operational system in a Panda Express kitchen. Without it, the steam table runs empty, ticket times collapse, and the entire store grinds to a halt. This is the actual sequence:
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## The Problem with the KDS
 

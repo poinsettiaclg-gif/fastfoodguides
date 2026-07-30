@@ -1,24 +1,30 @@
 ---
-title: "15 Brutally Honest Tips for Your First Fast Food Job: How to Avoid Rookie Mistakes"
-description: "Essential survival tips for new fast-food employees. Learn how to handle rush hours, communicate on the line, avoid burns, and impress your kitchen manager."
-pubDate: "2025-12-22"
-updatedDate: "2026-07-25"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Multi-Chain"
-topic: "Training"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: '15 Brutally Honest Tips for Your First Fast Food Job: How to Avoid Rookie
+  Mistakes'
+description: Essential survival tips for new fast-food employees. Learn how to handle
+  rush hours, communicate on the line, avoid burns, and impress your kitchen manager.
+pubDate: '2025-12-22'
+updatedDate: '2026-07-25'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Multi-Chain
+topic: Training
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-  - "first-day-fast-food-what-to-expect"
-  - "dominos-first-day-training"
-  - "starbucks-first-day-training"
+- first-day-fast-food-what-to-expect
+- dominos-first-day-training
+- starbucks-first-day-training
 faq:
-  - question: "How do you survive a rush hour in fast food without getting overwhelmed?"
-    answer: "Focus strictly on the single ticket or order directly in front of you. Do not look at the entire queue of 20 pending screens at once. Trust your station setup, maintain steady muscle memory, and communicate call-outs clearly to your team without panicking."
-  - question: "What is the most important safety rule in a fast food kitchen?"
-    answer: "Always announce your movements around hot equipment by loudly calling out 'Corner,' 'Behind,' 'Sharp,' or 'Hot.' Never walk silently behind a coworker who is working near a 350°F deep fryer or a hot flat-top grill."
+- question: How do you survive a rush hour in fast food without getting overwhelmed?
+  answer: Focus strictly on the single ticket or order directly in front of you. Do
+    not look at the entire queue of 20 pending screens at once. Trust your station
+    setup, maintain steady muscle memory, and communicate call-outs clearly to your
+    team without panicking.
+- question: What is the most important safety rule in a fast food kitchen?
+  answer: "Always announce your movements around hot equipment by loudly calling out\
+    \ 'Corner,' 'Behind,' 'Sharp,' or 'Hot.' Never walk silently behind a coworker\
+    \ who is working near a 350\xB0F deep fryer or a hot flat-top grill."
 ---
-
 Working your first job in a fast-food or quick-service restaurant (QSR) kitchen is a sensory overload. The speed of service timers are beeping, the kitchen printers are chattering, the drive-thru headset is chiming in your ear, and the lunch rush line is winding out the lobby door.
 
 Over my ten years managing restaurant operations for major brands, I watched two distinct types of rookies emerge during their first month on the line. 
@@ -28,6 +34,10 @@ The first group gets overwhelmed by the noise, takes customer frustration person
 If you want to be in the second group, you need to understand the unwritten rules of kitchen dynamics. Here are 15 brutally honest, actionable tips from a former kitchen manager to help you survive and thrive in your first fast-food job.
 
 ## 1. Master the Vocabulary of Kitchen Safety ("Corner," "Behind," "Hot")
+
+![Operational view](../../assets/images/general/generic-drive-thru.webp)
+
+
 
 Commercial kitchens are cramped, high-hazard environments filled with 350°F deep fryers, 400°F clamshell grills, sharp tomato slicers, and heavy stainless steel pans. The most critical survival habit you must develop on day one is verbalizing your movements.
 

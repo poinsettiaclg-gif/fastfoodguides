@@ -1,29 +1,37 @@
 ---
-title: "The McDonald's Neapolitan Shake: Why Triple-Flavor Cycling Breaks the Taylor Machine"
-description: "A former QSR operations manager breaks down the Taylor C602 syrup manifold, thermal recovery limits, and why ordering a three-flavor shake wrecks the drive-thru window timer."
-pubDate: "2025-04-24"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
-chain: "McDonald's"
-topic: "Operations"
-heroImage: "../../assets/images/general/generic-grill.jpg"
+title: 'The McDonald''s Neapolitan Shake: Why Triple-Flavor Cycling Breaks the Taylor
+  Machine'
+description: A former QSR operations manager breaks down the Taylor C602 syrup manifold,
+  thermal recovery limits, and why ordering a three-flavor shake wrecks the drive-thru
+  window timer.
+pubDate: '2025-04-24'
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
+chain: McDonald's
+topic: Operations
+heroImage: ../../assets/images/general/generic-grill.webp
 operationalAnnoyanceScore: 9
 isVerified: true
 ingredients:
-  - "1/3 Vanilla Shake Base"
-  - "1/3 Chocolate Shake Base"
-  - "1/3 Strawberry Shake Base"
-howToOrder: "Ask for a Neapolitan Shake. If they look confused, ask for a layered shake: vanilla, chocolate, and strawberry in the same cup."
-priceEstimate: "$3.50 - $4.50"
+- 1/3 Vanilla Shake Base
+- 1/3 Chocolate Shake Base
+- 1/3 Strawberry Shake Base
+howToOrder: 'Ask for a Neapolitan Shake. If they look confused, ask for a layered
+  shake: vanilla, chocolate, and strawberry in the same cup.'
+priceEstimate: $3.50 - $4.50
 relatedArticles:
-  - "mcdonalds-ice-cream-machine-truth"
+- mcdonalds-ice-cream-machine-truth
 faq:
-  - question: "Is there a Neapolitan shake at McDonald's?"
-    answer: "There is no official Neapolitan shake on the McDonald's menu. It is a secret menu hack where you request the employee to manually layer chocolate, vanilla, and strawberry flavors into a single cup."
-  - question: "Will McDonald's employees actually make a Neapolitan shake?"
-    answer: "It depends on the location and how busy they are. Because it requires manually overriding the Taylor C606 machine's syrup manifold three separate times—which destroys the 45-second drive-thru timer metric—many employees during a rush will refuse or simply claim the machine is broken."
+- question: Is there a Neapolitan shake at McDonald's?
+  answer: There is no official Neapolitan shake on the McDonald's menu. It is a secret
+    menu hack where you request the employee to manually layer chocolate, vanilla,
+    and strawberry flavors into a single cup.
+- question: Will McDonald's employees actually make a Neapolitan shake?
+  answer: "It depends on the location and how busy they are. Because it requires manually\
+    \ overriding the Taylor C606 machine's syrup manifold three separate times\u2014\
+    which destroys the 45-second drive-thru timer metric\u2014many employees during\
+    \ a rush will refuse or simply claim the machine is broken."
 ---
-
 The reality of the McDonald's drive-thru window is that every second is tracked, measured, and heavily penalized by corporate metrics. The target time at the final window is 45 seconds. Handing out a standard burger and a Coke takes about 12 seconds. Handing out a single-flavor milkshake takes about 8 seconds. 
 
 Handing out a "Neapolitan Shake"—a viral secret menu hack that demands a perfectly layered stack of strawberry, vanilla, and chocolate—takes upwards of 35 seconds of pure, unadulterated manual labor from the window presenter. When you order this during a Friday dinner rush, you are actively bringing the entire drive-thru operation to a screeching halt. 
@@ -31,6 +39,10 @@ Handing out a "Neapolitan Shake"—a viral secret menu hack that demands a perfe
 As a former multi-unit kitchen manager, I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn't just an annoyance; it is a mechanical nightmare for the infamously fragile Taylor C602 shake machine. Here is the unvarnished breakdown of exactly what happens behind the counter when that ticket prints on the line.
 
 ## The Mechanical Reality of the Taylor C606 Manifold
+
+![Operational view](../../assets/images/general/generic-exterior.webp)
+
+
 
 Most customers assume that McDonald's has three separate vats of flavored ice cream spinning in the back of the machine. The reality of the line is entirely different. 
 

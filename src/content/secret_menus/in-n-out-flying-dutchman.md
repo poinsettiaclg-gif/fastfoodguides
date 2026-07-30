@@ -1,30 +1,34 @@
 ---
-title: "The Flying Dutchman: In-N-Out's Keto Secret Menu Staple Explained"
-description: "A former QSR manager breaks down In-N-Out's Flying Dutchman, explaining why grill cooks love this zero-carb burger build and how to order it like a pro."
-pubDate: "2025-02-13"
-updatedDate: "2026-07-25"
-chain: "In-N-Out"
+title: 'The Flying Dutchman: In-N-Out''s Keto Secret Menu Staple Explained'
+description: A former QSR manager breaks down In-N-Out's Flying Dutchman, explaining
+  why grill cooks love this zero-carb burger build and how to order it like a pro.
+pubDate: '2025-02-13'
+updatedDate: '2026-07-25'
+chain: In-N-Out
 operationalAnnoyanceScore: 2
 isVerified: true
 ingredients:
-  - "Two 100% pure beef patties"
-  - "Two slices of American cheese"
-  - "No bun, no lettuce, no tomato"
-howToOrder: "I'd like a Flying Dutchman, please."
-priceEstimate: "$2.90"
+- Two 100% pure beef patties
+- Two slices of American cheese
+- No bun, no lettuce, no tomato
+howToOrder: I'd like a Flying Dutchman, please.
+priceEstimate: $2.90
 relatedArticles:
-  - "in-n-out-animal-style-fries"
-  - "in-n-out-double-double-assembly"
-  - "in-n-out-board-station"
+- in-n-out-animal-style-fries
+- in-n-out-double-double-assembly
+- in-n-out-board-station
 faq:
-  - question: "What is an In-N-Out Flying Dutchman?"
-    answer: "The Flying Dutchman is a zero-carb secret menu burger consisting of exactly two slices of melted American cheese sandwiched between two grilled 100% beef patties, served without buns, lettuce, tomatoes, or spread."
-  - question: "Why does the In-N-Out kitchen staff like making the Flying Dutchman?"
-    answer: "Unlike complex Animal Style or 4x4 builds, the Flying Dutchman requires zero board assembly time, bun toasting, or produce portioning. It is assembled entirely on the griddle by the grill cook in seconds."
-  - question: "Can I get onion wrapped around my Flying Dutchman?"
-    answer: "Yes. Due to a viral social media trend, you can order a 'Flying Dutchman Whole Grilled Onion Wrapped,' where the grill cook replaces the bun with two thick-cut, caramelized whole grilled onion slices."
+- question: What is an In-N-Out Flying Dutchman?
+  answer: The Flying Dutchman is a zero-carb secret menu burger consisting of exactly
+    two slices of melted American cheese sandwiched between two grilled 100% beef
+    patties, served without buns, lettuce, tomatoes, or spread.
+- question: Why does the In-N-Out kitchen staff like making the Flying Dutchman?
+  answer: Unlike complex Animal Style or 4x4 builds, the Flying Dutchman requires
+    zero board assembly time, bun toasting, or produce portioning. It is assembled
+    entirely on the griddle by the grill cook in seconds.
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
 ---
-
 While the printed menu at In-N-Out Burger is famously minimalist—offering only burgers, fries, shakes, and drinks—the West Coast chain is globally recognized for its expansive, highly codified **Secret Menu**. 
 
 Among the towering 4x4s and loaded [Animal Style Fries](/articles/in-n-out-animal-style-fries), one item stands out as the ultimate low-carb, keto-friendly staple: **The Flying Dutchman**.
@@ -32,6 +36,10 @@ Among the towering 4x4s and loaded [Animal Style Fries](/articles/in-n-out-anima
 To the uninitiated, the Flying Dutchman looks like an incomplete burger. To a former quick-service restaurant (QSR) manager who understands the ergonomics of the [In-N-Out Board Station](/articles/in-n-out-board-station), it is one of the most efficient, kitchen-friendly items a customer can possibly order. Here is the exact operational reality behind the Flying Dutchman, how it is made on the line, and how to order it without disrupting kitchen throughput.
 
 ## 1. Anatomy of the Flying Dutchman Build
+
+![Operational view](../../assets/images/general/generic-pos.webp)
+
+
 
 At its core, the Flying Dutchman is a marvel of culinary simplicity. When keyed into the POS register, the ticket prints to the kitchen simply as `FLYING DUTCHMAN`. 
 
@@ -65,3 +73,7 @@ If you want to upgrade your Flying Dutchman without slowing down the kitchen lin
 *   **Add Grilled Onions:** Ask for regular "Grilled Onions" added to your Flying Dutchman. The cook will drop a scoop of pre-caramelized diced onions between the two cheese slices at zero extra cost and zero extra time.
 *   **Order Spread on the Side:** Because putting liquid spread directly onto bare meat patties in a box creates a soupy, sliding mess, always ask for **"Spread on the Side."** You will receive sealed packets of In-N-Out's signature Thousand Island dressing to dip your beef bites at your own pace.
 *   **Ask for Mustard Grilled:** You can request your Flying Dutchman **"Mustard Grilled."** The cook will squirt yellow mustard directly onto the raw side of the beef patties while on the griddle before flipping them, searing a tangy, caramelized crust directly into the meat.
+
+
+<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
+

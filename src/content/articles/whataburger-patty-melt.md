@@ -1,24 +1,25 @@
 ---
-title: "Whataburger Patty Melt: Texas Toast on the Grill"
-description: "Whataburger's Patty Melt uses Texas Toast grilled in butter on a flat-top. Here's how the sandwich is built and what makes the cook so specific."
-pubDate: "2025-06-24"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Whataburger"
-topic: "Burgers"
+title: 'Whataburger Patty Melt: Texas Toast on the Grill'
+description: Whataburger's Patty Melt uses Texas Toast grilled in butter on a flat-top.
+  Here's how the sandwich is built and what makes the cook so specific.
+pubDate: '2025-06-24'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Whataburger
+topic: Burgers
 relatedArticles:
-  - "mcdonalds-fry-station"
-  - "chick-fil-a-breading-process"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- mcdonalds-fry-station
+- chick-fil-a-breading-process
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "What kind of bread is used for the Whataburger Patty Melt?"
-    answer: "The Patty Melt uses thick-cut Texas toast that is buttered and griddled on the flat-top until golden brown."
-  - question: "What is the sauce on the Whataburger Patty Melt?"
-    answer: "It uses a proprietary Creamy Pepper sauce, which is a peppercorn-based cream sauce with visible flecks of cracked black pepper."
+- question: What kind of bread is used for the Whataburger Patty Melt?
+  answer: The Patty Melt uses thick-cut Texas toast that is buttered and griddled
+    on the flat-top until golden brown.
+- question: What is the sauce on the Whataburger Patty Melt?
+  answer: It uses a proprietary Creamy Pepper sauce, which is a peppercorn-based cream
+    sauce with visible flecks of cracked black pepper.
 ---
-
 7.  How is the Whataburger Patty Melt Made? (Behind the Grill)
 
 
@@ -28,7 +29,7 @@ I spent several years working in QSR kitchens across Texas, and From firsthand e
 
 ## The Grill Setup and Patty Cook
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -44,7 +45,7 @@ Cook time runs about 3 to 4 minutes per side, depending on grill position and ho
 
 ## The Texas Toast — This Is Where It Gets Good
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 The Texas toast is what separates the patty melt from a regular cheeseburger, and Whataburger does not phone this step in.
 
@@ -134,7 +135,7 @@ Third — and this is the one nobody talks about in corporate meetings — the p
 
 Whataburger is one of those chains where the brand identity bleeds into the kitchen culture. The orange-and-white color scheme isn't just on the building and the cups — it's on the uniforms, the ticket printers, the wall clocks, the scheduling board. When you work at Whataburger, you are surrounded by orange.
 
-But the culture goes deeper than paint colors. Whataburger operates with a certain pride in being a Texas institution. Kitchen managers are trained to emphasize quality at every station, and there's a genuine expectation that every patty melt goes out right. I've seen managers pull sandwiches off the line because the toast wasn't golden enough or the cheese hadn't fully melted. That doesn't happen at every chain.
+But the culture goes deeper than paint colors. Whataburger operates with a certain pride in being a Texas institution. Kitchen managers are trained to emphasize quality at every station, and there's a genuine expectation that every patty melt goes out right. Actually managers pull sandwiches off the line because the toast wasn't golden enough or the cheese hadn't fully melted. That doesn't happen at every chain.
 
 The 24-hour operating schedule also plays a role. Whataburger's kitchen never shuts down, which means the grill team develops a rhythm that other chains can't match. The late-night crew, in particular, tends to be the most skilled and the most efficient. They're cooking patty melts at 3 AM with the same precision as the lunch rush, and often with better consistency because the kitchen isn't as chaotic.
 

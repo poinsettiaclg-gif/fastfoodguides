@@ -1,24 +1,27 @@
 ---
-title: "Applebee's Microwave: What Gets Reheated"
-description: "Applebee's uses microwaves for some dishes. Here's exactly which items get reheated and how it affects the final meal you're served."
-pubDate: "2025-01-31"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Applebee's"
-topic: "Other Chains"
+title: 'Applebee''s Microwave: What Gets Reheated'
+description: Applebee's uses microwaves for some dishes. Here's exactly which items
+  get reheated and how it affects the final meal you're served.
+pubDate: '2025-01-31'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Applebee's
+topic: Other Chains
 relatedArticles:
-  - "chilis-baby-back-ribs"
-  - "mcdonalds-fry-station"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- chilis-baby-back-ribs
+- mcdonalds-fry-station
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Is the TurboChef actually just a microwave?"
-    answer: "No, a TurboChef is a high-speed hybrid oven that combines microwave energy with impinged hot air convection, allowing it to brown, crisp, and caramelize food in 30-90 seconds, which standard microwaves cannot do."
-  - question: "Are Applebee's steaks microwaved?"
-    answer: "No, every steak is cooked from raw on a charbroiler or flat-top griddle. Microwaves and TurboChef ovens are strictly for therming sides, soups, and certain pre-prepped appetizers."
+- question: Is the TurboChef actually just a microwave?
+  answer: No, a TurboChef is a high-speed hybrid oven that combines microwave energy
+    with impinged hot air convection, allowing it to brown, crisp, and caramelize
+    food in 30-90 seconds, which standard microwaves cannot do.
+- question: Are Applebee's steaks microwaved?
+  answer: No, every steak is cooked from raw on a charbroiler or flat-top griddle.
+    Microwaves and TurboChef ovens are strictly for therming sides, soups, and certain
+    pre-prepped appetizers.
 ---
-
 ## The "Chef Mike" Reputation — And the Real Story
 
 If you've spent any time on the internet reading about chain restaurants, you've heard the jokes. "Chef Mike" — the microwave — is Applebee's real head chef. Reddit threads, TikTok exposés, disgruntled former employees all say the same thing: everything at Applebee's gets nuked.
@@ -31,7 +34,7 @@ I managed kitchens across three Applebee's locations for over five years. And I'
 
 <div class="callout callout-tip">**ProTip:** The biggest bottleneck during a Friday night rush isn't the cooking—it's workload sequencing across the fryers, grills, and TurboChef ovens. A disorganized line cook can crater ticket times by failing to coordinate the charbroiler proteins with the 90-second microwave sides.</div>
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## What Specifically Gets Microwaved
 

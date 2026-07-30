@@ -1,26 +1,25 @@
 ---
-title: "How Does Taco Bell Rehydrate Their Beans?"
-description: "Former QSR manager reveals how Taco Bell transforms dehydrated bean pellets into creamy refried beans, including the water ratio secrets most training skips."
-pubDate: "2025-09-22"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Taco Bell"
-topic: "Mexican"
+title: How Does Taco Bell Rehydrate Their Beans?
+description: Former QSR manager reveals how Taco Bell transforms dehydrated bean pellets
+  into creamy refried beans, including the water ratio secrets most training skips.
+pubDate: '2025-09-22'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Taco Bell
+topic: Mexican
 relatedArticles:
-  - "taco-bell-drive-thru-timer"
-  - "taco-bell-linebacker-role"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- taco-bell-drive-thru-timer
+- taco-bell-linebacker-role
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-  - question: "Are Taco Bell's refried beans vegetarian?"
-    answer: "Yes. The dehydrated pellets contain no animal-derived ingredients—no lard, no beef fat, no chicken stock. They are certified vegetarian."
-  - question: "How long does the rehydration process take?"
-    answer: "The beans typically need to sit in the heated holding cabinet for approximately 45 minutes to fully absorb the boiling water and reach the correct consistency."
+- question: Are Taco Bell's refried beans vegetarian?
+  answer: "Yes. The dehydrated pellets contain no animal-derived ingredients\u2014\
+    no lard, no beef fat, no chicken stock. They are certified vegetarian."
+- question: How long does the rehydration process take?
+  answer: The beans typically need to sit in the heated holding cabinet for approximately
+    45 minutes to fully absorb the boiling water and reach the correct consistency.
 ---
-
-
-
 Taco Bell relies on the brilliantly engineered food science shortcuts you will encounter to serve thousands of pounds of refried beans every day. If you picture someone soaking raw pinto beans overnight and mashing them by hand, let that image go. The actual process involves boiling water, a timer, and bags of dehydrated pellets—and nailing the exact ratio is the difference between creamy beans and a watery mess. 
 
 ## They Arrive as Dehydrated Pellets
@@ -37,10 +36,10 @@ The dehydration is pure logistics genius. Shipping water is expensive—it's hea
 
 ## The Rehydration Process Step by Step
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 When it's time to prep a fresh batch for the makeline, here's exactly what happens:

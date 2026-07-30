@@ -1,21 +1,24 @@
 ---
-title: "Wendy's First Day Training: What to Actually Expect During Orientation"
-description: "A realistic breakdown of your first shift at Wendy's, from the WeLearn modules to the shoe requirements. Written by a former QSR manager."
-pubDate: "2025-07-13"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "10-Year QSR Operations Manager"
-chain: "Wendy's"
-topic: "Training"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: 'Wendy''s First Day Training: What to Actually Expect During Orientation'
+description: A realistic breakdown of your first shift at Wendy's, from the WeLearn
+  modules to the shoe requirements. Written by a former QSR manager.
+pubDate: '2025-07-13'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: 10-Year QSR Operations Manager
+chain: Wendy's
+topic: Training
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-  - "wendys-fresh-never-frozen"
-  - "wendys-clamshell-grill"
+- wendys-fresh-never-frozen
+- wendys-clamshell-grill
 faq:
-  - question: "What happens at Wendy's orientation?"
-    answer: "You will fill out your I-9 and W-4, review the employee handbook, watch mandatory safety and training videos on the WeLearn system, and get your uniform."
-  - question: "What is the Wendy's uniform?"
-    answer: "Wendy's provides the shirt, hat, and sometimes an apron. You must provide dark pants (black slacks or jeans) and slip-resistant shoes."
+- question: What happens at Wendy's orientation?
+  answer: You will fill out your I-9 and W-4, review the employee handbook, watch
+    mandatory safety and training videos on the WeLearn system, and get your uniform.
+- question: What is the Wendy's uniform?
+  answer: Wendy's provides the shirt, hat, and sometimes an apron. You must provide
+    dark pants (black slacks or jeans) and slip-resistant shoes.
 ---
 The back door clicks behind you, the smell of fryer oil hits your clothes instantly, and someone shoves a tablet into your hands. Welcome to your first day at Wendy's. 
 
@@ -24,6 +27,10 @@ I've watched hundreds of newcomers walk through that exact same door over my dec
 Your first day is not going to involve managing a lunch rush or getting yelled at by a drive-thru customer. It is overwhelmingly a day of paperwork and screen time. This is the reality of day one.
 
 ## The Paperwork and the Uniform
+
+![Operational view](../../assets/images/general/generic-prep.webp)
+
+
 
 Before you can even touch a spatula, you have to be legally onboarded. 
 

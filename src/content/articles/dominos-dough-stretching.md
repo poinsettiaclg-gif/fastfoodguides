@@ -1,23 +1,26 @@
 ---
-title: "Domino's Dough Stretching: The Hand-Toss Technique"
-description: "Domino's hand-toss requires a specific stretch to hit the right crust thickness. Here's the technique cooks are trained to use every single order."
-pubDate: "2024-07-31"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Domino's"
-topic: "Pizza"
+title: 'Domino''s Dough Stretching: The Hand-Toss Technique'
+description: Domino's hand-toss requires a specific stretch to hit the right crust
+  thickness. Here's the technique cooks are trained to use every single order.
+pubDate: '2024-07-31'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Domino's
+topic: Pizza
 relatedArticles:
-  - "dominos-gas"
-
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- dominos-gas
+heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-  - question: "Why does Domino's use cornmeal instead of flour to stretch dough?"
-    answer: "Domino's uses a cornmeal blend because it prevents the dough from sticking to the prep surface and pizza screen, while also providing a signature crispy, slightly gritty texture to the bottom of the baked crust."
-  - question: "How long does Domino's dough need to proof?"
-    answer: "Dough balls typically need to sit at room temperature for 45 to 60 minutes before they are pliable enough to stretch properly without tearing or snapping back."
+- question: Why does Domino's use cornmeal instead of flour to stretch dough?
+  answer: Domino's uses a cornmeal blend because it prevents the dough from sticking
+    to the prep surface and pizza screen, while also providing a signature crispy,
+    slightly gritty texture to the bottom of the baked crust.
+- question: How long does Domino's dough need to proof?
+  answer: Dough balls typically need to sit at room temperature for 45 to 60 minutes
+    before they are pliable enough to stretch properly without tearing or snapping
+    back.
 ---
-
 ## The Dough Does Not Arrive as Dough
 
 A seasoned Domino's makeline worker can stretch, sauce, and cheese a large pizza in under 60 seconds. But that speed relies entirely on prep happening hours earlier. People often assume the stores are mixing flour and water in the back, but **Domino's dough actually arrives pre-made from a regional commissary** in the form of individual dough balls. Every single ball is weighed to its specific size class down to the gram, ensuring identical crusts across 19,000+ locations. 
@@ -44,7 +47,7 @@ A common rookie mistake is pressing too aggressively in the center, creating a p
 
 <div class="callout callout-tip">**ProTip:** If your dough is under-proofed and too cold, it will snap back like a rubber band and produce massive air bubbles in the oven. If you see bubbles forming on a cold-stretched pizza, you'll have to reach in and stab them with the long-handled bubble popper.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 ### Step 3: Stretch to Size
 
@@ -76,7 +79,7 @@ From left to right, a standard Domino's makeline looks like this:
 4. **Topping bins** — a refrigerated rail of 15-20 toppings, each in its own compartment
 5. **Oven entrance** — the conveyor belt that feeds into the impinger oven
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The 2-Minute Build Target
 

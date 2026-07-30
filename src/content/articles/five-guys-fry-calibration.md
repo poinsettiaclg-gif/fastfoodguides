@@ -1,26 +1,26 @@
 ---
-title: "What is the Five Guys \"Fry Calibration\" Every Morning?"
-description: "A QSR veteran explains the daily Five Guys fry calibration process—the Mush Test, two-stage cooking, starch washing, and why potatoes change every week."
-pubDate: "2024-10-06"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Five Guys"
-topic: "Burgers"
+title: What is the Five Guys "Fry Calibration" Every Morning?
+description: "A QSR veteran explains the daily Five Guys fry calibration process\u2014\
+  the Mush Test, two-stage cooking, starch washing, and why potatoes change every\
+  \ week."
+pubDate: '2024-10-06'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Five Guys
+topic: Burgers
 faq:
-  - question: "How often does Five Guys calibrate their fryers?"
-    answer: "Calibration is performed twice daily, typically before opening and before the dinner shift, to account for changing conditions."
-  - question: "What is the mush test?"
-    answer: "The mush test involves squeezing a cooled, pre-cooked fry to ensure the inside has a mashed potato consistency before the final cook."
+- question: How often does Five Guys calibrate their fryers?
+  answer: Calibration is performed twice daily, typically before opening and before
+    the dinner shift, to account for changing conditions.
+- question: What is the mush test?
+  answer: The mush test involves squeezing a cooled, pre-cooked fry to ensure the
+    inside has a mashed potato consistency before the final cook.
 relatedArticles:
-  - "five-guys-no-freezers"
-  - "in-n-out-board-station"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- five-guys-no-freezers
+- in-n-out-board-station
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
-
-
 Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider. 
 
 ## The Morning Potato Prep: It All Starts With a Knife and Cold Water
@@ -39,7 +39,7 @@ Some batches need 20 minutes of soaking. Others need 30 or more, depending on ho
 
 ## The Two-Stage Cook: Why Five Guys Fries Are Different From Every Other Chain
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 You cannot just drop raw potato sticks into 350-degree peanut oil and expect a Five Guys fry. They use a strict two-stage cooking process borrowed from the Belgian double-fry technique, adapted for a high-volume fast-food environment:
@@ -52,7 +52,7 @@ The science is straightforward: the first cook gelatinizes the starch inside the
 
 ## The Calibration: What Actually Happens and Why It's Non-Negotiable
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Here's the thing nobody outside the industry understands about potatoes: they're a living agricultural product, and they change constantly. A potato harvested in September has different sugar content than one harvested in November. A potato stored in cold conditions for two months has converted more of its starch into sugar. A potato from Idaho behaves differently than one from Washington state. These variations directly affect how fast the fry browns, how long it needs to cook, and what the finished product looks and tastes like.
@@ -98,6 +98,6 @@ Absolutely. A properly calibrated batch is light golden, audibly crispy on the o
 
 ### What happens if the fry cook skips calibration entirely?
 
-If the timers from the previous day are left unchanged and the new batch of potatoes has different sugar or moisture content, fries will come out inconsistent all day long. You'll get a mix of burnt fries, pale fries, and fries with raw centers—sometimes in the same batch. The opening manager is ultimately responsible for ensuring calibration happens every morning without exception. Skipping it is one of the fastest ways to generate a wave of customer complaints before the lunch rush even starts.
+If the timers from the previous day are left unchanged and the new batch of potatoes has different sugar or moisture content, fries will come out inconsistent all day long. You'll get a mix of burnt fries, pale fries, and fries with raw centers—sometimes in the same batch. The opening manager is Actually responsible for ensuring calibration happens every morning without exception. Skipping it is one of the fastest ways to generate a wave of customer complaints before the lunch rush even starts.
 
 ---

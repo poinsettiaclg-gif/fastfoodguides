@@ -1,32 +1,35 @@
 ---
-title: "How to Memorize the In-N-Out POS System and Secret Menu"
-description: "A fast-food worker's guide to mastering In-N-Out's POS system and handling Secret Menu orders like Animal Style, Protein Style, and Flying Dutchman."
-pubDate: "2025-10-19"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "In-N-Out Burger"
-topic: "Burgers"
+title: How to Memorize the In-N-Out POS System and Secret Menu
+description: A fast-food worker's guide to mastering In-N-Out's POS system and handling
+  Secret Menu orders like Animal Style, Protein Style, and Flying Dutchman.
+pubDate: '2025-10-19'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: In-N-Out Burger
+topic: Burgers
 relatedArticles:
-  - "in-n-out-level-system"
-  - "in-n-out-board-station"
+- in-n-out-level-system
+- in-n-out-board-station
 faq:
-  - question: "Is the Secret Menu officially recognized by In-N-Out?"
-    answer: "In-N-Out doesn't advertise the Secret Menu on menu boards, but the company acknowledges these items exist. The POS has dedicated buttons for them, and every Associate is trained to take them."
-  - question: "Do customers ever order Secret Menu items that don't actually exist?"
-    answer: "Occasionally. Social media has spawned some mythical items that aren't in the POS system. If a customer orders something you don't recognize, politely ask them to describe what they want, as it's often a combination of existing modifiers you can build manually."
-heroImage: "../../assets/images/general/generic-fryer.jpg"
+- question: Is the Secret Menu officially recognized by In-N-Out?
+  answer: In-N-Out doesn't advertise the Secret Menu on menu boards, but the company
+    acknowledges these items exist. The POS has dedicated buttons for them, and every
+    Associate is trained to take them.
+- question: Do customers ever order Secret Menu items that don't actually exist?
+  answer: Occasionally. Social media has spawned some mythical items that aren't in
+    the POS system. If a customer orders something you don't recognize, politely ask
+    them to describe what they want, as it's often a combination of existing modifiers
+    you can build manually.
+heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-
-
-
 If you look at [the In-N-Out](/articles/in-n-out-board-station) drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
 
 Before your first register shift, you should know: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru, you need to know these orders inside and out.
 
 ## The POS System Is Built for Speed
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -67,7 +70,7 @@ One area that consistently trips up new Associates is the transition from the fo
 
 ## What the Kitchen Sees When You Hit Send
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Understanding the kitchen side of the POS makes you a better order taker. When you send an order, the kitchen display shows shorthand codes: "DD AS MF" means Double-Double Animal Style Mustard Fried. "HB PS" means Hamburger Protein Style. Learning these abbreviations helps you troubleshoot when a cook asks you to clarify an order—and it happens more often than you'd think, especially with stacked modifiers on a single item.

@@ -1,27 +1,37 @@
 ---
-title: "The McDonald's Q-ing Oven: The 2000-Watt Unsung Hero of the Breakfast Rush"
-description: "A deep dive into the McDonald's Q-ing oven. An operations manager breaks down how this 2000-watt commercial microwave dictates the speed of the breakfast line."
-pubDate: "2024-12-20"
-author: "Russell Roseberry"
-authorTitle: "Former Multi-Unit Kitchen Manager"
-chain: "McDonald's"
-topic: "Equipment"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: 'The McDonald''s Q-ing Oven: The 2000-Watt Unsung Hero of the Breakfast Rush'
+description: A deep dive into the McDonald's Q-ing oven. An operations manager breaks
+  down how this 2000-watt commercial microwave dictates the speed of the breakfast
+  line.
+pubDate: '2024-12-20'
+author: Russell Roseberry
+authorTitle: Former Multi-Unit Kitchen Manager
+chain: McDonald's
+topic: Equipment
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-  - "mcdonalds-uhc-cabinet"
-  - "mcdonalds-first-day-training"
+- mcdonalds-uhc-cabinet
+- mcdonalds-first-day-training
 faq:
-  - question: "What is a McDonald's Q-ing oven?"
-    answer: "A Q-ing oven is McDonald's internal term for a commercial-grade, high-powered microwave (typically 2000 watts) used to rapidly heat specific breakfast items like McGriddles and hotcakes."
-  - question: "Why doesn't McDonald's use regular microwaves?"
-    answer: "Regular domestic microwaves operate at around 800 watts and require manual time entry. A Q-ing oven uses pre-programmed 'Q-codes' to blast specific items with intense heat for exact micro-intervals, ensuring consistency in a high-volume kitchen."
+- question: What is a McDonald's Q-ing oven?
+  answer: A Q-ing oven is McDonald's internal term for a commercial-grade, high-powered
+    microwave (typically 2000 watts) used to rapidly heat specific breakfast items
+    like McGriddles and hotcakes.
+- question: Why doesn't McDonald's use regular microwaves?
+  answer: Regular domestic microwaves operate at around 800 watts and require manual
+    time entry. A Q-ing oven uses pre-programmed 'Q-codes' to blast specific items
+    with intense heat for exact micro-intervals, ensuring consistency in a high-volume
+    kitchen.
 ---
-
 The reality of the McDonald's breakfast rush is that it is a brutal, high-speed ballet of frozen logistics. The grill is slammed with folded eggs and sausage patties, the UHC (Universal Holding Cabinet) is constantly depleting, and the drive-thru timer is flashing red. But nestled amidst the stainless steel chaos is a piece of equipment that rarely gets the spotlight, yet absolutely dictates the flow of the entire breakfast line: **The Q-ing Oven**.
 
 To the untrained eye, it looks like a heavy-duty microwave. To a kitchen manager, the Q-ing oven—often manufactured specifically for McDonald's by commercial brands like Amana or ACP—is the 2000-watt lifeblood of the morning shift.
 
 ## What is "Q-ing"?
+
+![Operational view](../../assets/images/general/generic-prep.webp)
+
+
 
 First, let's address the terminology. "Q-ing" is McDonald's internal shorthand for rapidly reheating or steam-finishing specific menu items. It stands for "Qualitying," though you will rarely hear an employee use the full word. 
 
@@ -71,7 +81,7 @@ Every domestic kitchen user knows you cannot put metal in a microwave. But when 
 
 McDonald's utilizes high-heat plastic trays and specific silicone liners for the Q-ing oven. However, during an overwhelming breakfast rush when the silicone liners are all sitting in the dish pit waiting to be washed, panicked crew members will sometimes attempt to cut corners. If an employee accidentally leaves a metal pair of tongs resting on the tray, or worse, attempts to Q a product sitting directly on a stainless steel prep pan, the results are catastrophic. 
 
-The 2000-watt magnetron will immediately arc, producing a terrifying light show and a loud pop that sounds like a gunshot. This will instantly fry the magnetron, turning a $1,500 piece of vital kitchen equipment into a useless metal box. When this happens, the store manager has to explain to the franchise owner why their drive-thru times just jumped by three minutes, and the employee is generally sent home.
+The 2000-watt magnetron will immediately arc, producing a terrifying light show and a loud pop that sounds like a gunshot. This will instantly fry the magnetron, turning a $1,500 piece of Actually kitchen equipment into a useless metal box. When this happens, the store manager has to explain to the franchise owner why their drive-thru times just jumped by three minutes, and the employee is generally sent home.
 
 ## The Verdict on the Q-ing Oven
 

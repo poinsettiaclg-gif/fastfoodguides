@@ -1,26 +1,38 @@
 ---
-title: "Your First Day at Chick-fil-A: What Actually Happens"
-description: "Nervous about your first shift at Chick-fil-A? From iPad order taking to the Core 4, here's the exact breakdown of what to expect during orientation and your first day on the floor."
-pubDate: "2025-05-11"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
-category: "Careers"
-chain: "Chick-fil-A"
-topic: "Training"
-tags: ["chick-fil-a", "first day", "fast food jobs", "orientation", "core 4", "ipos"]
+title: 'Your First Day at Chick-fil-A: What Actually Happens'
+description: Nervous about your first shift at Chick-fil-A? From iPad order taking
+  to the Core 4, here's the exact breakdown of what to expect during orientation and
+  your first day on the floor.
+pubDate: '2025-05-11'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+heroImage: ../../assets/images/general/generic-fryer-3.webp
+category: Careers
+chain: Chick-fil-A
+topic: Training
+tags:
+- chick-fil-a
+- first day
+- fast food jobs
+- orientation
+- core 4
+- ipos
 faq:
-  - question: "What should I wear to Chick-fil-A orientation?"
-    answer: "Business casual attire or your uniform if it was already provided. You must adhere to their strict grooming standards: clean-shaven (no facial hair), natural hair colors, and slip-resistant shoes."
-  - question: "What is the Chick-fil-A 'Core 4'?"
-    answer: "The Core 4 is their foundational customer service model: Create eye contact, share a smile, speak with an enthusiastic tone, and stay connected to make it personal."
+- question: What should I wear to Chick-fil-A orientation?
+  answer: 'Business casual attire or your uniform if it was already provided. You
+    must adhere to their strict grooming standards: clean-shaven (no facial hair),
+    natural hair colors, and slip-resistant shoes.'
+- question: What is the Chick-fil-A 'Core 4'?
+  answer: 'The Core 4 is their foundational customer service model: Create eye contact,
+    share a smile, speak with an enthusiastic tone, and stay connected to make it
+    personal.'
 ---
 Walking into a Chick-fil-A for your first day of training is an intense experience. The sheer volume of cars in the drive-thru, the number of employees behind the counter, and the rapid-fire language they use ("Heard," "Holding on nuggets," "My pleasure") can make you feel like you just stepped onto a stock exchange trading floor.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
-As a former QSR Operations Manager who has hired and trained hundreds of team members, I can tell you that Chick-fil-A's training program is arguably the best in the fast-food industry. They don't expect you to know everything on day one, but they do expect a specific attitude. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
+As a former QSR Operations Manager who has hired and trained hundreds of team members, Actually that Chick-fil-A's training program is arguably the best in the fast-food industry. They don't expect you to know everything on day one, but they do expect a specific attitude. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
 
 Here is exactly what you can expect on your first day at Chick-fil-A, hour by hour.
 

@@ -1,24 +1,26 @@
 ---
-title: "The Wendy's Drive-Thru Timer and the 'Pull Forward' Policy"
-description: "Why does Wendy's ask you to pull forward at the drive-thru? An insider look at drive-thru timers, SOS (Speed of Service) metrics, and why seconds matter."
-pubDate: "2025-10-05"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Wendy's"
-topic: "Operations"
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+title: The Wendy's Drive-Thru Timer and the 'Pull Forward' Policy
+description: Why does Wendy's ask you to pull forward at the drive-thru? An insider
+  look at drive-thru timers, SOS (Speed of Service) metrics, and why seconds matter.
+pubDate: '2025-10-05'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Wendy's
+topic: Operations
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-  - wendys-4-corner-press
-  - wendys-fresh-never-frozen
+- wendys-4-corner-press
+- wendys-fresh-never-frozen
 faq:
-  - question: "What is the SOS goal for Wendy's drive-thru?"
-    answer: "Wendy's Speed of Service (SOS) target is usually between 90 and 120 seconds per car, tracking the time from the menu board to the pickup window."
-  - question: "Why do they make me pull forward if no one is behind me?"
-    answer: "Even when the line is empty, managers will ask you to pull forward to clear the magnetic sensor at the window. This stops the timer and prevents the store's metrics from turning red."
-
+- question: What is the SOS goal for Wendy's drive-thru?
+  answer: Wendy's Speed of Service (SOS) target is usually between 90 and 120 seconds
+    per car, tracking the time from the menu board to the pickup window.
+- question: Why do they make me pull forward if no one is behind me?
+  answer: Even when the line is empty, managers will ask you to pull forward to clear
+    the magnetic sensor at the window. This stops the timer and prevents the store's
+    metrics from turning red.
 ---
-
 The ticket printer hasn't stopped for 45 minutes, the grill cook is frantically dropping fresh batches of spicy chicken, and three cars just pulled up to the speaker box at the exact same time. You hand the customer their drink and hit them with the line: 
 
 *"We're just waiting on fresh fries for you. Can you go ahead and pull forward to those yellow lines, and we’ll bring it right out?"*
@@ -28,6 +30,10 @@ To a customer, this seems like a minor inconvenience. But behind the window, ask
 According to [QSR Magazine's annual drive-thru study](https://www.qsrmagazine.com/), speed of service remains the top operational priority across the industry. This timer dictates everything that happens in a Wendy’s kitchen, and pulling forward is the only way the system survives a lunch rush.
 
 ## The SOS (Speed of Service) Metric
+
+![Operational view](../../assets/images/general/generic-baking.webp)
+
+
 
 At Wendy's, the ultimate metric of a shift manager’s success is **SOS**, or Speed of Service. 
 

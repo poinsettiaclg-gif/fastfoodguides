@@ -1,23 +1,26 @@
 ---
-title: "McDonald's Fry Station: Inside the Operation"
-description: "McDonald's fry station runs on a precise basket rotation and timer system. Here's how fry cooks manage oil quality and output during peak hours."
-pubDate: "2026-06-15"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Burgers"
+title: 'McDonald''s Fry Station: Inside the Operation'
+description: McDonald's fry station runs on a precise basket rotation and timer system.
+  Here's how fry cooks manage oil quality and output during peak hours.
+pubDate: '2026-06-15'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Burgers
 faq:
-  - question: "How do McDonald's employees manage the fry station during a rush?"
-    answer: "Employees often use 'proactive' strategies, such as keeping an extra basket down if they anticipate high volume or preparing a 'par' level of various fry sizes to quickly fulfill incoming orders."
-  - question: "Why is the fry station considered one of the most stressful positions?"
-    answer: "It is a high-pressure, repetitive task that requires constant attention to timers. The fry station is frequently 'in the weeds' during peak hours, and product quality is highly visible."
+- question: How do McDonald's employees manage the fry station during a rush?
+  answer: Employees often use 'proactive' strategies, such as keeping an extra basket
+    down if they anticipate high volume or preparing a 'par' level of various fry
+    sizes to quickly fulfill incoming orders.
+- question: Why is the fry station considered one of the most stressful positions?
+  answer: It is a high-pressure, repetitive task that requires constant attention
+    to timers. The fry station is frequently 'in the weeds' during peak hours, and
+    product quality is highly visible.
 relatedArticles:
-  - "mcdonalds-nugget-process"
-
-heroImage: "../../assets/images/general/generic-fryer-2.jpg"
+- mcdonalds-nugget-process
+heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-
 7.  How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
 
@@ -26,6 +29,10 @@ The volume at a typical McDonald's store means processing hundreds of pounds of 
 Here's the full picture — from potato field to the cardboard sleeve in your bag.
 
 ## What Happens Before the Fries Reach the Restaurant
+
+![Operational view](../../assets/images/general/generic-pos.webp)
+
+
 
 Most people assume McDonald's fries are just frozen potato strips that get dropped in hot oil. That's technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald's fries taste the way they do. 
 

@@ -1,23 +1,25 @@
 ---
-title: "McDonald's Nuggets: The Full Production Process"
-description: "McDonald's Chicken McNuggets follow a strict fry time and basket rotation system. Here's how the nugget station is managed during a busy lunch rush."
-pubDate: "2025-07-30"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "McDonald's"
-topic: "Chicken"
+title: 'McDonald''s Nuggets: The Full Production Process'
+description: McDonald's Chicken McNuggets follow a strict fry time and basket rotation
+  system. Here's how the nugget station is managed during a busy lunch rush.
+pubDate: '2025-07-30'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: McDonald's
+topic: Chicken
 faq:
-  - question: "Are McDonald's nuggets made of 'pink slime'?"
-    answer: "No. McDonald's has explicitly stated that this term is not associated with their McNuggets, which are made from whole chicken breast meat."
-  - question: "How does the process ensure the same taste globally?"
-    answer: "Standardized recipes, uniform industrial machinery, and strict supplier auditing processes are used to maintain consistent quality and safety standards worldwide."
+- question: Are McDonald's nuggets made of 'pink slime'?
+  answer: No. McDonald's has explicitly stated that this term is not associated with
+    their McNuggets, which are made from whole chicken breast meat.
+- question: How does the process ensure the same taste globally?
+  answer: Standardized recipes, uniform industrial machinery, and strict supplier
+    auditing processes are used to maintain consistent quality and safety standards
+    worldwide.
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- mcdonalds-ice-cream-machine
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
 
@@ -25,7 +27,7 @@ If there is one fast food item that has generated more conspiracy theories, urba
 
 ## What McNuggets Are Actually Made Of
 
-![Operational reference](../../assets/images/general/generic-prep.jpg)
+![Operational reference](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -45,7 +47,7 @@ Mechanically separated chicken involves forcing chicken carcasses (bones and all
 
 ## The Factory Process: Breast to Nugget
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.jpg)
+![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
 
 The journey from whole chicken to finished McNugget happens in a processing facility and follows a specific sequence:
 

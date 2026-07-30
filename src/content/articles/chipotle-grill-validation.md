@@ -1,20 +1,26 @@
 ---
-title: "The Chipotle Grill Cook: Why It's the Hardest Job in Fast Casual"
-description: "A gritty operational breakdown of the Chipotle Grill Station, the relentless 'Call' system, and why maintaining temperature validation logs breaks most fresh trainees."
-pubDate: "2025-03-10"
-updatedDate: "2026-07-23"
-author: "Russell Roseberry"
-authorTitle: "Former QSR Operations Manager"
-chain: "Chipotle"
-topic: "Operations"
+title: 'The Chipotle Grill Cook: Why It''s the Hardest Job in Fast Casual'
+description: A gritty operational breakdown of the Chipotle Grill Station, the relentless
+  'Call' system, and why maintaining temperature validation logs breaks most fresh
+  trainees.
+pubDate: '2025-03-10'
+updatedDate: '2026-07-23'
+author: Russell Roseberry
+authorTitle: Former QSR Operations Manager
+chain: Chipotle
+topic: Operations
 faq:
-  - question: "What is the Cooking to Needs (CTN) tool?"
-    answer: "The CTN tool helps grill cooks calculate exactly how much food to cook based on sales projections, preventing both shortages during rushes and excessive food waste."
-  - question: "How does the validation process actually work?"
-    answer: "Validation is the final phase of a 4-step training process (Introduce, Shadow, Perform, Validate). A Certified Trainer will observe you during a shift to ensure you can manage the station independently while maintaining food safety and throughput standards."
-heroImage: "../../assets/images/general/generic-fryer-3.jpg"
+- question: What is the Cooking to Needs (CTN) tool?
+  answer: The CTN tool helps grill cooks calculate exactly how much food to cook based
+    on sales projections, preventing both shortages during rushes and excessive food
+    waste.
+- question: How does the validation process actually work?
+  answer: Validation is the final phase of a 4-step training process (Introduce, Shadow,
+    Perform, Validate). A Certified Trainer will observe you during a shift to ensure
+    you can manage the station independently while maintaining food safety and throughput
+    standards.
+heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-
 I spent my first six months as a restaurant manager dreading the moment my main grill cook called in sick. While the front-of-house assembly line at Chipotle looks smooth and effortless, the reality is entirely different just over the sneeze guard. 
 
 If you look directly into the open kitchen during a noon lunch rush, you will see someone fighting for their life. 
@@ -49,7 +55,7 @@ Chipotle enforces a strict protocol for this. When a pan of chicken drops to a c
 
 A good Grill Cook isn't just reacting to calls; they are anticipating them. They know that a fresh pan of white rice will vanish in five minutes during a rush, so they already have the next batch mixing before the line even calls for it. 
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.jpg)
+![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
 ## Temperature Validation and Food Safety
 
