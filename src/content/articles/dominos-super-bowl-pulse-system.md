@@ -5,7 +5,7 @@ description: Domino's uses a real-time order monitoring system during peak event
 pubDate: '2026-02-03'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Operations
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
   answer: Corporate runs synthetic load testing before major events like the Super
     Bowl to simulate higher-than-expected traffic, ensuring the network backbone can
     handle the nationwide transaction spike.
+disclaimerType: medical
 ---
 If you work in the pizza industry, you don't care about the Super Bowl. You don't care who is playing, you don't care about the commercials, and you definitely don't care about the halftime show. You only care about the clock. 
 
@@ -35,7 +36,7 @@ At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS)
 
 ## The Brain of the Operation: The Pulse System
 
-![Operational view](../../assets/images/general/generic-walk-in.webp)
+![Domino](../../assets/images/general/generic-walk-in.webp)
 
 
 

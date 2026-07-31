@@ -5,7 +5,7 @@ description: Little Caesars uses a mechanical press to standardize every pizza d
 pubDate: '2026-02-22'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Little Caesars
 topic: Pizza
 relatedArticles:
@@ -25,7 +25,7 @@ At a traditional pizzeria, making a crust is a craft. You take a dough ball, str
 
 ## What the Sheeter Actually Is
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Little Caesars Sheet-Out Machine Press and Go](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -37,7 +37,7 @@ The rollers are calibrated to corporate specifications. The gap between them det
 
 ## The Two-Pass Technique
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Little Caesars Sheet-Out Machine Press and Go](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The actual process takes about three to four seconds per pizza, and it involves two passes through the rollers with a critical rotation between them.

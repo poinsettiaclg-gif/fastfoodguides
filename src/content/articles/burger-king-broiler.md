@@ -6,13 +6,14 @@ description: A veteran kitchen manager explains how the BK flame broiler really 
 pubDate: '2025-02-20'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Burger King
 topic: Burgers
 relatedArticles:
 - burger-king-broiler-closing
 - burger-king-expeditor-role
 - wendys-clamshell-grill
+disclaimerType: legal
 heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
 - question: Can customers order a burger 'hot off the broiler'?
@@ -28,7 +29,7 @@ Burger King's entire brand identity is built around four words: "Flame-Grilled W
 
 ## How the Flame Broiler Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How Does the Burger King Broiler Work, and Is It Dangerous?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -69,7 +70,7 @@ Burger King has rigorous safety protocols, and they exist for very good reasons.
 
 ## When the Broiler Goes Down
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Does the Burger King Broiler Work, and Is It Dangerous?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Despite its rugged construction, the broiler is a mechanical system that breaks. The most common failure is a faulty igniter—the component that lights the gas burners. When the igniter dies, the gas flows but does not light, and the machine shuts itself down as a safety measure.

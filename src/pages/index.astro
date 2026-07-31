@@ -34,6 +34,7 @@ const chainCounts = allContent.reduce(
 );
 
 const chains = Object.entries(chainCounts)
+	.filter(([, count]) => count >= 3)
 	.sort((a, b) => b[1] - a[1])
 	.map(([name, count]) => ({ name, count }));
 
@@ -49,6 +50,7 @@ const topicCounts = posts.reduce(
 );
 
 const topics = Object.entries(topicCounts)
+	.filter(([, count]) => count >= 3)
 	.sort((a, b) => b[1] - a[1])
 	.map(([name, count]) => ({ name, count }));
 

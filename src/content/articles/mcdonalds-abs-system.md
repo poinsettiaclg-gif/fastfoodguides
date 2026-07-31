@@ -5,7 +5,7 @@ description: McDonald's ABS (Assembly Board System) coordinates every made-to-or
 pubDate: '2024-09-19'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Burgers
 relatedArticles:
@@ -36,7 +36,7 @@ The machine has a hopper—a vertical tube—loaded with stacked cups of each si
 
 ## The Three-Step Fill Process
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![McDonald](../../assets/images/general/generic-prep.webp)
 
 
 Once the cup is on the belt, three things happen in rapid succession:
@@ -53,7 +53,7 @@ The entire journey—empty cup drop to finished drink in the staging area—take
 
 ## Why McDonald's Coke Actually Tastes Better
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![McDonald](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is one of the most common questions I've gotten over the years, and the ABS is a significant piece of the answer. McDonald's Coca-Cola consistently tastes crisper and more balanced than what you get at other fast food restaurants, and there are multiple factors at play.

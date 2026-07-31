@@ -6,7 +6,7 @@ description: Baja Blast is a Mountain Dew flavor made exclusively for Taco Bell.
 pubDate: '2025-03-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -22,15 +22,16 @@ faq:
   answer: Baja Blast was co-developed by PepsiCo and Taco Bell under an exclusivity
     agreement, designed specifically to pair with Taco Bell's menu items.
 heroImage: ../../assets/images/general/generic-pos.webp
+disclaimerType: medical
 ---
-7.  Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)
+## Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)
 
 
 There are roughly two dozen fountain drink options across all of fast food, and none of them generate the kind of fanatical devotion that Baja Blast does. This tropical lime Mountain Dew variant, with its unmistakable teal color, is the single most requested drink at every Taco Bell I have ever worked at or visited. And the question I heard more than any other — more than “is the ice cream machine working” at McDonald's, more than “can I get extra sauce” — was this: “Why can't I buy Baja Blast anywhere else?” The answer involves a carefully structured exclusivity deal between Taco Bell and PepsiCo, some very deliberate flavor science, and a scarcity strategy that turns a fountain drink into something people genuinely lose sleep over. 
 
 ## The PepsiCo Partnership: Built From Scratch for Taco Bell
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Taco Bell Baja Blast The PepsiCo Partnership](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -46,7 +47,7 @@ This arrangement is mutually beneficial in a way that both companies understand 
 
 ## The Fountain Syrup Ratio: Why It Tastes Different at Different Locations
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Taco Bell Baja Blast The PepsiCo Partnership](../../assets/images/general/generic-prep.webp)
 
 Here is something that drove me nuts when I worked the fountain station, and that Baja Blast fanatics notice immediately: the drink does not taste exactly the same at every Taco Bell. Some locations pour a Baja Blast that is electric — bright, tangy, perfectly carbonated, with that clean citrus finish. Other locations pour something that tastes flat, watery, or overly sweet. Same brand, same syrup, wildly different result.
 
@@ -116,5 +117,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to Taco Bell, he's worked every station, trained hundreds of newcomers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

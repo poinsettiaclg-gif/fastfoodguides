@@ -6,7 +6,7 @@ description: "A QSR veteran explains the daily Five Guys fry calibration process
 pubDate: '2024-10-06'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Five Guys
 topic: Burgers
 faq:
@@ -20,6 +20,7 @@ relatedArticles:
 - five-guys-no-freezers
 - in-n-out-board-station
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider. 
 
@@ -39,7 +40,7 @@ Some batches need 20 minutes of soaking. Others need 30 or more, depending on ho
 
 ## The Two-Stage Cook: Why Five Guys Fries Are Different From Every Other Chain
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the Five Guys ](../../assets/images/general/generic-prep.webp)
 
 
 You cannot just drop raw potato sticks into 350-degree peanut oil and expect a Five Guys fry. They use a strict two-stage cooking process borrowed from the Belgian double-fry technique, adapted for a high-volume fast-food environment:
@@ -52,7 +53,7 @@ The science is straightforward: the first cook gelatinizes the starch inside the
 
 ## The Calibration: What Actually Happens and Why It's Non-Negotiable
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the Five Guys ](../../assets/images/general/generic-fryer.webp)
 
 
 Here's the thing nobody outside the industry understands about potatoes: they're a living agricultural product, and they change constantly. A potato harvested in September has different sugar content than one harvested in November. A potato stored in cold conditions for two months has converted more of its starch into sugar. A potato from Idaho behaves differently than one from Washington state. These variations directly affect how fast the fry browns, how long it needs to cook, and what the finished product looks and tastes like.

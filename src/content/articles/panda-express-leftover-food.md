@@ -5,7 +5,7 @@ description: Ever wonder what happens to all that leftover Orange Chicken at clo
 pubDate: '2025-04-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panda Express
 topic: Other Chains
 relatedArticles:
@@ -29,7 +29,7 @@ I've managed closing shifts where we threw away enough food to feed a dozen fami
 
 ## The Strict Waste Logging Policy
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What Happens to Leftover Panda Express Food at Closing?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -49,7 +49,7 @@ The Waste Log also serves a secondary purpose that most crew members don't think
 
 ## The Cut-Off Time Strategy
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What Happens to Leftover Panda Express Food at Closing?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/) to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.
@@ -73,7 +73,7 @@ While some independent franchises might have a lax manager who looks the other w
 1. **Safety liability**: Corporate doesn't want the exposure of an employee getting food poisoning from food that sat on a steam table for hours past its hold time. Even if the food still looks and smells fine, it may have been in the temperature danger zone long enough to become a health risk according to [FDA guidelines](https://www.fda.gov/food).
 2. **Intentional overproduction**: This is the real reason. If employees know they can take leftovers home, they are highly incentivized to intentionally overcook massive batches at 9:45 PM so they can take the "waste" home to their families. In my time behind the counter, this happen — a closing Wok Chef fires a full 8-pound batch of their favorite item twenty minutes before close, waste numbers spike, and suddenly the Waste Log tells a very obvious story.
 
-The reality is that this rule is one of the most commonly broken policies in the entire chain. Many managers do look the other way, especially for hardworking employees who close multiple nights a week. But officially, if a corporate auditor or Area Coach catches an employee leaving with food, both the employee and the manager on duty can face disciplinary action.
+If a corporate auditor or Area Coach catches an employee leaving with food, both the employee and the manager on duty can face disciplinary action.
 
 ## The Panda Cares Donation Program
 

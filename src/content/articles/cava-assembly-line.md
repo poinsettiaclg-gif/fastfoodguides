@@ -5,7 +5,7 @@ description: Cava builds every bowl on a three-zone assembly line with strict po
 pubDate: '2024-12-16'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Cava
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
@@ -23,6 +23,7 @@ faq:
     take the longest to decide. if the Base Station worker (who controls
     the pace) stops to wait for an indecisive customer instead of using the 'skip
     and return' technique, the whole line starves.
+disclaimerType: medical
 ---
 The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully orchestrated panic attack, yet the line keeps moving. Fast.
 
@@ -30,7 +31,7 @@ The secret to Cava's throughput isn't just hustle; it's a meticulously designed 
 
 ## The Three-Zone Layout
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Is Cava Food Made? Inside the Bowl Assembly Line](../../assets/images/general/generic-drive-thru-3.webp)
 
 Cava's makeline is functionally broken down into three zones, and crossing over them is a massive operational faux pas during peak hours.
 

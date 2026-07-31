@@ -5,7 +5,7 @@ description: The ugly truth about pizza delivery auto insurance gaps, what your 
 pubDate: '2025-10-09'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Multi-Chain
 topic: Pizza
 relatedArticles:
@@ -28,7 +28,7 @@ Delivering pizzas for [Domino's](/articles/chain/dominos), [Pizza Hut](/articles
 
 ## The Insurance Gap Nobody Warns You About
 
-This is the single most important thing every new delivery driver needs to understand, and I can almost guarantee your manager won't tell you during orientation: **your standard personal auto insurance does not cover you while you're delivering.** 
+This is the single most important thing every new delivery driver needs to understand, and many new drivers don't realize it during orientation: **your standard personal auto insurance does not cover you while you're delivering.** 
 
 
 
@@ -52,7 +52,7 @@ I cannot stress this enough: ensure you have proper personal coverage.
 
 ## Exactly What to Do if You Crash on the Clock
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What Happens if a Pizza Delivery Driver Gets in an Accident?](../../assets/images/general/generic-prep.webp)
 
 
 When the worst happens, adrenaline takes over and your brain stops working logically.
@@ -73,12 +73,12 @@ When the worst happens, adrenaline takes over and your brain stops working logic
 
 ## Vehicle Requirements You Should Actually Follow
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What Happens if a Pizza Delivery Driver Gets in an Accident?](../../assets/images/general/generic-prep.webp)
 
 
 Before you start delivering, most franchises require your car to pass a basic inspection. Working headlights, taillights, brake lights, and turn signals are non-negotiable. Valid registration, state-minimum insurance, and a current inspection sticker where applicable. Management is supposed to do periodic vehicle checks throughout your employment — not just at hiring.
 
-Here's the reality though: In my time behind the counter, some managers inspect every driver's car monthly like clockwork, while others look the other way because they're desperate for warm bodies during the dinner rush. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle just because your manager does.
+Here's the reality though: In my time behind the counter, some managers inspect every driver's car monthly like clockwork, but it is your responsibility to ensure your vehicle is safe. If your car develops a safety issue — a burned-out headlight, bald tires, a cracked windshield — and you get into an accident, that negligence becomes a legal liability for both you and the franchise. Don't cut corners on your vehicle.
 
 Keep a basic [bank of cash for making change](/articles/dominos-20-bank-rule), a working dashcam (they cost as little as $30), and a phone charger in your car at all times. A dashcam provides indisputable evidence of what happened in an accident. If the other driver claims you ran a red light and your footage says otherwise, that camera just saved your livelihood.
 

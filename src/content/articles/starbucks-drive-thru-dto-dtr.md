@@ -5,7 +5,7 @@ description: An inside look at the Starbucks drive-thru ecosystem. How the DTO (
 pubDate: '2024-11-29'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Coffee
 heroImage: ../../assets/images/general/generic-pos.webp
@@ -20,6 +20,7 @@ faq:
   answer: Food warming. Warmed pastries and sandwiches take longer than most drinks,
     which is why skilled DTOs try to punch food items into the system before the customer
     even finishes ordering their drinks.
+disclaimerType: medical
 ---
 The morning rush at a high-volume Starbucks drive-thru is a masterclass in synchronized chaos. When 60 cars an hour are wrapping around the building, the success or failure of the shift rests entirely on the shoulders of two specific positions: **DTO (Drive-Thru Order)** and **DTR (Drive-Thru Register)**.
 
@@ -29,7 +30,7 @@ The operations on the other side of the headset run as follows:
 
 ## DTO: Drive-Thru Order (The Orchestrator)
 
-![Operational view](../../assets/images/general/generic-walk-in.webp)
+![Starbucks Drive-Thru The DTO and DTR Roles Explained](../../assets/images/general/generic-walk-in.webp)
 
 
 
@@ -78,7 +79,7 @@ Modern Starbucks drive-thrus are equipped with sophisticated video surveillance 
 
 The greatest operational tension in a Starbucks drive-thru is the delicate balancing act between speed of service and hospitality ratings. Store general managers and shift supervisors are evaluated daily on two conflicting KPIs:
 - **Out-the-Window (OTW) Times:** During the mandatory morning rush (typically 6:00 AM to 9:00 AM weekdays), corporate standards mandate an average OTW time of **40 to 45 seconds per car**. This timer begins the millisecond a vehicle's front tires trip the magnetic inductive loop embedded in the pavement beneath the pickup window and stops the instant the car pulls away. To hit this aggressive target, the DTR must process contactless Apple Pay or credit cards within 8 seconds while simultaneously consolidating beverages with their left hand.
-- **Customer Connection Scores:** While pushing for sub-45-second OTW times, baristas are simultaneously judged by email survey scores answering the prompt: *"Did the barista make an effort to get to know me?"* If the DTR simply hands out a cup and closes the window to preserve their timer, the store's Customer Connection score plummets. To succeed, seasoned DTRs master the art of the "30-second micro-conversation"—commenting on a customer's dog, complimenting their car, or asking about their morning commute—while seamlessly handing out drinks and processing payment without missing a beat.
+- **Customer Connection Scores:** While pushing for sub-45-second OTW times, baristas are simultaneously judged by email survey scores answering the prompt: *"Did the barista make an effort to get to know me?"* If the DTR simply hands out a cup and closes the window to preserve their timer, the store's Customer Connection score plummets. To succeed, seasoned DTRs master the art of the "30-second micro-conversation"—commenting on a customer's dog, complimenting their car, or asking about their morning commute—while without a hitch handing out drinks and processing payment without missing a beat.
 
 ## The Dual-Role: "Solo Drive-Thru"
 

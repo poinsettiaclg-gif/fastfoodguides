@@ -5,7 +5,7 @@ description: A fast-food worker's guide to mastering In-N-Out's POS system and h
 pubDate: '2025-10-19'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
     them to describe what they want, as it's often a combination of existing modifiers
     you can build manually.
 heroImage: ../../assets/images/general/generic-fryer.webp
+disclaimerType: medical
 ---
 If you look at [the In-N-Out](/articles/in-n-out-board-station) drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
 
@@ -29,7 +30,7 @@ Before your first register shift, you should know: customers almost never order 
 
 ## The POS System Is Built for Speed
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How to Memorize the In-N-Out POS System and Secret Menu](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -70,7 +71,7 @@ One area that consistently trips up new Associates is the transition from the fo
 
 ## What the Kitchen Sees When You Hit Send
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How to Memorize the In-N-Out POS System and Secret Menu](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Understanding the kitchen side of the POS makes you a better order taker. When you send an order, the kitchen display shows shorthand codes: "DD AS MF" means Double-Double Animal Style Mustard Fried. "HB PS" means Hamburger Protein Style. Learning these abbreviations helps you troubleshoot when a cook asks you to clarify an order—and it happens more often than you'd think, especially with stacked modifiers on a single item.

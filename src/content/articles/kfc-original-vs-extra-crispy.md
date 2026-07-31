@@ -1,11 +1,11 @@
 ---
 title: 'KFC Original vs. Extra Crispy: How They Differ'
 description: KFC's Original Recipe and Extra Crispy use different cooking methods
-  entirely. Here's exactly how each style is prepared and why the texture differs.
+  entirely. This is how each style is prepared and why the texture differs.
 pubDate: '2024-11-11'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: KFC
 topic: Chicken
 relatedArticles:
@@ -22,12 +22,13 @@ faq:
     \ machines\u2014pressure fryers versus open fryers\u2014change how the oil interacts\
     \ with the breading."
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food. 
 
 ## Original Recipe: The Pressure Fryer
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![KFC Original vs. Extra Crispy How They Differ](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -45,7 +46,7 @@ Here's the operational reality that training glosses over: once that lid locks, 
 
 ## Extra Crispy: The Open Fryer and the Double Dip
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![KFC Original vs. Extra Crispy How They Differ](../../assets/images/general/generic-prep.webp)
 
 
 Extra Crispy is engineered for maximum crunch, and the process starts at the breading station with a technique called the Double Dip.
@@ -72,7 +73,7 @@ Your hands are constantly wet, constantly coated in flour paste, and the flour b
 
 This is where experienced KFC cooks earn their stripes. The [How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/) and open fryers run on completely different timelines with completely different demands, and during a busy shift, you're running both simultaneously.
 
-A pressure fryer batch takes about 15 minutes and essentially runs on autopilot once the lid locks. An open fryer batch takes longer and requires you to periodically shake the basket or use tongs to separate pieces that are fusing together in the oil. If you drop a pressure fryer batch and an open fryer batch at the same time, the pressure fryer finishes first—and if you're elbow-deep separating Extra Crispy pieces when the pressure fryer vents and unlocks, your Original Recipe sits in cooling oil and overcooks.
+A pressure fryer batch takes about 15 minutes and functionally runs on autopilot once the lid locks. An open fryer batch takes longer and requires you to periodically shake the basket or use tongs to separate pieces that are fusing together in the oil. If you drop a pressure fryer batch and an open fryer batch at the same time, the pressure fryer finishes first—and if you're elbow-deep separating Extra Crispy pieces when the pressure fryer vents and unlocks, your Original Recipe sits in cooling oil and overcooks.
 
 The veteran move is to stagger your drops. Start the pressure fryer first. While it's running hands-free, bread your Extra Crispy batch and drop it in the open fryer. By the time the pressure fryer vents, you've already separated your Extra Crispy pieces at the 5-minute mark and your hands are free to pull the Original Recipe. Shake the open fryer basket early—at the 5-minute mark—because Extra Crispy pieces that aren't separated will fuse into breading clumps that look terrible and cook unevenly.
 

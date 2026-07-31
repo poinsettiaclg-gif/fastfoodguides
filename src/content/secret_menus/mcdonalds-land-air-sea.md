@@ -58,7 +58,7 @@ The Filet-O-Fish represents the greatest bottleneck on the line. Because Alaskan
 
 And while Big Mac buns are toasted in a vertical contact toaster in 10 seconds, Filet-O-Fish buns undergo an entirely different thermal treatment: they are placed in a pressurized countertop steam cabinet for an 11-second blast of superheated vapor to achieve their signature pillowy, delicate texture.
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The McDonald](../../assets/images/general/generic-prep.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The Spatial Friction of the Prep Line</strong>

@@ -5,7 +5,7 @@ description: "A former kitchen manager breaks down the Domino's Oven Tender posi
 pubDate: '2026-03-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
@@ -21,12 +21,13 @@ faq:
     before the edge to minimize the time spent picking up and putting down the peel,
     keeping the belt completely clear.
 heroImage: ../../assets/images/general/generic-pos.webp
+disclaimerType: medical
 ---
 A single Domino's conveyor belt oven can spit out a screaming-hot pizza every 15 seconds during peak volume. The person who determines whether the entire store sinks or swims is standing at the end of that 450-degree tunnel, sweating through their shirt, catching those pizzas as fast as they emerge. That person is the Oven Tender, and I've watched this position break more promising trainees than any other job in the building. 
 
 ## The Catch: A Conveyor Belt That Never Stops
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the ](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -44,7 +45,7 @@ The Oven Tender stands at the exit with a long metal peel—a flat spatula desig
 
 ## The Cut and Box: 15 Seconds Per Pizza or You're Drowning
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the ](../../assets/images/general/generic-prep.webp)
 
 
 Catching the pizza is only step one. Here's the full sequence a good Oven Tender executes in under 15 seconds:

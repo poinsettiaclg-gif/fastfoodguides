@@ -5,7 +5,7 @@ description: Firehouse Subs steams their meats and cheeses before building the s
 pubDate: '2026-05-13'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Firehouse Subs
 topic: Sandwiches
 faq:
@@ -21,6 +21,7 @@ relatedArticles:
 - mcdonalds-fry-station
 - chick-fil-a-breading-process
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 Firehouse doesn't toast their subs. They don't bake them. They don't grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. 
 
@@ -30,7 +31,7 @@ I've worked in QSR kitchens for over a decade, and Firehouse's approach to heati
 
 ## How the Conveyor Steamer Actually Works
 
-![Operational view](../../assets/images/general/generic-coffee.webp)
+![Firehouse Subs Steaming How Every Sub Gets Made](../../assets/images/general/generic-coffee.webp)
 
 
 
@@ -172,5 +173,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From Chick-fil-A to Wendy's to Taco Bell, he's worked every station, trained hundreds of trainees, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

@@ -14,7 +14,15 @@ const allPosts = [...articles, ...secretMenus].sort((a, b) => {
 	return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
 });
 
-const chains = [...new Set(allPosts.map((p) => p.data.chain).filter(Boolean))] as string[];
+const chainCounts = allPosts.reduce((acc, post) => {
+	const chain = post.data.chain;
+	if (chain) acc[chain] = (acc[chain] || 0) + 1;
+	return acc;
+}, {} as Record<string, number>);
+
+const chains = Object.entries(chainCounts)
+	.filter(([, count]) => count >= 3)
+	.map(([chain]) => chain) as string[];
 ---
 
 <!doctype html>

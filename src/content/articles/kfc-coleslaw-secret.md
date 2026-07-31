@@ -5,7 +5,7 @@ description: Discover why KFC coleslaw must rest for 12 hours before serving. An
 pubDate: '2025-12-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: KFC
 topic: Chicken
 relatedArticles:
@@ -20,12 +20,13 @@ faq:
   answer: The dressing is a carefully balanced ratio of mayonnaise, sugar, buttermilk,
     and vinegar that relies on osmosis to extract water from the cabbage over 12 hours.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 One operational reality often surprises new KFC hires: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet. 
 
 ## The Fine Chop: Why Confetti, Not Shreds
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Secret to KFC Coleslaw Why It Sits Overnight](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -45,13 +46,13 @@ Once the vegetables are chopped, the prep cook dumps in a bag of KFC's proprieta
 
 The mixing process itself is where experienced prep cooks separate themselves from rookies. The dressing-to-vegetable ratio has to be precise. Too much dressing and the coleslaw becomes a soupy, mayonnaise-heavy mess that pools liquid at the bottom of every serving cup. Too little and the cabbage won't macerate properly overnight, leaving you with dry, crunchy pieces that taste like a raw salad someone accidentally drizzled ranch on.
 
-The reality is that veterans know the correct ratio by sight and feel. Every piece of vegetable should be visibly coated when you're done mixing, but there should not be a pool of excess dressing sitting at the bottom of the bin. You're folding, not stirring—big, gentle movements that distribute the dressing without crushing the vegetables into mush before they've had a chance to macerate naturally. On more than one occasion, green crew members attack it like they're mixing concrete. Slow down. The overnight rest does the heavy lifting, not your arms.
+The reality is veterans know the correct ratio by sight and feel. Every piece of vegetable should be visibly coated when you're done mixing, but there should not be a pool of excess dressing sitting at the bottom of the bin. You're folding, not stirring—big, gentle movements that distribute the dressing without crushing the vegetables into mush before they've had a chance to macerate naturally. On more than one occasion, green crew members attack it like they're mixing concrete. Slow down. The overnight rest does the heavy lifting, not your arms.
 
 <div class="callout callout-tip">**ProTip:** The onions must be very finely minced or grated. If the pieces are too large, customers will bite into pungent, raw onion chunks that overpower the sweet buttermilk dressing.</div>
 
 ## The Mandatory 12-Hour Maceration
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Secret to KFC Coleslaw Why It Sits Overnight](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is the step that makes KFC coleslaw fundamentally different from anything you'd make at home. KFC has a strict corporate policy: freshly mixed coleslaw must sit in the walk-in refrigerator for a minimum of 12 hours—preferably overnight—before a single spoonful can be served to a customer.

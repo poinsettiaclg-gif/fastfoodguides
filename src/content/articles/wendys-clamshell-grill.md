@@ -6,7 +6,7 @@ description: Former kitchen manager breaks down the Wendy's clamshell grill, fro
 pubDate: '2024-07-25'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 faq:
@@ -21,13 +21,14 @@ relatedArticles:
 - wendys-4-corner-press
 - wendys-chili-leftover-hamburgers
 - wendys-closing-duties
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen. 
 
 ## How the Clamshell Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Wendy](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -39,7 +40,7 @@ The operation is straightforward:
 
 1. **The Drop:** You lay the fresh, square patties onto the bottom grill plate. Immediately press the start button.
 
-2. **The Close:** You press the heavy green button on the control panel. A massive heated top platen—essentially a second grill surface—automatically lowers itself perfectly level onto the meat. The hydraulic system controls the descent speed and pressure.
+2. **The Close:** You press the heavy green button on the control panel. A massive heated top platen—in effect a second grill surface—automatically lowers itself perfectly level onto the meat. The hydraulic system controls the descent speed and pressure.
 
 3. **The Sear:** Both surfaces blast the patties simultaneously at over 400°F. The beef sears on the top and bottom at the same time, developing a Maillard crust on both sides without ever needing to be flipped.
 
@@ -65,7 +66,7 @@ Auto-Gap calibration drifts over time. Grease buildup on the sensors, mechanical
 
 ## Cleaning the Clamshell: The Nightly Battle
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the Wendy](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The clamshell grill requires thorough cleaning at the end of every single shift. Because the top platen presses directly onto the meat, it accumulates a heavy layer of baked-on grease, charred protein, and carbonized fat that must be completely removed. This is one of the most time-consuming [closing duties](/articles/wendys-closing-duties) in the entire restaurant.

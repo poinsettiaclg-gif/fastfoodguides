@@ -5,7 +5,7 @@ description: A behind-the-scenes look at Jersey Mike's grill station, from raw b
 pubDate: '2026-07-08'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jersey Mike's
 topic: Sandwiches
 relatedArticles:
@@ -18,6 +18,7 @@ faq:
 - question: Why do they use different spatulas?
   answer: Color-coded spatulas (like red for steak and yellow for chicken) are strictly
     used to prevent cross-contamination between different raw proteins.
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way/))*
@@ -26,7 +27,7 @@ The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef
 
 ## Raw Beef, Raw Chicken, and Zero Margin for Error
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![The Jersey Mike](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -46,7 +47,7 @@ It sounds extreme, but here's the reality: health inspectors know that operation
 
 ## The Chop-and-Flip Technique That Destroys Your Forearms
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The Jersey Mike](../../assets/images/general/generic-prep.webp)
 
 
 Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep. Here's the sequence:

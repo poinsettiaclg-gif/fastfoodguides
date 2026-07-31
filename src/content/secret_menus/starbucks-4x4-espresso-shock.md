@@ -61,7 +61,7 @@ When a ticket prints for a 4x4 Espresso Shock, the barista is forced to execute 
 
 Because the Mastrena group head is monopolized by a single cup for nearly 45 continuous seconds, the barista cannot pull espresso for the line of customers waiting behind that order. During a 7:30 AM morning rush where the kitchen display system (KDS) is flashing twenty pending drink tickets, a single 4-shot order creates an immediate queue delay across the entire hot bar.
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The Starbucks 4x4 Espresso Shock Why 4 Rapid Shots of Espresso Cause Thermal](../../assets/images/general/generic-prep.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The Beverage Sequencing Routine</strong>

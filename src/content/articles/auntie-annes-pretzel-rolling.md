@@ -5,7 +5,7 @@ description: How mall employees learn to twist the perfect pretzel in under 3 se
 pubDate: '2026-03-30'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Auntie Anne's
 topic: Operations
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
   answer: No. Unlike many fast-food bakery concepts, Auntie Anne's mixes fresh dough
     on-site every single morning using flour mix, yeast, and strictly temperature-controlled
     water in commercial Hobart or Bakemax stand mixers.
+disclaimerType: medical
 ---
 If you have ever walked through an enclosed shopping mall, an airport terminal, or a stadium concourse, the warm, buttery, yeasty aroma of Auntie Anne's is unmistakable. To the average consumer, it looks like a simple snack counter. To a QSR operations manager, an Auntie Anne's store is a highly regimented, high-volume **scratch bakery operating on a micro-assembly line** directly in front of the customer.
 
@@ -29,7 +30,7 @@ Unlike competitors who rely on frozen, pre-shaped dough pucks reheated in rapid 
 
 ## 1. The Scratch Dough Prep: Precision Chemistry
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![The Auntie Anne](../../assets/images/general/generic-drive-thru.webp)
 
 
 

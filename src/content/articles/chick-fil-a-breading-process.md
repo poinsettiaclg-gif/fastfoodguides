@@ -5,7 +5,7 @@ description: Chick-fil-A hand-breads every filet to order. Here is how the bread
 pubDate: '2025-09-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
@@ -19,6 +19,7 @@ faq:
     before breading. The milk proteins undergo a Maillard reaction during pressure
     frying, creating that signature golden crust and subtle sweetness.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 ## The Chicken Arrives Raw. Every Single Piece.
 
@@ -35,7 +36,7 @@ The breading process starts with a **milk wash bath**. This is not buttermilk (a
 
 The chicken filets are submerged fully in the wash and allowed to sit. The timing matters. Too short and the coating won't adhere uniformly. Too long and the chicken absorbs too much liquid, which causes oil splatter in the fryer and produces a soggy result.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Chick-fil-A Breading Process The Pressure Cooker](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Seasoned Flour: Step Two
 
@@ -70,7 +71,7 @@ A pressure fryer is not just a deep fryer with a lid. When the lid seals, it tra
 1. **Cooks faster** — The elevated pressure raises the effective cooking temperature of the moisture inside the chicken, reducing cook time to about **4 minutes and 30 seconds** for a standard filet.
 2. **Locks in moisture** — The pressure prevents moisture from escaping the chicken as rapidly as it would in an open fryer. This is why Chick-fil-A's chicken is noticeably juicier than chicken fried in a standard open vat.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Chick-fil-A Breading Process The Pressure Cooker](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### The Temperature and Timing
 

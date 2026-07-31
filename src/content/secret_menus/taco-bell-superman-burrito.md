@@ -55,7 +55,7 @@ This brief thermal vapor injection serves a necessary mechanical purpose: it gel
 
 this thermal elasticity has a strict physical limit. Once the tortilla absorbs the steam vapor, its structural strength begins a rapid countdown. The line worker has approximately **30 seconds** to dress, fold, and wrap the burrito before the ambient air cools the dough, causing the gluten matrix to tighten and lose its stretchable flexibility.
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The Taco Bell Superman Burrito Why Overstuffed Builds Exceed Tortilla Tensile](../../assets/images/general/generic-prep.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The Ingredient Weight Target</strong>

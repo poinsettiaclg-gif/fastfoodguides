@@ -6,7 +6,7 @@ description: "Everything you need to know about the Raising Cane's Bird Speciali
 pubDate: '2025-09-27'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Raising Cane's
 topic: Chicken
 relatedArticles:
@@ -23,6 +23,7 @@ faq:
   answer: In many locations, they earn the same base hourly rate as other crew members.
     because it's the most demanding position in the kitchen, it's often one
     of the first roles considered for pay raises and promotions.
+disclaimerType: medical
 ---
 Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. 
 
@@ -30,7 +31,7 @@ That's why they don't have generic "grill cooks" or "prep cooks." They have the 
 
 ## The 24-Hour Marinade and Why It Can't Be Rushed
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What Does a ](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -44,7 +45,7 @@ Here's the operational stress this creates: if the night shift doesn't prep enou
 
 ## The Art of the Drop
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What Does a ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 At a generic fast-food place, chicken nuggets arrive frozen in a bag and you dump them into a fryer basket. Raising Cane's is a completely different animal. Your job as the Bird Specialist is an endless, highly choreographed dance of breading and frying:

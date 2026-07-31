@@ -6,7 +6,7 @@ description: "An insider look at the Collectramatic pressure fryers at KFC\u2014
 pubDate: '2026-01-21'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: KFC
 topic: Chicken
 disclaimerType: food_safety
@@ -27,7 +27,7 @@ I still remember the adrenaline spike of my first "drop" into a commercial press
 
 ## The Machine and Its Safety Engineering
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Dangerous Are the KFC Pressure Fryers?](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -63,7 +63,7 @@ The temptation to skip gear is real. The kitchen is already 95 degrees. You're w
 
 ## Oil Filtration: The Closing Shift's Most Dangerous Task
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Dangerous Are the KFC Pressure Fryers?](../../assets/images/general/generic-prep.webp)
 
 
 Beyond the daily cooking, KFC cooks are responsible for filtering the fryer oil at the end of each shift. This process involves draining the hot oil out of the fryer vat through a filtration system, scrubbing the inside of the empty vat, and pumping the filtered oil back in.

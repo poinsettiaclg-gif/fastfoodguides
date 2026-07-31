@@ -5,7 +5,7 @@ description: 'Inside the Starbucks Pull to Thaw system: the 18-hour thaw cycle, 
 pubDate: '2024-08-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
@@ -30,7 +30,7 @@ When you see a display case full of perfectly golden croissants, neatly arranged
 
 ## The 18-Hour Thaw Cycle
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How the Starbucks ](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -71,7 +71,7 @@ Many Starbucks locations participate in the FoodShare initiative, which donates 
 
 ## Freezer Organization: FIFO or Chaos
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How the Starbucks ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The walk-in freezer has to be organized using strict First In, First Out (FIFO) rotation. New shipments go to the back of the shelves. Older boxes get moved to the front so they're always pulled first.

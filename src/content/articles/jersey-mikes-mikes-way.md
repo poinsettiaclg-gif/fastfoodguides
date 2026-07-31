@@ -5,7 +5,7 @@ description: Learn the exact O-L-T-J-S sequence for Mike's Way at Jersey Mike's,
 pubDate: '2026-01-09'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jersey Mike's
 topic: Sandwiches
 relatedArticles:
@@ -26,7 +26,7 @@ If you're assigned to the sprinkler station (the position adding vegetables and 
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -56,7 +56,7 @@ The tomatoes need to be on top because their flat, wet surface catches and holds
 
 ## The [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/): Speed, Danger, and Respect
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There's no pre-sliced, packaged deli meat anywhere in the operation.

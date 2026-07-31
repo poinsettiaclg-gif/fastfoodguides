@@ -5,7 +5,7 @@ description: Ever wonder why Jack in the Box tacos look fried shut? Learn the we
 pubDate: '2024-11-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jack in the Box
 topic: Burgers
 relatedArticles:
@@ -19,6 +19,7 @@ faq:
   answer: The filling is a blended mixture of beef and soy protein designed to cook
     evenly through the shell during the quick frying process without burning.
 heroImage: ../../assets/images/general/generic-fryer.webp
+disclaimerType: medical
 ---
 The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. 
 
@@ -42,7 +43,7 @@ I've watched new cooks open their first box of frozen Jack tacos and genuinely n
 
 ## The Deep Fryer Does All the Heavy Lifting
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Bizarre Way Jack in the Box Tacos Are Made](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 When a customer orders tacos, you grab the frozen, meat-filled tortillas and drop them directly into the deep fryer. No thawing, no prep—straight from the freezer into 350°F oil.
@@ -55,7 +56,7 @@ The frying process is what gives the Jack in the Box taco its signature greasy, 
 
 ## The Pry-and-Stuff Technique
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Bizarre Way Jack in the Box Tacos Are Made](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is where things get weird, and it's the step that makes new cooks nervous. The taco was fried shut, remember? So now you have to open it back up to add the cold toppings.

@@ -5,7 +5,7 @@ description: Chipotle requires a precise knife cut for their fajita peppers and 
 pubDate: '2024-11-07'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
@@ -23,6 +23,7 @@ faq:
     and steak. Policies on wearing the glove during vegetable prep can vary by store,
     but many managers strongly encourage it.
 heroImage: ../../assets/images/general/generic-fryer.webp
+disclaimerType: medical
 ---
 The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. 
 
@@ -30,7 +31,7 @@ I witnessed managers dump entire hotel pans of sliced bell peppers straight into
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Chipotle Fajita Veggies The Specific Cut Required](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -60,7 +61,7 @@ There are three reasons Chipotle obsesses over this, and none of them are arbitr
 
 ## The Color Separation Challenge
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Chipotle Fajita Veggies The Specific Cut Required](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The fajita veggie prep is not just about the cut. It is about how you handle the different peppers. The recipe typically calls for a mix of green bell peppers, red bell peppers, and yellow or poblano peppers, along with sliced onions. Each pepper type has a slightly different thickness and water content, which means you need to subtly adjust your pressure and speed as you switch between them. Reds are softer and will crush under too much downward force. Greens are firmer and can handle a more aggressive stroke.
@@ -73,7 +74,7 @@ Here's a pro tip that saved me hundreds of hours: when you cut a bell pepper in 
 
 When an employee attempts to become a Certified Grill Cook, they undergo a "Validation" test where an Area Manager or General Manager watches them prep under real-world conditions. The evaluator will literally pull out a ruler or a visual guide and measure the employee's sliced bell peppers. If the cuts are sloppy, inconsistent, or too thick, the employee fails the certification. Mastering the 1/4-inch fajita veggie slice is a fundamental rite of passage.
 
-The reality is that validation is not a one-time pass-or-fail event, either. Even after you earn your certification, managers continue to spot-check your prep work during regular shifts. If your cut quality has slipped—maybe you got lazy, maybe your knife is dull, maybe you are rushing—you will be pulled aside for retraining. Chipotle treats consistency as an ongoing standard, not a box to check once and forget about. Experienced cooks who passed validation six months ago can get their work tossed and get sent back to the cutting board for a refresher. It happens.
+The reality is validation is not a one-time pass-or-fail event, either. Even after you earn your certification, managers continue to spot-check your prep work during regular shifts. If your cut quality has slipped—maybe you rushed, maybe your knife is dull, maybe you are unfocused—you will be pulled aside for retraining. Chipotle treats consistency as an ongoing standard, not a box to check once and forget about. Experienced cooks who passed validation six months ago can get their work tossed and get sent back to the cutting board for a refresher. It happens.
 
 If you fail the knife test during validation, don't panic. It does not get you fired. You simply don't pass that day. You keep working your current role, get additional training time, and attempt again. Most employees who fail the first time pass on their second or third attempt after focused practice. The trick is to practice at home—buy a bag of onions and a cheap bell pepper from the grocery store and spend 15 minutes with the claw grip at your kitchen counter. That muscle memory translates directly to faster, more accurate prep work when you're on the clock and a clipboard is watching.
 

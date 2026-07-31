@@ -39,7 +39,7 @@ While customers view the Quesarito as the ultimate cheese-pull upgrade, quick-se
 
 ## 1. Anatomy of the Quesarito Build
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![The Chipotle Quesarito Why Line Workers Dread the 1,500-Calorie Burrito Hack](../../assets/images/general/generic-pos.webp)
 
 
 

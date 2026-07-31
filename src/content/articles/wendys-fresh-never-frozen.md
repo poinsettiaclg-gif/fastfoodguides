@@ -6,7 +6,7 @@ description: "The full truth behind Wendy's famous 'fresh, never frozen' beef cl
 pubDate: '2025-01-21'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 relatedArticles:
@@ -30,7 +30,7 @@ Managing fresh beef inventory at Wendy's is a daily logistics nightmare that for
 
 ## The Beef Arrives Refrigerated, Not Frozen
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Does Wendy](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -46,7 +46,7 @@ The shelf life of fresh beef stored at proper refrigeration temps is roughly 5 t
 
 ## What This Costs — And Why Most Chains Don't Bother
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Does Wendy](../../assets/images/general/generic-drive-thru-3.webp)
 
 Running a fresh beef program is significantly more expensive than using frozen patties. The cost difference breaks down into several categories:
 
@@ -123,5 +123,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to Wendy's to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of fresh trainees, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

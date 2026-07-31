@@ -8,7 +8,7 @@ pubDate: '2024-05-18'
 updatedDate: '2026-07-25'
 chain: Multiple
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 topic: Operations
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 isDebunk: true
@@ -27,6 +27,7 @@ faq:
     off-station cross-lane travel, slow down drive-thru Speed of Service (SOS) timers,
     and frequently cause food waste when unconventional ingredient combinations collapse
     or burn.
+disclaimerType: medical
 ---
 You've seen them on social media: towering, dripping, impossibly complex fast-food creations. Influencers hold up a sandwich stuffed with three different meats, smothered in five sauces, and capped with mozzarella sticks, boldly claiming they have unlocked a "Secret Menu Cheat Code" at McDonald's, Burger King, or Taco Bell.
 
@@ -36,7 +37,7 @@ When a customer orders a viral hack at the drive-thru speaker, it does not just 
 
 ## 1. The "Meat Mountain" (The Cross-Contamination Hazard)
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![3 Complex Secret Menu Hacks That Disrupt Kitchen Flow (And Why You Should Never](../../assets/images/general/generic-pos.webp)
 
 
 

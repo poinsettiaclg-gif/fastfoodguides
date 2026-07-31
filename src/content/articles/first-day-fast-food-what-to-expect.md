@@ -6,7 +6,7 @@ description: A brutally honest, step-by-step walkthrough of what your first day 
 pubDate: '2025-05-27'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Multi-Chain
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-3.webp
@@ -23,6 +23,7 @@ faq:
 - question: Do you get paid for orientation and training videos in fast food?
   answer: Yes. By federal law, all onboarding orientation, paperwork completion, and
     digital training video modules must be fully paid at your agreed-upon hourly wage.
+disclaimerType: medical
 ---
 The store smells like fryer oil and industrial sanitizer. The manager who hired you isn't even working today—instead, a shift lead you've never met hands you a stack of paperwork and points at a wobbly table in the break room. Welcome to orientation.
 
@@ -32,7 +33,7 @@ The reality of your first day is much more structured, much slower-paced, and la
 
 ## 1. Before You Arrive: The Non-Negotiable Checklist
 
-![Operational view](../../assets/images/general/generic-exterior.webp)
+![What to Expect on Your First Day of Fast Food A Complete Survival Guide](../../assets/images/general/generic-exterior.webp)
 
 
 

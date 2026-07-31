@@ -5,7 +5,7 @@ description: Overwhelmed by your first week on bar? Here is the actual logic beh
 pubDate: '2024-08-30'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Coffee
 heroImage: ../../assets/images/general/generic-pos-3.webp
@@ -38,7 +38,7 @@ If a customer orders a Grande Vanilla Latte, it gets 4 pumps of Vanilla. If they
 
 <div class="callout callout-tip">**ProTip:** Always pump the syrup into the cup *before* pulling the espresso shots. The heat and pressure of the espresso hitting the syrup is what mixes the drink. If you pump syrup on top of the milk, the customer will get a mouthful of unflavored milk and a thick layer of pure sugar at the bottom.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How to Memorize Starbucks Syrup Pump Ratios Fast](../../assets/images/general/generic-prep.webp)
 
 ## The Iced Venti Exception
 
@@ -71,7 +71,7 @@ For Frappuccinos, the rule is the **2-3-4 Rule** (Tall, Grande, Venti).
 *   **Grande:** 3 pumps (Frap Roast) + 3 pumps (Syrup)
 *   **Venti:** 4 pumps (Frap Roast) + 4 pumps (Syrup)
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How to Memorize Starbucks Syrup Pump Ratios Fast](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">**ProTip:** If you run out of a CBS syrup pump during a rush and have to use a Hot Bar pump for a Frappuccino, you must cut the recipe in half. A Grande Frappuccino needs 3 CBS pumps. If you only have a Hot Bar pump, use 1.5 pumps. If you use 3 full Hot Bar pumps, the Frappuccino will be pure liquid sugar and won't blend correctly.</div>
 
@@ -86,7 +86,7 @@ The Americano progression (Tall, Grande, Venti Hot, Venti Iced) is **4-5-6-7**.
 In the Starbucks ecosystem, flavorings are divided into two distinct viscosity categories: **thin liquid syrups** (Vanilla, Caramel, Hazelnut, Brown Sugar) and **thick sauces** (White Chocolate Mocha, Pumpkin Spice, Dark Caramel, Mocha). Understanding the mechanical difference between these pumps is critical for beverage consistency and food cost variance control.
 
 - **Syrup Calibration (0.25 fl oz per pump):** Standard Hot Bar pumps dispense exactly 1/4 of a fluid ounce per full stroke. Because these liquids flow freely through the dispensing nozzle, baristas must ensure the pump head recoils completely to the top before initiating the next stroke; rapid half-pumping during peak hours shortchanges the sweetness profile by up to 30%.
-- **Sauce Calibration (0.50 fl oz per pump):** Thick sauces require specialized wide-gauge pump assemblies that dispense a much heavier half-ounce payload per stroke. Because sauces like White Mocha and Pumpkin are dense and viscous, they do not dissolve instantly in iced milk. When crafting an iced sauce-based beverage, standard operational procedure requires swirling the warm espresso shots directly with the sauce at the bottom of the cup for 3 to 5 seconds before adding cold milk or ice. Failing to emulsify the sauce results in an unpalatable, gritty layer of sludge at the bottom of the customer's cup.
+- **Sauce Calibration (0.50 fl oz per pump):** Thick sauces require specialized wide-gauge pump assemblies that dispense a much heavier half-ounce payload per stroke. Because sauces like White Mocha and Pumpkin are dense and viscous, they do not dissolve instantly in iced milk. When crafting an iced sauce-based beverage, standard operational procedure requires swirling the warm espresso shots directly with the sauce at the bottom of the cup for 3 to 5 seconds before adding cold milk or ice. Failing to emulsify the sauce results in an unpalatable, gritty layer of dense mixture at the bottom of the customer's cup.
 - **Chai Tea Concentrate:** While Chai is poured from a standard pump bottle, it is technically a brewed tea concentrate rather than a sugar syrup. It follows the standard hot bar progression (**3-4-5-6**), but because it is diluted with hot water and steamed milk in hot versions (or cold milk in iced versions), cross-contaminating a Chai pump with regular syrup parts will alter both the flavor profile and pump resistance.
 
 ## Trenta Cold Brews and Shaken Espresso Rules

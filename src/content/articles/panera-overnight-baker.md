@@ -5,7 +5,7 @@ description: Panera bakes all their bread overnight in-store. Here's what the ov
 pubDate: '2024-09-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panera Bread
 topic: Other Chains
 relatedArticles:
@@ -17,6 +17,7 @@ faq:
 - question: Can you listen to music or watch shows while baking?
   answer: In most locations, yes, which is one of the biggest perks of the job.
 heroImage: ../../assets/images/general/generic-drive-thru.webp
+disclaimerType: medical
 ---
 At 2:00 AM, while every other restaurant in the strip mall is dark and locked, [the Panera Bread](/articles/panera-bread-consolidator-role) cafe *used* to smell like fresh yeast, cinnamon, and baking sourdough. For years, the parking lot was empty except for one car belonging to a single person pulling golden loaves from a rotating rack oven in complete solitude. 
 
@@ -38,7 +39,7 @@ This is similar in spirit to the [Hardee's biscuit maker shift](/articles/hardee
 
 ## The Baker's Timeline
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Panera Overnight Baker The 4 AM Bread Shift](../../assets/images/general/generic-prep.webp)
 
 
 You are not mixing flour and yeast from scratch. The dough is mixed at a massive regional Fresh Dough Facility (FDF) and delivered to the cafe daily in sealed trays. Your job is to proof, score, and bake it perfectly on a very strict timeline — and that timeline has almost zero margin for error.
@@ -52,7 +53,7 @@ Each of these windows is tight, and falling behind on one step creates a cascadi
 
 ## The Scoring Technique
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Panera Overnight Baker The 4 AM Bread Shift](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Scoring bread is one of the most satisfying parts of the job, but it's also one of the trickiest skills to master. Each bread variety has a specific scoring pattern that must be replicated consistently across every single loaf. A sourdough round gets a deep cross-hatch pattern. A baguette gets diagonal slashes. A country loaf gets a single long score down the center.

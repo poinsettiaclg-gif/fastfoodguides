@@ -5,7 +5,7 @@ description: IHOP uses a proprietary batter mix that arrives in powdered form. H
 pubDate: '2026-04-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: IHOP
 topic: Breakfast & Coffee
 faq:
@@ -20,10 +20,11 @@ relatedArticles:
 - chick-fil-a-breading-process
 - wendys-chili-leftover-hamburgers
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 ## Does IHOP Actually Make Their Pancake Batter From Scratch?
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![IHOP Pancake Batter What](../../assets/images/general/generic-fryer.webp)
 
 
 
@@ -120,7 +121,7 @@ Here's what actually happens behind the line: every table in the restaurant now 
 
 The servers are overwhelmed because they're making twice as many trips. The expo station is backed up because pancakes are coming off the griddle in staggered waves instead of complete orders. Ticket times climb. Customers get impatient. Managers start hovering. And the cook on the griddle station is standing in front of a 350°F surface for their entire shift without a break, pouring batter as fast as they can physically move.
 
-I've heard from IHOP cooks who said they went through three or four full buckets of batter in a single morning shift during Never Ending Pancakes. Under normal operations, one or two buckets covers most of a breakfast service. The promotion essentially doubles or triples the pancake output required from the same number of cooks, on the same number of griddles, in the same amount of time. Something has to give, and usually it's the cook's patience and the kitchen's ticket times.
+I've heard from IHOP cooks who said they went through three or four full buckets of batter in a single morning shift during Never Ending Pancakes. Under normal operations, one or two buckets covers most of a breakfast service. The promotion really doubles or triples the pancake output required from the same number of cooks, on the same number of griddles, in the same amount of time. Something has to give, and usually it's the cook's patience and the kitchen's ticket times.
 
 The promotions usually run for a few weeks. By the end, the kitchen staff is exhausted, the griddles need deep cleaning from the constant use, and everyone swears they never want to see another pancake again. Then six months later, marketing announces the next round.
 
@@ -145,5 +146,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of trainees, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

@@ -5,7 +5,7 @@ description: Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques req
 pubDate: '2025-01-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
@@ -27,7 +27,7 @@ Rolling a burrito of that magnitude without it splitting open is genuinely an ar
 
 ## Step 1: The U-Shape Placement
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Secret to Rolling a Massive Double-Meat Chipotle Burrito](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -47,7 +47,7 @@ First-timers on the line tend to dump hot salsa directly onto the center of the 
 
 ## Step 2: The Stretch and Tuck
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![The Secret to Rolling a Massive Double-Meat Chipotle Burrito](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is where burritos live or die. Do not try to fold it like a Christmas present. The Chipotle roll is a specific four-part motion:
@@ -74,7 +74,7 @@ I used to tell my line workers: the foil wrap is your insurance policy. Even a p
 
 ## The Double-Wrap: When to Deploy It
 
-Here's where experience separates you from the rookies. If a customer orders double meat, extra of every wet topping, queso, and guacamole, you should already be reaching for a second tortilla before they finish ordering. The double-wrap—slapping a second warm tortilla underneath the first—gives you the structural thickness needed to contain what is essentially burrito soup.
+Here's where experience separates you from the rookies. If a customer orders double meat, extra of every wet topping, queso, and guacamole, you should already be reaching for a second tortilla before they finish ordering. The double-wrap—slapping a second warm tortilla underneath the first—gives you the structural thickness needed to contain what is basically burrito soup.
 
 The double-wrap is not a failure. It is a tool. Proactively offering it shows confidence and saves everyone the embarrassment of a burrito detonating mid-roll in front of a full line of customers. Experienced line workers recognize the need for a double-wrap based on the order alone, before a single ingredient hits the tortilla. And no, Chipotle does not charge extra for the double-wrap—it's considered a standard accommodation, not an add-on.
 

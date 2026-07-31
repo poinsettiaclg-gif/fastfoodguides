@@ -6,7 +6,7 @@ description: A comprehensive operational analysis of Domino's proprietary PULSE 
 pubDate: '2024-07-07'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 heroImage: ../../assets/images/general/generic-fryer.webp
@@ -25,6 +25,7 @@ faq:
     hits the bump bar bar as the pizza enters the oven; ''Quality Check'' triggers
     during the 7-minute conveyor transit; and ''Out for Delivery'' triggers when the
     driver checks out the order on the dispatch touch screen.'
+disclaimerType: medical
 ---
 Domino's Pizza is widely regarded by franchise executives as an e-commerce and logistics technology company that happens to sell pizza. Since launching its proprietary **PULSE operating system** and algorithmic kitchen management software, Domino's has digitized, measured, and optimized every single second of a pizza's life—from the initial click on a smartphone app to the moment the delivery driver knocks on the customer's door.
 
@@ -32,7 +33,7 @@ As someone who spent years managing high-volume pizza operations, I know that su
 
 ## 1. The Digital Makeline: Anatomy of the 3-Minute Clock
 
-![Operational view](../../assets/images/general/generic-exterior.webp)
+![Domino](../../assets/images/general/generic-exterior.webp)
 
 
 

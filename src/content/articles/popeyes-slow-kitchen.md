@@ -5,7 +5,7 @@ description: Popeyes chicken takes longer than competitors because it's marinate
 pubDate: '2025-11-18'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Popeyes
 topic: Chicken
 relatedArticles:
@@ -19,14 +19,15 @@ faq:
 - question: How long does it take for Popeyes to fry chicken?
   answer: It takes about 12 to 14 minutes to cook a batch of bone-in chicken in the
     deep fryer, depending on whether it's white or dark meat.
+disclaimerType: medical
 ---
 You already know the experience. You pull into a Popeyes drive-thru, the line is six cars deep, and somewhere around minute twelve you start wondering if they're raising the chickens out back. By the time you get your food, you've listened to an entire podcast episode and questioned every life decision that led you to this drive-thru lane. 
 
-Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or lazy employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, Believe me when I say the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it. 
+Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* Popeyes is slow — they just assume it's bad management or inexperienced employees. Having worked in QSR kitchens for over a decade and consulted with several fried chicken operations, Believe me when I say the real answer: the slowness is baked into the cooking process itself, and there's almost nothing any individual store can do about it. 
 
 ## The Chicken Takes 12 to 14 Minutes to Cook
 
-![Operational view](../../assets/images/general/generic-coffee.webp)
+![Popeyes Slow Kitchen Why the Wait Is That Long](../../assets/images/general/generic-coffee.webp)
 
 
 

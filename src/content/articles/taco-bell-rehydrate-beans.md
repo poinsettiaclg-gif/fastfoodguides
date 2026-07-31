@@ -5,7 +5,7 @@ description: Former QSR manager reveals how Taco Bell transforms dehydrated bean
 pubDate: '2025-09-22'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -19,6 +19,7 @@ faq:
 - question: How long does the rehydration process take?
   answer: The beans typically need to sit in the heated holding cabinet for approximately
     45 minutes to fully absorb the boiling water and reach the correct consistency.
+disclaimerType: medical
 ---
 Taco Bell relies on the brilliantly engineered food science shortcuts you will encounter to serve thousands of pounds of refried beans every day. If you picture someone soaking raw pinto beans overnight and mashing them by hand, let that image go. The actual process involves boiling water, a timer, and bags of dehydrated pellets—and nailing the exact ratio is the difference between creamy beans and a watery mess. 
 
@@ -36,10 +37,10 @@ The dehydration is pure logistics genius. Shipping water is expensive—it's hea
 
 ## The Rehydration Process Step by Step
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Does Taco Bell Rehydrate Their Beans?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Does Taco Bell Rehydrate Their Beans?](../../assets/images/general/generic-prep.webp)
 
 
 When it's time to prep a fresh batch for the makeline, here's exactly what happens:
@@ -48,7 +49,7 @@ When it's time to prep a fresh batch for the makeline, here's exactly what happe
 
 2. **The Dump:** You cut the bag open and pour the dehydrated pellets directly into the boiling water. It will immediately look disgusting—a brownish, watery soup with pellets floating on the surface like sad little rafts.
 
-3. **The Whisk:** Using a long metal whisk or the specialized stirring tool your store keeps near the prep station, you stir aggressively for at least 30 seconds. I cannot stress this enough. Lazy stirring is the number one cause of lumpy beans. Those pellets clump together on contact with water, and if you leave clusters of dry pellets floating on top, they'll form hard nuggets that never fully dissolve—even after 45 minutes in the holding cabinet. Thirty seconds of genuine, vigorous whisking prevents this entirely.
+3. **The Whisk:** Using a long metal whisk or the specialized stirring tool your store keeps near the prep station, you stir aggressively for at least 30 seconds. I cannot stress this enough. Inadequate stirring is the number one cause of lumpy beans. Those pellets clump together on contact with water, and if you leave clusters of dry pellets floating on top, they'll form hard nuggets that never fully dissolve—even after 45 minutes in the holding cabinet. Thirty seconds of genuine, vigorous whisking prevents this entirely.
 
 <div class="callout callout-tip">**ProTip:** Keep a dedicated heavy-duty whisk for the beans. The pellet clumps can bend flimsy whisks. Stirring vigorously for 30 seconds is non-negotiable for that smooth, spreadable consistency.</div>
 
@@ -58,7 +59,7 @@ When it's time to prep a fresh batch for the makeline, here's exactly what happe
 
 Here's where prep cooks either earn their keep or create problems that cascade through the entire shift. The instructions printed on every bag specify the exact water-to-pellet ratio, and deviating even slightly produces noticeably different results.
 
-Too much water? The beans come out soupy and thin. They'll slide off the tortilla and pool at the bottom of the burrito, creating a soggy mess that falls apart when the customer picks it up. I've had customers bring back burritos that were essentially bean soup in a tortilla because someone on prep got lazy with the measuring.
+Too much water? The beans come out soupy and thin. They'll slide off the tortilla and pool at the bottom of the burrito, creating a soggy mess that falls apart when the customer picks it up. I've had customers bring back burritos that were in practice bean soup in a tortilla because someone on prep rushed the measuring.
 
 Too little water? The beans come out thick, pasty, and dry—almost like spackling compound. They're difficult to spread on the tortilla and have a gritty, unpleasant mouthfeel that customers absolutely notice.
 
@@ -79,7 +80,7 @@ A typical Taco Bell preps between three and five batches per day. The first batc
 I've watched hundreds of prep cooks learn this process, and the same mistakes come up constantly:
 
 - **Using lukewarm water.** The water must be at or near 200°F. Anything below 180°F will leave gritty, partially reconstituted chunks that never smooth out.
-- **Lazy stirring.** If you don't whisk aggressively for a full 30 seconds at the start, you will have lumps. Period.
+- **Inadequate stirring.** If you don't whisk aggressively for a full 30 seconds at the start, you will have lumps. Period.
 - **Skipping the label.** Unlabeled pans in the holding cabinet are "mystery beans" that nobody can vouch for. That's a food safety liability and a health inspector's dream citation.
 - **Guessing on the water ratio.** The measurement is printed on the bag for a reason. Use it. Your eyeball is not a calibrated measuring instrument.
 

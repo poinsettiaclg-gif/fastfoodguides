@@ -5,7 +5,7 @@ description: A complete breakdown of In-N-Out's strict 7-level promotion track, 
 pubDate: '2024-06-20'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
@@ -41,7 +41,7 @@ Associates who show up on time, keep the dining room spotless without prompting,
 
 ## Levels 2 Through 4: Front-of-House Fundamentals
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The In-N-Out Level System Explained (Level 1 to Level 7)](../../assets/images/general/generic-prep.webp)
 
 
 These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of [the In-N-Out](/articles/in-n-out-board-station) operation.
@@ -58,7 +58,7 @@ Each level requires a formal evaluation before promotion. Your managers are watc
 
 ## Levels 5 Through 7: Kitchen Mastery and Management
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![The In-N-Out Level System Explained (Level 1 to Level 7)](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is where the money gets real, but the difficulty spikes dramatically.
@@ -67,7 +67,7 @@ This is where the money gets real, but the difficulty spikes dramatically.
 
 **Level 6 — The Grill:** This is the holy grail. You're finally cooking the meat. Level 6 certification requires you to cook, flip, and pull rows of burgers perfectly without burning a single patty during a massive rush. The Grill cook sets the tempo for the entire kitchen, and there's an enormous amount of pride attached to earning your Level 6 stripes.
 
-**Level 7 — Management / Shift Manager:** At Level 7, you're essentially a Shift Lead. You manage labor scheduling, handle the cash, address customer complaints, and run the floor during your shift. From here, you're eligible to enter the Store Management program—where salaries can eventually top $100,000 a year.
+**Level 7 — Management / Shift Manager:** At Level 7, you're at its core a Shift Lead. You manage labor scheduling, handle the cash, address customer complaints, and run the floor during your shift. From here, you're eligible to enter the Store Management program—where salaries can eventually top $100,000 a year.
 
 The jump from Level 4 to Level 5 is where most people either commit to a career at In-N-Out or decide this isn't for them. Levels 5 and 6 require genuine kitchen skill, physical endurance, and the ability to perform under extreme pressure. It's no longer about following scripts or learning a register. It's about cooking real food at extraordinary speed, and not everybody is built for that.
 

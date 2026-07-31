@@ -5,7 +5,7 @@ description: An inside look at the strict culinary process Wendy's uses to repur
 pubDate: '2026-05-01'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 disclaimerType: food_safety
@@ -35,10 +35,10 @@ So Wendy's repurposes it. And the key word here is "repurposes," not "reuses." T
 
 ## The Chili Meat Process: Step by Step
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Wendy](../../assets/images/general/generic-prep.webp)
 
 
-1. **The Chop:** The overcooked patties are pulled off the grill and placed into a designated metal pan. A cook takes a heavy metal chopping tool—essentially a flat-edged metal blade—and breaks the square patties down into small, bite-sized crumbles. The target crumble size is about the size of a pea. Uniform, small crumbles ensure every ladle has the same consistency and that the meat reheats evenly.
+1. **The Chop:** The overcooked patties are pulled off the grill and placed into a designated metal pan. A cook takes a heavy metal chopping tool—for all practical purposes a flat-edged metal blade—and breaks the square patties down into small, bite-sized crumbles. The target crumble size is about the size of a pea. Uniform, small crumbles ensure every ladle has the same consistency and that the meat reheats evenly.
 
 2. **The Freeze:** The crumbled meat is immediately transferred into food-safe bags, clearly dated with a marker, and placed into the freezer. This rapid temperature drop is critical for food safety—it brings the meat through the bacterial danger zone (41°F to 135°F) as quickly as possible and holds it safely until it's needed.
 
@@ -60,7 +60,7 @@ When those charred crumbles are simmered in the chili base for hours, they relea
 
 ## Holding, Rotation, and Daily Production
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Wendy](../../assets/images/general/generic-prep.webp)
 
 
 Once the chili is simmering in the warmer, it is absolutely not a set-it-and-forget-it situation. The chili must be stirred from the bottom at least every 30 minutes. If it sits undisturbed, the beans and meat settle while the liquid rises, creating an uneven product where one customer gets watery broth and the next gets a thick, chunky ladle.

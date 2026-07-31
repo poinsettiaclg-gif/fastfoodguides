@@ -5,7 +5,7 @@ description: Little Caesars keeps pizzas ready without a customer order. Here's 
 pubDate: '2025-10-12'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Little Caesars
 topic: Pizza
 relatedArticles:
@@ -26,7 +26,7 @@ The most stressful job in a Little Caesars isn't making the pizzas; it's predict
 
 ## The Holding Cabinets: Temperature Management
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Little Caesars Hot-N-Ready How the System Works](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -40,7 +40,7 @@ The balance is everything. The cabinets are calibrated to corporate specificatio
 
 ## The Clock Marking System: 30 Minutes to Live
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Little Caesars Hot-N-Ready How the System Works](../../assets/images/general/generic-prep.webp)
 
 
 Every pizza that comes out of the oven gets a time stamp, and the system is designed to be fast and completely idiot-proof during a rush.

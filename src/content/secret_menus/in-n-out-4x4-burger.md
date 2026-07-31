@@ -61,7 +61,7 @@ While a Double-Double requires stacking one patty onto another, a 4x4 forces the
 
 In a kitchen calibrated to maintain a rapid 4-minute ticket turnover from order placement to hand-off, dedicating half a cook row to a single customer's burger creates an immediate bottleneck in griddle throughput, delaying patty drops for surrounding single and double orders.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The In-N-Out 4x4 Burger Why Stacking Four Patty-and-Cheese Layers Causes](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The "Animal Style" Griddle Complication</strong>

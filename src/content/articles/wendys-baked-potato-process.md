@@ -12,6 +12,7 @@ faq:
   answer: "It takes exactly one hour to bake the potatoes in a commercial convection oven at 450°F."
 - question: Are Wendy's baked potatoes microwaved?
   answer: No, they are baked fresh in a convection oven. some stores may use a microwave to flash-heat a potato if they run out during a massive rush, but this violates standard protocol.
+disclaimerType: medical
 ---
 If there is one item on the Wendy's menu that completely throws a wrench into standard fast-food timing, it's the baked potato. While a burger takes a few minutes and fries take three, a baked potato takes a full hour to cook. Managing the potato supply during a lunch rush is a constant source of stress for the prep station. If you miscalculate the drop, you either have angry customers waiting 45 minutes for a potato, or you end up throwing away perfectly good inventory when the holding timer expires.
 

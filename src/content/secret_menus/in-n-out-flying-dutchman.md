@@ -28,6 +28,7 @@ faq:
     entirely on the griddle by the grill cook in seconds.
 author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
+disclaimerType: medical
 ---
 While the printed menu at In-N-Out Burger is famously minimalist—offering only burgers, fries, shakes, and drinks—the West Coast chain is globally recognized for its expansive, highly codified **Secret Menu**. 
 
@@ -37,7 +38,7 @@ To the uninitiated, the Flying Dutchman looks like an incomplete burger. To a fo
 
 ## 1. Anatomy of the Flying Dutchman Build
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![The Flying Dutchman In-N-Out](../../assets/images/general/generic-pos.webp)
 
 
 
@@ -54,7 +55,7 @@ Unlike standard burgers that bounce between the grill cook and the Board assembl
 
 
 
-From a food cost perspective, the Flying Dutchman is also incredibly straightforward. We do not have to account for spoiled produce, crushed buns, or misportioned spread. It is pure protein and dairy. When evaluating nightly inventory, missing patties correlate perfectly with POS receipts for this item. Moreover, the absence of packaging materials beyond the clam-shell means less paper waste on the floor. For a shift manager tracking fractional pennies on waste margins, this secret menu hack is a welcome sight on the KDS monitor.
+From a food cost perspective, the Flying Dutchman is also incredibly straightforward. We do not have to account for spoiled produce, crushed buns, or misportioned spread. It is pure protein and dairy. When evaluating nightly inventory, missing patties correlate perfectly with POS receipts for this item. On top of that, the absence of packaging materials beyond the clam-shell means less paper waste on the floor. For a shift manager tracking fractional pennies on waste margins, this secret menu hack is a welcome sight on the KDS monitor.
 
 ## 2. Why The Kitchen Loves It (Annoyance Score: 2/10)
 

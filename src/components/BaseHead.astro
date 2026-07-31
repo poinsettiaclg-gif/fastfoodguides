@@ -2,6 +2,7 @@
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
 import '../styles/global.css';
+import '@fontsource/atkinson-hyperlegible';
 import { SITE_TITLE } from '../consts';
 
 interface Props {
@@ -10,6 +11,7 @@ interface Props {
 	image?: string;
 	ogType?: string;
 	chain?: string;
+	hasChainPage?: boolean;
 	articlePath?: string;
 	pubDate?: Date;
 	updatedDate?: Date;
@@ -23,7 +25,7 @@ if (!pathname.endsWith('/') && !pathname.split('/').pop()?.includes('.')) {
 const canonicalURL = new URL(pathname, Astro.site);
 const isHomepage = Astro.url.pathname === '/' || Astro.url.pathname === '';
 
-const { title, description, image, ogType = 'website', chain, articlePath, pubDate, updatedDate, noindex = false } = Astro.props;
+const { title, description, image, ogType = 'website', chain, hasChainPage = true, articlePath, pubDate, updatedDate, noindex = false } = Astro.props;
 
 const displayTitle = (isHomepage || title.includes(SITE_TITLE)) ? title : `${title} | ${SITE_TITLE}`;
 const ogImageUrl = image ? new URL(image, Astro.site) : new URL('/og-default.png', Astro.site);
@@ -103,15 +105,15 @@ const ogImageUrl = image ? new URL(image, Astro.site) : new URL('/og-default.png
 					"name": articlePath.startsWith('/secret-menus/') ? "Secret Menus" : "Guides",
 					"item": new URL(articlePath.startsWith('/secret-menus/') ? "/secret-menus/" : "/articles/", Astro.site).href
 				},
-				{
+				...(hasChainPage ? [{
 					"@type": "ListItem",
 					"position": 3,
 					"name": chain,
 					"item": new URL(`/articles/chain/${chain.toLowerCase().replace(/[']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/`, Astro.site).href
-				},
+				}] : []),
 				{
 					"@type": "ListItem",
-					"position": 4,
+					"position": hasChainPage ? 4 : 3,
 					"name": title,
 					"item": new URL(articlePath, Astro.site).href
 				}

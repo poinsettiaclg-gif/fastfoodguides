@@ -5,7 +5,7 @@ description: "An insider look at the Papa John's Dough Spinner machine \u2014 ho
 pubDate: '2024-07-21'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Papa John's
 topic: Pizza
 relatedArticles:
@@ -24,7 +24,7 @@ Then the Dough Spinner showed up, and everything changed.
 
 ## What the Dough Spinner Actually Is
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the Papa John](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -38,7 +38,7 @@ It hums. There's a constant low electrical hum when it's warmed up and ready to 
 
 ## How the Machine Actually Works
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Papa John](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Instead of the theatrical slapping and spinning that [Papa John's traditionalists love](/articles/papa-johns-dough-slapping), the process is almost insultingly simple:

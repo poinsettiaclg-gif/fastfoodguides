@@ -5,7 +5,7 @@ description: Wawa hoagies are ordered via touchscreen and built to a specific se
 pubDate: '2026-03-01'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wawa
 topic: Sandwiches
 faq:
@@ -33,7 +33,7 @@ I've worked in operations where verbal orders caused constant rework. Wrong chee
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-![Operational view](../../assets/images/general/generic-grill.webp)
+![Wawa Hoagie Build The Touchscreen Assembly Line](../../assets/images/general/generic-grill.webp)
 
 
 
@@ -189,5 +189,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of rookies, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

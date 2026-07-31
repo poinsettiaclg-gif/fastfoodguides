@@ -1,11 +1,11 @@
 ---
 title: 'Domino''s Gas Reimbursement: How Driver Pay Works'
 description: Domino's delivery drivers are paid a mileage reimbursement, not a gas
-  allowance. Here's exactly how driver compensation is structured per delivery.
+  allowance. This is how driver compensation is structured per delivery.
 pubDate: '2024-06-12'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
@@ -28,7 +28,7 @@ Here's the conversation I had with almost every single delivery driver applicant
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Domino](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -48,7 +48,7 @@ Most Domino's franchises use one of two reimbursement models, and which one your
 
 **Per-delivery flat rate** means you get a set amount—usually $1.00 to $1.50—for every delivery you complete, regardless of distance. Take a double? You get the rate twice. This model favors drivers in dense urban areas where every drop is a mile or two from the store. If you're running short deliveries all night, a $1.25 flat rate on a 1.2-mile round trip works out to over a dollar per mile in effective reimbursement. That's excellent.
 
-The reality is that per-mile is better for suburban and rural stores, and per-delivery is better for dense city stores. Before you accept a driver position at any specific franchise, ask the manager which model they use and what the current rate is. Over the years, drivers transfer from one franchise to another across town and gain $30 a week just because the reimbursement model better fit their delivery area. It's that significant.
+The reality is per-mile is better for suburban and rural stores, and per-delivery is better for dense city stores. Before you accept a driver position at any specific franchise, ask the manager which model they use and what the current rate is. Over the years, drivers transfer from one franchise to another across town and gain $30 a week just because the reimbursement model better fit their delivery area. It's that significant.
 
 ## The Math: Is the Reimbursement Actually Enough?
 
@@ -64,7 +64,7 @@ Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, tha
 
 ## The Hidden Costs Nobody Mentions in the Interview
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Domino](../../assets/images/general/generic-prep.webp)
 
 
 The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. Here's what I saw drivers dealing with constantly:

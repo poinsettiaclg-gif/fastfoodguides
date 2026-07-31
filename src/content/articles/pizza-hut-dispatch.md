@@ -6,7 +6,7 @@ description: "A delivery driver's insider guide to the Pizza Hut dispatch termin
 pubDate: '2026-01-28'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Pizza Hut
 topic: Pizza
 relatedArticles:
@@ -30,7 +30,7 @@ The old days of writing addresses on a whiteboard and fighting with other driver
 
 ## The Drag-and-Drop System
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Does the Pizza Hut Dispatch System Work?](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -46,7 +46,7 @@ The reality on the ground is during training: **that dispatch timer is one of th
 
 ## Doubles, Triples, and the Routing Algorithm
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Does the Pizza Hut Dispatch System Work?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Taking one pizza at a time is a rookie move. Experienced drivers make their real money on "Doubles" — taking two orders at once — or even "Triples" on busy nights. But you can't just grab three random boxes and run.
@@ -63,7 +63,7 @@ In the old days, senior drivers used to cherry-pick the good deliveries — the 
 
 The system enforces a strict First In, First Out (FIFO) rule. If you're the first driver back in the store, you take the oldest order on the screen. Period. Even if you know that address has never tipped a single cent in the three years you've been delivering there. If you try to bypass the queue and assign yourself a newer, better order, the system locks you out. The Shift Manager has to override it manually, and that override gets logged. Do it more than once and you'll be having a very uncomfortable conversation.
 
-That said, experienced drivers learn to play within the system. You can't skip orders, but you can influence timing. During a Friday night rush, drivers who know the board has a bad order up next take an extra 30 seconds "organizing their hot bag" in the parking lot so the next driver in line grabs the stiff and a better double forms up for their return. Managers are absolutely aware of this trick, and if they catch you stalling, you'll hear about it. But the fact that every veteran driver knows it tells you something about how the game actually works.
+That said, the system tracks everything. Managers are absolutely aware of drivers who try to stall to dodge bad tips. Trying to game the system is a tracked and fireable offense, so the best strategy is always simply to be efficient and take the runs you're assigned.
 
 ## In-Store Duties Between Runs
 

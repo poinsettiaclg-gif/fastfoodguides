@@ -5,7 +5,7 @@ description: Whataburger's Patty Melt uses Texas Toast grilled in butter on a fl
 pubDate: '2025-06-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Whataburger
 topic: Burgers
 relatedArticles:
@@ -19,6 +19,7 @@ faq:
 - question: What is the sauce on the Whataburger Patty Melt?
   answer: It uses a proprietary Creamy Pepper sauce, which is a peppercorn-based cream
     sauce with visible flecks of cracked black pepper.
+disclaimerType: medical
 ---
 7.  How is the Whataburger Patty Melt Made? (Behind the Grill)
 
@@ -29,7 +30,7 @@ I spent several years working in QSR kitchens across Texas, and From firsthand e
 
 ## The Grill Setup and Patty Cook
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Whataburger Patty Melt Texas Toast on the Grill](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -45,7 +46,7 @@ Cook time runs about 3 to 4 minutes per side, depending on grill position and ho
 
 ## The Texas Toast — This Is Where It Gets Good
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Whataburger Patty Melt Texas Toast on the Grill](../../assets/images/general/generic-prep.webp)
 
 The Texas toast is what separates the patty melt from a regular cheeseburger, and Whataburger does not phone this step in.
 
@@ -164,5 +165,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of first-timers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

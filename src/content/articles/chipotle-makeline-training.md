@@ -33,7 +33,7 @@ Achieving this velocity without destroying food cost margins requires an obsessi
 
 ## 1. The Tortilla Station: The Hot Side Foundation
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![Chipotle Makeline Training Surviving the Lunch Rush on Tortilla and Salsa](../../assets/images/general/generic-pos.webp)
 
 
 

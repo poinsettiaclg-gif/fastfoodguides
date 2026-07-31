@@ -5,7 +5,7 @@ description: McDonald's fry station runs on a precise basket rotation and timer 
 pubDate: '2026-06-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Burgers
 faq:
@@ -19,9 +19,10 @@ faq:
     product quality is highly visible.
 relatedArticles:
 - mcdonalds-nugget-process
+disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
-7.  How Does McDonald's Make Their Fries? (The Full Fry Station Process)
+## How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
 
 The volume at a typical McDonald's store means processing hundreds of pounds of frozen fries per day, dropping baskets into 350-degree vats in a non-stop rhythm that dictates the entire flow of a lunch rush. If the fry station backs up, the drive-thru stops. It's the most high-pressure position in the store. There's no chef technique involved—just a brutally efficient factory process paired with an in-store procedure that's engineered down to the second. 
@@ -30,7 +31,7 @@ Here's the full picture — from potato field to the cardboard sleeve in your ba
 
 ## What Happens Before the Fries Reach the Restaurant
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![McDonald](../../assets/images/general/generic-pos.webp)
 
 
 
@@ -162,5 +163,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of first-timers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

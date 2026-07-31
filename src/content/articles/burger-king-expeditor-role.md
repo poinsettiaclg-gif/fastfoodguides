@@ -6,7 +6,7 @@ description: "Inside the most critical position at Burger King\u2014how the Expo
 pubDate: '2025-11-25'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Burger King
 topic: Burgers
 relatedArticles:
@@ -27,7 +27,7 @@ During a Friday night dinner rush at Burger King, the kitchen sounds like a fact
 
 ## The Bridge Between Kitchen and Customer
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What Is the Burger King Expeditor Role During a Rush?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -55,7 +55,7 @@ During a peak rush, the Expo might verify and bag 60 to 80 orders per hour. Ever
 
 ## The Modification Nightmare
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What Is the Burger King Expeditor Role During a Rush?](../../assets/images/general/generic-prep.webp)
 
 
 A standard Whopper has lettuce, tomato, onion, pickle, ketchup, and mayo. That is the baseline. But customers constantly customize their orders, and every single modification has to be verified before the food leaves the counter.

@@ -6,7 +6,7 @@ description: Essential survival tips for new fast-food employees. Learn how to h
 pubDate: '2025-12-22'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Multi-Chain
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-3.webp
@@ -24,6 +24,7 @@ faq:
   answer: "Always announce your movements around hot equipment by loudly calling out\
     \ 'Corner,' 'Behind,' 'Sharp,' or 'Hot.' Never walk silently behind a coworker\
     \ who is working near a 350\xB0F deep fryer or a hot flat-top grill."
+disclaimerType: medical
 ---
 Working your first job in a fast-food or quick-service restaurant (QSR) kitchen is a sensory overload. The speed of service timers are beeping, the kitchen printers are chattering, the drive-thru headset is chiming in your ear, and the lunch rush line is winding out the lobby door.
 
@@ -35,7 +36,7 @@ If you want to be in the second group, you need to understand the unwritten rule
 
 ## 1. Master the Vocabulary of Kitchen Safety ("Corner," "Behind," "Hot")
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![15 Brutally Honest Tips for Your First Fast Food Job How to Avoid Rookie](../../assets/images/general/generic-drive-thru.webp)
 
 
 

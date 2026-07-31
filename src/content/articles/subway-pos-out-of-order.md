@@ -5,7 +5,7 @@ description: When Subway's POS system goes offline, everything shifts to manual 
 pubDate: '2025-05-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
 - question: Can I use the Subway app or gift cards if the internet is down?
   answer: No. Third-party app orders, digital rewards, and physical gift cards require
     live database verification. When the POS is offline, those systems cannot be accessed.
+disclaimerType: medical
 ---
 The most stressful moment in any quick-service restaurant is not a line out the door during the Friday lunch rush. It is hearing the sudden, ominous beep of the Point of Sale (POS) terminal losing network connectivity right as you try to ring up a line of 15 impatient customers.
 
@@ -93,7 +94,7 @@ To access the till for cash-only transactions, the shift leader must use the **M
 
 In stores equipped with Kitchen Display Systems (KDS) or remote sandwich preparation receipt printers (often used for drive-thru or digital make lines), a network drop breaks the communication link between the front register and the kitchen printers.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Subway POS Down How Staff Handle a Cash-Only Shift](../../assets/images/general/generic-walk-in-2.webp)
 
 When the printer loses network communication, its internal buffer memory begins holding print jobs. If line cooks rely on printed tickets to assemble sandwiches, the shift leader must immediately assign an expeditor at the front register. The expeditor manually calls out sandwich builds ("Footlong Italian B.M.T. on White, toasted, toasted with Provolone!") directly to the line workers, writing the order number on the sandwich wrapping paper with a grease pencil or Sharpie.
 

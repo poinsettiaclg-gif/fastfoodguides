@@ -9,6 +9,7 @@ author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
 chain: McDonald's
 topic: Operations
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-grill.webp
 operationalAnnoyanceScore: 9
 isVerified: true
@@ -40,7 +41,7 @@ I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn'
 
 ## The Mechanical Reality of the Taylor C606 Manifold
 
-![Operational view](../../assets/images/general/generic-exterior.webp)
+![The McDonald](../../assets/images/general/generic-exterior.webp)
 
 
 
@@ -49,15 +50,11 @@ Most customers assume that McDonald's has three separate vats of flavored ice cr
 The Taylor C606 (and its modern variants) holds a massive reservoir of unflavored, neutral vanilla dairy mix in the upper hopper. When an employee pulls the draw handle, the machine freezes the mix on the fly inside the freezing cylinder. Simultaneously, an internal pneumatic pump injects a highly concentrated line of flavored syrup (chocolate or strawberry) directly into the nozzle block, blending the flavor into the vanilla base at the exact moment it hits the cup.
 
 <div class="callout callout-tip">
-<div class="callout callout-tip">
 **ProTip from the Window:** If the syrup bags are empty or the lines aren't properly calibrated, you get the dreaded 'La Croix effect'—a vanilla base mix with just the faintest hint of artificial strawberry or chocolate color, but zero actual flavor profile.
-</div>
 </div>
 
 <div class="callout callout-tip">
-<div class="callout callout-tip">
 **ProTip from the Window:** The syrup lines run through a tight, shared manifold just above the dispensing nozzle. When you pull a strawberry shake immediately after a chocolate shake, there is always a slight "flavor bleed" for the first two seconds of the draw as the chocolate syrup purges from the shared channel.
-</div>
 </div>
 
 When a customer orders a Neapolitan Shake, they expect three distinct layers. To achieve this, the employee cannot use the automated portion control sensors. They must put the machine into manual override.
@@ -83,16 +80,14 @@ In the QSR industry, throughput is king. The beverage cell is designed for econo
 The Neapolitan Shake completely breaks this rhythm. The employee must stand stationary at the machine, feathering the draw handle and manually triggering the syrup pumps. While they are doing this, they are not handing out food. They are not taking payment. They are not passing out napkins. The queue outside backs up, the kitchen continues throwing wrapped burgers down the heated chute, and the food begins to hit the edge of its holding timer. 
 
 <div class="callout callout-tip">
-<div class="callout callout-tip">
 **ProTip for the Line:** The only way to survive a rush with multiple Neapolitan orders is to stage them. Pull the bottom layer for three cups at once, then the middle layer for three cups, then the top layer. It violates standard flow protocols, but it saves the manifold from unnecessary purging cycles.
 </div>
-</div>
 
-Additionally, the continuous, rapid drawing of the machine depletes the freezing cylinder's thermal reserves. The Taylor machine relies on a specific recovery time between pulls to freeze the liquid mix descending from the hopper. Pulling three distinct layers in rapid succession forces the compressor to work overtime, often resulting in the top layer coming out as a soupy, under-frozen mess.
+On top of that, the continuous, rapid drawing of the machine depletes the freezing cylinder's thermal reserves. The Taylor machine relies on a specific recovery time between pulls to freeze the liquid mix descending from the hopper. Pulling three distinct layers in rapid succession forces the compressor to work overtime, often resulting in the top layer coming out as a soupy, under-frozen mess.
 
 ## The Verdict on the Build
 
-The reality is that the Neapolitan Shake is a novelty item that directly conflicts with the mechanical engineering of the modern fast-food beverage station. The Taylor C606 is a marvel of automated high-volume dispensing, but it was fundamentally designed to output a single, homogenous flavor per transaction. 
+The reality is the Neapolitan Shake is a novelty item that directly conflicts with the mechanical engineering of the modern fast-food beverage station. The Taylor C606 is a marvel of automated high-volume dispensing, but it was fundamentally designed to output a single, homogenous flavor per transaction. 
 
 ### How to Order It (Without Stopping the Line)
 If you are determined to order this, there is an unspoken etiquette. 

@@ -8,12 +8,32 @@ import authorPhoto from '../assets/images/russell-roseberry-headshot.webp';
 const title = 'About | Fast Food Guides';
 const description =
 	"About Fast Food Guides — the internet's most detailed insider resource for fast food workers, written by a 10-year QSR veteran.";
+
+const schema = {
+	"@context": "https://schema.org",
+	"@type": "AboutPage",
+	"name": title,
+	"description": description,
+	"publisher": {
+		"@type": "Organization",
+		"name": "Fast Food Guides Media LLC",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "701 S. Carson St, Ste 200",
+			"addressLocality": "Carson City",
+			"addressRegion": "NV",
+			"postalCode": "89701",
+			"addressCountry": "US"
+		}
+	}
+};
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify(schema)} />
 	</head>
 	<body>
 		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>

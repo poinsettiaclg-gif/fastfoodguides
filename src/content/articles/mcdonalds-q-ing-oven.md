@@ -29,7 +29,7 @@ To the untrained eye, it looks like a heavy-duty microwave. To a kitchen manager
 
 ## What is "Q-ing"?
 
-![Operational view](../../assets/images/general/generic-prep.webp)
+![The McDonald](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -55,7 +55,7 @@ Step by step, the workflow for a standard McGriddle assembly looks like this:
 5. The oven emits its piercing, unmistakable triple-beep.
 6. The cakes are pulled out, piping hot and steaming, and the sandwich is built.
 
-If the Q-ing oven goes down during a breakfast rush, the store is essentially paralyzed. You cannot serve McGriddles, you cannot serve hotcakes, and you cannot serve burritos. 
+If the Q-ing oven goes down during a breakfast rush, the store is in effect paralyzed. You cannot serve McGriddles, you cannot serve hotcakes, and you cannot serve burritos. 
 
 ## The Acoustic Nightmare of the Kitchen
 

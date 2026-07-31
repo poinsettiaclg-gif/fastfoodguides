@@ -6,7 +6,7 @@ description: "A comprehensive guide to your first shift at Subway. Learn how to 
 pubDate: '2024-09-26'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 heroImage: ../../assets/images/general/generic-pos-2.webp
 category: Careers
 chain: Subway
@@ -36,10 +36,10 @@ Stepping behind the glass sneeze guard at Subway for your first shift is a trial
 
 If you have been hired as a "Sandwich Artist," you are about to learn that building a Footlong Italian B.M.T. in an empty store is simple, but assembling three custom sandwiches simultaneously while a line of 15 office workers watches your hands during the 12:00 PM lunch rush is an intense test of ergonomics, pacing, and composure.
 
-As someone who has managed high-volume QSR operations across the country, The reality is that succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
+As someone who has managed high-volume QSR operations across the country. The reality is succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
 ## 1. The Refrigerated Bain: The 41°F Health Code Battlefield
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![Your First Day at Subway The Sandwich Artist Operational Survival Guide](../../assets/images/general/generic-prep.webp)
 
 
 

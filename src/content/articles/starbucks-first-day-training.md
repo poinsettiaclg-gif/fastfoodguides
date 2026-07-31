@@ -6,7 +6,7 @@ description: A complete guide to your first shift as a Starbucks barista. Learn 
 pubDate: '2025-10-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 heroImage: ../../assets/images/general/generic-pos-2.webp
 category: Careers
 chain: Starbucks
@@ -30,7 +30,7 @@ faq:
 ---
 Stepping behind the bar at Starbucks for the first time is legendary for being one of the most overwhelming experiences in fast food. The sounds alone—the steaming wands screaming, the blenders grinding ice, the relentless printer spitting out mobile orders—are enough to induce sensory overload.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Your First Day at Starbucks Surviving the Barista Trial](../../assets/images/general/generic-drive-thru-3.webp)
 
 If you've just been hired as a "Partner" (Starbucks speak for employee), you might be terrified that they are going to throw you on the espresso machine during the 7:00 AM rush. Put your mind at ease: they absolutely will not do that.
 

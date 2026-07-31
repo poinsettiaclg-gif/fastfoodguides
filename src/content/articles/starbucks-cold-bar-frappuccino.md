@@ -5,7 +5,7 @@ description: Starbucks Frappuccinos require a specific layering and blending seq
 pubDate: '2025-02-27'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
@@ -20,12 +20,13 @@ faq:
     at a time on the remaining blender. This immediately cuts output in half and creates
     a massive backlog.
 heroImage: ../../assets/images/general/generic-coffee-2.webp
+disclaimerType: medical
 ---
 The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. The exact sequencing routine must be memorized to survive the operational demands of the station.
 
 ## The Frappuccino Build: Step by Step
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Starbucks Cold Bar How Frappuccinos Are Built](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -56,7 +57,7 @@ The key to clean sequencing is station organization. Before the rush hits, your 
 
 ## CBS Pumps vs. Hot Bar Pumps: The Mistake That Ruins Drinks
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Starbucks Cold Bar How Frappuccinos Are Built](../../assets/images/general/generic-walk-in-2.webp)
 
 
 This is the single most common Cold Bar error, and it trips up experienced baristas who transfer from Hot Bar, not just new staff.

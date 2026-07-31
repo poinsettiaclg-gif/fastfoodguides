@@ -1,22 +1,19 @@
 ---
+import { SITE_CONFIG } from '../consts';
+
 interface Props {
 	slot: string;
-	isApproved?: boolean;
 }
 
-const { slot, isApproved = false } = Astro.props;
+// Check central config for AdSense approval status.
+const { slot } = Astro.props;
+const isApproved = SITE_CONFIG?.adsenseApproved || false;
 ---
 
-{/* Ad inventory reservation container.
-    Before AdSense approval (isApproved = false), this component collapses to prevent Google AdSense crawlers
-    from penalizing the domain for "Deceptive Site Behavior" / "labeled empty ad boxes".
-    Once AdSense approval is received, set isApproved={true} and uncomment the ins tag below. */}
-
-{isApproved && (
-	<div class="ad-container" data-ad-position={slot} data-ad-status="active">
-		<span class="ad-label">Advertisement</span>
-		<div class="ad-slot-placeholder">
-			{/* Uncomment and populate when AdSense approval is received:
+<div class="ad-container" data-ad-position={slot} data-ad-status={isApproved ? "active" : "pending"}>
+	<span class="ad-label">Advertisement</span>
+	<div class="ad-slot-placeholder">
+		{isApproved && (
 			<ins class="adsbygoogle"
 				style="display:block"
 				data-ad-client="ca-pub-4755826230930575"
@@ -24,10 +21,12 @@ const { slot, isApproved = false } = Astro.props;
 				data-ad-format="auto"
 				data-full-width-responsive="true">
 			</ins>
-			*/}
-		</div>
+			<script is:inline>
+				(window.adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		)}
 	</div>
-)}
+</div>
 
 <style>
 	.ad-container {
@@ -38,6 +37,8 @@ const { slot, isApproved = false } = Astro.props;
 		box-sizing: border-box;
 		display: block;
 		padding: 0.5rem 0;
+		contain: layout;
+		contain-intrinsic-size: 250px;
 	}
 
 	.ad-label {
@@ -51,11 +52,27 @@ const { slot, isApproved = false } = Astro.props;
 	}
 
 	.ad-slot-placeholder {
-		min-height: 280px;
 		width: 100%;
 		background: rgba(255, 255, 255, 0.015);
 		border-radius: 0.5rem;
 		display: block;
 		transition: border-color 0.2s ease;
+	}
+
+	/* Default min-height for mobile/inline slots */
+	.ad-slot-placeholder {
+		min-height: 250px;
+	}
+
+	/* Sidebar sticky needs 600px for half-page ads on desktop */
+	[data-ad-position="sidebar-sticky"] .ad-slot-placeholder {
+		min-height: 600px;
+	}
+	
+	@media (min-width: 1024px) {
+		[data-ad-position="post-bottom"] .ad-slot-placeholder,
+		[data-ad-position="secret-menu-bottom"] .ad-slot-placeholder {
+			min-height: 280px;
+		}
 	}
 </style>

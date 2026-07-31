@@ -5,7 +5,7 @@ description: 'Inside the Starbucks CS Cycle: the 10-minute timed cadence that ke
 pubDate: '2024-10-03'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
@@ -23,6 +23,7 @@ faq:
     brewing coffee and restocking\u2014must always get done, even if the lobby check\
     \ is skipped."
 heroImage: ../../assets/images/general/generic-pos-3.webp
+disclaimerType: medical
 ---
 During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. Pulling double shifts taught me that it happen. The process operates under strict guidelines:
 
@@ -40,14 +41,14 @@ The cadence length is set by the Shift Supervisor based on current store conditi
 
 ## The Four Steps of Every CS Cycle
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Starbucks Customer Support (CS) Cycle?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Each cycle follows the same four steps, in the same order, every single time:
 
 ### Step 1: Brew Coffee
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Starbucks Customer Support (CS) Cycle?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The very first priority is always drip coffee. Check the timers on the urns. If any batch has been sitting longer than 30 minutes, dump it, rinse the urn, and brew a fresh batch of Pike Place, Blonde, or Dark Roast. Drip coffee has a strict 30-minute freshness window. Coffee that sits beyond that tastes stale and flat, and regular customers who order the same Pike Place every morning will absolutely notice the difference and say something.
@@ -78,7 +79,7 @@ The flex period is your chance to build a buffer for future cycles. If you spend
 
 When the timer beeps, you drop the flex task, reset, and go back to Step 1.
 
-<div class="callout callout-tip">**ProTip:** While the timer governs the cycle, use it as a framework rather than a rigid law. If you're mid-restock when it beeps, finish the critical restock, handle the mandatory brew, and seamlessly jump to the next high-priority task.</div>
+<div class="callout callout-tip">**ProTip:** While the timer governs the cycle, use it as a framework rather than a rigid law. If you're mid-restock when it beeps, finish the critical restock, handle the mandatory brew, and smoothly jump to the next high-priority task.</div>
 
 ## Why Shift Supervisors Protect the CS Role
 

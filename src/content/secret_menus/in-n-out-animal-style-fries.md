@@ -39,7 +39,7 @@ When you order regular fries, the portioner scoops them into a paper sleeve, all
 
 ## The Steam Dome and Cheese Melting Physics
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![In-N-Out Animal Style Fries The Fry Board Bottleneck and Thermal Collapse](../../assets/images/general/generic-drive-thru.webp)
 
 
 
@@ -50,9 +50,7 @@ Here is where the operational bottleneck occurs. The residual heat of the fries 
 To do this, they place the entire cardboard boat onto a designated heated surface or under a metal clamshell steam dome. They shoot a tiny amount of water onto the surface next to the boat and drop the dome. The entire container sits in this dedicated steamer for exactly 24 to 48 seconds. The flash steam envelops the fries, rapidly raising the ambient temperature and forcing the American cheese to liquefy and drape over the potato matrix.
 
 <div class="callout callout-tip">
-<div class="callout callout-tip">
 **ProTip from the Fry Board:** The steam dome technique is highly effective for melting cheese, but it is a double-edged sword. If the portioner leaves the dome down for even three seconds too long, the steam permeates the corrugated cardboard boat, compromising its structural rigidity and turning the bottom layer of fries into absolute mush.
-</div>
 </div>
 
 During this steaming process, the fry portioner is effectively paralyzed. They cannot pull the next basket. They cannot salt the next batch. They have to monitor the steam dome, pull the boat at the exact right second, and pass it to the board assembler. 
@@ -72,9 +70,7 @@ The packaging itself is also pushed beyond its design limits. The corrugated car
 As the Animal Fries sit, the lipids from the melted cheese and the Spread begin to degrade the coating on the cardboard. The boat becomes translucent, greasy, and structurally compromised. By the time it is placed into a brown takeout bag along with your Double-Double, it is actively transferring grease to the bottom of the bag, threatening a catastrophic bag blowout if you hold it by the top edge. 
 
 <div class="callout callout-tip">
-<div class="callout callout-tip">
 **ProTip for the Line:** Experienced board operators will quickly double-boat a heavy order of Animal Fries if they notice the bottom boat getting soggy during the assembly process. It costs the store an extra fraction of a cent in packaging, but it prevents the customer from dropping their meal in the parking lot.
-</div>
 </div>
 
 ## The Verdict on the Line

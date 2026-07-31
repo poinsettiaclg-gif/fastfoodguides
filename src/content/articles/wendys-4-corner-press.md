@@ -5,7 +5,7 @@ description: Former grill manager explains the 4-Corner Press technique Wendy's 
 pubDate: '2026-04-12'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 faq:
@@ -23,6 +23,7 @@ relatedArticles:
 - wendys-chili-leftover-hamburgers
 - wendys-closing-duties
 heroImage: ../../assets/images/general/generic-grill.webp
+disclaimerType: medical
 ---
 Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But keeping that shape intact isn't automatic—it requires a specific technique on the flat-top.
 
@@ -30,7 +31,7 @@ It's called the 4-Corner Press. If you skip it, you'll turn a beautiful square p
 
 ## Why Fresh Beef Fights Back
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the Wendy](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -44,7 +45,7 @@ I watched trainees stare at this process in complete bewilderment. They drop a p
 
 ## The 4-Corner Press Technique
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Wendy](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The technique itself is deceptively simple, but the timing window is critical. Here's the exact sequence:
@@ -55,7 +56,7 @@ The technique itself is deceptively simple, but the timing window is critical. H
 
 3. **The Sear:** Let the meat sit for three to five seconds. You need just enough time for the bottom to start forming a thin crust—this prevents the meat from sticking to your spatula during the press.
 
-4. **The Press:** Using a heavy, flat metal spatula, press down firmly on each of the four corners of the square patty. The classic sequence taught in the 1989 "Grill Skills" video is "top to bottom, left to right." You're pressing the edges outward against the grill, essentially staking them down so the contracting proteins can't pull them inward.
+4. **The Press:** Using a heavy, flat metal spatula, press down firmly on each of the four corners of the square patty. The classic sequence taught in the 1989 "Grill Skills" video is "top to bottom, left to right." You're pressing the edges outward against the grill, functionally staking them down so the contracting proteins can't pull them inward.
 
 <div class="callout callout-tip">
   <strong>ProTip:</strong> The spatula you use matters immensely. The classic Wendy's technique relies on a heavy-duty, wide-blade spatula. A flimsy grill turner will bend under the pressure, leaving the corners under-pressed.

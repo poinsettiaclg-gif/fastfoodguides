@@ -21,6 +21,7 @@ faq:
   answer: Usually not. Your first day will involve watching the Five Guys University
     training videos, learning the prep processes (like cutting potatoes), and understanding
     their strict quality standards.
+disclaimerType: medical
 ---
 Five Guys is loud. That is usually the first thing newcomers notice when they walk in for orientation. Between the music, the constant callouts from the grill, and the rhythmic thumping of the fry shakers, it is an environment built on constant, high-energy movement.
 
@@ -30,7 +31,7 @@ Let's walk through what you can expect during your initial training period.
 
 ## Phase 1: Five Guys University and Administration
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![Five Guys First Day Training What to Expect During Orientation](../../assets/images/general/generic-walk-in.webp)
 
 
 
@@ -76,7 +77,7 @@ Your trainer will shadow you as you learn the exact order and quantity of toppin
 
 The biggest hurdle for fresh trainees at Five Guys isn't the complexity of the menu—it's the physical demand. 
 
-You are going to be standing, moving, wiping, and calling out orders for your entire shift. The open kitchen means you cannot hide in the back if you are feeling overwhelmed; you are essentially on stage. 
+You are going to be standing, moving, wiping, and calling out orders for your entire shift. The open kitchen means you cannot hide in the back if you are feeling overwhelmed; you are in effect on stage. 
 
 this transparency also creates a strong team dynamic. Because everyone is working shoulder-to-shoulder in full view, the communication has to be excellent. If you show up with slip-resistant shoes, a willingness to be loud when calling orders, and the energy to keep moving even when there are no tickets on the board, you will fit in perfectly.
 

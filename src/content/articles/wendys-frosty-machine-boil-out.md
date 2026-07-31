@@ -5,7 +5,7 @@ description: Wendy's Frosty machine requires a full boil-out cleaning cycle ever
 pubDate: '2026-05-28'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 relatedArticles:
@@ -48,7 +48,7 @@ Once the machine is empty, pour buckets of warm water into the top hoppers and p
 
 ## Step 2: The Mechanical Teardown
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Wendy](../../assets/images/general/generic-prep.webp)
 
 
 This is the part that intimidates every new hire, and honestly, it should. The Frosty machine is not a simple countertop appliance—it's a precision freezing system with heavy metal components.
@@ -73,7 +73,7 @@ Each O-ring must be individually removed from its groove, inspected under good l
 
 ## Step 4: Reassembly and the Lube
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Wendy](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is where new employees always, always mess up. When putting the machine back together, you cannot just slide the metal auger back in and bolt the faceplate on. Every single rubber O-ring and the drive shaft must be coated with food-grade lubricant—typically Petrol-Gel or an equivalent NSF-certified product.

@@ -5,9 +5,10 @@ description: A look at the technical operation of the Taylor C602 soft serve mac
 pubDate: '2024-11-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Operations
+disclaimerType: food_safety
 faq:
 - question: Why are McDonald's ice cream machines always broken?
   answer: It is rarely 'broken' in the traditional sense; it is often in a mandatory,
@@ -23,7 +24,7 @@ The machine in question is usually the **Taylor C602** digital soft serve and sh
 
 ## The Dreaded Heat Treatment Cycle
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![How the McDonald](../../assets/images/general/generic-fryer.webp)
 
 
 

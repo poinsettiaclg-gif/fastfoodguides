@@ -19,13 +19,15 @@ export async function getStaticPaths() {
       topicsMap.get(slug)!.posts.push(post);
   }
 
-  return Array.from(topicsMap.entries()).map(([slug, data]) => {
-      data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-      return {
-          params: { topic: slug },
-          props: { topicName: data.topicName, posts: data.posts },
-      };
-  });
+  return Array.from(topicsMap.entries())
+      .filter(([_, data]) => data.posts.length >= 3)
+      .map(([slug, data]) => {
+          data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+          return {
+              params: { topic: slug },
+              props: { topicName: data.topicName, posts: data.posts },
+          };
+      });
 }
 
 const { topicName, posts } = Astro.props;

@@ -5,7 +5,7 @@ description: Dunkin' offers two types of flavor add-ins and most customers don't
 pubDate: '2026-03-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dunkin'
 topic: Breakfast & Coffee
 relatedArticles:
@@ -44,21 +44,21 @@ The permanent Swirl lineup typically includes Caramel, Mocha, French Vanilla, an
 
 ## Flavor Shots: The Sugar-Free, Nearly Invisible Alternative
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Dunkin](../../assets/images/general/generic-prep.webp)
 
 
 If a customer is counting calories, watching their sugar intake, or just wants black coffee with a hint of something extra, they want a Flavor Shot. And here's where the confusion starts for both fresh trainees and customers.
 
 - **The base:** Shots are clear, unsweetened, sugar-free liquid extracts. They have the consistency of water. Pick up a Shot bottle and it feels light—there's nothing thick or syrupy about it.
 - **The taste:** A French Vanilla Shot contains absolutely zero sugar and zero dairy. If a customer orders an iced coffee with a Vanilla Shot and no cream, they're getting bitter black coffee with a vanilla scent. Not a vanilla latte. Not a sweet vanilla drink. Bitter coffee with a whisper of vanilla.
-- **The calories:** Flavor Shots add roughly 5 to 10 calories. Essentially nothing.
+- **The calories:** Flavor Shots add roughly 5 to 10 calories. At its core nothing.
 - **The visual tell:** Shots are clear and thin. They disappear into the drink the instant you pump them in. No streaks, no swirling, no visible change to the drink's appearance.
 
 The distinction between Shots and Swirls is the single most common source of customer complaints at Dunkin'. A customer who orders a "vanilla iced coffee" expecting a sweet, creamy treat will be deeply unhappy receiving a bitter black coffee with a sugar-free vanilla Shot. Conversely, a customer who specifically requests a Shot because they're watching their sugar intake will be frustrated receiving a 160-calorie Swirl. Both scenarios result in a remake, a wasted cup, and lost time during the rush.
 
 ## The Pump Count Standard: Getting the Ratio Right
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Dunkin](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Dunkin' has specific pump counts based on drink size, and getting this wrong changes the flavor intensity dramatically:
@@ -108,6 +108,6 @@ Flavor Shots contain no added sugar, no dairy, and no artificial sweeteners. The
 
 ### What are the most popular flavor combinations ordered at Dunkin'?
 
-Caramel Swirl dominates by a wide margin—it's the best-selling flavor across the entire Dunkin' system. French Vanilla Swirl is a solid second. Among Shots, Vanilla and Hazelnut are the top sellers. The single most commonly ordered drink configuration at most locations is a medium Iced Coffee with Caramel Swirl and cream. It's essentially Dunkin's unofficial signature drink.
+Caramel Swirl dominates by a wide margin—it's the best-selling flavor across the entire Dunkin' system. French Vanilla Swirl is a solid second. Among Shots, Vanilla and Hazelnut are the top sellers. The single most commonly ordered drink configuration at most locations is a medium Iced Coffee with Caramel Swirl and cream. It's really Dunkin's unofficial signature drink.
 
 ---

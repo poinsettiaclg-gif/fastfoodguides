@@ -5,7 +5,7 @@ description: Bojangles bakes biscuits from scratch every 20 minutes. Here is wha
 pubDate: '2025-05-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Bojangles
 topic: Chicken
 relatedArticles:
@@ -20,6 +20,7 @@ faq:
   answer: The strict 20-minute freshness rule forces a relentless production rhythm.
     If a rush depletes inventory faster than the single baker can complete the 49-step
     cycle, the kitchen hits a hard throughput bottleneck.
+disclaimerType: medical
 ---
 ## The Hardest Job in the Kitchen
 
@@ -29,11 +30,11 @@ Every fast-food restaurant has a position nobody wants during a rush. The fry st
 
 
 
-This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is responsible for producing every single biscuit from scratch — flour, shortening, buttermilk, hands, oven — on a rolling cycle that never stops from the moment they clock in until the breakfast window closes. There are no frozen pucks. No par-baked shortcuts. If the Biscuit Maker doesn't show up, the store essentially doesn't open.
+This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is responsible for producing every single biscuit from scratch — flour, shortening, buttermilk, hands, oven — on a rolling cycle that never stops from the moment they clock in until the breakfast window closes. There are no frozen pucks. No par-baked shortcuts. If the Biscuit Maker doesn't show up, the store basically doesn't open.
 
 I managed multiple Bojangles locations over several years, and Take it from someone who's been there — without hesitation: the Biscuit Maker position is harder than anything Over the years, at other chains. That includes the [Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift/), which is grueling in its own right, and [Chick-fil-A Breading Process: The Pressure Cooker](/articles/chick-fil-a-breading-process/), which demands serious consistency. But neither of those roles carries the same combination of speed, technique, and sheer volume that Bojangles demands.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Bojangles Biscuit Process Made From Scratch](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The 4:00 AM Arrival
 

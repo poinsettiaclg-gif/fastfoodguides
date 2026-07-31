@@ -9,7 +9,7 @@ heroImage: ../../assets/images/general/generic-fryer-3.webp
 chain: Pizza Hut
 topic: Operations
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 tags:
 - KDS
 - Operations
@@ -39,7 +39,7 @@ The Pizza Hut KDS is a highly specific piece of digital architecture. When it ro
 
 ## 1. The Illusion of "First In, First Out" (FIFO)
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![The Real Reason Your Makeline is Bottlenecking Optimizing Ticket Sequencing](../../assets/images/general/generic-fryer.webp)
 
 
 

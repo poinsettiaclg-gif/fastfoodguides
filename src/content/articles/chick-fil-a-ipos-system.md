@@ -5,7 +5,7 @@ description: Inside the iPad-based ordering system that lets Chick-fil-A push 15
 pubDate: '2026-01-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
@@ -26,7 +26,7 @@ If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen
 
 ## Bypassing the Speaker Box Bottleneck
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How the Chick-fil-A iPOS Drive-Thru System Works](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -44,7 +44,7 @@ The beauty is parallel processing. While one employee is helping a family of six
 
 ## The "Send" Before the Window
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How the Chick-fil-A iPOS Drive-Thru System Works](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The true brilliance of iPOS is not just where the order is taken—it is when.

@@ -7,6 +7,7 @@ author: Russell Roseberry
 authorTitle: 10-Year QSR Operations Manager
 chain: Wendy's
 topic: Training
+disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
 - wendys-fresh-never-frozen
@@ -25,7 +26,7 @@ Your first day is not going to involve managing a lunch rush or getting yelled a
 
 ## The Paperwork and the Uniform
 
-![Operational view](../../assets/images/general/generic-prep.webp)
+![Wendy](../../assets/images/general/generic-prep.webp)
 
 Before you can even touch a spatula, you have to be legally onboarded. 
 

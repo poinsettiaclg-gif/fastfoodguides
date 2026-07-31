@@ -5,7 +5,7 @@ description: An inside look at the physical toll, extreme heat, grease burns, an
 pubDate: '2025-04-04'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panda Express
 topic: Other Chains
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
     \ again. If a new hire fails the test multiple times, the manager will usually\
     \ reassign them to a different position \u2014 front counter, prep, or steam table\
     \ service."
+disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 I spent my first six months at Panda Express with no hair on my knuckles and a permanent ache in my right shoulder. The wok station isn't just a kitchen job—it's an athletic event. Wok Chefs stand over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce at a speed that would make most home cooks panic. This isn't a flat-top grill job or pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. 
@@ -30,7 +31,7 @@ I've trained people across multiple chains, and no exaggeration — honestly —
 
 ## The Heat and the Fire
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Dangerous is the Wok Chef Job at Panda Express?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -52,7 +53,7 @@ The environment around the wok station is brutal year-round, but summer is a spe
 
 ## The Physical Toll of the Wok
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How Dangerous is the Wok Chef Job at Panda Express?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 A standard commercial wok at Panda Express, when fully loaded with 8 pounds of battered chicken swimming in thick orange sauce, is incredibly heavy. And you can't just stir it with a ladle and call it done.

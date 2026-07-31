@@ -5,7 +5,7 @@ description: Waffle House hash browns have nine official modification options. H
 pubDate: '2026-07-18'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Waffle House
 topic: Breakfast & Coffee
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
   answer: Servers use a visual marking system, placing specific condiment packets
     or jelly packets in certain positions on the plate to communicate the modifications
     to the grill operator.
+disclaimerType: medical
 ---
 7.  How Does the Waffle House Hash Brown Ordering System Work?
 
@@ -32,7 +33,7 @@ I spent time working alongside Waffle House crew members during a cross-training
 
 ## The Nine Modifications, Explained
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Waffle House Hash Brown System All Nine Mods](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -62,7 +63,7 @@ You can order any combination of these. All nine at once if you want. And yes, p
 
 ## The Marking System: How Tickets Actually Work
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Waffle House Hash Brown System All Nine Mods](../../assets/images/general/generic-drive-thru-3.webp)
 
 This is the part that fascinates most people, and it's the part that's hardest to explain without seeing it in person. Waffle House uses a physical marking system on the plates and tickets to communicate orders from the server to the grill operator without verbal callouts.
 
@@ -104,7 +105,7 @@ If you've ever wondered why Waffle House hash browns are crispier than what you 
 
 The hash browns start as dehydrated potatoes. They get rehydrated with water before cooking, but the key is not making them too wet. Too much water and they steam on the grill instead of crisping. An experienced operator knows the exact ratio by feel — the potatoes should be moist but not soggy.
 
-Once they hit the flat-top, the operator spreads them thin. This is critical. A thick pile of hash browns steams in the center and never gets that golden crust. Scattered hash browns are spread out to maximize surface contact with the grill. The flat-top is oiled, and the potatoes essentially shallow-fry in a thin layer of cooking oil.
+Once they hit the flat-top, the operator spreads them thin. This is critical. A thick pile of hash browns steams in the center and never gets that golden crust. Scattered hash browns are spread out to maximize surface contact with the grill. The flat-top is oiled, and the potatoes really shallow-fry in a thin layer of cooking oil.
 
 <div class="callout callout-tip">**ProTip:** The secret to the crispy texture is hydration control. The dehydrated potatoes are rehydrated, but if they get too wet, they steam on the grill instead of shallow-frying in the oil.</div>
 
@@ -149,5 +150,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of first-timers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

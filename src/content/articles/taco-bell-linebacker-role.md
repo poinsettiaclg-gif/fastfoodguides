@@ -5,7 +5,7 @@ description: 'Inside the most physically demanding role at Taco Bell: the Lineba
 pubDate: '2025-03-26'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -29,7 +29,7 @@ If your shift lead assigns you to be the Linebacker, here is the reality: you do
 
 ## How the Makeline Is Divided
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What Is the Taco Bell ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -45,7 +45,7 @@ When the Starter runs out of ground beef, they have to stop building, turn aroun
 
 ## The Linebacker's Core Duties
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What Is the Taco Bell ](../../assets/images/general/generic-prep.webp)
 
 
 The Linebacker's job is deceptively simple to describe and incredibly demanding to execute:

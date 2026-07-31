@@ -9,7 +9,7 @@ heroImage: ../../assets/images/general/generic-fryer-2.webp
 chain: Taco Bell
 topic: Operations
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 disclaimerType: food_safety
 tags:
 - Retherm
@@ -30,7 +30,7 @@ The principle is similar to sous-vide cooking, but way less glamorous. If your w
 
 ## The 90-Minute Bag Drop Cycle
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![Decoding the Taco Bell Rethermalizer The 90-Minute Bag Drop Cycle Explained](../../assets/images/general/generic-drive-thru.webp)
 
 
 

@@ -5,7 +5,7 @@ description: How Long John Silver's utilizes specialized deep fryers and a uniqu
 pubDate: '2024-09-05'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Long John Silver's
 topic: Other Chains
 faq:
@@ -15,6 +15,7 @@ faq:
 - question: How often do they change the oil?
   answer: Oil is filtered daily, but a full vat change typically occurs every 3-5
     days depending on the store's volume and Total Polar Materials (TPM) readings.
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.
@@ -23,7 +24,7 @@ If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fu
 
 ## The Specialized Fryer Vat
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Long John Silver](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.

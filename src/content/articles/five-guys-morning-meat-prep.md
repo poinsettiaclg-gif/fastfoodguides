@@ -5,7 +5,7 @@ description: Five Guys famously refuses to use freezers. Discover the grueling 5
 pubDate: '2026-06-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Five Guys
 topic: Burgers
 disclaimerType: food_safety
@@ -24,7 +24,7 @@ Five Guys built its entire brand on a single, unwavering promise: there are zero
 
 This commitment to fresh food means that the back-of-house operations at Five Guys look more like a high-volume butcher shop than a modern fast food kitchen. Before a single customer walks through the doors at 11:00 AM, a dedicated morning prep crew has already been in the building for hours, engaging in one of the most physically repetitive tasks in the industry: rolling the meat.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Five Guys Morning Prep Hand-Rolling the Meatballs](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The 5 AM Arrival
 

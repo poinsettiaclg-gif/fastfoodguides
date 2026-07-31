@@ -3,3 +3,7 @@
 
 export const SITE_TITLE = 'Fast Food Guides';
 export const SITE_DESCRIPTION = 'Behind-the-counter guides from a 10-year QSR veteran. Learn how your favorite fast food is really made.';
+
+export const SITE_CONFIG = {
+	adsenseApproved: false
+};

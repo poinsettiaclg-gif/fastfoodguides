@@ -5,7 +5,7 @@ description: The Mastrena II auto-calibrates grind size throughout the day. Here
 pubDate: '2024-12-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Coffee
 disclaimerType: food_safety
@@ -32,7 +32,7 @@ The jump from the original Mastrena to the Mastrena II was a massive technologic
 
 But the real magic of the Mastrena II happens behind the digital screen. On the line, it plays out like this:
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Starbucks Mastrena II Espresso Calibration](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">**ProTip:** The machine relies on consistent gravity pressure to feed the grinders. Keeping hoppers full helps the machine maintain a consistent grind and reduces the frequency of "powder quantity" errors.</div>
 

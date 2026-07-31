@@ -6,7 +6,7 @@ description: "A brutally honest walkthrough of the most dreaded closing task in 
 pubDate: '2025-12-06'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Burger King
 topic: Burgers
 relatedArticles:
@@ -21,6 +21,7 @@ faq:
   answer: Most closers prefer to remove the filters, soak them in industrial degreaser,
     and scrub them manually with abrasive pads. Sending them straight through the
     dish machine often just redistributes the thick grease.
+disclaimerType: medical
 ---
 Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/articles/chain/wendys), it is the Frosty machine. At [Domino's](/articles/chain/dominos), it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. 
 
@@ -40,7 +41,7 @@ The secret that nobody tells you during training: the cooldown window is your mo
 
 ## The Breakdown and Scrub: Where the Real Work Begins
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Hard Is It to Clean the Burger King Broiler at Closing?](../../assets/images/general/generic-prep.webp)
 
 
 Once the broiler is cool enough to handle—still quite warm, but no longer capable of giving you a third-degree burn on contact—the physical labor begins.
@@ -57,7 +58,7 @@ Once the broiler is cool enough to handle—still quite warm, but no longer capa
 
 ## The Reassembly: Getting It Right the First Time
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![How Hard Is It to Clean the Burger King Broiler at Closing?](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once every component is scrubbed and dried, you reassemble the entire broiler. The catch pans slide back in, the belts are reattached and properly tensioned, and all the guards and covers are secured.

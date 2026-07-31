@@ -5,7 +5,7 @@ description: A veteran's system for quickly memorizing Taco Bell's massive menu 
 pubDate: '2026-05-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -42,7 +42,7 @@ Take the Cheesy Gordita Crunch. It sounds complicated. But it is just the standa
 
 ## The Portion Control System: Scoops Over Ounces
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How to Memorize the Taco Bell Menu Build Cards Fast](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Taco Bell relies heavily on strict portion control, and the system is designed to be intuitive once you understand the tools:
@@ -57,7 +57,7 @@ The root cause: If you add an extra half-scoop of beef to 200 burritos in a day,
 
 ## The Crunchwrap Supreme Cheat Code
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How to Memorize the Taco Bell Menu Build Cards Fast](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The Crunchwrap is the item that intimidates green crew members the most, not because the ingredients are complicated but because of the fold. Here is the exact build order:

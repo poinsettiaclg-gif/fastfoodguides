@@ -5,7 +5,7 @@ description: An insider breakdown of Taco Bell's OTD timer system, the magnetic 
 pubDate: '2025-06-13'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -26,7 +26,7 @@ This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" 
 
 ## The Sensors and the Zones
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![How Does the Taco Bell Drive-Thru Timer Actually Work?](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -66,7 +66,7 @@ Then there are the problems nobody can control. **Ghost cars** happen when a sen
 
 ## The Daily Report and the Area Manager Visit
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![How Does the Taco Bell Drive-Thru Timer Actually Work?](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Every morning, the General Manager reviews the previous day's drive-thru report. This report breaks down the average OTD time by hour, identifies the slowest and fastest periods, and flags any individual transactions that exceeded a threshold—usually anything over 3 minutes gets called out specifically.

@@ -56,7 +56,7 @@ a single standard platen zone is engineered to hold exactly **eight 4-ounce squa
 
 When a cashier rings up a 9-patty T-Rex Burger during a noon lunch rush, that single order consumes 100% of an entire platen cooking zone. For the next 135 seconds, the grill operator cannot drop beef for a single Dave's Double, Baconator, or Junior Bacon Cheeseburger. If three cars in the drive-thru are waiting on double cheeseburgers, their tickets immediately stall. A single T-Rex build creates an instant 3-minute traffic jam across the entire restaurant, causing overhead drive-thru timers to flash critical red warnings.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Wendy](../../assets/images/general/generic-drive-thru-3.webp)
 
 <div class="callout callout-tip">
   <strong>ProTip: The Grease Well Overflow Hazard</strong>

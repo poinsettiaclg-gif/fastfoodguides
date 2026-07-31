@@ -5,7 +5,7 @@ description: A Sandwich Artist's step-by-step guide to warming, stacking, rollin
 pubDate: '2025-01-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
@@ -26,7 +26,7 @@ Unlike the sturdy sub rolls that can absorb abuse and still hold together, the t
 
 ## Step 1: Warm the Tortilla (Never Skip This)
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![The Secret to Folding a Subway Wrap Without Tearing It](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -66,7 +66,7 @@ Do not try to fold this like a traditional burrito. Use [the Subway](/articles/s
 
 ## Step 4: The Diagonal Cut
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![The Secret to Folding a Subway Wrap Without Tearing It](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The cut angle is not just for aesthetics—it serves a functional purpose. Cutting straight across a wrap compresses the filling at the cut point and can blow out the ends. A diagonal cut distributes the pressure across a longer line, keeping the filling intact inside both halves.

@@ -5,7 +5,7 @@ description: Chick-fil-A trains every employee on four specific behaviors. Here'
 pubDate: '2025-10-29'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
@@ -24,7 +24,7 @@ Chick-fil-A is not a normal fast food job. I say that as someone who has worked 
 
 ## The Chick-fil-A Core 4 Explained
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -60,7 +60,7 @@ The result is a customer experience that feels dramatically different from walki
 
 ## How to Demonstrate the Core 4 in Your Interview
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-prep.webp)
 
 
 Here is the part that catches most applicants off guard: Chick-fil-A hiring managers are trained to evaluate you against the Core 4 during the interview itself. They are not just listening to your answers. They are watching your behavior in real time.

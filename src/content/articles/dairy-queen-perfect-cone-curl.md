@@ -5,7 +5,7 @@ description: Dairy Queen trains every crew member to pull a perfect curl on soft
 pubDate: '2025-12-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dairy Queen
 topic: Other Chains
 relatedArticles:
@@ -42,7 +42,7 @@ Each ball has a specific weight and volume that contributes to the overall porti
 
 ## The Technique: Base, Tiers, and the Snap
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Dairy Queen Cone Curl The Standard for Soft Serve](../../assets/images/general/generic-walk-in-2.webp)
 
 
 The entire cone is built in one continuous motion. You don't stop and restart between tiers—it's a flowing sequence that takes about 5 to 8 seconds total.
@@ -67,7 +67,7 @@ Most stores calibrate their machines first thing in the morning, but temperature
 
 ## The Chocolate Dip: Where Cones Go to Die
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Dairy Queen Cone Curl The Standard for Soft Serve](../../assets/images/general/generic-walk-in-2.webp)
 
 
 If you thought the curl was hard, try dipping it in chocolate. The Chocolate Dipped Cone is the single most terrifying order for a new Chill Staff employee, and for good reason.

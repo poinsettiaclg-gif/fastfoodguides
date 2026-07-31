@@ -5,7 +5,7 @@ description: A behind-the-counter look at Subway's 12-hour bread baking process,
 pubDate: '2025-05-31'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
@@ -22,12 +22,13 @@ faq:
   answer: No. The dough arrives at the store completely raw but frozen into sticks.
     Staff must thaw it in a retarder, proof it in a high-humidity cabinet, score it,
     and bake it on-site.
+disclaimerType: medical
 ---
 Subway's retarder and proofer cabinets are the most important pieces of equipment in the store, driving a rigid 12-hour production cycle. The unmistakable, sweet yeasty scent that hits you at the door isn't artificial—it's the byproduct of baking high-sugar dough repeatedly on silicone mats. I've personally had to throw away jackets because the Italian Herbs & Cheese scent permanently bonded to the fabric. 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most notably when Subway removed azodicarbonamide—the infamous ["yoga mat chemical"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
+Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most one thing that stands out: when Subway removed azodicarbonamide—the infamous ["yoga mat chemical"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
 
 
 
@@ -47,7 +48,7 @@ Most rookies stack the bread molds too close together inside the retarder, block
 
 ### Step 2: The Proofer (The Morning Of)
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Subway Bread Baking Process Why It Smells Like That](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 When the opener arrives—usually around 6:30 or 7:00 AM—the thawed dough goes directly into the proofer, a heated, high-humidity cabinet that looks like a tall metal closet with racks. The proofer runs at roughly 95°F to 100°F with about 80% humidity. The heat and moisture wake the yeast up, and the thin dough sticks begin to expand into puffy sub rolls.
@@ -62,7 +63,7 @@ The test is simple: gently press the surface of the dough with one finger. If it
 
 ### Step 3: Scoring, Seasoning, and Baking
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![The Subway Bread Baking Process Why It Smells Like That](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 Before the proofed dough goes into the oven, the Sandwich Artist preps each loaf:

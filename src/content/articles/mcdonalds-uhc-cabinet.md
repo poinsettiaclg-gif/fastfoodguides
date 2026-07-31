@@ -6,7 +6,7 @@ description: An operational breakdown of the McDonald's Universal Holding Cabine
 pubDate: '2026-03-24'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Operations
 heroImage: ../../assets/images/general/generic-fryer.webp
@@ -28,7 +28,7 @@ I know that the UHC is the absolute heartbeat of the McDonald's kitchen. Without
 
 ## What is the Universal Holding Cabinet?
 
-![Operational view](../../assets/images/general/generic-coffee.webp)
+![McDonald](../../assets/images/general/generic-coffee.webp)
 
 
 

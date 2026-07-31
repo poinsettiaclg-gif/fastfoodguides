@@ -9,8 +9,8 @@ const { author, authorTitle } = Astro.props;
 
 <aside class="author-card" aria-label="About the author">
 	<div class="author-card-inner">
-		<div class="author-avatar" aria-hidden="true">
-			<img src="/images/russell-roseberry.jpg" alt="" width="56" height="56" loading="lazy" />
+		<div class="author-avatar">
+			<img src="/images/russell-roseberry.jpg" alt={`Photo of ${author}`} width="56" height="56" loading="lazy" />
 		</div>
 		<div class="author-info">
 			<p class="author-name">{author}</p>

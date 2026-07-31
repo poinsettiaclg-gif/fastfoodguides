@@ -5,7 +5,7 @@ description: How Crumbl manages a completely different 6-cookie menu every singl
 pubDate: '2025-11-06'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Crumbl Cookies
 topic: Operations
 relatedArticles:
@@ -23,6 +23,7 @@ faq:
     cookie specifications. Every Sunday evening, corporate pushes the exact ingredient
     scaling, baking temperatures, and decorating specs for the upcoming week's 6 featured
     flavors to store iPads nationwide.
+disclaimerType: medical
 ---
 In the quick-service restaurant (QSR) and commercial bakery industry, the golden rule of operational profitability is **menu stability**. Companies like McDonald's, Domino's, and Dunkin' spend years optimizing a static menu so they can negotiate long-term bulk supply contracts, build automated kitchen equipment, and train employees on muscle memory that never changes.
 
@@ -32,7 +33,7 @@ From a store-level management perspective, executing a completely new menu every
 
 ## 1. The Sunday Pivot: Why a 6-Day Workweek is Mandatory
 
-![Operational view](../../assets/images/general/generic-coffee.webp)
+![The Insane Logistics of Crumbl Cookies](../../assets/images/general/generic-coffee.webp)
 
 
 

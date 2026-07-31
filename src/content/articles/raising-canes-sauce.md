@@ -5,7 +5,7 @@ description: Raising Cane's sauce is made in-house daily. Here's what goes into 
 pubDate: '2025-06-29'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Raising Cane's
 topic: Chicken
 faq:
@@ -30,7 +30,7 @@ I spent time working alongside Cane's employees during a consulting stint, and w
 
 ## The Ingredients Are Not a Secret
 
-![Operational view](../../assets/images/general/generic-coffee.webp)
+![Raising Cane](../../assets/images/general/generic-coffee.webp)
 
 
 
@@ -46,7 +46,7 @@ Cane's has never officially published their sauce recipe, but the ingredients ha
 - **Black pepper** — freshly ground, more than you'd expect
 - **Garlic powder** — subtle but present
 
-That's it. Five ingredients. No exotic spices, no secret chemicals, no proprietary flavor compounds. It's essentially a seasoned fry sauce — a category of condiment that's been popular in Utah and parts of the western US for decades.
+That's it. Five ingredients. No exotic spices, no secret chemicals, no proprietary flavor compounds. It's basically a seasoned fry sauce — a category of condiment that's been popular in Utah and parts of the western US for decades.
 
 So if the ingredients are this simple, why can't anyone perfectly replicate it at home?
 

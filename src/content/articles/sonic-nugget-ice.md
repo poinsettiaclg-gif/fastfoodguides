@@ -5,7 +5,7 @@ description: Sonic's nugget ice is softer and more chewable than standard ice cu
 pubDate: '2024-08-04'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Sonic Drive-In
 topic: Chicken
 faq:
@@ -20,6 +20,7 @@ relatedArticles:
 - sonic-carhops-roller-skate
 - starbucks-secret-menu
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 ## It's Not Regular Ice. It Never Was.
 
@@ -52,7 +53,7 @@ The result is ice that is approximately **80% ice and 20% air**, compared to cub
 
 <div class="callout callout-tip">**ProTip:** Nugget ice machines compress flaked ice into porous pellets. This aerated structure makes the ice satisfyingly chewable but also means the machine requires rigorous descaling to prevent mineral buildup on the internal auger.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Sonic Nugget Ice Why Customers Love It](../../assets/images/general/generic-prep.webp)
 
 ## Why Sonic Chose Nugget Ice (And Why Most Chains Don't)
 
@@ -111,7 +112,7 @@ Sonic's drink preparation area is designed around the ice machine as the centerp
 5. For specialty drinks like Slushes, the frozen base comes from a separate **slush machine** and is combined with flavors
 6. A lid and straw go on, and the drink is routed to the carhop or drive-thru window
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Sonic Nugget Ice Why Customers Love It](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### The Speed Challenge
 

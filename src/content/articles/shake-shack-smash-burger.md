@@ -5,7 +5,7 @@ description: Shake Shack smashes every patty to order on a flat-top grill. Here'
 pubDate: '2026-06-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Shake Shack
 topic: Burgers
 faq:
@@ -31,7 +31,7 @@ I've watched this technique executed thousands of times across different burger 
 
 ## The Smash: What Actually Happens on the Flat-Top
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Shake Shack Smash Burger The Grill Technique](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -43,7 +43,7 @@ A cook grabs a portioned ball of beef—roughly 4 ounces for a single ShackBurge
 
 Then comes the press.
 
-The cook takes a heavy stainless steel press—a flat-bottomed, weighted tool that's essentially a thick metal disc with a handle—and drives it straight down onto the beef ball with firm, controlled force. The ball flattens out into a thin, wide patty in about one to two seconds. The cook holds the press down for a beat, maybe two, then lifts and moves on.
+The cook takes a heavy stainless steel press—a flat-bottomed, weighted tool that's in practice a thick metal disc with a handle—and drives it straight down onto the beef ball with firm, controlled force. The ball flattens out into a thin, wide patty in about one to two seconds. The cook holds the press down for a beat, maybe two, then lifts and moves on.
 
 <div class="callout callout-tip">**ProTip:** Shake Shack cooks use a heavy, specialized two-handed press (or sometimes a two-spatula technique) to apply intense, even downward force, ensuring the patty bonds flat to the metal without squeezing out the rendered fat.</div>
 
@@ -51,7 +51,7 @@ That single motion is the entire technique. And everything that makes the burger
 
 ## Why the Crust Is the Whole Point
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Shake Shack Smash Burger The Grill Technique](../../assets/images/general/generic-drive-thru-3.webp)
 
 Here's the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 
@@ -153,5 +153,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of first-timers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

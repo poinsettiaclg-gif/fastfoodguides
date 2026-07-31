@@ -5,12 +5,13 @@ description: Denny's Grand Slam requires precise timing across four components. 
 pubDate: '2024-12-26'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Denny's
 topic: Breakfast & Coffee
 relatedArticles:
 - mcdonalds-fry-station
 - chick-fil-a-breading-process
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: Are Denny's eggs real or powdered?
@@ -29,7 +30,7 @@ I spent almost two years working the grill at a Denny's off I-35 in central Texa
 
 ## The Flat-Top Is the Entire Operation
 
-![Operational view](../../assets/images/general/generic-prep.webp)
+![Denny](../../assets/images/general/generic-prep.webp)
 
 
 

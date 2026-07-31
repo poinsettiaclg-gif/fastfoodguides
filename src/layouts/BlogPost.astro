@@ -31,6 +31,9 @@ if (resolvedRelated.length < 3 && chain) {
 	resolvedRelated = [...resolvedRelated, ...fallbackArticles];
 }
 
+const chainCount = chain ? allArticles.filter(a => a.data.chain === chain).length : 0;
+const hasChainPage = chainCount >= 3;
+
 // Build breadcrumb path
 function slugifyChain(c: string): string {
 	return c.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -48,10 +51,10 @@ const schemas: any[] = [
 		"inLanguage": "en",
 		"author": {
 			"@type": "Person",
-			"name": author,
-			"jobTitle": authorTitle,
-			"url": "https://fastfoodguides.com/author/" + author.toLowerCase().replace(/ /g, '-'),
-			"image": "https://fastfoodguides.com/images/" + author.toLowerCase().replace(/ /g, '-') + ".jpg"
+			"name": author || "Russell Roseberry",
+			"jobTitle": authorTitle || "Multi-Unit Kitchen Manager",
+			"url": "https://fastfoodguides.com/author/" + (author ? author.toLowerCase().replace(/ /g, '-') : "russell-roseberry"),
+			"image": "https://fastfoodguides.com/images/" + (author ? author.toLowerCase().replace(/ /g, '-') : "russell-roseberry") + ".jpg"
 		},
 		"publisher": {
 			"@type": "Organization",
@@ -88,7 +91,7 @@ if (faq && faq.length > 0) {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
+		<BaseHead title={title} description={description} image={heroImage?.src} ogType="article" chain={chain} hasChainPage={hasChainPage} articlePath={Astro.url.pathname} pubDate={pubDate} updatedDate={updatedDate} />
 		<script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", "@graph": schemas }).replace(/</g, '\\u003c')} />
 		<style>
 			body {
@@ -130,7 +133,7 @@ if (faq && faq.length > 0) {
 				display: none;
 			}
 
-			@media (min-width: 1024px) {
+			@media (min-width: 1024px) and (min-height: 800px) {
 				.article-sidebar {
 					display: block;
 					position: sticky;
@@ -391,6 +394,8 @@ if (faq && faq.length > 0) {
 			.prose :global(img) {
 				max-width: 100%;
 				height: auto;
+				aspect-ratio: 16 / 9;
+				object-fit: cover;
 				border-radius: 12px;
 				margin: 2.5rem 0;
 				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -398,6 +403,8 @@ if (faq && faq.length > 0) {
 
 			.hero-image-wrapper {
 				margin: 0 0 2.5rem 0;
+				aspect-ratio: 16 / 9;
+				width: 100%;
 			}
 			.hero-image-wrapper img {
 				width: 100%;
@@ -533,19 +540,38 @@ if (faq && faq.length > 0) {
 				<div class="article-content">
 					<div class="prose">
 					<!-- Breadcrumb Navigation -->
-					{chain && (
+					{chain ? (
 						<nav class="breadcrumb" aria-label="Breadcrumb">
 							<ol>
 								<li><a href="/">Home</a><span class="bc-sep" aria-hidden="true">›</span></li>
 								<li><a href="/articles/">Guides</a><span class="bc-sep" aria-hidden="true">›</span></li>
-								<li><a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li>
+									{hasChainPage ? (
+										<a href={`/articles/chain/${slugifyChain(chain)}/`}>{chain}</a>
+									) : (
+										<span class="bc-current">{chain}</span>
+									)}
+									<span class="bc-sep" aria-hidden="true">›</span>
+								</li>
+								<li><span class="bc-current" aria-current="page">{title}</span></li>
+							</ol>
+						</nav>
+					) : (
+						<nav class="breadcrumb" aria-label="Breadcrumb">
+							<ol>
+								<li><a href="/">Home</a><span class="bc-sep" aria-hidden="true">›</span></li>
+								<li><a href="/articles/">Guides</a><span class="bc-sep" aria-hidden="true">›</span></li>
 								<li><span class="bc-current" aria-current="page">{title}</span></li>
 							</ol>
 						</nav>
 					)}
 
 					<header class="article-header">
-						{chain && <a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>}
+						{chain && hasChainPage ? (
+							<a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>
+						) : chain ? (
+							<span class="chain-badge">{chain}</span>
+						) : null}
 						<h1>{title}</h1>
 						<AuthorBylineTop author={author} authorTitle={authorTitle} pubDate={pubDate} />
 						{
@@ -591,7 +617,9 @@ if (faq && faq.length > 0) {
 						</section>
 					)}
 
-					<AdPlaceholder slot="post-bottom" />
+					<div style="margin: 3rem 0;">
+						<AdPlaceholder slot="post-bottom" />
+					</div>
 
 					<!-- Related Articles (auto-rendered from frontmatter) -->
 					{resolvedRelated.length > 0 && (

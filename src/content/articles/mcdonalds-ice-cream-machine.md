@@ -5,7 +5,7 @@ description: The ice cream machine requires a nightly heat cycle that locks it f
 pubDate: '2025-12-13'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Burgers
 faq:
@@ -21,11 +21,12 @@ relatedArticles:
 - mcdonalds-nugget-process
 - mcdonalds-abs-system
 - mcdonalds-pos-crash
+disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## It's Not Actually Broken (Most of the Time)
 
-I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think we're just being lazy. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
+I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think the crew is avoiding work. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
 
 **The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. 
 
@@ -47,7 +48,7 @@ Here's what's inside:
 
 The air incorporation is critical. Soft-serve is typically 30–60% air by volume — this is called **overrun**. Without the right amount of air, the product would be too dense and icy. Too much air and it would be foamy and melt instantly.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![McDonald](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Heat Cycle: Why the Machine Locks Itself
 
@@ -64,7 +65,7 @@ To handle this, the machine runs an automated **heat pasteurization cycle**, typ
 
 **During this entire cycle, the machine cannot dispense product.** The control panel locks out the dispensing function. If a crew member tries to override it, the machine throws an error.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![McDonald](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### When Things Go Wrong
 

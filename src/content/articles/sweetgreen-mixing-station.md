@@ -5,7 +5,7 @@ description: Sweetgreen mixes every salad to order using a precise portion and t
 pubDate: '2025-02-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Sweetgreen
 topic: Other Chains
 faq:
@@ -17,6 +17,7 @@ faq:
   answer: New staff often over-toss the salads for too many rotations, bruising the
     delicate greens and creating a soggy, unappealing texture.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 At Sweetgreen, the ingredients might be high-quality and locally sourced, but the true magic happens at the very end of the line: the mixing station. It's the loudest, messiest, and most physically demanding position in the restaurant.
 
@@ -24,7 +25,7 @@ During a peak lunch rush in a busy metro area, the person working the mixing sta
 
 ## The Tools of the Trade
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Sweetgreen Mixing Station Portion Control at Scale](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 You don't just use standard kitchen tongs at Sweetgreen. The mixing station relies on heavy-duty, oversized metal mixing bowls and specialized long-handled tongs designed specifically for volume tossing.

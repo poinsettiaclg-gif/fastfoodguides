@@ -164,9 +164,14 @@ import { SITE_TITLE } from '../consts';
 				<p>
 					If you have any questions about these Terms of Service, please contact us at:
 				</p>
-				<p class="contact-email">
-					<a href="mailto:contact@fastfoodguides.com">contact@fastfoodguides.com</a>
-				</p>
+				<div class="entity-notice">
+					<p>
+						<strong>Fast Food Guides Media LLC</strong><br>
+						701 S. Carson St, Ste 200<br>
+						Carson City, NV 89701<br>
+						Email: <a href="mailto:contact@fastfoodguides.com">contact@fastfoodguides.com</a>
+					</p>
+				</div>
 			</article>
 		</main>
 		<Footer />
@@ -276,5 +281,20 @@ import { SITE_TITLE } from '../consts';
 		font-size: 1.125rem;
 		font-weight: 600;
 		text-decoration: none;
+	}
+
+	.entity-notice {
+		background: #1a2332;
+		border: 1px solid rgba(14, 165, 233, 0.3);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		margin-bottom: 1.5rem;
+	}
+	.entity-notice p {
+		margin: 0;
+		color: #CBD5E1;
+	}
+	.entity-notice strong {
+		color: var(--text-primary);
 	}
 </style>

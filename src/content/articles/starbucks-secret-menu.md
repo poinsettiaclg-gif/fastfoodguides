@@ -5,7 +5,7 @@ description: The Starbucks secret menu doesn't officially exist. This guide cove
 pubDate: '2025-06-19'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Coffee
 relatedArticles:
@@ -20,6 +20,7 @@ faq:
 - question: Are 'secret menu' drinks available on the Starbucks app?
   answer: Not by their social media names, but you can build them using the app's
     customization options. This is actually the best way to order complex custom drinks.
+disclaimerType: medical
 ---
 7. Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
 
@@ -29,7 +30,7 @@ What people call the Starbucks “secret menu” is actually just a collection o
 
 ## How the “Secret Menu” Myth Got Started
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Starbucks Secret Menu The Truth From Behind the Bar](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -39,13 +40,13 @@ The concept took off around 2012-2013, when Tumblr and early Instagram food acco
 
 The trend exploded with TikTok. Starting around 2019-2020, TikTok creators began posting “secret menu” videos that racked up millions of views. Some of these videos show the actual modifications needed to build the drink. Many of them just show the finished product with a name and no recipe, leaving the customer to walk into a Starbucks, say the name, and expect the barista to know what they're talking about.
 
-Starbucks corporate has never endorsed the concept. They've never published a secret menu. They've never trained baristas to make any of these drinks by name. Their official position, repeated in numerous press statements over the years, is essentially: “We're happy to make any custom drink using our available ingredients, but we don't have a secret menu. If you want a specific custom drink, please provide the recipe.”
+Starbucks corporate has never endorsed the concept. They've never published a secret menu. They've never trained baristas to make any of these drinks by name. Their official position, repeated in numerous press statements over the years, is at its core: “We're happy to make any custom drink using our available ingredients, but we don't have a secret menu. If you want a specific custom drink, please provide the recipe.”
 
 That's a perfectly reasonable position. The problem is that most customers don't hear it — or don't care.
 
 ## Why This Drives Baristas Up the Wall
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Starbucks Secret Menu The Truth From Behind the Bar](../../assets/images/general/generic-drive-thru-3.webp)
 
 Imagine you're working the bar during the [morning rush](/articles/starbucks-morning-rush), which at most Starbucks locations means a steady stream of 30 to 50 drinks per half hour. The store is loud. The espresso machine is pulling shots. The blender is running. The mobile order printer is spitting out tickets faster than you can read them. You are in survival mode.
 
@@ -158,5 +159,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of newcomers, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

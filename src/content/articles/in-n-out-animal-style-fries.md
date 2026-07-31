@@ -5,7 +5,7 @@ description: An operational deep-dive into how In-N-Out Burger builds high-volum
 pubDate: '2024-10-17'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
@@ -23,6 +23,7 @@ faq:
     than twice-fried frozen russets, and because they are smothered in hot cheese,
     steamed onions, and liquid spread, the structural crust softens rapidly. They
     are engineered to be eaten immediately upon serving.
+disclaimerType: medical
 ---
 While [In-N-Out Burger](/articles/in-n-out-board-station) is famous for having one of the simplest printed menus in fast food—offering only burgers, fries, shakes, and drinks—any West Coast QSR manager knows that the kitchen operates on an entirely different plane due to the **Secret Menu**.
 
@@ -32,7 +33,7 @@ In a kitchen processing over 100 tickets per hour, integrating a multi-layered g
 
 ## 1. The Kennebec Potato Base: The Single-Fry Reality
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![In-N-Out Animal Style Fries The Make-Line Mechanics and Cheese Melting Science](../../assets/images/general/generic-pos.webp)
 
 
 

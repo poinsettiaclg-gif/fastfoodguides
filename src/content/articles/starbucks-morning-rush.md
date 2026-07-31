@@ -5,12 +5,13 @@ description: Starbucks morning rush requires specific bar positioning and drink 
 pubDate: '2025-10-23'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
 - starbucks-cold-bar-frappuccino
 - starbucks-customer-support-cycle
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-pos.webp
 faq:
 - question: How many drinks should I be making per 10-minute window during Peak?
@@ -27,7 +28,7 @@ The ticket printer hasn't stopped for 45 minutes, there are twenty mobile orders
 
 ## Respect the Beverage Routine
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -58,7 +59,7 @@ The stickers come from multiple channels—cafe orders, mobile orders, drive-thr
 
 ## Keep Your Station Immaculate
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-walk-in-2.webp)
 
 
 A messy bar slows you down in ways you don't notice until it's too late. If you spill milk, wipe it immediately. If the espresso grounds bin is getting full, empty it the second you have a 10-second gap. If you let milk crust onto your steam wand or syrup pool on the counter, you will eventually drop a cup, knock over a bottle, or slip on a wet floor and completely derail the flow.

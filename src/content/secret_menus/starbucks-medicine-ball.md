@@ -31,6 +31,7 @@ faq:
     steam wand, breaking the barista's rapid 2-drink espresso sequencing cadence.
 author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
+disclaimerType: medical
 ---
 > **Medical Disclaimer:** The "Medicine Ball" is an unofficial customer nickname. It is not a medical cold cure or pharmaceutical health remedy, and it has no medically proven curative benefits for illnesses or viral infections.
 
@@ -42,7 +43,7 @@ When a customer orders a Venti Medicine Ball during an 8:00 AM morning peak when
 
 ## 1. Anatomy of the Build: A 5-Step Mechanical Slowdown
 
-![Operational view](../../assets/images/general/generic-baking.webp)
+![The Medicine Ball (Honey Citrus Mint Tea) Why Baristas Dread Making Starbucks](../../assets/images/general/generic-baking.webp)
 
 
 

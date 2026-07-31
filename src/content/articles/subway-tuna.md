@@ -5,7 +5,7 @@ description: Subway tuna arrives in sealed pouches and is mixed with mayo in-sto
 pubDate: '2025-08-25'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
@@ -17,7 +17,8 @@ faq:
 - question: Is the tuna mixed in a machine?
   answer: No, the tuna and mayo are mixed entirely by hand in a large stainless steel
     bowl using a spoon or spatula to prevent turning it into a puree.
-heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: legal
+heroImage: ../../assets/images/general/generic-walk-in.webp
 ---
 ## Two Ingredients. That's It.
 
@@ -54,7 +55,7 @@ Subway uses **commercial mayonnaise** that arrives in large bags or pouches (not
 
 This ratio surprises most people, but it's standard for commercial tuna salad. The mayo serves as both a binder (holding the tuna together so it's scoopable) and a flavor carrier. Without enough mayo, the tuna salad would be dry, crumbly, and difficult to portion consistently.
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Subway Tuna How It](../../assets/images/general/generic-prep.webp)
 
 ### Step 3: Mix
 
@@ -72,14 +73,14 @@ Subway's food safety standards specify a **shelf life of 2–3 days** once mixed
 
 ## Portioning: The Ice Cream Scoop
 
-When a customer orders a tuna sub, the sandwich artist portions the tuna using a **standardized scoop** — essentially an ice cream disher with a specific volume.
+When a customer orders a tuna sub, the sandwich artist portions the tuna using a **standardized scoop** — functionally an ice cream disher with a specific volume.
 
 - **6-inch sub**: One level scoop (approximately 2.5 ounces)
 - **Footlong**: Two level scoops (approximately 5 ounces)
 
 The tuna goes onto the bread and is spread evenly with a gloved hand or the back of the scoop. Unlike deli meats that are laid in precise patterns, tuna is a spread — it gets distributed across the bread surface.
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Subway Tuna How It](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Lawsuit: "Not Real Tuna"
 
@@ -139,7 +140,7 @@ If the prep worker doesn't drain the canned tuna thoroughly, the finished tuna s
 
 ### Freshness
 
-A batch of tuna salad made that morning tastes notably better than a batch approaching its 2–3 day expiration. The mayo can start to separate slightly, and the tuna develops a stronger fishy taste as it ages in the cold well.
+A batch of tuna salad made that morning tastes something to flag: better than a batch approaching its 2–3 day expiration. The mayo can start to separate slightly, and the tuna develops a stronger fishy taste as it ages in the cold well.
 
 ### Temperature
 

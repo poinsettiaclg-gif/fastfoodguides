@@ -14,8 +14,8 @@ const toc = headings?.filter(h => h.depth > 1 && h.depth <= 3) || [];
 ---
 
 {toc.length > 0 && (
-  <div class="toc-container">
-    <div class="toc-header">Table of Contents</div>
+  <nav aria-label="Table of Contents" class="toc-container">
+    <h2 class="toc-header">Table of Contents</h2>
     <ul class="toc-list">
       {toc.map(heading => (
         <li class={`toc-item depth-${heading.depth}`}>
@@ -23,7 +23,7 @@ const toc = headings?.filter(h => h.depth > 1 && h.depth <= 3) || [];
         </li>
       ))}
     </ul>
-  </div>
+  </nav>
 )}
 
 <style>
@@ -83,7 +83,7 @@ const toc = headings?.filter(h => h.depth > 1 && h.depth <= 3) || [];
     text-decoration: none;
     transition: color 0.2s ease;
     display: block;
-    padding: 0.4rem 0;
+    padding: 0.8rem 0;
   }
   
   .toc-list a:hover {

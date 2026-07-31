@@ -124,11 +124,13 @@ export async function getStaticPaths() {
   }
   
   const allPosts = await getCollection('articles');
+  const secretMenus = await getCollection('secretMenus');
+  const allContent = [...allPosts, ...secretMenus];
   
   // Group posts by the standard slug to merge case variations
   const chainsMap = new Map<string, { chainName: string, posts: any[] }>();
   
-  for (const post of allPosts) {
+  for (const post of allContent) {
       if (!post.data.chain) continue;
       const slug = slugify(post.data.chain);
       if (!chainsMap.has(slug)) {
@@ -137,13 +139,15 @@ export async function getStaticPaths() {
       chainsMap.get(slug)!.posts.push(post);
   }
 
-  return Array.from(chainsMap.entries()).map(([slug, data]) => {
-      data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-      return {
-          params: { chain: slug },
-          props: { chainName: data.chainName, posts: data.posts },
-      };
-  });
+  return Array.from(chainsMap.entries())
+      .filter(([_, data]) => data.posts.length >= 3)
+      .map(([slug, data]) => {
+          data.posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+          return {
+              params: { chain: slug },
+              props: { chainName: data.chainName, posts: data.posts },
+          };
+      });
 }
 
 const { chainName, posts } = Astro.props;

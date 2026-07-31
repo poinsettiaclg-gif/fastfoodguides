@@ -6,7 +6,7 @@ description: Learn the secrets of the Papa John's Dough Slap technique. How pizz
 pubDate: '2024-07-11'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Papa John's
 topic: Pizza
 relatedArticles:
@@ -22,6 +22,7 @@ faq:
   answer: Torn dough goes straight into the waste bin as you cannot re-ball it or
     patch the hole.
 heroImage: ../../assets/images/general/generic-baking-3.webp
+disclaimerType: medical
 ---
 Every major pizza chain has a different approach to their crust. [Domino's](/articles/chain/dominos) stretches theirs on a prep screen. [Pizza Hut](/articles/chain/pizza-hut) often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. 
 
@@ -29,7 +30,7 @@ You will not be throwing dough in the air like a movie Italian chef. You will be
 
 ## The Dough Management Process
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Papa John](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -45,7 +46,7 @@ Most stores pull dough trays from the cooler in staggered batches throughout the
 
 ## The Edge Stretch and the Slap
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the Papa John](../../assets/images/general/generic-prep.webp)
 
 
 You have approximately 30 seconds to turn a dense dough ball into a perfect 14-inch circle without making the center too thin. The technique happens in two distinct phases:
@@ -62,7 +63,7 @@ If you do it wrong, you punch a hole directly through the middle and have to thr
 
 Almost every new Insider goes through the same painful learning curve during their first week. I've watched hundreds of first-timers learn this technique, and these are the mistakes you will almost certainly make:
 
-- **Slapping too aggressively**: Rookies tend to slam the dough down with their full arm strength, thinking it needs a hard impact to stretch. The reality is that the slap should be controlled and rhythmic — you're letting gravity and the dough's own weight do most of the work. Hitting it too hard creates thin spots in the center that tear during baking and leave you with a pizza that looks like it has a blowout.
+- **Slapping too aggressively**: Rookies tend to slam the dough down with their full arm strength, thinking it needs a hard impact to stretch. The reality is the slap should be controlled and rhythmic — you're letting gravity and the dough's own weight do most of the work. Hitting it too hard creates thin spots in the center that tear during baking and leave you with a pizza that looks like it has a blowout.
 - **Forgetting to rotate**: If you slap the dough back and forth without rotating it slightly with each pass, you end up with an oval instead of a circle. The rotation is what keeps the stretch even on all sides. I tell trainees to think of it like turning a steering wheel — small, consistent adjustments with every pass.
 - **Skimping on the Dustinator**: New employees are sometimes stingy with the cornmeal blend because it makes a mess on the floor and the prep table. But under-dusting the dough means it sticks to the table, your hands, or the pizza screen — and a stuck dough is almost always a ruined dough. Be generous with the Dustinator and clean up the mess later.
 - **Touching the center too early**: The center of the dough should stay puffy until the slapping process naturally stretches it out. If you press down on the center with your palms during the Edge Stretch, you create a paper-thin middle that either burns in the oven or collapses under the weight of the toppings, leaving you with a soggy, drooping center that customers send back.

@@ -6,7 +6,7 @@ description: "A QSR veteran takes you inside the grueling 4 AM Biscuit Maker shi
 pubDate: '2026-07-05'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Hardee's / Carl's Jr.
 topic: Training
 faq:
@@ -40,10 +40,10 @@ The first 15 minutes are all about precision setup. You weigh out your dry mix, 
 
 ## The From-Scratch Process: Where Most First-timers Fail
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the 400 AM ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the 400 AM ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Here's the step-by-step, and pay attention to the kneading step because that's where the job lives or dies:

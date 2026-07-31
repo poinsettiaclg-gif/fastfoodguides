@@ -5,7 +5,7 @@ description: Chili's baby back ribs are slow-cooked and finished on a grill. Her
 pubDate: '2024-10-21'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chili's
 topic: Other Chains
 relatedArticles:
@@ -21,6 +21,7 @@ faq:
   answer: The 'fall-off-the-bone' texture is achieved through a sous vide-style pre-cooking
     or controlled vapor process that breaks down the collagen long before the ribs
     ever hit the grill for their final char.
+disclaimerType: medical
 ---
 ## "I Want My Baby Back, Baby Back..."
 
@@ -30,11 +31,11 @@ Let's be honest — Chili's built an entire brand identity around that jingle. F
 
 
 
-I managed multiple Chili's kitchens over a stretch of years, and that is not what's happening. There is no smoker in the back. There's no woodpile next to the dumpster. But before you get cynical about it, hear me out — because the actual process is more interesting than you think, and the ribs are still genuinely good for a chain restaurant.
+Having spent a decade in QSR, I've cross-trained with guys who ran Chili's kitchens for years, and that is not what's happening. There is no smoker in the back. There's no woodpile next to the dumpster. But before you get cynical about it, hear me out — because the actual process is more interesting than you think, and the ribs are still genuinely good for a chain restaurant.
 
 What Chili's does is run a hybrid system: off-site smoking for the base flavor, precision reheating for tenderness, and high-heat grilling on-site for finish and char. Every single step is engineered around consistency, speed, and food safety. And when it's executed correctly, it works extremely well.
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Chili](../../assets/images/general/generic-prep.webp)
 
 ## The Off-Site Smoking Process
 

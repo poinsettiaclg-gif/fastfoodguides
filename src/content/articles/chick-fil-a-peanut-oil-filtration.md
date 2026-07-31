@@ -5,7 +5,7 @@ description: Chick-fil-A filters their peanut oil multiple times a day. Here's t
 pubDate: '2025-07-20'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
@@ -28,7 +28,7 @@ The operational mechanics of how Chick-fil-A maintains its oil quality at massiv
 
 ## The Chemistry of Peanut Oil: Smoke Points and Flavor Transfer
 
-![Operational view](../../assets/images/general/generic-baking.webp)
+![Chick-fil-A Peanut Oil Why They Filter It Daily](../../assets/images/general/generic-baking.webp)
 
 
 
@@ -88,7 +88,7 @@ Eventually, even Magnasol can't save the oil. Depending on the store's volume, a
 
 When a vat reaches the end of its lifecycle, the old, dark oil is pumped into a massive disposal tank (often via a motorized caddy or direct plumbing). But you can't just pour fresh oil into an empty, dirty vat. The carbonized breading is baked onto the heating elements and the steel walls.
 
-1. The empty vat is filled with water and a highly caustic boil-out chemical (essentially industrial degreaser).
+1. The empty vat is filled with water and a highly caustic boil-out chemical (in effect industrial degreaser).
 2. The fryer is turned on, bringing the chemical water to a rolling boil. 
 3. The boiling action loosens the baked-on carbon, while the closer attacks it with a scrub brush attached to a long, heat-resistant handle. You are literally scrubbing a cauldron of boiling degreaser while wearing heavy rubber gauntlets, a heavy rubber apron, and a face shield.
 4. Once the vat is pristine, the water is drained, the vat is rinsed with a vinegar-water solution to neutralize the base chemicals, and then wiped completely, bone-dry. If even a single drop of water remains in the vat when the fresh 325-degree peanut oil is pumped back in, the water will instantly vaporize, expand 1,700 times in volume, and cause a violent oil explosion.

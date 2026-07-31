@@ -5,7 +5,7 @@ description: Wendy's closing crew has a strict checklist that takes 90+ minutes.
 pubDate: '2024-09-09'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 faq:
@@ -43,7 +43,7 @@ The secret to getting out early is pre-closing. If you wait until the store offi
 
 ## Phase 2: Breaking Down the Boards
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Wendy](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once the manager announces the drive-thru is officially closed, the real work begins and the pressure turns up.
@@ -56,7 +56,7 @@ Once the manager announces the drive-thru is officially closed, the real work be
 
 ## Phase 3: The Three-Compartment Sink
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Wendy](../../assets/images/general/generic-prep.webp)
 
 
 The metal inserts and cutting boards go through the standard three-sink wash process:

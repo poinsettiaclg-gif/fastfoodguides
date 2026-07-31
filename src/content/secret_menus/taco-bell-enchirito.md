@@ -40,7 +40,7 @@ To the customer, an Enchirito is simply a bean and beef burrito served in a plas
 
 ## 1. Anatomy of the Smothered Build
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![The Taco Bell Enchirito Why Kitchens Dread the Smothered Secret Menu Hack](../../assets/images/general/generic-fryer.webp)
 
 
 

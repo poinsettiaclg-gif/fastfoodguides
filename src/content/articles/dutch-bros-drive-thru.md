@@ -5,7 +5,7 @@ description: Dutch Bros employees walk up to your car window instead of using a 
 pubDate: '2026-02-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dutch Bros
 topic: Breakfast & Coffee
 heroImage: ../../assets/images/general/generic-pos-2.webp
@@ -27,7 +27,7 @@ The secret? Human interaction masking a highly optimized, militaristic dispatch 
 
 ## The "Linebusters"
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Dutch Bros Drive-Thru The Walk-Up Model](../../assets/images/general/generic-prep.webp)
 
 
 The core of the Dutch Bros model is the "Linebuster"—the employee standing outside with an iPad, regardless of the weather. Rain, snow, 105°F summer heat in Arizona—doesn't matter. That person is out there.
@@ -41,7 +41,7 @@ Why do this instead of a speaker box?
 2.  **Parallel Processing:** While car #1 is paying at the window, cars #2 through #6 already have their orders queued on the barista's screen inside.
 3.  **Upselling:** It's psychologically much harder to say "no" to a soft-top add-on when a smiling human is looking you in the eye.
 
-This concept isn't unique to Dutch Bros—[The Chick-fil-A Drive-Thru Tablets: How the iPOS System Kills the Speaker Box](/articles/chick-fil-a-drive-thru-tablets/) uses a similar face-to-face ordering model—but Dutch Bros was arguably doing it first in the beverage space, and they've refined it into an art form.
+This concept isn't unique to Dutch Bros—[The Chick-fil-A iPOS System](/articles/chick-fil-a-ipos-system/) uses a similar face-to-face ordering model—but Dutch Bros was arguably doing it first in the beverage space, and they've refined it into an art form.
 
 ### How They Train New Linebusters
 

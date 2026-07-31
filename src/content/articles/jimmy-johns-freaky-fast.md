@@ -5,7 +5,7 @@ description: Jimmy John's speed comes from a highly specific prep and assembly s
 pubDate: '2025-05-08'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jimmy John's
 topic: Sandwiches
 relatedArticles:
@@ -20,14 +20,14 @@ faq:
     arrive within 10 minutes of ordering, maintaining the Freaky Fast standard.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-7.  How Does Jimmy John's Actually Deliver 'Freaky Fast'?
+## How Does Jimmy John's Actually Deliver 'Freaky Fast'?
 
 
 “Freaky Fast” is not a marketing gimmick. It is a ruthlessly engineered operating philosophy that dictates every single decision Jimmy John's makes — from the menu design to the store layout to the delivery zone to the way bread is sliced at 7 AM. I have worked in sandwich shops where a single sub takes three or four minutes to build. At Jimmy John's, the expectation is that a sandwich goes from order ticket to wrapped-and-bagged in under 30 seconds. That is not a typo. Thirty seconds. And the scariest part? It is completely achievable once you understand how every piece of the operation is designed around one obsession: eliminating wasted time. 
 
 ## The 5-Minute Delivery Radius Is Not a Suggestion
 
-![Operational view](../../assets/images/general/generic-fryer.webp)
+![Jimmy John](../../assets/images/general/generic-fryer.webp)
 
 
 
@@ -158,5 +158,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of rookies, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

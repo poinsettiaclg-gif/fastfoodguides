@@ -5,7 +5,7 @@ description: Chipotle makes guacamole in-house every day. Here's the exact recip
 pubDate: '2024-06-27'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
@@ -20,6 +20,7 @@ faq:
     a cobotic device called 'Autocado' that automatically cuts, cores, and peels the
     avocados to reduce prep time.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 ## Six Ingredients. No Blender. No Shortcuts.
 
@@ -54,7 +55,7 @@ The first thing the prep cook does is check ripeness. Not every avocado in a cas
 - **Perfect** (slight give when pressed, dark green to nearly black skin): Ready for guac. The flesh should be creamy yellow-green with no brown spots
 - **Overripe** (mushy, brown flesh inside): Discarded. Brown avocado produces bitter, off-tasting guacamole
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Chipotle Guacamole Made From Scratch Daily](../../assets/images/general/generic-walk-in-2.webp)
 
 Chipotle's supply chain tries to time deliveries so avocados arrive at peak ripeness, but it's an imperfect science. Temperature fluctuations during shipping, seasonal variation, and the natural unpredictability of fruit ripening mean that every case is a gamble. Experienced prep cooks can assess a full case of 48 avocados in about 2 minutes just by feel.
 
@@ -89,7 +90,7 @@ Once the avocado is mashed to the right consistency, the remaining ingredients g
 
 Everything is **folded in gently** — not stirred aggressively — to maintain the chunky texture. Over-mixing at this stage would turn the guacamole into a smooth paste.
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Chipotle Guacamole Made From Scratch Daily](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### Step 5: Taste and Adjust
 

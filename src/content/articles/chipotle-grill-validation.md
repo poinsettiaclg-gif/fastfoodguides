@@ -6,7 +6,7 @@ description: A gritty operational breakdown of the Chipotle Grill Station, the r
 pubDate: '2025-03-10'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Operations
 faq:
@@ -20,6 +20,7 @@ faq:
     you can manage the station independently while maintaining food safety and throughput
     standards.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 I spent my first six months as a restaurant manager dreading the moment my main grill cook called in sick. While the front-of-house assembly line at Chipotle looks smooth and effortless, the reality is entirely different just over the sneeze guard. 
 
@@ -55,7 +56,7 @@ Chipotle enforces a strict protocol for this. When a pan of chicken drops to a c
 
 A good Grill Cook isn't just reacting to calls; they are anticipating them. They know that a fresh pan of white rice will vanish in five minutes during a rush, so they already have the next batch mixing before the line even calls for it. 
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![The Chipotle Grill Cook Why It](../../assets/images/general/generic-walk-in-2.webp)
 
 ## Temperature Validation and Food Safety
 

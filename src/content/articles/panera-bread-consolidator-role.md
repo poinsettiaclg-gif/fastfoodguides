@@ -5,7 +5,7 @@ description: 'Inside the most demanding role at Panera Bread: the Consolidator w
 pubDate: '2024-08-16'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panera Bread
 topic: Other Chains
 relatedArticles:
@@ -26,7 +26,7 @@ That's where the Consolidator comes in. Standing at the very end of the producti
 
 ## The Master of the "You Pick Two"
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the Panera Bread ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -42,7 +42,7 @@ If you lose track of which half-sandwich belongs to which combo, the entire orde
 
 ## The Quality Control Check
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![What is the Panera Bread ](../../assets/images/general/generic-prep.webp)
 
 
 The Consolidator is Panera's last line of defense against remakes and customer complaints. Before a plate leaves the kitchen, the Consolidator must quickly verify:

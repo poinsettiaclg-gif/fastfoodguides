@@ -5,7 +5,7 @@ description: Five Guys builds every burger fresh to order with no heat lamps. He
 pubDate: '2025-12-29'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Five Guys
 topic: Burgers
 faq:
@@ -20,6 +20,7 @@ faq:
 relatedArticles:
 - five-guys-fry-calibration
 heroImage: ../../assets/images/general/generic-fryer.webp
+disclaimerType: medical
 ---
 ## The Beef Arrives Fresh. Every Single Day.
 
@@ -51,7 +52,7 @@ The smash accomplishes two critical things:
 
 <div class="callout callout-tip">**ProTip:** The exact timing of the "smash" is critical. If a cook waits too long after the ball hits the 400°F grill, the proteins seize up. Smashing at that point will squeeze all the juices out, resulting in a dry, crumbly patty instead of one with a properly caramelized Maillard crust.</div>
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Five Guys Burger Build How It](../../assets/images/general/generic-walk-in-2.webp)
 
 ### Step 3: Season and Wait
 
@@ -87,7 +88,7 @@ Five Guys' most famous operational feature is their **unlimited free toppings** 
 
 The topping station is set up as a long line of **stainless steel bins** filled with pre-prepped ingredients:
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Five Guys Burger Build How It](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The Standard Toppings (All Free)
 
@@ -119,7 +120,7 @@ Five Guys is one of the few chains that puts the fries **directly in the bag** w
 
 This is a deliberate decision. The fries are cooked in peanut oil at **325°F** (a lower temperature than most chains) and are meant to be eaten immediately. The heat from the fries warms the entire bag, keeping everything at serving temperature. The peanut oil also has a higher smoke point and different flavor profile than the vegetable or canola oil used by most competitors.
 
-The downside is that the bag gets greasy. Very greasy. Five Guys knows this — it's essentially a feature at this point.
+The downside is that the bag gets greasy. Very greasy. Five Guys knows this — it's for all practical purposes a feature at this point.
 
 ## What Makes Five Guys Operationally Unique
 
@@ -127,7 +128,7 @@ The combination of fresh (never frozen) beef, hand-smashed patties, unlimited fr
 
 1. **Higher labor cost** — Hand-forming patties and custom-topping every burger requires more skilled labor than pulling pre-formed patties from a freezer
 2. **Higher food cost** — Fresh beef has a shorter shelf life (more waste), and unlimited toppings mean unpredictable per-burger costs
-3. **Slower throughput** — A Five Guys kitchen can't match the volume of a [McDonald's](/articles/chain/mcdonalds) or [Burger King](/articles/chain/burger-king) because every burger is essentially made to order
+3. **Slower throughput** — A Five Guys kitchen can't match the volume of a [McDonald's](/articles/chain/mcdonalds) or [Burger King](/articles/chain/burger-king) because every burger is functionally made to order
 4. **Higher prices** — All of the above costs are passed to the customer, which is why Five Guys sits in the "better burger" price tier
 
 But the result is a burger that tastes noticeably different from a standard fast food burger. The hand-smashed crust, the fresh beef, the toasted-in-beef-fat bun, and the generous toppings create a product that justifies the premium — at least for the customers who keep coming back.

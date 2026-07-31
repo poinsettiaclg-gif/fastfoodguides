@@ -30,6 +30,7 @@ faq:
     brief 15-minute window when kitchens transition from breakfast to lunch.
 author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
+disclaimerType: medical
 ---
 In the lore of fast-food secret menus, few items hold as much mythical status as **The McBrunch Burger**—widely known on social media as the **"10:35 AM Burger."** 
 
@@ -41,16 +42,16 @@ With an official **Operational Annoyance Score of 10/10**, demanding a McBrunch 
 
 ## 1. The 10:30 AM Changeover: The Most Stressful 15 Minutes
 
-![Operational view](../../assets/images/general/generic-grill.webp)
+![The McBrunch Burger Why McDonald](../../assets/images/general/generic-grill.webp)
 
 
 
 To understand why the McBrunch Burger causes kitchen paralysis, you must examine what actually happens inside a McDonald's kitchen at exactly 10:30 AM every morning. 
 
 A McDonald's kitchen is not designed to serve breakfast and lunch simultaneously; the equipment physical footprint requires a complete operational reset known as **The Changeover**. During this intense 15-minute window, the entire kitchen team executes a synchronized mechanical shift:
-*   **Griddle Temp Recalibration:** Breakfast sausage patties and folded eggs are cooked on the [platen clamshell griddles](/articles/mcdonalds-platen-grill) at lower temperature settings (around 350°F). To cook [10:1 and 4:1 lunch beef patties](/articles/mcdonalds-fresh-beef-grill-process), the griddle temperatures must be spiked upward to 425°F. Cooks are frantically scraping off breakfast grease, laying down Teflon sheets, and waiting for burners to hit beef searing temperatures.
-*   **Fryer Station Purge:** At the [fry station](/articles/mcdonalds-fry-station), the vats designated for hash browns must be cleared, skimmed for potato flakes, and calibrated to flash-fry standard salted french fries.
-*   **UHC Cabinet Swap:** The **[Universal Holding Cabinet (UHC)](/articles/mcdonalds-uhc-cabinet-timers)**—the heated electronic holding trays that keep cooked proteins hot—undergoes a total purge. Breakfast plastic trays containing biscuits, sausage, and eggs are pulled out, discarded or logged into waste sheets, and replaced with clean trays awaiting the first drop of lunch chicken McNuggets and beef patties.
+*   **Griddle Temp Recalibration:** Breakfast sausage patties and folded eggs are cooked on the [platen clamshell griddles](/articles/mcdonalds-fresh-beef-grill-process/) at lower temperature settings (around 350°F). To cook [10:1 and 4:1 lunch beef patties](/articles/mcdonalds-fresh-beef-grill-process/), the griddle temperatures must be spiked upward to 425°F. Cooks are frantically scraping off breakfast grease, laying down Teflon sheets, and waiting for burners to hit beef searing temperatures.
+*   **Fryer Station Purge:** At the [fry station](/articles/mcdonalds-fry-station/), the vats designated for hash browns must be cleared, skimmed for potato flakes, and calibrated to flash-fry standard salted french fries.
+*   **UHC Cabinet Swap:** The **[Universal Holding Cabinet (UHC)](/articles/mcdonalds-uhc-cabinet/)**—the heated electronic holding trays that keep cooked proteins hot—undergoes a total purge. Breakfast plastic trays containing biscuits, sausage, and eggs are pulled out, discarded or logged into waste sheets, and replaced with clean trays awaiting the first drop of lunch chicken McNuggets and beef patties.
 
 <div class="callout callout-tip">**ProTip:** You must time your arrival precisely at 10:25 AM. If you show up earlier, the lunch beef is not cooked yet; if you arrive after 10:35 AM, the egg ring station is completely broken down and sanitized.</div>
 

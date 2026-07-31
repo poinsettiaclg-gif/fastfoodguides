@@ -7,7 +7,7 @@ description: A realistic walkthrough of what your first day at McDonald's looks 
 pubDate: '2026-05-18'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-2.webp
@@ -28,7 +28,7 @@ So here's what your first day at a McDonald's actually looks like, from someone 
 
 ## Before You Show Up
 
-![Operational view](../../assets/images/general/generic-grill.webp)
+![Your First Day at McDonald](../../assets/images/general/generic-grill.webp)
 
 
 

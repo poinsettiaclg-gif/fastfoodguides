@@ -5,7 +5,7 @@ description: Sweetgreen's morning prep crew chops, roasts, and portions every in
 pubDate: '2026-01-05'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Sweetgreen
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
@@ -22,6 +22,7 @@ faq:
   answer: Because Sweetgreen relies heavily on local farms, prep teams often have
     to adjust to inconsistencies in produce size and dirt levels, requiring rigorous
     multi-stage washing.
+disclaimerType: medical
 ---
 Listen, there’s something undeniably romantic about the idea of a farm-to-table salad concept. You walk into a Sweetgreen at 12:15 PM, the line is practically out the door, the music is bumping, and a small army of team members is rhythmically tossing vibrant greens and colorful roasted vegetables in massive steel bowls. It looks effortless. It looks fresh. It looks like a perfectly choreographed dance of health and wellness. 
 
@@ -31,7 +32,7 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 ## 6:00 AM: The Arrival and The Assessment
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Sweetgreen Morning Prep What Happens Before Open](../../assets/images/general/generic-prep.webp)
 
 
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 
@@ -60,13 +61,13 @@ The prep team has to constantly adjust their workflows. If the spinach is extra 
 
 Before anything gets chopped, it has to get washed. And when I say washed, I don't mean a quick rinse under the tap. I mean an industrial-scale sanitizing bath. 
 
-Sweetgreen uses massive, multi-compartment sinks specifically designed for crisping and cleaning greens. The water temperature is critical here. It needs to be freezing cold—ideally below 40°F. This does two things: it removes dirt and debris, and it essentially shocks the greens, making them incredibly crisp. 
+Sweetgreen uses massive, multi-compartment sinks specifically designed for crisping and cleaning greens. The water temperature is critical here. It needs to be freezing cold—ideally below 40°F. This does two things: it removes dirt and debris, and it in effect shocks the greens, making them incredibly crisp. 
 
 Have you ever wondered why the kale at Sweetgreen has such a satisfying crunch, while the kale you make at home feels limp? It's the ice bath. 
 
 The prep cooks plunge massive colanders of chopped greens into the sinks, agitating them vigorously. The dirt sinks to the bottom, the pristine leaves float to the top. This process is repeated until the water runs completely clear. It is backbreaking, wet, freezing cold work. Your hands go numb within the first twenty minutes. 
 
-Once the greens are washed, they have to be dried. Nobody wants a watery salad. Sweetgreen uses commercial salad spinners—essentially giant centrifuges that spin the water off the leaves. These things are massive, often holding up to 5 gallons of wet greens at a time. The physical exertion required to crank a commercial spinner, or even just to load and unload an electric one, over and over again, is a workout in itself.
+Once the greens are washed, they have to be dried. Nobody wants a watery salad. Sweetgreen uses commercial salad spinners—for all practical purposes giant centrifuges that spin the water off the leaves. These things are massive, often holding up to 5 gallons of wet greens at a time. The physical exertion required to crank a commercial spinner, or even just to load and unload an electric one, over and over again, is a workout in itself.
 
 <div class="callout callout-tip">**ProTip:** The wash station often uses peracetic acid (PAA) in its multi-compartment sinks as a high-strength sanitizing agent to control pathogens on raw produce before the final cold-water shock.</div>
 

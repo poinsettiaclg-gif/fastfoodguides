@@ -5,7 +5,7 @@ description: Zax Sauce is a proprietary blend that Zaxby's guards closely. Here'
 pubDate: '2026-07-11'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Zaxby's
 topic: Chicken
 faq:
@@ -20,8 +20,9 @@ relatedArticles:
 - chick-fil-a-breading-process
 - wendys-chili-leftover-hamburgers
 heroImage: ../../assets/images/general/generic-fryer.webp
+disclaimerType: medical
 ---
-7.  What is Zax Sauce? (And Why Employees Guard the Recipe)
+## What is Zax Sauce? (And Why Employees Guard the Recipe)
 
 
 If you've eaten at Zaxby's more than once, you already know about Zax Sauce. It's the creamy, tangy, slightly peppery dipping sauce that comes in those little 2-ounce portion cups alongside your chicken fingers and crinkle-cut fries. It is, without exaggeration, the reason a large percentage of Zaxby's customers walk through the door in the first place. I've watched people dip Texas toast in it. I've watched people dip their fries in it, then dip their chicken in it, then go back and dip the fries again. I once had a regular ask for six extra cups of Zax Sauce for a 3-piece Fingerz plate. Six. 
@@ -30,7 +31,7 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 
 ## What's Actually in Zax Sauce
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![Zaxby](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
@@ -51,7 +52,7 @@ The reason employees don't bother guarding the ingredient list is because it doe
 
 ## The Ratio Problem
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Zaxby](../../assets/images/general/generic-walk-in-2.webp)
 
 I'll put it this way: mayo is roughly 70 to 75 percent of the sauce. That's a lot more mayo than most home cooks expect. People tend to go heavy on the ketchup because they want that tangy pink color, and they end up with something that tastes like Thousand Island dressing. That's the number one mistake.
 
@@ -136,5 +137,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of new staff, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

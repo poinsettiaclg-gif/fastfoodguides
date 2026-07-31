@@ -6,7 +6,7 @@ description: The In-N-Out Board station is the hardest job in the building. Lear
 pubDate: '2025-11-03'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
@@ -22,12 +22,13 @@ faq:
     demands raw speed, constant multitasking, and simultaneous awareness of multiple
     orders to match the Grill cook's pace.
 heroImage: ../../assets/images/general/generic-grill.webp
+disclaimerType: medical
 ---
 As you advance through [The In-N-Out Level System](/articles/in-n-out-level-system), you will eventually reach Level 5. The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break. 
 
 ## The Board Setup and Station Layout
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the In-N-Out ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
@@ -43,7 +44,7 @@ On more than one occasion, green crew members underestimate the setup phase. Bef
 
 ## The Wrapping Speed That Separates Good from Great
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the In-N-Out ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once the Grill cook drops the cooked patties onto your dressed buns, you enter the most demanding phase: the wrap. A top-tier Board person can dress, wrap, and bag a finished burger in under five seconds. That's not an exaggeration—it's a benchmark that experienced Associates actually hit during peak hours.
@@ -52,7 +53,7 @@ The wrap uses a specific tuck-and-fold method with wax paper. You tear a sheet f
 
 Here's where it gets tricky. You have to memorize which wrapped burger belongs to which order. If a customer ordered a Double-Double Animal Style and a plain Hamburger with no onions, those burgers have to land in the bag in the exact sequence the receipt dictates. Mix them up and the customer opens the wrong one first—that's a complaint, a remake, and wasted time. During a heavy rush, you might have six or seven wrapped burgers sitting in front of you, and you need to know which one is which without unwrapping them.
 
-The reality is that wrapping is the single biggest bottleneck for new Board workers. Working the line, I observed Associates who can dress a bun perfectly at training speed completely fall apart when the Grill cook starts stacking patties faster than they can fold paper. The motion has to be automatic—muscle memory, not conscious thought.
+The reality is wrapping is the single biggest bottleneck for new Board workers. Working the line, I observed Associates who can dress a bun perfectly at training speed completely fall apart when the Grill cook starts stacking patties faster than they can fold paper. The motion has to be automatic—muscle memory, not conscious thought.
 
 ## The Sink-or-Swim Pressure of a Real Rush
 

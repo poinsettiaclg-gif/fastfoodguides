@@ -5,7 +5,7 @@ description: Domino's hand-toss requires a specific stretch to hit the right cru
 pubDate: '2024-07-31'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
@@ -20,6 +20,7 @@ faq:
   answer: Dough balls typically need to sit at room temperature for 45 to 60 minutes
     before they are pliable enough to stretch properly without tearing or snapping
     back.
+disclaimerType: medical
 ---
 ## The Dough Does Not Arrive as Dough
 
@@ -47,7 +48,7 @@ A common rookie mistake is pressing too aggressively in the center, creating a p
 
 <div class="callout callout-tip">**ProTip:** If your dough is under-proofed and too cold, it will snap back like a rubber band and produce massive air bubbles in the oven. If you see bubbles forming on a cold-stretched pizza, you'll have to reach in and stab them with the long-handled bubble popper.</div>
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Domino](../../assets/images/general/generic-prep.webp)
 
 ### Step 3: Stretch to Size
 
@@ -79,7 +80,7 @@ From left to right, a standard Domino's makeline looks like this:
 4. **Topping bins** — a refrigerated rail of 15-20 toppings, each in its own compartment
 5. **Oven entrance** — the conveyor belt that feeds into the impinger oven
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Domino](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The 2-Minute Build Target
 

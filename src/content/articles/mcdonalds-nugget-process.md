@@ -5,7 +5,7 @@ description: McDonald's Chicken McNuggets follow a strict fry time and basket ro
 pubDate: '2025-07-30'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Chicken
 faq:
@@ -19,6 +19,7 @@ faq:
 relatedArticles:
 - mcdonalds-ice-cream-machine
 heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: medical
 ---
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
@@ -27,7 +28,7 @@ If there is one fast food item that has generated more conspiracy theories, urba
 
 ## What McNuggets Are Actually Made Of
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![McDonald](../../assets/images/general/generic-prep.webp)
 
 
 
@@ -47,7 +48,7 @@ Mechanically separated chicken involves forcing chicken carcasses (bones and all
 
 ## The Factory Process: Breast to Nugget
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![McDonald](../../assets/images/general/generic-drive-thru-3.webp)
 
 The journey from whole chicken to finished McNugget happens in a processing facility and follows a specific sequence:
 
@@ -155,5 +156,3 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of rookies, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.

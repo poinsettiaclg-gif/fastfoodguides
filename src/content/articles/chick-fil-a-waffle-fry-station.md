@@ -6,14 +6,14 @@ description: A comprehensive operational analysis of how Chick-fil-A cooks, salt
 pubDate: '2025-04-28'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
 - chick-fil-a-peanut-oil-filtration
 - chick-fil-a-ipos-system
-- chick-fil-a-ipos-drive-thru
+- chick-fil-a-ipos-system
 faq:
 - question: Are Chick-fil-A waffle fries cooked in peanut oil?
   answer: No. While the breaded chicken is cooked in refined peanut oil, the waffle
@@ -23,6 +23,7 @@ faq:
   answer: To combat the rapid loss of heat and crispness, Chick-fil-A introduced a
     pea starch coating to the fries in 2025 to help them stay crispier for much longer,
     particularly for drive-thru and delivery orders.
+disclaimerType: medical
 ---
 When customers think of Chick-fil-A, they focus on two menu staples: the pressure-fried chicken sandwich and the waffle potato fries. From a quick-service kitchen management perspective, cooking the chicken sandwich is actually the predictable, rhythmic part of the kitchen. 
 
@@ -34,7 +35,7 @@ Unlike standard shoestring fries (such as McDonald's 1/4-inch cut), waffle fries
 
 ## 1. Waffle Cut Physics: Surface Area vs. Heat Retention
 
-![Operational view](../../assets/images/general/generic-pos.webp)
+![Chick-fil-A Waffle Fry Station The 2-Minute Rule and Peanut Oil Science](../../assets/images/general/generic-pos.webp)
 
 
 

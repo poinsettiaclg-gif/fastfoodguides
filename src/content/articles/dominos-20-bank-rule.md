@@ -5,7 +5,7 @@ description: Learn about the strict $20 Bank Rule every Domino's driver must fol
 pubDate: '2024-10-26'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
@@ -41,7 +41,7 @@ At the end of your shift, you must return the bank in full. If you come back sho
 
 ## The Cash Drop System
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![What is the Domino](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Here's where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
@@ -54,7 +54,7 @@ I've fired drivers for this. Not because I wanted to—because the policy is iro
 
 ## The Double and Triple Run Complication
 
-![Operational reference](../../assets/images/general/generic-drive-thru-3.webp)
+![What is the Domino](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The $20 rule gets complicated during busy Friday and Saturday nights when drivers take multiple deliveries per run. If you're carrying two or three orders at once—a "double" or a "triple"—you might collect cash from multiple customers before returning to the store.

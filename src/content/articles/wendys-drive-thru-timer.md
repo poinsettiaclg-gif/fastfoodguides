@@ -5,7 +5,7 @@ description: Why does Wendy's ask you to pull forward at the drive-thru? An insi
 pubDate: '2025-10-05'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Operations
 heroImage: ../../assets/images/general/generic-fryer-3.webp
@@ -20,6 +20,7 @@ faq:
   answer: Even when the line is empty, managers will ask you to pull forward to clear
     the magnetic sensor at the window. This stops the timer and prevents the store's
     metrics from turning red.
+disclaimerType: medical
 ---
 The ticket printer hasn't stopped for 45 minutes, the grill cook is frantically dropping fresh batches of spicy chicken, and three cars just pulled up to the speaker box at the exact same time. You hand the customer their drink and hit them with the line: 
 
@@ -31,7 +32,7 @@ According to [QSR Magazine's annual drive-thru study](https://www.qsrmagazine.co
 
 ## The SOS (Speed of Service) Metric
 
-![Operational view](../../assets/images/general/generic-baking.webp)
+![The Wendy](../../assets/images/general/generic-baking.webp)
 
 
 

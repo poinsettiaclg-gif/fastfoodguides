@@ -6,7 +6,7 @@ description: A granular look at the In-N-Out Board Station, detailing the exact 
 pubDate: '2025-05-21'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 heroImage: ../../assets/images/general/generic-fryer.webp
@@ -33,7 +33,7 @@ As someone who has managed high-volume QSR kitchens for a decade, I consider the
 
 ## 1. The Foundation: Bun Prep and The 1-Swipe Spread Rule
 
-![Operational view](../../assets/images/general/generic-drive-thru.webp)
+![In-N-Out Double-Double Assembly The Anatomy of the Board Station](../../assets/images/general/generic-drive-thru.webp)
 
 
 

@@ -5,7 +5,7 @@ description: Taco Bell fries their Chalupa shells to order. Here's how the fryer
 pubDate: '2025-07-09'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
-authorTitle: Former QSR Operations Manager
+authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
@@ -20,6 +20,7 @@ faq:
     at once, or if the shell isn't allowed to drain for the standard 30 seconds before
     assembly.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+disclaimerType: medical
 ---
 ## It Starts as a Flat Disc of Dough
 
@@ -52,7 +53,7 @@ When the dough hits the **350°F oil**, it immediately begins to puff. But becau
 - A **puffy, blistered exterior** with air pockets throughout
 - A **chewy, bread-like interior** that's denser than a tortilla but lighter than a roll
 
-![Operational reference](../../assets/images/general/generic-prep.webp)
+![Taco Bell Chalupa Shell How It](../../assets/images/general/generic-prep.webp)
 
 ### Timing Is Everything
 
@@ -93,7 +94,7 @@ Once the shell comes out of the fryer and drains for a few seconds, it moves to 
 5. **Three-cheese blend** — a mix of cheddar, pepper jack, and mozzarella
 6. **Sour cream** — a measured portion on top
 
-![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
+![Taco Bell Chalupa Shell How It](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The Steak and Chicken Variants
 
@@ -140,7 +141,7 @@ The Chalupa's fried shell gives it a crunch-to-chew ratio that the Gordita doesn
 
 The Chalupa shell is one of the few items in fast food that is genuinely **cooked from raw dough in the restaurant**. Most "fried" items at fast food chains — chicken tenders, fish fillets, onion rings — arrive pre-breaded and frozen, requiring only reheating in the fryer. The Chalupa starts as raw dough and is transformed into a finished bread product through the frying process.
 
-That transformation — from a cold, flat disc of dough to a puffy, golden, structurally sound taco boat — happens in under a minute. It's one of the more impressive pieces of food engineering in the fast food world, and it's happening in every Taco Bell location, hundreds of times per day, by crew members who might not realize they're essentially baking bread in hot oil.
+That transformation — from a cold, flat disc of dough to a puffy, golden, structurally sound taco boat — happens in under a minute. It's one of the more impressive pieces of food engineering in the fast food world, and it's happening in every Taco Bell location, hundreds of times per day, by crew members who might not realize they're basically baking bread in hot oil.
 
 
 ### See Also
