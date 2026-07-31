@@ -15,7 +15,7 @@ heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: Do you really get a free Blizzard if they forget to flip it?
   answer: Dairy Queen's official policy is that if the employee does not flip your
-    Blizzard upside down, you are entitled to a free one. However, enforcement varies
+    Blizzard upside down, you are entitled to a free one. enforcement varies
     by franchise, and you usually have to point it out at the time of service.
 - question: Why does Dairy Queen flip the Blizzard?
   answer: The flip serves as a visual quality guarantee that the soft serve is at

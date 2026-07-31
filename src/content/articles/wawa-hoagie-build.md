@@ -172,7 +172,7 @@ One thing that keeps the experience consistent across 1,000+ locations: Wawa is 
 
 The hoagie is the centerpiece of that loyalty. It's the first thing Wawa fans tell you about when you say you've never been. “You have to try the hoagies.” It's the thing expats miss when they move to a state without Wawa. Every year, Wawa runs “Hoagiefest” — a summer-long promotional event with discounted hoagies and themed marketing — and people genuinely get hyped for it. It's a sandwich promotion that generates real enthusiasm, which tells you everything about the relationship between Wawa and its customers.
 
-The touchscreen ordering is part of that identity now. It felt futuristic when Wawa first rolled it out, and even though touchscreen ordering is everywhere in 2026, Wawa still does it in a way that feels natural. The interface is clean, the options are logical, and the whole process just works without friction. When something is that seamless, people don't think about it — they just order their hoagie and go.
+The touchscreen ordering is part of that identity now. It felt futuristic when Wawa first rolled it out, and even though touchscreen ordering is everywhere in 2026, Wawa still does it in a way that feels natural. The interface is clean, the options are logical, and the whole process just works without friction. When something is that smooth, people don't think about it — they just order their hoagie and go.
 
 ## Final Thoughts: The System Is the Product
 

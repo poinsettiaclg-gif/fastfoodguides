@@ -34,7 +34,7 @@ The operational mechanics of how Chick-fil-A maintains its oil quality at massiv
 
 To understand why Chick-fil-A absorbs the astronomical cost of peanut oil, you have to understand the chemistry of a high-volume fry station. 
 
-When you drop a breaded chicken breast into hot oil, several things happen simultaneously. The water inside the chicken begins to boil, pushing steam out through the breading. This escaping steam creates the crispy crust and prevents the oil from soaking into the meat. However, as hundreds of pieces of chicken are dropped into the same vat over the course of a lunch rush, tiny particles of flour, milk wash, and chicken fat break off and remain in the oil. 
+When you drop a breaded chicken breast into hot oil, several things happen simultaneously. The water inside the chicken begins to boil, pushing steam out through the breading. This escaping steam creates the crispy crust and prevents the oil from soaking into the meat. as hundreds of pieces of chicken are dropped into the same vat over the course of a lunch rush, tiny particles of flour, milk wash, and chicken fat break off and remain in the oil. 
 
 These particles break down under high heat, lowering the oil's **smoke point**—the temperature at which the oil stops frying and starts actively burning. 
 
@@ -106,7 +106,7 @@ Food allergies are triggered by specific proteins. In a peanut, it is the peanut
 
 The peanut oil used by Chick-fil-A is 100% fully refined. The industrial refining process involves bleaching and deodorizing the oil at incredibly high temperatures, which removes almost all of the protein. 
 
-Because the proteins are heavily processed, according to the FDA, highly refined oils are not considered major food allergens, and they are exempt from allergen labeling requirements. However, cross-contamination and supply chain anomalies are always a risk in any commercial kitchen. 
+Because the proteins are heavily processed, according to the FDA, highly refined oils are not considered major food allergens, and they are exempt from allergen labeling requirements. cross-contamination and supply chain anomalies are always a risk in any commercial kitchen. 
 
 *Note: As always, if you have a severe allergy, consult with an allergist before dining, as cross-contamination or supply chain anomalies (though astronomically rare at this corporate level) are never mathematically impossible.*
 

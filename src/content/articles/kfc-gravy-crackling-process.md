@@ -82,7 +82,7 @@ It is worth noting that the process has evolved over the years, and not always f
 
 Today, some locations try to speed up the prep process by relying more on the powder packets and less on the cracklings, especially if they are running behind during a lunch rush or if the fryers haven't produced enough usable sludge. In some international markets, or in smaller express locations, KFC has even moved toward a simplified powder-only mix to cut down on labor costs and ensure total uniformity. 
 
-However, in a well-run traditional KFC kitchen, the crackling process is still alive and well. It is one of the last true "from scratch" prep methods left in modern fast food, heavily utilizing a byproduct that any other restaurant would simply dump in the grease trap.
+in a well-run traditional KFC kitchen, the crackling process is still alive and well. It is one of the last true "from scratch" prep methods left in modern fast food, heavily utilizing a byproduct that any other restaurant would simply dump in the grease trap.
 
 ## Frequently Asked Questions
 

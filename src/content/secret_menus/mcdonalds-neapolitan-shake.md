@@ -36,7 +36,7 @@ The reality of the McDonald's drive-thru window is that every second is tracked,
 
 Handing out a "Neapolitan Shake"—a viral secret menu hack that demands a perfectly layered stack of strawberry, vanilla, and chocolate—takes upwards of 35 seconds of pure, unadulterated manual labor from the window presenter. When you order this during a Friday dinner rush, you are actively bringing the entire drive-thru operation to a screeching halt. 
 
-As a former multi-unit kitchen manager, I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn't just an annoyance; it is a mechanical nightmare for the infamously fragile Taylor C602 shake machine. Here is the unvarnished breakdown of exactly what happens behind the counter when that ticket prints on the line.
+I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn't just an annoyance; it is a mechanical nightmare for the infamously fragile Taylor C602 shake machine. Here is the unvarnished breakdown of exactly what happens behind the counter when that ticket prints on the line.
 
 ## The Mechanical Reality of the Taylor C606 Manifold
 
@@ -49,11 +49,15 @@ Most customers assume that McDonald's has three separate vats of flavored ice cr
 The Taylor C606 (and its modern variants) holds a massive reservoir of unflavored, neutral vanilla dairy mix in the upper hopper. When an employee pulls the draw handle, the machine freezes the mix on the fly inside the freezing cylinder. Simultaneously, an internal pneumatic pump injects a highly concentrated line of flavored syrup (chocolate or strawberry) directly into the nozzle block, blending the flavor into the vanilla base at the exact moment it hits the cup.
 
 <div class="callout callout-tip">
+<div class="callout callout-tip">
 **ProTip from the Window:** If the syrup bags are empty or the lines aren't properly calibrated, you get the dreaded 'La Croix effect'—a vanilla base mix with just the faintest hint of artificial strawberry or chocolate color, but zero actual flavor profile.
+</div>
 </div>
 
 <div class="callout callout-tip">
+<div class="callout callout-tip">
 **ProTip from the Window:** The syrup lines run through a tight, shared manifold just above the dispensing nozzle. When you pull a strawberry shake immediately after a chocolate shake, there is always a slight "flavor bleed" for the first two seconds of the draw as the chocolate syrup purges from the shared channel.
+</div>
 </div>
 
 When a customer orders a Neapolitan Shake, they expect three distinct layers. To achieve this, the employee cannot use the automated portion control sensors. They must put the machine into manual override.
@@ -79,7 +83,9 @@ In the QSR industry, throughput is king. The beverage cell is designed for econo
 The Neapolitan Shake completely breaks this rhythm. The employee must stand stationary at the machine, feathering the draw handle and manually triggering the syrup pumps. While they are doing this, they are not handing out food. They are not taking payment. They are not passing out napkins. The queue outside backs up, the kitchen continues throwing wrapped burgers down the heated chute, and the food begins to hit the edge of its holding timer. 
 
 <div class="callout callout-tip">
+<div class="callout callout-tip">
 **ProTip for the Line:** The only way to survive a rush with multiple Neapolitan orders is to stage them. Pull the bottom layer for three cups at once, then the middle layer for three cups, then the top layer. It violates standard flow protocols, but it saves the manifold from unnecessary purging cycles.
+</div>
 </div>
 
 Additionally, the continuous, rapid drawing of the machine depletes the freezing cylinder's thermal reserves. The Taylor machine relies on a specific recovery time between pulls to freeze the liquid mix descending from the hopper. Pulling three distinct layers in rapid succession forces the compressor to work overtime, often resulting in the top layer coming out as a soupy, under-frozen mess.

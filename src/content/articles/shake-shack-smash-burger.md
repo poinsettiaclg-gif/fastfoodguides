@@ -25,7 +25,7 @@ heroImage: ../../assets/images/general/generic-fryer-3.webp
 7.  What is the Shake Shack Smash Burger Technique?
 
 
-If you've eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I've had?”—the answer isn't a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. Specifically, it's what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion. 
+If you've eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I've had?”—the answer isn't a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. it's what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion. 
 
 I've watched this technique executed thousands of times across different burger concepts, and Shake Shack has refined it into something that's almost surgical in its precision. The process is fundamentally different from how most other chains cook their burgers. Let's break down the mechanics.
 

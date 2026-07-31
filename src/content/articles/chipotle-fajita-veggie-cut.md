@@ -77,6 +77,6 @@ The reality is that validation is not a one-time pass-or-fail event, either. Eve
 
 If you fail the knife test during validation, don't panic. It does not get you fired. You simply don't pass that day. You keep working your current role, get additional training time, and attempt again. Most employees who fail the first time pass on their second or third attempt after focused practice. The trick is to practice at home—buy a bag of onions and a cheap bell pepper from the grocery store and spend 15 minutes with the claw grip at your kitchen counter. That muscle memory translates directly to faster, more accurate prep work when you're on the clock and a clipboard is watching.
 
-For a deeper dive into the full validation process, check out [What Actually Happens During the Chipotle Grill Validation Test](/articles/chipotle-grill-validation). And if you've made it past prep and are struggling on the line, [The Secret to Rolling a Massive Chipotle Burrito](/articles/chipotle-massive-burrito-rolling) will save your sanity during the lunch rush.
+For a detailed look at the full validation process, check out [What Actually Happens During the Chipotle Grill Validation Test](/articles/chipotle-grill-validation). And if you've made it past prep and are struggling on the line, [The Secret to Rolling a Massive Chipotle Burrito](/articles/chipotle-massive-burrito-rolling) will save your sanity during the lunch rush.
 
 

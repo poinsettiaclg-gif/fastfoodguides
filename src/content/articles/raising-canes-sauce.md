@@ -10,7 +10,7 @@ chain: Raising Cane's
 topic: Chicken
 faq:
 - question: Does Raising Cane's sell their sauce in bottles?
-  answer: No, Raising Cane's does not sell bottled sauce. However, you can order a
+  answer: No, Raising Cane's does not sell bottled sauce. you can order a
     large 32 oz cup of it (sometimes called a Caniac size) if you need a bulk amount
     for a party.
 - question: How long does Cane's sauce last in the fridge?

@@ -132,7 +132,7 @@ The standard dry mix does not require eggs to be added during the in-store mixin
 
 ### Can you buy IHOP's pancake mix to use at home?
 
-IHOP has licensed their brand for retail pancake mixes that you can find in grocery stores. However, these retail mixes are not identical to the proprietary blend used in the restaurants. They're manufactured by a different company under a licensing agreement and are formulated for home preparation. They'll get you in the general neighborhood of the restaurant flavor, but they won't be an exact match—partly because of the mix formulation and partly because you don't have a commercial flat-top griddle in your kitchen.
+IHOP has licensed their brand for retail pancake mixes that you can find in grocery stores. these retail mixes are not identical to the proprietary blend used in the restaurants. They're manufactured by a different company under a licensing agreement and are formulated for home preparation. They'll get you in the general neighborhood of the restaurant flavor, but they won't be an exact match—partly because of the mix formulation and partly because you don't have a commercial flat-top griddle in your kitchen.
 
 ### How long does the mixed batter last before it goes bad?
 

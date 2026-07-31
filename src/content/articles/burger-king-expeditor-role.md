@@ -23,7 +23,7 @@ faq:
     out immediate needs to the line, acting as the 'glue' between the sandwich board,
     the fry station, and the front counter.
 ---
-During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. I have worked Expo during some of the busiest dinner rushes in my career, and Having lived through it, it is simultaneously the most stressful and most satisfying role in the entire building. 
+During a Friday night dinner rush at Burger King, the kitchen sounds like a factory floor—the broiler is roaring, fryers are screaming, and the drive-thru screen is filling up with customized Whopper orders faster than anyone can read them. In the middle of all of this chaos, one person is standing perfectly still, eyes locked on a monitor, hands moving at a pace that looks almost choreographed. That person is the Expeditor, and they are the only thing standing between a smooth rush and a complete operational meltdown. It is simultaneously the most stressful and most satisfying role in the entire building. 
 
 ## The Bridge Between Kitchen and Customer
 
@@ -84,7 +84,7 @@ The key skills to develop are memorizing the menu modifications by sight, buildi
 
 ### Can a regular crew member work the Expo station?
 
-Technically, yes. In some stores, experienced crew members who have demonstrated strong accuracy and speed are allowed to work Expo during slower rushes or mid-afternoon lulls. However, during a peak dinner or lunch rush, the manager almost always takes the position because it requires the authority to direct the entire team and make immediate judgment calls about food quality. If a crew member is consistently excelling at Expo, it is usually a strong signal that they are being groomed for a management promotion.
+Technically, yes. In some stores, experienced crew members who have demonstrated strong accuracy and speed are allowed to work Expo during slower rushes or mid-afternoon lulls. during a peak dinner or lunch rush, the manager almost always takes the position because it requires the authority to direct the entire team and make immediate judgment calls about food quality. If a crew member is consistently excelling at Expo, it is usually a strong signal that they are being groomed for a management promotion.
 
 ### What happens if the Expo falls behind during a rush?
 
@@ -96,4 +96,4 @@ The core concept is the same across most QSR chains—someone stands between the
 
 ---
 
-*For a deep dive into the machine the Expo is coordinating with, read our guide on [how the Burger King broiler works](/articles/burger-king-broiler). To understand what happens after the Expo's shift ends, check out [how hard it is to clean the broiler at closing](/articles/burger-king-broiler-closing). And for a similar role at another chain, see our breakdown of the [Taco Bell Linebacker position](/articles/taco-bell-linebacker-role).*
+*For a look at the machine the Expo is coordinating with, read our guide on [how the Burger King broiler works](/articles/burger-king-broiler). To understand what happens after the Expo's shift ends, check out [how hard it is to clean the broiler at closing](/articles/burger-king-broiler-closing). And for a similar role at another chain, see our breakdown of the [Taco Bell Linebacker position](/articles/taco-bell-linebacker-role).*

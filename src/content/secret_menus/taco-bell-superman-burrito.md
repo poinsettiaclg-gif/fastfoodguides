@@ -53,7 +53,7 @@ When a burrito ticket flashes on the kitchen display system (KDS), the line work
 
 This brief thermal vapor injection serves a necessary mechanical purpose: it gelatinizes the surface starches and hydrates the internal gluten matrix of the wheat dough. A cold, dry tortilla has high rigidity and low elasticity; if folded around a filling, it snaps and cracks along the crease line. By steaming the dough, the worker temporarily increases its tensile strength and flexibility, allowing the tortilla to stretch and conform around standard ingredient portions without tearing.
 
-However, this thermal elasticity has a strict physical limit. Once the tortilla absorbs the steam vapor, its structural strength begins a rapid countdown. The line worker has approximately **30 seconds** to dress, fold, and wrap the burrito before the ambient air cools the dough, causing the gluten matrix to tighten and lose its stretchable flexibility.
+this thermal elasticity has a strict physical limit. Once the tortilla absorbs the steam vapor, its structural strength begins a rapid countdown. The line worker has approximately **30 seconds** to dress, fold, and wrap the burrito before the ambient air cools the dough, causing the gluten matrix to tighten and lose its stretchable flexibility.
 
 ![Operational reference](../../assets/images/general/generic-prep.webp)
 

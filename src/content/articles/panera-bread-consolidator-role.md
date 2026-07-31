@@ -95,7 +95,7 @@ Most Panera locations require at least two to three months of experience before 
 
 ### Is the Consolidator position paid more than other roles?
 
-Not typically. The Consolidator is considered a regular team member position and is usually paid at the same hourly rate. However, consistently performing well as Consolidator is one of the fastest paths to a Team Lead or Shift Supervisor promotion, which does come with a pay increase. Think of it as an audition for leadership.
+Not typically. The Consolidator is considered a regular team member position and is usually paid at the same hourly rate. consistently performing well as Consolidator is one of the fastest paths to a Team Lead or Shift Supervisor promotion, which does come with a pay increase. Think of it as an audition for leadership.
 
 ### What happens if the Consolidator makes a mistake and sends out the wrong order?
 

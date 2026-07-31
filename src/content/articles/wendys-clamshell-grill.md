@@ -57,7 +57,7 @@ Here's where the engineering gets genuinely clever. Wendy's sells different size
 
 The solution is Auto-Gap technology. The grill's computer measures resistance as the top platen descends. When it encounters the surface of the meat, it detects the change in pressure and stops—hovering a precise distance above the bottom plate based on the actual thickness of what's being cooked. You can cook a thin Jr. patty and a thick quarter-pounder on the same grill, one batch after another, without adjusting a single setting.
 
-However, Auto-Gap calibration drifts over time. Grease buildup on the sensors, mechanical wear on the hydraulic components, and minor electrical issues all contribute. When the calibration starts slipping, you'll notice it in the product: patties come out either too flat (gap too small, platen is crushing them) or unevenly cooked on top (gap too large, platen isn't making proper contact).
+Auto-Gap calibration drifts over time. Grease buildup on the sensors, mechanical wear on the hydraulic components, and minor electrical issues all contribute. When the calibration starts slipping, you'll notice it in the product: patties come out either too flat (gap too small, platen is crushing them) or unevenly cooked on top (gap too large, platen isn't making proper contact).
 
 <div class="callout callout-tip">
   <strong>ProTip:</strong> The Auto-Gap sensors can easily be tricked if the Teflon release sheets attached to the top platen aren't installed completely flat. A wrinkled sheet will make the grill think the meat is thicker than it is, leading to undercooked patties.
@@ -100,7 +100,7 @@ Most franchise locations schedule a professional technician visit every three to
 
 ### Is the clamshell grill unique to Wendy's?
 
-No. Double-sided clamshell grills are used by multiple major chains, including McDonald's and Burger King. However, Wendy's use is particularly noteworthy because they're cooking fresh, never-frozen beef with naturally varying thickness. The Auto-Gap technology is essential for handling those variations—something that frozen patties, which are uniformly pressed to identical dimensions at the factory, don't require as critically.
+No. Double-sided clamshell grills are used by multiple major chains, including McDonald's and Burger King. Wendy's use is particularly noteworthy because they're cooking fresh, never-frozen beef with naturally varying thickness. The Auto-Gap technology is essential for handling those variations—something that frozen patties, which are uniformly pressed to identical dimensions at the factory, don't require as critically.
 
 ---
 

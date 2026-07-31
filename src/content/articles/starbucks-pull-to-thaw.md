@@ -23,7 +23,7 @@ faq:
     \ Supervisor?"
   answer: The Pull to Thaw is officially a Shift Supervisor responsibility. They access
     the iPad, review the algorithm's recommendations, and make the final call on quantities.
-    However, baristas are often asked to physically pull the boxes from the freezer
+    baristas are often asked to physically pull the boxes from the freezer
     and arrange the trays.
 ---
 When you see a display case full of perfectly golden croissants, neatly arranged muffins, and rows of cake pops at Starbucks, you might assume a baker arrived at 4:00 AM to make them fresh. The reality is very different. Every single pastry in that case arrived at the store frozen solid in a cardboard box. What makes them look and taste fresh is a carefully calculated logistics system called the Pull to Thaw, and getting it wrong means either empty pastry cases that cost the store hundreds in lost sales or overflowing trays of stale food that go straight into the waste bin.

@@ -84,13 +84,13 @@ The physical demands of the role are real, and Chick-fil-A invests more in prote
 
 The iPOS system runs on a dedicated local Wi-Fi network. You might assume that if the store loses its internet connection to corporate servers, the entire operational advantage disappears instantly. But Chick-fil-A solved this by turning every single restaurant into its own edge-computing data center. Every Chick-fil-A operates its own 3-node Kubernetes cluster (using k3s) physically located in the back room. 
 
-This highly resilient "edge" architecture ensures that the iPads, the point-of-sale, the Kitchen Display System (KDS), and even the IoT fryers keep communicating locally and processing orders flawlessly even if the store completely loses external internet. The IT setup at a busy Chick-fil-A is more robust than what you would find at most small tech startups—because the revenue impact of a 30-minute outage during lunch rush is measured in thousands of dollars.
+This highly resilient "edge" architecture ensures that the iPads, the point-of-sale, the Kitchen Display System (KDS), and even the IoT fryers keep communicating locally and processing orders flawlessly even if the store completely loses external internet. The IT setup at a busy Chick-fil-A is tougher than what you would find at most small tech startups—because the revenue impact of a 30-minute outage during lunch rush is measured in thousands of dollars.
 
 ## Frequently Asked Questions
 
 ### Do iPOS team members get paid more than inside workers?
 
-iPOS team members are generally paid the same base hourly rate as other front-of-house team members. However, some Operators offer a small premium or prioritize iPOS workers for more total weekly hours because the role requires strong interpersonal skills, speed under pressure, and the willingness to work in uncomfortable weather conditions. The role is also seen as a proving ground for leadership potential—team members who excel at iPOS are often fast-tracked for promotion.
+iPOS team members are generally paid the same base hourly rate as other front-of-house team members. some Operators offer a small premium or prioritize iPOS workers for more total weekly hours because the role requires strong interpersonal skills, speed under pressure, and the willingness to work in uncomfortable weather conditions. The role is also seen as a proving ground for leadership potential—team members who excel at iPOS are often fast-tracked for promotion.
 
 ### Can customers still use the speaker box when iPOS is active?
 

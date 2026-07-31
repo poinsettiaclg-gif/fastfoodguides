@@ -71,7 +71,7 @@ And while Big Mac buns are toasted in a vertical contact toaster in 10 seconds, 
 
 When I ran shift operations, our primary battle wasn't just cooking speed—it was holding integrity. The Universal Holding Cabinet (UHC) is the technological brain of a fast food kitchen. It maintains cooked inventory at precise serving temperatures using independent heating elements above and below each plastic tray slot.
 
-However, each protein requires radically different ambient holding conditions:
+each protein requires radically different ambient holding conditions:
 - **10:1 Beef Patties:** Held at 155°F (68°C) in a low-humidity slot with a maximum holding time of 15 minutes before the meat oxidizes and dries out.
 - **Fried Chicken Fillets:** Held at 160°F (71°C) in an open, unsealed tray allowing ambient airflow so steam escapes without making the exterior batter soggy.
 - **Filet-O-Fish Patties:** Held at 150°F (65°C) inside a tray sealed with a heavy plastic lid to trap moisture and prevent the delicate fish flake from dehydrating into rubber.
@@ -104,7 +104,7 @@ Even worse, corporate safety auditors recognized a severe legal and medical liab
 
 To resolve the operational crisis without alienating online creators, corporate McDonald's executed a brilliant operational countermove: in late January 2022, they officially added the "Land, Air, and Sea" to the digital menu kiosks and mobile app as a limited-time "Menu Hack" promotion.
 
-However, corporate embedded a mandatory operational directive in the POS software: **the kitchen crew was strictly prohibited from assembling the sandwich.** 
+corporate embedded a mandatory operational directive in the POS software: **the kitchen crew was strictly prohibited from assembling the sandwich.** 
 
 When a customer ordered the official Land, Air, and Sea, the KDS screen did not instruct the assembly line to build a giant burger. Instead, it generated three standard, independent tickets:
 - One boxed Big Mac

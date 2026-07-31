@@ -25,7 +25,7 @@ faq:
 ---
 Listen, there’s something undeniably romantic about the idea of a farm-to-table salad concept. You walk into a Sweetgreen at 12:15 PM, the line is practically out the door, the music is bumping, and a small army of team members is rhythmically tossing vibrant greens and colorful roasted vegetables in massive steel bowls. It looks effortless. It looks fresh. It looks like a perfectly choreographed dance of health and wellness. 
 
-But as a former multi-unit kitchen manager, let me tell you a little secret: that beautiful lunch rush is built on the sweat, adrenaline, and pure mechanical power of the morning prep shift. Long before the first customer contemplates adding double chicken to their Harvest Bowl, the kitchen is a battlefield. Specifically, it is a battlefield focused on processing upwards of 500 pounds of raw vegetables before 10:00 AM. 
+But as a former multi-unit kitchen manager, let me tell you a little secret: that beautiful lunch rush is built on the sweat, adrenaline, and pure mechanical power of the morning prep shift. Long before the first customer contemplates adding double chicken to their Harvest Bowl, the kitchen is a battlefield. it is a battlefield focused on processing upwards of 500 pounds of raw vegetables before 10:00 AM. 
 
 If you want to understand what makes a high-volume scratch kitchen tick, you have to look at the opening hours. It is an intricate ballet of logistics, heavy machinery, and cold water. Let’s pull back the curtain and look at exactly how the Sweetgreen morning prep shift manages to turn a literal mountain of farm-fresh produce into the pristine, uniform ingredients you see on the service line.
 
@@ -48,7 +48,7 @@ By 6:15 AM, the stainless steel prep tables are sanitized, the cutting boards ar
 
 ## The Produce Delivery: Local Farms, Local Problems
 
-One of Sweetgreen’s biggest selling points is its commitment to local sourcing. It's a noble mission, and it results in a demonstrably better-tasting product. However, from a kitchen management perspective, "local produce" is just a polite way of saying "wildly inconsistent produce."
+One of Sweetgreen’s biggest selling points is its commitment to local sourcing. It's a noble mission, and it results in a demonstrably better-tasting product. from a kitchen management perspective, "local produce" is just a polite way of saying "wildly inconsistent produce."
 
 When you rely on a national distributor like Sysco or US Foods, a case of romaine lettuce is going to look exactly the same in New York as it does in California. The heads are uniform, the dirt level is minimal, and the yield is predictable. When you are sourcing from regional farms, as Sweetgreen does, you are at the mercy of the weather, the season, and the specific soil of that farm. 
 

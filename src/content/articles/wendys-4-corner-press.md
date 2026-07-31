@@ -15,7 +15,7 @@ faq:
     it from shrinking and curling on the grill.
 - question: Do Wendy's cooks still use the 4-Corner Press today?
   answer: In many modern locations, the introduction of double-sided clamshell grills
-    has automated much of the pressing process. However, the technique is still taught
+    has automated much of the pressing process. the technique is still taught
     for flat-top operations and remains a piece of core company lore from their 1989
     Grill Skills video.
 relatedArticles:

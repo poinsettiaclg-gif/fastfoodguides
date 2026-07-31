@@ -73,7 +73,7 @@ If an employee misses a single O-ring, or forgets to lube the drive shaft seal, 
 
 When the C602 machine locks out during a shift, the digital readout displays cryptic hexadecimal error codes or vague notifications like "LOAD LIQUID" or "HEAT CYCLE FAIL." To figure out what actually went wrong, a manager must enter a hidden diagnostic menu by pressing a specific button combination on the touchpad (typically holding down the cone symbol and the snowflake symbol simultaneously while pressing the arrow keys). 
 
-Once inside the technician menu, managers must navigate through dozens of sensor readings, including:
+Once inside the technician menu, managers must get through dozens of sensor readings, including:
 - **Viscosity Sensor Calibration:** Measures the resistance against the beater blades to determine if the soft serve is firm enough. If the belt slips or the motor draws incorrect amperage, the machine assumes the mix is freezing solid and triggers an immediate emergency shutdown.
 - **Hopper Thermistor Readings:** Monitors both the top and bottom temperatures of the liquid dairy mix. If the top thermistor reads above 41°F (5°C) for even a few minutes due to a loose hopper lid or ambient kitchen heat, the unit aborts the pasteurization cycle and enters mandatory lockout.
 - **Glycol Bath Levels:** The heating and cooling jacket surrounding the freezing cylinder relies on a precise glycol fluid mixture. A minor drop in glycol level causes uneven heat distribution during the night cycle, resulting in a failed pasteurization code when the morning crew arrives at 5:00 AM.
@@ -86,7 +86,7 @@ The widespread operational paralysis caused by the Taylor C602 became so severe 
 
 Kytch allowed shift managers to see exact real-time data: for example, warning them that "The hopper lid is unlatched" or "The heat cycle will fail in 15 minutes because the mix level is too low," allowing crews to fix simple physical oversights before the machine triggered a mandatory 4-hour lockout. 
 
-However, McDonald's corporate and Taylor issued mandatory directives ordering franchisees to remove all Kytch devices immediately, citing safety hazards and potential warranty voids. This sparked a national right-to-repair legal battle and an FTC inquiry into commercial kitchen equipment monopolies. Until commercial soft-serve machines adopt transparent, user-friendly software, frontline QSR workers will continue to bear the brunt of customer anger every time a $2 O-ring or a 2-degree temperature variance shuts down dessert sales for the day.
+McDonald's corporate and Taylor issued mandatory directives ordering franchisees to remove all Kytch devices immediately, citing safety hazards and potential warranty voids. This sparked a national right-to-repair legal battle and an FTC inquiry into commercial kitchen equipment monopolies. Until commercial soft-serve machines adopt transparent, user-friendly software, frontline QSR workers will continue to bear the brunt of customer anger every time a $2 O-ring or a 2-degree temperature variance shuts down dessert sales for the day.
 
 So, the next time you ask for a McFlurry and get the bad news, know that the crew is likely just as frustrated as you are. They are dealing with a hypersensitive, over-engineered piece of dairy science that decided to throw a random fault code right before the lunch rush.
 

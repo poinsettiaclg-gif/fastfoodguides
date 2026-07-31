@@ -129,7 +129,7 @@ I can't write about McDonald's fries without addressing this, because it comes u
 
 Until 1990, McDonald's cooked their fries in a blend that included beef tallow. This is part of why older customers sometimes say the fries “used to taste better.” Beef tallow has a high smoke point and gives food a rich, savory flavor. When McDonald's switched to vegetable oil in response to health concerns, they lost that flavor component.
 
-To compensate, McDonald's began adding “natural beef flavor” to the fries during the factory par-fry stage. This ingredient is derived from hydrolyzed wheat and hydrolyzed milk — it contains no actual beef or beef fat. However, because it contains wheat and milk derivatives, McDonald's fries are not suitable for people with wheat or dairy allergies, and they are not considered vegetarian by strict standards.
+To compensate, McDonald's began adding “natural beef flavor” to the fries during the factory par-fry stage. This ingredient is derived from hydrolyzed wheat and hydrolyzed milk — it contains no actual beef or beef fat. because it contains wheat and milk derivatives, McDonald's fries are not suitable for people with wheat or dairy allergies, and they are not considered vegetarian by strict standards.
 
 This has caused legal issues. In 2001, McDonald's settled a class-action lawsuit for $10 million after Hindu and vegetarian customers alleged they'd been misled about the fries being cooked in pure vegetable oil. Since then, McDonald's has been more transparent about the beef flavoring in their ingredient disclosures.
 

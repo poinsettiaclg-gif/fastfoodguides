@@ -27,7 +27,7 @@ If you're filling out a Sonic application and the thought of strapping wheels to
 
 ## Is Skating Actually Required?
 
-The short answer is no, and it's important to understand why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
+The short answer is no, and here is why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
 
 
 

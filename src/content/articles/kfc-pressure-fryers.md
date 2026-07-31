@@ -80,7 +80,7 @@ A full oil change—where the old oil is completely drained and replaced with fr
 
 ### Has anyone ever been seriously injured by the pressure mechanism itself?
 
-Serious injuries from the pressure system failing are extremely rare in modern KFC locations specifically because of the mechanical safety locks. The engineering is deliberately over-built—there is no software to crash, no electronic override to fail. The vast majority of burn injuries in KFC kitchens come from the drop or from oil filtration, not from the pressure system. When maintained on schedule, the Collectramatic's safety systems are remarkably robust.
+Serious injuries from the pressure system failing are extremely rare in modern KFC locations specifically because of the mechanical safety locks. The engineering is deliberately over-built—there is no software to crash, no electronic override to fail. The vast majority of burn injuries in KFC kitchens come from the drop or from oil filtration, not from the pressure system. When maintained on schedule, the Collectramatic's safety systems are highly reliable.
 
 ### Can you buy a pressure fryer for home use?
 

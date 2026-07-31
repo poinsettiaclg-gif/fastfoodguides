@@ -22,7 +22,7 @@ heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
 Getting hired at Taco Bell is the easy part. Surviving your first week on the makeline—the food assembly line where every burrito, taco, and crunchwrap in the store is built—is where people either figure it out or fall apart. 
 
-Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. Rookies stare at the build cards posted above the line and feel overwhelmed. However, Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. 
+Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, crunchwraps, quesadillas, and bowls, plus a rotating cast of limited-time offers that change every few weeks. Rookies stare at the build cards posted above the line and feel overwhelmed. Taco Bell does not actually have 50 different items. They have about 8 core ingredients folded, wrapped, and pressed into 50 different shapes. Once you see the pattern, the entire menu collapses into something manageable. 
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
@@ -107,7 +107,7 @@ If you catch the mistake before it reaches the customer, discard it and rebuild 
 
 ### Do I need to memorize the prices too?
 
-No. The POS system and the cashier handle pricing. Your job on the makeline is to build correctly and portion accurately. However, knowing the approximate price of common items helps if you are ever pulled to the front counter to answer customer questions. The [drive-thru timer](/articles/taco-bell-drive-thru-timer) is what matters on the operations side—not the price tags.
+No. The POS system and the cashier handle pricing. Your job on the makeline is to build correctly and portion accurately. knowing the approximate price of common items helps if you are ever pulled to the front counter to answer customer questions. The [drive-thru timer](/articles/taco-bell-drive-thru-timer) is what matters on the operations side—not the price tags.
 
 ---
 

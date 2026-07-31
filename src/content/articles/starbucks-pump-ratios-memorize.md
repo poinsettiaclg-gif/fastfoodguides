@@ -10,7 +10,7 @@ chain: Starbucks
 topic: Coffee
 heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
-- question: What is a 'pump' in terms of volume?
+- question: What is a 'pump' by volume?
   answer: A single full hot bar pump of thin syrup generally equals about 0.25 fluid
     ounces, whereas thick sauces dispense about 0.5 fluid ounces per pump.
 - question: How do I cut sweetness without changing the drink profile?

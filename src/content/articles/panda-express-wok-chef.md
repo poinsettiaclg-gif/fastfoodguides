@@ -26,7 +26,7 @@ heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 I spent my first six months at Panda Express with no hair on my knuckles and a permanent ache in my right shoulder. The wok station isn't just a kitchen job—it's an athletic event. Wok Chefs stand over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce at a speed that would make most home cooks panic. This isn't a flat-top grill job or pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. 
 
-I've trained people across multiple chains, and no exaggeration — honestly — the Panda Express wok station is in a league of its own when it comes to physical punishment. 
+I've trained people across multiple chains, and no exaggeration — honestly — the Panda Express wok station is in a league of its own for physical punishment. 
 
 ## The Heat and the Fire
 

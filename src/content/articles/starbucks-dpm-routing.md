@@ -28,7 +28,7 @@ faq:
 ---
 If you have ever stood inside a high-volume Starbucks during the 8:00 AM morning peak, you have witnessed a level of operational density that feels like organized chaos. Blenders are roaring on the Cold Bar, milk pitchers are steaming on the [Mastrena espresso machines](/articles/starbucks-mastrena-espresso-calibration), and dozens of customized mobile order cups line the handoff plane.
 
-To the untrained eye, it looks like an uncoordinated scramble. Behind the counter, however, every single beverage movement is governed by a piece of corporate software known as the **Digital Production Manager (DPM)**.
+To the untrained eye, it looks like an uncoordinated scramble. Behind the counter, every single beverage movement is governed by a piece of corporate software known as the **Digital Production Manager (DPM)**.
 
 The DPM is the tablet interface (typically running on iPad hardware mounted at eye level above the espresso bars and handoff plane) that acts as the air traffic control tower for modern Starbucks operations. It has completely replaced the legacy system of hand-writing cups with Sharpies, turning drink execution into a routed digital pipeline. The operational mechanics for routing and managing orders are as follows:
 

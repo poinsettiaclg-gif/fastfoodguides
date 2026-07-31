@@ -50,7 +50,7 @@ The operational reality inside the Mastrena super-automatic espresso machine whe
 To understand why a 4-shot espresso build creates friction behind the bar, you have to examine the mechanical limitations of the commercial espresso equipment used across Starbucks locations. Unlike traditional manual espresso machines where baristas tamp coffee into separate portafilters, Starbucks utilizes proprietary automated super-automatic machines known as the **Mastrena** (and the newer Mastrena II).
 
 ### The Dual-Shot Mechanical Cycle
-The Mastrena is internally calibrated to grind, dose, tamp, and extract espresso in automated cycles. However, the brewing chamber geometry is physically constrained: a single group head can only hold enough ground coffee (approximately 14 to 18 grams) to extract a maximum of two shots (a double shot, or *doppio*) per mechanical cycle.
+The Mastrena is internally calibrated to grind, dose, tamp, and extract espresso in automated cycles. the brewing chamber geometry is physically constrained: a single group head can only hold enough ground coffee (approximately 14 to 18 grams) to extract a maximum of two shots (a double shot, or *doppio*) per mechanical cycle.
 
 A standard double-shot extraction cycle takes between **18 and 22 seconds** from grinding to final drip. When a customer orders a standard Grande latte (which contains two shots), the machine executes a single grinding and pulling cycle, allowing the barista to steam milk simultaneously and complete the drink in roughly 30 seconds.
 

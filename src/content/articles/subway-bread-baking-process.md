@@ -89,7 +89,7 @@ The combination is so potent that it permeates the walls, ceiling tiles, and HVA
 
 ### Does Subway actually bake fresh bread every day?
 
-Yes. Bread is baked on-site every single day, often multiple times per day. However, the dough itself is not made from scratch in the store—it arrives frozen and pre-formed from a central supplier. The thawing, proofing, scoring, and baking all happen in the restaurant. Any bread remaining at the end of the day is discarded. It is never served the next day because it goes stale and loses its texture overnight.
+Yes. Bread is baked on-site every single day, often multiple times per day. the dough itself is not made from scratch in the store—it arrives frozen and pre-formed from a central supplier. The thawing, proofing, scoring, and baking all happen in the restaurant. Any bread remaining at closing time is discarded. It is never served the next day because it goes stale and loses its texture overnight.
 
 ### Why does the bread taste different at different Subway locations?
 
@@ -97,7 +97,7 @@ The dough and ingredients are standardized across all locations, but small varia
 
 ### Can customers request a specific bread that is not currently available?
 
-If the store is out of a particular bread type, the Sandwich Artist will usually offer the closest available alternative. Baking a single loaf on demand is not practical because the proofing and baking cycle takes well over an hour. However, if you are a regular, you can ask the staff what time certain breads are typically baked and time your visit accordingly. Most stores are happy to share their baking schedule with repeat customers.
+If the store is out of a particular bread type, the Sandwich Artist will usually offer the closest available alternative. Baking a single loaf on demand is not practical because the proofing and baking cycle takes well over an hour. if you are a regular, you can ask the staff what time certain breads are typically baked and time your visit accordingly. Most stores are happy to share their baking schedule with repeat customers.
 
 ---
 

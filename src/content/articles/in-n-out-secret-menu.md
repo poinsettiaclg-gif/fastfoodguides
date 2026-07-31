@@ -64,7 +64,7 @@ Then there are the niche modifiers that come up less frequently but will absolut
 
 ## Navigating the Drink Screen Without Losing Your Place
 
-One area that consistently trips up new Associates is the transition from the food screen to the drink screen. After punching in burger and fry modifications, you have to navigate to the beverage menu for shakes, sodas, or lemonade. In-N-Out shakes are made with real ice cream and are wildly popular, so you'll toggle between food modifiers and shake flavor selections constantly.
+One area that consistently trips up new Associates is the transition from the food screen to the drink screen. After punching in burger and fry modifications, you have to work to the beverage menu for shakes, sodas, or lemonade. In-N-Out shakes are made with real ice cream and are wildly popular, so you'll toggle between food modifiers and shake flavor selections constantly.
 
 <div class="callout callout-tip">**ProTip:** Don't bounce between screens! Always finish all food items for one customer before touching the drink screen. Bouncing back and forth will cause you to lose track of the order and end up with missing items on the receipt.</div>
 

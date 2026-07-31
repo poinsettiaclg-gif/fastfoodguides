@@ -103,7 +103,7 @@ It depends heavily on the location and the age of the equipment. A brand-new sto
 
 ### Do employees get paid extra for working during a crash?
 
-No. There is no special "crash pay" or bonus for surviving a system failure. You earn your regular hourly wage. However, many managers will reward the crew with free meals after a particularly brutal crash shift as a morale booster. I always made sure to do this — when your team just survived two hours of paper-slip chaos, the least you can do is buy them dinner.
+No. There is no special "crash pay" or bonus for surviving a system failure. You earn your regular hourly wage. many managers will reward the crew with free meals after a particularly brutal crash shift as a morale booster. I always made sure to do this — when your team just survived two hours of paper-slip chaos, the least you can do is buy them dinner.
 
 ### Can the store just close during a crash?
 

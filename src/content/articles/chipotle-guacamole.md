@@ -12,11 +12,11 @@ relatedArticles:
 - chipotle-fajita-veggie-cut
 faq:
 - question: How many avocados are in a batch of Chipotle guacamole?
-  answer: A standard batch requires 48 whole, ripe Hass avocados. However, depending
+  answer: A standard batch requires 48 whole, ripe Hass avocados. depending
     on avocado size, a single case from a distributor can contain anywhere from 32
     to 84 avocados.
 - question: Does Chipotle use a machine to make their guacamole?
-  answer: Traditionally, it is hand-mashed by prep cooks. However, Chipotle is testing
+  answer: Traditionally, it is hand-mashed by prep cooks. Chipotle is testing
     a cobotic device called 'Autocado' that automatically cuts, cores, and peels the
     avocados to reduce prep time.
 heroImage: ../../assets/images/general/generic-fryer-2.webp

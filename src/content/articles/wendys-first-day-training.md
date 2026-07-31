@@ -79,7 +79,7 @@ The best thing you can do on your first day is bring a pen, listen more than you
 Once you get past the initial orientation and observation shifts, your managers will begin evaluating your progress against specific Wendy's operational metrics. This is what we look for by the end of your first full week:
 
 ### 1. Drive-Thru Window Rhythm
-If you are assigned to the window or cashier position, accuracy is prioritized over speed for the first three days. However, by day five, you should understand how to stage drinks and bag items without needing a trainer hovering over your shoulder. Remember: never hand a customer a drink without checking the lid seal and verifying that straws and napkins are in the bag.
+If you are assigned to the window or cashier position, accuracy is prioritized over speed for the first three days. by day five, you should understand how to stage drinks and bag items without needing a trainer hovering over your shoulder. Remember: never hand a customer a drink without checking the lid seal and verifying that straws and napkins are in the bag.
 
 ### 2. Grill & Sandwich Station Safety
 If you move to back-of-house operations, your trainer will introduce you to the temperature logs and timer protocols. Fresh beef requires continuous vigilance; you must learn to visually identify when patties reach the proper hold temperature in the UHC (Universal Holding Cabinet) and when chili meat needs to be transferred to the staging pan. The UHC holding slots for the beef are set to a strict 165°F to maintain safety standards.

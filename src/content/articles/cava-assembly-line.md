@@ -20,7 +20,7 @@ faq:
     audits' where they randomly weigh completed bowls.
 - question: Why does the Cava line sometimes stop moving?
   answer: Bottlenecks usually happen at the Protein & Toppings station, where customers
-    take the longest to decide. However, if the Base Station worker (who controls
+    take the longest to decide. if the Base Station worker (who controls
     the pace) stops to wait for an indecisive customer instead of using the 'skip
     and return' technique, the whole line starves.
 ---

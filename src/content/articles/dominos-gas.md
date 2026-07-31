@@ -21,7 +21,7 @@ faq:
     odometer.
 - question: Does the mileage reimbursement cover wear and tear?
   answer: Technically yes, the IRS-influenced rate is meant to cover gas, depreciation,
-    and maintenance. However, how well it actually covers wear and tear depends entirely
+    and maintenance. how well it actually covers wear and tear depends entirely
     on the fuel efficiency and age of the vehicle you drive.
 ---
 Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. 

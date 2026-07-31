@@ -154,7 +154,7 @@ Managers receive a specific Lent prep guide from corporate about 3 weeks before 
 
 ## How Often Should Long John Silver's Fryer Oil Be Changed?
 
-Under normal operating conditions, a full oil change happens every 3–5 days per vat. However, this varies based on volume. A store running 400+ pieces of fish per day might need to change oil every 2–3 days, while a slower store could stretch to 5–6 days with diligent daily filtration. The key metric is a Total Polar Materials (TPM) test—if the oil's TPM reading exceeds 24%, it's time for a full change regardless of the calendar. Most stores use a Testo 270 cooking oil tester to check TPM levels daily.
+Under normal operating conditions, a full oil change happens every 3–5 days per vat. this varies based on volume. A store running 400+ pieces of fish per day might need to change oil every 2–3 days, while a slower store could stretch to 5–6 days with diligent daily filtration. The key metric is a Total Polar Materials (TPM) test—if the oil's TPM reading exceeds 24%, it's time for a full change regardless of the calendar. Most stores use a Testo 270 cooking oil tester to check TPM levels daily.
 
 ## Why Are Hush Puppies Fried Separately From Fish?
 

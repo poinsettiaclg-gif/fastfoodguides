@@ -52,7 +52,7 @@ To understand why kitchen crews assign the T-Rex Burger an automatic 10/10 annoy
 ### The Mathematics of Platen Geometry
 A standard commercial Wendy's clamshell grill is divided into distinct platen sections. Each heating platen operates at 350°F (177°C) on the upper clamshell hood and 375°F (190°C) on the bottom griddle surface. To maintain strict food safety standards without drying out fresh beef, the platen lowers automatically, cooking both sides of the patty simultaneously in roughly 2 minutes and 15 seconds.
 
-Specifically, a single standard platen zone is engineered to hold exactly **eight 4-ounce square patties** per cooking drop (or up to twelve patties on larger high-volume grill configurations). 
+a single standard platen zone is engineered to hold exactly **eight 4-ounce square patties** per cooking drop (or up to twelve patties on larger high-volume grill configurations). 
 
 When a cashier rings up a 9-patty T-Rex Burger during a noon lunch rush, that single order consumes 100% of an entire platen cooking zone. For the next 135 seconds, the grill operator cannot drop beef for a single Dave's Double, Baconator, or Junior Bacon Cheeseburger. If three cars in the drive-thru are waiting on double cheeseburgers, their tickets immediately stall. A single T-Rex build creates an instant 3-minute traffic jam across the entire restaurant, causing overhead drive-thru timers to flash critical red warnings.
 
@@ -85,7 +85,7 @@ A standard Dave's Single or Double relies on the structural integrity of a premi
 In addition, as the nine slices of American cheese melt between the hot 375°F beef layers, they form an impermeable dairy barrier that traps rendered fat inside the stack. Because there is no escape route for the liquid grease, it pools within the center of the tower. When the sandwich builder attempts to transfer the build from the cutting board to the wrapper, the internal cheese layers act as lubricated slide-planes, causing the nine patties to skew and topple like a collapsing Jenga tower.
 
 ### Foil Wrapper Structural Failure
-Wendy's utilizes a specialized, heat-retaining foil-and-paper laminated wrap designed to keep sandwiches hot without turning the buns soggy. However, these foil sheets are manufactured to accommodate a maximum sandwich thickness equivalent to a Dave's Triple (approximately 3 to 3.5 inches).
+Wendy's utilizes a specialized, heat-retaining foil-and-paper laminated wrap designed to keep sandwiches hot without turning the buns soggy. these foil sheets are manufactured to accommodate a maximum sandwich thickness equivalent to a Dave's Triple (approximately 3 to 3.5 inches).
 
 When faced with a 6-inch meat cube, a single foil sheet cannot reach around the circumference of the burger. The sandwich builder is forced to execute an ad-hoc "double-wrap" maneuver, pulling two overlapping foil sheets across the top and crimping the edges together. Despite this reinforcement, the intense heat and liquid grease trapped inside the foil envelope immediately vaporize, steaming the premium bun into a mushy, unrecognizable paste before the customer even carries the bag out the door.
 

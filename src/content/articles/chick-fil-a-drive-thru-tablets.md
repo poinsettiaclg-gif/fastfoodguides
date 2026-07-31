@@ -72,7 +72,7 @@ The biggest challenge with the iPOS system isn't the technology; it's the weathe
 
 The company has invested millions in mitigating this. If you drive past a Chick-fil-A in the summer, you will see the outdoor team wearing specialized cooling vests that hold frozen gel packs. They wear wide-brimmed safari hats, and the stores construct massive, permanent metal canopies over the drive-thru lanes equipped with high-powered industrial fans and misting systems.
 
-In the winter, they deploy heavy parkas, thermal pods, and propane heaters. However, there are strict corporate safety guidelines. If there is lightning within a certain radius, or if temperatures drop below a dangerous threshold, the outdoor team is immediately pulled inside, and the store reverts back to the traditional speaker box. 
+In the winter, they deploy heavy parkas, thermal pods, and propane heaters. there are strict corporate safety guidelines. If there is lightning within a certain radius, or if temperatures drop below a dangerous threshold, the outdoor team is immediately pulled inside, and the store reverts back to the traditional speaker box. 
 
 When this happens, the sudden drop in order velocity hits the store like a brick wall. The line immediately backs up into the street.
 

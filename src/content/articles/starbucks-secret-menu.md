@@ -103,7 +103,7 @@ When you understand this system, you realize that any “secret menu” drink is
 
 The Starbucks point-of-sale system is designed to handle customization. Every modifier has a button. Every syrup, every milk, every add-on can be rung up individually. But here's what customers don't see: each modification adds time at two points in the process.
 
-First, it adds time at the register. The cashier has to navigate through multiple screens to input each modification. A simple latte takes about 5 seconds to ring up. A heavily customized drink with four syrup modifications, a milk swap, extra shots, cold foam, and drizzle can take 30 to 45 seconds. That doesn't sound like much, but when there are 15 people in line, those extra seconds compound rapidly.
+First, it adds time at the register. The cashier has to get through multiple screens to input each modification. A simple latte takes about 5 seconds to ring up. A heavily customized drink with four syrup modifications, a milk swap, extra shots, cold foam, and drizzle can take 30 to 45 seconds. That doesn't sound like much, but when there are 15 people in line, those extra seconds compound rapidly.
 
 Second — and this is the bigger bottleneck — each modification adds time at the bar. The barista has to read a ticket that might have 8 or 10 lines of modifications, interpret them all correctly, execute them in the right sequence, and maintain quality. Miss one modification and the customer sends it back, which creates a remake that further backs up the queue. During peak, a barista is working on two to three drinks simultaneously, reading tickets while pulling shots while steaming milk. A drink with 10 modifications requires more cognitive load than three simple drinks combined.
 

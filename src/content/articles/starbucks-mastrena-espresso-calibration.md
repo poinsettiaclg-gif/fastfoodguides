@@ -50,7 +50,7 @@ In a traditional coffee shop, the barista manually adjusts the burr grinder thro
 
 The Mastrena II automates this, but the barista still has to guide it. The machine constantly monitors its own shot times. If it pulls three consecutive shots at 16 seconds (too fast), the internal computer recognizes that the coffee is under-extracting. It will automatically adjust the internal burrs to grind the beans finer for the next shot, slowing the water down.
 
-However, the machine can only adjust in tiny increments. If the barista pulls a terribly fast shot (say, 12 seconds), they have to manually intervene. They twist the small calibration knob on the front of the machine, forcing it to recalibrate faster, and then pull "throwaway" shots until the timer creeps back up into the 18-23 second range.
+the machine can only adjust in tiny increments. If the barista pulls a terribly fast shot (say, 12 seconds), they have to manually intervene. They twist the small calibration knob on the front of the machine, forcing it to recalibrate faster, and then pull "throwaway" shots until the timer creeps back up into the 18-23 second range.
 
 <div class="callout callout-tip">**ProTip:** If you need to stop a sequence of shots quickly, press and hold the dial for several seconds. This cancels the current shot and clears the queue, which is faster than repeatedly tapping the cancel button.</div>
 

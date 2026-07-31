@@ -65,7 +65,7 @@ If you aren't on the register, you will likely be assigned to Customer Support. 
 ## What You Won't Do: The Bar
 
 You will likely not be placed on the Hot Bar or Cold Bar on day one to make customer drinks. 
-However, your trainer might pull you aside during a slow period to introduce you to the **Mastrena** (the espresso machine). You will learn how to pull a shot, what a "dead shot" looks like (it turns completely black after 10 seconds and tastes like ash), and the absolute basics of milk steaming (aerating for 3-5 seconds). 
+your trainer might pull you aside during a slow period to introduce you to the **Mastrena** (the espresso machine). You will learn how to pull a shot, what a "dead shot" looks like (it turns completely black after 10 seconds and tastes like ash), and the absolute basics of milk steaming (aerating for 3-5 seconds). 
 
 ## Green Apron Pitfalls: What Sinks New Partners
 

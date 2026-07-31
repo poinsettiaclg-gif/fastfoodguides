@@ -1,6 +1,6 @@
 ---
 title: 'The McDonald''s Q-ing Oven: The 2000-Watt Unsung Hero of the Breakfast Rush'
-description: A deep dive into the McDonald's Q-ing oven. An operations manager breaks
+description: A look at the McDonald's Q-ing oven. An operations manager breaks
   down how this 2000-watt commercial microwave dictates the speed of the breakfast
   line.
 pubDate: '2024-12-20'
@@ -79,7 +79,7 @@ To prevent this, the maintenance protocol requires employees to scrub the cerami
 
 Every domestic kitchen user knows you cannot put metal in a microwave. But when you are working in a commercial Q-ing environment, where literally every utensil, tray, and spatula is made of stainless steel, enforcing the 'no-metal' rule is a constant battle for kitchen managers.
 
-McDonald's utilizes high-heat plastic trays and specific silicone liners for the Q-ing oven. However, during an overwhelming breakfast rush when the silicone liners are all sitting in the dish pit waiting to be washed, panicked crew members will sometimes attempt to cut corners. If an employee accidentally leaves a metal pair of tongs resting on the tray, or worse, attempts to Q a product sitting directly on a stainless steel prep pan, the results are catastrophic. 
+McDonald's utilizes high-heat plastic trays and specific silicone liners for the Q-ing oven. during an overwhelming breakfast rush when the silicone liners are all sitting in the dish pit waiting to be washed, panicked crew members will sometimes attempt to cut corners. If an employee accidentally leaves a metal pair of tongs resting on the tray, or worse, attempts to Q a product sitting directly on a stainless steel prep pan, the results are catastrophic. 
 
 The 2000-watt magnetron will immediately arc, producing a terrifying light show and a loud pop that sounds like a gunshot. This will instantly fry the magnetron, turning a $1,500 piece of essential kitchen equipment into a useless metal box. When this happens, the store manager has to explain to the franchise owner why their drive-thru times just jumped by three minutes, and the employee is generally sent home.
 

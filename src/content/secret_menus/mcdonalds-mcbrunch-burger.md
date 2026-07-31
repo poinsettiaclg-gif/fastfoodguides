@@ -65,7 +65,7 @@ To make a McBrunch Burger, the kitchen must cook raw lunch beef while simultaneo
 
 ### 2. POS Ring-Up Friction
 Because the McBrunch Burger does not exist in corporate POS databases, cashiers cannot simply hit a button. 
-*   To ring it up legitimately without messing up inventory counts, the cashier must ring up a Double Cheeseburger, navigate to the breakfast modifier screen (if the system has not already locked out breakfast sales at 10:30 AM sharp), and hit **"Add Round Egg ($1.29)"** and **"Add Hash Brown ($2.19)."**
+*   To ring it up legitimately without messing up inventory counts, the cashier must ring up a Double Cheeseburger, work to the breakfast modifier screen (if the system has not already locked out breakfast sales at 10:30 AM sharp), and hit **"Add Round Egg ($1.29)"** and **"Add Hash Brown ($2.19)."**
 *   In many franchise POS systems, once the clock strikes 10:30:00 AM, the POS software automatically hard-locks all breakfast modifier keys, making it computer-impossible to ring up a hash brown on a lunch receipt.
 
 <div class="callout callout-tip">

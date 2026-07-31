@@ -83,7 +83,7 @@ When the Area Manager visits—typically once a week or biweekly—drive-thru ti
 
 ### Do customers know they are being timed?
 
-Most customers have no idea. The timer system is entirely internal—there are no visible clocks or countdowns on the customer side. However, if a customer takes an unusually long time at the speaker, the order taker may gently prompt them with "Are you ready to order?" to keep the menu board time from spiraling.
+Most customers have no idea. The timer system is entirely internal—there are no visible clocks or countdowns on the customer side. if a customer takes an unusually long time at the speaker, the order taker may gently prompt them with "Are you ready to order?" to keep the menu board time from spiraling.
 
 ### What happens if the sensors malfunction?
 
@@ -91,7 +91,7 @@ The store contacts their drive-thru technology vendor to send a technician. In t
 
 ### Can employees get in trouble for "hacking" the timer?
 
-Practices like pulling cars forward are considered acceptable operational strategies by most franchise owners because they genuinely improve customer flow. However, if a store gets caught using egregious tricks—like having customers pull around the building and re-enter the drive-thru to split one long transaction into two short ones—it can result in disciplinary action and loss of credibility with the franchise group.
+Practices like pulling cars forward are considered acceptable operational strategies by most franchise owners because they genuinely improve customer flow. if a store gets caught using egregious tricks—like having customers pull around the building and re-enter the drive-thru to split one long transaction into two short ones—it can result in disciplinary action and loss of credibility with the franchise group.
 
 ---
 

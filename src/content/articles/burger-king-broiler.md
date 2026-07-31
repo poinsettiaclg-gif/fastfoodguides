@@ -17,7 +17,7 @@ heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
 - question: Can customers order a burger 'hot off the broiler'?
   answer: Yes, customers can request their burger 'hot off the broiler' (often abbreviated
-    as HOB) to ensure the patty doesn't come from the holding cabinet. However, during
+    as HOB) to ensure the patty doesn't come from the holding cabinet. during
     busy drive-thru rushes, this will significantly slow down the speed of service.
 - question: Who makes the Burger King broiler?
   answer: The automated chain broilers used by Burger King are primarily manufactured

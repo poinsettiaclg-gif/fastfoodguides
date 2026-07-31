@@ -1,7 +1,7 @@
 ---
 title: 'Your First Day at Taco Bell: Surviving the Make-Line and the Linebacker Role'
 description: A comprehensive operational guide to your first shift at Taco Bell. Learn
-  how to navigate the 12-ingredient steam table matrix, KDS speed timers, and the
+  how to work the 12-ingredient steam table matrix, KDS speed timers, and the
   Linebacker role.
 pubDate: '2025-11-14'
 updatedDate: '2026-07-25'

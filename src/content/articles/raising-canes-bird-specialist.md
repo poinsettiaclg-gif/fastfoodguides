@@ -21,7 +21,7 @@ faq:
     but mastering demand anticipation takes longer.
 - question: Is the Bird Specialist position paid more than other roles?
   answer: In many locations, they earn the same base hourly rate as other crew members.
-    However, because it's the most demanding position in the kitchen, it's often one
+    because it's the most demanding position in the kitchen, it's often one
     of the first roles considered for pay raises and promotions.
 ---
 Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. 

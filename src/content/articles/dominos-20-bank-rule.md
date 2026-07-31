@@ -17,7 +17,7 @@ faq:
     change to break large bills. If a customer tries to pay with a $50 or $100, the
     driver must decline for safety and policy reasons.
 - question: Do you have to drop cash tips in the smart safe?
-  answer: No, cash tips are yours to keep on your person. However, you must immediately
+  answer: No, cash tips are yours to keep on your person. you must immediately
     drop any store cash collected for an order into the safe upon returning from a
     run to maintain the $20 limit.
 ---
@@ -81,7 +81,7 @@ For more on the financial realities of delivery driving, check out [Do Domino's 
 
 ### Can customers tip with cash without it violating the rule?
 
-Yes. Cash tips are yours to keep and are not counted as part of the store's bank. However, if a cash tip pushes your total cash-on-hand significantly over $20, you should still perform a cash drop when you return to the store to stay within the spirit of the policy. Some stores require you to drop everything except the original $20 bank—tips included—and then your accumulated tips are returned to you at the end of the shift during cash-out. Ask your manager which system your store uses on your first day.
+Yes. Cash tips are yours to keep and are not counted as part of the store's bank. if a cash tip pushes your total cash-on-hand significantly over $20, you should still perform a cash drop when you return to the store to stay within the spirit of the policy. Some stores require you to drop everything except the original $20 bank—tips included—and then your accumulated tips are returned to you at the end of the shift during cash-out. Ask your manager which system your store uses on your first day.
 
 ### What if a customer doesn't have exact change and you can't make change from your $20?
 

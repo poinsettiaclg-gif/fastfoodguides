@@ -119,7 +119,7 @@ You can try, but you won't get anywhere useful. Most crew members genuinely don'
 
 ### Is Zax Sauce gluten-free?
 
-Based on the known ingredients, Zax Sauce should be gluten-free — mayo, ketchup, garlic powder, Worcestershire, pepper, and onion powder don't typically contain gluten. However, Worcestershire sauce sometimes contains malt vinegar, which is derived from barley. Zaxby's hasn't made an official gluten-free claim on the sauce, so if you have celiac disease, it's worth asking for allergen information directly.
+Based on the known ingredients, Zax Sauce should be gluten-free — mayo, ketchup, garlic powder, Worcestershire, pepper, and onion powder don't typically contain gluten. Worcestershire sauce sometimes contains malt vinegar, which is derived from barley. Zaxby's hasn't made an official gluten-free claim on the sauce, so if you have celiac disease, it's worth asking for allergen information directly.
 
 ### Has the Zax Sauce recipe changed over the years?
 

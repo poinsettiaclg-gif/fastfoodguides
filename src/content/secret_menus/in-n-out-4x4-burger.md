@@ -76,7 +76,7 @@ The primary engineering failure of the 4x4 Burger is not height—it is internal
 
 In-N-Out uses real, high-melt American cheese squares engineered with a specific moisture-to-fat ratio to achieve a classic, creamy melt. When a single slice of cheese melts between two patties in a Double-Double, the melted cheese acts as a binding agent, adhering the rough, seared surfaces of the two meat patties together into a stable unit.
 
-However, when you scale that architecture up to four alternating layers of hot beef and cheese, you exceed the structural binding capacity of the dairy fat. 
+when you scale that architecture up to four alternating layers of hot beef and cheese, you exceed the structural binding capacity of the dairy fat. 
 
 ### The Lateral Shear Stress Breakdown
 As the four-story patty tower sits on the griddle and transfers to the dressing board, the intense cumulative thermal energy (four 2-ounce patties radiating 160°F internal heat) causes the four cheese slices to enter a state of complete fluid liquefaction. 
@@ -104,7 +104,7 @@ To successfully package a 4x4 without structural collapse, veteran board personn
 
 <div class="callout callout-warning">
   <strong>The Sponge Dough Bun Compression Limit</strong>
-  In-N-Out bakes its own old-fashioned sponge dough buns, which are toasted face-down on the griddle to create a protective barrier against tomato juice and burger spread. However, the bottom bun heel has a finite compression strength. Under the sustained static weight of four beef patties and four cheese slices, the porous sponge dough cells in the lower bun heel collapse under the moisture and grease, compressing from a 0.75-inch thickness down to a 0.2-inch wafer within three minutes of packaging.
+  In-N-Out bakes its own old-fashioned sponge dough buns, which are toasted face-down on the griddle to create a protective barrier against tomato juice and burger spread. the bottom bun heel has a finite compression strength. Under the sustained static weight of four beef patties and four cheese slices, the porous sponge dough cells in the lower bun heel collapse under the moisture and grease, compressing from a 0.75-inch thickness down to a 0.2-inch wafer within three minutes of packaging.
 </div>
 
 ## 4. The 2004 Las Vegas "100x100" Incident and The Corporate Size Cap

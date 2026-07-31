@@ -172,7 +172,7 @@ White Castle is the outlier in every comparison. No other major chain uses steam
 
 White Castle's marketing tagline has long centered around the concept of cravings, and there's a practical reason why. The combination of steamed onions, soft bread, and salty beef creates a flavor profile that triggers the same repeat-craving response as other high-sodium, high-umami foods. The onions in particular — caramelized slightly on the griddle and steamed into the beef — produce glutamate compounds that register as savory and satisfying.
 
-The small size also plays into cravability. One slider doesn't fully satisfy, so you eat another. And another. Before you know it, you've eaten six sliders, which is roughly equivalent to 1.5 regular burgers in terms of total beef. The slider format encourages consumption in a way that a single large burger doesn't.
+The small size also plays into cravability. One slider doesn't fully satisfy, so you eat another. And another. Before you know it, you've eaten six sliders, which is roughly equivalent to 1.5 regular burgers in total beef. The slider format encourages consumption in a way that a single large burger doesn't.
 
 This isn't a criticism — it's a design feature. White Castle has understood portion psychology since before the term existed. Small, inexpensive, highly flavored units that you buy in multiples. The steam-grilling method makes this possible by enabling batch production that would be impossible with traditional one-at-a-time burger cooking.
 
@@ -180,7 +180,7 @@ This isn't a criticism — it's a design feature. White Castle has understood po
 
 White Castle is one of the few QSR chains that also sells a frozen retail version of their product in grocery stores. The frozen sliders are designed to approximate the restaurant experience, and they use the same perforated patty design.
 
-However, the cooking method is different at home. The frozen sliders are typically microwaved, which uses steam from the moisture in the bun and patty to cook them. This is actually a reasonable approximation of the restaurant's steam-grilling method — microwaves heat water molecules, which creates steam, which cooks the slider.
+the cooking method is different at home. The frozen sliders are typically microwaved, which uses steam from the moisture in the bun and patty to cook them. This is actually a reasonable approximation of the restaurant's steam-grilling method — microwaves heat water molecules, which creates steam, which cooks the slider.
 
 The frozen version doesn't have the fresh onion bed, though. The onions in the frozen product are pre-cooked and frozen into the patty. They're decent for a frozen product, but they lack the fresh-steamed onion flavor of the restaurant version. If you've only had frozen White Castle, you haven't experienced the real thing.
 

@@ -28,7 +28,7 @@ faq:
 ---
 Taco Bell's entire operational business model is predicated on extreme speed of service. Unlike traditional restaurants where raw proteins are cooked to order from scratch, Taco Bell kitchens operate on a high-efficiency assembly and rethermalization system. The beef, chicken, beans, and nacho cheese arrive pre-cooked in vacuum-sealed bags and are hot-held in a 165°F water bath rethermalizer before being loaded onto the assembly line.
 
-However, there is one critical culinary step on the line that cannot be pre-cooked or skipped: **melting the shredded cheese**. 
+there is one critical culinary step on the line that cannot be pre-cooked or skipped: **melting the shredded cheese**. 
 
 Whether a customer orders a Chicken Quesadilla, a Mexican Pizza, a Cheesy Gordita Crunch, or a Cheesy Roll-Up, serving cold, unmelted cheddar and pepper jack cheese completely ruins the texture and flavor profile of the product. In a drive-thru environment where target service times are under 180 seconds from speaker post to hand-out window, waiting two minutes for cheese to melt under a standard salamander broiler is mathematically impossible.
 

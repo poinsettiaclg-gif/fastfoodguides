@@ -11,7 +11,7 @@ faq:
 - question: How long does it take Wendy's to bake a potato?
   answer: "It takes exactly one hour to bake the potatoes in a commercial convection oven at 450°F."
 - question: Are Wendy's baked potatoes microwaved?
-  answer: No, they are baked fresh in a convection oven. However, some stores may use a microwave to flash-heat a potato if they run out during a massive rush, but this violates standard protocol.
+  answer: No, they are baked fresh in a convection oven. some stores may use a microwave to flash-heat a potato if they run out during a massive rush, but this violates standard protocol.
 ---
 If there is one item on the Wendy's menu that completely throws a wrench into standard fast-food timing, it's the baked potato. While a burger takes a few minutes and fries take three, a baked potato takes a full hour to cook. Managing the potato supply during a lunch rush is a constant source of stress for the prep station. If you miscalculate the drop, you either have angry customers waiting 45 minutes for a potato, or you end up throwing away perfectly good inventory when the holding timer expires.
 
@@ -61,6 +61,6 @@ If we drop too many, food cost numbers skyrocket due to waste. If we drop too fe
 
 There is a long-standing rumor that Wendy's uses old, expired baked potatoes to make the chili. This is entirely false. The chili is made from the leftover, well-done hamburger patties that expired on the grill, not the potatoes. The chili base comes in large plastic bags that we boil and mix with the meat. Potatoes never enter the equation.
 
-However, some frugal General Managers might instruct the crew to chop up the insides of the expired potatoes to use as a thickener in the chili base if the store is running low on ingredients, though this is heavily frowned upon by corporate inspectors and violates standard operating procedures. 
+some frugal General Managers might instruct the crew to chop up the insides of the expired potatoes to use as a thickener in the chili base if the store is running low on ingredients, though this is heavily frowned upon by corporate inspectors and violates standard operating procedures. 
 
 Step by step, this is the workflow. It requires constant forecasting, a brutal 60-minute lead time, and strict quality control on the holding drawers to ensure the customer gets a fluffy, hot potato every time. Surviving the potato station is a rite of passage for any decent prep cook.

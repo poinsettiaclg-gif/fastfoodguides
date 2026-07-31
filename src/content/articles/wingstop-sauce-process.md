@@ -181,12 +181,4 @@ Here are a few practical tips based on what happens behind the counter:
 
 I've eaten my way through the entire Wingstop menu more than once, and I keep coming back to Lemon Pepper with a side of Mango Habanero for dipping. But I know people who swear by Cajun, and the Garlic Parmesan crowd is louder than anyone.
 
-What's your order? Do you go traditional or boneless? Wet or dry? And have you tried the Lemon Pepper Wet? I want to hear how other people approach the Wingstop menu — especially if you've found a combination I haven't tried yet.
-
-RR
-
-Russell Roseberry
-
-10-Year QSR Veteran & Former Kitchen Manager
-
-Russell Roseberry spent over a decade managing kitchens at major fast food chains across the Southeast. From [Chick-fil-A](/articles/chain/chick-fil-a) to [Wendy's](/articles/chain/wendys) to [Taco Bell](/articles/chain/taco-bell), he's worked every station, trained hundreds of green crew members, and learned the operational secrets that most customers never see. He created Fast Food Guides to share real insider knowledge with the people who actually want to know how the food gets made.
+If you want your wings done right, order them wet and respect the process.

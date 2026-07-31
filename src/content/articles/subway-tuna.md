@@ -94,7 +94,7 @@ Here's what subsequent, more rigorous testing found:
 **The New York Times** commissioned independent lab testing in 2021. Their results:
 
 - The lab **could not identify the species of fish** in some samples
-- However, the lab noted that **cooking and processing can break down DNA** to the point where standard PCR testing (the method used to identify fish species) becomes unreliable
+- the lab noted that **cooking and processing can break down DNA** to the point where standard PCR testing (the method used to identify fish species) becomes unreliable
 - The tuna is cooked twice — once during canning (at high temperatures for sterilization) and the proteins are further degraded by the mayonnaise's acidic environment
 - The lab explicitly stated that the **inability to detect tuna DNA does not mean the product isn't tuna** — it means the testing method has limitations for heavily processed samples
 

@@ -28,7 +28,7 @@ The store smells like fryer oil and industrial sanitizer. The manager who hired 
 
 That anxious knot in your stomach? Every single person in that building had it on their first day, including the general manager. Green crew members imagine being thrown onto a screaming drive-thru headset during a Friday night rush while angry customers yell about missing fries.
 
-The reality of your first day is much more structured, much slower-paced, and largely focused on compliance, safety, and foundational repetition. Let's break down what happens on your first day working in fast-food, what you need to bring, and how to navigate your first shift without panicking.
+The reality of your first day is much more structured, much slower-paced, and largely focused on compliance, safety, and foundational repetition. Let's break down what happens on your first day working in fast-food, what you need to bring, and how to work your first shift without panicking.
 
 ## 1. Before You Arrive: The Non-Negotiable Checklist
 

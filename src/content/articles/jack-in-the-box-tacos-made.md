@@ -89,6 +89,6 @@ The price point works because of the production efficiency. The tacos arrive pre
 
 ### Are the tacos gluten-free?
 
-The shell is a corn tortilla, which is naturally gluten-free. However, the tacos are fried in shared oil with other menu items that contain gluten, so cross-contamination risk is significant. Jack in the Box does not market the tacos as gluten-free, and if a customer has celiac disease or a serious sensitivity, you should advise them accordingly.
+The shell is a corn tortilla, which is naturally gluten-free. the tacos are fried in shared oil with other menu items that contain gluten, so cross-contamination risk is significant. Jack in the Box does not market the tacos as gluten-free, and if a customer has celiac disease or a serious sensitivity, you should advise them accordingly.
 
 ---

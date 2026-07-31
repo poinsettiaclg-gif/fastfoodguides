@@ -23,7 +23,7 @@ faq:
 ---
 ## The Hardest Job in the Kitchen
 
-Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else in terms of difficulty, pressure, and pure physical output: the Biscuit Maker.
+Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else for its difficulty, pressure, and pure physical output: the Biscuit Maker.
 
 
 
@@ -102,7 +102,7 @@ New Biscuit Makers twist instinctively. It takes weeks of repetition to break th
 
 Bojangles biscuits don't go through a proof box — that's a technique for yeast-risen doughs like dinner rolls or sandwich buns. Biscuits rely on chemical leavening (baking powder and baking soda), not yeast, so proofing isn't part of the equation.
 
-However, the freshly cut biscuits do get a brief rest at room temperature while the oven finishes preheating or between batch rotations. This window is usually about **3–5 minutes**. During this time, the leavening agents are starting their initial reaction and the gluten is relaxing slightly from the cutting and handling. It's a subtle step, but it contributes to a more even rise.
+the freshly cut biscuits do get a brief rest at room temperature while the oven finishes preheating or between batch rotations. This window is usually about **3–5 minutes**. During this time, the leavening agents are starting their initial reaction and the gluten is relaxing slightly from the cutting and handling. It's a subtle step, but it contributes to a more even rise.
 
 <div class="callout callout-tip">**ProTip:** The physical constraints of oven space and the manual labor of the 49-step process mean throughput cannot easily be scaled up without adding a second certified Biscuit Maker, which is rare in standard franchise labor models.</div>
 
