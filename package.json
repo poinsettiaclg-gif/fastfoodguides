@@ -17,7 +17,11 @@
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/tailwind": "^6.0.0",
     "astro": "^6.4.4",
+    "gray-matter": "^4.0.3",
     "tailwindcss": "^3.4.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "sharp": "^0.35.3",
+    "typescript": "^7.0.2"
+  }
 }

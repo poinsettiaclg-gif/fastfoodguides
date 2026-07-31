@@ -85,7 +85,7 @@ Zaxby's has also sold sauce bottles through their own locations and online store
 
 ## Customer Hacks for Getting More Sauce
 
-In my years in QSR, Actually every trick in the book. Here are the most common ways Zaxby's regulars get their hands on extra Zax Sauce without paying through the nose:
+In my years in QSR, I learned every trick in the book. Here are the most common ways Zaxby's regulars get their hands on extra Zax Sauce without paying through the nose:
 
 **Order your sauce on the side for items that come sauced.** If you order a Zax Snack with sauce already on the sandwich, ask for the sauce on the side instead. You'll get a portion cup in addition to whatever's on the sandwich, because most crew members will still sauce the sandwich and also give you the cup. It's not a deliberate act of generosity — it's just that the line cook and the person filling cups are usually two different people who don't communicate about it.
 

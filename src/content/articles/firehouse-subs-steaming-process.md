@@ -26,7 +26,7 @@ Firehouse doesn't toast their subs. They don't bake them. They don't grill them.
 
 Most people walk into Firehouse Subs, order a Hook & Ladder or a Hero, and never give the equipment behind the counter a second look. But if you glance past the sandwich assembly area, you'll notice a machine that looks nothing like the conveyor toaster at [Chick-fil-A Breading Process: The Pressure Cooker](/articles/chick-fil-a-breading-process/))*
 
-I've worked in QSR kitchens for over a decade, and Firehouse's approach to heating a sub is one of the smartest things Actually in the sandwich segment. Here's exactly how it works and why it matters. 
+I've worked in QSR kitchens for over a decade, and Firehouse's approach to heating a sub is one of the smartest things I have seen in the sandwich segment. Here's exactly how it works and why it matters. 
 
 ## How the Conveyor Steamer Actually Works
 

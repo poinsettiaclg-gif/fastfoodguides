@@ -94,7 +94,7 @@ Dry rubs — Desert Heat, Lemon Pepper, Salt & Vinegar, [Chipotle](/articles/cha
 
 ### Timing Is Everything
 
-Wings destined for a dry rub must be tossed **immediately** out of the fryer. Not 30 seconds later. Not after you finish the wet sauce order in front of it. Immediately. Actually: the residual oil on the wing's surface is what makes the dry rub adhere. That oil is hottest and most "active" in the first few seconds after pulling. If the wings sit for even a minute, the surface oil begins to cool and absorb back into the skin. At that point, the dry rub just slides off and collects at the bottom of the bucket — and you've got bland wings and wasted seasoning.
+Wings destined for a dry rub must be tossed **immediately** out of the fryer. Not 30 seconds later. Not after you finish the wet sauce order in front of it. Immediately. The reality is: the residual oil on the wing's surface is what makes the dry rub adhere. That oil is hottest and most "active" in the first few seconds after pulling. If the wings sit for even a minute, the surface oil begins to cool and absorb back into the skin. At that point, the dry rub just slides off and collects at the bottom of the bucket — and you've got bland wings and wasted seasoning.
 
 ### The Technique
 

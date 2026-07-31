@@ -122,7 +122,7 @@ Waffle House is a 24-hour operation, and anyone who's worked in or near one know
 
 During a late-night slam, a single grill operator might be handling a continuous stream of orders that doesn't let up for three or four hours straight. The hash brown orders pile up because that's what people crave at 2 AM — something hot, greasy, salty, and customizable.
 
-Actually ticket rails so full that servers are holding tickets in their hands waiting for a clip to open up. The grill operator is working the entire flat-top surface, every square inch, with hash browns in various stages of completion overlapping with eggs over-easy, patty melts, and scattered, smothered everything.
+During peak hours, ticket rails get so full that servers are holding tickets in their hands waiting for a clip to open up. The grill operator is working the entire flat-top surface, every square inch, with hash browns in various stages of completion overlapping with eggs over-easy, patty melts, and scattered, smothered everything.
 
 The noise level is something else too. A packed Waffle House at 1 AM on a Saturday is louder than most sports bars. Jukeboxes playing, customers yelling across the counter, servers calling out orders over the din. And through all of it, the grill operator is quietly reading markers, tracking modifications, and putting out plate after plate.
 

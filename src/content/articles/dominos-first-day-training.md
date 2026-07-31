@@ -30,7 +30,7 @@ Walking into a Domino's Pizza for your first shift feels a bit like walking into
 
 ![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
-If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput, Actually that Domino's operates on absolute precision.
+If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput, The reality is that Domino's operates on absolute precision.
 
 ## Clocking In: The Pulse Dashboard and Your First Pizza
 

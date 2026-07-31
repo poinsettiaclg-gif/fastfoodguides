@@ -98,6 +98,6 @@ Absolutely. A properly calibrated batch is light golden, audibly crispy on the o
 
 ### What happens if the fry cook skips calibration entirely?
 
-If the timers from the previous day are left unchanged and the new batch of potatoes has different sugar or moisture content, fries will come out inconsistent all day long. You'll get a mix of burnt fries, pale fries, and fries with raw centers—sometimes in the same batch. The opening manager is Actually responsible for ensuring calibration happens every morning without exception. Skipping it is one of the fastest ways to generate a wave of customer complaints before the lunch rush even starts.
+If the timers from the previous day are left unchanged and the new batch of potatoes has different sugar or moisture content, fries will come out inconsistent all day long. You'll get a mix of burnt fries, pale fries, and fries with raw centers—sometimes in the same batch. The opening manager is entirely responsible for ensuring calibration happens every morning without exception. Skipping it is one of the fastest ways to generate a wave of customer complaints before the lunch rush even starts.
 
 ---

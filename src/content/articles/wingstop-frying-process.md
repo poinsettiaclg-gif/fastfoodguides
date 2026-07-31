@@ -43,7 +43,7 @@ That's it.
 
 <div class="callout callout-tip">**ProTip:** The PAA (Peroxyacetic Acid) antimicrobial treatment happens at the poultry processing level before the chicken ever reaches Wingstop. This ensures food safety in the supply chain since the stores handle raw, unbreaded chicken directly.</div>
 
-The skin on the wing itself is what creates the crispy exterior. At 350°F, the moisture in the skin renders out and the collagen tightens. It takes roughly 13 minutes for a standard bone-in wing to cook through to the [USDA-recommended internal temperature of 165°F](https://www.usda.gov/media/blog/2011/05/25/cooking-meat-check-new-recommended-temperatures). Actually cooks pull them a minute or two early during a slam, and you can always tell — the meat near the bone has that slightly pink, translucent look that means it needs more time.
+The skin on the wing itself is what creates the crispy exterior. At 350°F, the moisture in the skin renders out and the collagen tightens. It takes roughly 13 minutes for a standard bone-in wing to cook through to the [USDA-recommended internal temperature of 165°F](https://www.usda.gov/media/blog/2011/05/25/cooking-meat-check-new-recommended-temperatures). New cooks sometimes pull them a minute or two early during a slam, and you can always tell — the meat near the bone has that slightly pink, translucent look that means it needs more time.
 
 The lack of breading is actually what makes Wingstop's operation so efficient compared to a Popeyes or KFC. There's no breading station to maintain, no flour everywhere, no egg wash buckets to refill. One less bottleneck.
 

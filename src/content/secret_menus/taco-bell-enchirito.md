@@ -55,6 +55,12 @@ Instead of wrapping the rolled tortilla in standard thermal paper, the line work
 4. **Cheese Capping:** A generous 2-ounce pinch of 3-cheese blend (mozzarella, cheddar, and Monterey Jack) is scattered across the red sauce.
 5. **Thermal Melting:** The bowl is fed into the commercial [Conveyor Steamer/Melter](/articles/taco-bell-steamer-melter). The 350°F steam chamber melts the cheese emulsion over the red sauce in approximately 18 seconds before the tray exits onto the expediting counter.
 
+<div class="callout callout-tip">**ProTip:** Ask for the three-cheese blend to be added before the red sauce. The sauce insulates the cheese in the steamer, preventing it from turning into a rubbery puck.</div>
+
+
+
+Because the Enchirito deviates from standard thermal paper packaging, it also disrupts the expediter's rhythm. When a drive-thru order consists of four crunchy tacos and one Enchirito, the expeditor has to find a flat-bottomed bag large enough to hold the black plastic bowl securely, while ensuring the tacos do not crush it. This specific packaging tetris slows down the final bagging process by at least ten seconds per order. If the lid is not snapped on perfectly tight, that scalding red sauce will leak out during the handoff, resulting in a ruined bag, a burned customer, and an immediate voided ticket.
+
 ## 2. Why The Kitchen Dreads It (Annoyance Score: 8/10)
 
 Taco Bell kitchens operate under strict labor efficiency goals, with drive-thru window times (DTO/DTR) targeted at under 50 seconds per vehicle during lunch and dinner rushes. When an off-menu Enchirito is keyed into the POS register, it causes three operational disruptions:
@@ -71,5 +77,8 @@ Taco Bell kitchens operate under strict labor efficiency goals, with drive-thru 
 </div>
 
 
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
 
+
+
+
+<div class="callout callout-tip">**ProTip:** Never try to modify this with extra sour cream before it goes into the steamer. The dairy will curdle under the 350-degree thermal blast - ask for the sour cream in a side cup instead.</div>

@@ -36,7 +36,7 @@ The principle is similar to sous-vide cooking, but way less glamorous. If your w
 
 You don't just throw bags in the water and guess when they're done. The retherm operates on strict, staggered cycles to maintain continuous product flow to the makeline. 
 
-When a bag of beef drops into the basket, it sits in that 195°F water for the full 90 minutes. The first 30 minutes or so breaks the freeze and gets heat moving into the core. The remaining time brings the internal temp above the 165°F food safety threshold. Pull it early—even five minutes short—and you risk temping below 165°F when you pan it out. That means you dump the entire pan and start over. Actually a prep cook lose three pans of beef on a Friday because he eyeballed it instead of watching the clock.
+When a bag of beef drops into the basket, it sits in that 195°F water for the full 90 minutes. The first 30 minutes or so breaks the freeze and gets heat moving into the core. The remaining time brings the internal temp above the 165°F food safety threshold. Pull it early—even five minutes short—and you risk temping below 165°F when you pan it out. That means you dump the entire pan and start over. From firsthand experience, I watched a prep cook lose three pans of beef on a Friday because he eyeballed it instead of watching the clock.
 
 ### Rack Management and FIFO
 

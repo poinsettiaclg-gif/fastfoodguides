@@ -60,7 +60,7 @@ I am going to be completely blunt: yes, it can be dangerous if you do not respec
 
 Burger King has rigorous safety protocols, and they exist for very good reasons.
 
-- **Use the Tongs:** Never use your bare hands to adjust a patty that is already on the belt near the flames. Always use the long metal tongs. Actually cooks reach in with their fingers to reposition a patty that was crooked, and every single time, they regretted it immediately.
+- **Use the Tongs:** Never use your bare hands to adjust a patty that is already on the belt near the flames. Always use the long metal tongs. New cooks sometimes reach in with their fingers to reposition a patty that was crooked, and every single time, they regretted it immediately.
 - **Stay Hydrated:** Standing in front of a 600-degree machine for an 8-hour shift will dehydrate you faster than you think. Keep a water bottle close and drink constantly. I used to go through a full gallon of water on a summer broiler shift, and I still felt dried out by the end.
 - **Wear the Right Gear:** Closed-toe, non-slip shoes are mandatory. Keep your sleeves rolled down, not up—your forearms need the protection. Many veteran broiler cooks keep a damp towel draped over one shoulder, not for cleaning, but to cool down their neck and face during intense rushes. It looks ridiculous. It works.
 - **Keep It Clean Throughout the Day:** The number one cause of dangerous flare-ups is accumulated grease. Good cooks empty the bottom catch pans periodically during their shift and use a wire brush to knock carbon off the belt during slow periods. If you wait until closing to deal with all the grease, you are asking for trouble.

@@ -52,6 +52,8 @@ A McDonald's kitchen is not designed to serve breakfast and lunch simultaneously
 *   **Fryer Station Purge:** At the [fry station](/articles/mcdonalds-fry-station), the vats designated for hash browns must be cleared, skimmed for potato flakes, and calibrated to flash-fry standard salted french fries.
 *   **UHC Cabinet Swap:** The **[Universal Holding Cabinet (UHC)](/articles/mcdonalds-uhc-cabinet-timers)**—the heated electronic holding trays that keep cooked proteins hot—undergoes a total purge. Breakfast plastic trays containing biscuits, sausage, and eggs are pulled out, discarded or logged into waste sheets, and replaced with clean trays awaiting the first drop of lunch chicken McNuggets and beef patties.
 
+<div class="callout callout-tip">**ProTip:** You must time your arrival precisely at 10:25 AM. If you show up earlier, the lunch beef is not cooked yet; if you arrive after 10:35 AM, the egg ring station is completely broken down and sanitized.</div>
+
 ## 2. Why Crossover Orders Crash the Line (Annoyance Score: 10/10)
 
 When a customer pulls up to the drive-thru speaker at 10:32 AM and demands a Double Cheeseburger stuffed with a Round Egg and a Hash Brown, they are throwing a wrench directly into the middle of this carefully timed mechanical ballet.
@@ -77,13 +79,11 @@ Because the McBrunch Burger does not exist in corporate POS databases, cashiers 
   You get the exact same legendary taste sensation while allowing the kitchen team to execute their breakfast-to-lunch changeover without a single bottleneck or POS lock-out!
 </div>
 
+<div class="callout callout-tip">**ProTip:** Ask them to ring up a standard double cheeseburger and add a round egg a la carte. It is significantly cheaper than trying to ring up a breakfast sandwich and adding beef patties.</div>
+
 ## 3. The Thermodynamic Reality of the Build
 
 Even if you manage to convince a stressed crew to assemble a McBrunch Burger on the line, the physical physics of the sandwich make it structurally volatile.
 
 *   **Grease Emulsion:** A standard Double Cheeseburger releases significant beef fat juices and melted American cheese. When you compress a deep-fried, oil-rich potato Hash Brown directly into this hot beef matrix, the combined lipid moisture exceeds the absorption capacity of the standard regular bun.
 *   **Bun Collapse:** Within 60 seconds of wrapping, the bottom heel of the bun absorbs the combined hash brown grease and beef drippings, dissolving its starch crumb structure. If not eaten immediately upon serving, the sandwich collapses into a greasy, structurally compromised mess—proving that some viral hacks are better left as social media myths than actual daily orders.
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

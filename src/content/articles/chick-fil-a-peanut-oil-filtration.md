@@ -11,21 +11,13 @@ topic: Chicken
 relatedArticles:
 - chick-fil-a-breading-process
 - chick-fil-a-ipos-system
+disclaimerType: medical
 faq:
-- question: 'What''s the best time to order the Chick-fil-A Peanut Oil: Why They Filter
-    It Daily?'
-  answer: Usually between 2 PM and 4 PM when the line is slower and the kitchen can
-    focus.
-- question: 'What''s the best time to order the Chick-fil-A Peanut Oil: Why They Filter
-    It Daily?'
-  answer: Usually between 2 PM and 4 PM when the line is slower and the kitchen can
-    focus.
+- question: "How often does Chick-fil-A filter its peanut oil?"
+  answer: "Chick-fil-A fryers use 'Filter Lockout' technology that forces the staff to filter the oil after a set number of cook cycles (typically 4 or 5), ensuring consistent oil quality throughout the day."
+- question: "Why does Chick-fil-A use peanut oil instead of cheaper vegetable oil?"
+  answer: "100% refined peanut oil has a high smoke point of 450°F, allowing it to withstand the extreme punishment of high-volume pressure frying without breaking down or transferring off-flavors to the chicken."
 ---
-faq:
-  - question: "How often does Chick-fil-A filter its peanut oil?"
-    answer: "Chick-fil-A fryers use 'Filter Lockout' technology that forces the staff to filter the oil after a set number of cook cycles (typically 4 or 5), ensuring consistent oil quality throughout the day."
-  - question: "Why does Chick-fil-A use peanut oil instead of cheaper vegetable oil?"
-    answer: "100% refined peanut oil has a high smoke point of 450°F, allowing it to withstand the extreme punishment of high-volume pressure frying without breaking down or transferring off-flavors to the chicken."
 
 If you ever want to start an argument among restaurant operators, ask them about frying oil. Most major chains switched to canola, vegetable blends, or high-oleic soybean oil decades ago because it's cheap, neutral in flavor, and readily available. Then there is Chick-fil-A, who has stubbornly clung to 100% refined peanut oil since Truett Cathy opened the first Dwarf Grill in 1946. 
 
@@ -109,7 +101,6 @@ The most common question customers ask is: *"If you fry in peanut oil, why doesn
 
 The answer lies in the refining process. 
 
-> **Medical/Allergy Disclaimer:** The information in this article is for general informational purposes only and does not constitute medical advice. Fast food recipes and cross-contamination risks change frequently. Always consult your physician or allergist before consuming products if you have severe allergies.
 
 Food allergies are triggered by specific proteins. In a peanut, it is the peanut protein chain that causes the immune system to react. 
 

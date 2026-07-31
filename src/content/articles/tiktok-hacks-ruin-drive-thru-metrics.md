@@ -29,7 +29,7 @@ The Quick Service Restaurant (QSR) industry is built on a razor-thin margin of t
 
 For decades, the standard drive-thru timer goal was 90 seconds. Today, top-tier operators push for 45 to 60 seconds per car from speaker box to window departure. But in the era of viral TikTok "Secret Menu" hacks, those carefully calibrated metrics are being completely obliterated.
 
-As a former operations manager who stared at digital timer screens for a decade, Actually that a single viral drink or custom "Meat Mountain" burger doesn't just delay one order—it brings the entire kitchen to a grinding halt.
+As a former operations manager who stared at digital timer screens for a decade, The reality is that a single viral drink or custom "Meat Mountain" burger doesn't just delay one order—it brings the entire kitchen to a grinding halt.
 
 ## The Assembly Line Breakdown
 

@@ -167,7 +167,7 @@ The breading on boneless wings tends to be slightly thicker than on traditional 
 
 ## What to Know When You Order
 
-Here are a few practical tips based on what Actually behind the counter:
+Here are a few practical tips based on what happens behind the counter:
 
 **Don't order during peak football hours if you want speed.** The saucing station backs up hard during NFL Sundays. If you want quick service, order during off-peak times.
 

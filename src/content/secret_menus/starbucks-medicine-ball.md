@@ -21,7 +21,7 @@ relatedArticles:
 - starbucks-morning-rush
 - starbucks-mastrena-espresso-calibration
 faq:
-- question: Does the Starbucks Medicine Ball actually cure colds?
+- question: Does the Starbucks Medicine Ball legitimately cure colds?
   answer: No. Despite its viral nickname, the Honey Citrus Mint Tea has no proven
     medical or pharmaceutical benefits. It is simply a soothing warm beverage made
     of green tea, herbal tea, lemonade, and sugar.
@@ -56,6 +56,8 @@ A standard latte takes a skilled barista approximately **35 to 45 seconds** to c
 4.  **Lemonade Steaming:** The barista must walk to the refrigerated under-counter fridge, grab a carton of lemonade, pour 6 to 8 ounces into a stainless steel steaming pitcher, and steam the liquid sugar on the Mastrena steam wand up to 160°F.
 5.  **Final Pour and Lid Sealing:** The steamed lemonade is poured over the steeping tea bags, and the cup is sealed.
 
+<div class="callout callout-tip">**ProTip:** If the store is out of Jade Citrus Mint, do not ask them to substitute English Breakfast. The tannin profile clashes violently with the peach syrup and steamed lemonade.</div>
+
 ## 2. Why It Destroys Hot Bar Sequencing (Annoyance Score: 8/10)
 
 In a high-volume Starbucks, barista speed relies entirely on **Standardized Beverage Sequencing**—a corporate choreography where a barista works on two espresso drinks simultaneously (e.g., while shots pull for Drink A, milk is steaming for Drink B).
@@ -73,13 +75,11 @@ The Medicine Ball completely destroys this rhythmic sequencing cycle:
   When baristas try to rush the build to meet corporate 45-second window targets, customers complain that the tea tastes "watered down and sour." When baristas take the proper time to steam the lemonade and steep the bags, cars back up into the street, destroying hourly labor bonus qualifications for the entire shift team.
 </div>
 
+<div class="callout callout-tip">**ProTip:** Order this via the mobile app under its official name, the Honey Citrus Mint Tea. Asking for a "Medicine Ball" at the register forces the green apron barista to manually translate the secret menu slang.</div>
+
 ## 3. How to Order Responsibly Without Slowing the Line
 
 If you love the soothing, citrus-mint flavor of the Honey Citrus Mint Tea and want to order it without frustrating your local barista team, follow these simple etiquette rules:
 1.  **Use the Official POS Name:** Never ask for a "Medicine Ball," "Cold Buster," or "Sick Tea" at the register. Always state clearly: **"I would like a hot Honey Citrus Mint Tea."**
 2.  **Order via Mobile App:** Order your tea using Starbucks Mobile Order & Pay 10 minutes before you arrive at the store. This allows the barista to open the tea sachets and steam the lemonade during natural lulls in the queue without the pressure of an induction loop drive-thru timer ticking above their head.
 3.  **Avoid Custom Honey Packets:** If your store offers syrup vs. raw honey packets, always stick with the default **Honey Blend Syrup**. Asking a barista to manually tear open three sticky plastic packets of raw honey during a peak rush adds 30 seconds of pure manual friction to an already labor-intensive beverage.
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

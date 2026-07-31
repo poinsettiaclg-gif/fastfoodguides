@@ -87,7 +87,7 @@ Operations like [Little Caesars with their Sheetout machine](/articles/little-ca
 
 <div class="callout callout-tip">**ProTip:** The 'Towel Method': Many experienced employees recommend practicing with a slightly damp kitchen towel to learn the hand motions and 'slap' rhythm without tearing expensive dough.</div>
 
-<div class="callout callout-tip">**ProTip:** Edge Lock: Setting the 'edge lock' (a defined border) is Actually. Even when stores use dough-spinning machines, employees must finish the edge lock manually to ensure proper crust formation.</div>
+<div class="callout callout-tip">**ProTip:** Edge Lock: Setting the 'edge lock' (a defined border) is critical. Even when stores use dough-spinning machines, employees must finish the edge lock manually to ensure proper crust formation.</div>
 
 - **Practice with cold dough during slow shifts.** Ask your manager if you can use a couple of extra dough balls to practice when orders are light. Cold dough is harder to work with, so if you can slap cold dough without tearing it, properly proofed dough will feel effortless by comparison.
 - **Watch the shape of the dough, not your hands.** Beginners stare at their palms during the slap. Experienced Insiders keep their eyes on the outer edge of the dough disc. If you see one side stretching faster than the other, you adjust your rotation angle on the next pass. Your hands should move on feel; your eyes should monitor the shape.

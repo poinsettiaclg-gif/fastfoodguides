@@ -53,6 +53,8 @@ In a standard burrito build, a single 10-inch flour tortilla is placed in the co
 3. **The Extended Press:** The clamshell press is lowered. Unlike the standard 5-second warm-up, melting 2.5 ounces of cold shredded cheese between two dense dough layers requires 20 to 25 seconds of continuous heat and compression.
 4. **The Transfer:** The worker must carefully slide the hot, cheese-oozing dual tortilla onto the aluminum foil wrapper without allowing the melted cheese to spill out the edges and stick to their nitrile gloves.
 
+<div class="callout callout-tip">**ProTip:** Order during a slow period - never during the lunch rush. This item takes twice as long to assemble and the line cook has to leave their station to use the press.</div>
+
 ## 2. Why The Kitchen Dreads It (Annoyance Score: 9/10)
 
 In restaurant operations, any custom modifier that forces an employee to work backward against the linear flow of an assembly line creates severe operational bottlenecks. The Quesarito triggers three distinct failures on the makeline:
@@ -68,6 +70,8 @@ In restaurant operations, any custom modifier that forces an employee to work ba
   If a location agrees to build a Quesarito on the line, cashiers are instructed to ring it up as a **Standard Burrito plus a Quesadilla upcharge** (or a dedicated custom modifier button depending on regional POS software). This automatically adds $3.50 to $4.25 onto the base price of your entree. With steak or guacamole, a single Quesarito easily exceeds $16.00 before tax.
 </div>
 
+<div class="callout callout-tip">**ProTip:** If you insist on getting the full Quesarito built on the line, ask for double wrapping in foil. The melted cheese weakens the tortilla integrity and it will leak in your bag.</div>
+
 ## 3. How to Order Like a QSR Veteran
 
 Because of the severe impact on line throughput, many store managers instruct their crews to politely decline building custom Quesaritos during peak operating hours (11:30 AM to 1:30 PM and 6:00 PM to 8:00 PM). If you want to enjoy a Quesarito without disrupting kitchen operations or risking a rejected order, use this operational workaround:
@@ -75,11 +79,3 @@ Because of the severe impact on line throughput, many store managers instruct th
 * **The DIY Side-Quesadilla Method:** When you reach the start of the line, order a **"Side Quesadilla"** and a separate **"Burrito Bowl"** with your preferred proteins and toppings. 
 * **The Ergonomic Advantage:** The side quesadilla is folded in half and melted cleanly in the press or digital oven without holding up the burrito assembly rhythm. Your bowl is built at standard line speed.
 * **Tabletop Assembly:** Once you sit down at your table, open the folded side quesadilla, scoop the contents of your burrito bowl directly into the center, and roll it yourself. You get the exact same melted-cheese wrapper experience while saving money on the POS upcharge and keeping the kitchen line moving smoothly.
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

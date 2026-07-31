@@ -5,10 +5,25 @@ import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
 import partytown from '@astrojs/partytown';
 import fs from 'node:fs';
+import matter from 'gray-matter';
 
-const articles = fs.readdirSync('src/content/articles').filter(f => f.endsWith('.md'));
-const chains = [...new Set(articles.map(f => f.split('-')[0]))];
-const excludedChains = chains.filter(chain => articles.filter(f => f.startsWith(chain + '-')).length < 3);
+// Parse actual chain names from frontmatter instead of naive filename splitting
+const articleFiles = fs.readdirSync('src/content/articles').filter(f => f.endsWith('.md'));
+const chainCounts = {};
+for (const file of articleFiles) {
+	try {
+		const raw = fs.readFileSync(`src/content/articles/${file}`, 'utf-8');
+		const { data } = matter(raw);
+		if (data.chain) {
+			const slug = data.chain.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+			chainCounts[slug] = (chainCounts[slug] || 0) + 1;
+		}
+	} catch {}
+}
+const excludedChains = Object.entries(chainCounts)
+	.filter(([, count]) => count < 3)
+	.map(([slug]) => slug);
+
 const thinTopicSlugs = ['hacks', 'salads', 'beverages', 'drive-thru-operations', 'food-prep', 'fries', 'general', 'kitchen-operations', 'prep', 'seafood', 'sides'];
 
 export default defineConfig({

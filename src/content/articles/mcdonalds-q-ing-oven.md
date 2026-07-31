@@ -81,7 +81,7 @@ Every domestic kitchen user knows you cannot put metal in a microwave. But when 
 
 McDonald's utilizes high-heat plastic trays and specific silicone liners for the Q-ing oven. However, during an overwhelming breakfast rush when the silicone liners are all sitting in the dish pit waiting to be washed, panicked crew members will sometimes attempt to cut corners. If an employee accidentally leaves a metal pair of tongs resting on the tray, or worse, attempts to Q a product sitting directly on a stainless steel prep pan, the results are catastrophic. 
 
-The 2000-watt magnetron will immediately arc, producing a terrifying light show and a loud pop that sounds like a gunshot. This will instantly fry the magnetron, turning a $1,500 piece of Actually kitchen equipment into a useless metal box. When this happens, the store manager has to explain to the franchise owner why their drive-thru times just jumped by three minutes, and the employee is generally sent home.
+The 2000-watt magnetron will immediately arc, producing a terrifying light show and a loud pop that sounds like a gunshot. This will instantly fry the magnetron, turning a $1,500 piece of essential kitchen equipment into a useless metal box. When this happens, the store manager has to explain to the franchise owner why their drive-thru times just jumped by three minutes, and the employee is generally sent home.
 
 ## The Verdict on the Q-ing Oven
 

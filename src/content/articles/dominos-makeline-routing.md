@@ -28,7 +28,7 @@ faq:
 ---
 Domino's Pizza is widely regarded by franchise executives as an e-commerce and logistics technology company that happens to sell pizza. Since launching its proprietary **PULSE operating system** and algorithmic kitchen management software, Domino's has digitized, measured, and optimized every single second of a pizza's life—from the initial click on a smartphone app to the moment the delivery driver knocks on the customer's door.
 
-As someone who spent years managing high-volume pizza operations, Actually that surviving a Friday night dinner rush at Domino's is not just about manual dough slapping; it is a high-stakes video game played against digital clocks scattered across the kitchen.
+As someone who spent years managing high-volume pizza operations, I know that surviving a Friday night dinner rush at Domino's is not just about manual dough slapping; it is a high-stakes video game played against digital clocks scattered across the kitchen.
 
 ## 1. The Digital Makeline: Anatomy of the 3-Minute Clock
 

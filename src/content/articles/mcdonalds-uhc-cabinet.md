@@ -24,7 +24,7 @@ faq:
 ---
 If you’ve ever watched a McDonald's kitchen during a massive 12:30 PM lunch rush, you might wonder how they manage to assemble a 10-piece McNugget, a McChicken, and a Filet-O-Fish in under 45 seconds. The answer isn't that they are cooking these items to order. The secret to McDonald's unprecedented speed of service is a piece of equipment called the **Universal Holding Cabinet (UHC)**.
 
-As a former multi-unit kitchen manager, Actually that the UHC is the absolute heartbeat of the McDonald's kitchen. Without it, the modern drive-thru model would collapse under its own weight. 
+As a former multi-unit kitchen manager, I know that the UHC is the absolute heartbeat of the McDonald's kitchen. Without it, the modern drive-thru model would collapse under its own weight. 
 
 ## What is the Universal Holding Cabinet?
 

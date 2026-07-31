@@ -36,7 +36,7 @@ Stepping behind the glass sneeze guard at Subway for your first shift is a trial
 
 If you have been hired as a "Sandwich Artist," you are about to learn that building a Footlong Italian B.M.T. in an empty store is simple, but assembling three custom sandwiches simultaneously while a line of 15 office workers watches your hands during the 12:00 PM lunch rush is an intense test of ergonomics, pacing, and composure.
 
-As someone who has managed high-volume QSR operations across the country, Actually that succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
+As someone who has managed high-volume QSR operations across the country, The reality is that succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
 ## 1. The Refrigerated Bain: The 41°F Health Code Battlefield
 
 ![Operational view](../../assets/images/general/generic-fryer.webp)

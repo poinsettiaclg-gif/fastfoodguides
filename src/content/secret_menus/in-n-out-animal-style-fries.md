@@ -79,8 +79,13 @@ Animal Style Fries are undeniably delicious, which is why they are ordered by th
 
 ### How to Order (To Preserve Crunch)
 
-If you actually want to enjoy the crispness of the fresh-cut fries while still getting the Animal Style experience, there is a very specific way to manipulate the POS system. 
+If you truly want to enjoy the crispness of the fresh-cut fries while still getting the Animal Style experience, there is a very specific way to manipulate the POS system. 
 
 When you get to the speaker box, order your fries "Light Well" or "Fry Well" (which leaves them in the fryer for an extra 60 to 90 seconds, giving them a much harder, crunchier exterior). Then, ask for a side of Spread and a side of grilled onions in separate ramekins. Do not ask them to melt the cheese on the fries. Instead, ask for a slice of cheese on the side. 
 
 By deconstructing the item, you prevent the fry portioner from having to use the steam dome, you keep the line moving, and you prevent the thermal collapse of the potato matrix. You can assemble it yourself at your table, ensuring maximum structural integrity for every single bite. And as a final insider pro-tip: always ask for your napkins separately, as the wet clamshell often leaks grease and moisture, completely ruining any napkins tucked into the bag!
+
+
+<div class="callout callout-tip">**ProTip:** Ask for the spread on the side if you are eating in the car. Animal Style fries turn into a soggy mess in about 4 minutes flat.</div>
+
+<div class="callout callout-tip">**ProTip:** Request your fries "Well Done" when ordering Animal Style. The extra 90 seconds in the fryer gives the potatoes enough structural rigidity to hold up under the weight of the melted cheese and spread.</div>

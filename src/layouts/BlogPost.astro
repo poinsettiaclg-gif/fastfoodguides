@@ -38,7 +38,6 @@ function slugifyChain(c: string): string {
 
 const schemas: any[] = [
 	{
-		"@context": "https://schema.org",
 		"@type": "Article",
 		"headline": title,
 		"description": description,
@@ -72,7 +71,6 @@ const schemas: any[] = [
 
 if (faq && faq.length > 0) {
 	schemas.push({
-		"@context": "https://schema.org",
 		"@type": "FAQPage",
 		"mainEntity": faq.map((q: any) => ({
 			"@type": "Question",

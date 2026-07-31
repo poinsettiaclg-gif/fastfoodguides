@@ -43,7 +43,7 @@ In the folklore of fast food gluttony, the **Wendy's T-Rex Burger** occupies a l
 
 While online food vloggers treat the T-Rex Burger as a fun visual novelty, seasoned QSR kitchen managers view it as an operational catastrophe. In a Wendy's kitchen operating under tight speed-of-service mandates where grill operators are expected to continuously feed the sandwich assembly line without dropping patty holding temperatures, a 9-patty order is a system-wide wrench in the gears.
 
-What actually happens on the makeline when an order for nine simultaneous beef patties drops onto the kitchen display system (KDS)? From clamshell grill capacity limits and the mechanics of the 4-corner press to structural grease collapse and corporate liability policies, here is the unvarnished operational reality behind the T-Rex Burger.
+The operational reality on the makeline when an order for nine simultaneous beef patties drops onto the kitchen display system (KDS)? From clamshell grill capacity limits and the mechanics of the 4-corner press to structural grease collapse and corporate liability policies, here is the unvarnished operational reality behind the T-Rex Burger.
 
 ## 1. Clamshell Grill Platen Capacity and The 3-Minute Deadlock
 
@@ -63,6 +63,8 @@ When a cashier rings up a 9-patty T-Rex Burger during a noon lunch rush, that si
   Fresh, never-frozen 80/20 ground beef releases significantly more liquid fat and natural juices during the cooking process than dehydrated frozen patties. When a grill operator drops nine fresh 4-ounce patties onto a single platen simultaneously, the sudden expulsion of rendered tallow overwhelms the griddle's rear grease drainage channels. Line cooks must continuously scrape the pooling fat into the catch trough during the 2-minute cook cycle to prevent the patties from boiling in their own grease, which ruins the sear and creates dangerous splashing hazards when the clamshell hood lifts.
 </div>
 
+<div class="callout callout-tip">**ProTip:** Order this inside the dining room, never at the drive-thru speaker. A nine-patty burger requires the grill cook to completely clear their primary quadrant, crashing window times for everyone behind you.</div>
+
 ## 2. The Ergonomics of the 4-Corner Press and Patty Shrinkage
 
 Cooking the beef is only the first hurdle; executing Wendy's proprietary patty preparation technique on nine simultaneous pieces of meat breaks standard kitchen ergonomics. 
@@ -70,6 +72,8 @@ Cooking the beef is only the first hurdle; executing Wendy's proprietary patty p
 As outlined in our deep dive on the [Wendy's 4-Corner Press Technique](/articles/wendys-4-corner-press), grill operators are trained to apply gentle, targeted pressure to the four corners of each square patty using a specialized heavy spatula immediately after dropping the meat onto the steel. This technique seals the outer muscle fibers, prevents the corners from curling upward, and ensures uniform contact with the upper clamshell hood.
 
 Under normal operational conditions, a grill cook can rhythmically execute the 4-corner press across four to six patties in roughly 10 seconds. When confronted with nine patties for a single ticket, the operator must frantically execute 36 distinct spatula presses before the automated upper hood initiates its descent countdown. In a hot kitchen, this rapid, repetitive manual compression leads to immediate ergonomic fatigue and frequently results in unevenly pressed patties that cook with distorted, warped edges.
+
+<div class="callout callout-tip">**ProTip:** Request the heavy produce on the side. Stacking lettuce, tomato, and pickles between nine layers of fresh beef creates a slippery structural nightmare that will end up in your lap.</div>
 
 ## 3. Structural Collapse, Grease Drainage, and Foil Wrapper Limits
 
@@ -109,8 +113,3 @@ If you are determined to tackle a 9-patty Wendy's build for a personal challenge
 2. **Execute the Modular Order Strategy:** Step up to the counter (or use the mobile app) and order **three separate Dave's Triples**. Alternatively, order one Dave's Triple and ask for six side patties of beef with cheese in separate side containers.
 3. **Request a Plastic Salad Bowl:** Do not attempt to eat a 9-patty stack out of a foil wrapper; the grease will ruin your clothing and table. Ask the cashier for an empty, clean plastic salad bowl and a fork.
 4. **Tabletop Assembly:** Take your modular containers to a booth. Open the three Dave's Triples, discard two sets of top and bottom buns, and carefully stack the beef towers inside the plastic salad bowl using the remaining bun as a structural base and cap. This keeps the kitchen assembly line moving at maximum speed while giving you the exact 9-patty mountain you came for.
-
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

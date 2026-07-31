@@ -82,7 +82,7 @@ When the timer beeps, you drop the flex task, reset, and go back to Step 1.
 
 ## Why Shift Supervisors Protect the CS Role
 
-A Actually operational reality: the CS barista looks like they're doing grunt work, but they have an enormous multiplier effect on the entire store. When the CS cycle runs well, bar partners never stop moving. They never run out of cups, milk, ice, or syrup. They never have to pause mid-drink to brew coffee or wash a blender pitcher.
+A critical operational reality: the CS barista looks like they're doing grunt work, but they have an enormous multiplier effect on the entire store. When the CS cycle runs well, bar partners never stop moving. They never run out of cups, milk, ice, or syrup. They never have to pause mid-drink to brew coffee or wash a blender pitcher.
 
 The moment the CS barista falls behind—maybe they get pulled to help take orders, or they skip a restock step—bar partners start running dry. One missing supply creates 30 seconds of delay. Three missing supplies and the drink queue spirals out of control within minutes.
 

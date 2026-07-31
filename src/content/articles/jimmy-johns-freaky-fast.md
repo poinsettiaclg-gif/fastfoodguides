@@ -59,7 +59,7 @@ The lettuce is hand-shredded — not chopped, not diced, but shredded into thin 
 
 Meats come pre-sliced from the distributor in most locations, though some stores still slice roast beef and turkey in-house using a commercial deli slicer. Either way, every protein is portioned and ready to grab before the doors open. Nothing gets sliced during service. Nothing. The entire operation depends on this.
 
-Actually what happens when a store falls behind on prep. Somebody called in sick, or the opener overslept, and suddenly you're trying to slice tomatoes while tickets are printing at noon. The line backs up within minutes. Customers wait. Drivers wait. The entire “Freaky Fast” promise turns into “Moderately Prompt,” and nobody is happy about it.
+I have witnessed what happens when a store falls behind on prep. Somebody called in sick, or the opener overslept, and suddenly you're trying to slice tomatoes while tickets are printing at noon. The line backs up within minutes. Customers wait. Drivers wait. The entire “Freaky Fast” promise turns into “Moderately Prompt,” and nobody is happy about it.
 
 ## The Assembly Line: Under 30 Seconds, Every Time
 

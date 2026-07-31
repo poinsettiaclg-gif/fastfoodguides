@@ -1,5 +1,4 @@
 import type { APIRoute } from 'astro';
-import { env } from 'cloudflare:workers';
 
 export const prerender = false;
 
@@ -16,7 +15,7 @@ export const OPTIONS: APIRoute = () => {
 export const POST: APIRoute = async ({ request, locals }) => {
 	try {
 		// Ensure we have D1 binding
-		const db = locals.runtime?.env?.newsletter_db || env?.newsletter_db;
+		const db = locals.runtime?.env?.newsletter_db;
 		if (!db) {
 			console.error("D1 Database binding 'newsletter_db' not found.");
 			return new Response(JSON.stringify({ error: "Database configuration error" }), {
@@ -64,7 +63,6 @@ export const POST: APIRoute = async ({ request, locals }) => {
 		}
 
 		// Insert into D1
-		// Insert into D1
 		try {
 			await db.prepare("INSERT INTO Subscribers (email) VALUES (?)").bind(email).run();
 			
@@ -72,9 +70,10 @@ export const POST: APIRoute = async ({ request, locals }) => {
 				status: 200,
 				headers: { 'Content-Type': 'application/json', ...corsHeaders }
 			});
-		} catch (dbError: any) {
+		} catch (dbError: unknown) {
 			// Check for UNIQUE constraint failure
-			if (dbError.message && dbError.message.includes('UNIQUE constraint failed')) {
+			const errMsg = dbError instanceof Error ? dbError.message : String(dbError);
+			if (errMsg.includes('UNIQUE constraint failed')) {
 				return new Response(JSON.stringify({ error: "This email is already subscribed!" }), {
 					status: 409,
 					headers: { 'Content-Type': 'application/json', ...corsHeaders }

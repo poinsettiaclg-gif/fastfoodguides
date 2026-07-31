@@ -50,6 +50,12 @@ Unlike standard burgers that bounce between the grill cook and the Board assembl
 3.  **The Patty Stack:** As the cheese melts into a glossy emulsion, the cook uses their stiff metal spatula to lift Patty #1 and stack it directly on top of Patty #2, creating a hot, sealed beef-and-cheese sandwich where the cheese acts as the binder.
 4.  **Direct Packaging:** Because there is no bun, the cook slides the stacked patties directly onto a sheet of wax paper inside a plastic clam-shell container or red paperboard boat, bypassing the Board worker entirely.
 
+<div class="callout callout-tip">**ProTip:** Never try to eat a Flying Dutchman while driving. Without the bun to insulate the heat, the melted cheese will drip scalding grease onto your hands within seconds.</div>
+
+
+
+From a food cost perspective, the Flying Dutchman is also incredibly straightforward. We do not have to account for spoiled produce, crushed buns, or misportioned spread. It is pure protein and dairy. When evaluating nightly inventory, missing patties correlate perfectly with POS receipts for this item. Moreover, the absence of packaging materials beyond the clam-shell means less paper waste on the floor. For a shift manager tracking fractional pennies on waste margins, this secret menu hack is a welcome sight on the KDS monitor.
+
 ## 2. Why The Kitchen Loves It (Annoyance Score: 2/10)
 
 Whenever viral TikTok food hacks emerge, they typically drive kitchen crews insane by breaking standardized assembly rhythms. The Flying Dutchman achieves the exact opposite: **it actively speeds up kitchen throughput.**
@@ -67,13 +73,11 @@ In a standard In-N-Out line flow, the bottleneck is rarely the grill cook; it is
   While delicious, this modification bumps the operational annoyance score from a 2/10 up to a **6/10**. Grilling whole thick-cut onion rings requires significant griddle real estate and 3 to 4 minutes of slow caramelization time. If you want to order this viral variation during a busy Friday lunch rush, be prepared to wait an extra 5 minutes for your order, as the grill cook must carve out dedicated flat-top space to steam and sear the onion caps without burning them.
 </div>
 
+<div class="callout callout-tip">**ProTip:** Ask for chopped chilies to be pressed directly into the cheese as it melts on the grill. It binds the peppers into the patty structure without making a mess in the box.</div>
+
 ## 3. How to Customize Like a Pro
 
 If you want to upgrade your Flying Dutchman without slowing down the kitchen line, use these manager-approved POS customization modifiers:
 *   **Add Grilled Onions:** Ask for regular "Grilled Onions" added to your Flying Dutchman. The cook will drop a scoop of pre-caramelized diced onions between the two cheese slices at zero extra cost and zero extra time.
 *   **Order Spread on the Side:** Because putting liquid spread directly onto bare meat patties in a box creates a soupy, sliding mess, always ask for **"Spread on the Side."** You will receive sealed packets of In-N-Out's signature Thousand Island dressing to dip your beef bites at your own pace.
 *   **Ask for Mustard Grilled:** You can request your Flying Dutchman **"Mustard Grilled."** The cook will squirt yellow mustard directly onto the raw side of the beef patties while on the griddle before flipping them, searing a tangy, caramelized crust directly into the meat.
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

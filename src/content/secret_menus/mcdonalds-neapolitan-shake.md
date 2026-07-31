@@ -26,7 +26,7 @@ faq:
   answer: There is no official Neapolitan shake on the McDonald's menu. It is a secret
     menu hack where you request the employee to manually layer chocolate, vanilla,
     and strawberry flavors into a single cup.
-- question: Will McDonald's employees actually make a Neapolitan shake?
+- question: Will McDonald's employees willingly make a Neapolitan shake?
   answer: "It depends on the location and how busy they are. Because it requires manually\
     \ overriding the Taylor C606 machine's syrup manifold three separate times\u2014\
     which destroys the 45-second drive-thru timer metric\u2014many employees during\
@@ -94,3 +94,8 @@ If you are determined to order this, there is an unspoken etiquette.
 Never order this in the drive-thru during peak hours (11:30 AM to 1:30 PM, or 5:00 PM to 7:00 PM). Order it inside the lobby, where the front-counter timer is slightly more forgiving than the drive-thru sensor loop. 
 
 Do not expect the layers to be perfectly flat and separated like a stock photo. Accept that there will be flavor bleed between the strata. And finally, when you get the cup, take a moment to realize that the employee who made it just sacrificed their entire target throughput metric to give you an Instagram-worthy dessert.
+
+
+<div class="callout callout-tip">**ProTip:** Check the shake machine status before you order. If the automated heat-treat cycle is running, the syrup pumps will not calibrate correctly for the tri-flavor blend.</div>
+
+<div class="callout callout-tip">**ProTip:** Always ask the crew to leave the top inch empty. Pumping three separate flavors creates massive air pockets that will expand and blow the domed lid off your cup before you hit the door.</div>

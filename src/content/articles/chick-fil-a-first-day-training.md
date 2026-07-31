@@ -32,7 +32,7 @@ Walking into a Chick-fil-A for your first day of training is an intense experien
 
 ![Operational reference](../../assets/images/general/generic-walk-in-2.webp)
 
-As a former QSR Operations Manager who has hired and trained hundreds of team members, Actually that Chick-fil-A's training program is arguably the best in the fast-food industry. They don't expect you to know everything on day one, but they do expect a specific attitude. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
+As a former QSR Operations Manager who has hired and trained hundreds of team members, The reality is that Chick-fil-A's training program is arguably the best in the fast-food industry. They don't expect you to know everything on day one, but they do expect a specific attitude. They don't just throw you to the wolves; they build you up through a highly systematized pathway.
 
 Here is exactly what you can expect on your first day at Chick-fil-A, hour by hour.
 

@@ -56,7 +56,7 @@ Let me run the numbers I used to show first-timers during orientation, because t
 
 If gas costs $3.50 per gallon and your car gets 30 miles per gallon (think Honda Civic, Toyota Corolla, Hyundai Elantra), each mile costs you roughly $0.12 in fuel. If the store reimburses you at $0.40 per mile, you pocket $0.28 per mile in pure reimbursement profit—money that goes toward nothing but your bank account. On a 60-mile shift, that's nearly $17 in reimbursement surplus before you count a single dollar of tips or hourly pay.
 
-Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, that same mile costs you $0.25 in fuel. Your reimbursement surplus just dropped to $0.15 per mile, and that's before you factor in the accelerated wear on a heavier vehicle. Actually rookies show up in lifted trucks and wonder why they're barely breaking even after gas. The vehicle you drive is the single biggest variable in whether delivery driving is profitable.
+Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, that same mile costs you $0.25 in fuel. Your reimbursement surplus just dropped to $0.15 per mile, and that's before you factor in the accelerated wear on a heavier vehicle. Many rookies show up in lifted trucks and wonder why they're barely breaking even after gas. The vehicle you drive is the single biggest variable in whether delivery driving is profitable.
 
 **The verdict:** If you're driving a fuel-efficient sedan, Domino's delivery is one of the best-paying hourly jobs in fast food. Drivers at my stores regularly averaged $20 to $25 an hour on busy nights when you combined their $7.25 to $9 hourly rate, tips, and mileage reimbursement. But you need the right car.
 

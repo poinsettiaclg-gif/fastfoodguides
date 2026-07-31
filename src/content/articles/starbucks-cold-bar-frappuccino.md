@@ -66,7 +66,7 @@ This is the single most common Cold Bar error, and it trips up experienced baris
 
 When a Frappuccino recipe calls for "3 pumps of Caramel," it means 3 CBS pumps. If your Cold Bar runs out of Caramel and you walk over to the Hot Bar to borrow theirs, you only push the pump down 1.5 times. If you do 3 full Hot Bar pumps, the drink will be so sweet it's almost undrinkable.
 
-The pump heads are physically different sizes—CBS heads are smaller—but in the middle of a rush, it's easy to grab the wrong bottle and pump without thinking. Some stores color-code the pump heads or label the bottles, but Actually it's on you to know which station you're pulling from. I witnessed entire batches of drinks get remade because someone grabbed the wrong Vanilla bottle during a Friday afternoon rush. Each remake costs you another 45 seconds you don't have.
+The pump heads are physically different sizes—CBS heads are smaller—but in the middle of a rush, it's easy to grab the wrong bottle and pump without thinking. Some stores color-code the pump heads or label the bottles, but the reality is it's on you to know which station you're pulling from. I witnessed entire batches of drinks get remade because someone grabbed the wrong Vanilla bottle during a Friday afternoon rush. Each remake costs you another 45 seconds you don't have.
 
 ## Refreshers and Iced Teas: Volume Over Complexity
 

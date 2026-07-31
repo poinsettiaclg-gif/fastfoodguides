@@ -43,7 +43,7 @@ When discussing West Coast burger culture, **In-N-Out Burger** stands as an oper
 
 Featuring four freshly grilled 2-ounce beef patties alternating with four slices of real melted American cheese, the 4x4 represents the physical limit of standard quick-service restaurant (QSR) sandwich engineering. For a customer, it is a meat-and-cheese triumph. For an In-N-Out board person (the specialized assembly worker standing alongside the griddle), building and wrapping a 4x4 introduces severe structural shear forces that challenge standard fast food packaging mechanics.
 
-What actually happens on the stainless steel dressing board when a 4x4 tag prints? From flat-top griddle real estate and cheese melting thermodynamics to lateral structural lean and the famous 2004 corporate size cap, here is the technical operational reality behind In-N-Out's largest burger.
+The operational reality on the stainless steel dressing board when a 4x4 tag prints? From flat-top griddle real estate and cheese melting thermodynamics to lateral structural lean and the famous 2004 corporate size cap, here is the technical operational reality behind In-N-Out's largest burger.
 
 ## 1. Griddle Real Estate and The 4-Patty Sear Cycle
 
@@ -68,6 +68,8 @@ In a kitchen calibrated to maintain a rapid 4-minute ticket turnover from order 
   If a customer orders their 4x4 **Animal Style**, the operational complexity multiplies. The cook must squirt yellow mustard directly onto the raw upper surface of all four cooking patties before flipping them. When flipped, the mustard caramelizes directly into the chrome griddle surface, creating a pungent, crispy sear. The cook must then spoon caramelized grilled onions over the cheese layers. Scrapping four mustard-seared patty footprints off the chrome griddle requires aggressive manual blade work before the next row can drop, slowing down the cook's clean-up cycle by 15 seconds.
 </div>
 
+<div class="callout callout-tip">**ProTip:** Always ask for a clam-shell box rather than a standard paper wrap. A 4x4 generates too much grease for the paper to hold, and the bottom bun will disintegrate within two minutes.</div>
+
 ## 2. Cheese Melting Thermodynamics and The Slip-Plane Effect
 
 The primary engineering failure of the 4x4 Burger is not height—it is internal lubrication. The culprit is the thermodynamic interaction between 400°F beef patties and high-fat American cheese.
@@ -82,6 +84,8 @@ As the four-story patty tower sits on the griddle and transfers to the dressing 
 Instead of acting as a solid glue, the molten cheese layers transform into four lubricated **slip-planes**. Because fast food burgers contain no internal structural reinforcing rods (such as wooden toothpicks or bamboo skewers), the only force holding the vertical stack together is gravity and the friction between the meat grains. 
 
 The moment the sandwich experiences any lateral shear force—such as the board person picking it up, tilting it toward a wrapper, or the customer grasping it in their hands—the lubricated patties break friction and begin sliding sideways across the melted cheese layers, causing the entire burger to tilt into a severe structural lean.
+
+<div class="callout callout-tip">**ProTip:** Do not try to order a 5x5 or larger. The corporate POS system physically caps burgers at 4 patties to maintain meat temperature safety and structural integrity on the prep board.</div>
 
 ## 3. Board Station Packaging Limits and Wrapper Ergonomics
 
@@ -126,7 +130,3 @@ If you want to experience the massive protein architecture of the 4x4 Burger whi
 2. **The "Flying Dutchman" Modular Alternative:** If you genuinely want to consume more than four patties in a single sitting without violating corporate sizing caps, order a standard **4x4 Burger** alongside a side order of **The Flying Dutchman** (two slices of cheese melted between two beef patties with no bun or lettuce). You can enjoy the 4x4 as your primary structure while consuming the Flying Dutchman with a fork.
 3. **Request "Extra Toast" on Your Bun:** Because a 4x4 releases twice as much rendered beef tallow and cheese moisture as a Double-Double, request your bun with **Extra Toast**. The cook will leave the sponge dough bun on the griddle for an additional 15 seconds, creating a deeper, darker caramelized crust on the bun face that resists grease absorption and delays bottom bun collapse.
 4. **Order "Cut in Half" with Caution:** While many customers like ordering burgers **Cut in Half** for easier handling, avoiding this modifier on a 4x4 is recommended. Slicing through four lubricated patty-and-cheese layers with a heavy kitchen knife disrupts the friction matrix of the stack, causing the two halves to slide apart instantly in the serving tray.
-
-
-<div class="callout callout-tip">**ProTip:** Always communicate with the line clearly when ordering complex items. It saves everyone a headache.</div>
-

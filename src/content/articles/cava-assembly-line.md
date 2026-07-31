@@ -121,28 +121,6 @@ Most stores use a simple dry-erase whiteboard mounted near the kitchen pass, vis
 2.  **The shift lead writes it on the 86 board** with the time it was called and an estimated restock time (e.g., "86 HHC — 12:45 PM — back by 1:15 PM").
 3.  **The base station worker** is responsible for informing every guest before they start building their bowl. Nothing is worse than a customer getting to the protein station and finding out their chicken is gone after they've already committed to a base.
 
-## The Digital Make Line (DML)
-
-Behind the scenes, there's a second, hidden assembly line dedicated purely to online and delivery orders. The DML has its own dedicated ingredients, its own prep schedule, and its own staff. This prevents the front line from slowing down when a 15-bowl catering order drops in the middle of the lunch rush. It's the only way a high-volume store survives.
-
-### How the DML Handles Catering Orders
-
-Catering is where the DML really earns its keep. When a catering order drops—and these can range from 10 bowls for an office lunch to 50+ bowls for corporate events—the process shifts significantly:
-
-1.  **Advance notice:** Catering orders are typically placed at least 2 hours in advance (24 hours for large orders). The DML lead reviews incoming catering tickets at the start of every shift and builds a production timeline.
-2.  **Batch building:** Instead of making bowls one at a time, the DML lead will line up 10–15 bowls on the counter and work through them assembly-line style—all bases first, then all proteins, then all toppings. This batching method is roughly 40% faster than individual builds.
-3.  **Packaging differences:** Catering bowls get sealed with a tamper-evident lid and a branded label that includes the customer name, bowl contents, and any allergy flags. Large catering orders are packed into branded catering boxes (6 bowls per box) with individual dressing cups on the side rather than drizzled on top.
-4.  **Staging:** Completed catering orders are staged on a dedicated shelf near the back door for driver pickup, separate from the regular online order pickup shelf.
-
-## The 86 Board System
-
-When Cava runs out of an ingredient during service—and it happens more often than you'd think during a 300-bowl lunch rush—the 86 board is the communication lifeline.
-
-Most stores use a simple dry-erase whiteboard mounted near the kitchen pass, visible to both the front makeline and the DML. When an item runs out:
-
-1.  **The prep cook or line worker calls "86 Harissa Honey Chicken"** loud enough for the entire line to hear.
-2.  **The shift lead writes it on the 86 board** with the time it was called and an estimated restock time (e.g., "86 HHC — 12:45 PM — back by 1:15 PM").
-3.  **The base station worker** is responsible for informing every guest before they start building their bowl. Nothing is worse than a customer getting to the protein station and finding out their chicken is gone after they've already committed to a base.
 
 ### Substitution Protocol
 

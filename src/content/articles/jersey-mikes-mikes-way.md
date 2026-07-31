@@ -20,7 +20,7 @@ faq:
     shaker for salt.'
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-When working at Jersey Mike's, it's Actually to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." 
+When working at Jersey Mike's, it's critical to understand: you're not just putting cold cuts on bread. Jersey Mike's built an entire brand around a specific rhythm—fresh slicing, theatrical presentation, and most importantly, finishing every cold sub with a signature flourish called "Mike's Way." 
 
 If you're assigned to the sprinkler station (the position adding vegetables and condiments), memorizing the exact Mike's Way sequence is day-one mandatory knowledge. Do it out of order and you'll produce a soggy, structurally unsound mess that falls apart in the customer's hands. Do it right and you'll understand why this five-ingredient finish has become one of the most recognized signatures in the sub sandwich industry. 
 

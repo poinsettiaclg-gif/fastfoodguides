@@ -30,7 +30,7 @@ If you spend any time scrolling through TikTok or Instagram Reels, your feed is 
 
 In front of a ring light, these custom drinks generate millions of views. Behind the Starbucks counter, however, they represent a significant **logistical bottleneck**.
 
-As someone who spent a decade managing high-volume quick-service restaurant (QSR) operations, Actually that the internet's obsession with "Secret Menu Hacks" is an ongoing battle against kitchen throughput. While simple modifications are built into the Starbucks business model, viral hacks frequently defy thermodynamic limits, disrupt the barista's [Beverage Routine](/articles/starbucks-morning-rush), and destroy store-level Speed of Service (SOS) timers.
+As someone who spent a decade managing high-volume quick-service restaurant (QSR) operations, I know that the internet's obsession with "Secret Menu Hacks" is an ongoing battle against kitchen throughput. While simple modifications are built into the Starbucks business model, viral hacks frequently defy thermodynamic limits, disrupt the barista's [Beverage Routine](/articles/starbucks-morning-rush), and destroy store-level Speed of Service (SOS) timers.
 ## 1. The Myth of the "Secret Menu" Button
 
 ![Operational view](../../assets/images/general/generic-fryer.webp)
