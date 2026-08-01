@@ -9,7 +9,7 @@ import AuthorBylineTop from '../components/AuthorBylineTop.astro';
 import AuthorBylineBottom from '../components/AuthorBylineBottom.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
-import NewsletterCTA from '../components/NewsletterCTA.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 import AdPlaceholder from '../components/AdPlaceholder.astro';
 import GiscusComments from '../components/GiscusComments.astro';
 
@@ -633,7 +633,7 @@ if (faq && faq.length > 0) {
 
 					<slot />
 
-					<NewsletterCTA />
+					<NewsletterSignup />
 
 					{faq && faq.length > 0 && (
 						<section class="faq-section">
@@ -687,6 +687,10 @@ if (faq && faq.length > 0) {
 							</div>
 						</div>
 					)}
+
+					<div style="margin-top: 2.5rem;">
+						<NewsletterSignup />
+					</div>
 
 					<div style="margin-top: 2.5rem;">
 						<AdPlaceholder slot="sidebar-sticky" />
