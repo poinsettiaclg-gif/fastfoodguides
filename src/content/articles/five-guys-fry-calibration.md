@@ -20,11 +20,15 @@ relatedArticles:
 - five-guys-no-freezers
 - in-n-out-board-station
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
+disclaimerType: food_safety
 ---
 Five Guys is famous for two things: burgers that weigh more than your phone and fries that overflow the bag and fill the entire bottom of the paper sack. But that crispy-on-the-outside, mashed-potato-on-the-inside texture doesn't happen because someone presses a button on a commercial fryer. It happens because every single morning, before a single customer walks through the door, the opening crew runs a calibration ritual that would feel more at home in a test kitchen than a fast-food restaurant. I've worked alongside Five Guys operators and trained under their systems, and the level of daily attention they give to a french fry is something most chains wouldn't even consider. 
 
 ## The Morning Potato Prep: It All Starts With a Knife and Cold Water
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Five Guys does not use frozen fries. Not a single frozen potato product exists anywhere in their building. Every morning, the prep team hauls 50-pound bags of raw Idaho or Kennebec potatoes out of the walk-in cooler, washes them, and runs them through heavy-duty wall-mounted manual slicers that cut each potato into uniform sticks in one pull of the lever. 
 
@@ -34,7 +38,7 @@ Five Guys does not use frozen fries. Not a single frozen potato product exists a
 
 But The reality on the ground is about the prep—cutting the potatoes is the easy part. The critical step is what happens immediately after: the starch wash. 
 
-Once cut, the fries are dumped into large buckets of cold water. This isn't a quick rinse under the faucet. The cut fries soak in that water, and the water gets changed multiple times until it runs relatively clear. Cloudy water means there's still excess surface starch clinging to the fries, and that starch is the enemy. If it stays on, the fries will brown and burn on the outside before the interior is fully cooked, and they'll stick together in clumps instead of separating into individual crispy sticks.
+Once cut, the fries are dumped into large buckets of cold water. This isn't a quick rinse under the faucet. The cut fries soak in that water, and the water gets changed multiple times until it runs relatively clear. Cloudy water means there is still excess surface starch clinging to the fries, and that starch is the enemy. If it stays on, the fries will brown and burn on the outside before the interior is fully cooked, and they'll stick together in clumps instead of separating into individual crispy sticks.
 
 Some batches need 20 minutes of soaking. Others need 30 or more, depending on how starchy the particular potato variety is that week. This variable alone—how long the starch wash takes—is one of the first things the opening crew has to evaluate each morning. A new shipment of potatoes from a different farm can require a completely different soak time than the batch from last week. It's not something you can set and forget.
 
@@ -56,12 +60,12 @@ The science is straightforward: the first cook gelatinizes the starch inside the
 ![What is the Five Guys ](../../assets/images/general/generic-fryer.webp)
 
 
-Here's the thing nobody outside the industry understands about potatoes: they're a living agricultural product, and they change constantly. A potato harvested in September has different sugar content than one harvested in November. A potato stored in cold conditions for two months has converted more of its starch into sugar. A potato from Idaho behaves differently than one from Washington state. These variations directly affect how fast the fry browns, how long it needs to cook, and what the finished product looks and tastes like.
+This is the thing nobody outside the industry understands about potatoes: they're a living agricultural product, and they change constantly. A potato harvested in September has different sugar content than one harvested in November. A potato stored in cold conditions for two months has converted more of its starch into sugar. A potato from Idaho behaves differently than one from Washington state. These variations directly affect how fast the fry browns, how long it needs to cook, and what the finished product looks and tastes like.
 
 Every morning, before the store opens, the opening manager and the fry cook run the calibration:
 
 1. **Test batch of pre-cooks.** They drop a small batch of that day's potatoes into the oil and pull them at the standard time.
-2. **The Mush Test.** They take a pre-cooked fry, break it in half, and squeeze the interior between their fingers. The inside should have the consistency of smooth mashed potatoes—no hard, raw, grainy bits. If there's resistance, the pre-cook time needs to go up.
+2. **The Mush Test.** They take a pre-cooked fry, break it in half, and squeeze the interior between their fingers. The inside should have the consistency of smooth mashed potatoes—no hard, raw, grainy bits. If there is resistance, the pre-cook time needs to go up.
 <div class="callout callout-tip">**ProTip:** The Mush Test requires a cooling period. If you don't let the pre-cooked fry rest for at least 2-3 minutes before squeezing it, it will disintegrate and give you a false reading of being under-cooked.</div>
 3. **Test batch of final cooks.** They take pre-cooked fries through the second stage and evaluate the result.
 4. **Visual color check.** Five Guys has strict visual standards. Finished fries should be light golden—never pale and limp, never dark brown. If the edges are browning too quickly, the temperature gets adjusted down a few degrees. If they're coming out too light, the timer gets bumped up.
@@ -79,11 +83,11 @@ Five Guys exclusively uses 100% refined peanut oil for frying. The choice isn't 
 - **Clean, neutral-to-nutty flavor.** Peanut oil complements the potato without overpowering it. You taste potato and salt, not oil.
 - **Consistent performance.** Peanut oil maintains its viscosity and cooking properties across multiple batches better than most alternatives, which means more consistent fry quality throughout a long service day.
 
-The trade-off is the allergen risk. Every Five Guys location posts prominent peanut allergy warnings, and the open boxes of peanuts in the dining area reinforce the point. If a customer has a severe peanut allergy, Five Guys is unfortunately not an option for them—there's no workaround.
+The trade-off is the allergen risk. Every Five Guys location posts prominent peanut allergy warnings, and the open boxes of peanuts in the dining area reinforce the point. If a customer has a severe peanut allergy, Five Guys is unfortunately not an option for them—there is no workaround.
 
 ## Seasonal Shifts: The January Problem
 
-Here's a detail that separates experienced Five Guys fry cooks from rookies: potatoes harvested in late fall convert starch to sugar during cold winter storage. By January and February, the sugar content in stored potatoes can spike noticeably. Higher sugar means faster browning, which means your September timer settings will burn your January fries.
+This is a detail that separates experienced Five Guys fry cooks from rookies: potatoes harvested in late fall convert starch to sugar during cold winter storage. By January and February, the sugar content in stored potatoes can spike noticeably. Higher sugar means faster browning, which means your September timer settings will burn your January fries.
 
 Veteran fry cooks watch for this proactively. If test batches start coming out darker than expected after the New Year, they drop their timers by 10 to 15 seconds before the first customer even orders. Rookies who don't anticipate the seasonal shift will spend the first hour of service shipping dark-brown, over-caramelized fries and fielding complaints before they figure out what changed.
 

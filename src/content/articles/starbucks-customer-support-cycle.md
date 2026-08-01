@@ -23,11 +23,14 @@ faq:
     brewing coffee and restocking\u2014must always get done, even if the lobby check\
     \ is skipped."
 heroImage: ../../assets/images/general/generic-pos-3.webp
-disclaimerType: medical
 ---
 During a busy morning at Starbucks, you might notice one barista who isn't making drinks and isn't taking orders. They're sprinting around the store—dumping ice into bins, hauling milk from the back room, wiping down the condiment bar, and checking trash cans. They look like they're doing random chores. They're not. That barista is running the Customer Support role, and if they stop moving, the entire store collapses within minutes. Pulling double shifts taught me that it happen. The process operates under strict guidelines:
 
 ## The Timed Cadence: 8, 10, or 15 Minutes
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. 
 

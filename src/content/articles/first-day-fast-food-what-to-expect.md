@@ -23,7 +23,6 @@ faq:
 - question: Do you get paid for orientation and training videos in fast food?
   answer: Yes. By federal law, all onboarding orientation, paperwork completion, and
     digital training video modules must be fully paid at your agreed-upon hourly wage.
-disclaimerType: medical
 ---
 The store smells like fryer oil and industrial sanitizer. The manager who hired you isn't even working today—instead, a shift lead you've never met hands you a stack of paperwork and points at a wobbly table in the break room. Welcome to orientation.
 
@@ -32,6 +31,10 @@ That anxious knot in your stomach? Every single person in that building had it o
 The reality of your first day is much more structured, much slower-paced, and largely focused on compliance, safety, and foundational repetition. Let's break down what happens on your first day working in fast-food, what you need to bring, and how to work your first shift without panicking.
 
 ## 1. Before You Arrive: The Non-Negotiable Checklist
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![What to Expect on Your First Day of Fast Food A Complete Survival Guide](../../assets/images/general/generic-exterior.webp)
 
@@ -119,7 +122,7 @@ Let's clear up the biggest misconception in the restaurant industry: **No kitche
 
 If you try to move at the speed of a 5-year kitchen veteran on your first afternoon, you will spill drinks, drop food on the floor, burn your forearms on the heat lamps, and ring up orders incorrectly. Speed is a byproduct of muscle memory, and muscle memory takes weeks to build.
 
-Here is what your leadership team is actually evaluating during your first 8 hours:
+This is what your leadership team is actually evaluating during your first 8 hours:
 *   **Punctuality and Readiness:** Did you clock in exactly on time, in full uniform, with your shirt tucked in and your hat on straight?
 *   **Coachability:** When your trainer corrects a technique (e.g., *"Make sure you hold the fry scoop at a 45-degree angle so the carton opens fully"*), do you apply the feedback immediately without becoming defensive?
 *   **Sanitation Awareness:** Are you automatically washing your hands and changing your nitrile gloves after touching your face, picking up a dropped spatula from the floor, or handling cash?

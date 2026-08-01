@@ -26,13 +26,17 @@ If you're assigned to the sprinkler station (the position adding vegetables and 
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
+
 ![What is ](../../assets/images/general/generic-walk-in-2.webp)
 
 
 
 
 
-When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. Here's the sequence and why each step matters: 
+When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. This is the sequence and why each step matters: 
 
 1. **Onions:** Thinly sliced white onions go directly onto the meat. They sit against the bread and create a moisture barrier that helps prevent the juice from instantly soaking through to the bottom of the roll.
 2. **Lettuce:** Freshly shredded iceberg lettuce is piled generously on top of the onions. The lettuce acts as a structural cushion—it absorbs the juice without turning into a soggy mess, distributing moisture evenly instead of letting it pool.
@@ -54,12 +58,12 @@ The sequence is structural engineering disguised as sandwich making. If you reve
 
 The tomatoes need to be on top because their flat, wet surface catches and holds the juice momentarily, giving it time to drip down gradually through the lettuce. The onions need to be on the bottom because their firm texture creates a barrier between the meat and the wet layers above. Every ingredient is in its position for a functional reason, and once you understand the physics of it, you'll never question the sequence again.
 
-## The [How Does the Arby's Slicer Work (And Is the Meat Real)?](/articles/arbys-meat-slicer/): Speed, Danger, and Respect
+## The How Does the Arby's Slicer Work (And Is the Meat Real)?: Speed, Danger, and Respect
 
 ![What is ](../../assets/images/general/generic-drive-thru-3.webp)
 
 
-While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There's no pre-sliced, packaged deli meat anywhere in the operation.
+While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There is no pre-sliced, packaged deli meat anywhere in the operation.
 
 During a Friday lunch rush, the slicer operator is flying. The blade spins at extremely high speed and can slice through skin and bone instantly. The slicer station generates the most workplace injuries at Jersey Mike's locations, and the safety rules are absolute:
 

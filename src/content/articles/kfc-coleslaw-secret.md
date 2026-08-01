@@ -20,11 +20,14 @@ faq:
   answer: The dressing is a carefully balanced ratio of mayonnaise, sugar, buttermilk,
     and vinegar that relies on osmosis to extract water from the cabbage over 12 hours.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
 ---
 One operational reality often surprises new KFC hires: the coleslaw you serve at 11:00 AM opening was mixed by the closing crew the night before. That's not a corner being cut—it's the entire point. The mandatory overnight rest is what transforms a pile of chopped cabbage and acidic dressing into the creamy, sweet side that customers have been obsessing over for decades. I've watched new prep cooks taste freshly mixed coleslaw, make a face, and assume something went wrong. Nothing went wrong. It just isn't finished yet. 
 
 ## The Fine Chop: Why Confetti, Not Shreds
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![The Secret to KFC Coleslaw Why It Sits Overnight](../../assets/images/general/generic-drive-thru-3.webp)
 

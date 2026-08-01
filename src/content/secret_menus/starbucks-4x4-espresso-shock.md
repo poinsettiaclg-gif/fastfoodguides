@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The Starbucks 4x4 Espresso Shock: Why 4 Rapid Shots of Espresso Cause Thermal
   Curdling in Dairy Matrixes'
 description: A former QSR beverage manager breaks down the Mastrena espresso machine
@@ -43,7 +44,7 @@ Among high-volume coffee shop custom orders, few builds generate as much mechani
 
 While customers view the 4x4 as an efficient, highly concentrated caffeine delivery vehicle (packing upwards of 300 milligrams of caffeine), commercial beverage managers recognize it as a workflow bottleneck that threatens milk emulsion stability. In a busy Starbucks drive-thru operating under strict 45-second window time targets, an order requiring four consecutive shots of espresso disrupts the standardized barista sequencing routine.
 
-The operational reality inside the Mastrena super-automatic espresso machine when a 4-shot pull is initiated? From espresso extraction physics and thermal shock curdling to syrup pump calibration and dairy fat matrixes, here is the technical operational reality behind building the 4x4 Espresso Shock.
+The operational reality inside the Mastrena super-automatic espresso machine when a 4-shot pull is initiated? From espresso extraction physics and thermal shock curdling to syrup pump calibration and dairy fat matrixes, this is the technical operational reality behind building the 4x4 Espresso Shock.
 
 ## 1. Mastrena Extraction Physics and Bar Sequencing Bottlenecks
 
@@ -113,7 +114,7 @@ Because the espresso has already been buffered by the sugars and cocoa butter of
 
 When ordering high-intensity secret menu builds at commercial coffee chains, using viral internet slang terms is a major operational faux pas that causes immediate friction at the point of sale (POS).
 
-In many retail coffee environments, cashiers and baristas are instructed by store managers to reject orders using slang names that reference illicit substances or unauthorized medical claims. If a customer steps up to the register and asks for a "Liquid Cocaine" or a "Crack Macchiato," a newer employee will simply state that no such item exists on the corporate menu screen. A veteran shift supervisor may step in and politely request that the customer specify the exact ingredient modifiers they want rang into the register.
+In many retail coffee environments, cashiers and baristas are instructed by store managers to reject orders using slang names that reference illicit substances or unauthorized medical claims. If a customer steps up to the register and asks for a "Quad Over Ice" or a "High-Caffeine Macchiato," a newer employee will simply state that no such item exists on the corporate menu screen. A veteran shift supervisor may step in and politely request that the customer specify the exact ingredient modifiers they want rang into the register.
 
 ### How to Order Like a QSR Veteran
 To bypass counter confusion, ensure accurate POS pricing, and show respect for the barista's workflow, always order using standard corporate modification syntax:

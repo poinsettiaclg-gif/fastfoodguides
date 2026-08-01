@@ -1,0 +1,153 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import MacroCalculator from '../../components/MacroCalculator.astro';
+
+const title = 'Fast Food Macro Calculator | Fast Food Guides';
+const description = 'Calculate the exact macros and estimated pricing for custom fast food orders and secret menu hacks.';
+
+const faq = [
+	{
+		question: "Are secret menu macros accurate?",
+		answer: "Since secret menus are unofficial, restaurants do not provide official nutritional data for them. However, our calculator uses the exact component portions (like an extra 1.5oz slice of cheese or a 4oz beef patty) to estimate the macros precisely, giving you the most accurate data available."
+	},
+	{
+		question: "How do you calculate the price of custom modifications?",
+		answer: "We base our pricing on national averages for standard modifiers (e.g., $1.50 for an extra patty, $0.60 for extra cheese). Keep in mind that prices vary significantly by franchise and geographic region, so your final ticket at the window might be slightly different."
+	}
+];
+
+const schemas = {
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": faq.map((q) => ({
+		"@type": "Question",
+		"name": q.question,
+		"acceptedAnswer": {
+			"@type": "Answer",
+			"text": q.answer
+		}
+	}))
+};
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify(schemas).replace(/</g, '\\u003c')} />
+		<style>
+			main {
+				width: 100%;
+				max-width: 1000px;
+				margin: 0 auto;
+				padding: 3rem 1.5rem;
+			}
+			.tool-header {
+				text-align: center;
+				margin-bottom: 3rem;
+			}
+			.tool-header h1 {
+				font-size: 2.5rem;
+				color: var(--text-primary);
+				margin-bottom: 1rem;
+			}
+			.tool-header p {
+				font-size: 1.1rem;
+				color: #94A3B8;
+				max-width: 600px;
+				margin: 0 auto;
+			}
+			.content-block {
+				margin-top: 4rem;
+				color: #CBD5E1;
+				line-height: 1.7;
+			}
+			.content-block h2 {
+				color: #F8FAFC;
+				margin-top: 2rem;
+				margin-bottom: 1rem;
+			}
+			.content-block h3 {
+				color: #E2E8F0;
+				margin-top: 1.5rem;
+				margin-bottom: 0.75rem;
+			}
+			.callout {
+				margin: 2rem 0;
+				padding: 1.5rem;
+				border-radius: 0.75rem;
+				background: rgba(16, 185, 129, 0.05);
+				border: 1px solid rgba(16, 185, 129, 0.3);
+				border-left: 4px solid var(--accent);
+			}
+			.callout strong {
+				color: var(--accent);
+				font-size: 1.05em;
+				display: block;
+				margin-bottom: 0.5rem;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+			.faq-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 1px solid rgba(255, 255, 255, 0.08);
+			}
+			.faq-item {
+				margin-bottom: 1.5rem;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="tool-header">
+				<h1>Macro & Modification Calculator</h1>
+				<p>See how much that extra patty or extra cheese actually affects your total calories, macros, and ticket price.</p>
+			</div>
+
+			<MacroCalculator />
+
+			<div class="content-block">
+				<h2>Why We Built This Tool</h2>
+				<p>
+					The biggest issue with ordering Fast Food Secret Menu items or heavily modifying your burger is that the standard nutritional data goes out the window. If you ask for a Whopper with no bun, an extra patty, and extra cheese, the calorie count and protein load changes drastically. But by how much?
+				</p>
+				<p>
+					Most calorie counting apps completely fail when it comes to custom fast food orders because they only pull the base menu item from their database. They don't know the exact caloric load of a single slice of American cheese or a 1/4 lb beef patty. We built this interactive calculator to help you track your macros precisely. As former kitchen managers, we know exactly what portion sizes are used when you ask for "extra cheese" (typically two standard slices instead of one, depending on the brand) or "extra sauce" (usually one extra pump or half-ounce packet). We have programmed those exact nutritional specs into this tool.
+				</p>
+
+				<h3>Understanding Modification Macros</h3>
+				<p>
+					When you order a "Double" anything, the math seems simple. But when you start adding specific condiments, the reality of the line comes into play. For instance, extra mayo at most chains is administered with a standardized scoop or a caulking-gun style dispenser that pumps out exactly half an ounce. That half-ounce adds nearly 100 calories of pure fat to your sandwich. If you are trying to hit strict macro goals, knowing these exact increments is crucial.
+				</p>
+
+				<div class="callout callout-tip">
+					<strong>PRO TIP FROM THE KITCHEN</strong>
+					If you are tracking calories strictly, never ask for "extra sauce" on the sandwich itself. The reality of a fast food kitchen during a rush is that the person on the assembly line will just squeeze a massive, unmeasured glob of sauce onto the bun to save time. Always ask for sauce packets on the side. You control the exact portion and the exact macros.
+				</div>
+
+				<h3>How Pricing Works</h3>
+				<p>
+					Another major headache of custom orders is the unpredictable upcharge. While the national average for adding bacon is around $0.80 to $1.50, franchise owners have massive leeway in how they price add-ons in their Point of Sale (POS) system. Our calculator uses aggregated national averages to give you a realistic estimate of your final ticket price. Always expect a slight variance depending on your local market and whether the store is corporate or franchise-owned.
+				</p>
+				<p>
+					We will continue to update this calculator with more base items and modifiers as we expand our secret menu database. If you have a specific chain or hack you want added to the calculator, drop a comment on one of our chain guides!
+				</p>
+				
+				<div class="faq-section">
+					<h2>Frequently Asked Questions</h2>
+					{faq.map((item) => (
+						<div class="faq-item">
+							<h3>{item.question}</h3>
+							<p>{item.answer}</p>
+						</div>
+					))}
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

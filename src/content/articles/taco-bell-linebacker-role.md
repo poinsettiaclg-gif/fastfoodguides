@@ -25,9 +25,13 @@ heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 During a lunch rush at Taco Bell, the makeline is a blur of flying tortillas, sour cream guns, and nacho cheese pumps. Orders scroll down the screen faster than they can be cleared. The Starter is steaming shells and dropping beef. The Stuffer is wrapping and bagging. And somewhere behind all of them—moving constantly, scanning everything, carrying pans of ingredients back and forth like a short-order supply chain—is the Linebacker. 
 
-If your shift lead assigns you to be the Linebacker, here is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. 
+If your shift lead assigns you to be the Linebacker, this is the reality: you do not actually make the food. Your entire job is to serve the people who are making the food. You are the invisible support system that keeps the line running at full speed. And when you do it right, nobody notices you at all. When you do it wrong, the entire kitchen grinds to a halt. 
 
 ## How the Makeline Is Divided
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![What Is the Taco Bell ](../../assets/images/general/generic-drive-thru-3.webp)
 

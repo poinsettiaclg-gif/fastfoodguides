@@ -1,7 +1,7 @@
 ---
 title: 'Little Caesars Sheet-Out Machine: Press and Go'
 description: Little Caesars uses a mechanical press to standardize every pizza dough
-  round. Here's how the machine works and what the specs are per crust size.
+  round. This is how the machine works and what the specs are per crust size.
 pubDate: '2026-02-22'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -25,13 +25,17 @@ At a traditional pizzeria, making a crust is a craft. You take a dough ball, str
 
 ## What the Sheeter Actually Is
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![Little Caesars Sheet-Out Machine Press and Go](../../assets/images/general/generic-prep.webp)
 
 
 
 
 
-Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There's nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. 
+Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There is nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. 
 
 The rollers are calibrated to corporate specifications. The gap between them determines the exact thickness of every single pizza crust that leaves the store. When the gap is set correctly, every crust comes out at the same millimeter thickness—no thin spots, no thick spots, no holes where someone's thumb went through during an aggressive hand stretch. The consistency is the point. A customer who buys a Hot-N-Ready on Monday gets the exact same crust as the customer who buys one on Friday. That level of uniformity is impossible with hand-tossing, even with experienced pizza makers. 
 
@@ -58,7 +62,7 @@ The Sheeter is only as good as the dough going into it, and that dough is mixed 
 
 The ingredients are straightforward—flour, water, yeast, salt, sugar, and oil—combined on-site following the corporate recipe. Nothing about the dough is shipped pre-made or frozen from a central facility. The prep cook measures the ingredients, loads the Hobart, and lets it run through its mixing cycle.
 
-Here's where experience matters more than the recipe card lets on: water temperature. The yeast activation is temperature-dependent, and the ambient temperature of the kitchen changes the equation. On a hot summer day when the kitchen is already 85 degrees before the ovens fire up, you need slightly cooler water to prevent the yeast from over-activating. On a cold winter morning, warmer water compensates for the cool environment. Experienced prep cooks learn to adjust by feel. The corporate recipe gives a target water temperature, but the best dough comes from cooks who understand why the temperature matters and adapt accordingly.
+This is where experience matters more than the recipe card lets on: water temperature. The yeast activation is temperature-dependent, and the ambient temperature of the kitchen changes the equation. On a hot summer day when the kitchen is already 85 degrees before the ovens fire up, you need slightly cooler water to prevent the yeast from over-activating. On a cold winter morning, warmer water compensates for the cool environment. Experienced prep cooks learn to adjust by feel. The corporate recipe gives a target water temperature, but the best dough comes from cooks who understand why the temperature matters and adapt accordingly.
 
 Once the dough is mixed, it's portioned into pre-weighed dough balls. The weight determines the final pizza size—heavier balls for large pizzas, lighter for specialty sizes. Consistent portioning is critical because the Sheeter's roller gap is fixed. A dough ball that's 10% heavier than spec comes out 10% thicker than intended, throwing off bake times and crust texture.
 
@@ -70,7 +74,7 @@ After sheeting, the flattened dough circle goes immediately into a heavily oiled
 
 The panned dough then goes onto a proofing rack—a tall wire rack on wheels that holds dozens of pans—and sits for two to four hours while the yeast does its work. Proofing is when the yeast produces carbon dioxide, creating the air bubbles that give the crust its structure and chew.
 
-The proofing window is non-negotiable. Under-proofed dough produces a dense, cracker-like crust with no softness or chew—customers will notice immediately. Over-proofed dough becomes bubbly and fragile, collapsing when toppings are added and producing a flat, greasy pizza with giant air pockets. The timing means the morning prep crew is working several hours ahead of the kitchen. Pizzas for the lunch rush were panned first thing in the morning. Pizzas for the dinner rush were panned mid-morning. If the morning crew falls behind on prep, the kitchen runs out of proofed dough at 5 PM during the dinner rush, and there's no way to fast-forward the proof. You're dead in the water for two hours.
+The proofing window is non-negotiable. Under-proofed dough produces a dense, cracker-like crust with no softness or chew—customers will notice immediately. Over-proofed dough becomes bubbly and fragile, collapsing when toppings are added and producing a flat, greasy pizza with giant air pockets. The timing means the morning prep crew is working several hours ahead of the kitchen. Pizzas for the lunch rush were panned first thing in the morning. Pizzas for the dinner rush were panned mid-morning. If the morning crew falls behind on prep, the kitchen runs out of proofed dough at 5 PM during the dinner rush, and there is no way to fast-forward the proof. You're dead in the water for two hours.
 
 ## Sheeter Maintenance: When the Machine Goes Down
 

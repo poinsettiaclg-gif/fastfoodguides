@@ -37,6 +37,8 @@ const secretMenus = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: image().optional(),
+			author: z.string().optional(),
+			authorTitle: z.string().optional(),
 			chain: z.string(),
 			operationalAnnoyanceScore: z.number().min(1).max(10),
 			isVerified: z.boolean(),

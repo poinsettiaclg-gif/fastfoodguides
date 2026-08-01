@@ -20,11 +20,15 @@ relatedArticles:
 - chipotle-grill-validation
 - arbys-meat-slicer
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
+disclaimerType: food_safety
 ---
-Walk-in freezers are the safety net of the fast-food industry—unless you work at Five Guys. Running a high-volume restaurant with absolutely zero frozen storage is an operational tightrope walk that forces crews into hours of brutal daily prep. If the morning team falls behind on hand-rolling patties or washing potatoes, there's no backup box of frozen product to pull from. The claim isn't marketing spin; it's a relentless daily reality. 
+Walk-in freezers are the safety net of the fast-food industry—unless you work at Five Guys. Running a high-volume restaurant with absolutely zero frozen storage is an operational tightrope walk that forces crews into hours of brutal daily prep. If the morning team falls behind on hand-rolling patties or washing potatoes, there is no backup box of frozen product to pull from. The claim isn't marketing spin; it's a relentless daily reality. 
 
 ## The Walk-In Cooler: The Single Most Important Piece of Equipment in the Building
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![Does Five Guys Really Not Have Any Freezers?](../../assets/images/general/generic-walk-in-2.webp)
 
@@ -52,7 +56,7 @@ The cooler compressor is essentially the heartbeat of the restaurant. If it stop
 ![Does Five Guys Really Not Have Any Freezers?](../../assets/images/general/generic-walk-in-2.webp)
 
 
-Here's where the no-freezer reality hits hardest for employees. At most fast-food chains, the morning prep involves pulling frozen product out of the freezer, stacking it on the line, and maybe doing some light slicing or portioning. At Five Guys, there is no frozen product to pull. Everything starts from raw, whole ingredients, and every single item has to be prepped by hand.
+This is where the no-freezer reality hits hardest for employees. At most fast-food chains, the morning prep involves pulling frozen product out of the freezer, stacking it on the line, and maybe doing some light slicing or portioning. At Five Guys, there is no frozen product to pull. Everything starts from raw, whole ingredients, and every single item has to be prepped by hand.
 
 **The beef:** Meat arrives fresh in vacuum-sealed chubs (tubes). The prep team has to manually weigh out individual portions and hand-roll every hamburger patty for the day. A busy Five Guys location might roll 1,000 to 2,000 patties by hand every single morning. That's hours of repetitive, physical work—weigh, ball, flatten into the mold, stack on a tray, repeat. There are no pre-formed frozen patties to unwrap.
 

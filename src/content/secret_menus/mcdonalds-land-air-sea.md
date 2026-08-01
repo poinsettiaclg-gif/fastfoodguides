@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The McDonald''s Land, Air, and Sea: Why Combining Three Fryer & Griddle Zones
   Creates Kitchen Gridlock'
 description: A former QSR operations manager exposes the Universal Holding Cabinet
@@ -100,7 +101,7 @@ When these three sauces meet inside a closed sandwich wrap, the thermal energy o
 
 The behind-the-counter chaos caused by customers attempting to order custom Land, Air, and Sea builds reached a breaking point in early 2022. Across the country, drive-thru timer metrics—which corporate McDonald's tracks to the millisecond via overhead magnetic induction loops—were spiking whenever a cashier attempted to ring up ad-hoc modifiers for multi-protein burgers.
 
-Even worse, corporate safety auditors recognized a severe legal and medical liability: line workers frantically rushing to slap fried Alaskan Pollock onto beef buns were inadvertently dripping tartar sauce and seafood crumbs onto the primary beef preparation tables. For a subsequent customer with a severe seafood allergy ordering a plain double cheeseburger, that cross-contact could trigger an anaphylactic medical emergency.
+Even worse, corporate safety auditors recognized a severe legal and severe operational risk: line workers frantically rushing to slap fried Alaskan Pollock onto beef buns were inadvertently dripping tartar sauce and seafood crumbs onto the primary beef preparation tables. For a subsequent customer with a severe seafood allergy ordering a plain double cheeseburger, that cross-contact could trigger an severe cross-contamination hazard.
 
 To resolve the operational crisis without alienating online creators, corporate McDonald's executed a brilliant operational countermove: in late January 2022, they officially added the "Land, Air, and Sea" to the digital menu kiosks and mobile app as a limited-time "Menu Hack" promotion.
 

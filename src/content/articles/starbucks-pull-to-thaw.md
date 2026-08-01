@@ -30,6 +30,10 @@ When you see a display case full of perfectly golden croissants, neatly arranged
 
 ## The 18-Hour Thaw Cycle
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![How the Starbucks ](../../assets/images/general/generic-prep.webp)
 
 
@@ -40,7 +44,7 @@ You can't take a frozen Lemon Loaf out of a box and hand it to a customer. Almos
 
 The full thaw takes approximately 18 hours. That means the pastries you buy at 7:00 AM on Wednesday were physically pulled from the walk-in freezer by a Shift Supervisor on Tuesday afternoon, typically between 1:00 PM and 3:00 PM. The timing is precise for a reason: pull too early and the pastries will be past their shelf life before the store sells through them. Pull too late and the morning crew opens to empty pastry trays and furious early-bird customers who just want a butter croissant with their latte. 
 
-Here's the thing nobody tells new partners about the thaw timing: it doesn't just depend on the clock. Ambient temperature matters too. During summer months, when the back-of-house area can run warm, pastries may thaw slightly faster than expected. During winter, when the store runs cooler, they might take a full 20 hours. Experienced SSVs learn to account for this and may adjust their pull time by an hour depending on the season.
+This is the thing nobody tells new partners about the thaw timing: it doesn't just depend on the clock. Ambient temperature matters too. During summer months, when the back-of-house area can run warm, pastries may thaw slightly faster than expected. During winter, when the store runs cooler, they might take a full 20 hours. Experienced SSVs learn to account for this and may adjust their pull time by an hour depending on the season.
 
 ## The iPad Algorithm: Data-Driven Pastry Counts
 
@@ -50,7 +54,7 @@ The system analyzes historical sales data—"Last Tuesday we sold 45 Cheese Dani
 
 The algorithm also factors in seasonal trends, local events, and promotional launches. If corporate just dropped a new limited-time Raspberry Scone, the system ramps up the suggested pull count for the first few weeks and then scales back as the novelty fades and actual sales data flows in.
 
-But here's the operational reality: the algorithm gets it right about 90% of the time. The other 10% is where human judgment matters. An experienced SSV will manually adjust for things the system cannot predict—a massive college football game that will double foot traffic on Saturday morning, a snowstorm that will cut traffic in half, or the fact that the neighboring office building just went fully remote and Tuesday mornings are suddenly dead. Learning when to trust the algorithm and when to override it is one of the hardest parts of the SSV role.
+But this is the operational reality: the algorithm gets it right about 90% of the time. The other 10% is where human judgment matters. An experienced SSV will manually adjust for things the system cannot predict—a massive college football game that will double foot traffic on Saturday morning, a snowstorm that will cut traffic in half, or the fact that the neighboring office building just went fully remote and Tuesday mornings are suddenly dead. Learning when to trust the algorithm and when to override it is one of the hardest parts of the SSV role.
 
 <div class="callout callout-tip">**ProTip:** If you unexpectedly run out of an item mid-day, always record an "emergency pull" in the Fresh Production app rather than just grabbing extra stock. This forces the system to learn the new demand pattern for future recommendations.</div>
 
@@ -67,7 +71,7 @@ The SSV uses a pricing gun or specialized day-dot stickers to mark every single 
 
 At the end of each day, baristas perform a food count to identify every item that has hit or passed its Use By date. These pastries cannot be sold. They cannot be refrozen. They cannot be set aside "just in case."
 
-Many Starbucks locations participate in the FoodShare initiative, which donates unsold food to local food banks and community organizations. Items that can't be donated for logistical reasons get marked out through the POS system as waste. And here's the smart part: the waste data feeds directly back into the Pull to Thaw algorithm. If Blueberry Muffins are consistently getting thrown away on Mondays, the system gradually reduces the recommended pull count for Mondays until waste stabilizes. It's a self-correcting loop.
+Many Starbucks locations participate in the FoodShare initiative, which donates unsold food to local food banks and community organizations. Items that can't be donated for logistical reasons get marked out through the POS system as waste. And this is the smart part: the waste data feeds directly back into the Pull to Thaw algorithm. If Blueberry Muffins are consistently getting thrown away on Mondays, the system gradually reduces the recommended pull count for Mondays until waste stabilizes. It's a self-correcting loop.
 
 ## Freezer Organization: FIFO or Chaos
 

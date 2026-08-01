@@ -11,6 +11,7 @@ import TableOfContents from '../components/TableOfContents.astro';
 import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
 import NewsletterCTA from '../components/NewsletterCTA.astro';
 import AdPlaceholder from '../components/AdPlaceholder.astro';
+import GiscusComments from '../components/GiscusComments.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
 
@@ -44,25 +45,25 @@ const schemas: any[] = [
 		"@type": "Article",
 		"headline": title,
 		"description": description,
-		"datePublished": pubDate.toISOString(),
-		...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+		"datePublished": pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+		"dateModified": updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : new Date().toISOString()),
 		...(chain && { "articleSection": chain }),
-		"image": heroImage ? [new URL(heroImage.src, Astro.url).href] : ["https://fastfoodguides.com/og-default.png"],
+		"image": heroImage ? [new URL(heroImage.src, (Astro.site || Astro.url.origin)).href] : ["https://fastfoodguides.com/og-default.png"],
 		"inLanguage": "en",
 		"author": {
 			"@type": "Person",
 			"name": author || "Russell Roseberry",
 			"jobTitle": authorTitle || "Multi-Unit Kitchen Manager",
-			"url": "https://fastfoodguides.com/author/" + (author ? author.toLowerCase().replace(/ /g, '-') : "russell-roseberry"),
-			"image": "https://fastfoodguides.com/images/" + (author ? author.toLowerCase().replace(/ /g, '-') : "russell-roseberry") + ".jpg"
+			"url": new URL("/author/" + (author ? author.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-') : "russell-roseberry"), (Astro.site || Astro.url.origin)).href,
+			"image": new URL("/images/" + (author ? author.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-') : "russell-roseberry") + ".webp", (Astro.site || Astro.url.origin)).href
 		},
 		"publisher": {
 			"@type": "Organization",
 			"name": "Fast Food Guides",
-			"url": "https://fastfoodguides.com",
+			"url": Astro.site || Astro.url.origin ? (Astro.site || Astro.url.origin).toString() : "https://fastfoodguides.com",
 			"logo": {
 				"@type": "ImageObject",
-				"url": "https://fastfoodguides.com/og-default.png"
+				"url": Astro.site || Astro.url.origin ? new URL("/og-default.png", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/og-default.png"
 			}
 		},
 		"mainEntityOfPage": {
@@ -71,6 +72,36 @@ const schemas: any[] = [
 		}
 	}
 ];
+
+schemas.push({
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"name": "Home",
+			"item": Astro.site || Astro.url.origin ? new URL("/", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/"
+		},
+		{
+			"@type": "ListItem",
+			"position": 2,
+			"name": "Guides",
+			"item": Astro.site || Astro.url.origin ? new URL("/articles/", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/articles/"
+		},
+		...(hasChainPage && chain ? [{
+			"@type": "ListItem",
+			"position": 3,
+			"name": chain,
+			"item": Astro.site || Astro.url.origin ? new URL(`/articles/chain/${slugifyChain(chain)}/`, (Astro.site || Astro.url.origin)).href : `https://fastfoodguides.com/articles/chain/${slugifyChain(chain)}/`
+		}] : []),
+		{
+			"@type": "ListItem",
+			"position": hasChainPage && chain ? 4 : 3,
+			"name": title,
+			"item": Astro.url.href
+		}
+	]
+});
 
 if (faq && faq.length > 0) {
 	schemas.push({
@@ -137,7 +168,9 @@ if (faq && faq.length > 0) {
 				.article-sidebar {
 					display: block;
 					position: sticky;
-					top: 2rem;
+					top: 6rem; /* 4rem header + 2rem spacing */
+					max-height: calc(100vh - 8rem);
+					overflow-y: auto;
 				}
 			}
 
@@ -567,11 +600,8 @@ if (faq && faq.length > 0) {
 					)}
 
 					<header class="article-header">
-						{chain && hasChainPage ? (
-							<a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>
-						) : chain ? (
-							<span class="chain-badge">{chain}</span>
-						) : null}
+						{chain && <a href={`/articles/chain/${slugifyChain(chain)}/`} class="chain-badge">{chain}</a>}
+						{isDebunk && <span class="chain-badge" style="background: rgba(239, 68, 68, 0.12); color: #EF4444; border-color: rgba(239, 68, 68, 0.3); margin-left: 0.5rem;">Debunked Myth</span>}
 						<h1>{title}</h1>
 						<AuthorBylineTop author={author} authorTitle={authorTitle} pubDate={pubDate} />
 						{
@@ -617,7 +647,7 @@ if (faq && faq.length > 0) {
 						</section>
 					)}
 
-					<div style="margin: 3rem 0;">
+					<div>
 						<AdPlaceholder slot="post-bottom" />
 					</div>
 
@@ -635,6 +665,8 @@ if (faq && faq.length > 0) {
 							</div>
 						</section>
 					)}
+
+					<GiscusComments />
 
 					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
 				</div>

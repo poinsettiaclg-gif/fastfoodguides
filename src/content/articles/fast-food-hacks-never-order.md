@@ -27,7 +27,6 @@ faq:
     off-station cross-lane travel, slow down drive-thru Speed of Service (SOS) timers,
     and frequently cause food waste when unconventional ingredient combinations collapse
     or burn.
-disclaimerType: medical
 ---
 You've seen them on social media: towering, dripping, impossibly complex fast-food creations. Influencers hold up a sandwich stuffed with three different meats, smothered in five sauces, and capped with mozzarella sticks, boldly claiming they have unlocked a "Secret Menu Cheat Code" at McDonald's, Burger King, or Taco Bell.
 
@@ -36,6 +35,10 @@ To the general public, these hacks look like creative culinary engineering. To a
 When a customer orders a viral hack at the drive-thru speaker, it does not just annoy the kitchen crew—it actively breaks the physical, thermodynamic, and food-safety systems designed to keep a restaurant running. Let's break down three viral fast-food hacks that destroy kitchen throughput, and why you should never order them.
 
 ## 1. The "Meat Mountain" (The Cross-Contamination Hazard)
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![3 Complex Secret Menu Hacks That Disrupt Kitchen Flow (And Why You Should Never](../../assets/images/general/generic-pos.webp)
 

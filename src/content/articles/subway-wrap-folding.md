@@ -77,7 +77,7 @@ Use a sharp serrated knife and cut with a single, confident stroke. Sawing back 
 
 Every Sandwich Artist eventually faces this customer: double meat, every vegetable, extra sauce, extra cheese. You know before you start that this wrap is going to be a nightmare.
 
-Here is the survival strategy. When the ingredient pile gets dangerously high, subtly compress the filling with your gloved hands before you start rolling. Press down gently but firmly to flatten the mound and eliminate air pockets. This reduces the overall volume without removing a single ingredient. The customer gets everything they asked for. You get a wrap that actually closes.
+This is the survival strategy. When the ingredient pile gets dangerously high, subtly compress the filling with your gloved hands before you start rolling. Press down gently but firmly to flatten the mound and eliminate air pockets. This reduces the overall volume without removing a single ingredient. The customer gets everything they asked for. You get a wrap that actually closes.
 
 If the wrap tears despite your best efforts—and it will happen—stay calm. Grab a second tortilla, lay it flat, place the torn wrap on top, and re-roll the whole thing as a double-wrapped item. The customer usually appreciates the extra effort, and it looks far more professional than handing over a leaking, torn catastrophe. Just do not make double-wrapping your default—it uses twice the product and will get flagged during food cost reviews.
 

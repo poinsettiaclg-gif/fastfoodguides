@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The Chipotle Quesarito: Why Line Workers Dread the 1,500-Calorie Burrito Hack'
 description: A former QSR operational manager breaks down the tortilla press mechanics,
   line throughput bottlenecks, and pricing reality of Chipotle's most infamous secret
@@ -35,7 +36,7 @@ authorTitle: Former Multi-Unit Kitchen Manager
 ---
 Among fast-casual secret menu items, few command as much notoriety—or generate as much behind-the-counter friction—as the **Chipotle Quesarito**. Originally popularized by online food communities in the early 2010s, the concept is straightforward: instead of wrapping a burrito in a standard flour tortilla, the line worker builds a melted cheese quesadilla out of two tortillas and uses that molten quesadilla as the wrapper for a full burrito.
 
-While customers view the Quesarito as the ultimate cheese-pull upgrade, quick-service restaurant (QSR) operational managers view it as a structural line-killer. In a high-volume Chipotle kitchen where peak lunch throughput targets require moving 45 to 60 entrees per hour down the front makeline, a single Quesarito order can halt the entire assembly rhythm. Here is the exact operational and mechanical reality behind the build, why kitchen crews dread it, and the manager-approved way to order one without stalling the line.
+While customers view the Quesarito as the ultimate cheese-pull upgrade, quick-service restaurant (QSR) operational managers view it as a structural line-killer. In a high-volume Chipotle kitchen where peak lunch throughput targets require moving 45 to 60 entrees per hour down the front makeline, a single Quesarito order can halt the entire assembly rhythm. This is the exact operational and mechanical reality behind the build, why kitchen crews dread it, and the manager-approved way to order one without stalling the line.
 
 ## 1. Anatomy of the Quesarito Build
 
@@ -79,3 +80,8 @@ Because of the severe impact on line throughput, many store managers instruct th
 * **The DIY Side-Quesadilla Method:** When you reach the start of the line, order a **"Side Quesadilla"** and a separate **"Burrito Bowl"** with your preferred proteins and toppings. 
 * **The Ergonomic Advantage:** The side quesadilla is folded in half and melted cleanly in the press or digital oven without holding up the burrito assembly rhythm. Your bowl is built at standard line speed.
 * **Tabletop Assembly:** Once you sit down at your table, open the folded side quesadilla, scoop the contents of your burrito bowl directly into the center, and roll it yourself. You get the exact same melted-cheese wrapper experience while saving money on the POS upcharge and keeping the kitchen line moving smoothly.
+
+
+### The Reality of the Line at Chipotle
+
+The Quesarito is infamous among Chipotle employees for a reason. Rolling a standard burrito is already a skill that requires perfectly managing the tortilla's structural integrity. A Quesarito adds an entire secondary layer of melted cheese and a second tortilla, creating a massive, structurally unstable cylinder. It slows down the press time by at least 30 seconds. In a store that processes hundreds of customers an hour, that 30-second delay per Quesarito cascades down the line, causing the salsa station to wait and frustrating customers who just want a standard bowl.

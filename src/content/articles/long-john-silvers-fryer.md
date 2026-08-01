@@ -17,12 +17,19 @@ faq:
     days depending on the store's volume and Total Polar Materials (TPM) readings.
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-2.webp
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.
 
 If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fuses to the heating elements, and ruins the entire vat of oil. On the line, it plays out like this:
 
 ## The Specialized Fryer Vat
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Long John Silver](../../assets/images/general/generic-drive-thru-3.webp)
 

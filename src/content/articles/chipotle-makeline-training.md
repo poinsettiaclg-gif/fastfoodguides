@@ -29,9 +29,13 @@ If you have ever stood in line at a high-volume Chipotle location during a weekd
 
 At peak efficiency, a top-performing Chipotle crew can process between **80 and 110 entrees per hour** across a single makeline—meaning a customized burrito, bowl, or salad is built, wrapped, rung up, and handed to a customer every 35 to 45 seconds. 
 
-Achieving this velocity without destroying food cost margins requires an obsessive approach to employee onboarding. When a new hire steps behind the counter, they do not simply "make burritos." They are trained on a strict division of labor between two operational zones: **Tortilla** and **Salsa**. Here is the insider breakdown of how Chipotle trains its makeline crew to survive the rush.
+Achieving this velocity without destroying food cost margins requires an obsessive approach to employee onboarding. When a new hire steps behind the counter, they do not simply "make burritos." They are trained on a strict division of labor between two operational zones: **Tortilla** and **Salsa**. This is the insider breakdown of how Chipotle trains its makeline crew to survive the rush.
 
 ## 1. The Tortilla Station: The Hot Side Foundation
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Chipotle Makeline Training Surviving the Lunch Rush on Tortilla and Salsa](../../assets/images/general/generic-pos.webp)
 

@@ -22,7 +22,7 @@ faq:
     \ again. If a new hire fails the test multiple times, the manager will usually\
     \ reassign them to a different position \u2014 front counter, prep, or steam table\
     \ service."
-disclaimerType: legal
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 I spent my first six months at Panda Express with no hair on my knuckles and a permanent ache in my right shoulder. The wok station isn't just a kitchen job—it's an athletic event. Wok Chefs stand over open flames, tossing 8-pound loads of battered chicken through fire and boiling sugar sauce at a speed that would make most home cooks panic. This isn't a flat-top grill job or pushing buttons on a fryer. This is one of the most physically demanding and genuinely dangerous positions in the entire fast-casual industry. 
@@ -30,6 +30,10 @@ I spent my first six months at Panda Express with no hair on my knuckles and a p
 I've trained people across multiple chains, and no exaggeration — honestly — the Panda Express wok station is in a league of its own for physical punishment. 
 
 ## The Heat and the Fire
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![How Dangerous is the Wok Chef Job at Panda Express?](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -45,7 +49,7 @@ The hazards are constant and unforgiving:
 - **Sugar sauce eruptions**: The Orange Chicken sauce contains a high sugar content that boils rapidly and can cause severe burns if it hits bare skin. Sugar sticks and keeps burning, unlike oil which rolls off. This is the injury that catches new staff off guard the most.
 - **Singed arm hair**: If you still have arm hair after your first month on the wok, you weren't standing close enough. Veteran Wok Chefs joke about this, but it's not really a joke.
 
-The environment around the wok station is brutal year-round, but summer is a special kind of misery. Even with the store's HVAC system running at full capacity, the area directly around the burners can exceed 110°F. Dehydration is a genuine medical concern — experienced Wok Chefs keep a water bottle within arm's reach and learn to take quick sips between batches. Some stores place a small fan near the wok station, but many managers discourage this because the airflow can cause the open flames to flare unpredictably and increase the risk of grease fires.
+The environment around the wok station is brutal year-round, but summer is a special kind of misery. Even with the store's HVAC system running at full capacity, the area directly around the burners can exceed 110°F. Dehydration is a genuine safety hazard — experienced Wok Chefs keep a water bottle within arm's reach and learn to take quick sips between batches. Some stores place a small fan near the wok station, but many managers discourage this because the airflow can cause the open flames to flare unpredictably and increase the risk of grease fires.
 
 <div class="callout callout-tip">
 **ProTip:** Before touching hot oil, new trainees often practice the wok-tossing motion using ice cubes or broccoli stems in a cold wok. This builds the necessary muscle memory and grip strength without the risk of third-degree grease burns.
@@ -88,7 +92,7 @@ The position also serves as a direct stepping stone to management. Many Panda Ex
 
 ## Protecting Yourself on the Wok
 
-The [Jersey Mike's hot sub grill station](/articles/jersey-mikes-hot-sub-grill) has its own burn risks, but the Panda wok is on another level. Here's what veterans do to stay safe:
+The [Jersey Mike's hot sub grill station](/articles/jersey-mikes-hot-sub-grill) has its own burn risks, but the Panda wok is on another level. This is what veterans do to stay safe:
 
 - **Invest in heat-resistant forearm sleeves.** Not all stores require them, but wearing long cotton or heat-resistant sleeves under your uniform dramatically reduces minor grease burns. Some experienced Wok Chefs buy inexpensive welding sleeves online — they're $8 on Amazon — and trim them to fit under their uniform.
 - **Develop a consistent wok-cleaning rhythm.** The fastest Wok Chefs don't think about cleaning — they do it on autopilot. The moment you dump a finished batch into the steam table pan, you immediately hit the wok with the bamboo brush and boiling water. Making this a reflex instead of a conscious decision shaves seconds off every batch and keeps your station significantly cleaner.

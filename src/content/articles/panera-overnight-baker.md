@@ -1,6 +1,6 @@
 ---
 title: 'Panera Overnight Baker: The 4 AM Bread Shift'
-description: Panera bakes all their bread overnight in-store. Here's what the overnight
+description: Panera bakes all their bread overnight in-store. This is what the overnight
   baker does from 4 AM to opening and how the schedule is structured.
 pubDate: '2024-09-15'
 updatedDate: '2026-07-23'
@@ -17,13 +17,16 @@ faq:
 - question: Can you listen to music or watch shows while baking?
   answer: In most locations, yes, which is one of the biggest perks of the job.
 heroImage: ../../assets/images/general/generic-drive-thru.webp
-disclaimerType: medical
 ---
 At 2:00 AM, while every other restaurant in the strip mall is dark and locked, [the Panera Bread](/articles/panera-bread-consolidator-role) cafe *used* to smell like fresh yeast, cinnamon, and baking sourdough. For years, the parking lot was empty except for one car belonging to a single person pulling golden loaves from a rotating rack oven in complete solitude. 
 
 The Panera Overnight Baker was one of the most unique jobs in the entire fast-casual industry. But in early 2024, Panera completely phased out the overnight baker shift, moving baking to the daytime to cut costs and align with their new frozen-to-thaw dough processes. This article is a retrospective on what that grueling, solitary nocturnal life was actually like for the veterans who lived it, and how the modern Panera kitchen now operates (hint: it involves a lot of thermalizer water-baths). 
 
 ## The Hours and the Solo Shift
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 The typical Panera Baker shift starts between 9:00 PM and 10:00 PM and ends between 5:00 AM and 6:00 AM, just as the opening managers arrive to unlock the front doors. In nearly every cafe, you work entirely alone. You are locked inside the building by yourself for 8 hours straight. 
 
@@ -35,7 +38,7 @@ For introverts who love podcasts, audiobooks, or simply their own thoughts, it i
 
 Being alone also means you are solely responsible for everything that happens during your shift. If the fire alarm goes off because you burned a batch of cookies, you are the one calling the alarm company at 1:00 AM. If someone tries to break in through the back door at 3:00 AM, you are the one deciding whether to call the police or hide in the walk-in cooler. Some bakers find the independence empowering. Others find the isolation and the weight of sole responsibility genuinely stressful, especially during their first few solo shifts when every unfamiliar noise sounds like a potential intruder.
 
-This is similar in spirit to the [Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift) — both positions require arriving in the dark, working alone, and having everything ready before the doors open. But the Panera baker is even more isolated because there's typically no one else in the building at all.
+This is similar in spirit to the [Hardee's biscuit maker shift](/articles/hardees-biscuit-maker-shift) — both positions require arriving in the dark, working alone, and having everything ready before the doors open. But the Panera baker is even more isolated because there is typically no one else in the building at all.
 
 ## The Baker's Timeline
 

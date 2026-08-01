@@ -14,7 +14,7 @@ relatedArticles:
 - kfc-original-vs-extra-crispy
 faq:
 - question: Why do some customers find KFC gravy controversial?
-  answer: Because the traditional gravy uses the actual leftover 'crackling' seasoned crackling sediment
+  answer: Because the traditional gravy uses the actual the seasoned breading sediment
     from the bottom of the pressure fryers, some customers unfamiliar with traditional
     cooking methods are put off by the look of the raw ingredient, though it provides
     the authentic flavor.
@@ -28,12 +28,16 @@ If you have ever worked in the fast food industry, you know that gravy is usuall
 
 KFC does things differently. While they do use a proprietary seasoning packet as a base, the secret ingredient that gives KFC gravy its dark color, rich mouthfeel, and highly specific savory flavor is a back-of-house byproduct known as "crackling."
 
-When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown seasoned crackling sediment at the bottom of the deep fryer is actually the foundation of a beloved side dish is a rite of passage.
+When I managed kitchens, training new cooks on the gravy process was always an interesting shift. Watching someone realize that the brown seasoned crackling sediment at the bottom of the deep fryer is actually the foundation of a beloved side dish is something every new hire must endure.
 
 <div class="callout callout-tip">**ProTip:** The most common mistake new cooks make is failing to distinguish between usable, savory crackling and the entirely burnt sediment at the very bottom. Overly bitter gravy usually means someone scraped the fry pot too aggressively.</div>
 ![KFC Gravy How Cracklings Make the Difference](../../assets/images/general/generic-prep.webp)
 
 ## Harvesting the Crackling
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 To understand the gravy, you have to understand the frying process. KFC cooks their Original Recipe chicken in large commercial [pressure fryers](/articles/kfc-pressure-fryers/). Throughout the day, the cooks drop rack after rack of freshly breaded chicken into the hot oil. As the chicken cooks under pressure, bits of flour, the eleven herbs and spices, and rendered chicken fat fall off the meat and sink to the bottom of the vat.
 

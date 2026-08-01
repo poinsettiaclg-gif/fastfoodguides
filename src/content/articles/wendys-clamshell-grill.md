@@ -22,17 +22,17 @@ relatedArticles:
 - wendys-chili-leftover-hamburgers
 - wendys-closing-duties
 disclaimerType: food_safety
-heroImage: ../../assets/images/general/generic-fryer-3.webp
+heroImage: ../../assets/images/general/generic-grill.webp
 ---
 For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a patty on a flat-top griddle, wait three minutes, flip it with a spatula, wait another three minutes, and hope you didn't forget which batch was which during a rush. Wendy's changed the game entirely when they started rolling out double-sided clamshell grills across their locations. If you're a Grill Operator at Wendy's, this machine is your best friend, your worst enemy during cleaning, and the single most important piece of equipment in the kitchen. 
 
 ## How the Clamshell Actually Works
 
-![What is the Wendy](../../assets/images/general/generic-walk-in-2.webp)
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
 
 
 
-
+![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 Imagine a massive, industrial panini press that weighs several hundred pounds, runs at over 400°F on both surfaces, and is engineered specifically to cook fresh beef patties with zero flipping required. That's the clamshell grill. 
 
@@ -54,7 +54,7 @@ This speed advantage fundamentally changes how the kitchen operates during a rus
 
 ## Auto-Gap Technology: The Hidden Brain
 
-Here's where the engineering gets genuinely clever. Wendy's sells different sizes of patties—the smaller, thinner Jr. patties and the larger quarter-pound patties. If the top platen came down with the same pressure and gap every time, it would crush the thin Jr. patties into paper while barely touching the thick quarter-pounders.
+This is where the engineering gets genuinely clever. Wendy's sells different sizes of patties—the smaller, thinner Jr. patties and the larger quarter-pound patties. If the top platen came down with the same pressure and gap every time, it would crush the thin Jr. patties into paper while barely touching the thick quarter-pounders.
 
 The solution is Auto-Gap technology. The grill's computer measures resistance as the top platen descends. When it encounters the surface of the meat, it detects the change in pressure and stops—hovering a precise distance above the bottom plate based on the actual thickness of what's being cooked. You can cook a thin Jr. patty and a thick quarter-pounder on the same grill, one batch after another, without adjusting a single setting.
 
@@ -66,7 +66,7 @@ Auto-Gap calibration drifts over time. Grease buildup on the sensors, mechanical
 
 ## Cleaning the Clamshell: The Nightly Battle
 
-![What is the Wendy](../../assets/images/general/generic-drive-thru-3.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 The clamshell grill requires thorough cleaning at the end of every single shift. Because the top platen presses directly onto the meat, it accumulates a heavy layer of baked-on grease, charred protein, and carbonized fat that must be completely removed. This is one of the most time-consuming [closing duties](/articles/wendys-closing-duties) in the entire restaurant.

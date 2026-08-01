@@ -21,11 +21,15 @@ faq:
     \ of charge. It is considered a standard accommodation, not an add-on."
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a ticking time bomb. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. 
+If you have ever ordered a burrito at Chipotle with double chicken, extra white rice, black beans, queso, both salsas, sour cream, cheese, and guacamole, you have handed the line worker a massive liability. They're looking at a tortilla that's about to be asked to contain roughly two pounds of filling, and the margin for error is approximately zero. 
 
-Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I witnessed line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And Over the years, first-timers watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. Here's the technique that separates the pros from the casualties. 
+Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I witnessed line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And Over the years, first-timers watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. This is the technique that separates the pros from the casualties. 
 
 ## Step 1: The U-Shape Placement
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![The Secret to Rolling a Massive Double-Meat Chipotle Burrito](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -43,7 +47,7 @@ The order you layer ingredients matters enormously for structural integrity. Hea
 
 <div class="callout callout-tip">**ProTip:** If you are working the line, pay attention to the base layers. Placing dry, absorbent ingredients like rice directly on the tortilla first acts as a buffer against wet ingredients like salsa or sour cream, preserving the tortilla's structural integrity.</div>
 
-First-timers on the line tend to dump hot salsa directly onto the center of the tortilla, then pile everything on top. By the time they go to roll, there's a translucent wet spot in the middle of the flour tortilla that might as well be a hole. The burrito was dead before they even touched it.
+First-timers on the line tend to dump hot salsa directly onto the center of the tortilla, then pile everything on top. By the time they go to roll, there is a translucent wet spot in the middle of the flour tortilla that might as well be a hole. The burrito was dead before they even touched it.
 
 ## Step 2: The Stretch and Tuck
 
@@ -60,7 +64,7 @@ This is where burritos live or die. Do not try to fold it like a Christmas prese
 
 4. **The Final Roll:** Keeping that intense backward tension, roll the cylinder forward until the final flap of the tortilla wraps underneath the burrito, seam-side down.
 
-The pull-back step is where most new employees fail. They are terrified to apply real pressure because they think the tortilla will tear. But here's the reality: a properly warmed tortilla has significant elasticity. It can stretch and compress far more than you'd expect. The problem is actually the opposite—if you don't pull back hard enough, the burrito stays loose, and the ingredients shift and push against the tortilla from the inside, causing it to blow out at the ends like a tube of toothpaste.
+The pull-back step is where most new employees fail. They are terrified to apply real pressure because they think the tortilla will tear. But this is the reality: a properly warmed tortilla has significant elasticity. It can stretch and compress far more than you'd expect. The problem is actually the opposite—if you don't pull back hard enough, the burrito stays loose, and the ingredients shift and push against the tortilla from the inside, causing it to blow out at the ends like a tube of toothpaste.
 
 Commit to the pull-back. It feels aggressive. It's supposed to.
 
@@ -74,7 +78,7 @@ I used to tell my line workers: the foil wrap is your insurance policy. Even a p
 
 ## The Double-Wrap: When to Deploy It
 
-Here's where experience separates you from the rookies. If a customer orders double meat, extra of every wet topping, queso, and guacamole, you should already be reaching for a second tortilla before they finish ordering. The double-wrap—slapping a second warm tortilla underneath the first—gives you the structural thickness needed to contain what is basically burrito soup.
+This is where experience separates you from the rookies. If a customer orders double meat, extra of every wet topping, queso, and guacamole, you should already be reaching for a second tortilla before they finish ordering. The double-wrap—slapping a second warm tortilla underneath the first—gives you the structural thickness needed to contain what is basically burrito soup.
 
 The double-wrap is not a failure. It is a tool. Proactively offering it shows confidence and saves everyone the embarrassment of a burrito detonating mid-roll in front of a full line of customers. Experienced line workers recognize the need for a double-wrap based on the order alone, before a single ingredient hits the tortilla. And no, Chipotle does not charge extra for the double-wrap—it's considered a standard accommodation, not an add-on.
 

@@ -16,18 +16,21 @@ faq:
 - question: How long should a Burger King broiler cool down before cleaning?
   answer: It requires at least 30 minutes of cool-down time. Attempting to clean the
     600-degree grates while hot can warp the expensive metal components or cause a
-    dangerous steam explosion if hit with cold water.
+    severe burn hazard if hit with cold water.
 - question: Can you clean the broiler hood filters in the dishwasher?
   answer: Most closers prefer to remove the filters, soak them in industrial degreaser,
     and scrub them manually with abrasive pads. Sending them straight through the
     dish machine often just redistributes the thick grease.
-disclaimerType: medical
 ---
 Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/articles/chain/wendys), it is the Frosty machine. At [Domino's](/articles/chain/dominos), it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. 
 
 ## The Cooldown Phase: Your 30-Minute Head Start
 
-You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a dangerous steam explosion that sends scalding water vapor directly into your face. 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
+You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a severe burn hazard that sends scalding water vapor directly into your face. 
 
 
 
@@ -63,7 +66,7 @@ Once the broiler is cool enough to handle—still quite warm, but no longer capa
 
 Once every component is scrubbed and dried, you reassemble the entire broiler. The catch pans slide back in, the belts are reattached and properly tensioned, and all the guards and covers are secured.
 
-Here is where precision matters: if you reassemble incorrectly—if a belt is too loose, a pan is not seated properly, or a guard is misaligned—the morning crew will discover the problem within minutes of firing up the machine. And you will hear about it. I once had a closer who seated the conveyor belt with too little tension. When the morning manager fired up the broiler, the belt slipped off the rollers and jammed. It took 45 minutes to fix, the store opened late, and the closer got a written coaching the next day. Do it right the first time. Check your work before you leave.
+This is where precision matters: if you reassemble incorrectly—if a belt is too loose, a pan is not seated properly, or a guard is misaligned—the morning crew will discover the problem within minutes of firing up the machine. And you will hear about it. I once had a closer who seated the conveyor belt with too little tension. When the morning manager fired up the broiler, the belt slipped off the rollers and jammed. It took 45 minutes to fix, the store opened late, and the closer got a written coaching the next day. Do it right the first time. Check your work before you leave.
 
 ## The Secret Veteran Closers Know
 
@@ -71,7 +74,7 @@ The best broiler closers I have ever worked with did not wait until 11 PM to sta
 
 <div class="callout callout-tip">**ProTip:** Don't wait until close to deal with the grease. Veteran closers recommend doing '4-hour cycles' where you empty the catch pans and knock off loose carbon during slow periods. It shaves 20 minutes off your final breakdown and keeps the exhaust hood from smoking out the kitchen.</div>
 
-If you walk into a closing shift and the day crew did not touch the broiler once, you are in for a long, greasy night. But here is the silver lining that veteran closers rarely admit: nobody bothers you while you are scrubbing the broiler. There are no customers, no drive-thru beeps, no managers barking orders. It is just you, the machine, and a wire brush. For some closers, that solitude is the best part of the entire shift.
+If you walk into a closing shift and the day crew did not touch the broiler once, you are in for a long, greasy night. But this is the silver lining that veteran closers rarely admit: nobody bothers you while you are scrubbing the broiler. There are no customers, no drive-thru beeps, no managers barking orders. It is just you, the machine, and a wire brush. For some closers, that solitude is the best part of the entire shift.
 
 ## Frequently Asked Questions
 

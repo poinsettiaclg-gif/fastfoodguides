@@ -22,13 +22,16 @@ faq:
   answer: No. The dough arrives at the store completely raw but frozen into sticks.
     Staff must thaw it in a retarder, proof it in a high-humidity cabinet, score it,
     and bake it on-site.
-disclaimerType: medical
 ---
 Subway's retarder and proofer cabinets are the most important pieces of equipment in the store, driving a rigid 12-hour production cycle. The unmistakable, sweet yeasty scent that hits you at the door isn't artificial—it's the byproduct of baking high-sugar dough repeatedly on silicone mats. I've personally had to throw away jackets because the Italian Herbs & Cheese scent permanently bonded to the fabric. 
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most one thing that stands out: when Subway removed azodicarbonamide—the infamous ["yoga mat chemical"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
+Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most one thing that stands out: when Subway removed azodicarbonamide—the infamous ["azodicarbonamide, a commercial dough conditioner"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
 
 
 

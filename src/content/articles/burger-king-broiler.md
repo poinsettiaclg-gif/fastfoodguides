@@ -13,7 +13,7 @@ relatedArticles:
 - burger-king-broiler-closing
 - burger-king-expeditor-role
 - wendys-clamshell-grill
-disclaimerType: legal
+disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
 - question: Can customers order a burger 'hot off the broiler'?
@@ -28,6 +28,10 @@ faq:
 Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike [McDonald's](/articles/chain/mcdonalds) or [Wendy's](/articles/chain/wendys), which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
 
 ## How the Flame Broiler Actually Works
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![How Does the Burger King Broiler Work, and Is It Dangerous?](../../assets/images/general/generic-walk-in-2.webp)
 

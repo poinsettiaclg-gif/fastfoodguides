@@ -19,13 +19,17 @@ faq:
   answer: The filling is a blended mixture of beef and soy protein designed to cook
     evenly through the shell during the quick frying process without burning.
 heroImage: ../../assets/images/general/generic-fryer.webp
-disclaimerType: medical
+disclaimerType: food_safety
 ---
 The Jack in the Box taco is one of the strangest, most polarizing items in all of fast food. It's greasy, crunchy, oddly textured, and costs almost nothing. People either love it or look at it with genuine confusion. But if you've ever held one in your hand and thought, "Wait—how did they get the cheese and lettuce inside a shell that looks like it was fried completely shut?"—you're asking exactly the right question. 
 
 The answer is weirder than you'd expect, and if you're a new Jack in the Box employee, the first time you see the process is going to catch you off guard. 
 
 ## They Arrive Pre-Stuffed and Frozen
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 The biggest shock for every new hire: you don't assemble the meat inside the taco shell. Not even close. The tacos arrive at the store frozen solid in massive boxes, stacked like playing cards. Each frozen taco is a flat, folded corn tortilla with a thin layer of seasoned meat paste already pressed inside and sealed shut. 
 
@@ -50,7 +54,7 @@ When a customer orders tacos, you grab the frozen, meat-filled tortillas and dro
 
 The frying takes roughly 60 to 90 seconds, depending on fryer temperature and batch size. You submerge the tacos using a wire basket or long tongs to keep them from floating. As the tortillas fry, they naturally curl into the iconic half-moon shape that customers recognize. The oil penetrates the corn tortilla, crisping the outside into a hard, crunchy shell while the heat simultaneously cooks the raw meat filling inside.
 
-When they come out, the shells are deeply golden and glistening with oil. You place them on a draining rack to let the excess grease run off—and here's where experience matters. New cooks rush this step because they want to get the tacos out fast. Don't. Give them an honest 15 to 20 seconds on the drain rack. The shells firm up slightly as they cool, which makes the next step dramatically easier.
+When they come out, the shells are deeply golden and glistening with oil. You place them on a draining rack to let the excess grease run off—and this is where experience matters. New cooks rush this step because they want to get the tacos out fast. Don't. Give them an honest 15 to 20 seconds on the drain rack. The shells firm up slightly as they cool, which makes the next step dramatically easier.
 
 The frying process is what gives the Jack in the Box taco its signature greasy, deep-fried character. You can't replicate this texture any other way. The shell is simultaneously crunchy and oil-soaked, and the cooked meat inside has a unique consistency that doesn't exist at any other chain. Love it or hate it, the fryer is the secret.
 
@@ -70,7 +74,7 @@ The prying step requires a feel that only comes with practice. Pulling double sh
 
 ## The Late-Night Volume Factor
 
-Here's the operational reality that surprises most newcomers: the volume on these things is absolutely staggering. Jack in the Box reportedly sells hundreds of millions of tacos per year across all locations. Because of the dirt-cheap price point—two tacos for a couple of dollars—customers order them in absurd quantities, especially during the late-night window.
+This is the operational reality that surprises most newcomers: the volume on these things is absolutely staggering. Jack in the Box reportedly sells hundreds of millions of tacos per year across all locations. Because of the dirt-cheap price point—two tacos for a couple of dollars—customers order them in absurd quantities, especially during the late-night window.
 
 A single order of 10 or 20 tacos is not unusual after midnight. I've heard stories of 50-taco orders coming through the drive-thru at 2 AM on a Saturday. That means you're frying full baskets, draining them, prying open two dozen shells in rapid succession, stuffing cheese and lettuce into each one, saucing and wrapping—all while the next batch is already bubbling in the fryer.
 
@@ -78,7 +82,7 @@ The assembly line rhythm becomes second nature quickly: fry a batch, drain, pry,
 
 ## Why This Process Creates a Cult Following
 
-It's a weird, messy process. The tacos look nothing like traditional tacos. The meat is unconventional. The shell is soaked in fryer oil. And yet, that exact combination of crispy, greasy, cheap, and oddly satisfying is exactly what creates a cult following. The process is the product—change any step and you'd lose what makes a Jack in the Box taco a Jack in the Box taco. As a cook, once you get the rhythm down, it's actually one of the more satisfying items to crank out in volume. There's something meditative about the fry-pry-stuff-wrap cycle at 1 AM.
+It's a weird, messy process. The tacos look nothing like traditional tacos. The meat is unconventional. The shell is soaked in fryer oil. And yet, that exact combination of crispy, greasy, cheap, and oddly satisfying is exactly what creates a cult following. The process is the product—change any step and you'd lose what makes a Jack in the Box taco a Jack in the Box taco. As a cook, once you get the rhythm down, it's actually one of the more satisfying items to crank out in volume. There is something meditative about the fry-pry-stuff-wrap cycle at 1 AM.
 
 ### What kind of meat is actually in the Jack in the Box taco?
 
@@ -86,10 +90,10 @@ The filling is a blend of beef and soy protein, seasoned with spices and process
 
 ### Why are Jack in the Box tacos so cheap?
 
-The price point works because of the production efficiency. The tacos arrive pre-assembled and frozen, so there's virtually no labor in building the base product. The frying step is fast, the toppings are minimal—half a slice of cheese, a pinch of lettuce, a squirt of sauce—and the ingredients themselves are inexpensive. It's a pure volume play with a tiny per-unit profit margin, but the chain moves hundreds of millions of them annually. Similar to how [KFC's pressure fryers](/articles/kfc-pressure-fryers) enable fast batch cooking, Jack's frozen-to-fryer process is designed around maximum throughput.
+The price point works because of the production efficiency. The tacos arrive pre-assembled and frozen, so there is virtually no labor in building the base product. The frying step is fast, the toppings are minimal—half a slice of cheese, a pinch of lettuce, a squirt of sauce—and the ingredients themselves are inexpensive. It's a pure volume play with a tiny per-unit profit margin, but the chain moves hundreds of millions of them annually. Similar to how [KFC's pressure fryers](/articles/kfc-pressure-fryers) enable fast batch cooking, Jack's frozen-to-fryer process is designed around maximum throughput.
 
 ### Are the tacos gluten-free?
 
-The shell is a corn tortilla, which is naturally gluten-free. the tacos are fried in shared oil with other menu items that contain gluten, so cross-contamination risk is significant. Jack in the Box does not market the tacos as gluten-free, and if a customer has celiac disease or a serious sensitivity, you should advise them accordingly.
+The shell is a corn tortilla, which is naturally gluten-free. the tacos are fried in shared oil with other menu items that contain gluten, so cross-contamination risk is significant. Jack in the Box does not market the tacos as gluten-free, and if a customer has severe gluten allergies or a serious sensitivity, you should advise them accordingly.
 
 ---

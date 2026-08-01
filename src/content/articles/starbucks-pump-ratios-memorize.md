@@ -1,6 +1,6 @@
 ---
 title: How to Memorize Starbucks Syrup Pump Ratios Fast
-description: Overwhelmed by your first week on bar? Here is the actual logic behind
+description: Overwhelmed by your first week on bar? This is the actual logic behind
   Starbucks pump counts for hot bar, cold bar, and frapps so you don't have to guess.
 pubDate: '2024-08-30'
 updatedDate: '2026-07-23'
@@ -16,10 +16,13 @@ faq:
 - question: How do I cut sweetness without changing the drink profile?
   answer: You don't need to change the size; simply ask for 'half the syrup' or specify
     a lower number of pumps (e.g., '2 pumps of vanilla instead of 4').
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 If you've just been hired at Starbucks, you are about to consume more caffeine in a single week than most people do in a month. But before you can get comfortable, you have to survive "Bar Training." 
 
-The most common reason new baristas panic during the morning rush is forgetting how many pumps of syrup go into a drink. Staring blankly at a Venti Iced Caramel Macchiato ticket while the line stretches to the door is a rite of passage.
+The most common reason new baristas panic during the morning rush is forgetting how many pumps of syrup go into a drink. Staring blankly at a Venti Iced Caramel Macchiato ticket while the line stretches to the door is a necessary evil.
 
 Instead of trying to memorize flashcards, understand the structural logic behind the menu.
 
@@ -50,7 +53,7 @@ So the full standard progression (Tall, Grande, Venti Hot, Venti Iced) is **3-4-
 
 ## The Macchiato Exception (One Less Pump)
 
-Here is where many new baristas get tripped up: the Caramel Macchiato.
+This is where many new baristas get tripped up: the Caramel Macchiato.
 
 A Caramel Macchiato gets **one less pump** of syrup (Vanilla) than a standard latte of the same size. Why? Because the drink gets a heavy drizzle of caramel sauce on top. If you put the standard amount of vanilla syrup *plus* the caramel drizzle, the drink becomes overwhelmingly sweet.
 

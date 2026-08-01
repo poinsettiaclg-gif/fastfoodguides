@@ -1,6 +1,7 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
 title: 'Chick-fil-A Peanut Oil: Why They Filter It Daily'
-description: Chick-fil-A filters their peanut oil multiple times a day. Here's the
+description: Chick-fil-A filters their peanut oil multiple times a day. This is the
   filtration process and why oil quality controls the taste of every filet.
 pubDate: '2025-07-20'
 updatedDate: '2026-07-23'
@@ -11,7 +12,6 @@ topic: Chicken
 relatedArticles:
 - chick-fil-a-breading-process
 - chick-fil-a-ipos-system
-disclaimerType: medical
 faq:
 - question: "How often does Chick-fil-A filter its peanut oil?"
   answer: "Chick-fil-A fryers use 'Filter Lockout' technology that forces the staff to filter the oil after a set number of cook cycles (typically 4 or 5), ensuring consistent oil quality throughout the day."
@@ -27,6 +27,10 @@ Peanut oil is expensive. It is subject to massive crop market fluctuations. It r
 The operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes involve the engineering of the Henny Penny ([How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/)), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
 
 ## The Chemistry of Peanut Oil: Smoke Points and Flavor Transfer
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Chick-fil-A Peanut Oil Why They Filter It Daily](../../assets/images/general/generic-baking.webp)
 
@@ -68,7 +72,7 @@ This is where the filtering process comes in. You can't just run oil through a w
 
 Chick-fil-A utilizes a highly aggressive filtration cycle using a chemical compound called **Magnasol** (a brand name for magnesium silicate powder). 
 
-Here is how a mid-shift filter works when you are holding on a massive drop of chicken:
+This is how a mid-shift filter works when you are holding on a massive drop of chicken:
 
 1. The fry cook presses a sequence on the Henny Penny digital controller to initiate a filter cycle.
 2. They open the drain valve, dropping the hot peanut oil out of the cooking vat and into a filter pan located at the bottom of the machine.

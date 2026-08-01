@@ -23,7 +23,6 @@ faq:
     order, telling the caller which dish will hit the table first so the front-of-house
     can manage customer expectations.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
 ---
 "Waiting on Batch One Orange Chicken!" The shout cuts through the roar of exhaust hoods and sizzling woks, demanding an immediate response from the kitchen. While most modern fast food restaurants rely on silent, highly digitized Kitchen Display Systems (KDS) to track orders, Panda Express rejects this entirely for its hot food prep.
 
@@ -34,6 +33,10 @@ This verbal loop is called "calling food," and it is the single most important o
 ![Panda Express Steam Table How ](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## The Problem with the KDS
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 Why doesn't Panda Express just use digital screens? The answer lies in their service model. Unlike a burger joint where every item is cooked to order, Panda Express relies on a steam table model. Food is cooked in bulk batches and held in heated pans on the serving line. 
 

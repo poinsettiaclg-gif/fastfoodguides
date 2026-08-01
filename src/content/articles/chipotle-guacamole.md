@@ -1,6 +1,6 @@
 ---
 title: 'Chipotle Guacamole: Made From Scratch Daily'
-description: Chipotle makes guacamole in-house every day. Here's the exact recipe,
+description: Chipotle makes guacamole in-house every day. This is the exact recipe,
   the prep process, and why it takes a skilled hand to hit the right texture.
 pubDate: '2024-06-27'
 updatedDate: '2026-07-23'
@@ -20,9 +20,12 @@ faq:
     a cobotic device called 'Autocado' that automatically cuts, cores, and peels the
     avocados to reduce prep time.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
 ---
 ## Six Ingredients. No Blender. No Shortcuts.
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: 
 
@@ -65,7 +68,7 @@ Each avocado is:
 
 1. **Cut in half** lengthwise around the pit using a chef's knife
 2. **Twisted apart** into two halves
-3. **Pitted** — the pit is removed by striking it with the knife blade and twisting it out (this is called the "whack and twist" method and it's exactly as dangerous as it sounds — avocado hand injuries are a real occupational hazard in restaurants)
+3. **Pitted** — the pit is removed by striking it with the knife blade and twisting it out (this is called the "whack and twist" method and it's exactly as dangerous as it sounds — severe knife accidents are a real occupational hazard in restaurants)
 4. **Scooped** — the flesh is scooped out of the skin using a large spoon and dropped into a stainless steel mixing bowl
 
 A skilled prep cook can cut, pit, and scoop an avocado in about **10–15 seconds**. At 48 avocados per case, that's roughly 10 minutes per case just for the cutting step.
@@ -133,7 +136,7 @@ When you add it all up, Chipotle's actual cost per portion of guacamole is appro
 
 ## Chipotle Uses More Avocados Than Almost Any Other Company
 
-Here's a number that puts the scale in perspective: Chipotle uses approximately **5 million pounds of avocados per month** across their 3,500+ locations. That's roughly **25 million avocados per month**, or about **300 million avocados per year**.
+This is a number that puts the scale in perspective: Chipotle uses approximately **5 million pounds of avocados per month** across their 3,500+ locations. That's roughly **25 million avocados per month**, or about **300 million avocados per year**.
 
 This makes Chipotle one of the largest single purchasers of avocados in the world. Their demand is large enough to influence wholesale avocado prices, and disruptions to the avocado supply chain (weather events in Mexico, import restrictions, cartel interference in the MichoacÃ¡n growing region) can materially impact Chipotle's food costs and stock price.
 

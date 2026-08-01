@@ -1,7 +1,7 @@
 ---
 title: 'Cava''s Digital Make Line (DML): The Secret Ghost Kitchen'
 description: Cava runs a hidden Digital Make Line exclusively for online and catering
-  orders. Here is how the DML keeps the front line moving during a rush.
+  orders. This is how the DML keeps the front line moving during a rush.
 pubDate: '2024-11-01'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -23,7 +23,6 @@ faq:
     dictated by the corporate recipe cards. walk-in customers often use 'the
     nod' to ask for a little extra rice or dip, leading to the perception of smaller
     digital portions.
-disclaimerType: medical
 ---
 If you walk into any high-volume Cava location during the noon lunch rush, you will immediately bear witness to a scene of highly organized chaos. The main [How Is Cava Food Made? Inside the Bowl Assembly Line](/articles/cava-assembly-line/) is packed shoulder-to-shoulder with customers pointing enthusiastically at the Crazy Feta, asking for extra scoops of RightRice, and agonizing over whether to finish their bowl with the Harissa or the classic Tzatziki. But behind the scenes, often obscured by a dividing wall or tucked away entirely in the back of the house, there is a completely separate operation humming along at an even more breakneck speed. This is the Digital Make Line, universally referred to in the industry as the DML.
 
@@ -32,6 +31,10 @@ The DML is the only thing keeping modern kitchens from collapsing.e DML is the o
 In the early days of fast-casual dining, digital orders were an afterthought. A ticket would violently print out on a little receipt printer near the cash register, and a stressed line worker would awkwardly try to build the digital bowl in between helping the actual human beings standing right in front of them. It was a complete disaster. If a customer is waiting in line and sees you making three bowls for someone who isn't even in the building, they get annoyed. Friction builds. The line slows to a crawl. Cava, recognizing this fatal flaw in operational flow early on, invested heavily in the DML concept, completely decoupling the digital revenue stream from the physical one.
 
 ## What Exactly is the Digital Make Line (DML)?
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![Cava](../../assets/images/general/generic-prep.webp)
 
@@ -60,7 +63,7 @@ While the person physically scooping the food is obviously critical, the true li
 
 The Expo ensures that every single bowl matches the digital ticket perfectly before it leaves the building. Did the customer ask for the dressing on the side? Did they request no pita bread because of a gluten allergy? The Expo checks the bowl, seals it with the tamper-evident delivery sticker, bags it with the correct utensils and napkins, and slaps the final routing label on the bag. But their job goes far beyond mere quality control. They are the ultimate traffic cop for the highly contested real estate of the pickup shelf. 
 
-When a DoorDash driver shoves their phone in the Expo's face, the Expo needs to know instantly if that specific order is already on the shelf, currently being built on the line, or stuck in the KDS queue behind a massive catering order. A good DML Expo is worth their weight in gold to a kitchen manager. They shield the DML builders from driver interruptions, actively manage the physical space of the pickup rack, and keep the morale of the line workers high when the screen turns a terrifying shade of solid red. They perform a very similar function to the expeditors you see managing the intense chaos of [Sweetgreen Mixing Station: Portion Control at Scale](/articles/sweetgreen-mixing-station/) or coordinating the oven tenders during a Friday night rush at a [Domino's Makeline](/articles/dominos-makeline/).
+When a DoorDash driver shoves their phone in the Expo's face, the Expo needs to know instantly if that specific order is already on the shelf, currently being built on the line, or stuck in the KDS queue behind a massive catering order. A good DML Expo is worth their weight in gold to a kitchen manager. They shield the DML builders from driver interruptions, actively manage the physical space of the pickup rack, and keep the morale of the line workers high when the screen turns a terrifying shade of solid red. They perform a very similar function to the expeditors you see managing the intense chaos of [Sweetgreen Mixing Station: Portion Control at Scale](/articles/sweetgreen-mixing-station/) or coordinating the oven tenders during a Friday night rush at a [Domino's Makeline](/articles/dominos-makeline-routing/).
 
 <div class="callout callout-tip">**ProTip:** The DML Expo is the most important position on the line. They aren't just sealing bags; they are actively shielding the line cooks from impatient delivery drivers and ensuring the pickup shelf remains organized.</div>
 

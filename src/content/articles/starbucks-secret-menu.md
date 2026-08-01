@@ -20,15 +20,18 @@ faq:
 - question: Are 'secret menu' drinks available on the Starbucks app?
   answer: Not by their social media names, but you can build them using the app's
     customization options. This is actually the best way to order complex custom drinks.
-disclaimerType: medical
 ---
-7. Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
+Does Starbucks Actually Have a 'Secret Menu'? (What Baristas Think)
 
 Starbucks does not have a secret menu. There is no laminated card hidden under the register. There is no special screen on the POS system that unlocks when you say the right password. There is no training module where baristas learn to make the “Cotton Candy Frappuccino” or the “Butterbeer Latte.” None of that exists. 
 
-What people call the Starbucks “secret menu” is actually just a collection of custom drink recipes that customers have invented, named, and shared on social media. Some of these recipes are genuinely good. Some of them are sugar bombs. But none of them were created by Starbucks, none of them are in any Starbucks training material, and your barista almost certainly has no idea what you're talking about when you walk up to the register and say, “Can I get a Cinderella Latte?”
+What people call the Starbucks “secret menu” is actually just a collection of custom drink recipes that customers have invented, named, and shared on social media. Some of these recipes are genuinely good. Some of them are sugar overloads. But none of them were created by Starbucks, none of them are in any Starbucks training material, and your barista almost certainly has no idea what you're talking about when you walk up to the register and say, “Can I get a Cinderella Latte?”
 
 ## How the “Secret Menu” Myth Got Started
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![Starbucks Secret Menu The Truth From Behind the Bar](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -64,9 +67,9 @@ The frustration isn't about making complicated drinks. Baristas make complicated
 
 The frustration is about being expected to know recipes that don't exist in any Starbucks system, while simultaneously being judged on speed and accuracy. A barista who takes two minutes to decode a TikTok video is a barista who falls behind on the bar, which backs up the line, which slows down the entire store, which affects [the customer support cycle](/articles/starbucks-customer-support-cycle) and triggers complaints from every other customer waiting.
 
-## [How the Starbucks](/articles/starbucks-pull-to-thaw) Customization System Actually Works
+## How the Starbucks Customization System Actually Works
 
-Here's what most customers don't understand: Starbucks already has one of the most flexible customization systems in the entire food and beverage industry. You don't need a “secret menu” because you can build virtually anything from the components that are already available. Every drink is assembled from a set of modular building blocks:
+This is what most customers don't understand: Starbucks already has one of the most flexible customization systems in the entire food and beverage industry. You don't need a “secret menu” because you can build virtually anything from the components that are already available. Every drink is assembled from a set of modular building blocks:
 
 ### Base Drink
 
@@ -102,7 +105,7 @@ When you understand this system, you realize that any “secret menu” drink is
 
 ## The POS System and Why Complex Orders Slow Everything Down
 
-The Starbucks point-of-sale system is designed to handle customization. Every modifier has a button. Every syrup, every milk, every add-on can be rung up individually. But here's what customers don't see: each modification adds time at two points in the process.
+The Starbucks point-of-sale system is designed to handle customization. Every modifier has a button. Every syrup, every milk, every add-on can be rung up individually. But this is what customers don't see: each modification adds time at two points in the process.
 
 First, it adds time at the register. The cashier has to get through multiple screens to input each modification. A simple latte takes about 5 seconds to ring up. A heavily customized drink with four syrup modifications, a milk swap, extra shots, cold foam, and drizzle can take 30 to 45 seconds. That doesn't sound like much, but when there are 15 people in line, those extra seconds compound rapidly.
 
@@ -112,7 +115,7 @@ This is why experienced Starbucks partners sometimes get frustrated with the “
 
 ## The Most Common “Secret Menu” Orders and How to Actually Order Them
 
-If you want to order a drink you saw on social media, here's the correct approach: know the recipe before you get to the counter and give the barista the actual modifications. Don't use the made-up name. That name means nothing to them.
+If you want to order a drink you saw on social media, this is the correct approach: know the recipe before you get to the counter and give the barista the actual modifications. Don't use the made-up name. That name means nothing to them.
 
 Here are a few popular ones broken down into their actual components:
 
@@ -138,7 +141,7 @@ I've talked to enough current and former Starbucks partners to compile a general
 
 **Don't order them during peak.** If you want to experiment with a complicated custom order, do it at 2 PM on a Wednesday when the store is quiet and the barista has time to work with you. Ordering a 12-modification drink at 7:45 AM when there are 20 people in line behind you is a bad time for everyone involved.
 
-**Be patient if it doesn't taste right the first time.** Since these aren't standardized recipes, there's no quality control benchmark. The barista is building it on the fly based on your instructions. If it needs adjustment, politely ask for a tweak rather than demanding a full remake. Most baristas are happy to add a pump of syrup or more foam if you ask nicely.
+**Be patient if it doesn't taste right the first time.** Since these aren't standardized recipes, there is no quality control benchmark. The barista is building it on the fly based on your instructions. If it needs adjustment, politely ask for a tweak rather than demanding a full remake. Most baristas are happy to add a pump of syrup or more foam if you ask nicely.
 
 <div class="callout callout-tip">**ProTip:** The most efficient way to order a complex "secret menu" drink is to build it in the Starbucks mobile app. The app automatically prints a clean, organized sticker using the exact terminology baristas are trained to read, completely eliminating the communication gap at the register.</div>
 
@@ -150,7 +153,7 @@ A handful of formerly “secret” drinks have been so popular that Starbucks ev
 *   **Honey Citrus Mint Tea (Medicine Ball)** — Originally a customer creation that baristas started making so frequently they memorized it. Now it's on the menu with its own button in the POS.
 *   **Iced Chocolate Almond Milk Shaken Espresso** — Partially inspired by customer customization trends around shaken espresso drinks with non-dairy milk.
 
-The lesson here is that Starbucks listens. When a custom combination becomes popular enough, they'll formalize it. But until they do, it's on you to know the recipe.
+The lesson this is that Starbucks listens. When a custom combination becomes popular enough, they'll formalize it. But until they do, it's on you to know the recipe.
 
 * * *
 

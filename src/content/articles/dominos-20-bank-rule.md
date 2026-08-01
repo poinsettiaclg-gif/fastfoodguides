@@ -23,9 +23,13 @@ faq:
 ---
 Delivering pizzas late at night sounds straightforward until you realize you're driving through unfamiliar neighborhoods in the dark with cash in your pocket and a lit-up car topper advertising exactly where you work. Delivery drivers are targets, and every major pizza chain knows it. That's why Domino's—and virtually every other delivery-focused chain—enforces one of the strictest, most non-negotiable safety policies in the industry: the $20 Bank Rule. 
 
-I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. Step by step, this is the workflow: 
+I've managed stores where drivers got robbed. I've had the conversations with the police, the corporate risk team, and the shaken driver sitting in the back office afterward. This rule exists because it works, and violating it is one of the fastest ways to get yourself instantly terminated. This is the true sequence of operations: 
 
 ## How the $20 Bank Works
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. 
 
@@ -44,13 +48,13 @@ At the end of your shift, you must return the bank in full. If you come back sho
 ![What is the Domino](../../assets/images/general/generic-walk-in-2.webp)
 
 
-Here's where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
+This is where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
 
 The moment you walk back through the store's door, the very first thing you do is perform a Cash Drop. You go directly to the manager's station or the store's smart safe—a small, secure lockbox bolted to the floor or counter—and slide the $50 bill into the slot. The system logs that you deposited the money, your cash-on-hand resets, and you are back in compliance.
 
 This is not optional. It is not something you do "when you get around to it." The expectation is that the cash drop happens before you grab your next delivery, before you use the restroom, before you check your phone, before you do literally anything else. Some managers will stand at the door and physically watch you walk from the entrance to the safe. If you leave for your next delivery with $70 in your pocket because you forgot to drop or got distracted, you are painting a target on yourself every mile you drive.
 
-I've fired drivers for this. Not because I wanted to—because the policy is ironclad and corporate will audit your cash drop logs. If there's a pattern of late drops or skipped drops, the franchisee is going to hear about it, and the conversation rolls downhill fast.
+I've fired drivers for this. Not because I wanted to—because the policy is ironclad and corporate will audit your cash drop logs. If there is a pattern of late drops or skipped drops, the franchisee is going to hear about it, and the conversation rolls downhill fast.
 
 ## The Double and Triple Run Complication
 
@@ -75,7 +79,7 @@ The policy also protects the store from internal theft. When every dollar is tra
 
 Domino's official policy on actual robberies is simple: comply fully. Hand over the money. Do not resist. Drive away as soon as it's safe. Call 911 and your store manager immediately. The store absorbs the loss—the driver is never held financially responsible for money taken during a robbery. The entire point of the $20 rule is to make sure that worst-case scenario involves losing $20, not $200.
 
-For more on the financial realities of delivery driving, check out [Do Domino's Drivers Pay For Their Own Gas?](/articles/dominos-gas) and [What Does the Oven Tender Role Actually Do?](/articles/dominos-oven-tender-role). If you're worried about the risks of the job, [What Happens if a Pizza Delivery Driver Gets in an Accident](/articles/pizza-delivery-driver-accident) covers the insurance side.
+For more on the financial realities of delivery driving, check out [Do Domino's Drivers Pay For Their Own Gas?](/articles/dominos-gas) and [What Does the Oven Tender Role Actually Do?](/articles/dominos-oven-tender-role).
 
 ## Frequently Asked Questions
 

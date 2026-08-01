@@ -27,6 +27,10 @@ During a Friday night dinner rush at Burger King, the kitchen sounds like a fact
 
 ## The Bridge Between Kitchen and Customer
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![What Is the Burger King Expeditor Role During a Rush?](../../assets/images/general/generic-walk-in-2.webp)
 
 

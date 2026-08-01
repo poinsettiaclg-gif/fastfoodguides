@@ -26,6 +26,10 @@ Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, c
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
+
 The biggest mistake trainees make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on [the Taco Bell](/articles/taco-bell-linebacker-role) menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
 
 
@@ -60,7 +64,7 @@ The root cause: If you add an extra half-scoop of beef to 200 burritos in a day,
 ![How to Memorize the Taco Bell Menu Build Cards Fast](../../assets/images/general/generic-drive-thru-3.webp)
 
 
-The Crunchwrap is the item that intimidates green crew members the most, not because the ingredients are complicated but because of the fold. Here is the exact build order:
+The Crunchwrap is the item that intimidates green crew members the most, not because the ingredients are complicated but because of the fold. This is the exact build order:
 
 1. 12-inch flour tortilla laid flat
 2. One scoop of beef in the center

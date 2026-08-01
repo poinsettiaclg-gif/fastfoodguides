@@ -1,7 +1,7 @@
 ---
 title: How Is Cava Food Made? Inside the Bowl Assembly Line
 description: Cava builds every bowl on a three-zone assembly line with strict portion
-  controls. Here is how the kitchen moves hundreds of custom bowls per hour.
+  controls. This is how the kitchen moves hundreds of custom bowls per hour.
 pubDate: '2024-12-16'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -23,13 +23,16 @@ faq:
     take the longest to decide. if the Base Station worker (who controls
     the pace) stops to wait for an indecisive customer instead of using the 'skip
     and return' technique, the whole line starves.
-disclaimerType: medical
 ---
 The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully orchestrated panic attack, yet the line keeps moving. Fast.
 
 The secret to Cava's throughput isn't just hustle; it's a meticulously designed assembly line that prevents bottlenecks before they happen.
 
 ## The Three-Zone Layout
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![How Is Cava Food Made? Inside the Bowl Assembly Line](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -53,7 +56,7 @@ The magic of Cava's line starts hours before a single customer walks through the
 
 This is where Cava separates itself from most fast-casual competitors. The signature dips—Crazy Feta, Hummus, Harissa, and Tzatziki—are made from scratch in-house every single morning. Not heated from a bag. Not scooped from a Sysco tub. Actually made.
 
-Here's what the morning dip prep looks like:
+This is what the morning dip prep looks like:
 
 *   **Crazy Feta:** Feta cheese is crumbled by hand, combined with Calabrian chili peppers, jalapeños, and a proprietary spice blend in a commercial [Robot Coupe](https://www.robot-coupe.com/) food processor (usually the R2N model). It runs for about 45–60 seconds until the texture hits a specific consistency—creamy but with visible chunks. Each batch yields roughly 6–8 quarts, and a high-volume store will burn through 3–4 batches before close.
 *   **Hummus:** Chickpeas arrive pre-cooked in bulk bags, but the blending, tahini addition, lemon juice, garlic, and seasoning all happen in-house. The food processor runs longer here—about 90 seconds per batch—to hit that silky-smooth texture Cava is known for.
@@ -77,7 +80,7 @@ Cava uses a strict scoop-and-spade system. Unlike a burrito joint where you can 
 
 ### Portion Variance Audits
 
-Speaking of watching like hawks—Cava runs formal portion variance audits on a weekly basis. Here's how they work:
+Speaking of watching like hawks—Cava runs formal portion variance audits on a weekly basis. This is how they work:
 
 The shift manager will randomly pull 3–5 completed bowls off the line during a lunch rush, weigh each component separately on a digital scale, and compare the actual weight against the spec card. The results get logged in the store's food cost tracking system.
 
@@ -101,7 +104,7 @@ This is the most labor-intensive grain to prep. The quinoa and lentils cook at d
 
 ## The Digital Make Line (DML)
 
-Behind the scenes, there's a second, hidden assembly line dedicated purely to online and delivery orders. The DML has its own dedicated ingredients, its own prep schedule, and its own staff. This prevents the front line from slowing down when a 15-bowl catering order drops in the middle of the lunch rush. It's the only way a high-volume store survives.
+Behind the scenes, there is a second, hidden assembly line dedicated purely to online and delivery orders. The DML has its own dedicated ingredients, its own prep schedule, and its own staff. This prevents the front line from slowing down when a 15-bowl catering order drops in the middle of the lunch rush. It's the only way a high-volume store survives.
 
 ### How the DML Handles Catering Orders
 
@@ -125,7 +128,7 @@ Most stores use a simple dry-erase whiteboard mounted near the kitchen pass, vis
 
 ### Substitution Protocol
 
-When a protein is 86'd, the line worker offers a specific substitution hierarchy: Grilled Chicken → Braised Lamb → Falafel. If a dip is 86'd, there's no substitution—the customer just gets one fewer dip option. Greens and grains are almost never 86'd because the prep volumes are calculated with a 20% buffer.
+When a protein is 86'd, the line worker offers a specific substitution hierarchy: Grilled Chicken → Braised Lamb → Falafel. If a dip is 86'd, there is no substitution—the customer just gets one fewer dip option. Greens and grains are almost never 86'd because the prep volumes are calculated with a 20% buffer.
 
 The 86 board gets photographed at the end of every shift and uploaded to the store's operational log. If the same item shows up on the 86 board more than twice in a week, the GM reviews the par levels and adjusts the prep quantities for the following week. This kind of systematic tracking is similar to the the [Panera consolidator role](/articles/panera-bread-consolidator-role/), where preventing stockouts is a core responsibility.
 

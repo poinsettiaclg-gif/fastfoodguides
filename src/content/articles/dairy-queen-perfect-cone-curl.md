@@ -1,7 +1,7 @@
 ---
 title: 'Dairy Queen Cone Curl: The Standard for Soft Serve'
 description: Dairy Queen trains every crew member to pull a perfect curl on soft-serve
-  cones. Here's the exact technique and pressure required to nail it.
+  cones. This is the exact technique and pressure required to nail it.
 pubDate: '2025-12-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -25,6 +25,10 @@ At Dairy Queen, making an ice cream cone is not just about pulling a lever and h
 I've watched new Chill Staff employees stare at the soft serve machine with genuine dread during their first training shift. The curl looks effortless when a veteran does it. It looks impossible when you try it yourself for the first time and end up with a lopsided blob that slowly slides off the side of the cone like a melting glacier. The breakdown below explains the exact technique and pressure required to nail it. 
 
 ## The Foundation: Building in Tiers
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: 
 

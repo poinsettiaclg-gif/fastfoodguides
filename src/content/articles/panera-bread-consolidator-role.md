@@ -26,6 +26,10 @@ That's where the Consolidator comes in. Standing at the very end of the producti
 
 ## The Master of the "You Pick Two"
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![What is the Panera Bread ](../../assets/images/general/generic-drive-thru-3.webp)
 
 

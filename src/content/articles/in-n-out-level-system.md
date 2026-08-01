@@ -14,7 +14,7 @@ relatedArticles:
 - chick-fil-a-ipos-system
 faq:
 - question: How long does it take to go from Level 1 to Level 7?
-  answer: There's no fixed timeline, but a motivated, full-time Associate can typically
+  answer: There is no fixed timeline, but a motivated, full-time Associate can typically
     reach Level 7 within 12 to 18 months. The pace is entirely determined by your
     performance and your managers' assessment of your readiness.
 - question: Do you lose your level if you take time off or transfer stores?
@@ -28,6 +28,10 @@ heroImage: ../../assets/images/general/generic-fryer-3.webp
 It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
 
 ## Level 1: The Foundation (And the Filter)
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. 
 
@@ -50,7 +54,7 @@ These middle levels are where most Associates spend the bulk of their early care
 
 **Level 3 — Fries:** You move to the back of the house and learn the french fry operation from scratch. This isn't dumping frozen fries into a basket. In-N-Out cuts their fries fresh from whole potatoes. You peel, dice, wash, and cook them to exact color and texture specifications. The fry station is deceptively technical—if the oil temperature drops below spec because you overcrowded the basket, the fries come out soggy and limp. That's a redo.
 
-**Level 4 — Drive-Thru / Pay Window:** You handle the intense speed of the drive-thru lane, taking payment and organizing the massive influx of cars without making errors. The pressure here is relentless. Drive-thru times are tracked obsessively, and every second you spend fumbling for change or clarifying an order shows up in the metrics.
+**Level 4 — Drive-Thru / Pay Window:** You handle the intense speed of the drive-thru lane, taking payment and organizing the massive influx of cars without making errors. The pressure this is relentless. Drive-thru times are tracked obsessively, and every second you spend fumbling for change or clarifying an order shows up in the metrics.
 
 Each level requires a formal evaluation before promotion. Your managers are watching your temperament, reliability, and how you handle stress. 
 
@@ -65,7 +69,7 @@ This is where the money gets real, but the difficulty spikes dramatically.
 
 **Level 5 — The Board:** You're not cooking meat yet, but you're doing something arguably harder. You're dressing buns with spread, lettuce, tomatoes, and pickles, then wrapping finished burgers at insane speed. The [Board station](/articles/in-n-out-board-station) is widely considered the most demanding position in the entire store. A top-tier Board person can dress, wrap, and bag a burger in under five seconds.
 
-**Level 6 — The Grill:** This is the holy grail. You're finally cooking the meat. Level 6 certification requires you to cook, flip, and pull rows of burgers perfectly without burning a single patty during a massive rush. The Grill cook sets the tempo for the entire kitchen, and there's an enormous amount of pride attached to earning your Level 6 stripes.
+**Level 6 — The Grill:** This is the holy grail. You're finally cooking the meat. Level 6 certification requires you to cook, flip, and pull rows of burgers perfectly without burning a single patty during a massive rush. The Grill cook sets the tempo for the entire kitchen, and there is an enormous amount of pride attached to earning your Level 6 stripes.
 
 **Level 7 — Management / Shift Manager:** At Level 7, you're at its core a Shift Lead. You manage labor scheduling, handle the cash, address customer complaints, and run the floor during your shift. From here, you're eligible to enter the Store Management program—where salaries can eventually top $100,000 a year.
 

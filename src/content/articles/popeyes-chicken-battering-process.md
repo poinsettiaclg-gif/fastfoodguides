@@ -21,13 +21,16 @@ faq:
   answer: The chicken arrives at the store fresh and raw, not frozen. It's marinated
     in-store and cooked fresh daily. This is a key differentiator between Popeyes
     and competitors who use pre-breaded frozen products.
-disclaimerType: medical
 ---
-There's a reason Popeyes chicken hits different than every other piece of fried chicken in fast food, and it's not some magical secret ingredient that nobody's figured out. It's labor. It's time. It's a Batter Fry Cook standing over a massive stainless steel bin of seasoned flour, physically mashing and folding batter into raw chicken until their hands are raw and their back aches. While most fast-food restaurants receive their chicken pre-breaded and frozen in plastic bags, Popeyes does it the old-fashioned way — by hand, from scratch, every single day. 
+There is a reason Popeyes chicken hits different than every other piece of fried chicken in fast food, and it's not some magical secret ingredient that nobody's figured out. It's labor. It's time. It's a Batter Fry Cook standing over a massive stainless steel bin of seasoned flour, physically mashing and folding batter into raw chicken until their hands are raw and their back aches. While most fast-food restaurants receive their chicken pre-breaded and frozen in plastic bags, Popeyes does it the old-fashioned way — by hand, from scratch, every single day. 
 
 If you're hired as a Batter Fry Cook at Popeyes, you're signing up for a particularly physically demanding positions for any chain. The real procedure goes like this: 
 
 ## The 12-Hour Marinade: Where the Flavor Actually Comes From
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![The Popeyes Chicken Battering Process Why It](../../assets/images/general/generic-walk-in-2.webp)
 
@@ -39,7 +42,7 @@ The secret to Popeyes' flavor doesn't start on the makeline. It starts 12 hours 
 
 Raw chicken pieces are submerged in this marinade for a minimum of 12 hours before they can be used. Not 8 hours. Not 10. Twelve. A strict General Manager will refuse to serve chicken that hasn't hit the full 12-hour mark, and honestly, the good ones should. The marinade penetrates deep into the meat during that time, which is why Popeyes chicken tastes seasoned all the way through — not just on the surface like most competitors. That deep flavor is what keeps customers coming back, and it cannot be faked or shortcut.
 
-Here's the operational nightmare that creates: the morning manager has to calculate how much chicken the entire store will need for the day and make sure enough tubs were set to marinate by the night crew. If the morning team opens the cooler and discovers that last night's closer didn't prep enough, the store will run out during the lunch rush with zero way to speed up the process. You can't microwave your way through 12 hours of marination. More times than I can count, stores have to 86 fried chicken during peak hours because of a night shift that didn't do their prep. The fallout is brutal.
+This is the operational nightmare that creates: the morning manager has to calculate how much chicken the entire store will need for the day and make sure enough tubs were set to marinate by the night crew. If the morning team opens the cooler and discovers that last night's closer didn't prep enough, the store will run out during the lunch rush with zero way to speed up the process. You can't microwave your way through 12 hours of marination. More times than I can count, stores have to 86 fried chicken during peak hours because of a night shift that didn't do their prep. The fallout is brutal.
 
 <div class="callout callout-tip">**ProTip:** Brining the meat with a salt-based brine (which includes MSG, garlic powder, and onion powder) before breading is essential to retaining the juiciness inside the crunch.</div>
 

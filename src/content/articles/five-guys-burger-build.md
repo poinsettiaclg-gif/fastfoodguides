@@ -20,9 +20,12 @@ faq:
 relatedArticles:
 - five-guys-fry-calibration
 heroImage: ../../assets/images/general/generic-fryer.webp
-disclaimerType: medical
 ---
 ## The Beef Arrives Fresh. Every Single Day.
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. 
 
@@ -102,7 +105,7 @@ The topping station is set up as a long line of **stainless steel bins** filled 
 
 ### How Portioning Works (Or Doesn't)
 
-Here's the operational reality of "free toppings": **there are no portion controls**. Unlike [McDonald's](/articles/chain/mcdonalds), where every pickle slice and onion portion is specified to the gram, Five Guys gives the assembler discretion to add a "reasonable" amount of each topping.
+This is the operational reality of "free toppings": **there are no portion controls**. Unlike [McDonald's](/articles/chain/mcdonalds), where every pickle slice and onion portion is specified to the gram, Five Guys gives the assembler discretion to add a "reasonable" amount of each topping.
 
 In practice, this means your burger's topping load depends heavily on who's making it. An experienced assembler will add balanced portions that make the burger structurally sound. A newer employee might overload the burger to the point where it falls apart when you unwrap it.
 

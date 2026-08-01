@@ -10,7 +10,7 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Pizza Hut
 topic: Pizza
 relatedArticles:
-- pizza-delivery-driver-accident
+- dominos-20-bank-rule
 - dominos-gas
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
@@ -29,6 +29,10 @@ If you get hired as a delivery driver at Pizza Hut, your entire night revolves a
 The old days of writing addresses on a whiteboard and fighting with other drivers over the best tippers are long gone. Modern pizza delivery is automated, GPS-tracked, and timed down to the second.
 
 ## The Drag-and-Drop System
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![How Does the Pizza Hut Dispatch System Work?](../../assets/images/general/generic-prep.webp)
 
@@ -59,7 +63,7 @@ On a killer Friday night, a well-timed double can mean two deliveries, two tips,
 
 ## The FIFO Queue and Why You Can't Cherry-Pick
 
-In the old days, senior drivers used to cherry-pick the good deliveries — the neighborhoods with the big houses and the generous tippers — and leave the apartment complexes and known stiffers for the new guys. Modern dispatch killed that.
+In the old days, senior drivers used to cherry-pick the good deliveries — the neighborhoods with the big houses and the generous tippers — and leave the apartment complexes and known stiffers for the new guys. Modern dispatch ended that.
 
 The system enforces a strict First In, First Out (FIFO) rule. If you're the first driver back in the store, you take the oldest order on the screen. Period. Even if you know that address has never tipped a single cent in the three years you've been delivering there. If you try to bypass the queue and assign yourself a newer, better order, the system locks you out. The Shift Manager has to override it manually, and that override gets logged. Do it more than once and you'll be having a very uncomfortable conversation.
 
@@ -77,7 +81,7 @@ The Golden Rule of Dispatch — and I've drilled this into every driver I've eve
 
 The drivers who consistently make the most money aren't the fastest drivers on the road. They're the ones who know their delivery zone cold. Every shortcut. Every gated community's access code. Every apartment complex where the building numbers make no sense. Spend your first week studying the zone map like it's a final exam, because faster runs mean more deliveries per shift, which means more tips.
 
-Keep your hot bag clean and in good condition — a stained bag with a broken zipper makes a terrible impression at the door and leads to colder food. Some veteran drivers buy their own high-quality insulated bags for $15 to $20 and report noticeably better tips. And always start your shift with at least $20 in small bills for making change. Nothing murders a potential tip faster than telling a customer "I don't have change for a twenty." If you're prepared for a [smooth cash transaction](/articles/dominos-20-bank-rule), customers round up. If you fumble, they ask for exact change back.
+Keep your hot bag clean and in good condition — a stained bag with a broken zipper makes a terrible impression at the door and leads to colder food. Some veteran drivers buy their own high-quality insulated bags for $15 to $20 and report noticeably better tips. And always start your shift with at least $20 in small bills for making change. Nothing destroys a potential tip faster than telling a customer "I don't have change for a twenty." If you're prepared for a [smooth cash transaction](/articles/dominos-20-bank-rule), customers round up. If you fumble, they ask for exact change back.
 
 <div class="callout callout-tip">**ProTip:** Keep track of your "bank" (the cash you started with) separately from cash tips received at the door. Mixing them up leads to shortfalls and extreme frustration during your end-of-shift cash-out at the store register.</div>
 
@@ -89,7 +93,7 @@ During a busy Friday or Saturday night, an experienced driver can hit 15 to 25 d
 
 ### Can drivers see customer tip amounts before accepting a delivery?
 
-No. Unlike gig platforms like DoorDash or Uber Eats, Pizza Hut drivers can't see tip amounts before taking a run. You find out what the customer tipped on the credit card only after the delivery is complete. Cash tips are discovered at the door. This is part of why the FIFO system works — there's no way to cherry-pick based on expected tips, so every [driver takes their turn](/articles/pizza-delivery-driver-accident) fairly.
+No. Unlike gig platforms like DoorDash or Uber Eats, Pizza Hut drivers can't see tip amounts before taking a run. You find out what the customer tipped on the credit card only after the delivery is complete. Cash tips are discovered at the door. This is part of why the FIFO system works — there is no way to cherry-pick based on expected tips, so every driver takes their turn fairly.
 
 ### What happens if a customer claims they never received their order?
 

@@ -26,6 +26,10 @@ If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen
 
 ## Bypassing the Speaker Box Bottleneck
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![How the Chick-fil-A iPOS Drive-Thru System Works](../../assets/images/general/generic-drive-thru-3.webp)
 
 

@@ -23,13 +23,16 @@ faq:
   answer: In many locations, they earn the same base hourly rate as other crew members.
     because it's the most demanding position in the kitchen, it's often one
     of the first roles considered for pay raises and promotions.
-disclaimerType: medical
 ---
-Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There's nowhere to hide. 
+Raising Cane's has the most absurdly focused menu in the entire fast-food industry. They sell chicken fingers. That's it. No burgers, no salads, no seasonal limited-time-offers. Chicken fingers, Texas toast, coleslaw, crinkle-cut fries, and Cane's Sauce. Because the menu is this narrow, every single item has to be perfect every single time. There is nowhere to hide. 
 
 That's why they don't have generic "grill cooks" or "prep cooks." They have the Bird Specialist. And if you're hired for this position, you are the most important person in the building. You are the heartbeat of the operation. If you fail, the entire restaurant grinds to a halt. 
 
 ## The 24-Hour Marinade and Why It Can't Be Rushed
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![What Does a ](../../assets/images/general/generic-prep.webp)
 
@@ -41,7 +44,7 @@ Before a single chicken tender touches flour, it has spent exactly 24 hours mari
 
 This 24-hour window is non-negotiable. A strict manager won't serve chicken that's been marinating for 20 hours, let alone 16. The extended soak time is what gives Cane's chicken that deep, consistent seasoning all the way through the meat, not just on the surface.
 
-Here's the operational stress this creates: if the night shift doesn't prep enough marinade tubs, the store runs out of usable chicken during the next day's rush. And unlike a burger joint where you can just throw more patties on the grill, you can't fast-track 24 hours of marination. I've heard stories of locations temporarily closing because they simply had no marinated chicken to cook. That's how important the overnight prep is, and that's why the best managers treat marinade forecasting like a science, not a guess.
+This is the operational stress this creates: if the night shift doesn't prep enough marinade tubs, the store runs out of usable chicken during the next day's rush. And unlike a burger joint where you can just throw more patties on the grill, you can't fast-track 24 hours of marination. I've heard stories of locations temporarily closing because they simply had no marinated chicken to cook. That's how important the overnight prep is, and that's why the best managers treat marinade forecasting like a science, not a guess.
 
 ## The Art of the Drop
 

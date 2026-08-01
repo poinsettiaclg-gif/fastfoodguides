@@ -23,12 +23,19 @@ faq:
 - question: How long can meat sit on the makeline after the retherm?
   answer: Once placed in the hot holding cabinet, proteins have a strict 4-hour shelf
     life before they must be discarded.
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 Taco Bell doesn't cook raw ground beef on a flat top. That's not how any of this works. The backbone of the entire menu—Crunchwrap Supreme, Nachos BellGrande, pretty much everything with protein—is the rethermalizer. Everyone on the crew calls it the retherm. It's basically an industrial water bath that holds at a steady 195°F. Frozen, vacuum-sealed bags of seasoned beef, chicken, steak, and nacho cheese go in, and 90 minutes later they come out at safe holding temps.
 
-The principle is similar to sous-vide cooking, but way less glamorous. If your water level drops or your heating element gets scaled up from hard water, the whole cycle falls behind. And when the makeline runs dry on beef during a $1,200 hour, you're finished. I've watched it happen more times than I can count. Here's how the 90-minute cycle actually works, what the temp logs require, and why the prep crew's timing makes or breaks the entire shift.
+The principle is similar to sous-vide cooking, but way less glamorous. If your water level drops or your heating element gets scaled up from hard water, the whole cycle falls behind. And when the makeline runs dry on beef during a $1,200 hour, you're finished. I've watched it happen more times than I can count. This is how the 90-minute cycle actually works, what the temp logs require, and why the prep crew's timing makes or breaks the entire shift.
 
 ## The 90-Minute Bag Drop Cycle
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![Decoding the Taco Bell Rethermalizer The 90-Minute Bag Drop Cycle Explained](../../assets/images/general/generic-drive-thru.webp)
 

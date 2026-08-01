@@ -20,11 +20,14 @@ faq:
   answer: PAA stands for Plan vs. Actual, a metric managers use to track labor and
     productivity. The slicer station is a common bottleneck, so managers monitor PAA
     to ensure throughput standards like 50-75 second drive-thru times are met.
-disclaimerType: medical
 ---
 Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef went viral. The internet collectively decided the meat was fake—some kind of liquid paste poured into a mold. I was managing a QSR kitchen at the time, and I remember a cashier showing me the photo on her phone during a slow Tuesday afternoon. "Is this real?" she asked. The answer is more interesting than the conspiracy theory, and the job of actually running the slicer station is one of the most tightly regulated positions in any fast food restaurant. 
 
 ## The Truth About the Meat
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Yes, it is real beef. No, it does not arrive as a liquid.
 
@@ -57,7 +60,7 @@ If you are assigned to the slicer station, you have already earned serious trust
 
 ## Safety Gear and the End-of-Night Breakdown
 
-Here is where the slicer station gets genuinely serious. Commercial deli slicers are incredibly dangerous. The blade is razor-sharp, spinning at high RPM, and completely exposed during operation. One slip without protection, and that blade will take the tip of a finger off before you even register the pain. Because of this hazard, employees under the age of 18 are legally prohibited from operating or cleaning the slicer in almost every state. This is not a corporate suggestion—it is federal labor law under the [Fair Labor Standards Act](https://www.dol.gov/agencies/whd/child-labor).
+This is where the slicer station gets genuinely serious. Commercial deli slicers are incredibly dangerous. The blade is razor-sharp, spinning at high RPM, and completely exposed during operation. One slip without protection, and that blade will take the tip of a finger off before you even register the pain. Because of this hazard, employees under the age of 18 are strictly prohibited from operating or cleaning the slicer in almost every state. This is not a corporate suggestion—it is strict corporate safety policy under the [Fair Labor Standards Act](https://www.dol.gov/agencies/whd/child-labor).
 
 The end-of-night cleaning procedure is rigorous and takes about 15 to 20 minutes if done correctly. After unplugging the machine—not just turning it off, but physically pulling the plug from the wall—you must disassemble the blade guard, the carriage plate, and the product tray. Each component is scrubbed individually with a food-safe sanitizer and a non-abrasive sponge. The blade itself is wiped carefully from the center outward, never in a circular motion along the edge. One circular wipe in the wrong direction and you are making a trip to the emergency room.
 

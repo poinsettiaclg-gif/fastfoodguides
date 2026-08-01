@@ -22,7 +22,6 @@ faq:
     demands raw speed, constant multitasking, and simultaneous awareness of multiple
     orders to match the Grill cook's pace.
 heroImage: ../../assets/images/general/generic-grill.webp
-disclaimerType: medical
 ---
 As you advance through [The In-N-Out Level System](/articles/in-n-out-level-system), you will eventually reach Level 5. The Board is where burgers are dressed, assembled, and wrapped. And the person standing at that stainless steel table dictates the tempo of the entire kitchen. If the Board person falls behind by even thirty seconds during a Friday dinner rush, every single thing downstream starts to break. 
 
@@ -34,7 +33,7 @@ As you advance through [The In-N-Out Level System](/articles/in-n-out-level-syst
 
 
 
-The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there's a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking. 
+The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there is a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking. 
 
 Your job is to dress those buns perfectly, every single time. You apply the Secret Spread using a pump dispenser, then layer on shredded lettuce, tomato slices, pickles, and raw onions—all in a specific order that never changes. The condiments, vegetables, and spread are arranged within arm's reach in a standardized layout. The lettuce bin sits closest to your dominant hand. The tomato tray is always in the same position. The spread pump never moves. This layout is identical at every In-N-Out location, which means an experienced Board person can transfer to a different store and feel right at home within minutes.
 
@@ -51,7 +50,7 @@ Once the Grill cook drops the cooked patties onto your dressed buns, you enter t
 
 The wrap uses a specific tuck-and-fold method with wax paper. You tear a sheet from the roll, place the completed burger at a diagonal on the paper, fold the bottom corner up and over the burger, tuck the sides in tightly, and roll the entire thing forward in one fluid motion. Done correctly, the burger sits in a neat paper cradle with the top half of the ingredients visible and the bottom half tightly secured to hold everything together.
 
-Here's where it gets tricky. You have to memorize which wrapped burger belongs to which order. If a customer ordered a Double-Double Animal Style and a plain Hamburger with no onions, those burgers have to land in the bag in the exact sequence the receipt dictates. Mix them up and the customer opens the wrong one first—that's a complaint, a remake, and wasted time. During a heavy rush, you might have six or seven wrapped burgers sitting in front of you, and you need to know which one is which without unwrapping them.
+This is where it gets tricky. You have to memorize which wrapped burger belongs to which order. If a customer ordered a Double-Double Animal Style and a plain Hamburger with no onions, those burgers have to land in the bag in the exact sequence the receipt dictates. Mix them up and the customer opens the wrong one first—that's a complaint, a remake, and wasted time. During a heavy rush, you might have six or seven wrapped burgers sitting in front of you, and you need to know which one is which without unwrapping them.
 
 The reality is wrapping is the single biggest bottleneck for new Board workers. Working the line, I observed Associates who can dress a bun perfectly at training speed completely fall apart when the Grill cook starts stacking patties faster than they can fold paper. The motion has to be automatic—muscle memory, not conscious thought.
 

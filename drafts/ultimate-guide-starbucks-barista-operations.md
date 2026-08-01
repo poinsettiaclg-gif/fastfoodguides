@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Starbucks Barista Operations (2026)"
-description: "A gritty, unvarnished breakdown of how a high-volume Starbucks store operates, from the Mastrena espresso machines and Cold Bar chaos to the crucial role of Customer Support."
+description: "A gritty, unvarnished breakdown of how a high-volume Starbucks store operates, from the Mastrena espresso machines and Cold Bar chaos to the essential role of Customer Support."
 pubDate: "2026-07-21"
 author: "Russell Roseberry"
 authorTitle: "Former QSR Operations Manager"

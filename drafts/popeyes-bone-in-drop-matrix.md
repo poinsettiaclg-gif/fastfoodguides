@@ -15,7 +15,7 @@ Welcome to the Bone-In Drop Matrix. This isn't about tossing bird into hot oil; 
 
 ## The Anatomy of a Makeline Collapse
 
-Here is the rookie mistake: you see a massive rush hit the KDS, panic, and drop four baskets of mild and spicy simultaneously. Congratulations, you just crashed the vat recovery temperature. Your oil drops below the crucial 340°F threshold, the chicken absorbs grease instead of searing, and in exactly 12 minutes, you’re pulling soggy, unsellable garbage. Meanwhile, the Expeditor is staring at an empty pan on the makeline, and drive-thru times are skyrocketing past the 4-minute redline.
+Here is the rookie mistake: you see a massive rush hit the KDS, panic, and drop four baskets of mild and spicy simultaneously. Congratulations, you just crashed the vat recovery temperature. Your oil drops below the essential 340°F threshold, the chicken absorbs grease instead of searing, and in exactly 12 minutes, you’re pulling soggy, unsellable garbage. Meanwhile, the Expeditor is staring at an empty pan on the makeline, and drive-thru times are skyrocketing past the 4-minute redline.
 
 To survive, you need proactive vat management. You manage the oil; you don't let the POS manage you.
 

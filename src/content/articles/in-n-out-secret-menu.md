@@ -22,13 +22,16 @@ faq:
     them to describe what they want, as it's often a combination of existing modifiers
     you can build manually.
 heroImage: ../../assets/images/general/generic-fryer.webp
-disclaimerType: medical
 ---
 If you look at [the In-N-Out](/articles/in-n-out-board-station) drive-thru menu board, you'll count three food items: Double-Double, Cheeseburger, and Hamburger. Add fries, shakes, and drinks, and that's basically it. The simplest menu in fast food, right? 
 
 Before your first register shift, you should know: customers almost never order off that menu. They order off the legendary "Secret Menu"—and they expect you to know exactly what they're talking about without asking a single clarifying question. If you're working the counter or the drive-thru, you need to know these orders inside and out.
 
 ## The POS System Is Built for Speed
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![How to Memorize the In-N-Out POS System and Secret Menu](../../assets/images/general/generic-prep.webp)
 
@@ -61,7 +64,7 @@ The hardest part of the POS isn't the popular items. It's the hyper-specific coo
 - **"Flying Dutchman":** Two meat patties and two slices of cheese. No bun, no lettuce, no tomatoes, no nothing. Just meat and cheese. The first time someone orders this, it sounds made up. It's not.
 - **"Mustard Fried":** Spreading mustard directly onto the raw patty before flipping it on the grill, creating a tangy, caramelized crust. This is part of Animal Style but can also be ordered separately.
 
-Then there are the niche modifiers that come up less frequently but will absolutely trip you up: "Chopped Chilies" (small hot peppers), "Whole Grilled Onion" versus standard grilled onion (a thick slab versus finely chopped), and custom patty-to-cheese ratios like a 3x3 or the legendary 4x4. When a customer orders one of these, they expect you to know what it means without follow-up questions. Hesitation kills your drive-thru time and backs up the line.
+Then there are the niche modifiers that come up less frequently but will absolutely trip you up: "Chopped Chilies" (small hot peppers), "Whole Grilled Onion" versus standard grilled onion (a thick slab versus finely chopped), and custom patty-to-cheese ratios like a 3x3 or the legendary 4x4. When a customer orders one of these, they expect you to know what it means without follow-up questions. Hesitation ruins your drive-thru time and backs up the line.
 
 ## Navigating the Drink Screen Without Losing Your Place
 

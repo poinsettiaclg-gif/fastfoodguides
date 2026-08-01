@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The Taco Bell Enchirito: Why Kitchens Dread the Smothered Secret Menu Hack'
 description: A former QSR manager breaks down the conveyor steamer bottlenecks, packaging
   challenges, and POS ringing rules behind Taco Bell's retired-but-requested Enchirito.
@@ -36,7 +37,7 @@ authorTitle: Former Multi-Unit Kitchen Manager
 ---
 While Taco Bell periodically revives classic items through limited-time in-app promotions, few retired menu icons generate as many daily counter requests as the **Enchirito**. First introduced in the late 1960s and officially removed from permanent menu boards in 2013, this hybrid enchilada-burrito remains a legend among fast-food enthusiasts.
 
-To the customer, an Enchirito is simply a bean and beef burrito served in a plastic bowl, smothered in red sauce, and topped with melted cheese. To a quick-service restaurant (QSR) general manager monitoring drive-thru timer performance, an ad-hoc Enchirito request during peak dinner rush is an operational headache. Here is what actually happens on the Taco Bell makeline when an Enchirito is ordered, why kitchen crews dread making it, and how to order it without destroying line throughput.
+To the customer, an Enchirito is simply a bean and beef burrito served in a plastic bowl, smothered in red sauce, and topped with melted cheese. To a quick-service restaurant (QSR) general manager monitoring drive-thru timer performance, an ad-hoc Enchirito request during peak dinner rush is an operational headache. This is what actually happens on the Taco Bell makeline when an Enchirito is ordered, why kitchen crews dread making it, and how to order it without destroying line throughput.
 
 ## 1. Anatomy of the Smothered Build
 
@@ -82,3 +83,8 @@ Taco Bell kitchens operate under strict labor efficiency goals, with drive-thru 
 
 
 <div class="callout callout-tip">**ProTip:** Never try to modify this with extra sour cream before it goes into the steamer. The dairy will curdle under the 350-degree thermal blast - ask for the sour cream in a side cup instead.</div>
+
+
+### The Reality of the Line at Taco Bell
+
+When you're working the line at Taco Bell, the steamer and melter stations are designed for maximum throughput. An Enchirito completely breaks this flow. The line cook has to grab an alternate container—usually a Mexican Pizza box or a special platter—and carefully balance the red sauce and cheese. If you have three Enchiritos on the screen during a Friday night rush, the entire line backs up because the melter can only hold so many items. It's a logistical nightmare that forces the expeditor to completely rethink their routing strategy just to keep drive-thru times out of the red.

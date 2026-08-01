@@ -18,13 +18,17 @@ faq:
 disclaimerType: food_safety
 ---
 
-The reality of the line is that running a standard fast food joint is hard enough, but operating a split-concept restaurant is a different beast entirely. You are running two completely different businesses under one roof. At Dairy Queen, the "Grill and Chill" format means you have half your crew dropping fries, flipping burgers, and dealing with grease, while the other half is covered in soft serve mix, blending Blizzards, and dipping cones. 
+The brutal truth about the line is that running a standard fast food joint is hard enough, but operating a split-concept restaurant is a different beast entirely. You are running two completely different businesses under one roof. At Dairy Queen, the "Grill and Chill" format means you have half your crew dropping fries, flipping burgers, and dealing with grease, while the other half is covered in soft serve mix, blending Blizzards, and dipping cones. 
 
-The divide between these two stations is where the entire operation either hums like a well-oiled machine or falls apart completely. What actually happens during a Friday night summer rush is a constant tug-of-war for timing. The hot food takes several minutes to cook. The ice cream takes 30 seconds to make but starts melting the second it hits the cup. If the chill station gets ahead of the grill station, the customer gets a puddle of melted soft serve. If the grill station gets too far ahead, the hot food sits under the heat lamps dying while the chill station struggles to catch up with a 15-Blizzard order.
+The divide between these two stations is where the entire operation either hums like a well-oiled machine or falls apart completely. The reality behind the counter during a Friday night summer rush is a constant tug-of-war for timing. The hot food takes several minutes to cook. The ice cream takes 30 seconds to make but starts melting the second it hits the cup. If the chill station gets ahead of the grill station, the customer gets a puddle of melted soft serve. If the grill station gets too far ahead, the hot food sits under the heat lamps dying while the chill station struggles to catch up with a 15-Blizzard order.
 
 ## The Kitchen Display System (KDS) Routing
 
-Step by step, this is the workflow. When a car pulls up to the speaker box and orders two double cheeseburgers, a basket of fries, a medium Oreo Blizzard, and a chocolate dipped cone, the POS (Point of Sale) system doesn't just print one ticket. It routes the items to the specific monitors. The burgers and fries pop up on the Grill KDS. The Blizzard and cone pop up on the Chill KDS. 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
+This is how the shift really plays out. When a car pulls up to the speaker box and orders two double cheeseburgers, a basket of fries, a medium Oreo Blizzard, and a chocolate dipped cone, the POS (Point of Sale) system doesn't just print one ticket. It routes the items to the specific monitors. The burgers and fries pop up on the Grill KDS. The Blizzard and cone pop up on the Chill KDS. 
 
 This routing is the only thing keeping the store functional. But screens don't talk. The crew has to talk. The person working the expeditor (expo) screen at the drive-thru window is the bridge between the two sides. The expo looks at the screen and yells, "I need two minutes on the double cheese, hold the ice cream!"
 
@@ -56,4 +60,4 @@ During the peak summer months, the dynamic shifts entirely. Customers stop order
 
 When the chill side gets overwhelmed, the grill cooks don't just stand there. A strong kitchen manager cross-trains the hot food side to jump over to the chill side. The grill cook washes their hands, changes their gloves, and starts pumping syrups and staging cups. It is a messy transition, but it is the only way to survive the rush.
 
-The split kitchen is a balancing act. It requires managers who can watch two completely different workflows and anticipate the bottlenecks before they happen. If you can master the timing between a fresh batch of fries and a perfectly blended Blizzard, you can run any kitchen in the industry.
+The split kitchen takes serious coordination. It requires managers who can watch two completely different workflows and anticipate the bottlenecks before they happen. If you can master the timing between a fresh batch of fries and a perfectly blended Blizzard, you can run any kitchen in the industry.

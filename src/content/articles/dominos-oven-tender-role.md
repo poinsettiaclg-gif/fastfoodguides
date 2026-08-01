@@ -21,11 +21,14 @@ faq:
     before the edge to minimize the time spent picking up and putting down the peel,
     keeping the belt completely clear.
 heroImage: ../../assets/images/general/generic-pos.webp
-disclaimerType: medical
 ---
 A single Domino's conveyor belt oven can spit out a screaming-hot pizza every 15 seconds during peak volume. The person who determines whether the entire store sinks or swims is standing at the end of that 450-degree tunnel, sweating through their shirt, catching those pizzas as fast as they emerge. That person is the Oven Tender, and I've watched this position break more promising trainees than any other job in the building. 
 
 ## The Catch: A Conveyor Belt That Never Stops
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![What is the ](../../assets/images/general/generic-prep.webp)
 
@@ -48,7 +51,7 @@ The Oven Tender stands at the exit with a long metal peel—a flat spatula desig
 ![What is the ](../../assets/images/general/generic-prep.webp)
 
 
-Catching the pizza is only step one. Here's the full sequence a good Oven Tender executes in under 15 seconds:
+Catching the pizza is only step one. This is the full sequence a good Oven Tender executes in under 15 seconds:
 
 1. **Catch** the pizza with the metal peel as it exits the belt.
 2. **Transfer** it to the stainless steel cutting table.
@@ -84,7 +87,7 @@ I need to be straight about this—the oven position is physically punishing in 
 
 Smart Tenders keep a towel draped over one shoulder to wipe sweat from their hands and forehead. Wet, sweaty hands on a metal peel and a rocking blade are a legitimate safety hazard—one slip and you've either dropped a pizza or cut yourself. A water bottle within arm's reach is absolutely non-negotiable. I have seen dehydration hit Tenders faster than they expected, especially newcomers who aren't used to sustained heat exposure. Dizziness at the oven is real and it's dangerous.
 
-The oven position isn't an official promotion—there's no title change or automatic pay bump. But in every Domino's I've managed, the oven was reserved for the most trusted and capable insiders. Being assigned to the oven is the store's way of saying you're the best they've got. It's a point of pride for the people who master it.
+The oven position isn't an official promotion—there is no title change or automatic pay bump. But in every Domino's I've managed, the oven was reserved for the most trusted and capable insiders. Being assigned to the oven is the store's way of saying you're the best they've got. It's a point of pride for the people who master it.
 
 For a look at another high-pressure pizza position, check out [the Papa John's dough slapping technique](/articles/papa-johns-dough-slapping)—it's a completely different kind of physical skill. And if you're considering the delivery side instead, read [the truth about Domino's gas reimbursement](/articles/dominos-gas) before you apply.
 

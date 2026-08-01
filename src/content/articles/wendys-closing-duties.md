@@ -21,17 +21,17 @@ relatedArticles:
 - wendys-frosty-machine-boil-out
 - wendys-clamshell-grill
 - wendys-chili-leftover-hamburgers
-heroImage: ../../assets/images/general/generic-fryer-3.webp
+heroImage: ../../assets/images/general/generic-pos.webp
 ---
 Closing a fast food restaurant is a grueling, exhausting process that separates the new staff from the veterans. The lobby is locked, the drive-thru is wrapping up the final late-night stragglers, and the entire crew is in a race against the clock to break down the kitchen so everyone can go home. If you've been assigned as the closing Sandwich Maker at Wendy's, you have a very specific set of responsibilities. You aren't scrubbing the floors, filtering the fryers, or doing the [Frosty Machine boil-out](/articles/wendys-frosty-machine-boil-out). You own the sandwich boards.
 
 ## Phase 1: The Pre-Close (Starting Around 10:00 PM)
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 The secret to getting out early is pre-closing. If you wait until the store officially closes to start cleaning, you are going to be there until midnight or later, watching your manager get progressively more irritated. The best closers start chipping away at tasks during slow moments in the final hour. 
-
-
-
-
 
 - **Condense the Pans:** If you have two half-empty pans of tomatoes, combine them into one clean pan. This frees up the dirty pan for the dishwasher to wash early, getting it off your plate entirely.
 - **Wipe Down the Backsplash:** Take a sanitizer towel and thoroughly clean the stainless steel backsplash behind your station. This is one of those tasks that takes 60 seconds during pre-close but somehow takes five minutes when you're rushing at the end.
@@ -43,7 +43,7 @@ The secret to getting out early is pre-closing. If you wait until the store offi
 
 ## Phase 2: Breaking Down the Boards
 
-![Wendy](../../assets/images/general/generic-walk-in-2.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 
 Once the manager announces the drive-thru is officially closed, the real work begins and the pressure turns up.
@@ -56,7 +56,7 @@ Once the manager announces the drive-thru is officially closed, the real work be
 
 ## Phase 3: The Three-Compartment Sink
 
-![Wendy](../../assets/images/general/generic-prep.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
 
 
 The metal inserts and cutting boards go through the standard three-sink wash process:

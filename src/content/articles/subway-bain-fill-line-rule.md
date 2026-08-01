@@ -20,10 +20,14 @@ faq:
 - question: Why can't Subway employees overfill the pans?
   answer: Overfilling places food above the refrigerated air blanket, leading to rapid
     spoilage and guaranteed FDA Food Code temperature violations during health inspections.
-disclaimerType: medical
+disclaimerType: food_safety
 ---
-Subway's bain is the most important piece of equipment in the store, and it is entirely unforgiving of lazy prep work. You know it as the colorful spread of meats, cheeses, and vegetables behind the glass, but in the restaurant industry, it's called a Bain-Marie. Keeping it stocked is the core of a Sandwich Artist's job. But there's one strict health-code rule that fresh trainees violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections because someone tried to save time by piling food too high.
+Subway's bain is the most important piece of equipment in the store, and it is entirely unforgiving of lazy prep work. You know it as the colorful spread of meats, cheeses, and vegetables behind the glass, but in the restaurant industry, it's called a Bain-Marie. Keeping it stocked is the core of a Sandwich Artist's job. But there is one strict health-code rule that fresh trainees violate constantly, and it's the rule that health inspectors check first when they walk through the door: the Fill Line Rule. I've watched franchise owners get cited over this during surprise inspections because someone tried to save time by piling food too high.
 ## How the Bain-Marie Actually Cools Food
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Unlike a standard refrigerator that surrounds food with cold walls and a sealed door, the Subway Bain is an open-air cooler. The pans sit exposed to the restaurant so customers can see (and point at) exactly what they want on their sandwich. So how does it keep food cold without a door? 
 
@@ -63,9 +67,9 @@ The logs also serve as an early warning system. If you notice a reading of 39°F
 
 A good Sandwich Artist never overfills the Bain. Instead, they keep backup pans prepped and stored in the reach-in cooler directly below the Bain, ready for rapid swaps.
 
-Here's the proper workflow: before the lunch rush, the opener or mid-shift worker preps a full set of backup pans—sliced tomatoes, shredded lettuce, green peppers, onions, all the meats—and stores them in the under-counter cooler. When a pan on the line runs low, you pull the nearly empty pan out, slide the fresh backup pan in, and then refill the old pan during a lull.
+This is the proper workflow: before the lunch rush, the opener or mid-shift worker preps a full set of backup pans—sliced tomatoes, shredded lettuce, green peppers, onions, all the meats—and stores them in the under-counter cooler. When a pan on the line runs low, you pull the nearly empty pan out, slide the fresh backup pan in, and then refill the old pan during a lull.
 
-The critical principle here is **swap, not top off**. Dumping fresh lettuce on top of lettuce that's been sitting on the line for three hours creates a layering problem where the older product on the bottom never gets used and eventually spoils underneath the fresh layer. This is the same First In, First Out (FIFO) principle used in every professional kitchen, from Subway to fine dining. If you're topping off instead of swapping, you're hiding old food under new food, and that's exactly the kind of practice that creates foodborne illness incidents.
+The critical principle this is **swap, not top off**. Dumping fresh lettuce on top of lettuce that's been sitting on the line for three hours creates a layering problem where the older product on the bottom never gets used and eventually spoils underneath the fresh layer. This is the same First In, First Out (FIFO) principle used in every professional kitchen, from Subway to fine dining. If you're topping off instead of swapping, you're hiding old food under new food, and that's exactly the kind of practice that creates foodborne illness incidents.
 
 <div class="callout callout-tip">**ProTip:** Standard operating procedures dictate that all backup pans must be pre-chilled in the walk-in cooler before hitting the bain. The open-air unit is designed to hold temperatures, not lower them. Never place room-temperature ingredients on the line.</div>
 
@@ -98,6 +102,6 @@ During a heavy rush, expect to swap pans every 30 to 45 minutes for high-volume 
 
 ### What happens if the Bain's refrigeration system breaks during a shift?
 
-Every perishable item must come off the line immediately and go into the walk-in cooler. The store may need to close the sandwich line entirely until the unit is repaired. Serving food from a non-functioning Bain is a serious health code violation that can result in the store being shut down by the health department. There's no workaround for this one—if the Bain is down, the line is down.
+Every perishable item must come off the line immediately and go into the walk-in cooler. The store may need to close the sandwich line entirely until the unit is repaired. Serving food from a non-functioning Bain is a serious health code violation that can result in the store being shut down by the health department. There is no workaround for this one—if the Bain is down, the line is down.
 
 ---

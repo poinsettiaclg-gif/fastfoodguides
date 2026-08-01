@@ -20,7 +20,10 @@ faq:
     you can manage the station independently while maintaining food safety and throughput
     standards.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
-disclaimerType: medical
+disclaimerType: food_safety
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 I spent my first six months as a restaurant manager dreading the moment my main grill cook called in sick. While the front-of-house assembly line at Chipotle looks smooth and effortless, the reality is entirely different just over the sneeze guard. 
 
@@ -31,6 +34,10 @@ That person is the Grill Cook (internally referred to as G1). In the entire fast
 This is a gritty, unvarnished look at how the Chipotle grill station operates, the relentless communication system that dictates the pace, and the strict validation logs that keep the food safe.
 
 ## The Scope of the Grill
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 In most fast-food restaurants, a "grill cook" just cooks burgers. At Chipotle, the G1 is responsible for an overwhelming amount of simultaneous prep. 
 

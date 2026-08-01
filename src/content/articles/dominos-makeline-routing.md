@@ -25,13 +25,16 @@ faq:
     hits the bump bar bar as the pizza enters the oven; ''Quality Check'' triggers
     during the 7-minute conveyor transit; and ''Out for Delivery'' triggers when the
     driver checks out the order on the dispatch touch screen.'
-disclaimerType: medical
 ---
 Domino's Pizza is widely regarded by franchise executives as an e-commerce and logistics technology company that happens to sell pizza. Since launching its proprietary **PULSE operating system** and algorithmic kitchen management software, Domino's has digitized, measured, and optimized every single second of a pizza's life—from the initial click on a smartphone app to the moment the delivery driver knocks on the customer's door.
 
 As someone who spent years managing high-volume pizza operations, I know that surviving a Friday night dinner rush at Domino's is not just about manual dough slapping; it is a high-stakes video game played against digital clocks scattered across the kitchen.
 
 ## 1. The Digital Makeline: Anatomy of the 3-Minute Clock
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![Domino](../../assets/images/general/generic-exterior.webp)
 
@@ -48,7 +51,7 @@ The makeline screen does not merely display toppings; it enforces a strict psych
 ### Bump Bar Latency and Oven Loading
 At the end of the makeline table sits the **Bump Bar** (a heavy-duty metal keypad). 
 *   When the pizza finisher places the dressed raw pizza onto the moving chain-link belt of the Lincoln Impinger conveyor oven, they strike the enter key on the bump bar.
-*   **Why Precision Matters:** Striking the bump bar sends an immediate API call to customer-facing servers, changing the guest's mobile app from "Prep" to "Bake." If an employee "early bumps" an order (clearing it from the screen before it is actually made to manipulate speed scores), corporate audits flag the store for statistical fraud during unannounced quality inspections.
+*   **Why Precision Matters:** Striking the bump bar sends an immediate API call to customer-facing servers, changing the guest's mobile app from "Prep" to "Bake." If an employee "early bumps" an order (clearing it from the screen before it is actually made to manipulate speed scores), corporate audits flag the store for statistical misrepresentation during unannounced quality inspections.
 
 <div class="callout callout-tip">**ProTip:** Do not 'early bump' to pad your metrics. The Pulse system analyzes the time delta between the makeline bump and the cut table label print. If pizzas are consistently 'baking' in 4 minutes instead of the oven's fixed 7-minute transit time, the corporate dashboard flags the store for metric manipulation.</div>
 

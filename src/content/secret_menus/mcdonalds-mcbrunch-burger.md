@@ -1,4 +1,6 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
+topic: "Secret Menu"
 title: 'The McBrunch Burger: Why McDonald''s Kitchens Dread the 10:35 AM Secret Menu
   Hack'
 description: A former QSR manager explains the operational chaos behind McDonald's
@@ -30,7 +32,6 @@ faq:
     brief 15-minute window when kitchens transition from breakfast to lunch.
 author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
-disclaimerType: medical
 ---
 In the lore of fast-food secret menus, few items hold as much mythical status as **The McBrunch Burger**—widely known on social media as the **"10:35 AM Burger."** 
 
@@ -38,7 +39,7 @@ The concept is an indulgent dream for lovers of crossover food: you take a stand
 
 While influencers celebrate this hybrid creation as the ultimate menu hack, to any McDonald's general manager or shift leader, **this order is an absolute operational nightmare.** 
 
-With an official **Operational Annoyance Score of 10/10**, demanding a McBrunch Burger during the daily breakfast-to-lunch changeover violates nearly every kitchen sequencing and food-safety protocol in the building. Here is the behind-the-scenes engineering reality of why McDonald's kitchens dread the 10:35 AM hack.
+With an official **Operational Annoyance Score of 10/10**, demanding a McBrunch Burger during the daily breakfast-to-lunch changeover violates nearly every kitchen sequencing and food-safety protocol in the building. This is the behind-the-scenes engineering reality of why McDonald's kitchens dread the 10:35 AM hack.
 
 ## 1. The 10:30 AM Changeover: The Most Stressful 15 Minutes
 

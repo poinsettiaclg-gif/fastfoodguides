@@ -23,7 +23,7 @@ relatedArticles:
 - wendys-chili-leftover-hamburgers
 - wendys-closing-duties
 heroImage: ../../assets/images/general/generic-grill.webp
-disclaimerType: medical
+disclaimerType: food_safety
 ---
 Wendy's has built its entire brand identity on two things: fresh, never-frozen beef and those distinctive square hamburger patties that hang over the edge of the bun. But keeping that shape intact isn't automatic—it requires a specific technique on the flat-top.
 
@@ -31,11 +31,11 @@ It's called the 4-Corner Press. If you skip it, you'll turn a beautiful square p
 
 ## Why Fresh Beef Fights Back
 
-![What is the Wendy](../../assets/images/general/generic-drive-thru-3.webp)
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
 
 
 
-
+![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 When you throw a frozen hamburger patty onto a grill, it basically acts like a hockey puck. The ice crystals that formed during freezing have broken down the cell walls, creating a rigid structure that holds its shape under heat. The patty sits there, takes the heat, and cooks predictably. 
 
@@ -45,10 +45,10 @@ I watched trainees stare at this process in complete bewilderment. They drop a p
 
 ## The 4-Corner Press Technique
 
-![What is the Wendy](../../assets/images/general/generic-walk-in-2.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 
-The technique itself is deceptively simple, but the timing window is critical. Here's the exact sequence:
+The technique itself is deceptively simple, but the timing window is critical. This is the exact sequence:
 
 1. **The Drop:** Lay the raw square patties onto the grill in neat, organized rows. Don't throw them—place them flat so they make full contact with the grill surface.
 

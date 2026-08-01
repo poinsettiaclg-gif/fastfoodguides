@@ -1,7 +1,7 @@
 ---
 title: 'Starbucks Morning Rush: How the Bar Stays Afloat'
 description: Starbucks morning rush requires specific bar positioning and drink routing.
-  Here's how a well-run store manages 200+ drinks in the first hour of service.
+  This is how a well-run store manages 200+ drinks in the first hour of service.
 pubDate: '2025-10-23'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -27,6 +27,10 @@ faq:
 The ticket printer hasn't stopped for 45 minutes, there are twenty mobile orders waiting on the handoff plane, and the drive-thru line is wrapped around the building. Welcome to "Peak" at Starbucks. Surviving the 7:00 AM to 9:00 AM gauntlet on the Hot Espresso Bar requires mechanical precision and a strict commitment to the sequence.
 
 ## Respect the Beverage Routine
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -64,7 +68,7 @@ The stickers come from multiple channels—cafe orders, mobile orders, drive-thr
 
 A messy bar slows you down in ways you don't notice until it's too late. If you spill milk, wipe it immediately. If the espresso grounds bin is getting full, empty it the second you have a 10-second gap. If you let milk crust onto your steam wand or syrup pool on the counter, you will eventually drop a cup, knock over a bottle, or slip on a wet floor and completely derail the flow.
 
-Here's the detail that even some experienced baristas overlook: a clean steam wand produces better microfoam. When milk residue builds up on the tip, it clogs the tiny holes and creates large, bubbly foam instead of the silky-smooth microfoam that flat whites and lattes require. Purge and wipe the wand after every single steam. No exceptions. Two seconds of prevention saves you a 45-second remake.
+This is the detail that even some experienced baristas overlook: a clean steam wand produces better microfoam. When milk residue builds up on the tip, it clogs the tiny holes and creates large, bubbly foam instead of the silky-smooth microfoam that flat whites and lattes require. Purge and wipe the wand after every single steam. No exceptions. Two seconds of prevention saves you a 45-second remake.
 
 Keep at least two rinsed pitchers ready at all times—one for dairy and one for whatever alternative milk you're using most (usually oat). Switching between milks without rinsing is a cross-contamination risk and a potential allergen issue that no amount of speed justifies.
 

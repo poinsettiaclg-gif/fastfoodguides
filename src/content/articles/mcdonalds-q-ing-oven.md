@@ -29,6 +29,10 @@ To the untrained eye, it looks like a heavy-duty microwave. To a kitchen manager
 
 ## What is "Q-ing"?
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![The McDonald](../../assets/images/general/generic-prep.webp)
 
 
@@ -73,7 +77,7 @@ When you are dealing with a piece of equipment that outputs 2000 watts of microw
 
 During the chaos of a morning rush, cheese from McGriddles or burritos inevitably slides off the specialized Q-ing trays and bakes directly onto this ceramic plate. Because the oven is in continuous operation, that cheese immediately carbonizes into a rock-hard black crust. This isn't just an aesthetic issue; carbonized food debris absorbs microwave energy, completely throwing off the carefully engineered thermal profiles of the Q-codes. A hotcake placed on top of a carbonized cheese spill will come out with a cold center and burnt edges.
 
-To prevent this, the maintenance protocol requires employees to scrub the ceramic plate with a specialized non-abrasive pad. The severe burn hazard here is that the interior of the Q-ing oven remains incredibly hot long after the door is opened. Employees routinely receive contact burns on their forearms while reaching into the deep steel cavity to scrub the back corners during the crossover shift.
+To prevent this, the maintenance protocol requires employees to scrub the ceramic plate with a specialized non-abrasive pad. The severe burn hazard this is that the interior of the Q-ing oven remains incredibly hot long after the door is opened. Employees routinely receive contact burns on their forearms while reaching into the deep steel cavity to scrub the back corners during the crossover shift.
 
 ## The 'No-Metal' Protocol in a Metal Kitchen
 

@@ -18,21 +18,25 @@ faq:
 disclaimerType: food_safety
 ---
 
-The reality of the line is that building a Whopper is not like throwing together a standard fast food cheeseburger. The Whopper is a massive, sloppy, top-heavy sandwich. If your board station team doesn't follow the exact corporate build sequence, the sandwich falls apart in the wrapper, the drive-thru times tank, and the customer complains about a messy meal. 
+The brutal truth about the line is that building a Whopper is not like throwing together a standard fast food cheeseburger. The Whopper is a massive, sloppy, top-heavy sandwich. If your board station team doesn't follow the exact corporate build sequence, the sandwich falls apart in the wrapper, the drive-thru times tank, and the customer complains about a messy meal. 
 
-What actually happens on the board station during a lunch rush is a highly choreographed dance. The broiler cook is feeding the PHU (Product Holding Unit) with flame-grilled patties, while the board person is grabbing buns, slapping on condiments, and trying to keep the assembly line moving without drowning the sandwich in mayonnaise. 
+The actual process on the board station during a lunch rush is a highly choreographed dance. The broiler cook is feeding the PHU (Product Holding Unit) with flame-grilled patties, while the board person is grabbing buns, slapping on condiments, and trying to keep the assembly line moving without drowning the sandwich in mayonnaise. 
 
 ## The Prep Board Setup
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Before the first car even hits the speaker box, the board must be fully stocked. You have a massive cold prep well running down the middle of the station. This holds your sliced tomatoes, chopped lettuce, sliced onions, and pickles. Above the board, you have the PHU cabinets holding the hot meat. 
 
 The station is designed for minimal movement. The worker stands in the middle, grabs the buns from the toaster on their left, drops them on the board, and begins the build. Everything has a specific place. If the tomatoes are empty, the entire line stops.
 
-<div class="callout callout-tip">**ProTip:** Always keep backup cambros of sliced tomatoes and chopped lettuce in the under-counter cooler directly beneath the board station. Having to walk to the walk-in cooler during a rush to grab more produce will kill your ticket times by a full 60 seconds.</div>
+<div class="callout callout-tip">**ProTip:** Always keep backup cambros of sliced tomatoes and chopped lettuce in the under-counter cooler directly beneath the board station. Having to walk to the walk-in cooler during a rush to grab more produce will crush your ticket times by a full 60 seconds.</div>
 
 ## The Heavy Bottom Build
 
-Step by step, this is the workflow. The board person pulls the top and bottom buns (the crown and the heel) from the toaster and lays them flat. The build starts on the heel. The worker reaches up to the PHU, grabs tongs, and pulls a steaming hot 4-ounce flame-grilled patty. 
+This is how the shift really plays out. The board person pulls the top and bottom buns (the crown and the heel) from the toaster and lays them flat. The build starts on the heel. The worker reaches up to the PHU, grabs tongs, and pulls a steaming hot 4-ounce flame-grilled patty. 
 
 The patty goes directly on the heel. Next comes the pickles. Exactly four pickle slices, arranged evenly so every bite gets some acid. Then comes the ketchup. The standard is a specific pattern—usually a spiral or a targeted squirt—to ensure the patty gets coated but the bun doesn't get completely soaked.
 
@@ -64,4 +68,4 @@ However, during a lunch rush, the reality of the line means you are pulling meat
 
 A good kitchen manager watches the sales projections and calls the meat drops accordingly. The goal is to run the PHU as lean as possible without running out. If you run out of Whopper meat during a rush, the entire drive-thru grinds to a halt while you wait for the broiler to process a new batch. It forces the board person to stand idle, watching the screen fill up with pending orders, knowing they are about to get slammed the second that meat drops.
 
-The entire process, from toaster to chute, has to happen in under 30 seconds. When the board person is in the zone, their hands are moving in a continuous rhythm. They aren't looking at the ingredients; they are relying entirely on muscle memory. Master the build sequence, manage the PHU correctly, and you can push 100 Whoppers an hour without breaking a sweat.
+The entire process, from toaster to chute, has to happen in under 30 seconds. When the board person is in the zone, their hands are moving in a continuous rhythm. They aren't looking at the ingredients; they are relying entirely on muscle memory. Master the build sequence, manage the PHU correctly, and you can push 100 Whoppers an hour in your sleep.

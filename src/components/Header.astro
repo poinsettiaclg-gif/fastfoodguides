@@ -135,6 +135,7 @@ import HeaderLink from './HeaderLink.astro';
 		text-decoration: none;
 		color: var(--text-primary);
 		flex-shrink: 0;
+		min-height: 44px; /* WCAG touch target */
 	}
 	.brand:hover {
 		color: var(--text-primary);
@@ -160,7 +161,10 @@ import HeaderLink from './HeaderLink.astro';
 	.nav-links :global(.header-cta) {
 		background: var(--accent);
 		color: var(--bg-body) !important;
-		padding: 0.4rem 1rem !important;
+		padding: 0.6rem 1.25rem !important; /* increased for 44px min height */
+		min-height: 44px;
+		display: inline-flex;
+		align-items: center;
 		border-radius: 999px;
 		font-weight: 700;
 		text-transform: uppercase;

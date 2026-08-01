@@ -1,7 +1,7 @@
 ---
 title: 'Chipotle Fajita Veggies: The Specific Cut Required'
 description: Chipotle requires a precise knife cut for their fajita peppers and onions.
-  Here is the prep standard and why consistency matters for cooking time.
+  This is the prep standard and why consistency matters for cooking time.
 pubDate: '2024-11-07'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -23,13 +23,16 @@ faq:
     and steak. Policies on wearing the glove during vegetable prep can vary by store,
     but many managers strongly encourage it.
 heroImage: ../../assets/images/general/generic-fryer.webp
-disclaimerType: medical
 ---
 The prep shift at Chipotle starts at 6:00 AM, and for the next several hours, you are going to become intimately familiar with a chef's knife. You will slice chicken, dice onions, chop cilantro, juice limes until your hands sting, and prep enough guacamole to fill a bathtub. But the single most scrutinized task of the entire morning—the one that will make or break your prep career—is slicing the fajita veggies. 
 
 I witnessed managers dump entire hotel pans of sliced bell peppers straight into the trash can because the cuts were sloppy. Not "sort of off." Sloppy. And the prep cook who sliced them had to start the entire batch over from scratch while the rest of the team stared. The reason comes down to operations. 
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Chipotle Fajita Veggies The Specific Cut Required](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -68,9 +71,9 @@ The fajita veggie prep is not just about the cut. It is about how you handle the
 
 The onions are their own beast entirely. Because onion layers naturally curve and separate, maintaining a true 1/4-inch slice requires you to work slowly and deliberately. More times than I can count, newcomers blaze through onions at top speed, producing cuts where the outer layers are the right thickness but the inner layers are paper-thin or doubled up into half-inch chunks. Rushing through onions is how you get an entire batch rejected. Slow down, use the ridges as your guide, and let the knife do the work.
 
-Here's a pro tip that saved me hundreds of hours: when you cut a bell pepper in half and lay it flat, the natural ridges on the inside of the pepper create visual lanes that are roughly 1/4-inch apart. Let those ridges guide your knife, and you will achieve more consistent slices with less mental effort.
+This is a pro tip that saved me hundreds of hours: when you cut a bell pepper in half and lay it flat, the natural ridges on the inside of the pepper create visual lanes that are roughly 1/4-inch apart. Let those ridges guide your knife, and you will achieve more consistent slices with less mental effort.
 
-## The [The Chipotle Grill Cook: Why It's the Hardest Job in Fast Casual](/articles/chipotle-grill-validation/) Knife Test
+## The The Chipotle Grill Cook: Why It's the Hardest Job in Fast Casual Knife Test
 
 When an employee attempts to become a Certified Grill Cook, they undergo a "Validation" test where an Area Manager or General Manager watches them prep under real-world conditions. The evaluator will literally pull out a ruler or a visual guide and measure the employee's sliced bell peppers. If the cuts are sloppy, inconsistent, or too thick, the employee fails the certification. Mastering the 1/4-inch fajita veggie slice is a fundamental rite of passage.
 

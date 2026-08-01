@@ -24,6 +24,10 @@ Then the Dough Spinner showed up, and everything changed.
 
 ## What the Dough Spinner Actually Is
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![What is the Papa John](../../assets/images/general/generic-prep.webp)
 
 
@@ -34,7 +38,7 @@ The Dough Spinner — sometimes called a dough press or a dough sheeter, dependi
 
 Most models are literally bolted down to the table because the pressing motion generates enough force to walk the machine right off the edge if it's unsecured. The platens are coated with a non-stick surface and heated to a specific temperature — warm enough to relax the gluten in the dough so it doesn't snap back like a rubber band, but not hot enough to actually start cooking it. Getting that temperature wrong is one of the most common problems stores run into, and I'll get to that in a minute. 
 
-It hums. There's a constant low electrical hum when it's warmed up and ready to go. After a few hours on the makeline, that sound becomes the background noise of your entire shift.
+It hums. There is a constant low electrical hum when it's warmed up and ready to go. After a few hours on the makeline, that sound becomes the background noise of your entire shift.
 
 ## How the Machine Actually Works
 
@@ -49,7 +53,7 @@ Instead of the theatrical slapping and spinning that [Papa John's traditionalist
 
 That's it. Three seconds. What used to take a skilled Insider 30 to 45 seconds of hand-slapping now takes the time it takes you to blink twice. The heated platens relax the gluten instantly, so when you lift the lever, the dough stays flat instead of contracting back into a lumpy blob.
 
-The reality is, centering the dough ball matters way more than people think. Even a half-inch off-center and your pizza base comes out looking like an egg — thicker on one side, thinner on the other. During a Friday night rush, when you're pressing out 40 pizzas an hour, your centering instinct has to be automatic. There's no time to measure.
+The reality is, centering the dough ball matters way more than people think. Even a half-inch off-center and your pizza base comes out looking like an egg — thicker on one side, thinner on the other. During a Friday night rush, when you're pressing out 40 pizzas an hour, your centering instinct has to be automatic. There is no time to measure.
 
 ## The Debate: Craft vs. Consistency
 
@@ -59,13 +63,13 @@ Among veteran Papa John's employees, the Dough Spinner is basically a religious 
 
 **The case against it:** Traditionalists — and I tend to side with them — argue that the machine crushes the air out of the outer crust, the cornicione. When you hand-slap, you gently push air toward the edges, creating that puffy, bubbly, charred ring that pizza purists lose their minds over. The Spinner flattens everything uniformly, producing a denser, flatter edge. Veteran employees who've worked both methods swear they can identify a machine-pressed crust just by looking at it after it comes out of the oven.
 
-Here's the uncomfortable truth: in blind taste tests among staff, the results are almost always split. Some people genuinely prefer the consistency of the pressed crust. Most customers — loaded up with sauce, cheese, and toppings — never notice the difference. The machine wins on efficiency. The hand-slap wins on soul.
+This is the uncomfortable truth: in blind taste tests among staff, the results are almost always split. Some people genuinely prefer the consistency of the pressed crust. Most customers — loaded up with sauce, cheese, and toppings — never notice the difference. The machine wins on efficiency. The hand-slap wins on soul.
 
 ## The Training Impact Nobody Talks About
 
 The Spinner's biggest impact isn't on the pizza. It's on the people making it. Before the machine, new Insiders needed one to three weeks of practice before they could reliably slap dough without tearing it. That training period was expensive — wasted dough, slower makeline speeds, a trainer pulled off their own station to babysit. With the Spinner, a new hire is pressing perfect bases within minutes of their first training shift.
 
-But here's the trap I witnessed play out a dozen times: when the machine breaks — and it will break, usually during the worst possible moment — a store full of machine-trained employees suddenly can't produce pizzas. I once watched a Friday night rush grind to a halt because the Spinner's heating element died and not a single closer knew how to hand-slap. The GM had to call a veteran employee at home and beg them to come in. Learn the hand-slap even if your store has a Spinner. You become the most valuable person in the building the night that machine goes down.
+But this is the trap I witnessed play out a dozen times: when the machine breaks — and it will break, usually during the worst possible moment — a store full of machine-trained employees suddenly can't produce pizzas. I once watched a Friday night rush grind to a halt because the Spinner's heating element died and not a single closer knew how to hand-slap. The GM had to call a veteran employee at home and beg them to come in. Learn the hand-slap even if your store has a Spinner. You become the most valuable person in the building the night that machine goes down.
 
 ## Maintaining the Machine
 

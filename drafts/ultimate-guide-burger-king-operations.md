@@ -46,4 +46,4 @@ When a customized Whopper order comes in, the board workers assemble it using he
 
 This role is known as the **Expeditor** (or Expo). The Expeditor stands at the end of the production line. They are the final quality check, the bagger, and the primary communicator. If a customized burger is made incorrectly, the Expeditor must catch it before it hits the drive-thru window. If the drive-thru needs more fries, the Expeditor shouts the call to the fry station. 
 
-A strong Expeditor can carry a weak kitchen through a lunch rush. A weak Expeditor will cause a strong kitchen to collapse into chaos. Learn exactly why this position is so crucial in our guide to [The Burger King Expeditor Role](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/src/content/articles/burger-king-expeditor-role.md).
+A strong Expeditor can carry a weak kitchen through a lunch rush. A weak Expeditor will cause a strong kitchen to collapse into chaos. Learn exactly why this position is so essential in our guide to [The Burger King Expeditor Role](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/src/content/articles/burger-king-expeditor-role.md).

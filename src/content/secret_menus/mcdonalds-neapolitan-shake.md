@@ -21,7 +21,7 @@ howToOrder: 'Ask for a Neapolitan Shake. If they look confused, ask for a layere
   shake: vanilla, chocolate, and strawberry in the same cup.'
 priceEstimate: $3.50 - $4.50
 relatedArticles:
-- mcdonalds-ice-cream-machine-truth
+- mcdonalds-ice-cream-machine
 faq:
 - question: Is there a Neapolitan shake at McDonald's?
   answer: There is no official Neapolitan shake on the McDonald's menu. It is a secret
@@ -37,7 +37,7 @@ The reality of the McDonald's drive-thru window is that every second is tracked,
 
 Handing out a "Neapolitan Shake"—a viral secret menu hack that demands a perfectly layered stack of strawberry, vanilla, and chocolate—takes upwards of 35 seconds of pure, unadulterated manual labor from the window presenter. When you order this during a Friday dinner rush, you are actively bringing the entire drive-thru operation to a screeching halt. 
 
-I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn't just an annoyance; it is a mechanical nightmare for the infamously fragile Taylor C602 shake machine. Here is the unvarnished breakdown of exactly what happens behind the counter when that ticket prints on the line.
+I have watched the Neapolitan Shake wipe out an otherwise perfect shift. It isn't just an annoyance; it is a mechanical nightmare for the infamously fragile Taylor C602 shake machine. This is the unvarnished breakdown of exactly what happens behind the counter when that ticket prints on the line.
 
 ## The Mechanical Reality of the Taylor C606 Manifold
 

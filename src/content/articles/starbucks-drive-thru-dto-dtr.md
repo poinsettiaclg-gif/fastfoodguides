@@ -20,7 +20,6 @@ faq:
   answer: Food warming. Warmed pastries and sandwiches take longer than most drinks,
     which is why skilled DTOs try to punch food items into the system before the customer
     even finishes ordering their drinks.
-disclaimerType: medical
 ---
 The morning rush at a high-volume Starbucks drive-thru is a masterclass in synchronized chaos. When 60 cars an hour are wrapping around the building, the success or failure of the shift rests entirely on the shoulders of two specific positions: **DTO (Drive-Thru Order)** and **DTR (Drive-Thru Register)**.
 
@@ -30,6 +29,10 @@ The operations on the other side of the headset run as follows:
 
 ## DTO: Drive-Thru Order (The Orchestrator)
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![Starbucks Drive-Thru The DTO and DTR Roles Explained](../../assets/images/general/generic-walk-in.webp)
 
 
@@ -38,7 +41,7 @@ The DTO is the voice in the speaker box. But taking your order is only about 30%
 
 When you pull up to the speaker, a sensor chimes in the headsets worn by the DTO, the DTR, and the Baristas making the drinks. 
 
-**Here is what the DTO is doing while they talk to you:**
+**This is what the DTO is doing while they talk to you:**
 1. **Punching the Order:** They are rapidly inputting your complex modifications into the Point of Sale (POS) system.
 2. **Staging Food:** If you order a warmed butter croissant or a bacon gouda sandwich, the DTO doesn't wait for the ticket to print. They immediately turn to the warming station, grab the food with tongs, throw it in the high-speed Turbochef oven, and hit the timer. (In extremely high-volume stores, a dedicated "Warming" barista handles this, but the DTO often flexes to help).
 3. **Queueing the Barista:** Because the drink Baristas also wear headsets, they actually begin making your drink the second you say it—*before* the DTO even finishes punching it into the computer. This is called "listening ahead."

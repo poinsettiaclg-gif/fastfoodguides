@@ -24,13 +24,17 @@ Chick-fil-A is not a normal fast food job. I say that as someone who has worked 
 
 ## The Chick-fil-A Core 4 Explained
 
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
+
 ![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 
 
 
-The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and here is what each pillar requires: 
+The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and this is what each pillar requires: 
 
 1. **Create Eye Contact.** You do not look down at the register, stare at the menu board, or glance at your coworker while a guest is talking to you. You look them directly in the eye. This sounds simple until you are on hour seven of a Saturday lunch rush and you have taken 200 orders and your brain is running on autopilot. Maintaining genuine eye contact when you are exhausted is harder than it sounds, and it is the first thing managers notice slipping. 
 
@@ -63,7 +67,7 @@ The result is a customer experience that feels dramatically different from walki
 ![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-prep.webp)
 
 
-Here is the part that catches most applicants off guard: Chick-fil-A hiring managers are trained to evaluate you against the Core 4 during the interview itself. They are not just listening to your answers. They are watching your behavior in real time.
+This is the part that catches most applicants off guard: Chick-fil-A hiring managers are trained to evaluate you against the Core 4 during the interview itself. They are not just listening to your answers. They are watching your behavior in real time.
 
 **When you walk in:** Do not look at your phone in the lobby. Make immediate eye contact with the person at the counter, smile, and speak with energy: "Hi! I'm here for an interview with [Manager's Name]." You just demonstrated three of the four pillars before you even sat down.
 
@@ -73,7 +77,7 @@ Here is the part that catches most applicants off guard: Chick-fil-A hiring mana
 
 **When you leave:** Do not just say "Thanks, bye." Say something personal: "I really appreciate you taking the time to talk with me today. I hope you have a great rest of your shift." You just executed the fourth pillar one more time on your way out the door.
 
-## Common Mistakes That Kill Your Interview
+## Common Mistakes That Ruin Your Interview
 
 Even if you have excellent work experience, certain behaviors during the interview will immediately disqualify you at most Chick-fil-A locations:
 

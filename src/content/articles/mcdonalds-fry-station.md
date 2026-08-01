@@ -1,7 +1,7 @@
 ---
 title: 'McDonald''s Fry Station: Inside the Operation'
 description: McDonald's fry station runs on a precise basket rotation and timer system.
-  Here's how fry cooks manage oil quality and output during peak hours.
+  This is how fry cooks manage oil quality and output during peak hours.
 pubDate: '2026-06-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -24,10 +24,14 @@ heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 ## How Does McDonald's Make Their Fries? (The Full Fry Station Process)
 
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
 
-The volume at a typical McDonald's store means processing hundreds of pounds of frozen fries per day, dropping baskets into 350-degree vats in a non-stop rhythm that dictates the entire flow of a lunch rush. If the fry station backs up, the drive-thru stops. It's the most high-pressure position in the store. There's no chef technique involved—just a brutally efficient factory process paired with an in-store procedure that's engineered down to the second. 
 
-Here's the full picture — from potato field to the cardboard sleeve in your bag.
+
+
+The volume at a typical McDonald's store means processing hundreds of pounds of frozen fries per day, dropping baskets into 350-degree vats in a non-stop rhythm that dictates the entire flow of a lunch rush. If the fry station backs up, the drive-thru stops. It's the most high-pressure position in the store. There is no chef technique involved—just a brutally efficient factory process paired with an in-store procedure that's engineered down to the second. 
+
+This is the full picture — from potato field to the cardboard sleeve in your bag.
 
 ## What Happens Before the Fries Reach the Restaurant
 
@@ -43,7 +47,7 @@ Most people assume McDonald's fries are just frozen potato strips that get dropp
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. As detailed on [McDonald's corporate supply chain page](https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/food-quality-and-sourcing.html), the potatoes are sourced from carefully vetted farms across the Pacific Northwest, the Midwest, and parts of Canada.
 
-Here's the factory process in order:
+This is the factory process in order:
 
 ### Washing and Cutting
 
@@ -82,7 +86,7 @@ The station layout is standardized across locations. You have:
 
 ## The Exact Frying Process
 
-Here's how a batch of fries goes from freezer to customer, step by step:
+This is how a batch of fries goes from freezer to customer, step by step:
 
 **Step 1: Load the basket.** The fry person pulls a bag of frozen fries from the freezer or the staging area (a small freezer drawer built into the station at some locations). They pour the fries into the basket, shake off excess ice crystals, and don't overfill. Overfilling causes uneven cooking because the fries clump together and the oil temperature drops too much.
 
@@ -94,7 +98,7 @@ Here's how a batch of fries goes from freezer to customer, step by step:
 
 **Step 5: Salt within 15 seconds.** This is the critical window. McDonald's procedure says fries must be salted immediately — within 15 seconds of being dumped. The salt shaker is a specific McDonald's-branded dispenser that puts out a measured amount. Two passes across the pile of fries. The reason for the 15-second window is that the residual oil on the surface of the fry is what makes the salt stick. As the fries cool, the oil sets, and salt won't adhere as well. Late-salted fries end up with salt rolling off onto the bottom of the container.
 
-**Step 6: Scoop into containers.** The fries get scooped into small, medium, or large fry containers using a metal scoop. There's a specific fill level for each size, and the fry person is trained to fill to the top without packing them down. Packed fries steam each other and lose crispness.
+**Step 6: Scoop into containers.** The fries get scooped into small, medium, or large fry containers using a metal scoop. There is a specific fill level for each size, and the fry person is trained to fill to the top without packing them down. Packed fries steam each other and lose crispness.
 
 **Step 7: Holding timer starts.** Any fries that aren't immediately served go into the holding bin. A timer is set — standard holding time is 7 minutes. After 7 minutes, the fries are supposed to be discarded. In practice, during slow periods, this rule sometimes gets stretched, and that's a big part of why fries taste different depending on when you order.
 
@@ -102,7 +106,7 @@ Here's how a batch of fries goes from freezer to customer, step by step:
 
 This is one of the most common complaints I hear, and it has a real answer. The factory process is identical everywhere — same potatoes, same blanching, same dextrose, same par-fry. So the fries arrive at every McDonald's in the same condition. The difference is entirely in-store execution.
 
-Here's what causes variation:
+This is what causes variation:
 
 ### Oil Quality
 
@@ -132,7 +136,7 @@ Until 1990, McDonald's cooked their fries in a blend that included beef tallow. 
 
 To compensate, McDonald's began adding “natural beef flavor” to the fries during the factory par-fry stage. This ingredient is derived from hydrolyzed wheat and hydrolyzed milk — it contains no actual beef or beef fat. because it contains wheat and milk derivatives, McDonald's fries are not suitable for people with wheat or dairy allergies, and they are not considered vegetarian by strict standards.
 
-This has caused legal issues. In 2001, McDonald's settled a class-action lawsuit for $10 million after Hindu and vegetarian customers alleged they'd been misled about the fries being cooked in pure vegetable oil. Since then, McDonald's has been more transparent about the beef flavoring in their ingredient disclosures.
+This has caused legal issues. In 2001, McDonald's settled a class-action legal inquiries for $10 million after Hindu and vegetarian customers alleged they'd been misled about the fries being cooked in pure vegetable oil. Since then, McDonald's has been more transparent about the beef flavoring in their ingredient disclosures.
 
 For the record, the fries in India are made without the beef flavoring — they're prepared differently to respect local dietary practices. So the formulation can vary by country.
 

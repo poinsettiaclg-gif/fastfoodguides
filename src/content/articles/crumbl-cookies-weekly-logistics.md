@@ -1,4 +1,5 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
 title: The Insane Logistics of Crumbl Cookies' Weekly Menu Rotation
 description: How Crumbl manages a completely different 6-cookie menu every single
   week without destroying its supply chain, prep tables, or food cost margins.
@@ -23,7 +24,6 @@ faq:
     cookie specifications. Every Sunday evening, corporate pushes the exact ingredient
     scaling, baking temperatures, and decorating specs for the upcoming week's 6 featured
     flavors to store iPads nationwide.
-disclaimerType: medical
 ---
 In the quick-service restaurant (QSR) and commercial bakery industry, the golden rule of operational profitability is **menu stability**. Companies like McDonald's, Domino's, and Dunkin' spend years optimizing a static menu so they can negotiate long-term bulk supply contracts, build automated kitchen equipment, and train employees on muscle memory that never changes.
 
@@ -32,6 +32,10 @@ Crumbl Cookies has built a multibillion-dollar dessert empire by intentionally b
 From a store-level management perspective, executing a completely new menu every seven days across 800+ bakery locations is a logistical marvel. The breakdown below details how Crumbl manages weekly recipe pivots without causing total supply chain collapse.
 
 ## 1. The Sunday Pivot: Why a 6-Day Workweek is Mandatory
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![The Insane Logistics of Crumbl Cookies](../../assets/images/general/generic-coffee.webp)
 

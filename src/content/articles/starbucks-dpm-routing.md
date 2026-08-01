@@ -25,7 +25,6 @@ faq:
   answer: Yes. Using the DPM tablet, a shift supervisor or barista can manually execute
     a 'Force Print' to push a specific ticket to the front of the label printer queue
     if an order was lost, remade, or prioritized for a VIP customer.
-disclaimerType: medical
 ---
 If you have ever stood inside a high-volume Starbucks during the 8:00 AM morning peak, you have witnessed a level of operational density that feels like organized chaos. Blenders are roaring on the Cold Bar, milk pitchers are steaming on the [Mastrena espresso machines](/articles/starbucks-mastrena-espresso-calibration), and dozens of customized mobile order cups line the handoff plane.
 
@@ -34,6 +33,10 @@ To the untrained eye, it looks like an uncoordinated scramble. Behind the counte
 The DPM is the tablet interface (typically running on iPad hardware mounted at eye level above the espresso bars and handoff plane) that acts as the air traffic control tower for modern Starbucks operations. It has completely replaced the legacy system of hand-writing cups with Sharpies, turning drink execution into a routed digital pipeline. The operational mechanics for routing and managing orders are as follows:
 
 ## 1. Multi-Channel Ingestion and Queue Routing
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Starbucks Digital Production Manager (DPM) How Mobile Orders Are Routed and](../../assets/images/general/generic-exterior.webp)
 

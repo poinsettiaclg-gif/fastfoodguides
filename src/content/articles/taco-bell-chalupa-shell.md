@@ -1,6 +1,6 @@
 ---
 title: 'Taco Bell Chalupa Shell: How It''s Fried Fresh'
-description: Taco Bell fries their Chalupa shells to order. Here's how the fryer mold
+description: Taco Bell fries their Chalupa shells to order. This is how the fryer mold
   works and why the dough requires a specific hydration to fry properly.
 pubDate: '2025-07-09'
 updatedDate: '2026-07-23'
@@ -20,9 +20,12 @@ faq:
     at once, or if the shell isn't allowed to drain for the standard 30 seconds before
     assembly.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
 ---
 ## It Starts as a Flat Disc of Dough
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 The Chalupa Supreme is one of Taco Bell's most popular premium items, and the shell is what makes it distinct from everything else on the menu. Unlike the hard corn taco shell (shipped pre-formed) or the soft flour tortilla (shipped flat and steamed), the Chalupa shell is **deep-fried in the restaurant from a pre-formed disc of raw flatbread dough**. 
 

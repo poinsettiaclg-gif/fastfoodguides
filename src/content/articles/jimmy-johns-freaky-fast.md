@@ -1,7 +1,7 @@
 ---
 title: 'Jimmy John''s Freaky Fast: How They Do It'
 description: Jimmy John's speed comes from a highly specific prep and assembly system.
-  Here's the exact process that allows them to make a sub in under 30 seconds.
+  This is the exact process that allows them to make a sub in under 30 seconds.
 pubDate: '2025-05-08'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -21,6 +21,10 @@ faq:
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 ## How Does Jimmy John's Actually Deliver 'Freaky Fast'?
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 
 “Freaky Fast” is not a marketing gimmick. It is a ruthlessly engineered operating philosophy that dictates every single decision Jimmy John's makes — from the menu design to the store layout to the delivery zone to the way bread is sliced at 7 AM. I have worked in sandwich shops where a single sub takes three or four minutes to build. At Jimmy John's, the expectation is that a sandwich goes from order ticket to wrapped-and-bagged in under 30 seconds. That is not a typo. Thirty seconds. And the scariest part? It is completely achievable once you understand how every piece of the operation is designed around one obsession: eliminating wasted time. 
@@ -63,7 +67,7 @@ I have witnessed what happens when a store falls behind on prep. Somebody called
 
 ## The Assembly Line: Under 30 Seconds, Every Time
 
-Here is where the engineering really shows. A Jimmy John's sandwich line is not like a [Subway](/articles/chain/subway), where the customer stands there and directs every ingredient. At Jimmy John's, there is no customer involvement in the build. The order prints, the sandwich maker reads it, and they build it from memory at full speed.
+This is where the engineering really shows. A Jimmy John's sandwich line is not like a [Subway](/articles/chain/subway), where the customer stands there and directs every ingredient. At Jimmy John's, there is no customer involvement in the build. The order prints, the sandwich maker reads it, and they build it from memory at full speed.
 
 The line is set up in a strict left-to-right flow:
 
@@ -76,7 +80,7 @@ The line is set up in a strict left-to-right flow:
 
 <div class="callout callout-tip">**ProTip:** The cold table is designed as a linear conveyor belt. Every ingredient is placed exactly where you need it left-to-right, eliminating the need to cross your arms or reach backward.</div>
 
-<div class="callout callout-tip">**ProTip:** Avoid 'context switching' on the line. If you are the meat-puller, stick to pulling meat unless there's a bottleneck. Swapping tasks breaks your momentum and slows down the entire line.</div>
+<div class="callout callout-tip">**ProTip:** Avoid 'context switching' on the line. If you are the meat-puller, stick to pulling meat unless there is a bottleneck. Swapping tasks breaks your momentum and slows down the entire line.</div>
 
 The entire sequence is muscle memory. An experienced Jimmy John's sandwich maker is not thinking about what comes next — their hands are moving automatically while their eyes are already reading the next ticket. During a busy lunch rush, a single maker can build 40 to 50 sandwiches per hour. Two makers working side by side on a double line can push 80 to 100.
 

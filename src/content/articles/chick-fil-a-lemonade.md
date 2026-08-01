@@ -1,6 +1,6 @@
 ---
 title: 'Chick-fil-A Lemonade: Made Fresh Every Day'
-description: Chick-fil-A squeezes real lemons every single day. Here's the prep process,
+description: Chick-fil-A squeezes real lemons every single day. This is the prep process,
   the exact ratio, and what separates it from fountain lemonade.
 pubDate: '2025-09-01'
 updatedDate: '2026-07-23'
@@ -23,6 +23,10 @@ faq:
 ---
 ## Yes, They Actually Squeeze Real Lemons
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. 
 
 
@@ -33,7 +37,7 @@ In an industry where nearly every drink comes from a syrup bag connected to a fo
 
 ## The Morning Prep: Start to Finish
 
-The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. Here's the full process: 
+The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. This is the full process: 
 
 ### Step 1: Wash and Cut the Lemons
 

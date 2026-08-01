@@ -22,11 +22,14 @@ faq:
     \ machines\u2014pressure fryers versus open fryers\u2014change how the oil interacts\
     \ with the breading."
 heroImage: ../../assets/images/general/generic-fryer-3.webp
-disclaimerType: medical
 ---
 I can't count the number of times a customer has asked me, "So Extra Crispy is just Original Recipe left in the fryer longer, right?" No. Not even close. Original Recipe and Extra Crispy are two fundamentally different products that use different breading techniques, different machines, and different cooking physics. The only thing they share is the same seasoned flour with the Colonel's 11 herbs and spices. Everything after that diverges completely. If you work as a cook at KFC, you learn this on day one—and you learn very quickly that managing both products simultaneously during a dinner rush is one of the most demanding jobs in fast food. 
 
 ## Original Recipe: The Pressure Fryer
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![KFC Original vs. Extra Crispy How They Differ](../../assets/images/general/generic-prep.webp)
 
@@ -42,7 +45,7 @@ The cook loads the rack into a heavy metal basket, lowers it into 350-degree oil
 
 The result is a piece of chicken that's almost steamed on the inside. Incredibly juicy, almost impossibly moist, with a thin, savory crust that clings to the skin like a second layer. The crust isn't crunchy in the traditional fried-chicken sense. It's more of a deeply seasoned coating that melts into the chicken when you bite through it. That's the pressure fryer at work—the sealed environment prevents the crust from drying out and hardening the way it would in an open vat.
 
-Here's the operational reality that training glosses over: once that lid locks, you're committed. The machine runs on a timer and will not let you open it until the cycle completes and the steam vents automatically. That's a safety feature, not a limitation, but it means you can't check on the chicken mid-cook. You have to trust the process—and you have to trust that you loaded the rack correctly before you sealed it.
+This is the operational reality that training glosses over: once that lid locks, you're committed. The machine runs on a timer and will not let you open it until the cycle completes and the steam vents automatically. That's a safety feature, not a limitation, but it means you can't check on the chicken mid-cook. You have to trust the process—and you have to trust that you loaded the rack correctly before you sealed it.
 
 ## Extra Crispy: The Open Fryer and the Double Dip
 

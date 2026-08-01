@@ -1,6 +1,6 @@
 ---
 title: 'Bojangles Biscuit Process: Made From Scratch'
-description: Bojangles bakes biscuits from scratch every 20 minutes. Here is what
+description: Bojangles bakes biscuits from scratch every 20 minutes. This is what
   the prep cook does at 4 AM before the store ever opens.
 pubDate: '2025-05-02'
 updatedDate: '2026-07-23'
@@ -20,9 +20,12 @@ faq:
   answer: The strict 20-minute freshness rule forces a relentless production rhythm.
     If a rush depletes inventory faster than the single baker can complete the 49-step
     cycle, the kitchen hits a hard throughput bottleneck.
-disclaimerType: medical
 ---
 ## The Hardest Job in the Kitchen
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else for its difficulty, pressure, and pure physical output: the Biscuit Maker.
 
@@ -62,7 +65,7 @@ The pre-blended flour already contains:
 
 - **Soft winter wheat flour** — the base, chosen specifically for its low protein content (around 7–9% compared to 10–12% in AP flour)
 - **Leavening agents** — baking powder and baking soda, pre-measured in the exact ratio Bojangles requires
-- **Salt** — already incorporated so there's no measuring error at the store level
+- **Salt** — already incorporated so there is no measuring error at the store level
 
 This means the Biscuit Maker doesn't have to measure leavening or salt separately. The flour arrives ready to go. All they need to add is shortening and buttermilk. This reduces the margin for error, but it also means the flour itself is the single most important ingredient. If distribution sends a bad batch — if the leavening ratio is off by even a small percentage — every biscuit in every store using that batch will be wrong. I witnessed it happen. You can tell immediately.
 

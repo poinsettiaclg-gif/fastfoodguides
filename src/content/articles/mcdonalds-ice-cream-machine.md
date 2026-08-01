@@ -1,7 +1,7 @@
 ---
 title: 'McDonald''s Ice Cream Machine: Why It''s Broken'
 description: The ice cream machine requires a nightly heat cycle that locks it for
-  hours. Here is why it breaks and what the full cleaning cycle involves.
+  hours. This is why it breaks and what the full cleaning cycle involves.
 pubDate: '2025-12-13'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -11,7 +11,7 @@ topic: Burgers
 faq:
 - question: Why are McDonald's ice cream machines always broken?
   answer: It is rarely 'broken' in the traditional sense; it is often in a mandatory,
-    hours-long automated heat-treatment mode to kill bacteria or is locked out due
+    hours-long automated heat-treatment mode to eliminate bacteria or is locked out due
     to a failed maintenance cycle.
 - question: Can McDonald's fix their ice cream machines?
   answer: Recent years have seen increased focus on 'right to repair' initiatives,
@@ -26,6 +26,10 @@ heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## It's Not Actually Broken (Most of the Time)
 
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
+
 I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think the crew is avoiding work. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
 
 **The machine usually isn't broken. It's locked.** The vast majority of the time when a McDonald's crew member tells you the ice cream machine is down, what they really mean is that the machine is in the middle of its automated heat pasteurization cycle and physically cannot dispense product until the cycle completes. 
@@ -36,7 +40,7 @@ That cycle takes **up to 4 hours**, and if anything interrupts it — a power fl
 
 Nearly every McDonald's location in the United States uses the **Taylor C709** soft-serve/shake machine. This is a commercial unit that costs approximately **$18,000–$20,000** and is specifically engineered for high-volume soft-serve dispensing.
 
-Here's what's inside:
+This is what's inside:
 
 ### How It Works
 
@@ -54,12 +58,12 @@ The air incorporation is critical. Soft-serve is typically 30–60% air by volum
 
 <div class="callout callout-tip">**ProTip:** The primary reason machines are frequently out of service is a mandatory, automated heat-cleaning cycle that can take up to four hours to complete. During this time, the machine is completely unusable.</div>
 
-Here's the core problem. The Taylor C709 is required by food safety regulations to **pasteurize its own contents** on a regular basis. The ice cream mix is a dairy product sitting at temperatures that could allow bacterial growth if not properly managed.
+This is the core problem. The Taylor C709 is required by food safety regulations to **pasteurize its own contents** on a regular basis. The ice cream mix is a dairy product sitting at temperatures that could allow bacterial growth if not properly managed.
 
 To handle this, the machine runs an automated **heat pasteurization cycle**, typically every night:
 
 1. **Around 11 PM** (timing varies by location), the machine automatically begins heating the mix inside the cylinder to **151°F**
-2. It **holds that temperature for 30 minutes** to kill any potential bacteria
+2. It **holds that temperature for 30 minutes** to eliminate any potential bacteria
 3. It then **slowly cools the mix back down** to safe serving temperature (~40°F in the hopper, ~18°F at the barrel)
 4. The entire process takes approximately **2 to 4 hours**
 
@@ -105,11 +109,11 @@ The result is a system where:
 - **Taylor technicians** are often booked days out, leaving the machine down for extended periods
 - **Simple fixes** (resetting the heat cycle, adjusting a sensor, topping off the mix) require waiting for a technician rather than being handled in-house
 
-A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal lawsuit and an [FTC investigation](https://www.ftc.gov/news-events/news/press-releases/2021/07/ftc-vote-unanimously-enforce-right-repair) into whether Taylor was engaging in anti-competitive repair practices, a situation further highlighted by [iFixit's teardown of the Taylor machine](https://www.ifixit.com/News/51614/we-tore-down-a-mcdonalds-ice-cream-machine-and-it-was-weird).
+A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal legal inquiries and an [FTC investigation](https://www.ftc.gov/news-events/news/press-releases/2021/07/ftc-vote-unanimously-enforce-right-repair) into whether Taylor was engaging in anti-competitive repair practices, a situation further highlighted by [iFixit's teardown of the Taylor machine](https://www.ifixit.com/News/51614/we-tore-down-a-mcdonalds-ice-cream-machine-and-it-was-weird).
 
 ## What Crew Members Actually Deal With
 
-From the crew's perspective, the ice cream machine is the single most frustrating piece of equipment in the restaurant. Here's a typical day:
+From the crew's perspective, the ice cream machine is the single most frustrating piece of equipment in the restaurant. This is a typical day:
 
 ### Morning Shift (5-6 AM)
 - Check the machine. If the heat cycle completed successfully overnight, the machine should be ready to serve by opening
@@ -138,7 +142,7 @@ So the machine stays. And the meme lives on.
 
 ## What "Broken" Actually Means
 
-Next time a McDonald's crew member tells you the ice cream machine is broken, here's what's probably actually happening:
+Next time a McDonald's crew member tells you the ice cream machine is broken, this is what's probably actually happening:
 
 - **60% of the time**: The machine is in its heat pasteurization cycle or recovering from a failed cycle
 - **20% of the time**: The mix hopper is empty and hasn't been refilled yet

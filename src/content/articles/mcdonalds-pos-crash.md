@@ -20,13 +20,16 @@ faq:
 relatedArticles:
 - mcdonalds-abs-system
 heroImage: ../../assets/images/general/generic-fryer-3.webp
-disclaimerType: medical
 ---
 McDonald's is a masterclass in technological efficiency. The registers talk to the kitchen display screens, the drive-thru sensors report to the manager's tablet, and every single order flows through a tightly integrated digital ecosystem that makes a busy store feel almost automated. It runs like clockwork — right up until the moment it doesn't. 
 
 A detail you only learn on the line is during orientation: a severe thunderstorm, a bad network switch, or even a botched software update from corporate can send every POS terminal in the building into a simultaneous black screen. And when that happens during a Friday night dinner rush with 14 cars in the drive-thru lane, the store doesn't close. You break out the Crash Kit and go full 1985. 
 
 ## The Manual Crash Kit
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![What Happens When the McDonald](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -74,7 +77,7 @@ Some managers will make the tough call to shut down the drive-thru entirely duri
 
 When the system finally comes back online — whether that takes twenty minutes or three hours — the work is far from over. Every single paper order written during the crash has to be manually entered into the POS system after the fact.
 
-This process is called reconciliation, and it usually falls on the shift manager. You sit down with a stack of carbon-copy slips, enter each order into the register one by one, and try to match the cash collected to the orders taken. Here's the reality: there will always be discrepancies. A cashier forgot to write down a drink. A customer was undercharged because the tax chart was hard to read in dim backup lighting. A slip got crumpled and lost in the kitchen chaos. These shortages come directly out of the store's daily profit margin.
+This process is called reconciliation, and it usually falls on the shift manager. You sit down with a stack of carbon-copy slips, enter each order into the register one by one, and try to match the cash collected to the orders taken. This is the reality: there will always be discrepancies. A cashier forgot to write down a drink. A customer was undercharged because the tax chart was hard to read in dim backup lighting. A slip got crumpled and lost in the kitchen chaos. These shortages come directly out of the store's daily profit margin.
 
 I've done reconciliation after a two-hour crash that happened during a Saturday dinner peak, and I was off by almost $40. That's not theft — that's the natural entropy of running a high-volume restaurant on paper slips and calculators. But it still shows up on the P&L, and the franchise owner still asks about it.
 
@@ -88,7 +91,7 @@ Most managers honor these orders on good faith and sort it out during reconcilia
 
 ## Pro Tips for Surviving a Crash
 
-If you work at McDonald's long enough, you will live through a POS crash. Here's how to make it survivable:
+If you work at McDonald's long enough, you will live through a POS crash. This is how to make it survivable:
 
 - **Memorize the top five combo prices.** If you already know that a Big Mac meal is $9.49 and a 10-piece McNugget is $5.29, you can keep the line moving without constantly flipping through the price chart.
 - **Develop a shorthand system with your kitchen crew.** If you and the cooks agree on quick abbreviations like "QPC" for Quarter Pounder with Cheese and "NP" for no pickles, the handwritten slips are much easier to decode. Some veteran crews practice this during slow shifts specifically so they're ready.

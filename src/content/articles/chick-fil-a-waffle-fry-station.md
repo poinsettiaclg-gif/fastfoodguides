@@ -23,7 +23,6 @@ faq:
   answer: To combat the rapid loss of heat and crispness, Chick-fil-A introduced a
     pea starch coating to the fries in 2025 to help them stay crispier for much longer,
     particularly for drive-thru and delivery orders.
-disclaimerType: medical
 ---
 When customers think of Chick-fil-A, they focus on two menu staples: the pressure-fried chicken sandwich and the waffle potato fries. From a quick-service kitchen management perspective, cooking the chicken sandwich is actually the predictable, rhythmic part of the kitchen. 
 
@@ -31,9 +30,13 @@ When customers think of Chick-fil-A, they focus on two menu staples: the pressur
 
 During a Friday 12:30 PM lunch rush when a store is processing 150 cars per hour through the drive-thru, the fry cook is the hardest-working person in the building. A single fry station must drop, shake, drain, salt, box, and serve over **40 to 60 pounds of potatoes every hour**. 
 
-Unlike standard shoestring fries (such as McDonald's 1/4-inch cut), waffle fries feature a complex lattice geometry that introduces severe thermodynamic challenges. Here is the exact culinary science and management playbook behind the Chick-fil-A Waffle Fry Station.
+Unlike standard shoestring fries (such as McDonald's 1/4-inch cut), waffle fries feature a complex lattice geometry that introduces severe thermodynamic challenges. This is the exact culinary science and management playbook behind the Chick-fil-A Waffle Fry Station.
 
 ## 1. Waffle Cut Physics: Surface Area vs. Heat Retention
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Chick-fil-A Waffle Fry Station The 2-Minute Rule and Peanut Oil Science](../../assets/images/general/generic-pos.webp)
 

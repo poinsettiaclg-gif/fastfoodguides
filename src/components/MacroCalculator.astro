@@ -1,0 +1,288 @@
+---
+// Macro Calculator Component (Vanilla JS)
+---
+<div class="macro-calculator">
+	<h2>Fast Food Macro & Modification Calculator</h2>
+	<p class="mc-desc">See how custom modifications affect the total macros and price of your order.</p>
+
+	<div class="mc-grid">
+		<div class="mc-controls">
+			<label for="mc-base-item">Base Menu Item</label>
+			<select id="mc-base-item">
+				<option value="none" data-cal="0" data-pro="0" data-fat="0" data-carb="0" data-price="0.00">Select an item...</option>
+				<option value="whopper" data-cal="660" data-pro="28" data-fat="40" data-carb="49" data-price="5.99">Burger King Whopper</option>
+				<option value="bigmac" data-cal="550" data-pro="25" data-fat="30" data-carb="46" data-price="4.99">McDonald's Big Mac</option>
+				<option value="crunchwrap" data-cal="530" data-pro="16" data-fat="21" data-carb="71" data-price="4.59">Taco Bell Crunchwrap Supreme</option>
+				<option value="chickenbowl" data-cal="650" data-pro="35" data-fat="25" data-carb="65" data-price="8.95">Chipotle Chicken Bowl</option>
+				<option value="subwaytuna" data-cal="450" data-pro="25" data-fat="24" data-carb="38" data-price="7.99">Subway 6" Tuna</option>
+			</select>
+
+			<div id="mc-modifiers-section" style="display: none;">
+				<h3>Custom Modifications</h3>
+				<div class="modifier-list" id="mc-modifier-list">
+					<!-- Modifiers injected via JS -->
+				</div>
+			</div>
+		</div>
+
+		<div class="mc-results">
+			<h3>Estimated Totals</h3>
+			<div class="mc-stat">
+				<span>Calories</span>
+				<strong id="mc-res-cal">0</strong>
+			</div>
+			<div class="mc-stat">
+				<span>Protein (g)</span>
+				<strong id="mc-res-pro">0</strong>
+			</div>
+			<div class="mc-stat">
+				<span>Fat (g)</span>
+				<strong id="mc-res-fat">0</strong>
+			</div>
+			<div class="mc-stat">
+				<span>Carbs (g)</span>
+				<strong id="mc-res-carb">0</strong>
+			</div>
+			<div class="mc-stat mc-price">
+				<span>Est. Price</span>
+				<strong id="mc-res-price">$0.00</strong>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+	.macro-calculator {
+		background: #111827;
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		border-radius: 12px;
+		padding: 2rem;
+		margin: 2rem 0;
+	}
+	.macro-calculator h2 {
+		margin-top: 0;
+		color: #fff;
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
+	}
+	.mc-desc {
+		color: #94A3B8;
+		margin-bottom: 2rem;
+		font-size: 0.95rem;
+	}
+	.mc-grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 2rem;
+	}
+	@media (min-width: 768px) {
+		.mc-grid {
+			grid-template-columns: 1fr 300px;
+		}
+	}
+	.mc-controls label {
+		display: block;
+		color: #CBD5E1;
+		font-weight: 600;
+		margin-bottom: 0.5rem;
+	}
+	.mc-controls select {
+		width: 100%;
+		padding: 0.75rem;
+		background: #1F2937;
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		color: #fff;
+		border-radius: 6px;
+		font-size: 1rem;
+		margin-bottom: 1.5rem;
+	}
+	.mc-controls select:focus {
+		outline: none;
+		border-color: #34D399;
+	}
+	#mc-modifiers-section h3 {
+		color: #F8FAFC;
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+		padding-bottom: 0.5rem;
+	}
+	.mod-item {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 0.75rem 0;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+	}
+	.mod-item label {
+		margin: 0;
+		font-weight: 400;
+		color: #E2E8F0;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		cursor: pointer;
+	}
+	.mod-meta {
+		font-size: 0.8rem;
+		color: #94A3B8;
+	}
+	.mc-results {
+		background: #1F2937;
+		padding: 1.5rem;
+		border-radius: 8px;
+		border: 1px solid rgba(255, 255, 255, 0.05);
+	}
+	.mc-results h3 {
+		margin-top: 0;
+		color: #fff;
+		font-size: 1.2rem;
+		margin-bottom: 1.5rem;
+	}
+	.mc-stat {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 1rem;
+		color: #CBD5E1;
+		font-size: 1rem;
+	}
+	.mc-stat strong {
+		color: #fff;
+		font-weight: 700;
+	}
+	.mc-price {
+		margin-top: 1.5rem;
+		padding-top: 1rem;
+		border-top: 1px dashed rgba(255, 255, 255, 0.1);
+		color: #34D399;
+		font-size: 1.1rem;
+	}
+	.mc-price strong {
+		color: #34D399;
+	}
+</style>
+
+<script>
+	const modifiersDB = {
+		whopper: [
+			{ id: "extra-patty", name: "Extra Beef Patty", cal: 240, pro: 16, fat: 18, carb: 0, price: 1.50 },
+			{ id: "add-cheese", name: "Add Cheese (2 slices)", cal: 90, pro: 4, fat: 7, carb: 1, price: 0.60 },
+			{ id: "add-bacon", name: "Add Bacon", cal: 40, pro: 3, fat: 3, carb: 0, price: 0.80 },
+			{ id: "no-mayo", name: "No Mayo", cal: -160, pro: 0, fat: -18, carb: -1, price: 0.00 }
+		],
+		bigmac: [
+			{ id: "extra-patty", name: "Extra Beef Patty", cal: 90, pro: 7, fat: 7, carb: 0, price: 1.20 },
+			{ id: "extra-sauce", name: "Extra Mac Sauce", cal: 90, pro: 0, fat: 9, carb: 2, price: 0.00 },
+			{ id: "no-bun", name: "No Bun (Lettuce Wrap)", cal: -210, pro: -6, fat: -3, carb: -40, price: 0.00 }
+		],
+		crunchwrap: [
+			{ id: "sub-steak", name: "Sub Steak", cal: 20, pro: 3, fat: 1, carb: 1, price: 1.20 },
+			{ id: "add-jalapeno", name: "Add Jalapenos", cal: 5, pro: 0, fat: 0, carb: 1, price: 0.60 },
+			{ id: "extra-cheese", name: "Extra Nacho Cheese", cal: 30, pro: 1, fat: 2, carb: 2, price: 0.70 }
+		],
+		chickenbowl: [
+			{ id: "double-chicken", name: "Double Chicken", cal: 180, pro: 32, fat: 7, carb: 0, price: 3.15 },
+			{ id: "add-guac", name: "Add Guacamole", cal: 230, pro: 2, fat: 22, carb: 8, price: 2.95 },
+			{ id: "add-queso", name: "Add Queso Blanco", cal: 120, pro: 5, fat: 9, carb: 4, price: 1.75 },
+			{ id: "no-rice", name: "No Rice", cal: -210, pro: -4, fat: -4, carb: -40, price: 0.00 }
+		],
+		subwaytuna: [
+			{ id: "double-meat", name: "Double Tuna", cal: 250, pro: 15, fat: 21, carb: 1, price: 2.00 },
+			{ id: "add-bacon", name: "Add Bacon", cal: 80, pro: 6, fat: 6, carb: 0, price: 1.50 },
+			{ id: "no-bread", name: "Make it a Salad", cal: -200, pro: -7, fat: -2, carb: -37, price: 1.00 }
+		]
+	};
+
+	const selectEl = document.getElementById('mc-base-item');
+	const modSection = document.getElementById('mc-modifiers-section');
+	const modList = document.getElementById('mc-modifier-list');
+	
+	const resCal = document.getElementById('mc-res-cal');
+	const resPro = document.getElementById('mc-res-pro');
+	const resFat = document.getElementById('mc-res-fat');
+	const resCarb = document.getElementById('mc-res-carb');
+	const resPrice = document.getElementById('mc-res-price');
+
+	let currentBase = { cal: 0, pro: 0, fat: 0, carb: 0, price: 0 };
+
+	function updateTotals() {
+		let tCal = currentBase.cal;
+		let tPro = currentBase.pro;
+		let tFat = currentBase.fat;
+		let tCarb = currentBase.carb;
+		let tPrice = currentBase.price;
+
+		const checkboxes = modList.querySelectorAll('input[type="checkbox"]:checked');
+		checkboxes.forEach(cb => {
+			tCal += parseFloat(cb.dataset.cal);
+			tPro += parseFloat(cb.dataset.pro);
+			tFat += parseFloat(cb.dataset.fat);
+			tCarb += parseFloat(cb.dataset.carb);
+			tPrice += parseFloat(cb.dataset.price);
+		});
+
+		resCal.textContent = tCal;
+		resPro.textContent = tPro;
+		resFat.textContent = tFat;
+		resCarb.textContent = tCarb;
+		resPrice.textContent = `$${tPrice.toFixed(2)}`;
+	}
+
+	function renderModifiers(itemKey) {
+		modList.innerHTML = '';
+		const mods = modifiersDB[itemKey];
+		if (!mods || mods.length === 0) {
+			modSection.style.display = 'none';
+			return;
+		}
+		
+		modSection.style.display = 'block';
+		mods.forEach(mod => {
+			const div = document.createElement('div');
+			div.className = 'mod-item';
+			
+			const label = document.createElement('label');
+			const cb = document.createElement('input');
+			cb.type = 'checkbox';
+			cb.value = mod.id;
+			cb.dataset.cal = mod.cal;
+			cb.dataset.pro = mod.pro;
+			cb.dataset.fat = mod.fat;
+			cb.dataset.carb = mod.carb;
+			cb.dataset.price = mod.price;
+			cb.addEventListener('change', updateTotals);
+
+			label.appendChild(cb);
+			label.appendChild(document.createTextNode(mod.name));
+
+			const meta = document.createElement('div');
+			meta.className = 'mod-meta';
+			meta.textContent = `${mod.cal > 0 ? '+' : ''}${mod.cal} cal | +$${mod.price.toFixed(2)}`;
+
+			div.appendChild(label);
+			div.appendChild(meta);
+			modList.appendChild(div);
+		});
+	}
+
+	selectEl.addEventListener('change', (e) => {
+		const opt = e.target.options[e.target.selectedIndex];
+		const itemKey = e.target.value;
+		
+		if (itemKey === 'none') {
+			modSection.style.display = 'none';
+			modList.innerHTML = '';
+			currentBase = { cal: 0, pro: 0, fat: 0, carb: 0, price: 0 };
+		} else {
+			currentBase = {
+				cal: parseFloat(opt.dataset.cal),
+				pro: parseFloat(opt.dataset.pro),
+				fat: parseFloat(opt.dataset.fat),
+				carb: parseFloat(opt.dataset.carb),
+				price: parseFloat(opt.dataset.price)
+			};
+			renderModifiers(itemKey);
+		}
+		updateTotals();
+	});
+</script>

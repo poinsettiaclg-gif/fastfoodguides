@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The In-N-Out 4x4 Burger: Why Stacking Four Patty-and-Cheese Layers Causes
   Structural Lean'
 description: A former QSR kitchen manager breaks down the board station packaging
@@ -43,7 +44,7 @@ When discussing West Coast burger culture, **In-N-Out Burger** stands as an oper
 
 Featuring four freshly grilled 2-ounce beef patties alternating with four slices of real melted American cheese, the 4x4 represents the physical limit of standard quick-service restaurant (QSR) sandwich engineering. For a customer, it is a meat-and-cheese triumph. For an In-N-Out board person (the specialized assembly worker standing alongside the griddle), building and wrapping a 4x4 introduces severe structural shear forces that challenge standard fast food packaging mechanics.
 
-The operational reality on the stainless steel dressing board when a 4x4 tag prints? From flat-top griddle real estate and cheese melting thermodynamics to lateral structural lean and the famous 2004 corporate size cap, here is the technical operational reality behind In-N-Out's largest burger.
+The operational reality on the stainless steel dressing board when a 4x4 tag prints? From flat-top griddle real estate and cheese melting thermodynamics to lateral structural lean and the famous 2004 corporate size cap, this is the technical operational reality behind In-N-Out's largest burger.
 
 ## 1. Griddle Real Estate and The 4-Patty Sear Cycle
 

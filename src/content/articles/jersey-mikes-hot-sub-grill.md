@@ -13,7 +13,7 @@ relatedArticles:
 - arbys-meat-slicer
 faq:
 - question: What temperature is the Jersey Mike's grill?
-  answer: "The commercial flat-top grills are set high enough to perform a 'heat kill'\
+  answer: "The commercial flat-top grills are set high enough to perform a 'heat destroy'\
     \ on pathogens, bringing the meat to a food-safe 165\xB0F."
 - question: Why do they use different spatulas?
   answer: Color-coded spatulas (like red for steak and yellow for chicken) are strictly
@@ -21,11 +21,15 @@ faq:
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
-Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way/))*
+Jersey Mike's built its reputation on fresh-sliced cold subs and the famous [Mike's Way](/articles/jersey-mikes-mikes-way/)
 
-The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef on a real flat-top grill. There's nothing pre-cooked, microwaved, or processed about it. And that distinction is exactly what makes this station both the most rewarding and the most physically punishing position in the store. 
+The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef on a real flat-top grill. There is nothing pre-cooked, microwaved, or processed about it. And that distinction is exactly what makes this station both the most rewarding and the most physically punishing position in the store. 
 
 ## Raw Beef, Raw Chicken, and Zero Margin for Error
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![The Jersey Mike](../../assets/images/general/generic-walk-in-2.webp)
 
@@ -41,7 +45,7 @@ The raw steak arrives in paper-wrapped pucks stored in a dedicated cooler sectio
 
 You use specific spatulas for raw meat and completely different spatulas for cooked meat. These are usually color-coded or marked, but during a chaotic lunch rush, it's on you to maintain the discipline. One memorable shift, new grill cooks grab the wrong spatula without thinking because they're under pressure and moving fast. That's exactly how cross-contamination incidents happen.
 
-It sounds extreme, but here's the reality: health inspectors know that operations cooking raw proteins alongside ready-to-eat food are high-risk environments. A single cross-contamination event can shut a location down. The protocols exist for a very good reason.
+It sounds extreme, but this is the reality: health inspectors know that operations cooking raw proteins alongside ready-to-eat food are high-risk environments. A single cross-contamination event can shut a location down. The protocols exist for a very good reason.
 
 <div class="callout callout-tip">**ProTip:** Color-coded spatulas aren't just a suggestion. Using the red spatula for steak and yellow for chicken keeps the health inspector happy and prevents serious cross-contamination.</div>
 
@@ -50,7 +54,7 @@ It sounds extreme, but here's the reality: health inspectors know that operation
 ![The Jersey Mike](../../assets/images/general/generic-prep.webp)
 
 
-Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep. Here's the sequence:
+Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep. This is the sequence:
 
 1. Drop the puck of shaved raw steak onto the hot, oiled flat-top grill.
 2. Place raw onions and peppers next to it.
@@ -61,7 +65,7 @@ Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep
 
 The chopping is what makes this station brutal. You're not gently stirring—you're slamming two metal spatulas into a pile of meat on a scorching steel surface, over and over, breaking apart thin sheets of steak until they're evenly sized and fully cooked. During a lunch rush, you might chop 30 to 40 cheesesteaks in a single hour. Your forearms, wrists, and shoulders will scream by the end of the shift.
 
-Veteran grill cooks develop a rhythm—chop-chop-flip, chop-chop-flip—that becomes almost musical. New cooks either chop too timidly, leaving large undercooked clumps that the customer will notice, or too aggressively, sending meat flying off the grill onto the floor. The sweet spot takes a few dozen steaks to find, and there's no shortcut to getting there.
+Veteran grill cooks develop a rhythm—chop-chop-flip, chop-chop-flip—that becomes almost musical. New cooks either chop too timidly, leaving large undercooked clumps that the customer will notice, or too aggressively, sending meat flying off the grill onto the floor. The sweet spot takes a few dozen steaks to find, and there is no shortcut to getting there.
 
 ## The Bread Transfer: The Move That Makes or Breaks You
 

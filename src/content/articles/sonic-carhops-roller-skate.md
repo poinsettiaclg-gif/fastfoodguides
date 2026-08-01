@@ -1,7 +1,7 @@
 ---
 title: 'Sonic Carhops on Roller Skates: How It Works'
 description: Not every Sonic carhop skates, but the ones who do follow a specific
-  training program. Here's how the skating program is structured at the drive-in.
+  training program. This is how the skating program is structured at the drive-in.
 pubDate: '2026-03-08'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -28,13 +28,17 @@ If you're filling out a Sonic application and the thought of strapping wheels to
 
 ## Is Skating Actually Required?
 
-The short answer is no, and here is why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
+
+The short answer is no, and this is why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
 
 
 
 
 
-**The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There's nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
+**The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There is nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
 
 **The Skating Carhop:** If you want to skate, you typically have to pass a basic proficiency test with your manager. You demonstrate that you can balance, stop safely, and carry a tray without wobbling. If you pass, you sign a liability waiver. The test isn't demanding — you don't need to do tricks or skate backward. The manager is looking for basic competence and the ability to stop without crashing into a customer's Tahoe.
 
@@ -51,7 +55,7 @@ If you've never skated before, most managers will let you practice in the parkin
 
 Sonic doesn't issue a standardized pair of skates to every carhop. Policies vary by franchise — some stores keep a communal set in common sizes, but sharing skates is unpopular for obvious hygiene reasons. If you plan to skate regularly, buying your own pair is the move for fit, comfort, and not strapping on someone else's sweat-soaked wheels.
 
-Here's a detail that matters more than people think: most skating carhops choose traditional quad roller skates — four wheels in a square pattern — over inline skates. Quads provide a wider, more stable base, and stability is everything when you're carrying a tray loaded with 44 ounces of liquid. Inline skates are faster, but the narrower stance makes tray-balancing dramatically harder, and they're more dangerous on uneven parking lot surfaces. Cracks, dips, and oil stains that quads roll right over can send an inline skater sprawling. Trust the quads.
+This is a detail that matters more than people think: most skating carhops choose traditional quad roller skates — four wheels in a square pattern — over inline skates. Quads provide a wider, more stable base, and stability is everything when you're carrying a tray loaded with 44 ounces of liquid. Inline skates are faster, but the narrower stance makes tray-balancing dramatically harder, and they're more dangerous on uneven parking lot surfaces. Cracks, dips, and oil stains that quads roll right over can send an inline skater sprawling. Trust the quads.
 
 ## How They Don't Spill: The Tray Technique
 
@@ -74,7 +78,7 @@ One thing that absolutely blindsides new Sonic carhops is how much weather affec
 
 In the summer, asphalt parking lots become scorching heat islands. Skating on a surface that's radiating 140°F of stored heat for an entire shift is exhausting in a way that indoor fast-food workers never experience. Staying hydrated becomes a genuine survival concern, not just a wellness poster on the break room wall.
 
-In the winter, ice and wet pavement make skating genuinely dangerous. Industry safety standards documented by publications like [Nation's Restaurant News](https://www.nrn.com/) emphasize that outdoor service models must adjust to extreme weather. Most managers will suspend skating during icy conditions and require all carhops to walk — because a carhop wiping out on black ice with a tray of hot food is a workers' comp claim and a lawsuit waiting to happen. Rain creates slippery surfaces and the added challenge of keeping food dry during the trip from kitchen to car. Some carhops keep a towel tucked into their apron to wipe down trays before presenting them.
+In the winter, ice and wet pavement make skating genuinely dangerous. Industry safety standards documented by publications like [Nation's Restaurant News](https://www.nrn.com/) emphasize that outdoor service models must adjust to extreme weather. Most managers will suspend skating during icy conditions and require all carhops to walk — because a carhop wiping out on black ice with a tray of hot food is a workers' comp claim and a legal inquiries waiting to happen. Rain creates slippery surfaces and the added challenge of keeping food dry during the trip from kitchen to car. Some carhops keep a towel tucked into their apron to wipe down trays before presenting them.
 
 Every Sonic parking lot has its problem spots — cracks, dips, rough patches, drain grates. After a few shifts, you'll know exactly where every hazard is. If you skate, memorize the smooth path from the building to each stall and avoid catching a wheel on a crack that sends you and four Route 44s into the pavement.
 

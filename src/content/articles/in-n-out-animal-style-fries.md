@@ -1,4 +1,5 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
 title: 'In-N-Out Animal Style Fries: The Make-Line Mechanics and Cheese Melting Science'
 description: An operational deep-dive into how In-N-Out Burger builds high-volume
   Animal Style Fries, from Kennebec potato prep to flat-top cheese steaming.
@@ -23,7 +24,6 @@ faq:
     than twice-fried frozen russets, and because they are smothered in hot cheese,
     steamed onions, and liquid spread, the structural crust softens rapidly. They
     are engineered to be eaten immediately upon serving.
-disclaimerType: medical
 ---
 While [In-N-Out Burger](/articles/in-n-out-board-station) is famous for having one of the simplest printed menus in fast food—offering only burgers, fries, shakes, and drinks—any West Coast QSR manager knows that the kitchen operates on an entirely different plane due to the **Secret Menu**.
 
@@ -32,6 +32,10 @@ The undisputed volume leader of this off-menu ecosystem is **Animal Style Fries*
 In a kitchen processing over 100 tickets per hour, integrating a multi-layered gourmet fry build into a standard QSR assembly line is an operational challenge. This is how In-N-Out builds Animal Style Fries at scale.
 
 ## 1. The Kennebec Potato Base: The Single-Fry Reality
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![In-N-Out Animal Style Fries The Make-Line Mechanics and Cheese Melting Science](../../assets/images/general/generic-pos.webp)
 
@@ -57,7 +61,7 @@ The first topping layer is always the American cheese.
 
 ## 3. The Flat-Top Steaming Hack: The 20-Second Melt
 
-Here is where In-N-Out's operational genius shines. How do you melt two thick slices of cheese across a basket of fries without installing a slow, space-wasting cheese melter or salamander oven in an already crowded kitchen? **You use the burger grill.**
+This is where In-N-Out's operational genius shines. How do you melt two thick slices of cheese across a basket of fries without installing a slow, space-wasting cheese melter or salamander oven in an already crowded kitchen? **You use the burger grill.**
 
 ### The Stainless Steel Dome Technique
 The fry cook hands the prepared red boat directly across the aisle to the burger grill cook working the 400°F chrome flat-top griddle.

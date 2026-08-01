@@ -25,7 +25,9 @@ faq:
 - question: Do Domino's drivers get paid for training?
   answer: Yes, delivery drivers are paid for all training hours, which usually includes
     riding along with an experienced driver to learn the delivery area and store procedures.
-disclaimerType: medical
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 Walking into a Domino's Pizza for your first shift feels a bit like walking into a manufacturing plant. Everything is built around the conveyor belt oven. The entire store is a machine designed to move raw dough from the walk-in cooler to a cardboard box in under 15 minutes.
 
@@ -34,6 +36,10 @@ Walking into a Domino's Pizza for your first shift feels a bit like walking into
 If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput. The reality is Domino's operates on absolute precision.
 
 ## Clocking In: The Pulse Dashboard and Your First Pizza
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 Before you touch any dough, you have to get into the system.
 

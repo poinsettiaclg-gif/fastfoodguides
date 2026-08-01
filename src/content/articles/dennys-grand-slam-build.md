@@ -30,6 +30,10 @@ I spent almost two years working the grill at a Denny's off I-35 in central Texa
 
 ## The Flat-Top Is the Entire Operation
 
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
+
 ![Denny](../../assets/images/general/generic-prep.webp)
 
 
@@ -95,7 +99,7 @@ Two eggs cooked to order takes anywhere from 2 minutes (scrambled) to about 3.5 
 
 ## The Plate Build: Everything Has a Position
 
-When a Grand Slam comes together, it doesn't just get thrown onto a plate randomly. There's a standard build that every Denny's trains to, and it exists for practical reasons — consistency for the guest, speed for the cook, and visual presentation that photographs well for the menu.
+When a Grand Slam comes together, it doesn't just get thrown onto a plate randomly. There is a standard build that every Denny's trains to, and it exists for practical reasons — consistency for the guest, speed for the cook, and visual presentation that photographs well for the menu.
 
 The standard Grand Slam plate layout on a round dinner plate:
 
@@ -112,7 +116,7 @@ The whole build from pulling the first component off the grill to placing the pl
 
 ## Timing the Ticket: The Real Skill
 
-Here's the sequence a good Denny's cook follows for a single Grand Slam ticket:
+This is the sequence a good Denny's cook follows for a single Grand Slam ticket:
 
 1. **Minute 0:00** — Sausage links hit the grill (longest cook time from frozen)
 2. **Minute 0:30** — Pancake batter goes down
@@ -167,11 +171,11 @@ The expo — the person at the pass who checks plates before they go to the tabl
 
 ## Why Denny's Cooks Burn Out
 
-Here's something most guests don't think about: Denny's is one of the hardest chains to cook at, and the Grand Slam is a big part of the reason.
+This is something most guests don't think about: Denny's is one of the hardest chains to cook at, and the Grand Slam is a big part of the reason.
 
 At most fast-food chains, cooking is essentially assembly. The burgers come out of a clamshell grill at a fixed time. The fries come out of the fryer when the timer beeps. The chicken nuggets are batch-cooked and held in a warming cabinet. Your job is to follow a process, not actually *cook*.
 
-At Denny's, almost everything is made to order on the flat-top. Every egg is cracked fresh. Every pancake is poured from batter. There's very little batch cooking or holding. That means every single ticket requires active, hands-on cooking from start to finish. You can't just press a button and walk away.
+At Denny's, almost everything is made to order on the flat-top. Every egg is cracked fresh. Every pancake is poured from batter. There is very little batch cooking or holding. That means every single ticket requires active, hands-on cooking from start to finish. You can't just press a button and walk away.
 
 During an eight-hour breakfast shift, a Denny's grill cook might crack 200+ eggs individually. They're standing in front of a 375°F griddle surface for the entire shift. The grease splatter is constant. The mental load of tracking 8-10 tickets with different egg temps, different meat configurations, and different timing profiles is real.
 

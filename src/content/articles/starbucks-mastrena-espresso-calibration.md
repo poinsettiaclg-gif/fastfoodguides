@@ -38,6 +38,10 @@ But the real magic of the Mastrena II happens behind the digital screen. On the 
 
 ## The 18 to 23 Second Rule
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 Pulling espresso is entirely about extraction time. If water pushes through the espresso grounds too fast, the coffee is under-extracted—it tastes sour and thin. If it pushes through too slowly, the coffee is over-extracted—it tastes burnt, bitter, and harsh. 
 
 At Starbucks, the golden window for a perfect shot of espresso is strictly between 18 and 23 seconds. When a barista queues up a double shot, they watch the digital display on the Mastrena II. The machine grinds the beans, tamps the puck internally, and pulls the water through. The screen flashes the exact time the shot took to pull. 

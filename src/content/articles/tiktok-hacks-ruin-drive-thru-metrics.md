@@ -33,6 +33,10 @@ As a former operations manager who stared at digital timer screens for a decade.
 
 ## The Assembly Line Breakdown
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![The Cost of Virality How TikTok Hacks Are Destroying Drive-Thru Timer Metrics](../../assets/images/general/generic-coffee.webp)
 
 

@@ -28,6 +28,10 @@ This commitment to fresh food means that the back-of-house operations at Five Gu
 
 ## The 5 AM Arrival
 
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
+
 The morning prep shift at a busy Five Guys location usually begins at 5:00 AM or 6:00 AM. The prep crew walks into a cold, quiet kitchen and immediately heads to the walk-in cooler. 
 
 Inside the cooler are massive, 40-pound chubs (plastic-wrapped tubes) of fresh ground beef. This beef is a proprietary blend of chuck and sirloin, delivered fresh from regional meatpackers multiple times a week. The prep crew hauls these heavy chubs out to the stainless steel prep tables. 

@@ -31,6 +31,10 @@ I've watched this technique executed thousands of times across different burger 
 
 ## The Smash: What Actually Happens on the Flat-Top
 
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
+
 ![Shake Shack Smash Burger The Grill Technique](../../assets/images/general/generic-walk-in-2.webp)
 
 
@@ -53,7 +57,7 @@ That single motion is the entire technique. And everything that makes the burger
 
 ![Shake Shack Smash Burger The Grill Technique](../../assets/images/general/generic-drive-thru-3.webp)
 
-Here's the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
+This is the science that Shake Shack is weaponizing: the Maillard reaction. When proteins and sugars in the beef hit a dry, hot surface above roughly 300°F, they undergo a complex chemical transformation that produces hundreds of new flavor compounds. These are the deep, savory, almost nutty flavors that you associate with a perfectly seared steak or a well-browned piece of meat.
 
 The key variable in the Maillard reaction is surface area contact with heat. A round ball of beef sitting on a flat griddle has maybe one square inch of contact. A smashed patty has the entire bottom surface—potentially 15 to 20 square inches—pressed directly against that 400°F+ metal. More contact area means more browning. More browning means more flavor compounds. More flavor compounds means a burger that tastes fundamentally richer than one that was gently laid down and cooked through.
 
@@ -79,7 +83,7 @@ Fresh beef also balls up and holds together differently. When you portion a ball
 
 Shake Shack's supply chain is built around maintaining this fresh-never-frozen protocol. The beef arrives at each location refrigerated, not frozen, and has to be used within a tight window. This creates the same kind of inventory pressure that [Five Guys](/articles/chain/five-guys) deals with—if you want the full breakdown of what running a no-freezer kitchen actually looks like, [the Five Guys no-freezer deep dive](/articles/five-guys-no-freezers) covers it in detail.
 
-## How It Differs from [Five Guys](/articles/chain/five-guys)
+## How It Differs from Five Guys
 
 This is the comparison that comes up constantly, and it's worth addressing head-on because the two chains are often mentioned in the same breath as “premium fast-casual burgers.” But the cooking techniques are fundamentally different.
 
@@ -120,7 +124,7 @@ The SmokeShack is where you really see the smash technique earn its keep. The th
 
 Working the griddle station at a Shake Shack during a lunch rush is one of the more intense positions in fast-casual. The cook is managing multiple patties on a flat-top simultaneously—smashing, timing flips, adding cheese, pulling finished patties off and placing them on prepped buns. The timing windows are tight because the thin patties cook fast. We're talking maybe 60 to 90 seconds per side, depending on the griddle temperature and the exact thickness of the smash.
 
-If you leave a smashed patty on the griddle 30 seconds too long, it goes from “perfect crust” to “dried out and overdone.” There's very little margin for error with a patty this thin. The cook has to develop a rhythm—smash, wait, flip, cheese, pull—and maintain that rhythm through 200 to 300 burgers per shift without losing focus.
+If you leave a smashed patty on the griddle 30 seconds too long, it goes from “perfect crust” to “dried out and overdone.” There is very little margin for error with a patty this thin. The cook has to develop a rhythm—smash, wait, flip, cheese, pull—and maintain that rhythm through 200 to 300 burgers per shift without losing focus.
 
 The griddle itself requires constant maintenance during service. Beef fat and fond (the browned bits that stick to the surface) build up continuously. The cook scrapes the griddle surface between batches to prevent carbonized buildup from transferring bitter, burnt flavors to the next round of patties. A clean griddle surface is essential for proper crust development—if the surface is gunked up with old fond, the new patty can't make direct metal contact, and the sear suffers.
 

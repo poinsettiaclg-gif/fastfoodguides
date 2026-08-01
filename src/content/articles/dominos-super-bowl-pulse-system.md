@@ -1,7 +1,8 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
 title: Domino's Super Bowl Pulse System Explained
 description: Domino's uses a real-time order monitoring system during peak events.
-  Here's how the Pulse system manages thousands of simultaneous orders.
+  This is how the Pulse system manages thousands of simultaneous orders.
 pubDate: '2026-02-03'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -22,7 +23,6 @@ faq:
   answer: Corporate runs synthetic load testing before major events like the Super
     Bowl to simulate higher-than-expected traffic, ensuring the network backbone can
     handle the nationwide transaction spike.
-disclaimerType: medical
 ---
 If you work in the pizza industry, you don't care about the Super Bowl. You don't care who is playing, you don't care about the commercials, and you definitely don't care about the halftime show. You only care about the clock. 
 
@@ -35,6 +35,10 @@ You cannot survive that kind of volume with a good attitude and elbow grease. Yo
 At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. Throughout this breakdown, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
 
 ## The Brain of the Operation: The Pulse System
+
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
 
 ![Domino](../../assets/images/general/generic-walk-in.webp)
 

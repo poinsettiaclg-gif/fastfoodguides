@@ -39,6 +39,10 @@ If you have been hired as a "Sandwich Artist," you are about to learn that build
 As someone who has managed high-volume QSR operations across the country. The reality is succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
 ## 1. The Refrigerated Bain: The 41°F Health Code Battlefield
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![Your First Day at Subway The Sandwich Artist Operational Survival Guide](../../assets/images/general/generic-prep.webp)
 
 

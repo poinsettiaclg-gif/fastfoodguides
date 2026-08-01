@@ -11,7 +11,6 @@ topic: Pizza
 relatedArticles:
 - dominos-20-bank-rule
 - dominos-oven-tender-role
-- pizza-delivery-driver-accident
 heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
 - question: How does Domino's track driver mileage?
@@ -24,9 +23,13 @@ faq:
     and maintenance. how well it actually covers wear and tear depends entirely
     on the fuel efficiency and age of the vehicle you drive.
 ---
-Here's the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. 
+This is the conversation I had with almost every single delivery driver applicant who walked through my door: "So do I pay for gas, or does Domino's?" The answer is both simpler and more complicated than you'd expect, and the difference between a driver who clears $25 an hour on a Friday night and one who barely breaks even usually comes down to understanding exactly how the money works before they accept the job. 
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Domino](../../assets/images/general/generic-walk-in-2.webp)
 
@@ -34,7 +37,7 @@ Here's the conversation I had with almost every single delivery driver applicant
 
 
 
-Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There's no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. 
+Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There is no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. 
 
 But A detail you only learn on the line is during the interview—Domino's reimburses you for every mile you drive on the clock. At the end of every single shift, when the manager "cashes you out," your mileage reimbursement is rolled into your take-home pay along with your credit card tips and any cash adjustments. The store's dispatch computer tracks the distance from the store to each delivery address and back, so the mileage calculation isn't something you have to argue about. It's automatic. 
 
@@ -67,12 +70,12 @@ Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, tha
 ![Domino](../../assets/images/general/generic-prep.webp)
 
 
-The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. Here's what I saw drivers dealing with constantly:
+The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. This is what I saw drivers dealing with constantly:
 
 - **Oil changes every 6 to 8 weeks** instead of every 3 to 4 months. You're racking up miles fast, and skipping oil changes in a high-mileage delivery car is a recipe for engine failure.
 - **Brake pads every 8 to 12 months.** All that stop-and-go driving in neighborhoods wears pads down much faster than highway commuting.
 - **Tires every 12 to 18 months.** Between potholes, speed bumps, and constant turning, your tread wears unevenly and quickly.
-- **Insurance complications.** Some providers require a commercial or delivery rider if they find out you're using your personal vehicle for commercial deliveries. Not all charge extra, but driving without proper coverage can leave you personally liable if you get into an accident on a delivery run. This is not a small risk—read our guide on [what happens if a pizza delivery driver gets in an accident](/articles/pizza-delivery-driver-accident) for the full breakdown.
+- **Insurance complications.** Some providers require a commercial or delivery rider if they find out you're using your personal vehicle for commercial deliveries. Not all charge extra, but driving without proper coverage can leave you personally liable if you get into an accident on a delivery run.
 
 The smartest drivers I ever managed set aside $5 to $10 per shift from their reimbursement surplus into a separate savings account dedicated exclusively to vehicle maintenance. When the brake job came due six months later, the money was already there.
 

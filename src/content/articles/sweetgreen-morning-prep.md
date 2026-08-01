@@ -22,7 +22,6 @@ faq:
   answer: Because Sweetgreen relies heavily on local farms, prep teams often have
     to adjust to inconsistencies in produce size and dirt levels, requiring rigorous
     multi-stage washing.
-disclaimerType: medical
 ---
 Listen, there’s something undeniably romantic about the idea of a farm-to-table salad concept. You walk into a Sweetgreen at 12:15 PM, the line is practically out the door, the music is bumping, and a small army of team members is rhythmically tossing vibrant greens and colorful roasted vegetables in massive steel bowls. It looks effortless. It looks fresh. It looks like a perfectly choreographed dance of health and wellness. 
 
@@ -31,6 +30,10 @@ But as a former multi-unit kitchen manager, let me tell you a little secret: tha
 If you want to understand what makes a high-volume scratch kitchen tick, you have to look at the opening hours. It is an intricate ballet of logistics, heavy machinery, and cold water. Let’s pull back the curtain and look at exactly how the Sweetgreen morning prep shift manages to turn a literal mountain of farm-fresh produce into the pristine, uniform ingredients you see on the service line.
 
 ## 6:00 AM: The Arrival and The Assessment
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Sweetgreen Morning Prep What Happens Before Open](../../assets/images/general/generic-prep.webp)
 
@@ -101,7 +104,7 @@ The kitchen manager acts as a conductor during this time, calling out times and 
 
 It is a chaotic, loud, and incredibly focused environment. There is no time for chatting. Every minute is accounted for. If the prep team falls behind by even 15 minutes, the ripple effect will completely derail the lunch rush.
 
-## The [How Is Cava Food Made? Inside the Bowl Assembly Line](/articles/cava-assembly-line/) and The 10:00 AM Deadline
+## The How Is Cava Food Made? Inside the Bowl Assembly Line and The 10:00 AM Deadline
 
 As the morning progresses, the raw ingredients are transformed. The ovens are filled with sheet pans of seasoned sweet potatoes, portobello mushrooms, and blackened chicken. The air smells like roasted garlic and caramelized onions. 
 

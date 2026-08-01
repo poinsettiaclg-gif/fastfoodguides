@@ -33,6 +33,10 @@ As someone who has managed high-volume QSR kitchens for a decade, I consider the
 
 ## 1. The Foundation: Bun Prep and The 1-Swipe Spread Rule
 
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
+
 ![In-N-Out Double-Double Assembly The Anatomy of the Board Station](../../assets/images/general/generic-drive-thru.webp)
 
 

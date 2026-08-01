@@ -1,4 +1,5 @@
 ---
+topic: "Secret Menu"
 title: 'The Wendy''s T-Rex Burger: Why the 9-Patty Meat Cube Wipes Out Clamshell Grill
   Cycles'
 description: A 10-year QSR kitchen veteran breaks down the platen grill geometry,
@@ -43,7 +44,7 @@ In the folklore of fast food gluttony, the **Wendy's T-Rex Burger** occupies a l
 
 While online food vloggers treat the T-Rex Burger as a fun visual novelty, seasoned QSR kitchen managers view it as an operational catastrophe. In a Wendy's kitchen operating under tight speed-of-service mandates where grill operators are expected to continuously feed the sandwich assembly line without dropping patty holding temperatures, a 9-patty order is a system-wide wrench in the gears.
 
-The operational reality on the makeline when an order for nine simultaneous beef patties drops onto the kitchen display system (KDS)? From clamshell grill capacity limits and the mechanics of the 4-corner press to structural grease collapse and corporate liability policies, here is the unvarnished operational reality behind the T-Rex Burger.
+The operational reality on the makeline when an order for nine simultaneous beef patties drops onto the kitchen display system (KDS)? From clamshell grill capacity limits and the mechanics of the 4-corner press to structural grease collapse and corporate liability policies, this is the unvarnished operational reality behind the T-Rex Burger.
 
 ## 1. Clamshell Grill Platen Capacity and The 3-Minute Deadlock
 
@@ -107,7 +108,7 @@ Today, Wendy's corporate point-of-sale (POS) software strictly regulates sandwic
 
 ## 5. How to Order the Meat Cube Without Getting Rejected
 
-If you are determined to tackle a 9-patty Wendy's build for a personal challenge or gathering, you must respect the operational limits of the kitchen and assemble the architecture yourself. Here is the manager-approved protocol:
+If you are determined to tackle a 9-patty Wendy's build for a personal challenge or gathering, you must respect the operational limits of the kitchen and assemble the architecture yourself. This is the manager-approved protocol:
 
 1. **Never Ask for a "T-Rex Burger" by Name:** New cashiers will have no idea what you are talking about, and veteran cashiers will immediately reject the request citing corporate policy.
 2. **Execute the Modular Order Strategy:** Step up to the counter (or use the mobile app) and order **three separate Dave's Triples**. Alternatively, order one Dave's Triple and ask for six side patties of beef with cheese in separate side containers.

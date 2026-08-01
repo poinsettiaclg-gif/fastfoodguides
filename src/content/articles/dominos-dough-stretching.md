@@ -1,7 +1,7 @@
 ---
 title: 'Domino''s Dough Stretching: The Hand-Toss Technique'
 description: Domino's hand-toss requires a specific stretch to hit the right crust
-  thickness. Here's the technique cooks are trained to use every single order.
+  thickness. This is the technique cooks are trained to use every single order.
 pubDate: '2024-07-31'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -20,9 +20,12 @@ faq:
   answer: Dough balls typically need to sit at room temperature for 45 to 60 minutes
     before they are pliable enough to stretch properly without tearing or snapping
     back.
-disclaimerType: medical
 ---
 ## The Dough Does Not Arrive as Dough
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 A seasoned Domino's makeline worker can stretch, sauce, and cheese a large pizza in under 60 seconds. But that speed relies entirely on prep happening hours earlier. People often assume the stores are mixing flour and water in the back, but **Domino's dough actually arrives pre-made from a regional commissary** in the form of individual dough balls. Every single ball is weighed to its specific size class down to the gram, ensuring identical crusts across 19,000+ locations. 
 
@@ -102,7 +105,7 @@ Domino's does not use traditional pizza ovens. They use **Lincoln Impinger conve
 
 ### Why Conveyor Ovens?
 
-The conveyor oven removes the single biggest variable in pizza cooking: human judgment. There's no "checking if it's done." The oven is set to a specific temperature (typically **475-500°F**) and the conveyor belt moves at a specific speed (typically **6-7 minutes** from entrance to exit).
+The conveyor oven removes the single biggest variable in pizza cooking: human judgment. There is no "checking if it's done." The oven is set to a specific temperature (typically **475-500°F**) and the conveyor belt moves at a specific speed (typically **6-7 minutes** from entrance to exit).
 
 Every pizza that enters the oven exits the oven at the exact same time. Whether a new hire or a 10-year veteran placed it on the belt, the cook time is identical. This is how Domino's achieves consistency at scale.
 
@@ -117,7 +120,7 @@ After exiting the oven, the pizza hits the **cut table** — the final station b
 3. Verifies the order against the ticket (correct toppings, correct size)
 4. Boxes it and routes it to either the delivery shelf or the carryout warmer
 
-During a rush, the cut table is arguably the most stressful position in the store. Pizzas are coming off the conveyor at a constant rate, and if the cut table falls behind, there's literally nowhere for the pizzas to go. They start piling up on the oven exit, and the ones sitting there continue to cook from residual heat, becoming overdone.
+During a rush, the cut table is arguably the most stressful position in the store. Pizzas are coming off the conveyor at a constant rate, and if the cut table falls behind, there is literally nowhere for the pizzas to go. They start piling up on the oven exit, and the ones sitting there continue to cook from residual heat, becoming overdone.
 
 ## Why This System Works — And Where It Breaks Down
 

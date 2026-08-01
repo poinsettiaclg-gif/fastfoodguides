@@ -1,4 +1,5 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
 title: 'The Auntie Anne''s Pretzel Rolling Masterclass: Inside the Mall Bakery'
 description: How mall employees learn to twist the perfect pretzel in under 3 seconds,
   the chemistry of the alkaline baking soda dip, and the 30-minute freshness timer.
@@ -22,13 +23,16 @@ faq:
   answer: No. Unlike many fast-food bakery concepts, Auntie Anne's mixes fresh dough
     on-site every single morning using flour mix, yeast, and strictly temperature-controlled
     water in commercial Hobart or Bakemax stand mixers.
-disclaimerType: medical
 ---
 If you have ever walked through an enclosed shopping mall, an airport terminal, or a stadium concourse, the warm, buttery, yeasty aroma of Auntie Anne's is unmistakable. To the average consumer, it looks like a simple snack counter. To a QSR operations manager, an Auntie Anne's store is a highly regimented, high-volume **scratch bakery operating on a micro-assembly line** directly in front of the customer.
 
-Unlike competitors who rely on frozen, pre-shaped dough pucks reheated in rapid convection ovens, every single pretzel sold at Auntie Anne's is mixed, proofed, rolled, twisted, dipped, and baked fresh on-site. Here is the exact operational and chemical breakdown of how mall employees turn bags of flour into golden pretzels at speeds exceeding 100 twists per hour.
+Unlike competitors who rely on frozen, pre-shaped dough pucks reheated in rapid convection ovens, every single pretzel sold at Auntie Anne's is mixed, proofed, rolled, twisted, dipped, and baked fresh on-site. This is the exact operational and chemical breakdown of how mall employees turn bags of flour into golden pretzels at speeds exceeding 100 twists per hour.
 
 ## 1. The Scratch Dough Prep: Precision Chemistry
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![The Auntie Anne](../../assets/images/general/generic-drive-thru.webp)
 
@@ -38,7 +42,7 @@ The foundation of the entire store begins at 6:00 AM, hours before the mall gate
 
 ### Water Temperature and Yeast Activation
 Dough preparation happens in massive 20-quart commercial stand mixers (typically Hobart or Bakemax units). The baker combines the proprietary Auntie Anne's flour mix, active yeast packets, and water.
-*   **The Critical Window:** Water temperature must be calibrated precisely between **105°F and 110°F** using a digital thermocouple. If the water drops below 100°F, the yeast fails to activate, resulting in dense, brick-like pretzels. If the water exceeds 115°F, the thermal shock kills the yeast organisms entirely, ruining a 15-pound batch of dough.
+*   **The Critical Window:** Water temperature must be calibrated precisely between **105°F and 110°F** using a digital thermocouple. If the water drops below 100°F, the yeast fails to activate, resulting in dense, brick-like pretzels. If the water exceeds 115°F, the thermal shock destroys the yeast organisms entirely, ruining a 15-pound batch of dough.
 *   **The Proofing Cabinet:** Once kneaded into a smooth dough ball, the batch is transferred to a food-grade cambro tub and placed into a temperature and humidity-controlled proofing cabinet (typically set at 95°F and 80% relative humidity) for exactly 30 to 45 minutes until it doubles in volume.
 
 ## 2. The 3-Second Twist: Ergonomics and Muscle Memory

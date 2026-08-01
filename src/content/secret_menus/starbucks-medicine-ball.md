@@ -1,4 +1,6 @@
 ---
+heroImage: "../../assets/images/general/generic-prep.webp"
+topic: "Secret Menu"
 title: 'The Medicine Ball (Honey Citrus Mint Tea): Why Baristas Dread Making Starbucks''
   Viral Cold Remedy'
 description: An operational breakdown of why Starbucks baristas dread the Medicine
@@ -21,7 +23,7 @@ relatedArticles:
 - starbucks-morning-rush
 - starbucks-mastrena-espresso-calibration
 faq:
-- question: Does the Starbucks Medicine Ball legitimately cure colds?
+- question: What is the standard build procedure for the Medicine Ball?
   answer: No. Despite its viral nickname, the Honey Citrus Mint Tea has no proven
     medical or pharmaceutical benefits. It is simply a soothing warm beverage made
     of green tea, herbal tea, lemonade, and sugar.
@@ -31,7 +33,6 @@ faq:
     steam wand, breaking the barista's rapid 2-drink espresso sequencing cadence.
 author: Russell Roseberry
 authorTitle: Former Multi-Unit Kitchen Manager
-disclaimerType: medical
 ---
 > **Medical Disclaimer:** The "Medicine Ball" is an unofficial customer nickname. It is not a medical cold cure or pharmaceutical health remedy, and it has no medically proven curative benefits for illnesses or viral infections.
 
@@ -39,7 +40,7 @@ In the entire history of Starbucks secret menu items, no beverage has achieved t
 
 Yet, despite its official status on the menu board, any Starbucks shift supervisor or barista will tell you that the Medicine Ball holds a dreaded **Operational Annoyance Score of 8/10**. 
 
-When a customer orders a Venti Medicine Ball during an 8:00 AM morning peak when 40 mobile orders are queued on the [Digital Production Manager (DPM)](/articles/starbucks-dpm-routing), it brings high-speed espresso bar sequencing to a grinding halt. Here is the operational science and kitchen mechanics behind why baristas dread making this viral tea.
+When a customer orders a Venti Medicine Ball during an 8:00 AM morning peak when 40 mobile orders are queued on the [Digital Production Manager (DPM)](/articles/starbucks-dpm-routing), it brings high-speed espresso bar sequencing to a grinding halt. This is the operational science and kitchen mechanics behind why baristas dread making this viral tea.
 
 ## 1. Anatomy of the Build: A 5-Step Mechanical Slowdown
 
@@ -69,7 +70,7 @@ The Medicine Ball completely destroys this rhythmic sequencing cycle:
 
 <div class="callout callout-tip">
   <strong>Manager's Insight: The "Drive-Thru Timer" Penalty</strong>
-  During winter flu season, drive-thru stores experience waves where three consecutive cars order multiple Medicine Balls. This phenomenon causes an immediate collapse of the store's **Drive-Thru Window Timer**.
+  During winter the winter months, drive-thru stores experience waves where three consecutive cars order multiple Medicine Balls. This phenomenon causes an immediate collapse of the store's **Drive-Thru Window Timer**.
   <br><br>
   Because herbal tea bags require at least **3 to 5 minutes of steeping time** to release their flavor compounds into the hot water before the steamed lemonade balances the taste, serving a freshly poured Medicine Ball at the window means the customer is handed a cup of lukewarm water with floating tea bags. 
   <br><br>
@@ -81,6 +82,6 @@ The Medicine Ball completely destroys this rhythmic sequencing cycle:
 ## 3. How to Order Responsibly Without Slowing the Line
 
 If you love the soothing, citrus-mint flavor of the Honey Citrus Mint Tea and want to order it without frustrating your local barista team, follow these simple etiquette rules:
-1.  **Use the Official POS Name:** Never ask for a "Medicine Ball," "Cold Buster," or "Sick Tea" at the register. Always state clearly: **"I would like a hot Honey Citrus Mint Tea."**
+1.  **Use the Official POS Name:** Never ask for a "Medicine Ball," "Cold Buster," or "Wellness Tea" at the register. Always state clearly: **"I would like a hot Honey Citrus Mint Tea."**
 2.  **Order via Mobile App:** Order your tea using Starbucks Mobile Order & Pay 10 minutes before you arrive at the store. This allows the barista to open the tea sachets and steam the lemonade during natural lulls in the queue without the pressure of an induction loop drive-thru timer ticking above their head.
 3.  **Avoid Custom Honey Packets:** If your store offers syrup vs. raw honey packets, always stick with the default **Honey Blend Syrup**. Asking a barista to manually tear open three sticky plastic packets of raw honey during a peak rush adds 30 seconds of pure manual friction to an already labor-intensive beverage.

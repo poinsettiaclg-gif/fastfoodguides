@@ -24,7 +24,6 @@ faq:
   answer: "Always announce your movements around hot equipment by loudly calling out\
     \ 'Corner,' 'Behind,' 'Sharp,' or 'Hot.' Never walk silently behind a coworker\
     \ who is working near a 350\xB0F deep fryer or a hot flat-top grill."
-disclaimerType: medical
 ---
 Working your first job in a fast-food or quick-service restaurant (QSR) kitchen is a sensory overload. The speed of service timers are beeping, the kitchen printers are chattering, the drive-thru headset is chiming in your ear, and the lunch rush line is winding out the lobby door.
 
@@ -35,6 +34,10 @@ The first group gets overwhelmed by the noise, takes customer frustration person
 If you want to be in the second group, you need to understand the unwritten rules of kitchen dynamics. Here are 15 brutally honest, actionable tips from a former kitchen manager to help you survive and thrive in your first fast-food job.
 
 ## 1. Master the Vocabulary of Kitchen Safety ("Corner," "Behind," "Hot")
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![15 Brutally Honest Tips for Your First Fast Food Job How to Avoid Rookie](../../assets/images/general/generic-drive-thru.webp)
 
@@ -139,7 +142,7 @@ Picking up shifts is the fastest way to earn overtime pay and become your genera
 ## 12. Learn Station Ergonomics to Prevent Fatigue
 
 How you stand and move at your workstation dictates how your body feels at the end of the week.
-*   **The Register Stance:** Keep your weight distributed evenly on both feet with your knees slightly bent. Never lock your knees for extended periods while standing at the front counter, as this restricts blood flow and causes lightheadedness.
+*   **The Register Stance:** Keep your weight distributed evenly on both feet with your knees slightly bent. Never lock your knees for extended periods while standing at the front counter, as this restricts circulation and causes lightheadedness.
 *   **The Lifting Protocol:** When lifting 30-pound boxes of frozen french fries or 50-pound bags of fountain drink syrup (BIBs - Bag-in-Box) in the dry storage room, always bend at your knees and lift with your legs—never hinge from your lower back.
 
 ## 13. Build a Professional Relationship with Your Shift Leaders
@@ -150,7 +153,7 @@ Hourly shift managers carry tremendous stress—they are responsible for cash re
 
 ## 14. Eat Before Your Shift (Don't Rely Solely on Break Food)
 
-Working in a high-volume kitchen burns substantial physical energy. If you arrive at a 4-hour or 8-hour shift on an empty stomach, the combination of physical exertion, heat from the grills, and smelling fried food will cause a blood sugar crash by hour two.
+Working in a high-volume kitchen burns substantial physical energy. If you arrive at a 4-hour or 8-hour shift on an empty stomach, the combination of physical exertion, heat from the grills, and smelling fried food will cause a energy crash by hour two.
 
 Eat a solid, protein-rich meal 60 minutes before you clock in. Hydrate continuously during your shift—keep a secured, lidded drink cup with a straw in the designated employee beverage area (never on the active food prep line) and drink water every chance you get.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Dutch Bros Drive-Thru: The Walk-Up Model'
 description: Dutch Bros employees walk up to your car window instead of using a speaker
-  box. Here's how the model works and why it creates faster service times.
+  box. This is how the model works and why it creates faster service times.
 pubDate: '2026-02-15'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -26,6 +26,10 @@ Dutch Bros Coffee doesn't operate like a traditional fast-food drive-thru. There
 The secret? Human interaction masking a highly optimized, militaristic dispatch system.
 
 ## The "Linebusters"
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Dutch Bros Drive-Thru The Walk-Up Model](../../assets/images/general/generic-prep.webp)
 
@@ -66,7 +70,7 @@ But it goes deeper than stickers. Dutch Bros encourages broistas to:
 
 *   **Write the customer's name on the cup** with a Sharpie, along with a smiley face or a short message like "You're awesome!" or "Have a rad day."
 *   **Remember regulars.** High-performing stores train their linebusters to memorize the names and usual orders of their top 20–30 daily regulars. When a regular pulls up and the linebuster says "Hey Sarah, the usual Caramelizer?" before the customer even speaks, it creates an emotional anchor that's almost impossible for a competitor to replicate.
-*   **Celebrate milestones.** Birthdays, graduations, new jobs—if a customer mentions anything worth celebrating, the broista at the window might add a free sticker bomb (a handful of 5–6 stickers) or a small upgrade at no charge.
+*   **Celebrate milestones.** Birthdays, graduations, new jobs—if a customer mentions anything worth celebrating, the broista at the window might add a free sticker blast (a handful of 5–6 stickers) or a small upgrade at no charge.
 
 <div class="callout callout-tip">
   **ProTip:** Store operators use stickers as a tactical distraction during bottlenecks. If the espresso machine is backed up and a customer has been waiting at the window for three minutes, an experienced broista will strike up a conversation and hand out exclusive or 'secret' stickers. It completely resets the customer's internal clock and turns a delay into a positive interaction.
@@ -98,7 +102,7 @@ For a standard iced espresso drink, the build order is:
 4.  **Espresso shot.** The shot is pulled and poured on top of the milk. This is intentional—pouring the shot last creates the visual layering effect that Dutch Bros is known for, especially in clear cups.
 5.  **Topping and lid.** Soft top (their version of cold foam), whipped cream, or drizzles go on last. Lid snaps on, cup goes to the handoff window.
 
-Total build time for a single iced drink in the hands of a trained barista: 45–60 seconds. During peak hours, two baristas work side by side on the espresso station, staggering their builds so there's always a shot pulling.
+Total build time for a single iced drink in the hands of a trained barista: 45–60 seconds. During peak hours, two baristas work side by side on the espresso station, staggering their builds so there is always a shot pulling.
 
 ## Blender Station vs. Espresso Station Workflow
 
@@ -140,7 +144,7 @@ Broistas start at a base hourly rate that varies by market, but it typically lan
 
 Dutch Bros operates on a **pooled tip system.** All tips collected during a shift—cash from the tip jar at the window plus digital tips added through the POS—are pooled together and split evenly among every broista working that shift.
 
-Here's what makes it work:
+This is what makes it work:
 
 *   **High-volume stores in strong markets generate $4–$7/hour in tips per person** on top of base pay. That means a broista making $15/hour base is effectively earning $19–$22/hour when tips are factored in.
 *   **The tip jar is positioned at the window** where the customer pays, and the broista handing off the drink will almost always say something like "Have an amazing day!" right before the customer notices the jar. It's not aggressive, but it's intentional.

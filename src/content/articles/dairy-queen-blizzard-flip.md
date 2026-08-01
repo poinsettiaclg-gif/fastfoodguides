@@ -1,6 +1,6 @@
 ---
 title: 'Dairy Queen Blizzard Flip: Why They Flip It Upside Down'
-description: Dairy Queen flips every Blizzard before handing it over. Here's the consistency
+description: Dairy Queen flips every Blizzard before handing it over. This is the consistency
   standard behind the flip and what happens when a store skips it.
 pubDate: '2026-02-10'
 updatedDate: '2026-07-23'
@@ -21,7 +21,6 @@ faq:
   answer: The flip serves as a visual quality guarantee that the soft serve is at
     the proper temperature and has the correct thickness. It acts as an instant operational
     QA check while doubling as memorable marketing.
-disclaimerType: medical
 ---
 It is the most famous parlor trick in all of fast food: when a Dairy Queen employee hands you a Blizzard, they are required to flip the cup completely upside down for a full second before passing it across the counter. If they don't flip it, corporate policy says you get the Blizzard for free. 
 

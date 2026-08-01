@@ -1,7 +1,7 @@
 ---
 title: 'Subway POS Down: How Staff Handle a Cash-Only Shift'
 description: When Subway's POS system goes offline, everything shifts to manual entry.
-  Here's how staff manage orders, cash, and the receipt printer during an outage.
+  This is how staff manage orders, cash, and the receipt printer during an outage.
 pubDate: '2025-05-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -17,12 +17,11 @@ faq:
 - question: Does Subway POS have an offline mode for credit cards?
   answer: Yes, many modern Subway POS systems support an Offline Store-and-Forward
     mode. It securely stores card swipes locally and processes them once internet
-    is restored, subject to a strict floor limit (usually $25-$50) to minimize fraud
+    is restored, subject to a strict floor limit (usually $25-$50) to minimize misrepresentation
     risk.
 - question: Can I use the Subway app or gift cards if the internet is down?
   answer: No. Third-party app orders, digital rewards, and physical gift cards require
     live database verification. When the POS is offline, those systems cannot be accessed.
-disclaimerType: medical
 ---
 The most stressful moment in any quick-service restaurant is not a line out the door during the Friday lunch rush. It is hearing the sudden, ominous beep of the Point of Sale (POS) terminal losing network connectivity right as you try to ring up a line of 15 impatient customers.
 
@@ -33,6 +32,10 @@ When the POS goes down, line staff cannot simply close the store and walk away. 
 ---
 
 ## Why Subway POS Systems Lose Connectivity
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 To understand how to handle an outage, line workers must first recognize the three distinct operational states of a commercial POS terminal:
 
@@ -51,7 +54,7 @@ If the touchscreen terminal is still functioning but internet connectivity is se
 In this state, the POS continues to calculate sandwich totals, apply meal deal combos, and pop the cash drawer for cash transactions. when a customer swipes or taps a credit or debit card, the register cannot ping the bank for real-time authorization. Instead, the register stores the encrypted card token locally on the solid-state drive and queues it for submission once the internet connection is restored.
 
 ### Critical Rules for Offline Card Processing
-*   **Floor Limit Enforcement:** Corporate and franchise policies establish a strict "Floor Limit" (typically $25.00 to $50.00) for offline card transactions. Any transaction exceeding this threshold will automatically reject in offline mode to protect the store from fraudulent or insufficient-fund cards.
+*   **Floor Limit Enforcement:** Corporate and franchise policies establish a strict "Floor Limit" (typically $25.00 to $50.00) for offline card transactions. Any transaction exceeding this threshold will automatically reject in offline mode to protect the store from misrepresentationulent or insufficient-fund cards.
 *   **No Gift Cards or App Rewards:** Subway Rewards QR scans and physical gift cards require live database verification to check balances. During an offline state, cashiers must politely inform guests that rewards points and gift cards cannot be redeemed or earned until servers reconnect.
 *   **Risk of Chargebacks:** Because offline card swipes are stored locally without real-time balance checks, the franchise owner assumes 100% of the financial risk if a stored card declines when the network syncs hours later. Cashiers must inspect physical cards for validity and verify signatures on larger orders.
 

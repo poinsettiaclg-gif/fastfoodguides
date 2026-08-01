@@ -45,7 +45,7 @@ When you order regular fries, the portioner scoops them into a paper sleeve, all
 
 When the ticket prints for Animal Fries, the fry portioner grabs an open-faced corrugated cardboard boat instead of the standard paper sleeve. They lay down a heavy bed of hot fries. Then, they lay two overlapping slices of standard American cheese directly over the top of the fry matrix. 
 
-Here is where the operational bottleneck occurs. The residual heat of the fries alone is not enough to rapidly melt two slices of processed cheese in the few seconds the portioner has before the next basket comes up from the oil. The employee must manually force the phase change of the cheese. 
+This is where the operational bottleneck occurs. The residual heat of the fries alone is not enough to rapidly melt two slices of processed cheese in the few seconds the portioner has before the next basket comes up from the oil. The employee must manually force the phase change of the cheese. 
 
 To do this, they place the entire cardboard boat onto a designated heated surface or under a metal clamshell steam dome. They shoot a tiny amount of water onto the surface next to the boat and drop the dome. The entire container sits in this dedicated steamer for exactly 24 to 48 seconds. The flash steam envelops the fries, rapidly raising the ambient temperature and forcing the American cheese to liquefy and drape over the potato matrix.
 

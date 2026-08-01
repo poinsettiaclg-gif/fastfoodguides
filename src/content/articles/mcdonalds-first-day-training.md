@@ -24,15 +24,19 @@ faq:
 ---
 I ran orientation at a high-volume store for about two years. In that time, I onboarded somewhere around 200 crew members. Some of them lasted a decade. Most didn't make it past their second week. The ones who survived almost always had one thing in common: they showed up on day one with realistic expectations instead of anxiety about things that don't actually matter.
 
-So here's what your first day at a McDonald's actually looks like, from someone who stood on the other side of the counter and watched hundreds of people walk through that crew entrance for the first time.
+So this is what your first day at a McDonald's actually looks like, from someone who stood on the other side of the counter and watched hundreds of people walk through that crew entrance for the first time.
 
 ## Before You Show Up
+
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
 
 ![Your First Day at McDonald](../../assets/images/general/generic-grill.webp)
 
 
 
-Your hiring manager should have already told you what time to arrive, where to enter (usually the back crew door, not the front counter), and what to bring. If they didn't tell you clearly, here's the baseline:
+Your hiring manager should have already told you what time to arrive, where to enter (usually the back crew door, not the front counter), and what to bring. If they didn't tell you clearly, this is the baseline:
 
 - **Non-slip shoes.** This is non-negotiable. The kitchen floor is greased tile, and regular sneakers will put you on the ground before your first break. Shoes for Crews and Tredsafe are the two most common brands crew members buy. You can get a pair at Walmart for under $30.
 - **Your ID and banking info.** Social security card or equivalent for I-9 verification, plus a voided check or bank routing/account numbers for direct deposit.
@@ -44,7 +48,7 @@ Don't bring your own apron or hat — the store provides your uniform. At most f
 
 Your first shift usually isn't a real shift. At most locations, orientation runs two to four hours and you won't touch food or take a customer order.
 
-Here's the rough breakdown of what happens:
+This is the rough breakdown of what happens:
 
 **Paperwork.** Tax forms, direct deposit enrollment, emergency contact info, employee handbook acknowledgment. This takes about 30 to 45 minutes depending on how fast you read and whether the printer decides to cooperate. At franchise locations, you'll also sign a meal policy agreement — most franchisees give crew members a discount or a free meal during their shift, but the specifics vary wildly from owner to owner.
 
@@ -70,7 +74,7 @@ The hardest part of front counter isn't the register. It's the multitasking. A c
 
 ### Fry Station
 
-Some managers like to start new people on fries because the process is mechanical and repetitive. Pull the basket, shake the fries, salt them, bag them. The [fry station](/articles/mcdonalds-fry-station) has a timer system that tells you exactly when to pull, so there's no guesswork.
+Some managers like to start new people on fries because the process is mechanical and repetitive. Pull the basket, shake the fries, salt them, bag them. The [fry station](/articles/mcdonalds-fry-station) has a timer system that tells you exactly when to pull, so there is no guesswork.
 
 The catch: fry station during a lunch rush moves fast. You might be dropping 12 to 15 baskets per hour, and if you fall behind, the entire line backs up because every single order needs fries.
 

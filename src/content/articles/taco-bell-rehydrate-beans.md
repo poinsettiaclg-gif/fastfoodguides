@@ -19,11 +19,14 @@ faq:
 - question: How long does the rehydration process take?
   answer: The beans typically need to sit in the heated holding cabinet for approximately
     45 minutes to fully absorb the boiling water and reach the correct consistency.
-disclaimerType: medical
 ---
 Taco Bell relies on the brilliantly engineered food science shortcuts you will encounter to serve thousands of pounds of refried beans every day. If you picture someone soaking raw pinto beans overnight and mashing them by hand, let that image go. The actual process involves boiling water, a timer, and bags of dehydrated pellets—and nailing the exact ratio is the difference between creamy beans and a watery mess. 
 
 ## They Arrive as Dehydrated Pellets
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 The beans show up at your store in massive, lightweight plastic bags that look like they're full of cat food. I'm not being dramatic. The first time I opened one of these bags, I genuinely thought someone had made a supply chain error. Inside, you'll find small, dry, brown pellets—sometimes more like flakes, depending on the supplier batch. They're hard, lightweight, and honestly kind of sad-looking. 
 
@@ -43,7 +46,7 @@ The dehydration is pure logistics genius. Shipping water is expensive—it's hea
 ![How Does Taco Bell Rehydrate Their Beans?](../../assets/images/general/generic-prep.webp)
 
 
-When it's time to prep a fresh batch for the makeline, here's exactly what happens:
+When it's time to prep a fresh batch for the makeline, this is exactly what happens:
 
 1. **The Water:** You fill a deep metal hotel pan with a precise, measured amount of boiling hot water. Most stores draw this from a dedicated Bunn hot water tower mounted on the wall near the prep area. The water needs to be at or near 200°F—not warm, not hot, but legitimately near-boiling. I watched fresh trainees grab water from the regular faucet and wonder why their beans turned out like wet gravel.
 
@@ -57,7 +60,7 @@ When it's time to prep a fresh batch for the makeline, here's exactly what happe
 
 ## The Water Ratio Is Everything
 
-Here's where prep cooks either earn their keep or create problems that cascade through the entire shift. The instructions printed on every bag specify the exact water-to-pellet ratio, and deviating even slightly produces noticeably different results.
+This is where prep cooks either earn their keep or create problems that cascade through the entire shift. The instructions printed on every bag specify the exact water-to-pellet ratio, and deviating even slightly produces noticeably different results.
 
 Too much water? The beans come out soupy and thin. They'll slide off the tortilla and pool at the bottom of the burrito, creating a soggy mess that falls apart when the customer picks it up. I've had customers bring back burritos that were in practice bean soup in a tortilla because someone on prep rushed the measuring.
 

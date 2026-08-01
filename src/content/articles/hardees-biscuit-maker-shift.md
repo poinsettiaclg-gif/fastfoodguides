@@ -28,6 +28,10 @@ I've worked alongside Biscuit Makers and trained under their mentorship. This is
 
 ## The 4:00 AM Arrival: Alone in a Dark Kitchen
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 The Biscuit Maker arrives at the store with the opening manager, usually around 4:00 AM. The parking lot is empty. The dining room is dark. The ovens are cold. Your first task is getting the massive convection ovens fired up—they need 15 to 20 minutes to reach the correct baking temperature, so timing your first batch to go in right when the oven is ready is part of the routine. 
 
 
@@ -36,7 +40,7 @@ The Biscuit Maker arrives at the store with the opening manager, usually around 
 
 While the ovens heat, you're setting up your station: a massive stainless steel table that gets dusted with a generous layer of flour, a heavy rolling pin, metal biscuit cutters, baking sheets prepped with a light coat of grease or parchment, and all of your measured ingredients within arm's reach.
 
-The first 15 minutes are all about precision setup. You weigh out your dry mix, make sure your buttermilk is properly cold—warm buttermilk activates the leavening agents prematurely and kills the rise before the biscuit ever sees the inside of an oven—and mentally walk through your first batch timing. Veteran Biscuit Makers have this sequence burned into muscle memory. They can have their station prepped and the first batch of dough mixed before the oven's preheat light clicks off.
+The first 15 minutes are all about precision setup. You weigh out your dry mix, make sure your buttermilk is properly cold—warm buttermilk activates the leavening agents prematurely and ruins the rise before the biscuit ever sees the inside of an oven—and mentally walk through your first batch timing. Veteran Biscuit Makers have this sequence burned into muscle memory. They can have their station prepped and the first batch of dough mixed before the oven's preheat light clicks off.
 
 ## The From-Scratch Process: Where Most First-timers Fail
 
@@ -46,7 +50,7 @@ The first 15 minutes are all about precision setup. You weigh out your dry mix, 
 ![What is the 400 AM ](../../assets/images/general/generic-walk-in-2.webp)
 
 
-Here's the step-by-step, and pay attention to the kneading step because that's where the job lives or dies:
+This is the step-by-step, and pay attention to the kneading step because that's where the job lives or dies:
 
 1. **The Mix:** You dump large bags of Hardee's proprietary biscuit mix—which contains flour, baking powder, and shortening—into a mixing bin. Then you pour in gallons of real, cold buttermilk. Not room-temperature. Cold. The temperature of the buttermilk matters more than most rookies understand.
 
@@ -54,7 +58,7 @@ Here's the step-by-step, and pay attention to the kneading step because that's w
 
 3. **The Roll:** You turn the dough out onto the floured table and roll it to the exact required thickness. Too thick and the biscuit won't cook through. Too thin and it'll dry out in the oven and crumble when someone tries to build a sandwich on it.
 
-4. **The Cut:** Using a metal biscuit cutter, you punch out the circular biscuits and lay them onto the prepped baking sheet. Here's a detail that separates the pros from the amateurs: press the cutter straight down and lift it straight up. Do not twist. Twisting the cutter seals the edges of the dough and prevents the biscuit from rising properly in the oven. A clean, straight cut lets the layers expand freely.
+4. **The Cut:** Using a metal biscuit cutter, you punch out the circular biscuits and lay them onto the prepped baking sheet. This is a detail that separates the pros from the amateurs: press the cutter straight down and lift it straight up. Do not twist. Twisting the cutter seals the edges of the dough and prevents the biscuit from rising properly in the oven. A clean, straight cut lets the layers expand freely.
 
 5. **The Scrap Reroll:** After your first round of cuts, you'll have leftover dough scraps. Gently press them together and roll them out one more time. These "second-roll" biscuits won't be quite as tender as the first batch, but they're perfectly acceptable for service. Do not attempt a third roll—by that point the dough is overworked and those biscuits will be noticeably tough.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Wawa Hoagie Build: The Touchscreen Assembly Line'
 description: Wawa hoagies are ordered via touchscreen and built to a specific sequence.
-  Here's how the assembly line works and what separates a great Wawa hoagie.
+  This is how the assembly line works and what separates a great Wawa hoagie.
 pubDate: '2026-03-01'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -27,11 +27,15 @@ heroImage: ../../assets/images/general/generic-fryer-3.webp
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
 
 
-If you've never ordered a hoagie at Wawa, the experience can throw you off. There's no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, After a decade on the line, it's one of the smartest deli setups in the business. 
+If you've never ordered a hoagie at Wawa, the experience can throw you off. There is no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, After a decade on the line, it's one of the smartest deli setups in the business. 
 
 I've worked in operations where verbal orders caused constant rework. Wrong cheese. Forgot the peppers. “I said LIGHT mayo.” Wawa sidestepped all of that by putting the order entirely in the customer's hands.
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
+
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+
+
 
 ![Wawa Hoagie Build The Touchscreen Assembly Line](../../assets/images/general/generic-grill.webp)
 
@@ -59,9 +63,9 @@ The whole interaction takes maybe 90 seconds for someone who knows what they wan
 
 I've managed kitchens where the ticket printer was the only source of truth, and kitchens where verbal orders flew back and forth like a tennis match. The verbal model breaks down fast during a rush. Someone mishears “provolone” as “no cheese.” A crew member forgets an add-on. The customer swears they said something they didn't.
 
-Wawa's touchscreen removes every one of those failure points. The customer picks exactly what they want, confirms it on screen, and the deli gets a printed ticket with zero ambiguity. There's no “he said, she said.” If the hoagie is wrong, it's because the customer selected the wrong option — and that happens way less often than you'd think.
+Wawa's touchscreen removes every one of those failure points. The customer picks exactly what they want, confirms it on screen, and the deli gets a printed ticket with zero ambiguity. There is no “he said, she said.” If the hoagie is wrong, it's because the customer selected the wrong option — and that happens way less often than you'd think.
 
-There's another benefit that doesn't get talked about enough: shy customers. Not everyone is comfortable rattling off a complicated sandwich order to a stranger. Some people freeze up at deli counters. The touchscreen lets introverts build a 14-topping hoagie without saying a single word, and that's a real thing. I've talked to Wawa regulars who told me flat-out they'd never order a custom sub anywhere else because they hate the verbal back-and-forth.
+There is another benefit that doesn't get talked about enough: shy customers. Not everyone is comfortable rattling off a complicated sandwich order to a stranger. Some people freeze up at deli counters. The touchscreen lets introverts build a 14-topping hoagie without saying a single word, and that's a real thing. I've talked to Wawa regulars who told me flat-out they'd never order a custom sub anywhere else because they hate the verbal back-and-forth.
 
 From a throughput perspective, it's also faster. Multiple customers can build orders simultaneously on separate kiosks while the deli team works the queue. A traditional deli counter is bottlenecked by one-at-a-time ordering. Wawa can have six customers building hoagies at once while three deli associates work the assembly line. That's how they push volume during the lunch rush without the line snaking around the store.
 
@@ -69,7 +73,7 @@ From a throughput perspective, it's also faster. Multiple customers can build or
 
 When your order hits the deli station, it prints on a small thermal ticket — the same kind of ticket printer you'd see in any restaurant kitchen. The ticket lists everything: bread type, size, protein, cheese, toppings, sauces, and any special instructions. Each ticket gets clipped to a rail or placed in the queue.
 
-Here's the operational build sequence:
+This is the operational build sequence:
 
 <div class="callout callout-tip">
   <strong>ProTip:</strong> A major bottleneck during lunch rushes is the Retail Sandwich Station (RSS) restocking. If the team doesn't prep enough backup cambros of sliced meats and cheeses before the rush, they'll have to handle bulk packs on the fly, grinding the assembly line to a halt.
@@ -83,7 +87,7 @@ The roll gets split with a bread knife — not all the way through. It's a hinge
 
 ### Step 2: Meats Are Weighed, Not Eyeballed
 
-This is a detail that matters more than people realize. Wawa portions their deli meats by weight, not by feel. There's a small digital scale at each build station, and the associate weighs the meat for every hoagie. A Classic Italian hoagie, for example, gets a specific gram count of ham, salami, and capicola. The Shorti gets a proportionally smaller portion.
+This is a detail that matters more than people realize. Wawa portions their deli meats by weight, not by feel. There is a small digital scale at each build station, and the associate weighs the meat for every hoagie. A Classic Italian hoagie, for example, gets a specific gram count of ham, salami, and capicola. The Shorti gets a proportionally smaller portion.
 
 Why does this matter? Consistency. If you order an Italian hoagie at a Wawa in Philadelphia and another one at a Wawa in Voorhees, New Jersey, you're getting the same amount of meat. That's hard to pull off across 900+ locations without a portioning system, and the scale is the enforcement mechanism.
 
@@ -168,7 +172,7 @@ I'll say this: the current rolls are still better than what most chains serve. B
 
 Wawa operates in a tight geographic footprint — Pennsylvania, New Jersey, Delaware, Maryland, Virginia, and Florida. That limited availability creates scarcity, and scarcity creates devotion. People who grow up with Wawa treat it like a regional institution, not a convenience store.
 
-One thing that keeps the experience consistent across 1,000+ locations: Wawa is entirely corporate-owned. There are no franchisees. Every store is operated by the company, which means corporate has direct control over hiring, training, food quality, equipment, and procedures. In the QSR world, that's unusual at this scale. Most chains franchise heavily once they pass a few hundred locations because it's easier to grow with other people's money. Wawa chose the harder path — slower growth, but tighter control. That's why a hoagie in South Jersey tastes the same as one in Orlando. The playbook is identical because there's no franchise operator cutting corners or doing their own thing.
+One thing that keeps the experience consistent across 1,000+ locations: Wawa is entirely corporate-owned. There are no franchisees. Every store is operated by the company, which means corporate has direct control over hiring, training, food quality, equipment, and procedures. In the QSR world, that's unusual at this scale. Most chains franchise heavily once they pass a few hundred locations because it's easier to grow with other people's money. Wawa chose the harder path — slower growth, but tighter control. That's why a hoagie in South Jersey tastes the same as one in Orlando. The playbook is identical because there is no franchise operator cutting corners or doing their own thing.
 
 The hoagie is the centerpiece of that loyalty. It's the first thing Wawa fans tell you about when you say you've never been. “You have to try the hoagies.” It's the thing expats miss when they move to a state without Wawa. Every year, Wawa runs “Hoagiefest” — a summer-long promotional event with discounted hoagies and themed marketing — and people genuinely get hyped for it. It's a sandwich promotion that generates real enthusiasm, which tells you everything about the relationship between Wawa and its customers.
 

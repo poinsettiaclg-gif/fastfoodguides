@@ -1,7 +1,7 @@
 ---
 title: 'Wendy''s Frosty Machine Boil-Out: How It Works'
 description: Wendy's Frosty machine requires a full boil-out cleaning cycle every
-  week. Here's what the process involves and why it takes the machine offline overnight.
+  week. This is what the process involves and why it takes the machine offline overnight.
 pubDate: '2026-05-28'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -22,17 +22,17 @@ faq:
     solutions, but employees use 'boil-out' to refer to the standard nightly teardown
     as well.
 ---
-The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [Wendy's Closing Duties: A Full Night Breakdown](/articles/wendys-closing-duties/))*
+The Wendy's Frosty is a fast food icon—one of those products that has been on the menu since Dave Thomas opened the first location. Customers see a creamy, frozen treat that comes out of a shiny machine in about four seconds. What they don't see is the nightly maintenance nightmare that keeps that machine running safely. If you've been assigned [Wendy's Closing Duties: A Full Night Breakdown](/articles/wendys-closing-duties/)
 
 It's called the Boil-Out. And by the time you're done, you'll understand why.
 
 ## Why the Boil-Out Is Non-Negotiable
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. 
-
-
-
-
 
 I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. 
 
@@ -48,12 +48,12 @@ Once the machine is empty, pour buckets of warm water into the top hoppers and p
 
 ## Step 2: The Mechanical Teardown
 
-![Wendy](../../assets/images/general/generic-prep.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
 
 
 This is the part that intimidates every new hire, and honestly, it should. The Frosty machine is not a simple countertop appliance—it's a precision freezing system with heavy metal components.
 
-Here's what comes apart:
+This is what comes apart:
 
 - **The faceplate:** Unbolt the heavy plastic faceplate from the front of the machine. Some models use thumbscrews, others require a specific tool. Know your machine.
 - **The auger:** Reach inside the freezing cylinder and pull out the auger—a massive metal corkscrew wrapped with sharp plastic scraper blades. This thing is heavy, often several pounds, and the scraper blades are genuinely sharp enough to slice your hand open if you're careless. Always grip the auger by the center shaft and keep your fingers away from the blade edges.
@@ -73,7 +73,7 @@ Each O-ring must be individually removed from its groove, inspected under good l
 
 ## Step 4: Reassembly and the Lube
 
-![Wendy](../../assets/images/general/generic-drive-thru-3.webp)
+![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 
 This is where new employees always, always mess up. When putting the machine back together, you cannot just slide the metal auger back in and bolt the faceplate on. Every single rubber O-ring and the drive shaft must be coated with food-grade lubricant—typically Petrol-Gel or an equivalent NSF-certified product.
@@ -82,7 +82,7 @@ This is where new employees always, always mess up. When putting the machine bac
 
 Squeeze a generous bead of lubricant onto your gloved finger and coat the entire circumference of each O-ring before sliding it back into its groove. Then coat the drive shaft where the auger connects. A well-lubricated machine reassembles smoothly—the O-rings slide into position without resistance, and the faceplate bolts on cleanly.
 
-A dry O-ring will catch on the groove, twist out of position, and potentially tear. And here's the real problem: your store may or may not have replacement O-rings in stock. If a ring tears at 11:30 PM and there's no spare, the Frosty machine is offline until a replacement arrives—which might mean no Frosties for Saturday morning. I witnessed this happen more times than I want to admit, and it's always because someone thought they could skip the lube step "just this once."
+A dry O-ring will catch on the groove, twist out of position, and potentially tear. And this is the real problem: your store may or may not have replacement O-rings in stock. If a ring tears at 11:30 PM and there is no spare, the Frosty machine is offline until a replacement arrives—which might mean no Frosties for Saturday morning. I witnessed this happen more times than I want to admit, and it's always because someone thought they could skip the lube step "just this once."
 
 ## Step 5: The Test Run
 
@@ -93,8 +93,6 @@ It is vastly better to catch a leak during a two-minute water test at 11:00 PM t
 ## Time Management Is Everything
 
 The full boil-out process—drain, flush, disassemble, scrub, sanitize, reassemble, test—takes 25 to 35 minutes when done properly by someone who knows the machine. If you're new, budget 40 to 45 minutes. Start the process the moment the manager gives you the green light—ideally 15 to 20 minutes before the store officially closes. If you start too late, you'll either rush through it (leading to poor sanitization, missed O-rings, or skipped lubrication) or hold up the entire closing crew while everyone waits for you to finish.
-
-
 
 ---
 

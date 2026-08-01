@@ -17,13 +17,19 @@ faq:
   answer: New staff often over-toss the salads for too many rotations, bruising the
     delicate greens and creating a soggy, unappealing texture.
 heroImage: ../../assets/images/general/generic-fryer-2.webp
-disclaimerType: medical
+relatedArticles:
+  - "mcdonalds-ice-cream-machine"
+  - "wendys-fresh-never-frozen"
 ---
 At Sweetgreen, the ingredients might be high-quality and locally sourced, but the true magic happens at the very end of the line: the mixing station. It's the loudest, messiest, and most physically demanding position in the restaurant.
 
 During a peak lunch rush in a busy metro area, the person working the mixing station is tossing upwards of 150 salads an hour. Doing that without destroying the delicate greens or slinging balsamic vinaigrette onto a customer's shirt requires a highly specific technique.
 
 ## The Tools of the Trade
+
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
 
 ![Sweetgreen Mixing Station Portion Control at Scale](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -74,7 +80,7 @@ Warm components that have been heated but not yet tossed have a maximum hold tim
 
 ## The Dressing Station Prep
 
-Every dressing at Sweetgreen is made in-house in daily batches. There's no pump dispenser connected to a bag-in-box like you'd see at a standard fast-food chain. Each dressing is hand-whisked or blended, portioned into squeeze bottles, and labeled with a prep date.
+Every dressing at Sweetgreen is made in-house in daily batches. There is no pump dispenser connected to a bag-in-box like you'd see at a standard fast-food chain. Each dressing is hand-whisked or blended, portioned into squeeze bottles, and labeled with a prep date.
 
 ### Daily Batch Process
 

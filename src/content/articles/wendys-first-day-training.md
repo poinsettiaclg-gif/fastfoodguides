@@ -7,8 +7,8 @@ author: Russell Roseberry
 authorTitle: 10-Year QSR Operations Manager
 chain: Wendy's
 topic: Training
-disclaimerType: legal
-heroImage: ../../assets/images/general/generic-fryer-3.webp
+disclaimerType: food_safety
+heroImage: ../../assets/images/general/generic-prep.webp
 relatedArticles:
 - wendys-fresh-never-frozen
 - wendys-clamshell-grill
@@ -26,7 +26,11 @@ Your first day is not going to involve managing a lunch rush or getting yelled a
 
 ## The Paperwork and the Uniform
 
-![Wendy](../../assets/images/general/generic-prep.webp)
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+
+
+
+![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
 
 Before you can even touch a spatula, you have to be legally onboarded. 
 
@@ -70,7 +74,7 @@ At a well-run store, you will be attached to a Crew Trainer's hip. You are not e
 If they put you on the front counter, you'll watch them punch in orders and learn the layout of the Aloha POS system. If they put you on fries, you'll watch them drop baskets and salt the batches. The goal of day one is simply to acclimatize you to the noise—the constant beeping of the fryers, the headset chatter, and the rhythm of the line.
 
 <div class="callout callout-tip">
-**ProTip:** If you finish your modules early and get put on the floor, remember the golden rule: 'If there's time to lean, there's time to clean.' Grab a sanitizer towel and wipe down the front counter if you don't know what else to do.
+**ProTip:** If you finish your modules early and get put on the floor, remember the golden rule: 'If there is time to lean, there is time to clean.' Grab a sanitizer towel and wipe down the front counter if you don't know what else to do.
 </div>
 
 The best thing you can do on your first day is bring a pen, listen more than you speak, and ask questions the second you don't understand something. We expect you to be slow. We expect you to be confused. We just want you to show up ready to learn.
@@ -86,5 +90,13 @@ If you are assigned to the window or cashier position, accuracy is prioritized o
 If you move to back-of-house operations, your trainer will introduce you to the temperature logs and timer protocols. Fresh beef requires continuous vigilance; you must learn to visually identify when patties reach the proper hold temperature in the UHC (Universal Holding Cabinet) and when chili meat needs to be transferred to the staging pan. The UHC holding slots for the beef are set to a strict 165°F to maintain safety standards.
 
 <div class="callout callout-tip">
-**ProTip:** Wendy's is brutal on the grill because the meat is fresh. You can't just drop frozen patties on a timer and walk away. You have to learn the 4-corner press technique, and if you press too hard, you squeeze all the juice out and ruin the burger. A bad grill operator kills the drive-thru times. You won't be put on grill on your first day, but watch how the veterans handle the spatulas.
+**ProTip:** Wendy's is brutal on the grill because the meat is fresh. You can't just drop frozen patties on a timer and walk away. You have to learn the 4-corner press technique, and if you press too hard, you squeeze all the juice out and ruin the burger. A bad grill operator ruins the drive-thru times. You won't be put on grill on your first day, but watch how the veterans handle the spatulas.
+</div>
+
+### ProTip: Non-Slip Shoes and Uniform Maintenance
+
+<div class="callout callout-tip">
+Before you even step on the line, your uniform is your first line of defense. The floors in a Wendy's kitchen are notoriously slick due to ambient grease from the clamshell grills and fry stations. Investing in high-quality, oil-resistant non-slip shoes is non-negotiable. Standard sneakers will have you sliding across the prep area, creating a massive safety hazard for yourself and your crew.
+
+Additionally, keep your uniform apron clean and your hat or visor secure. A pristine uniform signals to the shift manager that you are organized and ready to work. At the end of your shift, pre-treat any grease stains on your shirt immediately; otherwise, the smell of fryer oil will bake into the fabric permanently.
 </div>

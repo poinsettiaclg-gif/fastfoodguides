@@ -1,7 +1,7 @@
 ---
 title: 'Starbucks Cold Bar: How Frappuccinos Are Built'
 description: Starbucks Frappuccinos require a specific layering and blending sequence.
-  Here's how the cold bar station is set up and timed during peak hours.
+  This is how the cold bar station is set up and timed during peak hours.
 pubDate: '2025-02-27'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -20,7 +20,6 @@ faq:
     at a time on the remaining blender. This immediately cuts output in half and creates
     a massive backlog.
 heroImage: ../../assets/images/general/generic-coffee-2.webp
-disclaimerType: medical
 ---
 The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks baristas are truly tested. During summer months, Frappuccinos, Refreshers, and Iced Coffees can account for over 70% of a store's volume. I've watched brand-new baristas get assigned to Cold Bar on a July afternoon and go completely underwater within five minutes because they tried to make drinks one at a time. That approach is a death sentence on the cold side. The exact sequencing routine must be memorized to survive the operational demands of the station.
 
@@ -75,7 +74,7 @@ The pump heads are physically different sizes—CBS heads are smaller—but in t
 
 Frappuccinos get the attention, but Refreshers and Iced Teas consume a massive chunk of Cold Bar time during summer. These drinks are simpler to make but come in much higher volume.
 
-A Refresher is built by pouring the base juice into the cup, adding water or lemonade, adding ice, and tossing in any add-ins like freeze-dried fruit. Iced Teas follow the same pattern—tea, water or lemonade, ice, sweetener if requested. The key to speed here is batch thinking. If you see three Mango Dragonfruit Refreshers in a row on the sticker queue, make all three simultaneously. Pour three cups of base, add liquid to all three, ice all three, lid all three. Assembly-line production is always faster than individual builds.
+A Refresher is built by pouring the base juice into the cup, adding water or lemonade, adding ice, and tossing in any add-ins like freeze-dried fruit. Iced Teas follow the same pattern—tea, water or lemonade, ice, sweetener if requested. The key to speed this is batch thinking. If you see three Mango Dragonfruit Refreshers in a row on the sticker queue, make all three simultaneously. Pour three cups of base, add liquid to all three, ice all three, lid all three. Assembly-line production is always faster than individual builds.
 
 This is the same principle the [Customer Support barista](/articles/starbucks-customer-support-cycle) uses when restocking—batching tasks together eliminates repeated motions and cuts total time significantly.
 

@@ -8,7 +8,7 @@ author: Russell Roseberry
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Operations
-heroImage: ../../assets/images/general/generic-fryer-3.webp
+heroImage: ../../assets/images/general/generic-walk-in.webp
 relatedArticles:
 - wendys-4-corner-press
 - wendys-fresh-never-frozen
@@ -20,7 +20,6 @@ faq:
   answer: Even when the line is empty, managers will ask you to pull forward to clear
     the magnetic sensor at the window. This stops the timer and prevents the store's
     metrics from turning red.
-disclaimerType: medical
 ---
 The ticket printer hasn't stopped for 45 minutes, the grill cook is frantically dropping fresh batches of spicy chicken, and three cars just pulled up to the speaker box at the exact same time. You hand the customer their drink and hit them with the line: 
 
@@ -32,9 +31,11 @@ According to [QSR Magazine's annual drive-thru study](https://www.qsrmagazine.co
 
 ## The SOS (Speed of Service) Metric
 
-![The Wendy](../../assets/images/general/generic-baking.webp)
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
 
 
+
+![Wendy's Operational Guide](../../assets/images/general/generic-baking.webp)
 
 At Wendy's, the ultimate metric of a shift manager’s success is **SOS**, or Speed of Service. 
 

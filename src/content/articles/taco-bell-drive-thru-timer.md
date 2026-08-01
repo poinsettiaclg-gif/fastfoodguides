@@ -26,6 +26,10 @@ This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" 
 
 ## The Sensors and the Zones
 
+<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
+
+
+
 ![How Does the Taco Bell Drive-Thru Timer Actually Work?](../../assets/images/general/generic-prep.webp)
 
 

@@ -27,6 +27,10 @@ I still remember the adrenaline spike of my first "drop" into a commercial press
 
 ## The Machine and Its Safety Engineering
 
+<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
+
+
+
 ![How Dangerous Are the KFC Pressure Fryers?](../../assets/images/general/generic-prep.webp)
 
 
@@ -59,7 +63,7 @@ KFC requires cooks to wear heavy-duty rubber aprons, thick elbow-length heat-res
 
 During one shift, I noticed the difference PPE makes. A pop of 350-degree oil on a bare forearm leaves a blister the size of a quarter that takes weeks to heal. The same pop on a heat-resistant glove? You don't even feel it. The face shield exists because oil doesn't just splash down—it can pop upward, and a drop of 350-degree oil hitting your eye or your lip is an emergency room visit.
 
-The temptation to skip gear is real. The kitchen is already 95 degrees. You're wearing a uniform. Now you're adding a rubber apron and elbow-length gloves and a face shield, and you're sweating through all of it. During a rush, when the manager is yelling for more chicken and the timer is going off on another fryer, the thought crosses your mind: "I'll just do this quick drop without the gloves." Don't. The one time you skip is the time the oil catches you, and a burn from 350-degree oil is not a minor inconvenience—it's a second or third-degree injury that can require medical attention and leave permanent scars.
+The temptation to skip gear is real. The kitchen is already 95 degrees. You're wearing a uniform. Now you're adding a rubber apron and elbow-length gloves and a face shield, and you're sweating through all of it. During a rush, when the manager is yelling for more chicken and the timer is going off on another fryer, the thought crosses your mind: "I'll just do this quick drop without the gloves." Don't. The one time you skip is the time the oil catches you, and a burn from 350-degree oil is not a minor inconvenience—it's a second or third-degree injury that can require immediate first aid and leave permanent scars.
 
 ## Oil Filtration: The Closing Shift's Most Dangerous Task
 
@@ -68,9 +72,9 @@ The temptation to skip gear is real. The kitchen is already 95 degrees. You're w
 
 Beyond the daily cooking, KFC cooks are responsible for filtering the fryer oil at the end of each shift. This process involves draining the hot oil out of the fryer vat through a filtration system, scrubbing the inside of the empty vat, and pumping the filtered oil back in.
 
-Here's the part that makes filtration dangerous: the oil is still extremely hot. You don't wait for it to cool to a safe temperature first—that would take hours and nobody is staying until 2 AM for oil to cool down. You're working with oil that's been at 350 degrees all day, and even though it's dropped somewhat, it's still hot enough to cause serious burns.
+This is the part that makes filtration dangerous: the oil is still extremely hot. You don't wait for it to cool to a safe temperature first—that would take hours and nobody is staying until 2 AM for oil to cool down. You're working with oil that's been at 350 degrees all day, and even though it's dropped somewhat, it's still hot enough to cause serious burns.
 
-Spills during filtration are one of the most common sources of burn injuries in KFC kitchens, and the root cause is almost always the same: rushing. It's the end of a closing shift. You've been on your feet for eight hours. You want to go home. So you skip the apron, you rush the drain, you bump the filter hose, and suddenly there's hot oil on the floor, on your shoes, on your skin. The same full PPE required for the drop is required for filtration—apron, gloves, face shield. Every single time.
+Spills during filtration are one of the most common sources of burn injuries in KFC kitchens, and the root cause is almost always the same: rushing. It's the end of a closing shift. You've been on your feet for eight hours. You want to go home. So you skip the apron, you rush the drain, you bump the filter hose, and suddenly there is hot oil on the floor, on your shoes, on your skin. The same full PPE required for the drop is required for filtration—apron, gloves, face shield. Every single time.
 
 A full oil change—where the old oil is completely drained and replaced with fresh oil—happens every few days depending on volume. Between full changes, the oil quality is monitored with test strips that measure acidity and breakdown levels. High-volume stores change oil more frequently. The quality of the oil directly impacts the quality of the chicken, so this isn't just a safety task—it's a product quality task.
 
@@ -88,7 +92,7 @@ Consumer-grade pressure fryers do exist, but they're much smaller and less power
 
 ### What happens if a fryer's safety lock malfunctions?
 
-The machine is immediately taken out of service and tagged as inoperable. A certified technician must inspect and repair the lock before the fryer can be used again—no cook, no manager, no one is allowed to override or bypass the safety lock under any circumstances. This is a zero-tolerance policy enforced at the corporate level. A store running with a reduced number of fryers during a rush is inconvenient; a cook getting hit with pressurized 350-degree oil is a lawsuit and a life-altering injury. There's no comparison.
+The machine is immediately taken out of service and tagged as inoperable. A certified technician must inspect and repair the lock before the fryer can be used again—no cook, no manager, no one is allowed to override or bypass the safety lock under any circumstances. This is a zero-tolerance policy enforced at the corporate level. A store running with a reduced number of fryers during a rush is inconvenient; a cook getting hit with pressurized 350-degree oil is a legal inquiries and a life-altering injury. There is no comparison.
 
 ---
 
