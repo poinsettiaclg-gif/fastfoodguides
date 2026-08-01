@@ -451,3 +451,87 @@ button:focus-visible,
 		padding: 0.5em 0.6em;
 	}
 }
+
+/* --- Sidebar Utility --- */
+.sidebar-card:hover {
+	border-color: var(--accent) !important;
+	background: rgba(16, 185, 129, 0.05) !important;
+	transform: translateX(4px);
+}
+
+/* --- Kitchen Quiz Component --- */
+.kitchen-quiz {
+	background-color: var(--bg-card);
+	border: 1px solid var(--border-subtle);
+	border-radius: var(--radius-card);
+	padding: 1.5em;
+	margin: 2.5em 0;
+	box-shadow: var(--shadow-card);
+}
+.kitchen-quiz h4 {
+	color: var(--accent);
+	margin-bottom: 0.5em;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+.kitchen-quiz > p {
+	font-weight: 600;
+	color: var(--text-primary);
+	margin-bottom: 1em;
+}
+.quiz-options {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+}
+.quiz-option {
+	text-align: left;
+	background: var(--bg-surface);
+	border: 1px solid var(--border-subtle);
+	color: var(--text-secondary);
+	padding: 0.75em 1em;
+	border-radius: var(--radius-btn);
+	cursor: pointer;
+	transition: all var(--transition);
+	font-family: inherit;
+	font-size: 1rem;
+	width: 100%;
+}
+.quiz-option:hover:not(:disabled) {
+	border-color: var(--accent);
+	background: rgba(16, 185, 129, 0.05);
+}
+.quiz-option.selected {
+	border-color: var(--text-primary);
+	color: var(--text-primary);
+}
+.quiz-option.correct {
+	background-color: rgba(16, 185, 129, 0.15);
+	border-color: var(--accent);
+	color: var(--text-primary);
+}
+.quiz-option.incorrect {
+	background-color: rgba(239, 68, 68, 0.1);
+	border-color: #EF4444;
+	color: var(--text-primary);
+}
+.quiz-feedback {
+	margin-top: 1em;
+	padding: 1em;
+	border-radius: var(--radius-btn);
+	font-size: 0.95em;
+}
+.quiz-feedback.hidden {
+	display: none;
+}
+.quiz-feedback.correct-text {
+	background-color: rgba(16, 185, 129, 0.1);
+	border-left: 4px solid var(--accent);
+	color: var(--text-primary);
+}
+.quiz-feedback.incorrect-text {
+	background-color: rgba(239, 68, 68, 0.05);
+	border-left: 4px solid #EF4444;
+	color: var(--text-secondary);
+}

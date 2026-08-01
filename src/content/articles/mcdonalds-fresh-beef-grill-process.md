@@ -75,6 +75,17 @@ This cook-to-order system is the reason a modern Quarter Pounder is vastly super
 
 <div class="callout callout-tip">**ProTip:** The Quarter Pounder patty takes roughly 70 to 90 seconds to cook on the clamshell grill, allowing the line to assemble the bun and toppings concurrently for a 'cook-to-order' delivery.</div>
 
+<div class="kitchen-quiz" data-answer="2">
+  <h4>Knowledge Check: Fresh Beef Protocol</h4>
+  <p>What is the absolute golden rule for handling raw fresh beef patties to prevent cross-contamination?</p>
+  <div class="quiz-options">
+    <button class="quiz-option" data-idx="1">Use standard clear gloves and wash hands immediately after.</button>
+    <button class="quiz-option" data-idx="2">Use the dedicated Blue Glove and remove it before touching any equipment buttons.</button>
+    <button class="quiz-option" data-idx="3">Use tongs to place the meat on the grill.</button>
+  </div>
+  <p class="quiz-feedback hidden" data-feedback="Touching a grill button with a contaminated Blue Glove results in a total station shutdown and sanitization."></p>
+</div>
+
 ### See Also
 
 - [McDonald's ABS System: Made-for-You Explained](/articles/mcdonalds-abs-system/)
