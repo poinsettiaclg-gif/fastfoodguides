@@ -10,14 +10,63 @@
     Get the unpolished operational hacks corporate won't teach you. 
     <strong>Bonus:</strong> Subscribe now to get our free <em>5-Minute Audit Survival Checklist (PDF)</em> immediately.
   </p>
-  <form class="newsletter-form" action="https://formspree.io/f/placeholder" method="POST">
+  <form id="newsletter-form" class="newsletter-form" action="https://formspree.io/f/meeybzwj" method="POST">
     <div class="input-group">
-      <input type="email" name="email" placeholder="manager@store.com" required aria-label="Email address" />
-      <button type="submit">Send Checklist</button>
+      <input type="email" id="newsletter-email" name="email" placeholder="manager@store.com" required aria-label="Email address" />
+      <button type="submit" id="newsletter-submit">Send Checklist</button>
     </div>
     <p class="privacy-note">No spam. Unsubscribe anytime.</p>
   </form>
+  <div id="newsletter-success" style="display: none;" class="success-message">
+    <strong>Success!</strong> The 5-Minute Audit Survival Checklist has been sent to your inbox.
+  </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const forms = document.querySelectorAll('.newsletter-form');
+    
+    forms.forEach(form => {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const formEl = e.target as HTMLFormElement;
+        const submitBtn = formEl.querySelector('button[type="submit"]') as HTMLButtonElement;
+        const successMsg = formEl.nextElementSibling as HTMLElement;
+        const actionUrl = formEl.getAttribute('action') || '';
+        
+        // Prevent multiple submissions
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Sending...';
+        
+        const formData = new FormData(formEl);
+        
+        try {
+          const response = await fetch(actionUrl, {
+            method: 'POST',
+            body: formData,
+            headers: {
+              'Accept': 'application/json'
+            }
+          });
+          
+          if (response.ok) {
+            formEl.style.display = 'none';
+            if (successMsg) {
+              successMsg.style.display = 'block';
+            }
+          } else {
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Error. Try Again.';
+          }
+        } catch (error) {
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Error. Try Again.';
+        }
+      });
+    });
+  });
+</script>
 
 <style>
   .newsletter-card {
@@ -122,5 +171,15 @@
     .newsletter-form button {
       width: 100%;
     }
+  }
+  .success-message {
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid var(--accent);
+    color: var(--accent-light);
+    padding: 1rem;
+    border-radius: var(--radius-btn);
+    font-size: 0.95rem;
+    text-align: center;
+    margin-top: 1rem;
   }
 </style>
