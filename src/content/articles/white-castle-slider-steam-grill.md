@@ -32,7 +32,7 @@ I've spent a decade in QSR kitchens, and the White Castle method remains one of 
 
 ## The Grill and the Onion Bed
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B01D536F3O?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
 
 
 

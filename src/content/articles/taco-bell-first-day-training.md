@@ -42,7 +42,7 @@ As someone who spent a decade managing high-volume quick-service restaurant (QSR
 
 ## 1. The Modular Make-Line Matrix: Hot Side vs. Cold Side
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B00131EDN6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
 
 
 

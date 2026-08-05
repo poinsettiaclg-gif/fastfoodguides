@@ -33,7 +33,7 @@ I've worked in operations where verbal orders caused constant rework. Wrong chee
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B01D536F3O?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
 
 
 
