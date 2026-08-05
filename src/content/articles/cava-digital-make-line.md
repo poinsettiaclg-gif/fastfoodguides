@@ -32,7 +32,7 @@ In the early days of fast-casual dining, digital orders were an afterthought. A 
 
 ## What Exactly is the Digital Make Line (DML)?
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B002GE2XF8?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Cooper-Atkins Digital Thermometer</a> for the fastest read times during a rush.</div>
+<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://amazon.com/dp/B01D536F3O?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
 
 
 

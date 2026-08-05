@@ -31,7 +31,7 @@ Let's walk through what you can expect during your initial training period.
 
 ## Phase 1: Five Guys University and Administration
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B0002ZQ9Z6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Shoes For Crews non-slips</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
+<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://amazon.com/dp/B00131EDN6?tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
 
 
 
