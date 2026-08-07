@@ -7,6 +7,7 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "General"
 topic: "Gear"
 heroImage: "../../assets/images/general/generic-prep.webp"
+hasAffiliate: true
 relatedArticles:
   - "mcdonalds-fry-station"
   - "taco-bell-first-day-training"

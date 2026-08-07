@@ -7,6 +7,7 @@ author: Russell Roseberry
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Arby's
 topic: Other Chains
+hasAffiliate: true
 relatedArticles:
   - arbys-roast-beef-cooking-process
   - chilis-baby-back-ribs

@@ -17,6 +17,7 @@ faq:
   answer: It is a high-pressure, repetitive task that requires constant attention
     to timers. The fry station is frequently 'in the weeds' during peak hours, and
     product quality is highly visible.
+hasAffiliate: true
 relatedArticles:
   - mcdonalds-nugget-process
   - mcdonalds-uhc-cabinet

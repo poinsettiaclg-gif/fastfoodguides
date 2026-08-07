@@ -1,0 +1,115 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import FTCDisclosure from '../../components/FTCDisclosure.astro';
+import { SITE_TITLE } from '../../consts';
+
+const title = "Shift Manager Survival Toolkit | " + SITE_TITLE;
+const description = "The ultimate gear and software toolkit for QSR Shift Managers to survive the dinner rush and get promoted.";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 4rem 1.5rem;
+				color: var(--text-primary);
+			}
+			h1 {
+				font-size: 2.5rem;
+				margin-bottom: 1rem;
+				font-weight: 800;
+				background: linear-gradient(135deg, var(--accent), #06D6A0);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+			}
+			p.subtitle {
+				font-size: 1.2rem;
+				color: var(--text-secondary);
+				margin-bottom: 3rem;
+			}
+			.gear-section {
+				margin-bottom: 3rem;
+				padding: 2rem;
+				background: var(--bg-surface);
+				border: 1px solid var(--border-subtle);
+				border-radius: var(--radius-lg);
+			}
+			.gear-section h2 {
+				margin-top: 0;
+				font-size: 1.5rem;
+				margin-bottom: 1rem;
+			}
+			.gear-item {
+				margin-bottom: 2rem;
+				padding-bottom: 2rem;
+				border-bottom: 1px solid var(--border-subtle);
+			}
+			.gear-item:last-child {
+				border-bottom: none;
+				margin-bottom: 0;
+				padding-bottom: 0;
+			}
+			.btn-amazon {
+				display: inline-block;
+				background-color: #FF9900;
+				color: #111;
+				font-weight: bold;
+				padding: 0.75rem 1.5rem;
+				border-radius: var(--radius-btn);
+				text-decoration: none;
+				margin-top: 1rem;
+				transition: background-color 0.2s;
+			}
+			.btn-amazon:hover {
+				background-color: #E68A00;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Shift Manager Survival Toolkit</h1>
+			<p class="subtitle">The essential gear I rely on to survive a 10-hour kitchen shift without losing my mind (or my footing).</p>
+
+			<FTCDisclosure />
+
+			<div class="gear-section">
+				<h2>Essential Kitchen Gear</h2>
+				
+				<div class="gear-item">
+					<h3>Shoes for Crews Non-Slip Clogs</h3>
+					<p>If you're managing a shift, you're walking across greasy tile for 8 hours straight. These are the only shoes that will actually keep you upright when the fry vat inevitably spills. Trust me on this.</p>
+					<a href="https://amazon.com/dp/B07N8P9ZYZ?tag=fastfoodguides-20" class="btn-amazon" target="_blank" rel="sponsored noopener">Check Price on Amazon</a>
+				</div>
+
+				<div class="gear-item">
+					<h3>ThermoPro Digital Pocket Thermometer</h3>
+					<p>Don't rely on the broken dial thermometers corporate sends you. You need to pull temps fast and accurately during a lunch rush or an EcoSure audit. This digital one reads in 2 seconds.</p>
+					<a href="https://amazon.com/dp/B01F59K0QQ?tag=fastfoodguides-20" class="btn-amazon" target="_blank" rel="sponsored noopener">Check Price on Amazon</a>
+				</div>
+				
+				<div class="gear-item">
+					<h3>O'Keeffe's Working Hands Cream</h3>
+					<p>Washing your hands 50 times a shift in sanitizer water will destroy your skin. Keep a puck of this in the office. It's the only cream that survives a busy shift.</p>
+					<a href="https://amazon.com/dp/B00121UVU0?tag=fastfoodguides-20" class="btn-amazon" target="_blank" rel="sponsored noopener">Check Price on Amazon</a>
+				</div>
+			</div>
+
+			<div class="gear-section">
+				<h2>Premium Hardware (For the Owners/GMs)</h2>
+				<div class="gear-item">
+					<h3>Vitamix "The Quiet One" Commercial Blender</h3>
+					<p>If you're running a coffee shop or smoothie concept, this is what you need to handle 300+ blends a day without deafening the customers in the dining room.</p>
+					<a href="https://amazon.com/dp/B00962FXYQ?tag=fastfoodguides-20" class="btn-amazon" target="_blank" rel="sponsored noopener">Check Price on Amazon</a>
+				</div>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

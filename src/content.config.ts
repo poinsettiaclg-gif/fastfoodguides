@@ -21,6 +21,7 @@ const articles = defineCollection({
 			relatedArticles: z.array(reference('articles')).optional(),
 			disclaimerType: z.enum(['medical', 'legal', 'financial', 'food_safety']).optional(),
 			isDebunk: z.boolean().optional(),
+			hasAffiliate: z.boolean().optional(),
 			faq: z.array(z.object({
 				question: z.string(),
 				answer: z.string()

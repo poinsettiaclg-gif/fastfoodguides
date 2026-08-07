@@ -8,6 +8,7 @@ author: Russell Roseberry
 authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
+hasAffiliate: true
 relatedArticles:
   - starbucks-morning-rush
   - starbucks-dpm-routing

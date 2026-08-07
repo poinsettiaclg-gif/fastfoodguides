@@ -7,6 +7,7 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "General"
 topic: "Gear"
 heroImage: "../../assets/images/general/generic-grill.webp"
+hasAffiliate: true
 relatedArticles:
   - "wendys-clamshell-grill"
   - "burger-king-broiler"

@@ -12,10 +12,11 @@ import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import AdPlaceholder from '../components/AdPlaceholder.astro';
 import GiscusComments from '../components/GiscusComments.astro';
+import FTCDisclosure from '../components/FTCDisclosure.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
 
-const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, disclaimerType, faq, isDebunk, slug, headings } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, author, authorTitle, chain, relatedArticles, disclaimerType, faq, isDebunk, slug, headings, hasAffiliate } = Astro.props;
 
 const allArticles = await getCollection('articles');
 let resolvedRelated: CollectionEntry<'articles'>[] = [];
@@ -630,6 +631,8 @@ if (faq && faq.length > 0) {
 					</div>
 
 					{disclaimerType && <YMYLDisclaimer type={disclaimerType} />}
+					
+					{hasAffiliate && <FTCDisclosure />}
 
 					<slot />
 

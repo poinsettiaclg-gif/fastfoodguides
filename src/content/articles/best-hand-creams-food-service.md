@@ -7,6 +7,7 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: "General"
 topic: "Gear"
 heroImage: "../../assets/images/general/generic-prep.webp"
+hasAffiliate: true
 relatedArticles:
   - "chipotle-fajita-veggie-cut"
   - "mcdonalds-fry-station"
