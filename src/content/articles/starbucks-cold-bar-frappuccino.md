@@ -99,7 +99,7 @@ Rinse your blender pitcher with a quick blast of water between every drink. A 2-
 		<div class="product-card-desc">
 			<p>Used by major coffee chains for a reason. Blends efficiently without deafening the barista or drive-thru microphone. A must-have for independent coffee shops.</p>
 		</div>
-		<a href="https://amzn.to/example-vitamix" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/dp/B003L0O45S?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
