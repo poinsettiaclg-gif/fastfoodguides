@@ -1,8 +1,6 @@
 ---
 title: 'In-N-Out Double-Double Assembly: The Anatomy of the Board Station'
-description: A granular look at the In-N-Out Board Station, detailing the exact build
-  order, the Thousand Island spread technique, ticket prioritization, and the spatial
-  logistics of the Double-Double.
+description: "A granular look at the In-N-Out Board Station, detailing the exact build order, the Thousand Island spread technique, ticket prioritization, and the..."
 pubDate: '2025-05-21'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
@@ -11,9 +9,9 @@ chain: In-N-Out Burger
 topic: Burgers
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- in-n-out-board-station
-- in-n-out-animal-style-fries
-- fast-food-beginner-tips-starting-out
+  - in-n-out-board-station
+  - in-n-out-secret-menu
+  - in-n-out-level-system
 faq:
 - question: Why does In-N-Out put tomatoes under the lettuce?
   answer: Placing the tomato slice directly above the spread and below the hand-leafed
@@ -33,13 +31,7 @@ As someone who has managed high-volume QSR kitchens for a decade, I consider the
 
 ## 1. The Foundation: Bun Prep and The 1-Swipe Spread Rule
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![In-N-Out Double-Double Assembly The Anatomy of the Board Station](../../assets/images/general/generic-drive-thru.webp)
-
-
 
 Before the meat even leaves the grill, the Board worker receives the freshly toasted sponge dough buns from the bun toaster. The structural integrity of the entire burger relies on what happens in these critical first five seconds.
 

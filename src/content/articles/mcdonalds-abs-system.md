@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Burgers
 relatedArticles:
-- mcdonalds-pos-crash
-- taco-bell-drive-thru-timer
-- chick-fil-a-ipos-system
+  - mcdonalds-uhc-cabinet
+  - mcdonalds-fresh-beef-grill-process
+  - mcdonalds-pos-crash
 faq:
 - question: How does the ABS handle modified drinks like no ice?
   answer: The POS system sends modifiers directly to the ABS. It dynamically adjusts
@@ -26,22 +26,13 @@ If you've been through a McDonald's drive-thru recently, you might have noticed 
 
 ## From POS Tap to Finished Cup: The smooth Connection
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 The magic starts the instant a customer places their order at the speaker box. When the order taker taps "Medium Diet Coke" on the POS touchscreen, that signal is sent directly to the ABS machine in real time over the store's internal network. There is no delay, no printed ticket, no verbal relay. The POS and the ABS are on the same system, and the moment the drink is confirmed on the register, the ABS has already started working. 
-
-
-
-
 
 The machine has a hopper—a vertical tube—loaded with stacked cups of each size. When it receives the order for a medium, it mechanically drops a medium paper cup onto its internal conveyor belt. In a high-volume store during a dinner rush, the ABS might be processing three to four drinks simultaneously, staggering them along the belt in the exact sequence they were entered at the register. That sequence matters because the drive-thru window presenter is grabbing cups and matching them to cars in order. If the ABS dispensed drinks out of sequence, the window would become a chaotic sorting station instead of a smooth handoff point. 
 
 ## The Three-Step Fill Process
 
-![McDonald](../../assets/images/general/generic-prep.webp)
-
+![McDonald's](../../assets/images/general/generic-prep.webp)
 
 Once the cup is on the belt, three things happen in rapid succession:
 
@@ -57,8 +48,7 @@ The entire journey—empty cup drop to finished drink in the staging area—take
 
 ## Why McDonald's Coke Actually Tastes Better
 
-![McDonald](../../assets/images/general/generic-walk-in-2.webp)
-
+![McDonald's](../../assets/images/general/generic-walk-in-2.webp)
 
 This is one of the most common questions I've gotten over the years, and the ABS is a significant piece of the answer. McDonald's Coca-Cola consistently tastes crisper and more balanced than what you get at other fast food restaurants, and there are multiple factors at play.
 

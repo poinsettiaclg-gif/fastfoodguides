@@ -16,8 +16,9 @@ faq:
   answer: No, Five Guys uses the natural fat from the 80/20 beef blend to grease the
     grill during cooking.
 relatedArticles:
-- five-guys-burger-build
-- five-guys-no-freezers
+  - five-guys-fry-calibration
+  - five-guys-no-freezers
+  - five-guys-first-day-training
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 Five Guys built its entire brand on a single, unwavering promise: there are zero [freezers](/articles/five-guys-no-freezers/) in the building. While other fast food chains rely on massive distribution centers to press, freeze, and ship perfectly uniform burger patties in cardboard boxes, Five Guys does it the hard way.
@@ -27,10 +28,6 @@ This commitment to fresh food means that the back-of-house operations at Five Gu
 ![Five Guys Morning Prep Hand-Rolling the Meatballs](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The 5 AM Arrival
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 The morning prep shift at a busy Five Guys location usually begins at 5:00 AM or 6:00 AM. The prep crew walks into a cold, quiet kitchen and immediately heads to the walk-in cooler. 
 

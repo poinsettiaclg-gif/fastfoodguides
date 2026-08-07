@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Krispy Kreme
 topic: Breakfast & Coffee
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
+  - dunkin-flavor-shot-vs-swirl
+  - waffle-house-hash-brown-system
+  - dennys-grand-slam-build
 faq:
 - question: Can you get a free doughnut when the Hot Light is on?
   answer: Yes, at many participating locations, visiting while the Hot Light is illuminated
@@ -23,11 +24,6 @@ heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## What Does the Krispy Kreme Hot Light Actually Mean?
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-
 If you've ever driven past a Krispy Kreme and seen that red neon “HOT NOW” sign glowing in the window, you might have wondered what it actually means. Is it a marketing gimmick? A general indication that the store is open and making doughnuts? A vague suggestion that the doughnuts are warm-ish? 
 
 None of the above. The Hot Light means something very specific: a fresh batch of Original Glazed doughnuts is coming off the production line right now—as in, within minutes of you walking through that door, you can have a doughnut that was fried, glazed, and boxed while you were parking your car. The glaze is still wet. The doughnut is still warm enough that it barely holds its shape when you pick it up. And it tastes so dramatically different from a room-temperature Krispy Kreme that it might as well be a completely different product. 
@@ -38,21 +34,15 @@ I want to walk you through exactly what's happening behind the scenes when that 
 
 ![Krispy Kreme Hot Light What It Actually Means](../../assets/images/general/generic-prep.webp)
 
-
-
 Most Krispy Kreme locations with a Hot Light have the production line visible to customers through a large window. This is intentional—watching doughnuts being made is part of the brand experience, and the visible production line serves as a constant advertisement. But what you're seeing through that glass is genuinely impressive from an engineering standpoint. This is the step-by-step process:
 
-
-
-
-
-### Step 1: The Dough Mix
+### 1. The Dough Mix
 
 The process starts with Krispy Kreme's proprietary dry dough mix, which is shipped to each location in pre-measured bags. The mix contains flour, sugar, shortening, dried milk, dried eggs, salt, and other ingredients in a specific ratio that Krispy Kreme has refined over decades. An employee adds water and yeast to the dry mix in a large commercial mixer—typically a Hobart-style floor mixer with a dough hook attachment—and runs it until the dough reaches the right consistency.
 
 The dough needs to be smooth, elastic, and slightly tacky. Under-mixing produces a dense doughnut that doesn't rise properly. Over-mixing develops too much gluten, making the doughnut tough and chewy instead of light and airy. The mix time is specified in the operating manual down to the minute, and experienced Krispy Kreme doughnut makers can tell by the texture and pull of the dough whether it's ready.
 
-### Step 2: The Extruder
+### 2. The Extruder
 
 Once the dough is ready, it's loaded into an extruder—a machine that pushes the dough through a ring-shaped die to form the classic doughnut shape with the hole in the center. The extruder cuts individual doughnuts at a consistent size and weight, dropping them onto a slow-moving conveyor belt. Each doughnut lands on the belt perfectly spaced, ready for the next step.
 
@@ -60,7 +50,7 @@ The extruder runs continuously, producing a steady stream of raw doughnut rings 
 
 <div class="callout callout-tip">**ProTip:** The exact temperature of the dough when it hits the extruder is critical, usually kept between 75°F and 80°F. If it's too warm, the dough spreads and flattens before proofing; too cold, and you get ragged edges.</div>
 
-### Step 3: The Proof Box
+### 3. The Proof Box
 
 This is where the raw doughnut rings take their time. The conveyor belt carries the freshly extruded doughnuts into the proof box—a long, enclosed chamber that's held at a warm, humid temperature, typically around 95°F to 100°F with high relative humidity, often 80% or higher.
 
@@ -68,7 +58,7 @@ Inside the proof box, the yeast in the dough activates and begins producing carb
 
 When doughnuts exit the proof box, they're visibly larger, lighter, and softer than when they entered. They have a pillowy, slightly jiggly quality—like a raw bread roll that's fully risen and ready for the oven. Except these aren't going to an oven. They're going somewhere much more interesting.
 
-### Step 4: The Fryer River
+### 4. The Fryer River
 
 This is where it gets fun to watch. The proofed doughnuts travel along the conveyor and drop gently into a long, narrow channel of hot vegetable oil—what employees and fans alike call “the river.” The oil temperature is maintained at approximately 355°F to 365°F, closely monitored by automated thermostats.
 
@@ -78,7 +68,7 @@ The frying process is where the exterior develops its thin, slightly crispy shel
 
 When the doughnuts exit the fryer, they're golden brown on both sides, structurally sound, and hot. But they're not done yet.
 
-### Step 5: The Glaze Waterfall
+### 5. The Glaze Waterfall
 
 This is the signature moment. The fried doughnuts ride the conveyor belt out of the oil and through a drip-off section where excess oil falls away. Then the conveyor carries them under the glaze curtain—a continuous sheet of liquid sugar glaze that falls from a heated reservoir above, coating the top surface of each doughnut as it passes underneath.
 

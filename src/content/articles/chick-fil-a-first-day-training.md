@@ -1,8 +1,6 @@
 ---
 title: 'Your First Day at Chick-fil-A: What Actually Happens'
-description: Nervous about your first shift at Chick-fil-A? From iPad order taking
-  to the Core 4, this is the exact breakdown of what to expect during orientation and
-  your first day on the floor.
+description: "Nervous about your first shift at Chick-fil-A? From iPad order taking to the Core 4, this is the exact breakdown of what to expect during orientation..."
 pubDate: '2025-05-11'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -28,8 +26,9 @@ faq:
     share a smile, speak with an enthusiastic tone, and stay connected to make it
     personal.'
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-  - "wendys-fresh-never-frozen"
+  - chick-fil-a-ipos-system
+  - chick-fil-a-peanut-oil-filtration
+  - chick-fil-a-breading-process
 ---
 Walking into a Chick-fil-A for your first day of training is an intense experience. The sheer volume of cars in the drive-thru, the number of employees behind the counter, and the rapid-fire language they use ("Heard," "Holding on nuggets," "My pleasure") can make you feel like you just stepped onto a stock exchange trading floor.
 
@@ -40,10 +39,6 @@ As a former QSR Operations Manager who has hired and trained hundreds of team me
 This is what you can expect on your first day at Chick-fil-A, hour by hour.
 
 ## The Core 4: Memorize This Before You Walk In
-
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
 
 Before you even touch a POS (Point of Sale) system or drop a basket of waffle fries, you will hear about the "Core 4." This is the foundational customer service philosophy of the company. If you do nothing else right on your first day, execute the Core 4.
 
@@ -105,9 +100,6 @@ You'll throw on a yellow reflective vest and shadow your trainer outside.
 Your first day at Chick-fil-A will be overwhelming. The screens will look like The Matrix, the beeping of the fryers will haunt your dreams, and you will probably say "you're welcome" by accident at least once. 
 
 Breathe. Everyone in that building, including the Operator, had a first day. Focus on the Core 4, listen to your Certified Trainer, and keep moving. By day three, it will all start to feel like second nature.
-
-
-
 
 ### See Also
 

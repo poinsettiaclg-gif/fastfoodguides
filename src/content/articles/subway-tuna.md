@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
-- subway-bain-fill-line-rule
+  - subway-bain-fill-line-rule
+  - subway-meat-slicer-rollout
+  - subway-bread-baking-process
 faq:
 - question: Why does the tuna sometimes look watery?
   answer: If the prep worker does not drain the 66.5-ounce cans of skipjack thoroughly
@@ -22,15 +24,7 @@ heroImage: ../../assets/images/general/generic-walk-in.webp
 ---
 ## Two Ingredients. That's It.
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 Subway's tuna salad is made from exactly **two ingredients** mixed together in the restaurant:
-
-
-
-
 
 1. **Canned skipjack tuna** (packed in water)
 2. **Mayonnaise**
@@ -43,7 +37,7 @@ We'll get to the controversy. First, let's look at the prep process.
 
 The tuna prep happens during the morning prep shift, usually alongside bread baking and vegetable prep. The process involves: 
 
-### Step 1: Open the Cans
+### 1. Open the Cans
 
 Subway receives **commercial-sized cans of skipjack tuna** — typically 66.5-ounce cans (about 4 pounds each). These are standard foodservice cans, not the small consumer cans you'd buy at a grocery store. The tuna is packed in water, not oil. 
 
@@ -51,7 +45,7 @@ A prep worker opens the cans and **drains the water** thoroughly. The more water
 
 <div class="callout callout-tip">**ProTip:** Prep workers often press the lids of the 66.5-ounce cans down into the tuna with both hands while in the sink to squeeze out maximum moisture, as standard strainers aren't heavy-duty enough.</div>
 
-### Step 2: Add Mayonnaise
+### 2. Add Mayonnaise
 
 The drained tuna goes into a large stainless steel mixing bowl. Then the mayo goes in — and there is a lot of it.
 
@@ -61,7 +55,7 @@ This ratio surprises most people, but it's standard for commercial tuna salad. T
 
 ![Subway tuna How It](../../assets/images/general/generic-prep.webp)
 
-### Step 3: Mix
+### 3. Mix
 
 The tuna and mayo are combined using a large spoon or spatula. The mixing is done by hand — there is no mechanical mixer involved. The target consistency is **smooth but not puréed** — the tuna should be broken up into small flakes evenly distributed throughout the mayo, with no large chunks or dry spots.
 
@@ -69,7 +63,7 @@ Mixing takes approximately **3–5 minutes** per batch. Under-mixing leaves dry 
 
 <div class="callout callout-tip">**ProTip:** A common prep bottleneck is balancing the 60:40 mayo-to-tuna ratio. Savvy managers ensure workers don't over-portion the mayo bags, which can instantly ruin the batch and cause the tuna to slide off the bread during the lunch rush.</div>
 
-### Step 4: Store and Date
+### 4. Store and Date
 
 The finished tuna salad is transferred to **Cambro containers** (food-grade plastic storage), lidded, **date-labeled**, and stored in the walk-in cooler at **40°F or below**.
 
@@ -161,7 +155,6 @@ Subway's tuna is real canned skipjack tuna mixed with mayonnaise. That's the ent
 Is it gourmet? No. It's canned tuna and mayo on bread — the same thing millions of people make at home every day. But it is what Subway says it is, and the controversy surrounding it was driven more by viral headlines than by actual evidence of wrongdoing.
 
 The real variable in your Subway tuna experience isn't whether it's "real" tuna — it's whether the prep worker drained the cans properly that morning.
-
 
 ### See Also
 

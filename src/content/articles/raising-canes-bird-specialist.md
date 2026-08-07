@@ -1,8 +1,6 @@
 ---
 title: What Does a "Bird Specialist" Actually Do at Raising Cane's?
-description: "Everything you need to know about the Raising Cane's Bird Specialist\
-  \ role \u2014 the 24-hour marinade, 6-minute fry timer, and the art of reading the\
-  \ rush."
+description: "Everything you need to know about the Raising Cane's Bird Specialist  role u2014 the 24-hour marinade, 6-minute fry timer, and the art of reading..."
 pubDate: '2025-09-27'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Raising Cane's
 topic: Chicken
 relatedArticles:
-- popeyes-chicken-battering-process
-- kfc-pressure-fryers
-- five-guys-no-freezers
+  - raising-canes-sauce
+  - popeyes-chicken-battering-process
+  - kfc-pressure-fryers
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: How long does it take to become a proficient Bird Specialist?
@@ -30,15 +28,7 @@ That's why they don't have generic "grill cooks" or "prep cooks." They have the 
 
 ## The 24-Hour Marinade and Why It Can't Be Rushed
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![What Does a ](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Before a single chicken tender touches flour, it has spent exactly 24 hours marinating in the walk-in cooler. Not 12 hours like some competitors. Twenty-four. The tenders arrive at the store fresh — never frozen — and go straight into marinade tubs that were prepped the night before. 
 
@@ -49,7 +39,6 @@ This is the operational stress this creates: if the night shift doesn't prep eno
 ## The Art of the Drop
 
 ![What Does a ](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 At a generic fast-food place, chicken nuggets arrive frozen in a bag and you dump them into a fryer basket. Raising Cane's is a completely different animal. Your job as the Bird Specialist is an endless, highly choreographed dance of breading and frying:
 

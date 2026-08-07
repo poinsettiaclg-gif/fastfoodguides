@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
-- subway-bread-baking-process
-- subway-bain-fill-line-rule
-- subway-wrap-folding
+  - subway-bread-baking-process
+  - subway-wrap-folding
+  - subway-bain-fill-line-rule
 heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
 - question: Does Subway POS have an offline mode for credit cards?
@@ -32,10 +32,6 @@ When the POS goes down, line staff cannot simply close the store and walk away. 
 ---
 
 ## Why Subway POS Systems Lose Connectivity
-
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
 
 To understand how to handle an outage, line workers must first recognize the three distinct operational states of a commercial POS terminal:
 

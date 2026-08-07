@@ -289,9 +289,9 @@ const topics = Object.entries(topicCounts)
 			<!-- ═══════════════ TRUST & E-E-A-T SECTION ═══════════════ -->
 			<section class="section about-section" aria-labelledby="about-heading">
 				<div class="section-container">
-					<div class="about-card" style="display: flex; flex-direction: column; gap: 1.5rem;">
-						<div style="display: flex; gap: 1.5rem; align-items: flex-start;">
-							<div class="about-avatar" aria-hidden="true" style="flex-shrink: 0;">
+					<div class="about-card">
+						<div class="about-card-header">
+							<div class="about-avatar" aria-hidden="true">
 								<span>RR</span>
 							</div>
 							<div class="about-content">
@@ -678,14 +678,22 @@ const topics = Object.entries(topicCounts)
 
 			.about-card {
 				display: flex;
-				gap: 2rem;
-				align-items: flex-start;
+				flex-direction: column;
+				gap: 1.5rem;
 				padding: 2.5rem;
 				background: #1a2332;
 				border: 1px solid rgba(255, 255, 255, 0.08);
 				border-radius: 0.75rem;
 				position: relative;
 				overflow: hidden;
+			}
+			.about-card-header {
+				display: flex;
+				gap: 1.5rem;
+				align-items: flex-start;
+			}
+			.about-avatar {
+				flex-shrink: 0;
 			}
 
 			.about-card::before {
@@ -787,10 +795,15 @@ const topics = Object.entries(topicCounts)
 				}
 
 				.about-card {
-					flex-direction: column;
 					align-items: center;
 					text-align: center;
 					padding: 2rem 1.5rem;
+				}
+
+				.about-card-header {
+					flex-direction: column;
+					align-items: center;
+					gap: 1rem;
 				}
 
 				.about-link {

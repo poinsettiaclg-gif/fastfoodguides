@@ -10,11 +10,12 @@ chain: KFC
 topic: Other Chains
 disclaimerType: food_safety
 relatedArticles:
-- kfc-pressure-fryers
-- kfc-original-vs-extra-crispy
+  - kfc-pressure-fryers
+  - kfc-coleslaw-secret
+  - kfc-original-vs-extra-crispy
 faq:
 - question: Why do some customers find KFC gravy controversial?
-  answer: Because the traditional gravy uses the actual the seasoned breading sediment
+  answer: Because the traditional gravy uses the actual seasoned breading sediment
     from the bottom of the pressure fryers, some customers unfamiliar with traditional
     cooking methods are put off by the look of the raw ingredient, though it provides
     the authentic flavor.
@@ -35,13 +36,9 @@ When I managed kitchens, training new cooks on the gravy process was always an i
 
 ## Harvesting the Crackling
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 To understand the gravy, you have to understand the frying process. KFC cooks their Original Recipe chicken in large commercial [pressure fryers](/articles/kfc-pressure-fryers/). Throughout the day, the cooks drop rack after rack of freshly breaded chicken into the hot oil. As the chicken cooks under pressure, bits of flour, the eleven herbs and spices, and rendered chicken fat fall off the meat and sink to the bottom of the vat.
 
-Over several hours, this debris forms a thick, dark, seasoned crackling sediment-like layer at the bottom of the fryer. This is the crackling. 
+Over several hours, this debris forms a thick, dark layer of seasoned breading sediment at the bottom of the fryer. This is the crackling. 
 
 When it is time to filter the fryers—a process that happens multiple times a day to keep the oil clean—the cook drains the hot oil through a filter system. What is left behind in the vat is a heavy layer of dark brown, highly seasoned chicken fat and cooked breading. 
 
@@ -70,9 +67,9 @@ Once mixed, the gravy is passed through a fine mesh strainer to catch any large,
 
 ## The Thermal Hazard of Harvesting: Oil Filtration Burns and PPE Protocols
 
-Harvesting crackling seasoned crackling sediment from the Winston Collectramatic pressure fryers is one of the most hazardous tasks in a commercial KFC kitchen. Because the sediment sits at the bottom of the fry pot beneath 50 pounds of 350°F shortening, extraction occurs during the daily mechanical oil filtration cycle:
+Harvesting the crackling sediment from the Winston Collectramatic pressure fryers is one of the most hazardous tasks in a commercial KFC kitchen. Because the sediment sits at the bottom of the fry pot beneath 50 pounds of 350°F shortening, extraction occurs during the daily mechanical oil filtration cycle:
 - **Mandatory Heavy PPE:** Prep cooks and maintenance personnel are strictly required to don insulated heavy-duty neoprene gauntlets, a heavy rubberized thermal apron, and full-face shatterproof visors before initiating drain procedures. A single drop of 350°F oil splashing from the filter pan onto unprotected skin causes instantaneous second- and third-degree contact burns.
-- **Preventing Seasoned crackling sediment Flashovers:** As hot shortening drains through the lower filter paper, the dense layer of breading sediment remains trapped on the surface. Cooks must scrape this crackling paste into specialized stainless steel cooling cambros using a long-handled metal scraper. If a cook attempts to scrape the pot while the internal heating elements are still engaged, the residual oil trapped in the seasoned crackling sediment can auto-ignite, triggering a localized flashover fire within the fry pot cavity.
+- **Preventing Flashovers:** As hot shortening drains through the lower filter paper, the dense layer of breading sediment remains trapped on the surface. Cooks must scrape this crackling paste into specialized stainless steel cooling cambros using a long-handled metal scraper. If a cook attempts to scrape the pot while the internal heating elements are still engaged, the residual oil trapped in the cracklings can auto-ignite, triggering a localized flashover fire within the fry pot cavity.
 
 ## Gravy Holding Cabinets, Viscosity Breakdown, and Skimming Standards
 
@@ -84,7 +81,7 @@ Once strained and transferred into 1/6-size stainless steel serving pans, the gr
 
 It is worth noting that the process has evolved over the years, and not always for the better. Decades ago, KFC gravy relied heavily on the cracklings from the Original Recipe chicken, resulting in a deeply savory, almost smoky gravy. 
 
-Today, some locations try to speed up the prep process by relying more on the powder packets and less on the cracklings, especially if they are running behind during a lunch rush or if the fryers haven't produced enough usable seasoned crackling sediment. In some international markets, or in smaller express locations, KFC has even moved toward a simplified powder-only mix to cut down on labor costs and ensure total uniformity. 
+Today, some locations try to speed up the prep process by relying more on the powder packets and less on the cracklings, especially if they are running behind during a lunch rush or if the fryers haven't produced enough usable crackling. In some international markets, or in smaller express locations, KFC has even moved toward a simplified powder-only mix to cut down on labor costs and ensure total uniformity. 
 
 in a well-run traditional KFC kitchen, the crackling process is still alive and well. It is one of the last true "from scratch" prep methods left in modern fast food, heavily utilizing a byproduct that any other restaurant would simply dump in the grease trap.
 

@@ -17,26 +17,19 @@ faq:
     auditing processes are used to maintain consistent quality and safety standards
     worldwide.
 relatedArticles:
-- mcdonalds-ice-cream-machine
+  - mcdonalds-q-ing-oven
+  - mcdonalds-uhc-cabinet
+  - mcdonalds-fry-station
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 disclaimerType: food_safety
 ---
 7.  How Are McDonald's Chicken McNuggets Actually Made?
 
-
 If there is one fast food item that has generated more conspiracy theories, urban legends, and late-night internet rabbit holes than any other, it is the Chicken McNugget. “It's pink slime.” “It's mechanically separated chicken.” “They use every part of the bird.” “It's not real meat.” I have heard all of these, and I heard them constantly from customers who would say these things while actively eating a 10-piece. The reality is far less dramatic and far more interesting than any of the myths. McNuggets are made from real chicken breast meat — white meat — processed through a manufacturing pipeline that is more food science than mystery, and finished in-store in a fryer that runs at 350°F. The exact process: 
 
 ## What McNuggets Are Actually Made Of
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
-![McDonald](../../assets/images/general/generic-prep.webp)
-
-
-
-
+![McDonald's](../../assets/images/general/generic-prep.webp)
 
 Let me get the biggest misconception out of the way first: McDonald's Chicken McNuggets are made from boneless, skinless chicken breast meat. That is not a PR claim — it is verifiable through the publicly available ingredient list and through the numerous factory tours that McDonald's has opened to media and food journalists over the years. The chicken breast is the primary ingredient, and it constitutes the vast majority of the nugget's mass. 
 
@@ -52,21 +45,21 @@ Mechanically separated chicken involves forcing chicken carcasses (bones and all
 
 ## The Factory Process: Breast to Nugget
 
-![McDonald](../../assets/images/general/generic-drive-thru-3.webp)
+![McDonald's](../../assets/images/general/generic-drive-thru-3.webp)
 
 The journey from whole chicken to finished McNugget happens in a processing facility and follows a specific sequence:
 
-### Step 1: Grinding
+### 1. Grinding
 
 <div class="callout callout-tip">**ProTip:** Fluctuations in market demand for chicken products can strain production capacity. Suppliers must balance production capacity across different plants to meet regional demand while minimizing freight and operational costs.</div>
 
 Boneless, skinless chicken breasts are fed into an industrial grinder along with the small portion of chicken skin. The grinder breaks the meat down into a coarse, ground texture — similar in appearance to ground turkey you would buy at a supermarket. It is not pureed into a paste. The grind retains visible texture, which is part of why a McNugget has a slightly fibrous bite when you chew it rather than the uniform smoothness of a processed meat paste.
 
-### Step 2: Seasoning and Mixing
+### 2. Seasoning and Mixing
 
 The ground chicken is transferred to large industrial mixers where it is blended with the seasoning mixture — salt, pepper, and food-grade binders that help the meat hold its shape during forming. The mixing is thorough but not excessive. Over-mixing would break down the protein structure and turn the mixture into mush. The goal is even distribution of seasoning throughout the ground meat.
 
-### Step 3: Forming the 4 Shapes
+### 3. Forming the 4 Shapes
 
 This is the part that surprises people the most. McNuggets come in exactly four shapes, and each shape has an official name:
 
@@ -81,7 +74,7 @@ The shapes also serve a surprisingly practical purpose for kids: they are easy t
 
 The forming process uses industrial molds — the seasoned ground chicken is pressed into the four shapes by machine at high speed. The formed nuggets drop onto a conveyor belt in a continuous stream.
 
-### Step 4: The Tempura Batter
+### 4. The Tempura Batter
 
 The formed nuggets pass through a battering station where they are coated in a tempura-style batter. This is a critical step because the batter is what gives a McNugget its distinctive exterior — that thin, crispy, slightly pebbled coating that crunches when you bite into it.
 
@@ -89,13 +82,13 @@ The batter is a tempura formulation, meaning it is lighter and thinner than the 
 
 After battering, the nuggets may pass through a light breading station that adds a thin layer of fine breadcrumbs or flour for additional texture. The result is a multi-layer coating: the meat, the batter, and the exterior texture layer.
 
-### Step 5: Par-Frying
+### 5. Par-Frying
 
 The battered nuggets are par-fried — meaning they are partially cooked in hot oil at the factory. This step sets the batter, gives the exterior its initial golden color, and partially cooks the chicken inside. Par-frying is not meant to fully cook the product. It is a preparation step that makes the final in-store cook faster and more consistent.
 
 The par-frying happens in a continuous fryer — a long, oil-filled channel with a conveyor belt running through it. The nuggets enter one end raw and exit the other end par-fried, with a set exterior and a partially cooked interior.
 
-### Step 6: Flash Freezing and Shipping
+### 6. Flash Freezing and Shipping
 
 Immediately after par-frying, the nuggets enter a flash-freezing tunnel. Temperatures inside the tunnel are extremely low — well below 0°F — and the nuggets freeze solid within minutes. Flash freezing is critical because it prevents large ice crystals from forming inside the meat, which would damage the texture. The result is a frozen nugget that, when cooked, tastes much closer to fresh than a slow-frozen product would.
 

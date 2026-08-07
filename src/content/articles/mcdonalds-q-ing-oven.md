@@ -10,8 +10,9 @@ chain: McDonald's
 topic: Equipment
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-- mcdonalds-uhc-cabinet
-- mcdonalds-first-day-training
+  - mcdonalds-fry-station
+  - mcdonalds-nugget-process
+  - taylor-c602-heat-cycle-reset
 faq:
 - question: What is a McDonald's Q-ing oven?
   answer: A Q-ing oven is McDonald's internal term for a commercial-grade, high-powered
@@ -29,13 +30,7 @@ To the untrained eye, it looks like a heavy-duty microwave. To a kitchen manager
 
 ## What is "Q-ing"?
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-![The McDonald](../../assets/images/general/generic-prep.webp)
-
-
+![The McDonald's](../../assets/images/general/generic-prep.webp)
 
 First, let's address the terminology. "Q-ing" is McDonald's internal shorthand for rapidly reheating or steam-finishing specific menu items. It stands for "Qualitying," though you will rarely hear an employee use the full word. 
 

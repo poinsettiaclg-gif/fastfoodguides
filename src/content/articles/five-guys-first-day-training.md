@@ -10,8 +10,9 @@ chain: Five Guys
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- wendys-fresh-never-frozen
-- five-guys-fry-calibration
+  - five-guys-no-freezers
+  - five-guys-morning-meat-prep
+  - five-guys-fry-calibration
 faq:
 - question: What is the Five Guys uniform?
   answer: Five Guys provides a red shirt and a hat or visor. You need to wear jeans
@@ -31,13 +32,7 @@ Let's walk through what you can expect during your initial training period.
 
 ## Phase 1: Five Guys University and Administration
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![Five Guys First Day Training What to Expect During Orientation](../../assets/images/general/generic-walk-in.webp)
-
-
 
 Your first shift will almost entirely consist of administration and digital learning. You will usually sit in the back office or a quiet corner of the dining room. 
 
@@ -84,8 +79,6 @@ The biggest hurdle for fresh trainees at Five Guys isn't the complexity of the m
 You are going to be standing, moving, wiping, and calling out orders for your entire shift. The open kitchen means you cannot hide in the back if you are feeling overwhelmed; you are in effect on stage. 
 
 this transparency also creates a strong team dynamic. Because everyone is working shoulder-to-shoulder in full view, the communication has to be excellent. If you show up with slip-resistant shoes, a willingness to be loud when calling orders, and the energy to keep moving even when there are no tickets on the board, you will fit in perfectly.
-
-
 
 ### See Also
 

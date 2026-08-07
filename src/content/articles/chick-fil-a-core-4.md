@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
-- chick-fil-a-ipos-system
-- in-n-out-level-system
+  - chick-fil-a-breading-process
+  - chick-fil-a-waffle-fry-station
+  - chick-fil-a-peanut-oil-filtration
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: What happens if a customer is upset?
@@ -24,15 +25,7 @@ Chick-fil-A is not a normal fast food job. I say that as someone who has worked 
 
 ## The Chick-fil-A Core 4 Explained
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 The Core 4 is the foundational customer service model that is drilled into every Chick-fil-A Team Member from their very first training shift. It is not a suggestion or a best practice. It is a mandatory behavioral standard, and this is what each pillar requires: 
 
@@ -65,7 +58,6 @@ The result is a customer experience that feels dramatically different from walki
 ## How to Demonstrate the Core 4 in Your Interview
 
 ![Chick-fil-A Core 4 The Service Model Explained](../../assets/images/general/generic-prep.webp)
-
 
 This is the part that catches most applicants off guard: Chick-fil-A hiring managers are trained to evaluate you against the Core 4 during the interview itself. They are not just listening to your answers. They are watching your behavior in real time.
 

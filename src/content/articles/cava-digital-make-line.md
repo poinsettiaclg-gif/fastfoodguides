@@ -10,9 +10,9 @@ chain: Cava
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- cava-assembly-line
-- sweetgreen-mixing-station
-- dominos-makeline-routing
+  - cava-assembly-line
+  - sweetgreen-morning-prep
+  - chilis-baby-back-ribs
 faq:
 - question: Why doesn't Cava make mobile orders on the front line?
   answer: Mixing digital orders with walk-in customers creates massive bottlenecks
@@ -32,14 +32,9 @@ In the early days of fast-casual dining, digital orders were an afterthought. A 
 
 ## What Exactly is the Digital Make Line (DML)?
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Cava](../../assets/images/general/generic-prep.webp)
 
-
-To put it simply, the DML is a full-scale replica of the front assembly line, but stripped of all the customer-facing aesthetics. There are no glass sneeze guards to wipe down constantly, no decorative lighting, and absolutely no conversational banter. It is an environment built purely for unadulterated food production. You have the exact same hot wells holding the steaming saffron basmati rice, the perfectly fried falafel, and the spicy lamb meatballs. You have the exact same cold wells stocked meticulously with pickled onions, tomato and cucumber salad, and Kalamata olives. You have the same array of proprietary dressings lined up in squeeze bottles.
+To put it simply, the DML is a full-scale replica of the front assembly line, but stripped of all the customer-facing aesthetics. There are no glass sneeze guards to wipe down constantly, no decorative lighting, and absolutely no conversational banter. It is an environment built purely for unadulterated food production. You have the exact same hot wells holding the steaming saffron basmati rice, the perfectly fried falafel, and the spicy lamb meatballs. You have the exact same cold wells stocked carefully with pickled onions, tomato and cucumber salad, and Kalamata olives. You have the same array of proprietary dressings lined up in squeeze bottles.
 
 > **Russell's Note:** You don't know true panic until a 15-item catering order drops right in the middle of a Sunday brunch shift. It instantly backs you up to the window.
 
@@ -59,7 +54,7 @@ One of the most fascinating aspects of modern KDS routing is how it handles the 
 
 ## The Critical Role of the Dedicated DML Expo
 
-While the person physically scooping the food is obviously critical, the true linchpin of the entire DML operation is the DML Expo (Expeditor). The Expo stands at the very end of the line, where the finished bowls slide over from the assembly station. Their job is not to make food, but to verify, seal, and orchestrate the chaos. 
+While the person physically scooping the food is obviously critical, the true linchpin of the entire DML operation is the DML Expo (Expeditor). The Expo stands at the very end of the line, where the finished bowls slide over from the assembly station. Their job is not to make food, but to verify, seal, and manage the chaos. 
 
 The Expo ensures that every single bowl matches the digital ticket perfectly before it leaves the building. Did the customer ask for the dressing on the side? Did they request no pita bread because of a gluten allergy? The Expo checks the bowl, seals it with the tamper-evident delivery sticker, bags it with the correct utensils and napkins, and slaps the final routing label on the bag. But their job goes far beyond mere quality control. They are the ultimate traffic cop for the highly contested real estate of the pickup shelf. 
 
@@ -89,7 +84,7 @@ Managing this maneuver requires intense, loud communication. The floater is goin
 
 ## The Psychology of the DML vs. The Main Line
 
-Working the DML requires a completely different personality profile and skill set than working the front line. The front line is essentially a stage. You need employees who are naturally outgoing, highly patient, and capable of smiling genuinely while a customer asks what the difference is between hummus and tzatziki for the millionth time that week. Front-line workers are really the brand ambassadors of the restaurant.
+Working the DML requires a completely different personality profile and skill set than working the front line. The front line is at its core a stage. You need employees who are naturally outgoing, highly patient, and capable of smiling genuinely while a customer asks what the difference is between hummus and tzatziki for the millionth time that week. Front-line workers are really the brand ambassadors of the restaurant.
 
 The DML, on the other hand, is the trenches. It actively attracts the grinders, the introverts, and the hyper-competitive speed demons of the culinary world. A truly great DML worker often doesn't want to talk to anybody. They want to put their head down, look at the glowing screen, and see how incredibly fast they can clear the board. There is a strong gamification aspect to the KDS; workers take immense, quiet pride in keeping their average ticket times under two minutes even during the absolute peak of the Friday lunch rush. 
 

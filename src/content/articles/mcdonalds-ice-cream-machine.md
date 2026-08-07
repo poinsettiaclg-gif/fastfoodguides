@@ -18,17 +18,13 @@ faq:
     which aim to make it easier for franchisees to diagnose and repair their own equipment
     rather than relying exclusively on the manufacturer's technicians.
 relatedArticles:
-- mcdonalds-nugget-process
-- mcdonalds-abs-system
-- mcdonalds-pos-crash
+  - mcdonalds-uhc-cabinet
+  - mcdonalds-nugget-process
+  - mcdonalds-pos-crash
 disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## It's Not Actually Broken (Most of the Time)
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 I've spent more hours staring at the blinking error codes on a Taylor soft-serve machine than I care to admit. When a customer rolls their eyes because they can't get a McFlurry at 11 PM, they think the crew is avoiding work. But the truth about why you can't get your ice cream is far more complicated—and infinitely more frustrating for the crew behind the counter.
 
@@ -52,7 +48,7 @@ This is what's inside:
 
 The air incorporation is critical. Soft-serve is typically 30–60% air by volume — this is called **overrun**. Without the right amount of air, the product would be too dense and icy. Too much air and it would be foamy and melt instantly.
 
-![McDonald](../../assets/images/general/generic-walk-in-2.webp)
+![McDonald's](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Heat Cycle: Why the Machine Locks Itself
 
@@ -69,7 +65,7 @@ To handle this, the machine runs an automated **heat pasteurization cycle**, typ
 
 **During this entire cycle, the machine cannot dispense product.** The control panel locks out the dispensing function. If a crew member tries to override it, the machine throws an error.
 
-![McDonald](../../assets/images/general/generic-drive-thru-3.webp)
+![McDonald's](../../assets/images/general/generic-drive-thru-3.webp)
 
 ### When Things Go Wrong
 
@@ -150,7 +146,6 @@ Next time a McDonald's crew member tells you the ice cream machine is broken, th
 - **10% of the time**: The machine is actually broken and waiting for a Taylor technician
 
 The ice cream itself, when you can get it, is exactly the same product it's been for decades — a simple vanilla soft-serve that is objectively unremarkable but somehow tastes better when you had to check three locations to find a working machine.
-
 
 ### See Also
 

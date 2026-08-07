@@ -10,8 +10,9 @@ chain: Starbucks
 topic: Coffee
 disclaimerType: food_safety
 relatedArticles:
-- starbucks-morning-rush
-- starbucks-customer-support-cycle
+  - starbucks-cold-bar-frappuccino
+  - starbucks-tiktok-hacks-debunked
+  - starbucks-pump-ratios-memorize
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
 - question: Why do baristas pull shots into those tiny shot glasses instead of directly
@@ -37,10 +38,6 @@ But the real magic of the Mastrena II happens behind the digital screen. On the 
 <div class="callout callout-tip">**ProTip:** The machine relies on consistent gravity pressure to feed the grinders. Keeping hoppers full helps the machine maintain a consistent grind and reduces the frequency of "powder quantity" errors.</div>
 
 ## The 18 to 23 Second Rule
-
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
 
 Pulling espresso is entirely about extraction time. If water pushes through the espresso grounds too fast, the coffee is under-extracted—it tastes sour and thin. If it pushes through too slowly, the coffee is over-extracted—it tastes burnt, bitter, and harsh. 
 

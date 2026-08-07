@@ -1,8 +1,6 @@
 ---
 title: 'Taco Bell Baja Blast: The PepsiCo Partnership'
-description: Baja Blast is a Mountain Dew flavor made exclusively for Taco Bell. This
-  article explores the history of the partnership and why it stays off shelves at
-  other chains.
+description: "Baja Blast is a Mountain Dew flavor made exclusively for Taco Bell. This article explores the history of the partnership and why it stays off shelves at..."
 pubDate: '2025-03-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
-- taco-bell-menu
-- taco-bell-linebacker-role
-- taco-bell-rehydrate-beans
+  - taco-bell-rehydrate-beans
+  - taco-bell-chalupa-shell
+  - taco-bell-drive-thru-timer
 faq:
 - question: Why does Baja Blast sometimes taste watered down?
   answer: A watered-down taste usually means the bag-in-box (BIB) syrup is running
@@ -25,20 +23,11 @@ heroImage: ../../assets/images/general/generic-pos.webp
 ---
 ## Why is Baja Blast Only at Taco Bell? (The Exclusive Deal)
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-
 There are roughly two dozen fountain drink options across all of fast food, and none of them generate the kind of fanatical devotion that Baja Blast does. This tropical lime Mountain Dew variant, with its unmistakable teal color, is the single most requested drink at every Taco Bell I have ever worked at or visited. And the question I heard more than any other — more than “is the ice cream machine working” at McDonald's, more than “can I get extra sauce” — was this: “Why can't I buy Baja Blast anywhere else?” The answer involves a carefully structured exclusivity deal between Taco Bell and PepsiCo, some very deliberate flavor science, and a scarcity strategy that turns a fountain drink into something people genuinely lose sleep over. 
 
 ## The PepsiCo Partnership: Built From Scratch for Taco Bell
 
 ![Taco Bell Baja Blast The PepsiCo Partnership](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 Baja Blast was not an existing Mountain Dew flavor that Taco Bell licensed for its fountains. It was co-developed from the ground up by Taco Bell and PepsiCo's beverage R&D team specifically for [the Taco Bell](/articles/taco-bell-linebacker-role) restaurant experience. The collaboration launched in 2004, and the flavor profile was engineered with a specific goal: create a drink that pairs with Taco Bell's food better than standard Mountain Dew, Pepsi, or any other existing option. 
 

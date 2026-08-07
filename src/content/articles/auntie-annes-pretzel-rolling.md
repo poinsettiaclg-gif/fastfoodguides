@@ -10,9 +10,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Auntie Anne's
 topic: Operations
 relatedArticles:
-- krispy-kreme-hot-light
-- subway-bread-baking-process
-- first-day-fast-food-what-to-expect
+  - chipotle-grill-validation
+  - wendys-drive-thru-timer
+  - wingstop-frying-process
 faq:
 - question: Why are Auntie Anne's pretzels dipped in baking soda water?
   answer: Dipping raw dough into an alkaline solution of warm water and sodium bicarbonate
@@ -30,13 +30,7 @@ Unlike competitors who rely on frozen, pre-shaped dough pucks reheated in rapid 
 
 ## 1. The Scratch Dough Prep: Precision Chemistry
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-![The Auntie Anne](../../assets/images/general/generic-drive-thru.webp)
-
-
+![The Auntie Anne's](../../assets/images/general/generic-drive-thru.webp)
 
 The foundation of the entire store begins at 6:00 AM, hours before the mall gates open to the public. The designated opening baker (known internally as the "Mixer") must prepare the master dough batches for the day's projected sales volume.
 

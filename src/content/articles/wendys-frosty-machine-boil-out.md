@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Wendy's
 topic: Burgers
 relatedArticles:
-- wendys-closing-duties
-- wendys-clamshell-grill
-- dairy-queen-blizzard-flip
+  - wendys-first-day-training
+  - wendys-chili-leftover-hamburgers
+  - wendys-4-corner-press
 heroImage: ../../assets/images/general/generic-grill.webp
 faq:
 - question: Does every Wendy's do a full boil-out every single night?
@@ -28,17 +28,13 @@ It's called the Boil-Out. And by the time you're done, you'll understand why.
 
 ## Why the Boil-Out Is Non-Negotiable
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 The Frosty machine dispenses a dairy-based product that is continuously churned and frozen inside sealed metal cylinders. Dairy residue is one of the most aggressive bacterial breeding grounds in food service. Even trace amounts of old Frosty mix left in contact with the internal components overnight will sour, creating both a health hazard and a foul taste that contaminates every single Frosty served the next day. 
 
 I've worked in stores where a new closer did a rushed, half-hearted cleaning on a Friday night. Saturday morning, the first customer's Frosty tasted like sour milk. We had to dump the entire hopper, re-clean the machine from scratch, and lose an hour of Frosty sales during the lunch rush. That one sloppy close cost the store hundreds of dollars and earned the closer a conversation with the GM they didn't enjoy. 
 
 The boil-out strips the machine of all dairy residue, sanitizes every surface that contacts the product, and ensures the morning crew is pouring fresh Frosty mix into an immaculately clean system.
 
-## Step 1: The Drain and Flush
+## 1. The Drain and Flush
 
 Before you can touch the machine's internals, you need to empty it completely.
 
@@ -46,10 +42,9 @@ Pull the massive levers and drain all remaining liquid Frosty mix into clean, sa
 
 Once the machine is empty, pour buckets of warm water into the top hoppers and pull the levers again, flushing the freezing cylinders until the water runs completely clear. This usually takes two to three full cycles. The first flush comes out thick and milky—that's residual mix clinging to the cylinder walls and the auger. The second flush will be thinner with a slight cloudy tint. By the third, the water should be crystal clear. If it's still cloudy after three cycles, keep flushing. Do not move to the teardown until the water is clean. Cutting this corner means you'll be scrubbing dairy film off the internals for twice as long.
 
-## Step 2: The Mechanical Teardown
+## 2. The Mechanical Teardown
 
-![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-prep.webp)
 
 This is the part that intimidates every new hire, and honestly, it should. The Frosty machine is not a simple countertop appliance—it's a precision freezing system with heavy metal components.
 
@@ -63,7 +58,7 @@ Lay every part out on a clean towel in the exact order you removed them. This ma
 
 <div class="callout callout-tip">**ProTip:** Always layout the machine parts, especially the O-rings, on a clean towel in the exact order you removed them. Losing a single 50-cent O-ring can keep the machine offline the entire next morning.</div>
 
-## Step 3: The Scrub and Sanitizer Soak
+## 3. The Scrub and Sanitizer Soak
 
 Take every removable component to the back sink. Scrub each piece with a brush and warm, soapy water to remove all visible dairy residue. Pay special attention to the auger's scraper blade edges—milk film hides in the crevices where the blades attach to the shaft.
 
@@ -71,10 +66,9 @@ After scrubbing, submerge all parts in a sanitizer solution for the required con
 
 Each O-ring must be individually removed from its groove, inspected under good lighting, and scrubbed clean. Hold each ring up and flex it gently. You're looking for hairline cracks, surface nicks, flattened areas where the rubber has become stiff, or any deformation that would compromise the seal. A cracked O-ring that looks "fine" at 11:00 PM becomes a puddle of Frosty mix on the floor at 10:00 AM. A 50-cent replacement O-ring is infinitely cheaper than five gallons of wasted mix and a ruined morning rush.
 
-## Step 4: Reassembly and the Lube
+## 4. Reassembly and the Lube
 
-![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 This is where new employees always, always mess up. When putting the machine back together, you cannot just slide the metal auger back in and bolt the faceplate on. Every single rubber O-ring and the drive shaft must be coated with food-grade lubricant—typically Petrol-Gel or an equivalent NSF-certified product.
 
@@ -84,7 +78,7 @@ Squeeze a generous bead of lubricant onto your gloved finger and coat the entire
 
 A dry O-ring will catch on the groove, twist out of position, and potentially tear. And this is the real problem: your store may or may not have replacement O-rings in stock. If a ring tears at 11:30 PM and there is no spare, the Frosty machine is offline until a replacement arrives—which might mean no Frosties for Saturday morning. I witnessed this happen more times than I want to admit, and it's always because someone thought they could skip the lube step "just this once."
 
-## Step 5: The Test Run
+## 5. The Test Run
 
 After reassembly, run a test cycle. Pour clean water into the hopper and run the machine for 60 seconds. Watch every joint, every seal, every point where the faceplate meets the machine body. If water drips or seeps from anywhere, you need to disassemble that section, check the O-ring, re-lubricate, and try again.
 

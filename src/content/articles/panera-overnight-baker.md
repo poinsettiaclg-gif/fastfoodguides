@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panera Bread
 topic: Other Chains
 relatedArticles:
-- panera-bread-consolidator-role
+  - panera-bread-consolidator-role
+  - sweetgreen-mixing-station
+  - sweetgreen-morning-prep
 faq:
 - question: Do overnight bakers get paid more than daytime employees?
   answer: Yes, most Panera locations offer a shift differential for overnight bakers,
@@ -24,15 +26,7 @@ The Panera Overnight Baker was one of the most unique jobs in the entire fast-ca
 
 ## The Hours and the Solo Shift
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 The typical Panera Baker shift starts between 9:00 PM and 10:00 PM and ends between 5:00 AM and 6:00 AM, just as the opening managers arrive to unlock the front doors. In nearly every cafe, you work entirely alone. You are locked inside the building by yourself for 8 hours straight. 
-
-
-
-
 
 For introverts who love podcasts, audiobooks, or simply their own thoughts, it is genuinely a dream job. I've talked to bakers who described it as the best position they've ever held in food service — no customer complaints, no rush anxiety, no coworker drama. Just you, the dough, and eight hours of focused work. For people who need social interaction to stay motivated and awake, it is an absolute nightmare that leads to burnout within weeks.
 
@@ -43,7 +37,6 @@ This is similar in spirit to the [Hardee's biscuit maker shift](/articles/hardee
 ## The Baker's Timeline
 
 ![Panera Overnight Baker The 4 AM Bread Shift](../../assets/images/general/generic-prep.webp)
-
 
 You are not mixing flour and yeast from scratch. The dough is mixed at a massive regional Fresh Dough Facility (FDF) and delivered to the cafe daily in sealed trays. Your job is to proof, score, and bake it perfectly on a very strict timeline — and that timeline has almost zero margin for error.
 
@@ -57,7 +50,6 @@ Each of these windows is tight, and falling behind on one step creates a cascadi
 ## The Scoring Technique
 
 ![Panera Overnight Baker The 4 AM Bread Shift](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Scoring bread is one of the most satisfying parts of the job, but it's also one of the trickiest skills to master. Each bread variety has a specific scoring pattern that must be replicated consistently across every single loaf. A sourdough round gets a deep cross-hatch pattern. A baguette gets diagonal slashes. A country loaf gets a single long score down the center.
 

@@ -18,8 +18,9 @@ faq:
     about two weeks in the refrigerator. At the restaurant, it is made fresh every
     single day.
 relatedArticles:
-- raising-canes-bird-specialist
-- mcdonalds-fry-station
+  - raising-canes-bird-specialist
+  - kfc-original-vs-extra-crispy
+  - buffalo-wild-wings-sauce-tossing
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 Every Raising Cane's location goes through an absurd amount of Cane's Sauce. We're talking five-gallon batches, multiple times per day, at a busy store. And unlike most fast food dipping sauces that arrive in pre-sealed packets from a factory, Cane's Sauce is made in-house at every single location, every single day. 
@@ -30,19 +31,9 @@ I spent time working alongside Cane's employees during a consulting stint, and w
 
 ## The Ingredients Are Not a Secret
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Raising Cane](../../assets/images/general/generic-coffee.webp)
 
-
-
 Cane's has never officially published their sauce recipe, but the ingredients have been widely confirmed by employees, food scientists, and the company's own ingredient disclosures. The base components are:
-
-
-
-
 
 - **Mayonnaise** — the primary base, gives the sauce its creamy body
 - **Ketchup** — adds sweetness, acidity, and that distinctive pinkish color
@@ -128,7 +119,6 @@ Cane's Sauce is five simple ingredients mixed by hand every day in every store. 
 If you want to make it at home, go heavy on the mayo, light on the ketchup, careful with the Worcestershire, and let it rest in the fridge. You'll get close. But you probably won't stop going to Cane's, because part of what you're paying for is the experience of eating it fresh with their chicken.
 
 What's your take on Cane's Sauce — is it really that special, or is it just fancy fry sauce? Drop your thoughts in the comments.
-
 
 ### See Also
 

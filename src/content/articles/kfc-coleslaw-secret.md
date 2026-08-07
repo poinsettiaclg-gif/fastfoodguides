@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: KFC
 topic: Chicken
 relatedArticles:
-- kfc-original-vs-extra-crispy
-- kfc-pressure-fryers
+  - kfc-gravy-crackling-process
+  - kfc-pressure-fryers
+  - kfc-original-vs-extra-crispy
 faq:
 - question: Why is KFC coleslaw chopped so finely?
   answer: The 'rice-sized' confetti chop increases surface area, allowing the proprietary
@@ -25,15 +26,7 @@ One operational reality often surprises new KFC hires: the coleslaw you serve at
 
 ## The Fine Chop: Why Confetti, Not Shreds
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![The Secret to KFC Coleslaw Why It Sits Overnight](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 If you've ever made coleslaw at home, you probably ran a head of cabbage across a mandoline or sliced it into long, thin strips. KFC does the exact opposite. The raw cabbage, carrots, and onions get dumped into a commercial vertical cutter mixer—basically an industrial food processor with blades the size of your forearm—and chopped into tiny, confetti-like pieces in a matter of seconds. 
 
@@ -56,7 +49,6 @@ The reality is veterans know the correct ratio by sight and feel. Every piece of
 ## The Mandatory 12-Hour Maceration
 
 ![The Secret to KFC Coleslaw Why It Sits Overnight](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 This is the step that makes KFC coleslaw fundamentally different from anything you'd make at home. KFC has a strict corporate policy: freshly mixed coleslaw must sit in the walk-in refrigerator for a minimum of 12 hours—preferably overnight—before a single spoonful can be served to a customer.
 

@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
-- chick-fil-a-breading-process
-- chick-fil-a-ipos-system
+  - chick-fil-a-peanut-oil-filtration
+  - chick-fil-a-core-4
+  - chick-fil-a-ipos-system
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: Does Chick-fil-A squeeze lemons in the store?
@@ -23,15 +24,7 @@ faq:
 ---
 ## Yes, They Actually Squeeze Real Lemons
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 This isn't marketing spin. Chick-fil-A's lemonade is made from **real lemons, squeezed in the restaurant, every single morning**. There is no concentrate. There is no pre-made mix shipped from a warehouse. A team member stands at a prep station and juices whole lemons before the restaurant opens. 
-
-
-
-
 
 In an industry where nearly every drink comes from a syrup bag connected to a fountain machine, Chick-fil-A's lemonade is a genuine anomaly. It costs them significantly more in labor and ingredients than a fountain drink, it creates a daily prep obligation that never stops, and it's one of the primary reasons their lemonade tastes different from every other fast food lemonade on the market. 
 
@@ -39,7 +32,7 @@ In an industry where nearly every drink comes from a syrup bag connected to a fo
 
 The lemonade prep happens every morning before the restaurant opens, typically between **6:00 and 9:00 AM** depending on the location. This is the full process: 
 
-### Step 1: Wash and Cut the Lemons
+### 1. Wash and Cut the Lemons
 
 The prep team receives cases of **whole Sunkist lemons** from the produce delivery. Each lemon is washed and then **cut in half by hand** on a cutting board. A typical location will cut **30 to 50 lemons per batch**, depending on projected sales volume for the day.
 
@@ -47,7 +40,7 @@ High-volume locations — particularly drive-thru-heavy stores in the Southeast 
 
 <div class="callout callout-tip">**ProTip:** Because hand-juicing hundreds of lemons caused repetitive stress issues and major prep bottlenecks, Chick-fil-A recently opened Bay Center Foods. This centralized facility uses high-pressure processing (HPP) to extract juice and ships it fresh in sealed bags to many stores, bypassing the in-store juicing step entirely.</div>
 
-### Step 2: Juice on the Commercial Juicer
+### 2. Juice on the Commercial Juicer
 
 The halved lemons go into a **commercial citrus juicer** — most locations use a Sunkist or similar commercial-grade reamer-style juicer. This is not a hand-press or a manual squeezer. It's an electric unit with a rotating reamer that extracts juice quickly while separating seeds and excess pulp.
 
@@ -55,7 +48,7 @@ The juicing process produces approximately **3 gallons of fresh lemon juice** fr
 
 ![Chick-fil-A Lemonade Made Fresh Every Day](../../assets/images/general/generic-prep.webp)
 
-### Step 3: Make the Simple Syrup
+### 3. Make the Simple Syrup
 
 The sweetener in Chick-fil-A's lemonade is **simple syrup** — a mixture of pure cane sugar dissolved in water. This is made in-house by combining measured amounts of sugar and warm water in a container and stirring until fully dissolved.
 
@@ -63,7 +56,7 @@ The ratio is specific and standardized across all locations. Chick-fil-A's recip
 
 <div class="callout callout-tip">**ProTip:** Proper mixing is a critical bottleneck. For a standard 11-quart batch, staff must vigorously stir in three pounds of cane sugar. If the sugar isn't fully dissolved, it settles at the bottom of the Cambro, leaving the top half of the batch sour and the bottom half overly sweet.</div>
 
-### Step 4: Combine in the Cambro
+### 4. Combine in the Cambro
 
 The fresh lemon juice and simple syrup are combined in a **large Cambro container** (a food-grade plastic cambro, typically 5 gallons) with filtered water. The ratio is:
 

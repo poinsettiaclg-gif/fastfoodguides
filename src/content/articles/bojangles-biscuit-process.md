@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Bojangles
 topic: Chicken
 relatedArticles:
-- hardees-biscuit-maker-shift
-- chick-fil-a-breading-process
+  - kfc-pressure-fryers
+  - mcdonalds-nugget-process
+  - chick-fil-a-peanut-oil-filtration
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: How many steps are in the Bojangles biscuit process?
@@ -23,15 +24,7 @@ faq:
 ---
 ## The Hardest Job in the Kitchen
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 Every fast-food restaurant has a position nobody wants during a rush. The fry station when tickets are stacking. The drive-through window when the headset is cutting out. But at Bojangles, there is one role that stands above everything else for its difficulty, pressure, and pure physical output: the Biscuit Maker.
-
-
-
-
 
 This isn't a glorified "pop the tray in the oven" gig. The Biscuit Maker is responsible for producing every single biscuit from scratch — flour, shortening, buttermilk, hands, oven — on a rolling cycle that never stops from the moment they clock in until the breakfast window closes. There are no frozen pucks. No par-baked shortcuts. If the Biscuit Maker doesn't show up, the store basically doesn't open.
 

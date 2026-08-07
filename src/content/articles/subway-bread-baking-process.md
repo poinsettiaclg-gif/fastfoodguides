@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
-- subway-bain-fill-line-rule
-- subway-wrap-folding
-- subway-pos-out-of-order
+  - subway-meat-slicer-rollout
+  - subway-tuna
+  - subway-bain-fill-line-rule
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
 - question: Why does Subway bread smell so strong?
@@ -27,19 +27,11 @@ Subway's retarder and proofer cabinets are the most important pieces of equipmen
 
 ## The Dough Arrives Frozen (And That Is Not a Secret)
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 Subway employees are not artisan bakers mixing flour and yeast in the back room at 5 AM. The dough arrives at the store completely raw, formed into long, thin sticks, and frozen rock-solid in massive cardboard boxes stacked on pallets. (The dough formulation has evolved over the years, most one thing that stands out: when Subway removed azodicarbonamide—the infamous ["azodicarbonamide, a commercial dough conditioner"](https://www.npr.org/sections/thesalt/2014/02/06/272421379/subway-says-it-will-remove-yoga-mat-chemical-from-its-bread)—from their recipe). Each box contains dozens of individually wrapped dough sticks, separated by bread type—Italian, Wheat, Italian Herbs & Cheese, and whatever specialty bread corporate is pushing that quarter. 
-
-
-
-
 
 The frozen dough sticks look nothing like bread. They are pale, rigid, and roughly the length of a ruler. First-time employees always ask, "That's going to turn into a sub roll?" Yes. Through a process that is surprisingly easy to mess up, those skinny frozen sticks transform into the puffy loaves you recognize. 
 
-### Step 1: The Retarder (The Night Before)
+### 1. The Retarder (The Night Before)
 
 The bread timeline starts the night before service. The closing crew is responsible for pulling the correct number of frozen dough sticks out of the boxes, laying them on silicone baking forms (called bread molds), and placing them into the retarder—a specialized temperature-controlled refrigerator that holds between 36°F and 38°F.
 
@@ -49,10 +41,9 @@ Most rookies stack the bread molds too close together inside the retarder, block
 
 <div class="callout callout-tip">**ProTip:** If the retarder temperature runs too warm (even a few degrees above 38°F), the yeast activates early overnight. You will arrive to bloated, ruined dough that has to be thrown away, setting morning prep back by two hours.</div>
 
-### Step 2: The Proofer (The Morning Of)
+### 2. The Proofer (The Morning Of)
 
 ![The Subway Bread Baking Process Why It Smells Like That](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 When the opener arrives—usually around 6:30 or 7:00 AM—the thawed dough goes directly into the proofer, a heated, high-humidity cabinet that looks like a tall metal closet with racks. The proofer runs at roughly 95°F to 100°F with about 80% humidity. The heat and moisture wake the yeast up, and the thin dough sticks begin to expand into puffy sub rolls.
 
@@ -64,10 +55,9 @@ The test is simple: gently press the surface of the dough with one finger. If it
 
 <div class="callout callout-tip">**ProTip:** Optimal proofer settings are usually around 100°F with 80% humidity. If you see the dough getting "soupy" or collapsing before baking, it means the humidity was set too high or the proofer nozzles are failing to regulate moisture.</div>
 
-### Step 3: Scoring, Seasoning, and Baking
+### 3. Scoring, Seasoning, and Baking
 
 ![The Subway Bread Baking Process Why It Smells Like That](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Before the proofed dough goes into the oven, the Sandwich Artist preps each loaf:
 

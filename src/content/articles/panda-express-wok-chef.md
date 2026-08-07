@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panda Express
 topic: Other Chains
 relatedArticles:
-- panda-express-leftover-food
-- chipotle-grill-validation
+  - panda-express-steam-table-calling
+  - panda-express-leftover-food
+  - cava-digital-make-line
 faq:
 - question: How long does it take to pass the Wok Test?
   answer: Most green crew members spend one to three weeks training on the wok before
@@ -31,15 +32,7 @@ I've trained people across multiple chains, and no exaggeration — honestly —
 
 ## The Heat and the Fire
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![How Dangerous is the Wok Chef Job at Panda Express?](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 Most fast-food restaurants use enclosed deep fryers with automatic basket lifts, or computerized flat-top grills that beep when they're done. Panda Express uses traditional Chinese wok burners that pump out massive BTU output—a setup [QSR Magazine](https://www.qsrmagazine.com/) notes is a rarity in modern fast-casual chains—often reaching 600°F or higher inside the wok bowl. The flames don't stay politely beneath the pan — they literally shoot up around the sides, licking at your forearms if you're not careful. 
 
@@ -58,7 +51,6 @@ The environment around the wok station is brutal year-round, but summer is a spe
 ## The Physical Toll of the Wok
 
 ![How Dangerous is the Wok Chef Job at Panda Express?](../../assets/images/general/generic-walk-in-2.webp)
-
 
 A standard commercial wok at Panda Express, when fully loaded with 8 pounds of battered chicken swimming in thick orange sauce, is incredibly heavy. And you can't just stir it with a ladle and call it done.
 
@@ -97,5 +89,4 @@ The [Jersey Mike's hot sub grill station](/articles/jersey-mikes-hot-sub-grill) 
 - **Invest in heat-resistant forearm sleeves.** Not all stores require them, but wearing long cotton or heat-resistant sleeves under your uniform dramatically reduces minor grease burns. Some experienced Wok Chefs buy inexpensive welding sleeves online — they're $8 on Amazon — and trim them to fit under their uniform.
 - **Develop a consistent wok-cleaning rhythm.** The fastest Wok Chefs don't think about cleaning — they do it on autopilot. The moment you dump a finished batch into the steam table pan, you immediately hit the wok with the bamboo brush and boiling water. Making this a reflex instead of a conscious decision shaves seconds off every batch and keeps your station significantly cleaner.
 - **Stretch your wrists and forearms before every shift.** Simple wrist circles, forearm stretches, and grip exercises before you clock in make a real difference in preventing chronic pain. I recommend five minutes of stretching in the parking lot before every shift. Your future self will thank you.
-
 

@@ -1,7 +1,6 @@
 ---
 title: The Secret to Rolling a Massive Double-Meat Chipotle Burrito
-description: Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required
-  to safely wrap a massive, over-stuffed Chipotle burrito without breaking the tortilla.
+description: "Master the U-Shape, the Pinch, and the Tuck-and-Roll techniques required to safely wrap a massive, over-stuffed Chipotle burrito without breaking the..."
 pubDate: '2025-01-02'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -9,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
-- chipotle-fajita-veggie-cut
-- chipotle-grill-validation
-- subway-wrap-folding
+  - chipotle-grill-validation
+  - chipotle-makeline-training
+  - chipotle-guacamole
 faq:
 - question: What is the most common reason a burrito tears during the roll?
   answer: A cold tortilla. If the tortilla was not properly warmed on the press, it
@@ -25,17 +24,9 @@ If you have ever ordered a burrito at Chipotle with double chicken, extra white 
 
 Rolling a burrito of that magnitude without it splitting open is genuinely an art form. I witnessed line workers with years of experience pause for a half-second and take a breath before attempting a monster order like that. And Over the years, first-timers watch in horror as guacamole explodes out the side of a tortilla in front of a full line of customers. This is the technique that separates the pros from the casualties. 
 
-## Step 1: The U-Shape Placement
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
+## 1. The U-Shape Placement
 
 ![The Secret to Rolling a Massive Double-Meat Chipotle Burrito](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 The roll actually starts before you even touch the tortilla edges. When you're adding ingredients, do not pile them into a massive mountain in the dead center. That's the instinct, and it's wrong. 
 
@@ -49,10 +40,9 @@ The order you layer ingredients matters enormously for structural integrity. Hea
 
 First-timers on the line tend to dump hot salsa directly onto the center of the tortilla, then pile everything on top. By the time they go to roll, there is a translucent wet spot in the middle of the flour tortilla that might as well be a hole. The burrito was dead before they even touched it.
 
-## Step 2: The Stretch and Tuck
+## 2. The Stretch and Tuck
 
 ![The Secret to Rolling a Massive Double-Meat Chipotle Burrito](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is where burritos live or die. Do not try to fold it like a Christmas present. The Chipotle roll is a specific four-part motion:
 
@@ -68,7 +58,7 @@ The pull-back step is where most new employees fail. They are terrified to apply
 
 Commit to the pull-back. It feels aggressive. It's supposed to.
 
-## Step 3: The Foil Wrap
+## 3. The Foil Wrap
 
 The aluminum foil is not decorative. It provides genuine structural integrity, and if the tortilla suffered a micro-tear during the roll, the foil is what saves the entire burrito from disintegrating in the customer's hands.
 
@@ -87,7 +77,5 @@ The tortilla press matters here, too. A few extra seconds on the press is the si
 One more thing: wipe down your rolling surface between burritos. Residual salsa, sour cream, or queso from the previous roll makes the foil and tortilla slide instead of grip, making it nearly impossible to achieve the tight roll you need. A clean, dry surface gives you traction. Traction gives you control.
 
 For more on the prep side of Chipotle operations, check out [The Strict Science of the Chipotle Fajita Veggie Cut](/articles/chipotle-fajita-veggie-cut) and [What Actually Happens During Grill Validation](/articles/chipotle-grill-validation). And if you're curious how other chains handle their own wrapping challenges, [Subway's Wrap Folding Technique](/articles/subway-wrap-folding) is a completely different beast.
-
-
 
 ---

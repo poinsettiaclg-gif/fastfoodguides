@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: KFC
 topic: Chicken
 relatedArticles:
-- kfc-coleslaw-secret
-- kfc-pressure-fryers
-- popeyes-chicken-battering-process
+  - kfc-pressure-fryers
+  - kfc-gravy-crackling-process
+  - kfc-coleslaw-secret
 faq:
 - question: Can you pressure-fry the Extra Crispy chicken?
   answer: No, pressure frying the double-breaded Extra Crispy would cause the thick
@@ -27,15 +27,7 @@ I can't count the number of times a customer has asked me, "So Extra Crispy is j
 
 ## Original Recipe: The Pressure Fryer
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![KFC Original vs. Extra Crispy How They Differ](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Original Recipe is the flagship. The Colonel's legacy product. And it's cooked in a machine that most home cooks have never seen: a Collectramatic Pressure Fryer. 
 
@@ -50,7 +42,6 @@ This is the operational reality that training glosses over: once that lid locks,
 ## Extra Crispy: The Open Fryer and the Double Dip
 
 ![KFC Original vs. Extra Crispy How They Differ](../../assets/images/general/generic-prep.webp)
-
 
 Extra Crispy is engineered for maximum crunch, and the process starts at the breading station with a technique called the Double Dip.
 

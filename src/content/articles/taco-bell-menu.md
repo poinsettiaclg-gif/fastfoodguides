@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
-- taco-bell-linebacker-role
+  - taco-bell-rehydrate-beans
+  - taco-bell-chalupa-shell
+  - taco-bell-steamer-melter
 faq:
 - question: How long does it take to learn the Taco Bell menu?
   answer: Most first-timers can comfortably handle the core menu items within two
@@ -26,15 +28,7 @@ Taco Bell's menu looks massive. There are dozens of burritos, tacos, chalupas, c
 
 ## Stop Memorizing Items—Start Memorizing "Bases"
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 The biggest mistake trainees make is trying to memorize every single item as if it is a completely unique recipe. It is not. Almost everything on [the Taco Bell](/articles/taco-bell-linebacker-role) menu is a variation of a handful of base builds. Learn the bases, and learning a new item becomes a matter of spotting which base it uses and what small modifications are made. 
-
-
-
-
 
 - **The Supreme Base:** Whenever an item says "Supreme"—Taco Supreme, Chalupa Supreme—it almost always means you take the standard build and add sour cream and diced tomatoes. That is it. Two extra ingredients.
 - **The Burrito Base:** Most standard burritos start with a flour tortilla, a scoop of beans, a scoop of beef, or both. The differentiator is the sauce and one or two unique toppings.
@@ -47,7 +41,6 @@ Take the Cheesy Gordita Crunch. It sounds complicated. But it is just the standa
 ## The Portion Control System: Scoops Over Ounces
 
 ![How to Memorize the Taco Bell Menu Build Cards Fast](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Taco Bell relies heavily on strict portion control, and the system is designed to be intuitive once you understand the tools:
 
@@ -62,7 +55,6 @@ The root cause: If you add an extra half-scoop of beef to 200 burritos in a day,
 ## The Crunchwrap Supreme Cheat Code
 
 ![How to Memorize the Taco Bell Menu Build Cards Fast](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 The Crunchwrap is the item that intimidates green crew members the most, not because the ingredients are complicated but because of the fold. This is the exact build order:
 

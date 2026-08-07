@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
-- in-n-out-level-system
-- in-n-out-board-station
+  - in-n-out-level-system
+  - in-n-out-board-station
+  - in-n-out-animal-style-fries
 faq:
 - question: Is the Secret Menu officially recognized by In-N-Out?
   answer: In-N-Out doesn't advertise the Secret Menu on menu boards, but the company
@@ -29,15 +30,7 @@ Before your first register shift, you should know: customers almost never order 
 
 ## The POS System Is Built for Speed
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 ![How to Memorize the In-N-Out POS System and Secret Menu](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 The good news is that the Secret Menu isn't actually a secret to the Point of Sale computer. The most popular modifications have their own dedicated buttons on the touchscreen, so you're not manually typing instructions to the kitchen. 
 
@@ -76,7 +69,6 @@ One area that consistently trips up new Associates is the transition from the fo
 
 ![How to Memorize the In-N-Out POS System and Secret Menu](../../assets/images/general/generic-walk-in-2.webp)
 
-
 Understanding the kitchen side of the POS makes you a better order taker. When you send an order, the kitchen display shows shorthand codes: "DD AS MF" means Double-Double Animal Style Mustard Fried. "HB PS" means Hamburger Protein Style. Learning these abbreviations helps you troubleshoot when a cook asks you to clarify an order—and it happens more often than you'd think, especially with stacked modifiers on a single item.
 
 The best advice I can give any new hire: don't panic when someone orders a "3-by-3 Protein Style, Mustard Fried, with Chopped Chilies." Just take it one word at a time. The POS interface is literally built to read the way the customer speaks. Punch it in sequentially, confirm it back, and send it.
@@ -84,3 +76,8 @@ The best advice I can give any new hire: don't panic when someone orders a "3-by
 <div class="callout callout-tip">**ProTip:** If a customer orders using a term you don't recognize from a viral video, calmly ask them to describe the ingredients. Nine times out of ten, it's just a combination of existing modifiers you can build manually in the POS.</div>
 
 
+## POS Entry for Secret Items
+
+One of the most impressive aspects of In-N-Out's operations is how their Point of Sale (POS) system handles the Secret Menu. Unlike other chains where cashiers have to use a generic "Ask Me" button or type out long manual instructions for the kitchen, the In-N-Out POS is highly optimized for these off-menu modifications. 
+
+There are dedicated, hard-coded buttons for "Animal Style," "Protein Style," and even the exact cheese and meat ratios (like a 3x3 or a 4x4). This reduces the cognitive load on the cashier and ensures the kitchen gets a perfectly standardized ticket every single time. It completely eliminates the communication errors that plague other QSRs when dealing with highly customized orders. When the ticket prints at the board station, the cooks know exactly what to do without ever needing to ask the cashier for clarification.

@@ -10,9 +10,9 @@ chain: Sweetgreen
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- sweetgreen-mixing-station
-- cava-assembly-line
-- chipotle-guacamole
+  - sweetgreen-mixing-station
+  - panda-express-wok-chef
+  - chick-fil-a-waffle-fry-station
 faq:
 - question: Do they really chop all the vegetables by hand every morning?
   answer: While some delicate items are hand-prepped, the bulk of heavy dicing is
@@ -31,18 +31,9 @@ If you want to understand what makes a high-volume scratch kitchen tick, you hav
 
 ## 6:00 AM: The Arrival and The Assessment
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Sweetgreen Morning Prep What Happens Before Open](../../assets/images/general/generic-prep.webp)
 
-
 The shift begins before the sun is fully up. When the prep team unlocks the back door at 6:00 AM, the first order of business isn't making coffee—it's assessing the walk-in cooler. In a traditional fast-food environment, your inventory arrives frozen in standardized cardboard boxes. A fry is a fry. But at a place like Sweetgreen, your inventory is alive, perishable, and highly variable. 
-
-
-
-
 
 The kitchen manager or lead prep cook has to immediately evaluate the state of the produce that was delivered either late the previous night or in the pre-dawn hours. We're talking massive, heavy waxed boxes of kale, giant bags of shredded cabbage, earthy crates of sweet potatoes, and delicate flats of cherry tomatoes. 
 
@@ -76,7 +67,7 @@ Once the greens are washed, they have to be dried. Nobody wants a watery salad. 
 
 ## The Machine: The Robot Coupe Food Processor
 
-Let’s dispel a myth right now: nobody is standing in the back of a Sweetgreen meticulously julienning carrots by hand with a chef's knife. While knife skills are essential for certain delicate items, the sheer volume of dense vegetables requires heavy artillery. 
+Let’s dispel a myth right now: nobody is standing in the back of a Sweetgreen carefully julienning carrots by hand with a chef's knife. While knife skills are essential for certain delicate items, the sheer volume of dense vegetables requires heavy artillery. 
 
 Enter the Robot Coupe. 
 
@@ -98,7 +89,7 @@ Even with the mechanical assistance of the Robot Coupe, the morning prep shift i
 
 Every single one of those boxes has to be lifted, carried, unpacked, washed, processed, panned up, labeled, and stored. We are talking about moving thousands of pounds of weight over the course of a four-hour shift. 
 
-And then there are the items that *do* require hand prep. You can’t put a cherry tomato through a Robot Coupe unless you want tomato puree. Those have to be halved by hand. Apples for seasonal salads need to be carefully diced to avoid bruising. Avocados—the most fickle ingredient in any kitchen—must be meticulously halved, pitted, and sliced right before service to prevent oxidation. It’s a similar pressure to what you see with [Chipotle Guacamole: Made From Scratch Daily](/articles/chipotle-guacamole/)/)/)/) prep, where managing the browning of the avocado is a constant battle against time and oxygen.
+And then there are the items that *do* require hand prep. You can’t put a cherry tomato through a Robot Coupe unless you want tomato puree. Those have to be halved by hand. Apples for seasonal salads need to be carefully diced to avoid bruising. Avocados—the most fickle ingredient in any kitchen—must be carefully halved, pitted, and sliced right before service to prevent oxidation. It’s a similar pressure to what you see with [Chipotle Guacamole: Made From Scratch Daily](/articles/chipotle-guacamole/)/)/)/) prep, where managing the browning of the avocado is a constant battle against time and oxygen.
 
 The kitchen manager acts as a conductor during this time, calling out times and temperatures. "I need the roasted sweet potatoes in the oven by 8:15!" "What's the temp on that washed arugula?" "We are behind on cabbage, let's move!"
 

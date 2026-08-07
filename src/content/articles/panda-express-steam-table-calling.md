@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Panda Express
 topic: Operations
 relatedArticles:
-- panda-express-wok-chef
-- panda-express-leftover-food
+  - panda-express-wok-chef
+  - panda-express-leftover-food
+  - taco-bell-rethermalizer-90-minute-bag-drop-cycle
 faq:
 - question: Do they ever use timers for the food?
   answer: While the callers dictate when to cook the food, Panda Express does use
@@ -33,10 +34,6 @@ This verbal loop is called "calling food," and it is the single most important o
 ![Panda Express Steam Table How ](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## The Problem with the KDS
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 Why doesn't Panda Express just use digital screens? The answer lies in their service model. Unlike a burger joint where every item is cooked to order, Panda Express relies on a steam table model. Food is cooked in bulk batches and held in heated pans on the serving line. 
 
@@ -83,3 +80,8 @@ A great caller anticipates the flow. They see the pan getting low, they see thre
 </div>
 
 
+## Handling Peak Rush Hours
+
+When the dinner rush hits at 6:00 PM, standard steam table calling goes out the window if the wok chefs aren't prepared. The traditional calling system relies on clear verbal communication ("Orange Chicken, half pan!"), but during a chaotic rush, the ambient noise in the kitchen can easily drown out the front-of-house staff. 
+
+To counteract this, seasoned managers implement visual cues and pre-emptive cooking protocols. Instead of waiting for a call, the wok chef will continuously fire the top three highest-selling items (Orange Chicken, Beijing Beef, and Chow Mein) in a rapid rotation. If the front line has to stop and wait three minutes for a fresh batch of fried rice, the entire drive-thru line backs up into the street. The calling system transitions from a reactionary request to a proactive rhythm, ensuring the steam table never drops below a quarter pan on the core items.

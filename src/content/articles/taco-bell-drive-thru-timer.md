@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
-- taco-bell-linebacker-role
-- taco-bell-menu
+  - taco-bell-linebacker-role
+  - taco-bell-grade-d-beef-myth
+  - taco-bell-rethermalizer-90-minute-bag-drop-cycle
 faq:
 - question: What is OTD in fast food drive-thrus?
   answer: OTD stands for Order to Delivery. It measures the total time from when a
@@ -26,15 +27,7 @@ This is the Drive-Thru Timer—officially called the OTD or "Order-to-Delivery" 
 
 ## The Sensors and the Zones
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 ![How Does the Taco Bell Drive-Thru Timer Actually Work?](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 The timer is not a single stopwatch. It is a multi-zone tracking system powered by magnetic induction loops—sensors physically buried under the asphalt in the drive-thru lane. When a car's metal frame passes over these loops, the sensor registers the vehicle's presence and triggers the timer for that zone. 
 
@@ -71,7 +64,6 @@ Then there are the problems nobody can control. **Ghost cars** happen when a sen
 ## The Daily Report and the Area Manager Visit
 
 ![How Does the Taco Bell Drive-Thru Timer Actually Work?](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Every morning, the General Manager reviews the previous day's drive-thru report. This report breaks down the average OTD time by hour, identifies the slowest and fastest periods, and flags any individual transactions that exceeded a threshold—usually anything over 3 minutes gets called out specifically.
 

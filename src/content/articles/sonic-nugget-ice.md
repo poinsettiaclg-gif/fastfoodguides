@@ -16,22 +16,14 @@ faq:
   answer: Yes, most Sonic locations will sell you a 10-pound bag of their famous nugget
     ice directly from the drive-thru or stall for a few dollars.
 relatedArticles:
-- sonic-switchboard-how-it-works
-- sonic-carhops-roller-skate
-- starbucks-secret-menu
+  - sonic-carhops-roller-skate
+  - sonic-switchboard-how-it-works
+  - buffalo-wild-wings-sauce-tossing
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 ## It's Not Regular Ice. It Never Was.
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 If you've ever ordered a drink from Sonic and thought the ice tasted different — softer, chewable, almost addictive — you weren't imagining things. **Sonic uses nugget ice**, also called pellet ice or "Sonic ice," and it is fundamentally different from the cube ice that every other major fast food chain uses. 
-
-
-
-
 
 Regular ice is made by freezing water in molds. The result is a dense, hard cube that melts slowly and doesn't absorb flavors. Nugget ice is made by a completely different process — one that produces a porous, layered, chewable pellet that absorbs the drink it's sitting in. That's why a Sonic Cherry Limeade tastes different from the first sip to the last. The ice itself is carrying flavor. 
 

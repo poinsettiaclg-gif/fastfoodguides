@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Popeyes
 topic: Chicken
 relatedArticles:
-- popeyes-chicken-battering-process
-- mcdonalds-fry-station
+  - popeyes-chicken-battering-process
+  - chick-fil-a-core-4
+  - kfc-coleslaw-secret
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 faq:
 - question: Does Popeyes use pressure fryers?
@@ -26,13 +27,7 @@ Popeyes is slow. Everyone knows Popeyes is slow. But nobody seems to know *why* 
 
 ## The Chicken Takes 12 to 14 Minutes to Cook
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Popeyes Slow Kitchen Why the Wait Is That Long](../../assets/images/general/generic-coffee.webp)
-
-
 
 This is the core issue that everything else flows from.
 

@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
-- starbucks-cold-bar-frappuccino
-- starbucks-morning-rush
-- starbucks-pull-to-thaw
+  - starbucks-dpm-routing
+  - starbucks-tiktok-hacks-debunked
+  - starbucks-cold-bar-frappuccino
 faq:
 - question: Is the CS role harder than working the bar?
   answer: It requires constant physical movement, aggressive multitasking, and mental
@@ -28,15 +28,7 @@ During a busy morning at Starbucks, you might notice one barista who isn't makin
 
 ## The Timed Cadence: 8, 10, or 15 Minutes
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 The CS role is not a free-for-all list of tasks you knock out whenever you feel like it. It's a highly structured routine governed by a literal timer. The barista clips a digital timer to their apron and sets it—usually to 8 or 10 minutes during peak, or 15 to 30 minutes during slower periods. 
-
-
-
-
 
 Every time that timer beeps, the CS barista drops whatever they're doing, resets the timer, and starts the cycle from the top. No exceptions. No "let me just finish this one thing." The timer beeps, you reset and go. 
 
@@ -46,19 +38,17 @@ The cadence length is set by the Shift Supervisor based on current store conditi
 
 ![What is the Starbucks Customer Support (CS) Cycle?](../../assets/images/general/generic-walk-in-2.webp)
 
-
 Each cycle follows the same four steps, in the same order, every single time:
 
-### Step 1: Brew Coffee
+### 1. Brew Coffee
 
 ![What is the Starbucks Customer Support (CS) Cycle?](../../assets/images/general/generic-walk-in-2.webp)
-
 
 The very first priority is always drip coffee. Check the timers on the urns. If any batch has been sitting longer than 30 minutes, dump it, rinse the urn, and brew a fresh batch of Pike Place, Blonde, or Dark Roast. Drip coffee has a strict 30-minute freshness window. Coffee that sits beyond that tastes stale and flat, and regular customers who order the same Pike Place every morning will absolutely notice the difference and say something.
 
 What most people don't realize: But the urn being full doesn't mean the coffee is fresh. If the timer says 35 minutes, that coffee is dead. Dump it. Always check the timer, not the level.
 
-### Step 2: Restock the Bars
+### 2. Restock the Bars
 
 This is the multiplier step—the one that makes or breaks the entire store's performance. Walk to the Hot Bar and Cold Bar. Check their milk supply, cup supply, lid supply, syrup levels, and ice bins. Whatever is running low, sprint to the back room and bring it forward.
 
@@ -70,11 +60,11 @@ Experienced CS baristas don't just check what's empty—they anticipate what's a
 
 During summer, ice is the number one priority. The [Cold Bar](/articles/starbucks-cold-bar-frappuccino) can blow through an entire ice bin in under 20 minutes during peak Frappuccino hours. During winter mornings, drip coffee and whole milk dominate because hot lattes and brewed coffee are the top sellers.
 
-### Step 3: The Cafe Check (Lobby Sweep)
+### 3. The Cafe Check (Lobby Sweep)
 
 Walk into the customer area. Wipe down the condiment bar. Empty the trash cans if they're over three-quarters full. Make sure the milk and sugar station is stocked. Check the bathrooms for toilet paper and paper towels. This step takes about 60 to 90 seconds if you move fast, and it makes a massive difference in how the store looks and feels to customers who are sitting in the cafe.
 
-### Step 4: The Flex Task
+### 4. The Flex Task
 
 If Steps 1 through 3 are complete and the timer hasn't beeped yet, check the Operations Station board for a flex task. This might be washing a load of dishes, sweeping the back room, prepping a backup batch of mocha sauce, or restocking the pastry case with thawed items from the [Pull to Thaw](/articles/starbucks-pull-to-thaw).
 

@@ -10,7 +10,9 @@ chain: Dutch Bros
 topic: Breakfast & Coffee
 heroImage: ../../assets/images/general/generic-pos-2.webp
 relatedArticles:
-- starbucks-morning-rush
+  - krispy-kreme-hot-light
+  - dunkin-flavor-shot-vs-swirl
+  - starbucks-pull-to-thaw
 faq:
 - question: Why doesn't Dutch Bros have a speaker box?
   answer: Dutch Bros uses 'Linebusters' with iPads instead of a speaker box to allow
@@ -27,18 +29,9 @@ The secret? Human interaction masking a highly optimized, militaristic dispatch 
 
 ## The "Linebusters"
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Dutch Bros Drive-Thru The Walk-Up Model](../../assets/images/general/generic-prep.webp)
 
-
 The core of the Dutch Bros model is the "Linebuster"—the employee standing outside with an iPad, regardless of the weather. Rain, snow, 105°F summer heat in Arizona—doesn't matter. That person is out there.
-
-
-
-
 
 Why do this instead of a speaker box?
 1.  **Queue Compaction:** They can take an order 10 cars back, locking the customer in and preventing drive-offs.

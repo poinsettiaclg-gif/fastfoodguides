@@ -10,8 +10,9 @@ chain: Wendy's
 topic: Operations
 heroImage: ../../assets/images/general/generic-walk-in.webp
 relatedArticles:
-- wendys-4-corner-press
-- wendys-fresh-never-frozen
+  - wendys-closing-duties
+  - wendys-chili-leftover-hamburgers
+  - wendys-first-day-training
 faq:
 - question: What is the SOS goal for Wendy's drive-thru?
   answer: Wendy's Speed of Service (SOS) target is usually between 90 and 120 seconds
@@ -31,11 +32,7 @@ According to [QSR Magazine's annual drive-thru study](https://www.qsrmagazine.co
 
 ## The SOS (Speed of Service) Metric
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
-![Wendy's Operational Guide](../../assets/images/general/generic-baking.webp)
+![Wendy’s Operational Guide](../../assets/images/general/generic-baking.webp)
 
 At Wendy's, the ultimate metric of a shift manager’s success is **SOS**, or Speed of Service. 
 

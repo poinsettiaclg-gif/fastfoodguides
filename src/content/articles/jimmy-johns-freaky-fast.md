@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jimmy John's
 topic: Sandwiches
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
+  - firehouse-subs-steaming-process
+  - jersey-mikes-hot-sub-grill
+  - wawa-hoagie-build
 faq:
 - question: How does Jimmy John's make sandwiches so fast?
   answer: The cold table is laid out linearly from left to right, ingredients are
@@ -22,24 +23,13 @@ heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 ## How Does Jimmy John's Actually Deliver 'Freaky Fast'?
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-
 “Freaky Fast” is not a marketing gimmick. It is a ruthlessly engineered operating philosophy that dictates every single decision Jimmy John's makes — from the menu design to the store layout to the delivery zone to the way bread is sliced at 7 AM. I have worked in sandwich shops where a single sub takes three or four minutes to build. At Jimmy John's, the expectation is that a sandwich goes from order ticket to wrapped-and-bagged in under 30 seconds. That is not a typo. Thirty seconds. And the scariest part? It is completely achievable once you understand how every piece of the operation is designed around one obsession: eliminating wasted time. 
 
 ## The 5-Minute Delivery Radius Is Not a Suggestion
 
-![Jimmy John](../../assets/images/general/generic-fryer.webp)
-
-
+![Jimmy John's](../../assets/images/general/generic-fryer.webp)
 
 Most pizza delivery operations will drive 15, 20, even 30 minutes to reach a customer. Jimmy John's will not. The standard delivery zone is capped at roughly a 5-minute driving radius from the store — sometimes slightly more in rural markets, sometimes even tighter in dense urban areas with heavy traffic. This is not because Jimmy John's is lazy. It is because the entire promise of the brand collapses if a sandwich takes 45 minutes to arrive. 
-
-
-
-
 
 The operational math is straightforward: the sandwich is built in under a minute. It is bagged in seconds. The driver is out the door within two minutes of the order printing. If the delivery address is within a five-minute drive, the customer is holding a fresh sandwich roughly seven to eight minutes after they placed the order. That is the target. That is “Freaky Fast.” 
 

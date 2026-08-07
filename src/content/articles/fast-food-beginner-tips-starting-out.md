@@ -11,9 +11,9 @@ chain: Multi-Chain
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-- first-day-fast-food-what-to-expect
-- dominos-first-day-training
-- starbucks-first-day-training
+  - first-day-fast-food-what-to-expect
+  - wendys-first-day-training
+  - taco-bell-first-day-training
 faq:
 - question: How do you survive a rush hour in fast food without getting overwhelmed?
   answer: Focus strictly on the single ticket or order directly in front of you. Do
@@ -35,13 +35,7 @@ If you want to be in the second group, you need to understand the unwritten rule
 
 ## 1. Master the Vocabulary of Kitchen Safety ("Corner," "Behind," "Hot")
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![15 Brutally Honest Tips for Your First Fast Food Job How to Avoid Rookie](../../assets/images/general/generic-drive-thru.webp)
-
-
 
 Commercial kitchens are cramped, high-hazard environments filled with 350°F deep fryers, 400°F clamshell grills, sharp tomato slicers, and heavy stainless steel pans. The most critical survival habit you must develop on day one is verbalizing your movements.
 

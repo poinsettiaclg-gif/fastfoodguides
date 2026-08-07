@@ -1,8 +1,6 @@
 ---
 title: 'What to Expect on Your First Day of Fast Food: A Complete Survival Guide'
-description: A brutally honest, step-by-step walkthrough of what your first day working
-  in fast food actually looks like, from onboarding paperwork and I-9 verification
-  to your first kitchen station.
+description: "A brutally honest, step-by-step walkthrough of what your first day working in fast food actually looks like, from onboarding paperwork and I-9..."
 pubDate: '2025-05-27'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
@@ -11,9 +9,9 @@ chain: Multi-Chain
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 relatedArticles:
-- fast-food-beginner-tips-starting-out
-- mcdonalds-first-day-training
-- chick-fil-a-first-day-training
+  - fast-food-beginner-tips-starting-out
+  - subway-first-day-training
+  - dominos-first-day-training
 faq:
 - question: What should I wear to my first day of work in fast food?
   answer: Wear non-slip, oil-resistant work shoes (such as TredSafe or Shoes for Crews),
@@ -32,13 +30,7 @@ The reality of your first day is much more structured, much slower-paced, and la
 
 ## 1. Before You Arrive: The Non-Negotiable Checklist
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![What to Expect on Your First Day of Fast Food A Complete Survival Guide](../../assets/images/general/generic-exterior.webp)
-
-
 
 Your first test as a new hire happens before you even step foot on the property: arriving prepared and compliant with local health department regulations. If you show up missing essential items, your manager may be legally forced to send you home before you clock in.
 

@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Popeyes
 topic: Chicken
 relatedArticles:
-- raising-canes-bird-specialist
-- kfc-pressure-fryers
+  - popeyes-slow-kitchen
+  - sonic-nugget-ice
+  - kfc-original-vs-extra-crispy
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: How long does it take to learn the Popeyes battering process?
@@ -28,15 +29,7 @@ If you're hired as a Batter Fry Cook at Popeyes, you're signing up for a particu
 
 ## The 12-Hour Marinade: Where the Flavor Actually Comes From
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![The Popeyes Chicken Battering Process Why It](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 The secret to Popeyes' flavor doesn't start on the makeline. It starts 12 hours earlier, in the walk-in cooler, in massive tubs of Louisiana seasonings and spices. 
 
@@ -60,7 +53,6 @@ The batter station gets messy fast. Your hands are constantly moving between wet
 ## The Toss and Fold: Where the Magic Happens
 
 ![The Popeyes Chicken Battering Process Why It](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is the technique that separates Popeyes from everyone else. You cannot simply roll the chicken in the flour and call it done. To get those massive, shatteringly crispy flakes — what cooks call the "crag" — Popeyes Batter Fry Cooks use a specific folding technique that is closer to masonry work than cooking.
 

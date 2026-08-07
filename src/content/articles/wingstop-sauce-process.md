@@ -17,13 +17,13 @@ faq:
     and customize the flavor at the plating station using specific bowls for each
     sauce.
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
+  - wingstop-frying-process
+  - popeyes-slow-kitchen
+  - zaxbys-sauce-recipe
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 7.  How Does Wingstop Make Their Sauces? (The Toss-and-Coat Method)
-
 
 There is a reason Wingstop wings taste different from the pre-sauced, heat-lamp-sitting wings you get at most sports bars. It comes down to one technique that the entire Wingstop operation is built around: the toss-and-coat method. Every wing that leaves a Wingstop kitchen is fried plain and sauced to order in a metal bowl, moments before it hits the box. No exceptions. 
 
@@ -31,15 +31,7 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 ## The Plain Fry — Everything Starts Bare
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Wingstop Sauce Process Toss, Coat, and Serve](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 This is the part that surprises most customers when they learn about it. Wingstop wings are not marinated. They're not brined overnight. They're not pre-seasoned before frying. The raw wings are simply breaded with a seasoned flour dredge and dropped into the fryer plain. 
 

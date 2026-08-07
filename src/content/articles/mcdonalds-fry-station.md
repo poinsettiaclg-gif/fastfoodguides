@@ -18,16 +18,13 @@ faq:
     to timers. The fry station is frequently 'in the weeds' during peak hours, and
     product quality is highly visible.
 relatedArticles:
-- mcdonalds-nugget-process
+  - mcdonalds-nugget-process
+  - mcdonalds-uhc-cabinet
+  - mcdonalds-ice-cream-machine
 disclaimerType: legal
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 ## How Does McDonald's Make Their Fries? (The Full Fry Station Process)
-
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 
 The volume at a typical McDonald's store means processing hundreds of pounds of frozen fries per day, dropping baskets into 350-degree vats in a non-stop rhythm that dictates the entire flow of a lunch rush. If the fry station backs up, the drive-thru stops. It's the most high-pressure position in the store. There is no chef technique involved—just a brutally efficient factory process paired with an in-store procedure that's engineered down to the second. 
 
@@ -35,15 +32,9 @@ This is the full picture — from potato field to the cardboard sleeve in your b
 
 ## What Happens Before the Fries Reach the Restaurant
 
-![McDonald](../../assets/images/general/generic-pos.webp)
-
-
+![McDonald's](../../assets/images/general/generic-pos.webp)
 
 Most people assume McDonald's fries are just frozen potato strips that get dropped in hot oil. That's technically true, but it skips about six steps that happen at the processing plant — and those steps are why McDonald's fries taste the way they do. 
-
-
-
-
 
 The potatoes used are primarily Russet Burbank, Ranger Russet, Umatilla Russet, and Shepody varieties. These are chosen for their high starch content and their ability to produce a consistent fry shape. As detailed on [McDonald's corporate supply chain page](https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/food-quality-and-sourcing.html), the potatoes are sourced from carefully vetted farms across the Pacific Northwest, the Midwest, and parts of Canada.
 
@@ -167,3 +158,21 @@ RR
 Russell Roseberry
 
 10-Year QSR Veteran & Former Kitchen Manager
+
+
+<div class="product-card">
+	<div class="product-card-image">
+		<img src="https://m.media-amazon.com/images/I/71b2V5L2nJL._AC_UY695_.jpg" alt="Shoes for Crews Non-Slip Clogs" loading="lazy" width="100" height="100" />
+	</div>
+	<div class="product-card-content">
+		<h4 class="product-card-title">Shoes for Crews Non-Slip Clogs</h4>
+		<div class="product-card-desc">
+			<p>The fry station floor is covered in vaporized shortening and spilled salt. If you wear cheap department store non-slips, your lower back will be destroyed. Spend the money on real kitchen boots.</p>
+		</div>
+		<a href="https://amzn.to/example-shoes" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+			Check Price on Amazon
+		</a>
+	</div>
+</div>
+

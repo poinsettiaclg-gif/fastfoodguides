@@ -1,8 +1,6 @@
 ---
 title: 'Your First Day at Subway: The Sandwich Artist Operational Survival Guide'
-description: "A comprehensive guide to your first shift at Subway. Learn how to master\
-  \ the 41\xB0F vegetable bain, the bread-scoring hinge cut, formula portioning, and\
-  \ the POS."
+description: "A comprehensive guide to your first shift at Subway. Learn how to master  the 41xB0F vegetable bain, the bread-scoring hinge cut, formula portioning,..."
 pubDate: '2024-09-26'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
@@ -19,9 +17,9 @@ tags:
 - bain
 - prep
 relatedArticles:
-- subway-bain-fill-line-rule
-- subway-bread-baking-process
-- subway-pos-out-of-order
+  - subway-wrap-folding
+  - subway-bread-baking-process
+  - subway-pos-out-of-order
 faq:
 - question: What do you do on your first day at Subway?
   answer: You will complete I-9 and W-4 onboarding paperwork, watch Subway University
@@ -39,13 +37,7 @@ If you have been hired as a "Sandwich Artist," you are about to learn that build
 As someone who has managed high-volume QSR operations across the country. The reality is succeeding at Subway comes down to mastering three core operational systems: **The Bain Refrigeration Matrix, The Hinge Cut, and Formula Standardization**.
 ## 1. The Refrigerated Bain: The 41°F Health Code Battlefield
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Your First Day at Subway The Sandwich Artist Operational Survival Guide](../../assets/images/general/generic-prep.webp)
-
-
 
 The centerpiece of every Subway restaurant is the **Bain**—the long, stainless steel refrigerated makeline housing all proteins, cheeses, and fresh vegetables in plastic cambro pans.
 

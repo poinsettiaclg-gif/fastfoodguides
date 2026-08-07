@@ -1,7 +1,6 @@
 ---
 title: What Happens to Leftover Panda Express Food at Closing?
-description: Ever wonder what happens to all that leftover Orange Chicken at closing?
-  Learn about the Waste Log, the no take-home rule, and the Panda Cares donation program.
+description: "Ever wonder what happens to all that leftover Orange Chicken at closing? Learn about the Waste Log, the no take-home rule, and the Panda Cares donation..."
 pubDate: '2025-04-17'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,8 +9,9 @@ chain: Panda Express
 topic: Other Chains
 disclaimerType: food_safety
 relatedArticles:
-- panda-express-wok-chef
-- wendys-chili-leftover-hamburgers
+  - panda-express-wok-chef
+  - panda-express-steam-table-calling
+  - cava-digital-make-line
 faq:
 - question: Can employees eat leftover food during their shift instead of at closing?
   answer: Yes, most Panda Express locations allow employees to eat a meal during their
@@ -30,15 +30,7 @@ I've managed closing shifts where we threw away enough food to feed a dozen fami
 
 ## The Strict Waste Logging Policy
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![What Happens to Leftover Panda Express Food at Closing?](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 The very first thing that happens at closing is the Waste Log. This isn't optional, and it isn't casual. The closing manager scoops every ounce of leftover food from the steam table pans into measuring bins or places them on a digital scale. Every weight gets entered into the corporate computer system — item by item, down to the fraction of a pound. 
 
@@ -55,7 +47,6 @@ The Waste Log also serves a secondary purpose that most crew members don't think
 ## The Cut-Off Time Strategy
 
 ![What Happens to Leftover Panda Express Food at Closing?](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Smart closing managers use what is informally called the "cut-off time" to minimize waste. About 60 to 90 minutes before closing, the manager instructs the [How Dangerous is the Wok Chef Job at Panda Express?](/articles/panda-express-wok-chef/) to stop cooking full batches. Instead of making a full 8-pound batch of Orange Chicken, they might cook a half batch or even a quarter batch.
 
@@ -95,5 +86,4 @@ Not every location participates, though. It depends on whether a local food resc
 The difference between a good closing manager and a bad one shows up almost entirely in the Waste Log. A well-managed store might throw away only 3 to 5 pounds of food total on a good night. A poorly managed store — or one that got blindsided by an unexpected slow evening — could throw away 15 to 20 pounds or more.
 
 The best closers I've worked with treat the last 90 minutes like a chess game. They're watching customer flow, checking the steam table levels, communicating with the Wok Chef, and making constant micro-decisions about batch sizes. It's a skill that takes months to develop, and it's one of the clearest indicators of management potential. Stores that run [fresh-only operations like Five Guys](/articles/five-guys-no-freezers) face similar daily waste management challenges, but the Panda Express steam table model makes it uniquely visible — and uniquely measurable.
-
 

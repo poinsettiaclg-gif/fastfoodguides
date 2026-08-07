@@ -1,4 +1,7 @@
 ---
+import { Image } from 'astro:assets';
+import authorPhoto from '../assets/images/russell-roseberry-headshot.webp';
+
 interface Props {
 	author: string;
 	authorTitle: string;
@@ -10,7 +13,7 @@ const { author, authorTitle } = Astro.props;
 <aside class="author-card" aria-label="About the author">
 	<div class="author-card-inner">
 		<div class="author-avatar">
-			<img src="/images/russell-roseberry.jpg" alt={`Photo of ${author}`} width="56" height="56" loading="lazy" />
+			<Image src={authorPhoto} alt={`Photo of ${author}`} width={56} height={56} loading="lazy" format="webp" />
 		</div>
 		<div class="author-info">
 			<p class="author-name">{author}</p>
@@ -57,6 +60,7 @@ const { author, authorTitle } = Astro.props;
 		width: 100%;
 		height: 100%;
 		object-fit: cover;
+		object-position: top;
 	}
 
 

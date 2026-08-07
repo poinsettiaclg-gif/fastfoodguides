@@ -18,8 +18,9 @@ faq:
     \ This lower temperature efficiently transfers heat, fully melting the cheese\
     \ and thoroughly warming the deli meats without drying them out."
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
+  - subway-bread-baking-process
+  - jimmy-johns-freaky-fast
+  - subway-pos-out-of-order
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 Firehouse doesn't toast their subs. They don't bake them. They don't grill them. They steam them — and the distinction between steaming and toasting is the entire reason a Firehouse sub tastes and feels the way it does. 
@@ -30,19 +31,9 @@ I've worked in QSR kitchens for over a decade, and Firehouse's approach to heati
 
 ## How the Conveyor Steamer Actually Works
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Firehouse Subs Steaming How Every Sub Gets Made](../../assets/images/general/generic-coffee.webp)
 
-
-
 The conveyor steamer at Firehouse Subs is a purpose-built piece of commercial equipment. It's not a modified oven, not a repurposed bakery proofer — it's specifically designed to blast steam onto sandwich contents as they pass through on a moving belt.
-
-
-
-
 
 This is the sequence: after the sandwich artist lays out the sliced meats and cheese on the open sub roll, the meat and cheese portion gets placed onto a small tray or directly onto the conveyor belt. The belt carries it through a steam chamber that runs at approximately 200°F. The ride takes roughly 30 to 45 seconds, depending on the location's specific machine calibration and how heavily the sub is loaded.
 

@@ -1,9 +1,7 @@
 ---
 title: 'Your First Day at McDonald''s: What Actually Happens (From a Manager Who Ran
   Orientation)'
-description: A realistic walkthrough of what your first day at McDonald's looks like,
-  from the paperwork to your first station assignment. Written by a former QSR manager
-  who trained hundreds of new crew members.
+description: "A realistic walkthrough of what your first day at McDonald's looks like, from the paperwork to your first station assignment. Written by a former QSR..."
 pubDate: '2026-05-18'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -12,7 +10,9 @@ chain: McDonald's
 topic: Training
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 relatedArticles:
-- mcdonalds-fry-station
+  - mcdonalds-ice-cream-machine
+  - mcdonalds-pos-crash
+  - mcdonalds-abs-system
 faq:
 - question: What should I wear to my first day at McDonald's?
   answer: Wear the uniform provided by your manager (usually a shirt and hat), dark
@@ -28,13 +28,7 @@ So this is what your first day at a McDonald's actually looks like, from someone
 
 ## Before You Show Up
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
-![Your First Day at McDonald](../../assets/images/general/generic-grill.webp)
-
-
+![Your First Day at McDonald's](../../assets/images/general/generic-grill.webp)
 
 Your hiring manager should have already told you what time to arrive, where to enter (usually the back crew door, not the front counter), and what to bring. If they didn't tell you clearly, this is the baseline:
 

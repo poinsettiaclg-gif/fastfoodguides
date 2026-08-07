@@ -1,8 +1,6 @@
 ---
 title: What is the 4:00 AM "Biscuit Maker" Shift Like at Hardee's / Carl's Jr.?
-description: "A QSR veteran takes you inside the grueling 4 AM Biscuit Maker shift\
-  \ at Hardee's\u2014the from-scratch process, the 15-minute rule, and why this role\
-  \ is sacred."
+description: "A QSR veteran takes you inside the grueling 4 AM Biscuit Maker shift  at Hardee'su2014the from-scratch process, the 15-minute rule, and why this..."
 pubDate: '2026-07-05'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -17,9 +15,9 @@ faq:
   answer: A full batch of from-scratch biscuits takes about 10 to 15 minutes to prepare
     before baking.
 relatedArticles:
-- panera-overnight-baker
-- subway-bread-baking-process
-- five-guys-no-freezers
+  - mcdonalds-first-day-training
+  - five-guys-first-day-training
+  - dominos-first-day-training
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 Most fast-food chains use frozen, pre-formed biscuits that arrive in a box, get tossed on a sheet pan, and go into an oven. Hardee's doesn't do that. Their biscuits are made entirely from scratch—mixed, kneaded, rolled, cut, and baked in-store, every single morning, by a dedicated employee called the Biscuit Maker. And that person's alarm goes off at 3:15 AM. 
@@ -28,15 +26,7 @@ I've worked alongside Biscuit Makers and trained under their mentorship. This is
 
 ## The 4:00 AM Arrival: Alone in a Dark Kitchen
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 The Biscuit Maker arrives at the store with the opening manager, usually around 4:00 AM. The parking lot is empty. The dining room is dark. The ovens are cold. Your first task is getting the massive convection ovens fired up—they need 15 to 20 minutes to reach the correct baking temperature, so timing your first batch to go in right when the oven is ready is part of the routine. 
-
-
-
-
 
 While the ovens heat, you're setting up your station: a massive stainless steel table that gets dusted with a generous layer of flour, a heavy rolling pin, metal biscuit cutters, baking sheets prepped with a light coat of grease or parchment, and all of your measured ingredients within arm's reach.
 
@@ -46,9 +36,7 @@ The first 15 minutes are all about precision setup. You weigh out your dry mix, 
 
 ![What is the 400 AM ](../../assets/images/general/generic-drive-thru-3.webp)
 
-
 ![What is the 400 AM ](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is the step-by-step, and pay attention to the kneading step because that's where the job lives or dies:
 

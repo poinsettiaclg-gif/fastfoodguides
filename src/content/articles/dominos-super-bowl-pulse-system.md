@@ -10,9 +10,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Operations
 relatedArticles:
-- dominos-dough-stretching
-- dominos-oven-tender-role
-- dominos-20-bank-rule
+  - dominos-gas
+  - dominos-oven-tender-role
+  - dominos-dough-stretching
 faq:
 - question: Does the Pulse system crash during the Super Bowl?
   answer: While massive volume can stress the system, total outages are rare because
@@ -30,19 +30,11 @@ Super Bowl Sunday is the highest-volume pizza delivery day of the year in the Un
 
 You cannot survive that kind of volume with a good attitude and elbow grease. You survive it through ruthless algorithmic efficiency. 
 
-
-
 At the core of this efficiency is **Pulse**, the proprietary Point of Sale (POS) and store management system that acts as the central nervous system for every Domino's in the world. Throughout this breakdown, we are going to break down exactly how the Pulse system routes orders, balances the makeline, and dispatches drivers to keep the store from burning to the ground during the Super Bowl rush.
 
 ## The Brain of the Operation: The Pulse System
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
-![Domino](../../assets/images/general/generic-walk-in.webp)
-
-
+![Domino's](../../assets/images/general/generic-walk-in.webp)
 
 Domino's isn't just a pizza company; it is a tech company that happens to sell pizza. Pulse is the software architecture that makes the vaunted Domino's Pizza Tracker possible, but its real magic happens on the backend in the kitchen.
 
@@ -73,8 +65,6 @@ When a pizza is bumped from the makeline, several things happen in the Pulse eco
 1. The customer's Pizza Tracker updates from "Prep" to "Bake."
 2. The order is transferred to the **Oven Tender's screen** at the end of the oven.
 3. The system calculates the exact transit time of the conveyor belt (usually around 6 to 7 minutes) and begins anticipating when that pizza will emerge.
-
-
 
 ## The Oven Tender: The Most Stressful Job in the Building
 

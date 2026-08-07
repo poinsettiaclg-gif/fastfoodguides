@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
-- starbucks-customer-support-cycle
-- starbucks-morning-rush
-- panera-overnight-baker
+  - starbucks-customer-support-cycle
+  - starbucks-tiktok-hacks-debunked
+  - starbucks-first-day-training
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
 - question: Can you microwave a frozen pastry if the store runs out of thawed ones?
@@ -30,15 +30,7 @@ When you see a display case full of perfectly golden croissants, neatly arranged
 
 ## The 18-Hour Thaw Cycle
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-![How the Starbucks ](../../assets/images/general/generic-prep.webp)
-
-
-
-
+![How the Starbucks](../../assets/images/general/generic-prep.webp)
 
 You can't take a frozen Lemon Loaf out of a box and hand it to a customer. Almost all Starbucks pastries require a gradual, controlled thawing process at room temperature to preserve their moisture and texture. A croissant that gets microwaved or oven-blasted to speed up the thaw comes out rubbery and wrong. A muffin that thaws too fast develops a hard, crusty top instead of the soft dome customers expect. 
 
@@ -75,8 +67,7 @@ Many Starbucks locations participate in the FoodShare initiative, which donates 
 
 ## Freezer Organization: FIFO or Chaos
 
-![How the Starbucks ](../../assets/images/general/generic-walk-in-2.webp)
-
+![How the Starbucks](../../assets/images/general/generic-walk-in-2.webp)
 
 The walk-in freezer has to be organized using strict First In, First Out (FIFO) rotation. New shipments go to the back of the shelves. Older boxes get moved to the front so they're always pulled first.
 

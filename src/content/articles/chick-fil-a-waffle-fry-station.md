@@ -1,8 +1,6 @@
 ---
 title: 'Chick-fil-A Waffle Fry Station: The 2-Minute Rule and Peanut Oil Science'
-description: A comprehensive operational analysis of how Chick-fil-A cooks, salts,
-  and holds waffle potato fries using 100% refined peanut oil and strict thermal holding
-  limits.
+description: "A comprehensive operational analysis of how Chick-fil-A cooks, salts, and holds waffle potato fries using 100% refined peanut oil and strict thermal..."
 pubDate: '2025-04-28'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
@@ -11,9 +9,9 @@ chain: Chick-fil-A
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- chick-fil-a-peanut-oil-filtration
-- chick-fil-a-ipos-system
-- chick-fil-a-ipos-system
+  - chick-fil-a-peanut-oil-filtration
+  - chick-fil-a-breading-process
+  - chick-fil-a-core-4
 faq:
 - question: Are Chick-fil-A waffle fries cooked in peanut oil?
   answer: No. While the breaded chicken is cooked in refined peanut oil, the waffle
@@ -34,13 +32,7 @@ Unlike standard shoestring fries (such as McDonald's 1/4-inch cut), waffle fries
 
 ## 1. Waffle Cut Physics: Surface Area vs. Heat Retention
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Chick-fil-A Waffle Fry Station The 2-Minute Rule and Peanut Oil Science](../../assets/images/general/generic-pos.webp)
-
-
 
 Why did Chick-fil-A choose the waffle cut when every major competitor uses straight shoestring or crinkle cuts? The answer lies in condiment mechanics and structural differentiation.
 *   **The Dip Advantage:** A waffle fry acts as a rigid, grid-like spoon designed to scoop maximum quantities of Chick-fil-A Sauce, Polynesian Sauce, or ketchup without snapping or bending in the customer's hand.

@@ -1,7 +1,7 @@
 ---
 title: 'Starbucks Drive-Thru: The DTO and DTR Roles Explained'
 description: An inside look at the Starbucks drive-thru ecosystem. How the DTO (Drive-Thru
-  Order) and DTR (Drive-Thru Register) roles orchestrate peak morning volume.
+  Order) and DTR (Drive-Thru Register) roles manage peak morning volume.
 pubDate: '2024-11-29'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,8 +10,9 @@ chain: Starbucks
 topic: Coffee
 heroImage: ../../assets/images/general/generic-pos.webp
 relatedArticles:
-- starbucks-morning-rush
-- starbucks-customer-support-cycle
+  - starbucks-secret-menu
+  - starbucks-customer-support-cycle
+  - starbucks-first-day-training
 faq:
 - question: How long does it take to learn the DTO/DTR roles?
   answer: Most baristas report it takes 2 to 6 months of consistent practice to feel
@@ -29,13 +30,7 @@ The operations on the other side of the headset run as follows:
 
 ## DTO: Drive-Thru Order (The Orchestrator)
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Starbucks Drive-Thru The DTO and DTR Roles Explained](../../assets/images/general/generic-walk-in.webp)
-
-
 
 The DTO is the voice in the speaker box. But taking your order is only about 30% of their actual job. The DTO is the logistical orchestrator of the entire drive-thru ecosystem. 
 
@@ -91,7 +86,6 @@ During slower periods—usually mid-afternoon or late evenings—labor cuts mean
 If you ever notice a slightly longer pause at the speaker box around 3:00 PM, it’s because the barista taking your order is currently holding a tray of drinks out the window to the car ahead of you. 
 
 The drive-thru relies entirely on pacing. When the DTO keeps the orders flowing steadily and the DTR clears the window efficiently, the system is a beautiful, highly caffeinated assembly line.
-
 
 ### See Also
 

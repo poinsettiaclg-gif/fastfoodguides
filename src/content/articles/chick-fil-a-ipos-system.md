@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
-- chick-fil-a-core-4
-- taco-bell-drive-thru-timer
+  - chick-fil-a-waffle-fry-station
+  - chick-fil-a-core-4
+  - chick-fil-a-lemonade
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: What does iPOS stand for at Chick-fil-A?
@@ -26,15 +27,7 @@ If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen
 
 ## Bypassing the Speaker Box Bottleneck
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![How the Chick-fil-A iPOS Drive-Thru System Works](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 Every traditional fast food drive-thru has the same fundamental problem: the speaker box is a bottleneck. Car A has to finish their entire order before Car B can even pull up to the microphone. If Car A is a family of six debating between nuggets and strips, everyone behind them sits and waits. The speaker box creates a single-file chokepoint that limits even the fastest kitchens to about 50 to 60 cars per hour at best. 
 
@@ -49,7 +42,6 @@ The beauty is parallel processing. While one employee is helping a family of six
 ## The "Send" Before the Window
 
 ![How the Chick-fil-A iPOS Drive-Thru System Works](../../assets/images/general/generic-walk-in-2.webp)
-
 
 The true brilliance of iPOS is not just where the order is taken—it is when.
 

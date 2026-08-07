@@ -1,8 +1,6 @@
 ---
 title: How Hard Is It to Clean the Burger King Broiler at Closing?
-description: "A brutally honest walkthrough of the most dreaded closing task in fast\
-  \ food\u2014breaking down, scrubbing, and reassembling the 600-degree Burger King\
-  \ broiler."
+description: "A brutally honest walkthrough of the most dreaded closing task in fast  foodu2014breaking down, scrubbing, and reassembling the 600-degree Burger..."
 pubDate: '2025-12-06'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,7 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Burger King
 topic: Burgers
 relatedArticles:
-- burger-king-broiler
+  - burger-king-expeditor-role
+  - burger-king-whopper-build-process
+  - burger-king-broiler
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: How long should a Burger King broiler cool down before cleaning?
@@ -26,15 +26,7 @@ Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/a
 
 ## The Cooldown Phase: Your 30-Minute Head Start
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 You cannot clean a 600-degree machine. That should be obvious, but I have watched impatient closers try to speed things up by splashing cold water on the broiler interior. Do not do this. Cold water on superheated metal causes instant warping of the expensive grates, and worse, it can create a severe burn hazard that sends scalding water vapor directly into your face. 
-
-
-
-
 
 The moment the manager confirms no more broiler orders are coming in, shut the gas off. Every minute you shave off the cooldown phase is a minute closer to clocking out. The machine needs at least 20 to 30 minutes to cool to a point where you can safely touch the internal components. 
 
@@ -45,7 +37,6 @@ The secret that nobody tells you during training: the cooldown window is your mo
 ## The Breakdown and Scrub: Where the Real Work Begins
 
 ![How Hard Is It to Clean the Burger King Broiler at Closing?](../../assets/images/general/generic-prep.webp)
-
 
 Once the broiler is cool enough to handle—still quite warm, but no longer capable of giving you a third-degree burn on contact—the physical labor begins.
 
@@ -62,7 +53,6 @@ Once the broiler is cool enough to handle—still quite warm, but no longer capa
 ## The Reassembly: Getting It Right the First Time
 
 ![How Hard Is It to Clean the Burger King Broiler at Closing?](../../assets/images/general/generic-walk-in-2.webp)
-
 
 Once every component is scrubbed and dried, you reassemble the entire broiler. The catch pans slide back in, the belts are reattached and properly tensioned, and all the guards and covers are secured.
 

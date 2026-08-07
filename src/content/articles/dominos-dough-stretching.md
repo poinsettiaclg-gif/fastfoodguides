@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
-- dominos-gas
+  - dominos-gas
+  - dominos-super-bowl-pulse-system
+  - dominos-makeline-routing
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
 - question: Why does Domino's use cornmeal instead of flour to stretch dough?
@@ -23,10 +25,6 @@ faq:
 ---
 ## The Dough Does Not Arrive as Dough
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 A seasoned Domino's makeline worker can stretch, sauce, and cheese a large pizza in under 60 seconds. But that speed relies entirely on prep happening hours earlier. People often assume the stores are mixing flour and water in the back, but **Domino's dough actually arrives pre-made from a regional commissary** in the form of individual dough balls. Every single ball is weighed to its specific size class down to the gram, ensuring identical crusts across 19,000+ locations. 
 
 The dough balls arrive refrigerated in stacked trays and are placed directly into the walk-in cooler. Before they can be used, they need to be pulled out and allowed to **proof at room temperature** — a process that typically takes 45-60 minutes, during which the yeast activates and the dough becomes pliable enough to stretch. 
@@ -37,13 +35,13 @@ This is why prep timing matters so much. If the morning crew doesn't pull enough
 
 Domino's does not use a dough press or a sheeter machine for its standard hand-tossed crust. As part of their commitment to food quality (often highlighted on [Domino's corporate transparency pages](https://biz.dominos.com/about-us/)), every pizza is **hand-stretched by the person working the makeline**.
 
-### Step 1: Cornmeal and Flour the Surface
+### 1. Cornmeal and Flour the Surface
 
 The stretch starts on a floured prep surface. A light dusting of cornmeal goes down first — this serves a dual purpose. It prevents sticking, and it creates that slightly gritty texture on the bottom of the crust that becomes crunchy in the oven.
 
 <div class="callout callout-tip">**ProTip:** Don't bury the dough in the cornmeal blend. Using too much will cause the bottom of the pizza to burn in the high-heat impinger oven. A light, even coating is all you need to prevent sticking on the pizza screen.</div>
 
-### Step 2: Press From the Center
+### 2. Press From the Center
 
 The dough ball is placed on the floured surface and **pressed outward from the center using fingertips, never a rolling pin**. Rolling pins compress the gas bubbles that the yeast created during proofing. Fingertip pressing preserves those bubbles, which is what gives the finished crust its airy, bread-like structure.
 
@@ -51,9 +49,9 @@ A common rookie mistake is pressing too aggressively in the center, creating a p
 
 <div class="callout callout-tip">**ProTip:** If your dough is under-proofed and too cold, it will snap back like a rubber band and produce massive air bubbles in the oven. If you see bubbles forming on a cold-stretched pizza, you'll have to reach in and stab them with the long-handled bubble popper.</div>
 
-![Domino](../../assets/images/general/generic-prep.webp)
+![Domino's](../../assets/images/general/generic-prep.webp)
 
-### Step 3: Stretch to Size
+### 3. Stretch to Size
 
 Once the center is pressed out, the dough is picked up and allowed to hang while the stretcher rotates it, letting gravity do the work of widening the circle. This is the closest thing to "tossing" that happens at Domino's, though it's nothing like the theatrical spinning you see at independent pizzerias.
 
@@ -65,7 +63,7 @@ The target diameter depends on the size ordered:
 
 The store has **sizing rings** or marked spots on the prep surface to verify the diameter. Undersized pizzas are a customer complaint waiting to happen. Oversized pizzas waste dough and throw off food cost.
 
-### Step 4: Place on the Screen
+### 4. Place on the Screen
 
 The stretched dough is placed onto a **pizza screen** — a flat, perforated metal disk that goes directly into the oven. The screen's perforations allow heat to reach the bottom of the crust, which is how the bottom gets crispy without needing a brick oven or a stone deck.
 
@@ -83,7 +81,7 @@ From left to right, a standard Domino's makeline looks like this:
 4. **Topping bins** — a refrigerated rail of 15-20 toppings, each in its own compartment
 5. **Oven entrance** — the conveyor belt that feeds into the impinger oven
 
-![Domino](../../assets/images/general/generic-walk-in-2.webp)
+![Domino's](../../assets/images/general/generic-walk-in-2.webp)
 
 ### The 2-Minute Build Target
 
@@ -131,7 +129,6 @@ But the system breaks down at the same point it always does in QSR: **volume ver
 The stores that handle this well are the ones where the manager is actively managing the line — calling out orders, re-routing staff to bottleneck positions, and pulling extra dough trays from the walk-in before they're needed. The stores that handle it poorly are the ones where the manager is answering phones in the front while the makeline collapses behind them.
 
 That's the difference between a great Domino's and a mediocre one. The system is the same everywhere. The execution is not.
-
 
 ### See Also
 

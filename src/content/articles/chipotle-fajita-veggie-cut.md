@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
-- chipotle-grill-validation
-- chipotle-massive-burrito-rolling
-- panda-express-wok-chef
+  - chipotle-massive-burrito-rolling
+  - chipotle-guacamole
+  - chipotle-makeline-training
 faq:
 - question: How long does it take to prep all the fajita veggies for a full day?
   answer: It depends on the store's volume, but a typical location preps between 40
@@ -30,17 +30,9 @@ I witnessed managers dump entire hotel pans of sliced bell peppers straight into
 
 ## The 1/4-Inch Rule and Why It's Non-Negotiable
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Chipotle Fajita Veggies The Specific Cut Required](../../assets/images/general/generic-drive-thru-3.webp)
 
-
-
-
-
-The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And What the training manual skips over is during orientation: you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. 
+The official Chipotle recipe card dictates that every single slice of bell pepper and onion must be exactly 1/4 of an inch thick. Not roughly. Not "about." Exactly. And The reality of the line hits you when you find out that you cannot use a mechanical slicer, a mandoline, or any other shortcut device. You must use a standard 8-inch or 10-inch chef's knife and achieve that level of precision entirely by hand. 
 
 Across 40 to 60 pounds of raw produce. Every single morning.
 
@@ -66,7 +58,6 @@ There are three reasons Chipotle obsesses over this, and none of them are arbitr
 
 ![Chipotle Fajita Veggies The Specific Cut Required](../../assets/images/general/generic-walk-in-2.webp)
 
-
 The fajita veggie prep is not just about the cut. It is about how you handle the different peppers. The recipe typically calls for a mix of green bell peppers, red bell peppers, and yellow or poblano peppers, along with sliced onions. Each pepper type has a slightly different thickness and water content, which means you need to subtly adjust your pressure and speed as you switch between them. Reds are softer and will crush under too much downward force. Greens are firmer and can handle a more aggressive stroke.
 
 The onions are their own beast entirely. Because onion layers naturally curve and separate, maintaining a true 1/4-inch slice requires you to work slowly and deliberately. More times than I can count, newcomers blaze through onions at top speed, producing cuts where the outer layers are the right thickness but the inner layers are paper-thin or doubled up into half-inch chunks. Rushing through onions is how you get an entire batch rejected. Slow down, use the ridges as your guide, and let the knife do the work.
@@ -82,5 +73,4 @@ The reality is validation is not a one-time pass-or-fail event, either. Even aft
 If you fail the knife test during validation, don't panic. It does not get you fired. You simply don't pass that day. You keep working your current role, get additional training time, and attempt again. Most employees who fail the first time pass on their second or third attempt after focused practice. The trick is to practice at home—buy a bag of onions and a cheap bell pepper from the grocery store and spend 15 minutes with the claw grip at your kitchen counter. That muscle memory translates directly to faster, more accurate prep work when you're on the clock and a clipboard is watching.
 
 For a detailed look at the full validation process, check out [What Actually Happens During the Chipotle Grill Validation Test](/articles/chipotle-grill-validation). And if you've made it past prep and are struggling on the line, [The Secret to Rolling a Massive Chipotle Burrito](/articles/chipotle-massive-burrito-rolling) will save your sanity during the lunch rush.
-
 

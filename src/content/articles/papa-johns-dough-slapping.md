@@ -1,8 +1,6 @@
 ---
 title: What is the Papa John's "Dough Slapping" Technique?
-description: Learn the secrets of the Papa John's Dough Slap technique. How pizza
-  makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire
-  makes.
+description: "Learn the secrets of the Papa John's Dough Slap technique. How pizza makers hand-stretch fresh dough in under 30 seconds and the mistakes every new hire..."
 pubDate: '2024-07-11'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Papa John's
 topic: Pizza
 relatedArticles:
-- papa-johns-dough-spinner
-- dominos-oven-tender-role
-- little-caesars-sheetout-machine
+  - papa-johns-dough-spinner
+  - dominos-oven-tender-role
+  - pizza-hut-dispatch
 faq:
 - question: How many dough balls does a new employee usually ruin before getting the
     technique down?
@@ -29,15 +27,7 @@ You will not be throwing dough in the air like a movie Italian chef. You will be
 
 ## The Dough Management Process
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![What is the Papa John](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 Before anyone slaps anything, the dough has to be properly managed. Papa John's dough is delivered fresh — not frozen — in massive plastic trays stacked inside the walk-in cooler. Before it can be used, it has to be "proofed," which means pulled from the cooler and allowed to rise at room temperature until the yeast activates and the gluten relaxes. 
 
@@ -50,7 +40,6 @@ Most stores pull dough trays from the cooler in staggered batches throughout the
 ## The Edge Stretch and the Slap
 
 ![What is the Papa John](../../assets/images/general/generic-prep.webp)
-
 
 You have approximately 30 seconds to turn a dense dough ball into a perfect 14-inch circle without making the center too thin. The technique happens in two distinct phases:
 

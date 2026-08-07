@@ -1,8 +1,6 @@
 ---
 title: 'Your First Day at Taco Bell: Surviving the Make-Line and the Linebacker Role'
-description: A comprehensive operational guide to your first shift at Taco Bell. Learn
-  how to work the 12-ingredient steam table matrix, KDS speed timers, and the
-  Linebacker role.
+description: "A comprehensive operational guide to your first shift at Taco Bell. Learn how to work the 12-ingredient steam table matrix, KDS speed timers, and the..."
 pubDate: '2025-11-14'
 updatedDate: '2026-07-25'
 author: Russell Roseberry
@@ -19,9 +17,9 @@ tags:
 - linebacker
 - training
 relatedArticles:
-- taco-bell-linebacker-role
-- taco-bell-rethermalizer-90-minute-bag-drop-cycle
-- taco-bell-drive-thru-timer
+  - taco-bell-steamer-melter
+  - taco-bell-menu
+  - taco-bell-linebacker-role
 faq:
 - question: What should I expect on my first day at Taco Bell?
   answer: "After completing your I-9 verification and e-learning safety videos, you\
@@ -42,13 +40,7 @@ As someone who spent a decade managing high-volume quick-service restaurant (QSR
 
 ## 1. The Modular Make-Line Matrix: Hot Side vs. Cold Side
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![Your First Day at Taco Bell Surviving the Make-Line and the Linebacker Role](../../assets/images/general/generic-walk-in.webp)
-
-
 
 The physical layout of the Taco Bell kitchen centers around the **Make-Line**, a stainless steel assembly counter divided strictly into two temperature-controlled zones: the Steam Table (Hot Side) and the Cold Well (Cold Side).
 

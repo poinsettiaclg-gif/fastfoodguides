@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
-- in-n-out-board-station
-- in-n-out-secret-menu
-- chick-fil-a-ipos-system
+  - in-n-out-secret-menu
+  - in-n-out-board-station
+  - in-n-out-animal-style-fries
 faq:
 - question: How long does it take to go from Level 1 to Level 7?
   answer: There is no fixed timeline, but a motivated, full-time Associate can typically
@@ -23,21 +23,13 @@ faq:
     you go.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-[In-N-Out](/articles/chain/in-n-out) Burger is famous for paying its people well—significantly better than the industry average, in fact. But The part they leave out of orientation is during the interview: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
+[In-N-Out](/articles/chain/in-n-out) Burger is famous for paying its people well—significantly better than the industry average, in fact. But The secret nobody tells you until you're in the weeds: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
 
 It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
 
 ## Level 1: The Foundation (And the Filter)
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. 
-
-
-
-
 
 I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. [In-N-Out](/articles/chain/in-n-out) management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
 
@@ -46,7 +38,6 @@ Associates who show up on time, keep the dining room spotless without prompting,
 ## Levels 2 Through 4: Front-of-House Fundamentals
 
 ![The In-N-Out Level System Explained (Level 1 to Level 7)](../../assets/images/general/generic-prep.webp)
-
 
 These middle levels are where most Associates spend the bulk of their early career, and each one teaches a critical piece of [the In-N-Out](/articles/in-n-out-board-station) operation.
 
@@ -63,7 +54,6 @@ Each level requires a formal evaluation before promotion. Your managers are watc
 ## Levels 5 Through 7: Kitchen Mastery and Management
 
 ![The In-N-Out Level System Explained (Level 1 to Level 7)](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is where the money gets real, but the difficulty spikes dramatically.
 
@@ -82,5 +72,4 @@ The jump from Level 4 to Level 5 is where most people either commit to a career 
 Every level comes with a meaningful pay raise. While exact figures vary by location and market, the pattern is clear: Level 1 starts above local minimum wage, and each subsequent level adds a real bump—not a token ten cents. By Level 6 or 7, hourly Associates are earning significantly more than their peers at competing chains.
 
 This is a massive part of In-N-Out's retention strategy. Unlike places where your only path to a raise is waiting for an annual review, the Level System gives you a visible, tangible goal at all times. You know exactly what you need to do to earn more money, and you can control the pace at which you get there. I wish every chain adopted a system like this. The employees who push through to Level 7 and beyond frequently describe it as one of the most rewarding career progressions in the restaurant industry—fast food or otherwise.
-
 

@@ -10,9 +10,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
-- in-n-out-double-double-assembly
-- in-n-out-board-station
-- in-n-out-secret-menu
+  - in-n-out-secret-menu
+  - in-n-out-double-double-assembly
+  - in-n-out-board-station
 faq:
 - question: How does In-N-Out melt the cheese on Animal Style Fries so fast?
   answer: "Unlike competitors who use microwaves or salamander broilers, In-N-Out\
@@ -33,13 +33,7 @@ In a kitchen processing over 100 tickets per hour, integrating a multi-layered g
 
 ## 1. The Kennebec Potato Base: The Single-Fry Reality
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![In-N-Out Animal Style Fries The Make-Line Mechanics and Cheese Melting Science](../../assets/images/general/generic-pos.webp)
-
-
 
 To understand Animal Style Fries, you must first understand the structural reality of standard In-N-Out fries. While almost every major fast-food chain (such as [McDonald's](/articles/mcdonalds-fry-station) and [Five Guys](/articles/five-guys-fry-calibration)) utilizes a two-stage cooking process—blanching potatoes at a lower temperature before flash-frying at a high temperature—In-N-Out utilizes a **live, in-store single-fry system**.
 

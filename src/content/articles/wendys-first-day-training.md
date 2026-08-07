@@ -10,8 +10,9 @@ topic: Training
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-prep.webp
 relatedArticles:
-- wendys-fresh-never-frozen
-- wendys-clamshell-grill
+  - wendys-drive-thru-timer
+  - wendys-4-corner-press
+  - wendys-closing-duties
 faq:
 - question: What happens at Wendy's orientation?
   answer: You will fill out your I-9 and W-4, review the employee handbook, watch mandatory safety and training videos on the WeLearn system, and get your uniform.
@@ -26,11 +27,7 @@ Your first day is not going to involve managing a lunch rush or getting yelled a
 
 ## The Paperwork and the Uniform
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
-![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
+![Wendy’s Operational Guide](../../assets/images/general/generic-prep.webp)
 
 Before you can even touch a spatula, you have to be legally onboarded. 
 
@@ -98,5 +95,5 @@ If you move to back-of-house operations, your trainer will introduce you to the 
 <div class="callout callout-tip">
 Before you even step on the line, your uniform is your first line of defense. The floors in a Wendy's kitchen are notoriously slick due to ambient grease from the clamshell grills and fry stations. Investing in high-quality, oil-resistant non-slip shoes is non-negotiable. Standard sneakers will have you sliding across the prep area, creating a massive safety hazard for yourself and your crew.
 
-Additionally, keep your uniform apron clean and your hat or visor secure. A pristine uniform signals to the shift manager that you are organized and ready to work. At the end of your shift, pre-treat any grease stains on your shirt immediately; otherwise, the smell of fryer oil will bake into the fabric permanently.
+On top of that, keep your uniform apron clean and your hat or visor secure. A pristine uniform signals to the shift manager that you are organized and ready to work. At the end of your shift, pre-treat any grease stains on your shirt immediately; otherwise, the smell of fryer oil will bake into the fabric permanently.
 </div>

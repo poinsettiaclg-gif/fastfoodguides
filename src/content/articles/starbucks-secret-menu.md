@@ -1,7 +1,6 @@
 ---
 title: 'Starbucks Secret Menu: The Truth From Behind the Bar'
-description: The Starbucks secret menu doesn't officially exist. This guide covers the operational headache of custom orders, why baristas
-  dread it, how they handle custom orders, and what goes into making them.
+description: "The Starbucks secret menu doesn't officially exist. This guide covers the operational headache of custom orders, why baristas dread it, how they handle..."
 pubDate: '2025-06-19'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -9,8 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Coffee
 relatedArticles:
-- starbucks-cold-bar-frappuccino
-- starbucks-morning-rush
+  - starbucks-first-day-training
+  - starbucks-morning-rush
+  - starbucks-dpm-routing
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
 - question: Will a barista refuse to make a 'secret menu' drink?
@@ -29,15 +29,7 @@ What people call the Starbucks “secret menu” is actually just a collection o
 
 ## How the “Secret Menu” Myth Got Started
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 ![Starbucks Secret Menu The Truth From Behind the Bar](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 The concept took off around 2012-2013, when Tumblr and early Instagram food accounts started posting elaborate custom Starbucks drinks with catchy names. A user would figure out that if you ordered a Vanilla Bean Frappuccino with raspberry syrup and java chips, it tasted vaguely like a raspberry cheesecake. They'd name it the “Raspberry Cheesecake Frappuccino,” photograph it with good lighting, and post it online. Other people would see it, want to try it, and show up at Starbucks asking for a drink that doesn't exist on any menu.
 

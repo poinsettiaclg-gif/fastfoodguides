@@ -19,17 +19,14 @@ faq:
     himself. The patties are perfectly safe and the grill char actually adds significant
     flavor to the chili base that raw ground beef wouldn't provide.
 relatedArticles:
-- wendys-4-corner-press
-- wendys-clamshell-grill
+  - wendys-frosty-machine-boil-out
+  - wendys-closing-duties
+  - wendys-drive-thru-timer
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 An average busy Wendy's restaurant churns through dozens of pounds of overcooked hamburger patties every week. Rather than throwing that expensive protein in the dumpster, it becomes the foundation of their chili. If you're a new hire, you'll learn on your very first day that Wendy's chili incorporates cooked hamburger patties that have exceeded their strict hold-time on the grill. But rather than a shortcut, this is actually one of the smartest pieces of kitchen efficiency in the entire fast food industry, and the food safety protocols behind it are incredibly rigorous.
 
 ## The "Burned" Meat Rule
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 Wendy's entire brand promise is fresh, never-frozen beef. Because the beef is fresh, it has a very short window of usability once it hits the grill. If a hamburger patty sits on the [two-sided clamshell grill](/articles/wendys-clamshell-grill) for too long, it dries out and cannot be served as a burger. (Many chains use double-sided grills manufactured by companies like [Taylor Company](https://www.taylor-company.com/) for speed, but the hold time is unforgiving.)
 
@@ -39,8 +36,7 @@ So Wendy's repurposes it. And the key word this is "repurposes," not "reuses." T
 
 ## The Chili Meat Process: Step by Step
 
-![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-prep.webp)
 
 1. **The Chop:** The overcooked patties are pulled off the grill and placed into a designated metal pan. A cook takes a heavy metal chopping tool—for all practical purposes a flat-edged metal blade—and breaks the square patties down into small, bite-sized crumbles. The target crumble size is about the size of a pea. Uniform, small crumbles ensure every ladle has the same consistency and that the meat reheats evenly.
 
@@ -64,8 +60,7 @@ When those charred crumbles are simmered in the chili base for hours, they relea
 
 ## Holding, Rotation, and Daily Production
 
-![Wendy's Operational Guide](../../assets/images/general/generic-prep.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-prep.webp)
 
 Once the chili is simmering in the warmer, it is absolutely not a set-it-and-forget-it situation. The chili must be stirred from the bottom at least every 30 minutes. If it sits undisturbed, the beans and meat settle while the liquid rises, creating an uneven product where one customer gets watery broth and the next gets a thick, chunky ladle.
 

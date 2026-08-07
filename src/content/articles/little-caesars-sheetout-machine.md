@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Little Caesars
 topic: Pizza
 relatedArticles:
-- little-caesars-hot-n-ready-system
-- papa-johns-dough-slapping
+  - little-caesars-hot-n-ready-system
+  - papa-johns-dough-spinner
+  - dominos-20-bank-rule
 faq:
 - question: Why does the pizza dough shrink after going through the sheeter?
   answer: Shrinking usually occurs when the dough is too cold or hasn't had enough
@@ -25,15 +26,7 @@ At a traditional pizzeria, making a crust is a craft. You take a dough ball, str
 
 ## What the Sheeter Actually Is
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Little Caesars Sheet-Out Machine Press and Go](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Picture a commercial pasta maker scaled up to pizza size. The Sheeter is a heavy-duty piece of equipment with massive, rotating metal rollers set to a precise gap width. It sits on the prep table and dominates the station. There is nothing elegant about it—it's loud, it's industrial, and it's the backbone of the entire operation. 
 
@@ -42,7 +35,6 @@ The rollers are calibrated to corporate specifications. The gap between them det
 ## The Two-Pass Technique
 
 ![Little Caesars Sheet-Out Machine Press and Go](../../assets/images/general/generic-walk-in-2.webp)
-
 
 The actual process takes about three to four seconds per pizza, and it involves two passes through the rollers with a critical rotation between them.
 

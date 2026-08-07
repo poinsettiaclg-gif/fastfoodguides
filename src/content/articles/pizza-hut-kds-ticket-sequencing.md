@@ -16,9 +16,9 @@ tags:
 - Training
 - Pizza Hut
 relatedArticles:
-- dominos-makeline-routing
-- dominos-oven-tender-role
-- dominos-super-bowl-pulse-system
+  - pizza-hut-dispatch
+  - taco-bell-rethermalizer-90-minute-bag-drop-cycle
+  - ecosure-audit-death-spiral
 faq:
 - question: Why should makeline workers avoid strict FIFO when building pizzas?
   answer: Because different pizzas have vastly different assembly times (e.g., a 20-second
@@ -39,13 +39,7 @@ The Pizza Hut KDS is a highly specific piece of digital architecture. When it ro
 
 ## 1. The Illusion of "First In, First Out" (FIFO)
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![The Real Reason Your Makeline is Bottlenecking Optimizing Ticket Sequencing](../../assets/images/general/generic-fryer.webp)
-
-
 
 In standard food-safety training, we all had **FIFO (First In, First Out)** drilled into our heads. But applying strict chronological FIFO to a digital KDS when you are managing staggered pizza build times is a rookie kitchen mistake.
 

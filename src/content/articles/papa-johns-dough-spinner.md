@@ -1,7 +1,7 @@
 ---
 title: What is the Papa John's "Dough Spinner" (And Is It Cheating?)
-description: "An insider look at the Papa John's Dough Spinner machine \u2014 how\
-  \ it works, why veterans hate it, and what it means for your pizza crust quality."
+description: "An insider look at the Papa John's Dough Spinner machine u2014 how
+   it works, why veterans hate it, and what it means for your pizza crust quality."
 pubDate: '2024-07-21'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Papa John's
 topic: Pizza
 relatedArticles:
-- papa-johns-dough-slapping
+  - papa-johns-dough-slapping
+  - dominos-oven-tender-role
+  - little-caesars-hot-n-ready-system
 faq:
 - question: Does every Papa John's location have a Dough Spinner?
   answer: No. The decision to purchase one is made at the franchise level.
@@ -24,15 +26,7 @@ Then the Dough Spinner showed up, and everything changed.
 
 ## What the Dough Spinner Actually Is
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![What is the Papa John](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 The Dough Spinner — sometimes called a dough press or a dough sheeter, depending on who you ask — is basically a massive waffle iron without the grids. Picture two heavy, flat metal platens bolted to a hydraulic arm, sitting on your makeline prep table like a cast-iron anchor. The thing weighs a ton and eats up precious counter space that you could be using for sauce cups and cheese bins. 
 
@@ -43,7 +37,6 @@ It hums. There is a constant low electrical hum when it's warmed up and ready to
 ## How the Machine Actually Works
 
 ![What is the Papa John](../../assets/images/general/generic-walk-in-2.webp)
-
 
 Instead of the theatrical slapping and spinning that [Papa John's traditionalists love](/articles/papa-johns-dough-slapping), the process is almost insultingly simple:
 

@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dairy Queen
 topic: Other Chains
 relatedArticles:
-- dairy-queen-perfect-cone-curl
-- five-guys-fry-calibration
+  - dairy-queen-perfect-cone-curl
+  - dairy-queen-grill-and-chill-flow
+  - chilis-baby-back-ribs
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: Do you really get a free Blizzard if they forget to flip it?
@@ -30,10 +31,6 @@ I've watched hundreds of new DQ employees stare at a full Blizzard cup like it's
 
 ![Dairy Queen Blizzard Flip Why They Flip It Upside Down](../../assets/images/general/generic-prep.webp)
 
-
-
-
-
 Dairy Queen soft serve is fundamentally different from the hard-pack ice cream you buy at a grocery store, and that difference is the entire reason the flip works. 
 
 Two factors keep the Blizzard in the cup:
@@ -48,8 +45,7 @@ When you flip the cup upside down, gravity is pulling the ice cream downward, bu
 
 ![Dairy Queen Blizzard Flip Why They Flip It Upside Down](../../assets/images/general/generic-drive-thru-3.webp)
 
-
-The part they leave out of orientation is during training: the flip's success has almost nothing to do with the ice cream itself. It's almost entirely about how the employee blends it.
+A major detail they skip in the training videos: the flip's success has almost nothing to do with the ice cream itself. It's almost entirely about how the employee blends it.
 
 When an employee adds candy—M&Ms, Cookie Dough, Oreo pieces—to the cup of soft serve, they mount it on a high-speed spindle blender. That spindle is a vertically mounted metal shaft with a blade at the bottom, spinning at several thousand RPM. It is a brutally effective mixing tool, and it will absolutely destroy your Blizzard if you don't respect it.
 

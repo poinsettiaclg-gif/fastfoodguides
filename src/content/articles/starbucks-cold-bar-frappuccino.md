@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
-- starbucks-customer-support-cycle
+  - starbucks-morning-rush
+  - starbucks-dpm-routing
+  - starbucks-drive-thru-dto-dtr
 faq:
 - question: What is the hardest part about working Cold Bar?
   answer: The sheer volume. During a summer afternoon, Cold Bar can receive a continuous
@@ -26,10 +28,6 @@ The Hot Espresso Bar gets all the prestige, but the Cold Bar is where Starbucks 
 ## The Frappuccino Build: Step by Step
 
 ![Starbucks Cold Bar How Frappuccinos Are Built](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Frappuccinos involve more steps than any other drink on the Starbucks menu. You cannot muscle through them one at a time during a rush—you have to sequence them. The exact build order is:
 
@@ -57,7 +55,6 @@ The key to clean sequencing is station organization. Before the rush hits, your 
 ## CBS Pumps vs. Hot Bar Pumps: The Mistake That Ruins Drinks
 
 ![Starbucks Cold Bar How Frappuccinos Are Built](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is the single most common Cold Bar error, and it trips up experienced baristas who transfer from Hot Bar, not just new staff.
 
@@ -89,4 +86,22 @@ Before the afternoon rush hits, take five minutes to set up your station properl
 - **Whipped cream:** At least two full canisters. Running out of whip mid-rush means a trip to the back that costs you 90 seconds.
 
 Rinse your blender pitcher with a quick blast of water between every drink. A 2-second rinse prevents flavor carryover—nobody wants their Vanilla Bean Creme Frap tasting like the Mocha that was blended before it—and keeps the pitcher from getting sticky. It's a tiny habit that prevents remakes and angry regulars.
+
+
+
+<div class="product-card">
+	<div class="product-card-image">
+		<img src="https://m.media-amazon.com/images/I/71p-jHwGq1L._AC_SX679_.jpg" alt="Vitamix "The Quiet One" Commercial Blender" loading="lazy" width="100" height="100" />
+	</div>
+	<div class="product-card-content">
+		<h4 class="product-card-title">Vitamix "The Quiet One" Commercial Blender</h4>
+		<div class="product-card-desc">
+			<p>Used by major coffee chains for a reason. Blends efficiently without deafening the barista or drive-thru microphone. A must-have for independent coffee shops.</p>
+		</div>
+		<a href="https://amzn.to/example-vitamix" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+			Check Price on Amazon
+		</a>
+	</div>
+</div>
 

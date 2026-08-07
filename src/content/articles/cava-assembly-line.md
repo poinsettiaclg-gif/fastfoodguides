@@ -10,9 +10,9 @@ chain: Cava
 topic: Other Chains
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- sweetgreen-mixing-station
-- chipotle-guacamole
-- chipotle-massive-burrito-rolling
+  - cava-digital-make-line
+  - chilis-baby-back-ribs
+  - panera-overnight-baker
 faq:
 - question: How does Cava maintain portion control on the assembly line?
   answer: Cava uses a strict scoop-and-spade system. Proteins get a 4oz flat scoop,
@@ -24,15 +24,11 @@ faq:
     the pace) stops to wait for an indecisive customer instead of using the 'skip
     and return' technique, the whole line starves.
 ---
-The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully orchestrated panic attack, yet the line keeps moving. Fast.
+The ticket printer hasn't stopped for 45 minutes, the line is out the door, and the expo is furiously tapping bowls to check ingredient distribution. A Tuesday lunch rush at Cava looks like a beautifully managed panic attack, yet the line keeps moving. Fast.
 
-The secret to Cava's throughput isn't just hustle; it's a meticulously designed assembly line that prevents bottlenecks before they happen.
+The secret to Cava's throughput isn't just hustle; it's a carefully designed assembly line that prevents bottlenecks before they happen.
 
 ## The Three-Zone Layout
-
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
 
 ![How Is Cava Food Made? Inside the Bowl Assembly Line](../../assets/images/general/generic-drive-thru-3.webp)
 
@@ -124,7 +120,6 @@ Most stores use a simple dry-erase whiteboard mounted near the kitchen pass, vis
 1.  **The prep cook or line worker calls "86 Harissa Honey Chicken"** loud enough for the entire line to hear.
 2.  **The shift lead writes it on the 86 board** with the time it was called and an estimated restock time (e.g., "86 HHC — 12:45 PM — back by 1:15 PM").
 3.  **The base station worker** is responsible for informing every guest before they start building their bowl. Nothing is worse than a customer getting to the protein station and finding out their chicken is gone after they've already committed to a base.
-
 
 ### Substitution Protocol
 

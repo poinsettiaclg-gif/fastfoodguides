@@ -6,7 +6,7 @@ import HeaderLink from './HeaderLink.astro';
 <header>
 	<nav aria-label="Main navigation">
 		<a href="/" class="brand">
-			<img src="/favicon.svg" alt="Fast Food Guides Logo" class="brand-icon" />
+			<img src="/favicon.svg" alt="Fast Food Guides Logo" class="brand-icon" width="32" height="32" />
 			<span class="brand-name">{SITE_TITLE}</span>
 		</a>
 
@@ -276,6 +276,10 @@ import HeaderLink from './HeaderLink.astro';
 		}
 		.nav-links :global(a:hover) {
 			background-color: rgba(255, 255, 255, 0.05);
+		}
+		.nav-links :global(.header-cta) {
+			margin-left: 0;
+			justify-content: center;
 		}
 	}
 </style>

@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Waffle House
 topic: Breakfast & Coffee
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
-- wendys-chili-leftover-hamburgers
+  - dunkin-flavor-shot-vs-swirl
+  - dutch-bros-drive-thru
+  - starbucks-pull-to-thaw
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 faq:
 - question: What does scattered, smothered, and covered mean at Waffle House?
@@ -25,22 +25,13 @@ faq:
 ---
 7.  How Does the Waffle House Hash Brown Ordering System Work?
 
-
 If you've ever sat at the counter of a Waffle House at 2 AM and watched the grill operator work, you've probably noticed something strange. There is a language happening between the server, the ticket, and the cook that doesn't involve much talking at all. Condiment packets and jelly containers get placed on plates in specific positions. Tickets get marked with cryptic shorthand. And somehow, out of what looks like total chaos, your hash browns come out exactly the way you ordered them — smothered, covered, chunked, and peppered. 
 
 I spent time working alongside Waffle House crew members during a cross-training stint early in my QSR career, and their hash brown system is genuinely undoubtedly the elegant ordering systems out there. It's not just a menu gimmick. It's a fully integrated communication protocol between front of house and back of house that has been refined over decades. 
 
 ## The Nine Modifications, Explained
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![Waffle House Hash Brown System All Nine Mods](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 Every order of Waffle House hash browns starts with a base: a portion of dehydrated potato that gets rehydrated and then cooked on the flat-top. From there, customers can add up to nine modifications. This is what each one actually means in the kitchen: 
 

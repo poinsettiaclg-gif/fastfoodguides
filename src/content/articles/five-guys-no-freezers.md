@@ -16,9 +16,9 @@ faq:
   answer: The raw meat has a maximum hold time of around 30 hours before it must be
     used.
 relatedArticles:
-- five-guys-fry-calibration
-- chipotle-grill-validation
-- arbys-meat-slicer
+  - five-guys-first-day-training
+  - five-guys-burger-build
+  - five-guys-fry-calibration
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 disclaimerType: food_safety
 ---
@@ -26,15 +26,7 @@ Walk-in freezers are the safety net of the fast-food industry—unless you work 
 
 ## The Walk-In Cooler: The Single Most Important Piece of Equipment in the Building
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Does Five Guys Really Not Have Any Freezers?](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 Without a freezer, Five Guys lives and dies by their walk-in cooler. And it's not the cramped, closet-sized cooler you'll find at most fast-food joints. A typical Five Guys walk-in is significantly larger than what you'd expect—it has to be, because it's holding everything the store needs for the next one to two days, all of it fresh, all of it perishable, all of it on a ticking clock. 
 
@@ -47,14 +39,13 @@ Inside that cooler on any given morning you'll find:
 
 Temperature control is absolutely non-negotiable. That cooler must hold between 34°F and 40°F at all times. If the compressor fails overnight and the internal temperature drifts above 40°F for an extended period, the morning crew may walk in to find that the entire inventory—thousands of dollars' worth of fresh product—has to be thrown away before the store even opens. I've heard horror stories from Five Guys managers about summer compressor failures that resulted in $3,000 to $5,000 in scrapped inventory before 7 AM.
 
-The cooler compressor is essentially the heartbeat of the restaurant. If it stops, the restaurant stops.
+The cooler compressor is for all practical purposes the heartbeat of the restaurant. If it stops, the restaurant stops.
 
 <div class="callout callout-tip">**ProTip:** To manage food safety without freezers, Five Guys uses wireless sensors that transmit cooler temperatures every five minutes to cloud-based software, triggering immediate alerts if temperatures drift.</div>
 
 ## The Morning Prep: Why Five Guys Openers Work Harder Than Almost Anyone in Fast Food
 
 ![Does Five Guys Really Not Have Any Freezers?](../../assets/images/general/generic-walk-in-2.webp)
-
 
 This is where the no-freezer reality hits hardest for employees. At most fast-food chains, the morning prep involves pulling frozen product out of the freezer, stacking it on the line, and maybe doing some light slicing or portioning. At Five Guys, there is no frozen product to pull. Everything starts from raw, whole ingredients, and every single item has to be prepped by hand.
 

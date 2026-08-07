@@ -16,22 +16,15 @@ faq:
   answer: No, IHOP does not use butter, oil, or cooking spray on the griddle. They
     dry-cook the pancakes to prevent a lacy edge.
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
-- wendys-chili-leftover-hamburgers
+  - starbucks-customer-support-cycle
+  - dennys-grand-slam-build
+  - starbucks-cold-bar-frappuccino
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 disclaimerType: food_safety
 ---
 ## Does IHOP Actually Make Their Pancake Batter From Scratch?
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![IHOP Pancake Batter What](../../assets/images/general/generic-fryer.webp)
-
-
-
 
 If you've ever eaten a stack of IHOP's Original Buttermilk pancakes and thought “there is no way these are made completely from scratch,” your instincts are partially correct. IHOP pancakes do not start from a bag of flour, a tin of baking powder, and a carton of eggs the way your grandmother's recipe does. But they're also not frozen discs pulled from a box and reheated on a flattop. The truth sits somewhere in between, and the process involves more skill and technique than most people give it credit for. 
 

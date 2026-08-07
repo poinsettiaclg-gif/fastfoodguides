@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chipotle
 topic: Mexican
 relatedArticles:
-- chipotle-fajita-veggie-cut
+  - chipotle-grill-validation
+  - chipotle-massive-burrito-rolling
+  - chipotle-sour-cream-consistency
 faq:
 - question: How many avocados are in a batch of Chipotle guacamole?
   answer: A standard batch requires 48 whole, ripe Hass avocados. depending
@@ -23,15 +25,7 @@ heroImage: ../../assets/images/general/generic-fryer-2.webp
 ---
 ## Six Ingredients. No Blender. No Shortcuts.
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 Chipotle's guacamole is one of the few items in fast food that is genuinely made from scratch, in the restaurant, multiple times per day. There is no powdered guac mix, no pre-made tub shipped from a commissary, no food processor involved. A prep cook stands at a cutting board every morning and makes guacamole by hand using six ingredients: 
-
-
-
-
 
 1. **Hass avocados** (ripe, whole)
 2. **Lime juice** (fresh-squeezed from real limes)
@@ -46,7 +40,7 @@ That's it. No garlic, no tomato, no cumin, no sour cream. Just six ingredients c
 
 The guacamole prep happens before the restaurant opens, usually starting around **7:00–8:00 AM**. It's one of the most labor-intensive prep tasks at Chipotle, and it's typically assigned to the most experienced prep cook because consistency matters. 
 
-### Step 1: Check the Avocados
+### 1. Check the Avocados
 
 Cases of Hass avocados arrive from produce distributors several times per week. Each case contains roughly **48 avocados**, and a typical Chipotle location goes through **2 to 5 cases per day** depending on volume — that's **96 to 240 avocados daily**.
 
@@ -62,7 +56,7 @@ The first thing the prep cook does is check ripeness. Not every avocado in a cas
 
 Chipotle's supply chain tries to time deliveries so avocados arrive at peak ripeness, but it's an imperfect science. Temperature fluctuations during shipping, seasonal variation, and the natural unpredictability of fruit ripening mean that every case is a gamble. Experienced prep cooks can assess a full case of 48 avocados in about 2 minutes just by feel.
 
-### Step 2: Cut, Pit, and Scoop
+### 2. Cut, Pit, and Scoop
 
 Each avocado is:
 
@@ -73,7 +67,7 @@ Each avocado is:
 
 A skilled prep cook can cut, pit, and scoop an avocado in about **10–15 seconds**. At 48 avocados per case, that's roughly 10 minutes per case just for the cutting step.
 
-### Step 3: Mash by Hand
+### 3. Mash by Hand
 
 This is the critical step. Chipotle's guacamole is **hand-mashed**, not blended, not processed, not whipped. The prep cook uses a **potato masher or large whisk** to crush the avocado flesh in the bowl.
 
@@ -81,7 +75,7 @@ The target texture is **chunky** — Chipotle's standard calls for a mix of smoo
 
 The mashing takes about **2–3 minutes per batch** and requires genuine physical effort. A full batch of guacamole from 48 avocados produces a heavy bowl that gets increasingly difficult to work as the volume builds up.
 
-### Step 4: Add the Mix-Ins
+### 4. Add the Mix-Ins
 
 Once the avocado is mashed to the right consistency, the remaining ingredients go in:
 
@@ -95,7 +89,7 @@ Everything is **folded in gently** — not stirred aggressively — to maintain 
 
 ![Chipotle Guacamole Made From Scratch Daily](../../assets/images/general/generic-drive-thru-3.webp)
 
-### Step 5: Taste and Adjust
+### 5. Taste and Adjust
 
 Chipotle trains their prep cooks to **taste the guacamole** before it goes to the line. The balance of salt, acid (lime), and heat (jalapeño) needs to be right. If the avocados were particularly mild, more salt or lime might be needed. If the jalapeños are unusually hot (which varies significantly by batch), less might go in.
 
@@ -154,7 +148,6 @@ When you pay extra for guacamole at Chipotle, you're getting a product that is:
 - Prepared **the same day** you eat it — not sitting in cold storage for days
 
 Compared to the "guacamole" at most fast food chains (which is typically a processed paste made from avocado pulp, modified food starch, and citric acid), Chipotle's version is a fundamentally different product. Whether that difference is worth $3 extra on your burrito bowl is a personal decision, but from an operational and ingredient standpoint, it's not the same thing with a markup — it's an entirely different class of product.
-
 
 ### See Also
 

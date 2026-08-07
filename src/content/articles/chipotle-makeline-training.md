@@ -1,8 +1,6 @@
 ---
 title: 'Chipotle Makeline Training: Surviving the Lunch Rush on Tortilla and Salsa'
-description: A comprehensive operational walkthrough of Chipotle's front makeline,
-  detailing the division between Tortilla and Salsa stations, portion control math,
-  and rush cadences.
+description: "A comprehensive operational walkthrough of Chipotle's front makeline, detailing the division between Tortilla and Salsa stations, portion control math,..."
 pubDate: '2024-06-05'
 updatedDate: '2026-07-25'
 heroImage: ../../assets/images/general/generic-fryer-2.webp
@@ -11,9 +9,9 @@ authorTitle: Former Multi-Unit QSR Kitchen Manager
 chain: Chipotle
 topic: Operations
 relatedArticles:
-- chipotle-fajita-veggie-cut
-- chipotle-grill-validation
-- chipotle-guacamole
+  - chipotle-fajita-veggie-cut
+  - chipotle-grill-validation
+  - chipotle-guacamole
 faq:
 - question: What is the difference between Tortilla and Salsa stations at Chipotle?
   answer: Tortilla is the hot-side station at the beginning of the line where workers
@@ -33,13 +31,7 @@ Achieving this velocity without destroying food cost margins requires an obsessi
 
 ## 1. The Tortilla Station: The Hot Side Foundation
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Chipotle Makeline Training Surviving the Lunch Rush on Tortilla and Salsa](../../assets/images/general/generic-pos.webp)
-
-
 
 The Tortilla station is the anchor of the makeline. Whoever works Tortilla controls the speed and pacing of the entire restaurant. If Tortilla moves slowly, the cashier and Salsa workers stand idle; if Tortilla moves too fast without clear communication, the line crashes into a bottleneck.
 

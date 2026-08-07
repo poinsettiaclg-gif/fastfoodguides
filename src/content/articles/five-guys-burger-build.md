@@ -18,20 +18,14 @@ faq:
     bulk ground beef is portioned and rolled into balls by hand in the restaurant
     before being hand-smashed on the grill.
 relatedArticles:
-- five-guys-fry-calibration
+  - five-guys-first-day-training
+  - five-guys-fry-calibration
+  - five-guys-no-freezers
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## The Beef Arrives Fresh. Every Single Day.
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 Five Guys has exactly one rule about their beef that drives every other operational decision in the kitchen: **it is never frozen. Ever.** The ground beef arrives fresh from a regional distributor every morning (sometimes twice a day at high-volume locations), and it must be used within a strict window before it's wasted out. 
-
-
-
-
 
 This is the same principle as [Wendy's](/articles/chain/wendys) "fresh, never frozen" claim, but Five Guys takes it a step further. While [Wendy's](/articles/chain/wendys) receives pre-formed patties, **Five Guys receives bulk ground beef** and portions it into balls by hand in the restaurant. Every single patty starts as a hand-formed ball of ground beef, weighed to spec on a scale. 
 
@@ -41,11 +35,11 @@ The standard weight for a "little" hamburger patty (the single) is approximately
 
 Five Guys does not use pre-formed patties, patty presses, or any mechanical forming device. Every patty is **hand-smashed on the flat-top grill** by the cook.
 
-### Step 1: Ball to Grill
+### 1. Ball to Grill
 
 The cook takes a pre-weighed ball of ground beef and places it directly on the flat-top grill, which runs at approximately **400°F**. The grill surface is seasoned with a thin layer of peanut oil (this is why Five Guys has prominent peanut allergy warnings — the peanut oil is used throughout the cooking process).
 
-### Step 2: The Smash
+### 2. The Smash
 
 Within seconds of the ball hitting the grill, the cook uses a **metal press tool** to smash it flat. This is done with one firm, decisive push — not a gradual pressing. The goal is to flatten the ball into a patty roughly 4–5 inches in diameter in a single motion.
 
@@ -57,13 +51,13 @@ The smash accomplishes two critical things:
 
 ![Five Guys Burger Build How It](../../assets/images/general/generic-walk-in-2.webp)
 
-### Step 3: Season and Wait
+### 3. Season and Wait
 
 Immediately after the smash, the cook hits the patty with **Lawry's Seasoned Salt** — the only seasoning Five Guys uses on their burgers. No pepper, no garlic, no proprietary blend. Just Lawry's.
 
 The patty cooks on the first side for approximately **2 to 2.5 minutes**. During this time, the cook does not touch it. Pressing or moving the patty after the initial smash would break the crust that's forming on the contact surface.
 
-### Step 4: The Flip
+### 4. The Flip
 
 After the first side is fully crusted, the cook flips the patty exactly once. The second side cooks for approximately **1.5 to 2 minutes**. Five Guys patties are cooked **well-done by policy** — there is no option for medium or rare. This is a food safety decision driven by the fact that ground beef (as opposed to whole-muscle steaks) carries a higher risk of bacterial contamination throughout the meat.
 

@@ -1,8 +1,6 @@
 ---
 title: What is the Five Guys "Fry Calibration" Every Morning?
-description: "A QSR veteran explains the daily Five Guys fry calibration process\u2014\
-  the Mush Test, two-stage cooking, starch washing, and why potatoes change every\
-  \ week."
+description: "A QSR veteran explains the daily Five Guys fry calibration processu2014 the Mush Test, two-stage cooking, starch washing, and why potatoes change..."
 pubDate: '2024-10-06'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -17,8 +15,9 @@ faq:
   answer: The mush test involves squeezing a cooled, pre-cooked fry to ensure the
     inside has a mashed potato consistency before the final cook.
 relatedArticles:
-- five-guys-no-freezers
-- in-n-out-board-station
+  - five-guys-no-freezers
+  - five-guys-burger-build
+  - five-guys-morning-meat-prep
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 disclaimerType: food_safety
 ---
@@ -26,15 +25,7 @@ Five Guys is famous for two things: burgers that weigh more than your phone and 
 
 ## The Morning Potato Prep: It All Starts With a Knife and Cold Water
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 Five Guys does not use frozen fries. Not a single frozen potato product exists anywhere in their building. Every morning, the prep team hauls 50-pound bags of raw Idaho or Kennebec potatoes out of the walk-in cooler, washes them, and runs them through heavy-duty wall-mounted manual slicers that cut each potato into uniform sticks in one pull of the lever. 
-
-
-
-
 
 But The reality on the ground is about the prep—cutting the potatoes is the easy part. The critical step is what happens immediately after: the starch wash. 
 
@@ -45,7 +36,6 @@ Some batches need 20 minutes of soaking. Others need 30 or more, depending on ho
 ## The Two-Stage Cook: Why Five Guys Fries Are Different From Every Other Chain
 
 ![What is the Five Guys ](../../assets/images/general/generic-prep.webp)
-
 
 You cannot just drop raw potato sticks into 350-degree peanut oil and expect a Five Guys fry. They use a strict two-stage cooking process borrowed from the Belgian double-fry technique, adapted for a high-volume fast-food environment:
 
@@ -58,7 +48,6 @@ The science is straightforward: the first cook gelatinizes the starch inside the
 ## The Calibration: What Actually Happens and Why It's Non-Negotiable
 
 ![What is the Five Guys ](../../assets/images/general/generic-fryer.webp)
-
 
 This is the thing nobody outside the industry understands about potatoes: they're a living agricultural product, and they change constantly. A potato harvested in September has different sugar content than one harvested in November. A potato stored in cold conditions for two months has converted more of its starch into sugar. A potato from Idaho behaves differently than one from Washington state. These variations directly affect how fast the fry browns, how long it needs to cook, and what the finished product looks and tastes like.
 

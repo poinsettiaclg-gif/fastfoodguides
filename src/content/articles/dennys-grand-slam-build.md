@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Denny's
 topic: Breakfast & Coffee
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
+  - dutch-bros-drive-thru
+  - starbucks-cold-bar-frappuccino
+  - waffle-house-hash-brown-system
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
@@ -30,19 +31,9 @@ I spent almost two years working the grill at a Denny's off I-35 in central Texa
 
 ## The Flat-Top Is the Entire Operation
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Denny](../../assets/images/general/generic-prep.webp)
 
-
-
 Unlike a lot of fast food kitchens where you've got dedicated fryers, clamshell grills, and holding cabinets doing most of the work, a Denny's kitchen runs almost everything through the flat-top griddle. Ours was a 6-foot commercial griddle — a Vulcan unit — and it was the heartbeat of the entire restaurant. 
-
-
-
-
 
 The surface temperature sits between 350°F and 375°F depending on the zone. Most cooks run the left side slightly hotter for pancakes and the right side a touch cooler for eggs. You don't get separate temperature dials for each section on most units, so you learn where the hot spots and dead spots are through repetition. After a few weeks, you know that the back-left corner runs about 15 degrees hotter than the front-right.
 
@@ -173,7 +164,7 @@ The expo — the person at the pass who checks plates before they go to the tabl
 
 This is something most guests don't think about: Denny's is one of the hardest chains to cook at, and the Grand Slam is a big part of the reason.
 
-At most fast-food chains, cooking is essentially assembly. The burgers come out of a clamshell grill at a fixed time. The fries come out of the fryer when the timer beeps. The chicken nuggets are batch-cooked and held in a warming cabinet. Your job is to follow a process, not actually *cook*.
+At most fast-food chains, cooking is functionally assembly. The burgers come out of a clamshell grill at a fixed time. The fries come out of the fryer when the timer beeps. The chicken nuggets are batch-cooked and held in a warming cabinet. Your job is to follow a process, not actually *cook*.
 
 At Denny's, almost everything is made to order on the flat-top. Every egg is cracked fresh. Every pancake is poured from batter. There is very little batch cooking or holding. That means every single ticket requires active, hands-on cooking from start to finish. You can't just press a button and walk away.
 

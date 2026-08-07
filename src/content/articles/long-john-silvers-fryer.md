@@ -18,8 +18,9 @@ faq:
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-  - "wendys-fresh-never-frozen"
+  - arbys-meat-slicer
+  - chick-fil-a-waffle-fry-station
+  - dairy-queen-blizzard-flip
 ---
 Long John Silver's has a very distinct, incredibly crispy batter that defines their entire menu. Achieving that specific texture—and maintaining it across thousands of pieces of fish a day—requires specialized fryer equipment and a technique that goes completely against how you fry standard fast food items like french fries or chicken nuggets.
 
@@ -27,18 +28,9 @@ If you drop battered fish into a fryer the wrong way, it sinks to the bottom, fu
 
 ## The Specialized Fryer Vat
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Long John Silver](../../assets/images/general/generic-drive-thru-3.webp)
 
-
 Unlike a standard fast-food fryer which has a deep "cold zone" to catch loose salt and crumbs, a Long John Silver's fryer is engineered specifically for wet batter.
-
-
-
-
 
 *   **The Skimmer:** Because the batter is wet and prone to flaking off during the initial cook, massive amounts of crispy batter fragments float to the surface. These are the famous "crumplies" (or "crispies"). If these are left in the oil, they burn and degrade the oil quality instantly. Fry cooks use a specialized wide skimmer to constantly sweep the surface of the oil between batches.
 *   **The Temperature:** The oil is held at 350°F for fish and chicken, which is slightly lower than a standard [McDonald's](/articles/chain/mcdonalds) fry vat (375°F) but higher than a typical chicken pressure fryer at [KFC](/articles/chain/kfc) (325°F). This ensures the thick batter cooks all the way through without burning the outside before the fish inside is flaky and opaque. The fryers themselves are typically Henny Penny open-vat units or Pitco floor models, calibrated with digital thermostats that hold within ±3°F of the setpoint.

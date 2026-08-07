@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Little Caesars
 topic: Pizza
 relatedArticles:
-- little-caesars-sheetout-machine
-- dominos-oven-tender-role
-- pizza-hut-dispatch
+  - little-caesars-sheetout-machine
+  - dominos-dough-stretching
+  - dominos-oven-tender-role
 faq:
 - question: Does Little Caesars use CVap ovens to hold the pizzas?
   answer: While many mistakenly believe they use CVap technology, Little Caesars actually
@@ -26,15 +26,7 @@ The most stressful job in a Little Caesars isn't making the pizzas; it's predict
 
 ## The Holding Cabinets: Temperature Management
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Little Caesars Hot-N-Ready How the System Works](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 Behind the front counter at every Little Caesars, you'll see tall, heated metal cabinets packed with boxed pizzas. Customers assume these are just warmers—big metal boxes with a heating element. While they are often mistakenly referred to as CVap cabinets, most locations use standard commercial heated holding cabinets. The engineering inside them focuses on maintaining ambient heat above the [FDA's temperature danger zone](https://www.fda.gov/food).
 
@@ -45,7 +37,6 @@ The balance is everything. The cabinets are calibrated to corporate specificatio
 ## The Clock Marking System: 30 Minutes to Live
 
 ![Little Caesars Hot-N-Ready How the System Works](../../assets/images/general/generic-prep.webp)
-
 
 Every pizza that comes out of the oven gets a time stamp, and the system is designed to be fast and completely idiot-proof during a rush.
 

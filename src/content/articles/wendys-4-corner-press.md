@@ -1,7 +1,6 @@
 ---
 title: What is the Wendy's "4-Corner Press" Technique?
-description: Former grill manager explains the 4-Corner Press technique Wendy's uses
-  to keep fresh square patties from shrinking, with timing windows and common mistakes.
+description: "Former grill manager explains the 4-Corner Press technique Wendy's uses to keep fresh square patties from shrinking, with timing windows and common..."
 pubDate: '2026-04-12'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -19,9 +18,9 @@ faq:
     for flat-top operations and remains a piece of core company lore from their 1989
     Grill Skills video.
 relatedArticles:
-- wendys-clamshell-grill
-- wendys-chili-leftover-hamburgers
-- wendys-closing-duties
+  - wendys-fresh-never-frozen
+  - wendys-closing-duties
+  - wendys-chili-leftover-hamburgers
 heroImage: ../../assets/images/general/generic-grill.webp
 disclaimerType: food_safety
 ---
@@ -31,11 +30,7 @@ It's called the 4-Corner Press. If you skip it, you'll turn a beautiful square p
 
 ## Why Fresh Beef Fights Back
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
-![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
+![Wendy’s Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 When you throw a frozen hamburger patty onto a grill, it basically acts like a hockey puck. The ice crystals that formed during freezing have broken down the cell walls, creating a rigid structure that holds its shape under heat. The patty sits there, takes the heat, and cooks predictably. 
 
@@ -45,8 +40,7 @@ I watched trainees stare at this process in complete bewilderment. They drop a p
 
 ## The 4-Corner Press Technique
 
-![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 The technique itself is deceptively simple, but the timing window is critical. This is the exact sequence:
 
@@ -68,7 +62,7 @@ The entire press sequence takes about five seconds per patty. On a full grill wi
 
 ## The Timing Window You Cannot Miss
 
-Nobody mentions this during onboarding, but during training orientation: the window for the 4-Corner Press is only about 15 to 20 seconds after the patty hits the grill. That's it.
+When you actually start working the station, you learn that the window for the 4-Corner Press is only about 15 to 20 seconds after the patty hits the grill. That's it.
 
 If you press too early—before the bottom has started to crust—the raw meat sticks to your spatula and tears apart. You'll peel up half the patty and create a mangled mess. Wait for the sear first.
 

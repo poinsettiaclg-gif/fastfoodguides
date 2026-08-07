@@ -17,22 +17,16 @@ faq:
     The carhop's primary responsibility is delivering the food and handling the final
     transaction.
 relatedArticles:
-- sonic-carhops-roller-skate
+  - sonic-nugget-ice
+  - sonic-carhops-roller-skate
+  - chilis-baby-back-ribs
 heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
 At most fast food joints, taking drive-thru orders means one lane, one headset, one conversation at a time. Sonic Drive-In threw that entire concept out the window. Between twenty to thirty individual parking stalls, a standard drive-thru lane, and a constant stream of mobile orders, the person running the Sonic switchboard is really operating an air traffic control tower for cheeseburgers and Cherry Limeades. I've trained switchboard operators who picked it up in a week and others who never quite got comfortable with the organized chaos. Operating the switchboard requires intense multitasking and quick thinking.
 
 ## The Physical Switchboard Console
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 ![How Does the Sonic Drive-In Switchboard Actually Work?](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Depending on how old your Sonic location is, the switchboard is either a massive physical console covered in numbered buttons that glow red when pressed, or a large touchscreen monitor that does the same thing digitally. Both accomplish the same task, but the experience of using them is surprisingly different. 
 
@@ -74,7 +68,6 @@ But mobile orders introduced a problem nobody anticipated: stall conflicts. If a
 ## The Drive-Thru Lane and Staffing
 
 ![How Does the Sonic Drive-In Switchboard Actually Work?](../../assets/images/general/generic-prep.webp)
-
 
 Most Sonic locations also have a traditional drive-thru lane, managed through a separate headset system similar to what you'd find at [Taco Bell](/articles/taco-bell-drive-thru-timer) or [McDonald's](/articles/chain/mcdonalds). Whether the switchboard operator is also responsible for the drive-thru depends entirely on staffing.
 

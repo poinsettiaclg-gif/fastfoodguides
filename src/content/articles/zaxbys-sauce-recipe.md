@@ -16,17 +16,12 @@ faq:
   answer: The mayonnaise base lacks the heavy preservatives needed for a stable, unrefrigerated
     shelf life, and keeping it exclusive drives restaurant visits.
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
-- wendys-chili-leftover-hamburgers
+  - kfc-coleslaw-secret
+  - kfc-pressure-fryers
+  - raising-canes-sauce
 heroImage: ../../assets/images/general/generic-fryer.webp
 ---
 ## What is Zax Sauce? (And Why Employees Guard the Recipe)
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 
 If you've eaten at Zaxby's more than once, you already know about Zax Sauce. It's the creamy, tangy, slightly peppery dipping sauce that comes in those little 2-ounce portion cups alongside your chicken fingers and crinkle-cut fries. It is, without exaggeration, the reason a large percentage of Zaxby's customers walk through the door in the first place. I've watched people dip Texas toast in it. I've watched people dip their fries in it, then dip their chicken in it, then go back and dip the fries again. I once had a regular ask for six extra cups of Zax Sauce for a 3-piece Fingerz plate. Six. 
 
@@ -35,10 +30,6 @@ The sauce is that good. And the thing that drives the internet absolutely crazy 
 ## What's Actually in Zax Sauce
 
 ![Zaxby](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 This is the thing — the ingredient list has been floating around online for years, and most versions are at least in the right ballpark. Zax Sauce is fundamentally a fry sauce, which is a condiment category that's been around forever in the American South and parts of Utah. At its core, it's a blend of: 
 

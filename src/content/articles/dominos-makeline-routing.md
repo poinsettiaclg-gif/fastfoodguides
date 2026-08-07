@@ -11,9 +11,9 @@ chain: Domino's
 topic: Pizza
 heroImage: ../../assets/images/general/generic-fryer.webp
 relatedArticles:
-- dominos-oven-tender-role
-- dominos-super-bowl-pulse-system
-- dominos-20-bank-rule
+  - dominos-gas
+  - dominos-dough-stretching
+  - dominos-20-bank-rule
 faq:
 - question: What is the average time allowed to make a pizza at Domino's?
   answer: Under Domino's strict operational standards, makeline workers are targeted
@@ -32,13 +32,7 @@ As someone who spent years managing high-volume pizza operations, I know that su
 
 ## 1. The Digital Makeline: Anatomy of the 3-Minute Clock
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
-![Domino](../../assets/images/general/generic-exterior.webp)
-
-
+![Domino's](../../assets/images/general/generic-exterior.webp)
 
 When an order is submitted online or keyed into the register, it appears instantly on the **Digital Makeline Screen**—a large, high-definition monitor suspended directly above the refrigerated pizza prep table.
 

@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dairy Queen
 topic: Other Chains
 relatedArticles:
-- dairy-queen-blizzard-flip
+  - dairy-queen-grill-and-chill-flow
+  - dairy-queen-blizzard-flip
+  - panda-express-wok-chef
 heroImage: ../../assets/images/general/generic-drive-thru-2.webp
 faq:
 - question: How long does it take to learn the perfect curl?
@@ -26,15 +28,7 @@ I've watched new Chill Staff employees stare at the soft serve machine with genu
 
 ## The Foundation: Building in Tiers
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 You do not just swirl soft serve into one continuous, messy mountain. A proper Dairy Queen cone is built in distinct tiers, internally referred to as "balls." Each ball is a deliberate, controlled layer: 
-
-
-
-
 
 - A **Small** cone gets 2 balls and a curl
 - A **Medium** cone gets 3 balls and a curl
@@ -47,7 +41,6 @@ Each ball has a specific weight and volume that contributes to the overall porti
 ## The Technique: Base, Tiers, and the Snap
 
 ![Dairy Queen Cone Curl The Standard for Soft Serve](../../assets/images/general/generic-walk-in-2.webp)
-
 
 The entire cone is built in one continuous motion. You don't stop and restart between tiers—it's a flowing sequence that takes about 5 to 8 seconds total.
 
@@ -72,7 +65,6 @@ Most stores calibrate their machines first thing in the morning, but temperature
 ## The Chocolate Dip: Where Cones Go to Die
 
 ![Dairy Queen Cone Curl The Standard for Soft Serve](../../assets/images/general/generic-walk-in-2.webp)
-
 
 If you thought the curl was hard, try dipping it in chocolate. The Chocolate Dipped Cone is the single most terrifying order for a new Chill Staff employee, and for good reason.
 

@@ -1,8 +1,6 @@
 ---
 title: 'White Castle Slider: The Steam Grill Method'
-description: White Castle steams every slider on a bed of onions. The five-hole patty
-  exists for a specific engineering reason, and the steam-grill method is what creates
-  that signature taste.
+description: "White Castle steams every slider on a bed of onions. The five-hole patty exists for a specific engineering reason, and the steam-grill method is what..."
 pubDate: '2025-12-18'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -17,12 +15,13 @@ faq:
   answer: Historically, it was the speed and evenness of cooking on a standard flat-top.
     The five-hole patty and steam-grill method solved this.
 relatedArticles:
-- mcdonalds-fry-station
+  - mcdonalds-ice-cream-machine
+  - mcdonalds-fry-station
+  - culvers-butterburger
 heroImage: ../../assets/images/general/generic-fryer.webp
 disclaimerType: food_safety
 ---
 7.  Why Are White Castle Sliders Steamed Instead of Grilled?
-
 
 White Castle sliders don't look like any other burger in fast food. They're small, square, weirdly soft, and they have five holes punched through the patty. They also taste completely different from anything else in the QSR world — and that's not an accident. It's the result of a cooking method that White Castle has been using since the 1920s: steam-grilling. 
 
@@ -32,15 +31,7 @@ I've spent a decade in QSR kitchens, and the White Castle method remains one of 
 
 ## The Grill and the Onion Bed
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![White Castle Slider The Steam Grill Method](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 The cooking surface at White Castle is a flat-top griddle, similar to what you'd find at most burger chains. The grill runs at a lower temperature than a typical QSR flat-top — roughly 275°F to 325°F, depending on the specific equipment and location. This lower temperature is intentional. White Castle isn't searing their patties. They're steaming them.
 

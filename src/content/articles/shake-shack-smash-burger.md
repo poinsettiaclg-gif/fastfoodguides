@@ -17,13 +17,12 @@ faq:
     \ holding steady temperatures between 400\xB0F and 450\xB0F, which is essential\
     \ for a proper smash."
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
-- wendys-chili-leftover-hamburgers
+  - in-n-out-board-station
+  - wendys-frosty-machine-boil-out
+  - jack-in-the-box-tacos-made
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 7.  What is the Shake Shack Smash Burger Technique?
-
 
 If you've eaten a Shake Shack burger and thought, “Why does this taste so different from every other fast-food burger I've had?”—the answer isn't a secret sauce recipe or some proprietary beef blend nobody else can get. The answer is physics. it's what happens when you take a ball of fresh ground beef and crush it flat against a screaming hot griddle with a heavy metal press. That moment—the smash—is the entire philosophy of the restaurant distilled into a single, aggressive cooking motion. 
 
@@ -31,15 +30,7 @@ I've watched this technique executed thousands of times across different burger 
 
 ## The Smash: What Actually Happens on the Flat-Top
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Shake Shack Smash Burger The Grill Technique](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 The process starts with a ball of fresh, never frozen ground beef—typically a proprietary blend that includes a mix of cuts like chuck, brisket, and short rib. The exact blend has been developed in partnership with Pat LaFrieda Meat Purveyors, and it's designed to have a specific fat ratio (usually around 25-30% fat) that gives the finished burger its richness without turning into a grease puddle. 
 

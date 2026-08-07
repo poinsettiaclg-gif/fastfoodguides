@@ -14,16 +14,13 @@ faq:
   answer: No, they are baked fresh in a convection oven. some stores may use a microwave to flash-heat a potato if they run out during a massive rush, but this violates standard protocol.
 disclaimerType: food_safety
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-  - "wendys-fresh-never-frozen"
+  - in-n-out-secret-menu
+  - sonic-nugget-ice
+  - starbucks-sweet-cream-cold-foam-prep
 ---
 If there is one item on the Wendy's menu that completely throws a wrench into standard fast-food timing, it's the baked potato. While a burger takes a few minutes and fries take three, a baked potato takes a full hour to cook. Managing the potato supply during a lunch rush is a constant source of stress for the prep station. If you miscalculate the drop, you either have angry customers waiting 45 minutes for a potato, or you end up throwing away perfectly good inventory when the holding timer expires.
 
 ## The Washing and Panning Process
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 When you're actually working the line, you realize that the potato process starts long before the lunch rush. Potatoes arrive in massive 50-pound cardboard boxes. The prep team has to scrub them down in the three-compartment prep sink because they are real, dirty, earth-grown russet potatoes. You can always tell when a new hire rushes the washing process because the sink drain clogs with dirt and debris, backing up the entire prep area.
 
@@ -39,7 +36,7 @@ Once panned, they get shoved into the oven. The timer is set for exactly 60 minu
 
 When the timer screams, the prep person pulls the heavy tray out. We have to temp them immediately using a sanitized probe thermometer. The internal temperature needs to hit at least 210°F to ensure the starches have completely broken down into that fluffy, soft texture customers expect. If they temp at 195°F, they go back in for another ten minutes. You never serve an undercooked potato, because the customer will immediately bring it back to the counter, throwing the entire flow off.
 
-![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
+![Wendy’s Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 ## The Foil Wrapping Station
 

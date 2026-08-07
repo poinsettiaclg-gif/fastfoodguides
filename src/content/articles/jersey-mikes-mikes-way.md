@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jersey Mike's
 topic: Sandwiches
 relatedArticles:
-- jersey-mikes-hot-sub-grill
-- subway-bread-baking-process
+  - jersey-mikes-hot-sub-grill
+  - subway-bread-baking-process
+  - subway-bain-fill-line-rule
 faq:
 - question: What is the exact ratio of the Jersey Mike's juice?
   answer: The juice is typically a blend of 75% canola oil and 25% olive oil, mixed
@@ -26,15 +27,7 @@ If you're assigned to the sprinkler station (the position adding vegetables and 
 
 ## The Exact Mike's Way Sequence: O-L-T-J-S
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![What is ](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
 
 When a customer orders a cold sub "Mike's Way," they're getting five ingredients applied in a non-negotiable order. This is the sequence and why each step matters: 
 
@@ -61,7 +54,6 @@ The tomatoes need to be on top because their flat, wet surface catches and holds
 ## The How Does the Arby's Slicer Work (And Is the Meat Real)?: Speed, Danger, and Respect
 
 ![What is ](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 While the sprinkler station is about sequence, the slicer station is about speed and safety—and it's the most dangerous position in the store. Jersey Mike's slices all deli meats and cheeses fresh, right in front of the customer, for every single sandwich. There is no pre-sliced, packaged deli meat anywhere in the operation.
 

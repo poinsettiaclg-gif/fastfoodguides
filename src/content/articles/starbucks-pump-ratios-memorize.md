@@ -17,8 +17,9 @@ faq:
   answer: You don't need to change the size; simply ask for 'half the syrup' or specify
     a lower number of pumps (e.g., '2 pumps of vanilla instead of 4').
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-  - "wendys-fresh-never-frozen"
+  - starbucks-pull-to-thaw
+  - starbucks-tiktok-hacks-debunked
+  - starbucks-dpm-routing
 ---
 If you've just been hired at Starbucks, you are about to consume more caffeine in a single week than most people do in a month. But before you can get comfortable, you have to survive "Bar Training." 
 
@@ -108,7 +109,6 @@ If you see a "Venti Iced Caramel Macchiato," your brain should immediately proce
 3. Total = 5 pumps of Vanilla.
 
 Once you stop memorizing individual drinks and start applying the rules, the bar will slow down, the anxiety will drop, and you'll be knocking out drinks like a seasoned veteran.
-
 
 ### See Also
 

@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Dunkin'
 topic: Breakfast & Coffee
 relatedArticles:
-- starbucks-cold-bar-frappuccino
-- starbucks-morning-rush
+  - starbucks-pull-to-thaw
+  - starbucks-cold-bar-frappuccino
+  - starbucks-morning-rush
 faq:
 - question: Do Dunkin' flavor swirls have dairy?
   answer: Yes, almost all Dunkin' flavor swirls are dairy-based, as they are formulated
@@ -25,15 +26,7 @@ I managed a store near a Dunkin' for two years and ate lunch with their shift le
 
 ## Flavor Swirls: The Sweet, Creamy, Dessert-in-a-Cup Option
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 When a customer says they want their iced coffee to taste like a milkshake, they want a Swirl. This is what's actually in the bottle and why it matters behind the counter: 
-
-
-
-
 
 - **The base:** Swirls are made with sweetened condensed milk (with the exception of Mocha, which is cocoa-based). They're thick, opaque, and loaded with sugar. When you pick up a Swirl bottle, it has real weight to it—it pours like a viscous syrup, not like water. 
 - **The taste:** A Caramel Swirl Iced Coffee is inherently sweet. You do not need to add liquid cane sugar on top of a Swirl unless the customer specifically asks for extra sweetness. Working the line, I observed new baristas add both a Swirl and the standard sugar, and the customer sends it back because it tastes like melted candy.
@@ -50,7 +43,6 @@ The permanent Swirl lineup typically includes Caramel, Mocha, French Vanilla, an
 
 ![Dunkin](../../assets/images/general/generic-prep.webp)
 
-
 If a customer is counting calories, watching their sugar intake, or just wants black coffee with a hint of something extra, they want a Flavor Shot. And this is where the confusion starts for both fresh trainees and customers.
 
 - **The base:** Shots are clear, unsweetened, sugar-free liquid extracts. They have the consistency of water. Pick up a Shot bottle and it feels light—there is nothing thick or syrupy about it.
@@ -63,7 +55,6 @@ The distinction between Shots and Swirls is the single most common source of cus
 ## The Pump Count Standard: Getting the Ratio Right
 
 ![Dunkin](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Dunkin' has specific pump counts based on drink size, and getting this wrong changes the flavor intensity dramatically:
 
@@ -89,7 +80,6 @@ When a customer steps to the counter and says "I want a Vanilla Iced Coffee," yo
 "Would you like the sweetened Vanilla Swirl, or the sugar-free Vanilla Shot?" That single question, asked every single time, will save you from remaking dozens of drinks during the morning rush. I've talked to Dunkin' shift leads who estimated that baristas who ask this question consistently remake 60 to 70% fewer drinks than those who assume.
 
 The POS system lists Shots and Swirls in separate sections of the flavor menu, and they display differently on the order screen. If you're ever unsure which one was ordered after the customer has walked away, check the screen—it will tell you exactly which flavor type was rung up. But the better habit is to confirm before you start making the drink, not after.
-
 
 During the morning rush, a high-volume Dunkin' can push hundreds of drinks per hour. Every single one requires the correct flavor type, the correct pump count, and the correct base—hot, iced, or frozen. The margin for error is razor-thin, and a single misheard order cascades into a 30-second remake you absolutely do not have time for.
 

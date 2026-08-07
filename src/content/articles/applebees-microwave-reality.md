@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Applebee's
 topic: Other Chains
 relatedArticles:
-- chilis-baby-back-ribs
-- mcdonalds-fry-station
+  - sonic-carhops-roller-skate
+  - cava-digital-make-line
+  - dairy-queen-perfect-cone-curl
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: Is the TurboChef actually just a microwave?
@@ -24,21 +25,13 @@ faq:
 ---
 ## The "Chef Mike" Reputation — And the Real Story
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 If you've spent any time on the internet reading about chain restaurants, you've heard the jokes. "Chef Mike" — the microwave — is Applebee's real head chef. Reddit threads, TikTok exposés, disgruntled former employees all say the same thing: everything at Applebee's gets nuked.
-
-
-
-
 
 I've worked closely with managers who ran Applebee's kitchens for years, and I'll tell you straight: the "Chef Mike" reputation is exaggerated, but it isn't baseless. Microwaves — or more precisely, TurboChef ovens — are a critical part of the operation. But if you think your 12 oz. ribeye is getting zapped in a countertop Panasonic, you're dead wrong.
 
 <div class="callout callout-tip">**ProTip:** The biggest bottleneck during a Friday night rush isn't the cooking—it's workload sequencing across the fryers, grills, and TurboChef ovens. A disorganized line cook can crater ticket times by failing to coordinate the charbroiler proteins with the 90-second microwave sides.</div>
 
-![Applebee](../../assets/images/general/generic-drive-thru-3.webp)
+![Applebee's](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## What Specifically Gets Microwaved
 

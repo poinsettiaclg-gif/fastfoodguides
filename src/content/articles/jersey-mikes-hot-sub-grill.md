@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Jersey Mike's
 topic: Sandwiches
 relatedArticles:
-- jersey-mikes-mikes-way
-- arbys-meat-slicer
+  - jersey-mikes-mikes-way
+  - wawa-hoagie-build
+  - subway-bread-baking-process
 faq:
 - question: What temperature is the Jersey Mike's grill?
   answer: "The commercial flat-top grills are set high enough to perform a 'heat destroy'\
@@ -27,15 +28,7 @@ The Jersey Mike's cheesesteak is cooked from raw, thinly shaved USDA Choice beef
 
 ## Raw Beef, Raw Chicken, and Zero Margin for Error
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
-![The Jersey Mike](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
+![The Jersey Mike's](../../assets/images/general/generic-walk-in-2.webp)
 
 The most critical aspect of the grill station is the cross-contamination protocol. Because you're handling raw beef and raw chicken in close proximity to a deli counter that serves ready-to-eat cold subs, the safety requirements are intense—and non-negotiable. 
 
@@ -51,8 +44,7 @@ It sounds extreme, but this is the reality: health inspectors know that operatio
 
 ## The Chop-and-Flip Technique That Destroys Your Forearms
 
-![The Jersey Mike](../../assets/images/general/generic-prep.webp)
-
+![The Jersey Mike's](../../assets/images/general/generic-prep.webp)
 
 Cooking a Jersey Mike's cheesesteak is a physical workout disguised as food prep. This is the sequence:
 

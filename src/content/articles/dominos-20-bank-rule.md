@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
-- dominos-gas
+  - dominos-oven-tender-role
+  - dominos-first-day-training
+  - dominos-super-bowl-pulse-system
 heroImage: ../../assets/images/general/generic-drive-thru-3.webp
 faq:
 - question: Can a Domino's driver break a $100 bill?
@@ -27,15 +29,7 @@ I've managed stores where drivers got robbed. I've had the conversations with th
 
 ## How the $20 Bank Works
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 When you clock in for a delivery shift, the manager hands you a "bank." It is exactly $20 in small bills—typically a ten, a five, and five ones. This money is not yours. It belongs to the store. Its sole purpose is to provide change to customers who pay for their pizzas with cash. 
-
-
-
-
 
 The rule is absolute: you are never, under any circumstances, allowed to have more than $20 of the store's money in your possession while out on a delivery. The stickers plastered on every Domino's delivery bag, every store window, and often on the car topper itself all say the same thing: "Driver Carries Less Than $20."
 
@@ -45,8 +39,7 @@ At the end of your shift, you must return the bank in full. If you come back sho
 
 ## The Cash Drop System
 
-![What is the Domino](../../assets/images/general/generic-walk-in-2.webp)
-
+![What is the Domino's](../../assets/images/general/generic-walk-in-2.webp)
 
 This is where the rule gets operationally real. A customer hands you a $50 bill for a $30 pizza. You give them $20 in change from your bank. Now you are holding a $50 bill—the store's money—and you are in violation of the rule until you get back and drop it.
 
@@ -58,8 +51,7 @@ I've fired drivers for this. Not because I wanted to—because the policy is iro
 
 ## The Double and Triple Run Complication
 
-![What is the Domino](../../assets/images/general/generic-drive-thru-3.webp)
-
+![What is the Domino's](../../assets/images/general/generic-drive-thru-3.webp)
 
 The $20 rule gets complicated during busy Friday and Saturday nights when drivers take multiple deliveries per run. If you're carrying two or three orders at once—a "double" or a "triple"—you might collect cash from multiple customers before returning to the store.
 

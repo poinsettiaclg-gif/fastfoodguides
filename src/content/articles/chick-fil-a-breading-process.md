@@ -9,7 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
-- chick-fil-a-lemonade
+  - chick-fil-a-ipos-system
+  - chick-fil-a-peanut-oil-filtration
+  - chick-fil-a-first-day-training
 faq:
 - question: What oil does Chick-fil-A use for frying its chicken?
   answer: "Chick-fil-A uses 100% refined peanut oil for its pressure-fried chicken.\
@@ -21,10 +23,6 @@ faq:
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 ## The Chicken Arrives Raw. Every Single Piece.
-
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
 
 A single high-volume Chick-fil-A will hand-bread over a thousand raw chicken filets during a typical lunch rush. Unlike the majority of fast food chains that rely on flash-frozen, factory-breaded pucks, Chick-fil-A forces its kitchen staff to execute a massive prep operation from scratch every single day. 
 
@@ -78,7 +76,7 @@ A pressure fryer is not just a deep fryer with a lid. When the lid seals, it tra
 
 ### The Temperature and Timing
 
-The oil—specifically 100% refined peanut oil, which you can read about on [Chick-fil-A's allergen information page](https://www.chick-fil-a.com/nutrition-allergens)—is maintained at **325°F**. This is notably lower than most fast food fryers, which typically run at 350-375°F. The lower temperature, combined with the pressure environment, produces a gentler cook that doesn't dry out the meat.
+The oil—specifically 100% refined peanut oil, which you can read about on [Chick-fil-A's allergen information page](https://www.chick-fil-a.com/nutrition-allergens)—is maintained at **325°F**. This is worth mentioning — lower than most fast food fryers, which typically run at 350-375°F. The lower temperature, combined with the pressure environment, produces a gentler cook that doesn't dry out the meat.
 
 The 4:30 cook time is not a suggestion. It's programmed into the fryer. When the timer goes off, the pressure is automatically released, the lid unlocks, and the basket is lifted. Overcooking by even 30-60 seconds produces a noticeably drier product.
 

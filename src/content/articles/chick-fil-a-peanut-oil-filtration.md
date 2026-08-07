@@ -10,8 +10,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Chick-fil-A
 topic: Chicken
 relatedArticles:
-- chick-fil-a-breading-process
-- chick-fil-a-ipos-system
+  - chick-fil-a-lemonade
+  - chick-fil-a-first-day-training
+  - chick-fil-a-ipos-system
 faq:
 - question: "How often does Chick-fil-A filter its peanut oil?"
   answer: "Chick-fil-A fryers use 'Filter Lockout' technology that forces the staff to filter the oil after a set number of cook cycles (typically 4 or 5), ensuring consistent oil quality throughout the day."
@@ -23,18 +24,11 @@ If you ever want to start an argument among restaurant operators, ask them about
 
 Peanut oil is expensive. It is subject to massive crop market fluctuations. It requires highly specific logistics to transport and store in the sheer volumes that a $19-billion-a-year chain demands. But from an operational standpoint, it is the single most important ingredient in a Chick-fil-A sandwich other than the chicken itself. 
 
-
 The operational mechanics of how Chick-fil-A maintains its oil quality at massive volumes involve the engineering of the Henny Penny ([How Dangerous Are the KFC Pressure Fryers?](/articles/kfc-pressure-fryers/)), the chemical reality of smoke points, the grueling process of the nightly boil-out, and how the kitchen manages filtering during a 150-car drive-thru rush.
 
 ## The Chemistry of Peanut Oil: Smoke Points and Flavor Transfer
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Chick-fil-A Peanut Oil Why They Filter It Daily](../../assets/images/general/generic-baking.webp)
-
-
 
 To understand why Chick-fil-A absorbs the astronomical cost of peanut oil, you have to understand the chemistry of a high-volume fry station. 
 
@@ -61,8 +55,6 @@ As the moisture in the chicken turns to steam, it has nowhere to escape. The pre
 1. **Faster Cooking:** The boiling point of water increases under pressure. This means the moisture inside the chicken gets hotter without actually boiling away. The chicken cooks significantly faster—a raw, thick chicken breast is fully cooked and safe to eat in just over 4 minutes.
 2. **Moisture Retention:** Because the steam cannot escape the vat, it cannot escape the chicken. This is the mechanical secret to why Chick-fil-A sandwiches are famously juicy on the inside while crispy on the outside. An open-vat fryer would dry out a breast fillet of that thickness before it finished cooking to the center.
 3. **Oil Penetration:** The pressure physically prevents the peanut oil from penetrating past the breading layer. You get the crispy crust without the greasy, oil-logged interior. 
-
-
 
 ## The Magnasol Filtration Process
 
@@ -97,14 +89,11 @@ When a vat reaches the end of its lifecycle, the old, dark oil is pumped into a 
 3. The boiling action loosens the baked-on carbon, while the closer attacks it with a scrub brush attached to a long, heat-resistant handle. You are literally scrubbing a cauldron of boiling degreaser while wearing heavy rubber gauntlets, a heavy rubber apron, and a face shield.
 4. Once the vat is pristine, the water is drained, the vat is rinsed with a vinegar-water solution to neutralize the base chemicals, and then wiped completely, bone-dry. If even a single drop of water remains in the vat when the fresh 325-degree peanut oil is pumped back in, the water will instantly vaporize, expand 1,700 times in volume, and cause a violent oil explosion.
 
-
-
 ## The Allergy Question: Refined vs. Unrefined
 
 The most common question customers ask is: *"If you fry in peanut oil, why doesn't everyone with a peanut allergy go into anaphylactic shock when they walk in the door?"*
 
 The answer lies in the refining process. 
-
 
 Food allergies are triggered by specific proteins. In a peanut, it is the peanut protein chain that causes the immune system to react. 
 

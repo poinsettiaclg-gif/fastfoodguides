@@ -1,8 +1,6 @@
 ---
 title: What is the Wendy's Double-Sided "Clamshell" Grill?
-description: Former kitchen manager breaks down the Wendy's clamshell grill, from
-  Auto-Gap technology to cook times, cleaning procedures, and what happens when it
-  breaks.
+description: "Former kitchen manager breaks down the Wendy's clamshell grill, from Auto-Gap technology to cook times, cleaning procedures, and what happens when it..."
 pubDate: '2024-07-25'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -18,9 +16,9 @@ faq:
     the meat more than manual grilling, resulting in a denser patty compared to the
     hand-managed 4-Corner Press method.
 relatedArticles:
-- wendys-4-corner-press
-- wendys-chili-leftover-hamburgers
-- wendys-closing-duties
+  - wendys-4-corner-press
+  - wendys-closing-duties
+  - wendys-chili-leftover-hamburgers
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-grill.webp
 ---
@@ -28,11 +26,7 @@ For decades, cooking hamburgers in a fast food kitchen meant one thing: throw a 
 
 ## How the Clamshell Actually Works
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-![Wendy's Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
+![Wendy’s Operational Guide](../../assets/images/general/generic-walk-in-2.webp)
 
 Imagine a massive, industrial panini press that weighs several hundred pounds, runs at over 400°F on both surfaces, and is engineered specifically to cook fresh beef patties with zero flipping required. That's the clamshell grill. 
 
@@ -66,8 +60,7 @@ Auto-Gap calibration drifts over time. Grease buildup on the sensors, mechanical
 
 ## Cleaning the Clamshell: The Nightly Battle
 
-![Wendy's Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
-
+![Wendy’s Operational Guide](../../assets/images/general/generic-drive-thru-3.webp)
 
 The clamshell grill requires thorough cleaning at the end of every single shift. Because the top platen presses directly onto the meat, it accumulates a heavy layer of baked-on grease, charred protein, and carbonized fat that must be completely removed. This is one of the most time-consuming [closing duties](/articles/wendys-closing-duties) in the entire restaurant.
 

@@ -8,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: McDonald's
 topic: Burgers
 relatedArticles:
-- mcdonalds-fry-station
-- mcdonalds-nugget-process
-- mcdonalds-ice-cream-machine
+  - mcdonalds-ice-cream-machine
+  - mcdonalds-pos-crash
+  - mcdonalds-nugget-process
 faq:
 - question: Is all the beef at McDonald's fresh now?
   answer: No. The fresh beef protocol applies exclusively to the Quarter Pounder patties. Standard 10:1 hamburger and Big Mac patties are still cooked from frozen.
@@ -19,19 +19,15 @@ faq:
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-When McDonald's announced they were switching the Quarter Pounder patty from frozen to fresh beef, the entire fast food industry paused to watch. For decades, the system was built around cooking frozen pucks of meat in massive batches and holding them in warming cabinets. Handling raw, unfrozen beef at that scale, while maintaining ticket times under two minutes, seemed impossible. 
+When McDonald's announced they were switching the Quarter Pounder patty from frozen to fresh beef, it changed the game. For decades, the system was built around cooking frozen pucks of meat in massive batches and holding them in warming cabinets. Handling raw, unfrozen beef at that scale, while maintaining ticket times under two minutes, seemed impossible. 
 
 I was running kitchens when this rollout happened. The reality is, it was the biggest operational shock to the system I had ever witnessed. The training manuals were completely rewritten, the grill stations had to be heavily modified, and the line cooks had to learn a completely new rhythm. 
 
 It wasn't just a menu update—it was a total tear-down of the standard operating procedure. Let me lay out the process:
 
-![McDonald](../../assets/images/general/generic-drive-thru-3.webp)
+![McDonald's](../../assets/images/general/generic-drive-thru-3.webp)
 
 ## The Blue Glove Rule
-
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
 
 The single biggest threat when introducing fresh beef to a kitchen built for frozen food is cross-contamination. With frozen patties, cooks used clear plastic gloves to grab handfuls of meat and throw them on the grill. If they touched their apron afterward, the risk was minimal because the frozen pucks were dry. Fresh beef is sticky, wet, and highly prone to spreading bacteria if not handled perfectly.
 

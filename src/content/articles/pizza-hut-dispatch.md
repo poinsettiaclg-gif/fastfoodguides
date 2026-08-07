@@ -1,8 +1,6 @@
 ---
 title: How Does the Pizza Hut Dispatch System Work?
-description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal\
-  \ \u2014 doubling up orders, beating the FIFO queue, and maximizing your tips per\
-  \ shift."
+description: "A delivery driver's insider guide to the Pizza Hut dispatch terminal — doubling up orders, beating the FIFO queue, and maximizing your tips per..."
 pubDate: '2026-01-28'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,8 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Pizza Hut
 topic: Pizza
 relatedArticles:
-- dominos-20-bank-rule
-- dominos-gas
+  - pizza-hut-kds-ticket-sequencing
+  - dominos-gas
+  - dominos-dough-stretching
 heroImage: ../../assets/images/general/generic-pos-2.webp
 faq:
 - question: Does the Pizza Hut dispatch system hide tips from drivers?
@@ -30,15 +29,7 @@ The old days of writing addresses on a whiteboard and fighting with other driver
 
 ## The Drag-and-Drop System
 
-<div class="callout callout-tip"><strong>ProTip: Hardware Upgrades:</strong> If your POS keeps crashing during the rush, it might be time to upgrade. Many operators are switching to <a href="https://toasttab.com/referral?ref=fastfoodguides" target="_blank" rel="noopener sponsored">Toast POS</a> because of its reliability and robust KDS (Kitchen Display System) integration.</div>
-
-
-
 ![How Does the Pizza Hut Dispatch System Work?](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 The dispatch screen is a massive touchscreen mounted right next to the heat racks where boxed pizzas sit waiting for drivers. When an order comes out of the oven, the cut-table worker boxes it, slaps the receipt on top, and scans it. The order instantly pops up on the dispatch screen as "Ready," showing the address, the order contents, and a timer that starts counting upward the moment the pizza hit the rack. 
 
@@ -51,7 +42,6 @@ The reality on the ground is during training: **that dispatch timer is one of th
 ## Doubles, Triples, and the Routing Algorithm
 
 ![How Does the Pizza Hut Dispatch System Work?](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Taking one pizza at a time is a rookie move. Experienced drivers make their real money on "Doubles" — taking two orders at once — or even "Triples" on busy nights. But you can't just grab three random boxes and run.
 

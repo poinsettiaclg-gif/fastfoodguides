@@ -1,8 +1,6 @@
 ---
 title: How Does the Burger King Broiler Work, and Is It Dangerous?
-description: A veteran kitchen manager explains how the BK flame broiler really works,
-  what the burn hazards feel like, and how to survive your first shift on the fire
-  line.
+description: "A veteran kitchen manager explains how the BK flame broiler really works, what the burn hazards feel like, and how to survive your first shift on the..."
 pubDate: '2025-02-20'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,9 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Burger King
 topic: Burgers
 relatedArticles:
-- burger-king-broiler-closing
-- burger-king-expeditor-role
-- wendys-clamshell-grill
+  - burger-king-broiler-closing
+  - burger-king-whopper-build-process
+  - burger-king-expeditor-role
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
@@ -29,17 +27,9 @@ Burger King's entire brand identity is built around four words: "Flame-Grilled W
 
 ## How the Flame Broiler Actually Works
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 ![How Does the Burger King Broiler Work, and Is It Dangerous?](../../assets/images/general/generic-walk-in-2.webp)
 
-
-
-
-
-The Burger King broiler is essentially a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. 
+The Burger King broiler is really a continuous conveyor belt oven that runs directly over open gas flames. Imagine a horizontal tunnel about five feet long, with gas burners on the top and bottom, and a moving metal chain-link belt running through the middle. That is the broiler. 
 
 **The Feed:** You stand at the front of the machine and pull frozen beef patties out of a small freezer drawer located directly beneath the broiler. The patties come in different sizes—regular for a Hamburger, larger for a Whopper—and they go on the belt frozen solid, straight from the box. 
 
@@ -75,7 +65,6 @@ Burger King has rigorous safety protocols, and they exist for very good reasons.
 ## When the Broiler Goes Down
 
 ![How Does the Burger King Broiler Work, and Is It Dangerous?](../../assets/images/general/generic-drive-thru-3.webp)
-
 
 Despite its rugged construction, the broiler is a mechanical system that breaks. The most common failure is a faulty igniter—the component that lights the gas burners. When the igniter dies, the gas flows but does not light, and the machine shuts itself down as a safety measure.
 

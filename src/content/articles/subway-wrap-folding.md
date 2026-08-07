@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Subway
 topic: Sandwiches
 relatedArticles:
-- subway-bread-baking-process
-- subway-bain-fill-line-rule
+  - subway-bain-fill-line-rule
+  - subway-bread-baking-process
+  - subway-pos-out-of-order
 faq:
 - question: Why do Subway wraps tear so easily?
   answer: Wraps tear primarily due to overstuffing with too many veggies, excess sauce
@@ -24,13 +25,9 @@ If there is one item that strikes genuine fear into the heart of a new Subway Sa
 
 Unlike the sturdy sub rolls that can absorb abuse and still hold together, the tortillas used for wraps are notoriously fragile. They are thin, they are cold, and the moment a customer orders double meat with every vegetable and three lines of ranch, you are looking at a 90% chance of catastrophic tortilla failure right there on the cutting board. I have watched experienced employees absolutely nail wraps for months and then get destroyed by one overstuffed Steak & Cheese wrap on a busy Saturday. This is the method for rolling a loaded Subway wrap perfectly. 
 
-## Step 1: Warm the Tortilla (Never Skip This)
+## 1. Warm the Tortilla (Never Skip This)
 
 ![The Secret to Folding a Subway Wrap Without Tearing It](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Cold tortillas snap. Warm tortillas stretch. This is the single most important principle in the entire wrap-building process, and the one that green crew members skip most often when the line is backed up. 
 
@@ -40,7 +37,7 @@ The difference is night and day. A cold tortilla straight from the cooler has al
 
 <div class="callout callout-tip">**ProTip:** If the line is backed up, veteran Sandwich Artists will sometimes place the tortilla briefly on top of the toaster oven itself. The ambient heat softens it just enough without needing to run a full 3-second toast cycle.</div>
 
-## Step 2: The "Middle Third" Rule
+## 2. The "Middle Third" Rule
 
 The biggest mistake rookies make is spreading ingredients edge-to-edge across the tortilla like they are topping a pizza. This leaves no tortilla border to fold over, and the wrap is doomed before the roll even begins.
 
@@ -54,7 +51,7 @@ Think of it like building a wall. Dense foundation on the bottom. Light insulati
 
 <div class="callout callout-tip">**ProTip:** You can practice portioning with the standard scoop and a digital scale during slow periods. Over-filling by even an ounce is the number one cause of catastrophic wrap failure.</div>
 
-## Step 3: The Roll and Tuck Technique
+## 3. The Roll and Tuck Technique
 
 Do not try to fold this like a traditional burrito. Use [the Subway](/articles/subway-bain-fill-line-rule) deli paper to your advantage—it is a structural tool, not just a wrapper.
 
@@ -64,10 +61,9 @@ Do not try to fold this like a traditional burrito. Use [the Subway](/articles/s
 4. **The roll:** Keeping constant tension on the cylinder, roll it forward until the top flap of the tortilla ends up underneath the wrap.
 5. **The paper wrap:** Immediately roll the finished wrap tightly into the deli paper. The paper holds the structural integrity together and prevents the tortilla from relaxing and loosening up.
 
-## Step 4: The Diagonal Cut
+## 4. The Diagonal Cut
 
 ![The Secret to Folding a Subway Wrap Without Tearing It](../../assets/images/general/generic-walk-in-2.webp)
-
 
 The cut angle is not just for aesthetics—it serves a functional purpose. Cutting straight across a wrap compresses the filling at the cut point and can blow out the ends. A diagonal cut distributes the pressure across a longer line, keeping the filling intact inside both halves.
 

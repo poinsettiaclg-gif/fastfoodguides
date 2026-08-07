@@ -1,8 +1,6 @@
 ---
 title: What is the In-N-Out "Board" Station and Why is it so Hard?
-description: The In-N-Out Board station is the hardest job in the building. Learn
-  the setup, wrapping technique, certification test, and what rush hour really feels
-  like.
+description: "The In-N-Out Board station is the hardest job in the building. Learn the setup, wrapping technique, certification test, and what rush hour really feels..."
 pubDate: '2025-11-03'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -10,8 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: In-N-Out Burger
 topic: Burgers
 relatedArticles:
-- in-n-out-level-system
-- in-n-out-secret-menu
+  - in-n-out-double-double-assembly
+  - in-n-out-animal-style-fries
+  - in-n-out-secret-menu
 faq:
 - question: How long does it take to get certified on the Board?
   answer: Most Associates spend several weeks training before they're ready for the
@@ -29,10 +28,6 @@ As you advance through [The In-N-Out Level System](/articles/in-n-out-level-syst
 
 ![What is the In-N-Out ](../../assets/images/general/generic-walk-in-2.webp)
 
-
-
-
-
 The Board person stands at a stainless steel prep table positioned directly across from the Grill cook. It's a face-to-face arrangement, and there is a reason for that—communication between the Board and the Grill has to be instantaneous. The Grill cook toasts the buns and places them onto the Board table. From that moment, the clock is ticking. 
 
 Your job is to dress those buns perfectly, every single time. You apply the Secret Spread using a pump dispenser, then layer on shredded lettuce, tomato slices, pickles, and raw onions—all in a specific order that never changes. The condiments, vegetables, and spread are arranged within arm's reach in a standardized layout. The lettuce bin sits closest to your dominant hand. The tomato tray is always in the same position. The spread pump never moves. This layout is identical at every In-N-Out location, which means an experienced Board person can transfer to a different store and feel right at home within minutes.
@@ -44,7 +39,6 @@ On more than one occasion, green crew members underestimate the setup phase. Bef
 ## The Wrapping Speed That Separates Good from Great
 
 ![What is the In-N-Out ](../../assets/images/general/generic-walk-in-2.webp)
-
 
 Once the Grill cook drops the cooked patties onto your dressed buns, you enter the most demanding phase: the wrap. A top-tier Board person can dress, wrap, and bag a finished burger in under five seconds. That's not an exaggeration—it's a benchmark that experienced Associates actually hit during peak hours.
 

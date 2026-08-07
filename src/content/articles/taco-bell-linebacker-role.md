@@ -9,9 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Taco Bell
 topic: Mexican
 relatedArticles:
-- taco-bell-drive-thru-timer
-- taco-bell-menu
-- taco-bell-rehydrate-beans
+  - taco-bell-grade-d-beef-myth
+  - taco-bell-steamer-melter
+  - taco-bell-drive-thru-timer
 faq:
 - question: What exactly does a Linebacker do?
   answer: The Linebacker is a support position responsible for restocking all hot
@@ -29,15 +29,7 @@ If your shift lead assigns you to be the Linebacker, this is the reality: you do
 
 ## How the Makeline Is Divided
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![What Is the Taco Bell ](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 To understand the Linebacker, you need to understand how Taco Bell's makeline is structured. The line is divided into distinct zones with dedicated roles: 
 
@@ -50,7 +42,6 @@ When the Starter runs out of ground beef, they have to stop building, turn aroun
 ## The Linebacker's Core Duties
 
 ![What Is the Taco Bell ](../../assets/images/general/generic-prep.webp)
-
 
 The Linebacker's job is deceptively simple to describe and incredibly demanding to execute:
 

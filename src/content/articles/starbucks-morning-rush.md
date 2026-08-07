@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Starbucks
 topic: Breakfast & Coffee
 relatedArticles:
-- starbucks-cold-bar-frappuccino
-- starbucks-customer-support-cycle
+  - starbucks-cold-bar-frappuccino
+  - starbucks-first-day-training
+  - starbucks-dpm-routing
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-pos.webp
 faq:
@@ -28,15 +29,7 @@ The ticket printer hasn't stopped for 45 minutes, there are twenty mobile orders
 
 ## Respect the Beverage Routine
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-drive-thru-3.webp)
-
-
-
-
 
 Starbucks drills a highly specific routine into every barista during training called the Beverage Routine (often documented in [Starbucks corporate partner resources](https://departments.starbucks.com/)). When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next. 
 
@@ -64,7 +57,6 @@ The stickers come from multiple channels—cafe orders, mobile orders, drive-thr
 ## Keep Your Station Immaculate
 
 ![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-walk-in-2.webp)
-
 
 A messy bar slows you down in ways you don't notice until it's too late. If you spill milk, wipe it immediately. If the espresso grounds bin is getting full, empty it the second you have a 10-second gap. If you let milk crust onto your steam wand or syrup pool on the counter, you will eventually drop a cup, knock over a bottle, or slip on a wet floor and completely derail the flow.
 

@@ -1,7 +1,6 @@
 ---
 title: How Does the Arby's Slicer Work (And Is the Meat Real)?
-description: Debunking the liquid meat myth and revealing the strict safety protocols,
-  morning calibration, and real technique behind Arby's commercial deli slicer station.
+description: "Debunking the liquid meat myth and revealing the strict safety protocols, morning calibration, and real technique behind Arby's commercial deli slicer..."
 pubDate: '2024-06-16'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -9,7 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Arby's
 topic: Other Chains
 relatedArticles:
-- five-guys-no-freezers
+  - arbys-roast-beef-cooking-process
+  - chilis-baby-back-ribs
+  - panda-express-wok-chef
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
 - question: Why doesn't Arby's pre-slice their roast beef?
@@ -25,15 +26,7 @@ Somewhere around 2015, a photo of a raw, gelatinous bag of Arby's roast beef wen
 
 ## The Truth About the Meat
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 Yes, it is real beef. No, it does not arrive as a liquid.
-
-
-
-
 
 Every Arby's location receives its roast beef raw, vacuum-sealed in heavy plastic bags, submerged in a salty beef broth marinade. Each bag contains roughly 10 pounds of solid beef. The prep team pulls these bags from the walk-in cooler every morning and loads the raw roasts into a slow-cooking oven where they roast for approximately 3 to 4 hours. Once the internal temperature hits the corporate safety standard—typically around 145°F for whole cuts—the roasts are transferred into a specialized holding oven where they rest and stay hot throughout the day. 
 
@@ -41,8 +34,7 @@ The liquid meat myth stems entirely from the marinade. When you tear open that v
 
 ## The Deli Slicer Station
 
-![How Does the Arby](../../assets/images/general/generic-prep.webp)
-
+![How Does the Arby's](../../assets/images/general/generic-prep.webp)
 
 Arby's does not pre-slice their meat. Every single sandwich gets its meat sliced fresh, paper-thin, on a massive commercial-grade deli slicer positioned right on the assembly line. This is not a decorative feature—it is the operational heart of the store.
 
@@ -68,8 +60,7 @@ You are required to wear a thick Kevlar mesh glove during this entire process. M
 
 ## The Morning Calibration Routine
 
-![How Does the Arby](../../assets/images/general/generic-walk-in-2.webp)
-
+![How Does the Arby's](../../assets/images/general/generic-walk-in-2.webp)
 
 The slicer station does not just fire up when the doors open. There is a dedicated morning calibration every single day. The opening manager powers up the slicer, verifies the blade guard setting with a thickness gauge, and runs a test slice to ensure the blade is sharp and cutting cleanly.
 
@@ -94,3 +85,21 @@ The blade does not get replaced often, but it gets professionally sharpened on a
 ---
 
 *For more behind-the-counter breakdowns, check out [how Jersey Mike's runs their hot sub grill station](/articles/jersey-mikes-hot-sub-grill) or learn [why Five Guys refuses to use freezers](/articles/five-guys-no-freezers). If you are curious about how other chains handle their signature cooking equipment, read our guide on [KFC's Original vs. Extra Crispy process](/articles/kfc-original-vs-extra-crispy).*
+
+
+<div class="product-card">
+	<div class="product-card-image">
+		<img src="https://m.media-amazon.com/images/I/71o0X4p+-sL._AC_SX679_.jpg" alt="KWS Premium Commercial Meat Slicer" loading="lazy" width="100" height="100" />
+	</div>
+	<div class="product-card-content">
+		<h4 class="product-card-title">KWS Premium Commercial Meat Slicer</h4>
+		<div class="product-card-desc">
+			<p>If you're running an independent deli or trying to replicate the razor-thin roast beef at home, a standard kitchen knife won't cut it. You need a heavy-duty slicer.</p>
+		</div>
+		<a href="https://amzn.to/example-slicer" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+			Check Price on Amazon
+		</a>
+	</div>
+</div>
+

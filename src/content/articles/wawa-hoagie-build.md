@@ -19,13 +19,12 @@ faq:
     fanned flat across the bread. When employees fall behind, they often stuff the
     proteins directly into the bread's hinge cut, which ruins the ingredient distribution.
 relatedArticles:
-- mcdonalds-fry-station
-- chick-fil-a-breading-process
-- wendys-chili-leftover-hamburgers
+  - jersey-mikes-mikes-way
+  - jersey-mikes-hot-sub-grill
+  - subway-tuna
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
 7.  How Does Wawa Make Their Hoagies? (The Touchscreen-to-Table Process)
-
 
 If you've never ordered a hoagie at Wawa, the experience can throw you off. There is no deli counter where you lean over the glass and tell someone what you want. No shouting your order over the sneeze guard. At Wawa, you walk up to a touchscreen kiosk, build your hoagie tap by tap, and then wait for your name to be called. The whole thing runs like a quiet, efficient little factory — and after spending years in QSR kitchens, After a decade on the line, it's one of the smartest deli setups in the business. 
 
@@ -33,19 +32,9 @@ I've worked in operations where verbal orders caused constant rework. Wrong chee
 
 ## The Touchscreen Kiosk: Where Every Hoagie Starts
 
-<div class="callout callout-tip"><strong>ProTip: Equipment:</strong> Always use a high-quality commercial thermometer for temping. We recommend the <a href="https://www.amazon.com/s?k=commercial+digital+thermometer&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Taylor Commercial Digital Thermometer</a> for the fastest read times during a rush.</div>
-
-
-
 ![Wawa Hoagie Build The Touchscreen Assembly Line](../../assets/images/general/generic-grill.webp)
 
-
-
 Walk into any Wawa and you'll see a bank of freestanding touchscreen kiosks near the entrance — usually three to six of them depending on the store's size. These aren't generic tablet stands. They're custom-built ordering terminals running Wawa's proprietary software, and they're the only way to order a built-to-order item. You can't walk up to the deli and ask someone to make you a hoagie verbally. That's not how it works here. 
-
-
-
-
 
 The hoagie builder interface walks you through every decision in sequence:
 
@@ -79,13 +68,13 @@ This is the operational build sequence:
   <strong>ProTip:</strong> A major bottleneck during lunch rushes is the Retail Sandwich Station (RSS) restocking. If the team doesn't prep enough backup cambros of sliced meats and cheeses before the rush, they'll have to handle bulk packs on the fly, grinding the assembly line to a halt.
 </div>
 
-### Step 1: Bread Selection and Split
+### 1. Bread Selection and Split
 
 The associate grabs the correct roll — Classic 10-inch or Shorti — from the bread rack behind the station. Wawa bakes their bread in-store daily, which is a detail that separates them from a lot of competitors. The rolls arrive as frozen parbaked dough and go into the store's bread oven early in the morning. By the time the deli opens, there are fresh rolls ready to go, and they bake more throughout the day to keep up with demand.
 
 The roll gets split with a bread knife — not all the way through. It's a hinge cut, so the top and bottom stay connected. This keeps the hoagie from falling apart during the build and when the customer picks it up.
 
-### Step 2: Meats Are Weighed, Not Eyeballed
+### 2. Meats Are Weighed, Not Eyeballed
 
 This is a detail that matters more than people realize. Wawa portions their deli meats by weight, not by feel. There is a small digital scale at each build station, and the associate weighs the meat for every hoagie. A Classic Italian hoagie, for example, gets a specific gram count of ham, salami, and capicola. The Shorti gets a proportionally smaller portion.
 
@@ -93,11 +82,11 @@ Why does this matter? Consistency. If you order an Italian hoagie at a Wawa in P
 
 The meats are pre-sliced and stored in cambro containers in a refrigerated prep table (the same kind of cold-hold unit you'd see at Subway or Jersey Mike's — a long, shallow cooler with ingredient pans on top). The associate fans the meat across the bread, layering it so it covers the full length of the roll.
 
-### Step 3: Cheese Placement
+### 3. Cheese Placement
 
 Cheese goes on top of the meat. It's also portioned — usually two to three slices depending on the size. The cheese gets shingled across the meat so it overlaps slightly and covers the surface evenly. Nothing fancy, but the placement matters for melt distribution if the hoagie is going into the oven.
 
-### Step 4: The Rapid Oven (Hot Hoagies Only)
+### 4. The Rapid Oven (Hot Hoagies Only)
 
 If you ordered a hot hoagie — meatball, chicken cheesesteak, or a toasted Italian — the hoagie goes into a rapid-cook oven at this stage. These are high-speed convection ovens (similar to a TurboChef or Merrychef) that use a combination of convection heat and microwave energy to heat the sandwich fast. We're talking 30 to 60 seconds depending on the item, not minutes.
 
@@ -105,13 +94,13 @@ The oven melts the cheese, warms the meat through, and toasts the bread slightly
 
 Cold hoagies skip this step entirely and go straight to toppings.
 
-### Step 5: Toppings and Sauces
+### 5. Toppings and Sauces
 
 The associate reads the ticket and adds toppings in order. Lettuce first, then tomato, onions, pickles, peppers, and whatever else the customer selected. Sauces go on last — mayo, mustard, oil and vinegar. If you ordered oil and vinegar on an Italian, the associate drizzles it across the toppings from a squeeze bottle. Oregano and salt/pepper get shaken on at the end.
 
 This is where the ticket system really proves itself. Every topping is listed, every sauce is specified, and the associate just works down the list. No guessing, no asking “what did you want again?”
 
-### Step 6: Wrap, Label, and Call
+### 6. Wrap, Label, and Call
 
 The finished hoagie gets wrapped in Wawa's branded deli paper and then into a bag. The associate sticks the order label on the outside — your name and order number — and places it on the pickup shelf. Your name gets called, you grab it, and you're done.
 
@@ -128,7 +117,7 @@ Wawa offers two main sizes for most hoagies:
 *   **Shorti** — A junior roll, roughly 6 inches. It's the grab-and-go option for people who want a lighter meal or are pairing it with soup or a side. The Shorti uses a different, slightly denser roll than the Classic. Meat and cheese portions are scaled down proportionally.
 *   **Classic** — The full 10-inch roll. This is the standard Wawa hoagie, and it's what most regulars order. It's a substantial sandwich — enough for a full meal, and honestly, sometimes more than enough.
 
-There used to be a third size — the “Junior” — but Wawa simplified their menu and the Shorti essentially replaced it. Pricing is tiered, with the Shorti running a couple dollars cheaper than the Classic for the same build.
+There used to be a third size — the “Junior” — but Wawa simplified their menu and the Shorti in effect replaced it. Pricing is tiered, with the Shorti running a couple dollars cheaper than the Classic for the same build.
 
 The bread itself is the same recipe for both sizes. It's a soft Italian-style roll with a thin crust, baked from parbaked dough in the store's convection ovens. Wawa has been protective of their bread recipe over the years, and for good reason — the roll is a big part of what makes a Wawa hoagie taste like a Wawa hoagie.
 

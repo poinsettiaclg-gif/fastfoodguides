@@ -11,9 +11,9 @@ authorTitle: Former Multi-Unit QSR Kitchen Manager
 chain: Starbucks
 topic: Coffee
 relatedArticles:
-- starbucks-customer-support-cycle
-- starbucks-morning-rush
-- starbucks-mastrena-espresso-calibration
+  - starbucks-pump-ratios-memorize
+  - starbucks-cold-bar-frappuccino
+  - starbucks-tiktok-hacks-debunked
 faq:
 - question: Why does my mobile order sometimes take 20 minutes while cafe orders take
     5 minutes?
@@ -34,13 +34,7 @@ The DPM is the tablet interface (typically running on iPad hardware mounted at e
 
 ## 1. Multi-Channel Ingestion and Queue Routing
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![Starbucks Digital Production Manager (DPM) How Mobile Orders Are Routed and](../../assets/images/general/generic-exterior.webp)
-
-
 
 In a modern Starbucks store, orders arrive simultaneously from four distinct ingestion channels: **Drive-Thru (DT), Cafe Point of Sale (POS), Mobile Order & Pay (MOP), and Third-Party Delivery (UberEats/DoorDash)**. 
 

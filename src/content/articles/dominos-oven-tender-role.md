@@ -1,7 +1,6 @@
 ---
 title: What is the "Oven Tender" Role at Domino's During a Friday Rush?
-description: "A former kitchen manager breaks down the Domino's Oven Tender position\u2014\
-  the catch, the cut, the labels, and why it's the hardest insider job in the building."
+description: "A former kitchen manager breaks down the Domino's Oven Tender positionu2014 the catch, the cut, the labels, and why it's the hardest insider job in..."
 pubDate: '2026-03-14'
 updatedDate: '2026-07-23'
 author: Russell Roseberry
@@ -9,8 +8,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
-- dominos-20-bank-rule
-- dominos-gas
+  - dominos-first-day-training
+  - dominos-makeline-routing
+  - dominos-20-bank-rule
 faq:
 - question: Why do items get backed up in the Domino's oven?
   answer: Bottlenecks usually happen when the makeline 'snake loads' items too closely
@@ -26,15 +26,7 @@ A single Domino's conveyor belt oven can spit out a screaming-hot pizza every 15
 
 ## The Catch: A Conveyor Belt That Never Stops
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
 ![What is the ](../../assets/images/general/generic-prep.webp)
-
-
-
-
 
 Domino's uses massive [Lincoln Impinger](https://www.lincolnfp.com/) conveyor-belt ovens. Raw pizzas go in one end, travel through a tunnel of superheated air at around 450°F, and emerge fully baked roughly seven minutes later. The belt doesn't pause. It doesn't slow down. It doesn't care that you just dropped the rocking blade. 
 
@@ -49,7 +41,6 @@ The Oven Tender stands at the exit with a long metal peel—a flat spatula desig
 ## The Cut and Box: 15 Seconds Per Pizza or You're Drowning
 
 ![What is the ](../../assets/images/general/generic-prep.webp)
-
 
 Catching the pizza is only step one. This is the full sequence a good Oven Tender executes in under 15 seconds:
 

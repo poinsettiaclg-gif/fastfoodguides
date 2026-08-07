@@ -9,8 +9,9 @@ authorTitle: "Former Multi-Unit Kitchen Manager"
 chain: Domino's
 topic: Pizza
 relatedArticles:
-- dominos-20-bank-rule
-- dominos-oven-tender-role
+  - dominos-dough-stretching
+  - dominos-super-bowl-pulse-system
+  - dominos-makeline-routing
 heroImage: ../../assets/images/general/generic-pos-3.webp
 faq:
 - question: How does Domino's track driver mileage?
@@ -27,15 +28,7 @@ This is the conversation I had with almost every single delivery driver applican
 
 ## The Short Answer: You Pay at the Pump, They Pay You Back
 
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
-
-![Domino](../../assets/images/general/generic-walk-in-2.webp)
-
-
-
-
+![Domino's](../../assets/images/general/generic-walk-in-2.webp)
 
 Yes, you fill up your own tank with your own money. Domino's does not hand you a corporate gas card. There is no fleet fuel account. You drive to the gas station on your way to work, swipe your debit card, and that's that. 
 
@@ -67,8 +60,7 @@ Now flip it. If you're driving a V8 pickup that gets 14 miles to the gallon, tha
 
 ## The Hidden Costs Nobody Mentions in the Interview
 
-![Domino](../../assets/images/general/generic-prep.webp)
-
+![Domino's](../../assets/images/general/generic-prep.webp)
 
 The mileage reimbursement covers your gas and then some—but it does not cover the accelerated wear and tear on your vehicle. Delivering 50 to 100 miles per shift, four or five nights a week, puts serious stress on your car. This is what I saw drivers dealing with constantly:
 

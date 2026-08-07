@@ -4,9 +4,10 @@ When writing or generating new articles for this project (`fastfoodguides.com`),
 
 ## 1. Zero AI Writing Patterns
 Google's AI classifiers flag repetitive, formulaic transitions and sentence structures. 
-- **DO NOT USE** the following banned phrases: "Here is exactly how", "Here's what you need to know", "Here's why", "In conclusion", "Delve into", "Tapestry", "Crucial", "Vital", "Landscape", "Myriad", "Testament", "Ultimately", "Furthermore".
+- **DO NOT USE** the following banned phrases: "Here is exactly how", "Here's what you need to know", "Here's why", "In conclusion", "Delve into", "Tapestry", "Crucial", "Vital", "Landscape", "Myriad", "Testament", "Ultimately", "Furthermore", "Meticulously", "Orchestrate", "Robust".
 - **DO NOT** overuse "I've seen" or "I can tell you". 
 - **DO USE** varied, natural, gritty, and direct language. Write like a tired kitchen manager explaining operations to a new trainee. (e.g., "The reality of the line is...", "What actually happens...", "Step by step, this is the workflow...")
+- **AVOID STRUCTURAL PREDICTABILITY**: Do not use grandiose/dramatic opening hooks (e.g., "the entire fast food industry paused to watch"). Do not use rigidly identical Step 1 / Step 2 / Step 3 structural rhythms across every article. Vary your subheadings.
 
 ## 2. Required Markdown Structure (Avoiding Thin Content)
 Every article must be **at least 800 words** and contain the following structural elements to satisfy rich-content requirements:

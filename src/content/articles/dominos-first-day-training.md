@@ -26,20 +26,17 @@ faq:
   answer: Yes, delivery drivers are paid for all training hours, which usually includes
     riding along with an experienced driver to learn the delivery area and store procedures.
 relatedArticles:
-  - "mcdonalds-ice-cream-machine"
-  - "wendys-fresh-never-frozen"
+  - dominos-gas
+  - dominos-oven-tender-role
+  - dominos-dough-stretching
 ---
 Walking into a Domino's Pizza for your first shift feels a bit like walking into a manufacturing plant. Everything is built around the conveyor belt oven. The entire store is a machine designed to move raw dough from the walk-in cooler to a cardboard box in under 15 minutes.
 
-![Your First Day at Domino](../../assets/images/general/generic-walk-in-2.webp)
+![Your First Day at Domino's](../../assets/images/general/generic-walk-in-2.webp)
 
 If you've been hired as an Insider (Customer Service Rep or Pizza Maker), you are about to learn a highly optimized system. As a former manager who has run the numbers on pizza throughput. The reality is Domino's operates on absolute precision.
 
 ## Clocking In: The Pulse Dashboard and Your First Pizza
-
-<div class="callout callout-tip"><strong>Manager's Tool:</strong> Spending hours building schedules in Excel? We use <a href="https://www.7shifts.com/?a_aid=fastfoodguides" target="_blank" rel="noopener sponsored">7shifts</a> to automate our labor matrix and handle shift-swaps instantly. It is a lifesaver for cutting labor costs.</div>
-
-
 
 Before you touch any dough, you have to get into the system.
 
@@ -87,9 +84,6 @@ The Makeline monitors turn red when an order has been sitting un-made for too lo
 
 Your first day at Domino's will be hot, your shoes will be covered in cornmeal, and you will smell like garlic oil for two days. But you will also learn the incredible rhythm of a high-functioning kitchen. Focus on memorizing the topping portions, keep your station clean, and always keep one eye on the oven belt.
 
-
-
-
 ### See Also
 
 - the [Domino's $20 bank rule](/articles/dominos-20-bank-rule/)
@@ -102,3 +96,9 @@ Your first day at Domino's will be hot, your shoes will be covered in cornmeal, 
   If you're hired as an insider, your entire first week is going to be folding boxes. I'm not kidding. During Friday rush, a good box folder is literally what keeps the makeline from collapsing. We'd have races in the back to see who could fold a stack of 50 the fastest. Don't complain about it—if you prove you can fold fast without tearing the cardboard, the GM will love you.
 </div>
 
+
+## Managing Cross-Training Expectations
+
+At Domino's, cross-training is practically a requirement for long-term survival. If you are hired specifically to answer phones and handle the cash register, you should still expect to eventually learn how to top pizzas and operate the oven. During a Friday night rush, if the makeline gets backed up with 50 pending orders, the shift manager will pull everyone—including the phone personnel—to the line to clear the screen.
+
+The best trainees are those who actively watch the oven tender and the dough slappers during their downtime. Learning the "pull, pull, pull" rhythm of the oven or the correct portioning of the pepperoni (exactly 40 slices for a large) before you are officially trained on it gives you a massive advantage. Stores run on extreme efficiency, and having employees who can seamlessly transition between the cut table, the register, and the makeline is what prevents a catastrophic service breakdown.

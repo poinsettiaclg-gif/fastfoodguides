@@ -16,9 +16,9 @@ faq:
   answer: Carhops earn a base hourly wage plus tips. Skating carhops often receive
     higher tips, increasing their total take-home pay significantly on busy shifts.
 relatedArticles:
-- sonic-switchboard-how-it-works
-- dairy-queen-perfect-cone-curl
-- in-n-out-level-system
+  - sonic-nugget-ice
+  - sonic-switchboard-how-it-works
+  - chick-fil-a-waffle-fry-station
 disclaimerType: legal
 heroImage: ../../assets/images/general/generic-grill-3.webp
 ---
@@ -28,15 +28,7 @@ If you're filling out a Sonic application and the thought of strapping wheels to
 
 ## Is Skating Actually Required?
 
-<div class="callout callout-tip"><strong>ProTip: Safety First:</strong> Never step on the line without proper footwear. A good pair of <a href="https://www.amazon.com/s?k=non+slip+work+shoes&tag=fastfoodguide-20" target="_blank" rel="noopener sponsored">Skechers Work Non-Slip Shoes</a> will save your back and prevent serious kitchen accidents on greasy floors.</div>
-
-
-
 The short answer is no, and this is why. While Sonic's marketing leans heavily into the skating imagery, whether you actually skate depends entirely on your local franchise owner. The corporate brand promotes it. Individual stores decide if they enforce it. 
-
-
-
-
 
 **The Walking Carhop:** The vast majority of Sonic Carhops simply walk orders out to the cars. You wear standard non-slip shoes just like any other fast-food worker. There is nothing wrong with walking — you'll still deliver food, still earn tips, still have a job.
 
@@ -52,7 +44,6 @@ If you've never skated before, most managers will let you practice in the parkin
 
 ![Sonic Carhops on Roller Skates How It Works](../../assets/images/general/generic-walk-in-2.webp)
 
-
 Sonic doesn't issue a standardized pair of skates to every carhop. Policies vary by franchise — some stores keep a communal set in common sizes, but sharing skates is unpopular for obvious hygiene reasons. If you plan to skate regularly, buying your own pair is the move for fit, comfort, and not strapping on someone else's sweat-soaked wheels.
 
 This is a detail that matters more than people think: most skating carhops choose traditional quad roller skates — four wheels in a square pattern — over inline skates. Quads provide a wider, more stable base, and stability is everything when you're carrying a tray loaded with 44 ounces of liquid. Inline skates are faster, but the narrower stance makes tray-balancing dramatically harder, and they're more dangerous on uneven parking lot surfaces. Cracks, dips, and oil stains that quads roll right over can send an inline skater sprawling. Trust the quads.
@@ -60,7 +51,6 @@ This is a detail that matters more than people think: most skating carhops choos
 ## How They Don't Spill: The Tray Technique
 
 ![Sonic Carhops on Roller Skates How It Works](../../assets/images/general/generic-walk-in-2.webp)
-
 
 Whether you skate or walk, mastering the Sonic tray is an acquired skill that every new carhop has to learn — usually the hard way.
 
