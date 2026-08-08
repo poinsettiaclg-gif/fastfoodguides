@@ -11,7 +11,6 @@ import TableOfContents from '../components/TableOfContents.astro';
 import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import AdPlaceholder from '../components/AdPlaceholder.astro';
-import GiscusComments from '../components/GiscusComments.astro';
 import FTCDisclosure from '../components/FTCDisclosure.astro';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
@@ -668,8 +667,6 @@ if (faq && faq.length > 0) {
 							</div>
 						</section>
 					)}
-
-					<GiscusComments />
 
 					<AuthorBylineBottom author={author} authorTitle={authorTitle} />
 				</div>
