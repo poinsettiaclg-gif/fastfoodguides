@@ -40,7 +40,7 @@ This is the workhorse of the line. It reads in 3 seconds. That difference betwee
 		<div class="product-card-desc">
 			<p>IP65 waterproof. You can accidentally drop it in a sani-bucket and it won't short out. Magnetic back so you can stick it to the side of the prep table.</p>
 		</div>
-		<a href="https://www.amazon.com/s?k=ThermoPro+TP19H+Waterproof+Thermometer&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/dp/B07XXSYLL8?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
@@ -62,7 +62,7 @@ If you want something smaller that fits perfectly in the sleeve pocket of a chef
 	</div>
 	<div class="callout-content">
 		<strong>Manager's Gear Pick: Lavatools Javelin</strong>
-		<p>Sub-3-second reading times and an anti-microbial coating. <a href="https://www.amazon.com/s?k=Lavatools+Javelin+Meat+Thermometer&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
+		<p>Sub-3-second reading times and an anti-microbial coating. <a href="https://www.amazon.com/dp/B00GRFHXVQ?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
 	</div>
 </div>
 

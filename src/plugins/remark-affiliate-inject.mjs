@@ -10,8 +10,8 @@
  *   3. Matches the article's `topic`, `chain`, and `title` against the rules
  *      defined in `affiliate-rules.js`.
  *   4. Picks the best-matching rule (topic+chain > topic > keyword fallback).
- *   5. Injects one raw HTML callout node before the last H2 (if one exists),
- *      otherwise at the very end of the document.
+ *   5. Injects one raw HTML callout node before the first H2, fallback to
+ *      after the first paragraph, or at the very end of the document.
  *
  * Maximum 1 callout per article to avoid being spammy.
  */
@@ -53,16 +53,29 @@ function scoreRule(rule, { topic, chain, title }) {
 }
 
 /**
- * Find the index of the first heading node (depth 2 = ## heading) in the
- * MDAST `children` array. Returns -1 if none found.
+ * Find the ideal insertion index for the affiliate callout.
+ * 1. Just before the first H2 (or just after if H2 is the very first element).
+ * 2. Fallback: just after the first paragraph if no H2 exists.
+ * 3. Fallback: at the very end of the document.
  */
-function findFirstH2Index(children) {
+function findInsertionIndex(children) {
+  // 1. Try to find the first H2
   for (let i = 0; i < children.length; i++) {
     if (children[i].type === 'heading' && children[i].depth === 2) {
-      return i;
+      // If H2 is the first element, insert after it so it's not at the very top.
+      return i === 0 ? 1 : i;
     }
   }
-  return -1;
+
+  // 2. Try to find the first paragraph as a fallback
+  for (let i = 0; i < children.length; i++) {
+    if (children[i].type === 'paragraph') {
+      return i + 1;
+    }
+  }
+
+  // 3. Absolute fallback: append to the end
+  return children.length;
 }
 
 /**
@@ -112,16 +125,8 @@ export default function remarkAffiliateInject() {
       value: bestRule.calloutHtml,
     };
 
-    // ── 5. Inject: before the first H2 if possible, else at the end ──
-    const firstH2 = findFirstH2Index(tree.children);
-
-    if (firstH2 > 0) {
-      // Insert just before the first H2 so the callout appears near
-      // the top of the article body, right after the introduction.
-      tree.children.splice(firstH2, 0, calloutNode);
-    } else {
-      // Fallback: append at the very end.
-      tree.children.push(calloutNode);
-    }
+    // ── 5. Inject: before first H2, after first paragraph, or at the end ──
+    const insertIndex = findInsertionIndex(tree.children);
+    tree.children.splice(insertIndex, 0, calloutNode);
   };
 }

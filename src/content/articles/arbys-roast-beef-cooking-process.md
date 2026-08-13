@@ -12,10 +12,10 @@ relatedArticles:
   - "wendys-fresh-never-frozen"
   - "taco-bell-grade-d-beef-myth"
 faq:
-  - question: "Does Arby's roast beef come as a liquid in a bag?"
-    answer: "Absolutely not. The roast beef arrives at the store as a solid, raw chunk of beef sealed inside a thick plastic roasting bag. The bag contains a beef broth solution to keep the meat moist during the roasting process, which is where the liquid myth originated."
-  - question: "How long does Arby's cook their roast beef?"
-    answer: "The raw roasts are cooked in a slow-roasting oven for approximately 3 to 4 hours at around 200 degrees Fahrenheit, depending on the exact weight of the roast. After cooking, it must rest in a holding cabinet before slicing."
+  - question: "How can I prevent the roast beef from temping below safety standards during the slicing rush?"
+    answer: "The critical step is maintaining the hold cabinet temp. Never leave a roast exposed on the slicer between orders; return it immediately to the holding unit. Also, ensure the roast has completed its full resting phase before attempting to slice."
+  - question: "What is the proper logging procedure for the roast beef yield?"
+    answer: "You must record the raw weight before roasting and the cooked weight after. This yield percentage is vital for the store's food cost tracking. Significant deviations often mean the oven calibration is off or the meat was under-rested."
 ---
 
 If there is one urban legend that refuses to die in the fast food industry, it is the myth of Arby's "liquid meat." For decades, rumors have circulated that Arby's roast beef arrives at the store as a gelatinous liquid paste in a bag, which is then squeezed out, formed into a solid mass, and cooked until it hardens.

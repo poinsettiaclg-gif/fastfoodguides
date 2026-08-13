@@ -42,9 +42,9 @@ export const affiliateRules = [
     calloutHtml: buildCalloutHtml({
       title: "Russell\u2019s Gear Pick: Non-Slip Shoes",
       body:
-        'After 10 years of mopping grease traps and running the line, the single best investment you can make is a real pair of non-slip shoes. Your knees, your back, and your ankles will thank you after year three.',
-      link: 'https://www.amazon.com/s?k=Shoes+for+Crews+Non-Slip+Work+Shoes&tag=fastfoodguides-20',
-      buttonText: 'Check Prices on Amazon',
+        'Don\'t wait until you slip on grease or blow out your knees. A real pair of non-slip shoes is the single best investment you can make for your safety. Get a pair before your next shift.',
+      link: 'https://www.amazon.com/dp/B072Q5QRF8?tag=fastfoodguides-20',
+      buttonText: 'Get Yours on Amazon Now',
       readMoreLink: '/articles/best-non-slip-shoes-fast-food-workers/',
     }),
   },
@@ -58,9 +58,9 @@ export const affiliateRules = [
     calloutHtml: buildCalloutHtml({
       title: "Russell\u2019s Gear Pick: Digital Pocket Thermometer",
       body:
-        'Stop relying on the broken dial thermometer corporate sent you in 2019. A 3\u2011second digital read can save you from serving undercooked chicken and getting your store shut down during an EcoSure audit.',
-      link: 'https://www.amazon.com/s?k=ThermoPro+TP19H+Digital+Meat+Thermometer&tag=fastfoodguides-20',
-      buttonText: 'Check Prices on Amazon',
+        'Stop risking an EcoSure shutdown or foodborne illness with a broken dial thermometer. Grab a reliable 3-second digital read right now before it costs you your store.',
+      link: 'https://www.amazon.com/dp/B07XXSYLL8?tag=fastfoodguides-20',
+      buttonText: 'Secure Yours on Amazon',
       readMoreLink: '/articles/top-pocket-thermometers-grill-line/',
     }),
   },
@@ -74,9 +74,9 @@ export const affiliateRules = [
     calloutHtml: buildCalloutHtml({
       title: "Russell\u2019s Gear Pick: Safety Box Cutter",
       body:
-        'If you are breaking down 30 cases of frozen product in the walk-in every morning with a dull blade, you are one slip away from a workers\u2019 comp claim. Get a self-retracting safety knife.',
-      link: 'https://www.amazon.com/s?k=OLFA+SK-4+Safety+Knife&tag=fastfoodguides-20',
-      buttonText: 'Check Prices on Amazon',
+        'Breaking down frozen cases with a dull blade means you are one slip away from a major workers\u2019 comp claim. Ditch the dangerous blades and order a self-retracting safety knife today.',
+      link: 'https://www.amazon.com/dp/B00002X201?tag=fastfoodguides-20',
+      buttonText: 'Protect Yourself on Amazon',
       readMoreLink: '/articles/best-box-cutters-safety-knives-kitchen-prep/',
     }),
   },
@@ -90,9 +90,9 @@ export const affiliateRules = [
     calloutHtml: buildCalloutHtml({
       title: "Russell\u2019s Gear Pick: Anti-Fatigue Insoles",
       body:
-        'Standing on quarry tile for 8 hours destroys the cartilage in your knees faster than you think. A $30 pair of insoles extends your career by years. That is not an exaggeration.',
-      link: 'https://www.amazon.com/s?k=Timberland+PRO+Anti-Fatigue+Insole&tag=fastfoodguides-20',
-      buttonText: 'Check Prices on Amazon',
+        'Quarry tile destroys the cartilage in your knees faster than you think. Stop the damage before it is permanent \u2014 invest in a pair of heavy-duty insoles before your next close.',
+      link: 'https://www.amazon.com/dp/B009R9E9XU?tag=fastfoodguides-20',
+      buttonText: 'Save Your Knees on Amazon',
       readMoreLink: '/articles/best-insoles-restaurant-workers/',
     }),
   },
@@ -106,9 +106,9 @@ export const affiliateRules = [
     calloutHtml: buildCalloutHtml({
       title: "Russell\u2019s Gear Pick: Heavy-Duty Hand Cream",
       body:
-        'Constant handwashing and sanitizer exposure will crack your skin open by week two. Keep a tube of this in your locker. Your hands are your tools \u2014 protect them.',
-      link: 'https://www.amazon.com/s?k=O%27Keeffe%27s+Working+Hands+Hand+Cream&tag=fastfoodguides-20',
-      buttonText: 'Check Prices on Amazon',
+        'Constant sanitizer exposure will crack your skin open in days. Do not wait until you are bleeding on the line \u2014 order heavy-duty hand cream right now to protect your most important tools.',
+      link: 'https://www.amazon.com/dp/B00N3WAOUQ?tag=fastfoodguides-20',
+      buttonText: 'Fix Your Hands on Amazon',
       readMoreLink: '/articles/best-hand-creams-food-service/',
     }),
   },

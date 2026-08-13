@@ -14,14 +14,10 @@ relatedArticles:
   - chick-fil-a-breading-process
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-- question: Why do my boneless wings sometimes seem dry at Buffalo Wild Wings?
-  answer: The breading on boneless wings rapidly absorbs sauce. Even if the kitchen
-    applies the correct calibrated amount of sauce, a short delay in serving can make
-    the wings appear dry by the time they reach the table.
-- question: How does the sauce tossing bucket work?
-  answer: The specialized tossing buckets have textured interior walls. When wings
-    are aggressively shaken, the friction helps emulsify the sauce and creates micro-abrasions
-    on the wing skin, allowing the sauce to bond evenly.
+- question: How do I maintain speed at the sauce station during a heavy game-day rush?
+  answer: Pre-stage your buckets and ladles. Only pour the calibrated amount of sauce right before tossing to prevent pooling, and group identical sauce orders together when tossing to minimize bucket changes and cross-contamination.
+- question: What should I do if the boneless wings are clumping together during the toss?
+  answer: This typically happens when the wings aren't adequately drained from the fryer or if they sit too long before saucing. Ensure a thorough shake to drain excess oil, and toss immediately while the breading is still rigid.
 disclaimerType: food_safety
 ---
 ## The Chaos of the Fry Station

@@ -38,7 +38,7 @@ This is the holy grail for mechanics, construction workers, and line cooks. It c
 		<div class="product-card-desc">
 			<p>It creates a protective layer on the skin's surface that instantly boosts moisture levels and helps prevent further moisture loss. Unscented and non-greasy.</p>
 		</div>
-		<a href="https://www.amazon.com/s?k=O%27Keeffe%27s+Working+Hands+Hand+Cream&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/dp/B00N3WAOUQ?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
@@ -60,7 +60,7 @@ If the O'Keeffe's is too thick for you, this is the runner-up. It was originally
 	</div>
 	<div class="callout-content">
 		<strong>Manager's Gear Pick: Neutrogena Norwegian Formula</strong>
-		<p>Glycerin-rich, highly concentrated, and very little is needed per application. <a href="https://www.amazon.com/s?k=Neutrogena+Norwegian+Formula+Hand+Cream&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
+		<p>Glycerin-rich, highly concentrated, and very little is needed per application. <a href="https://www.amazon.com/dp/B000052YP6?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
 	</div>
 </div>
 

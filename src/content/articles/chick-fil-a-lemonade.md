@@ -14,13 +14,10 @@ relatedArticles:
   - chick-fil-a-ipos-system
 heroImage: ../../assets/images/general/generic-fryer.webp
 faq:
-- question: Does Chick-fil-A squeeze lemons in the store?
-  answer: While historically squeezed in-store daily, Chick-fil-A has transitioned
-    many locations to receiving fresh-squeezed lemon juice in sealed bags from their
-    centralized Bay Center Foods facility to reduce prep bottlenecks.
-- question: How much sugar is in a batch of Chick-fil-A lemonade?
-  answer: A standard 11-quart batch uses two quarts of fresh lemon juice, about three
-    pounds of cane sugar, and nine quarts of filtered water.
+- question: How can I speed up the daily lemon juicing prep without causing waste?
+  answer: The key is rhythm. Halve all your lemons first, rather than cutting and juicing one by one. Maintain steady pressure on the juicer to maximize extraction; rushing the pull often leaves behind perfectly good juice and spikes food cost.
+- question: What's the correct way to properly rotate the lemonade holding bins?
+  answer: Always adhere strictly to First-In, First-Out (FIFO). Freshly mixed batches should never be poured directly over older batches. Use a clean, sanitized bin and ensure the label reflects the exact time the new batch was mixed.
 ---
 ## Yes, They Actually Squeeze Real Lemons
 

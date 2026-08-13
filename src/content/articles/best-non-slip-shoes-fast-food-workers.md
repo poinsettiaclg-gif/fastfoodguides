@@ -38,7 +38,7 @@ There's a reason corporate mandates these in a lot of employee handbooks. The tr
 		<div class="product-card-desc">
 			<p>Water-resistant canvas, incredible grip, and they don't look completely ridiculous if you have to stop at the gas station on the way home.</p>
 		</div>
-		<a href="https://www.amazon.com/s?k=Shoes+for+Crews+%28Ollie+II%29&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/dp/B072Q5QRF8?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
@@ -63,7 +63,7 @@ If you spend any time near the three-compartment sink or running the Hobart dish
 		<div class="product-card-desc">
 			<p>The enclosed toe protects from hot oil spills, and the Croslite material provides massive arch support for standing in one spot.</p>
 		</div>
-		<a href="https://www.amazon.com/s?k=Crocs+Bistro+Clog+%28Slip+Resistant%29&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/dp/B0014C2N66?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
@@ -80,7 +80,7 @@ If you're a manager running the floor and spending more time in the lobby or fro
 	</div>
 	<div class="callout-content">
 		<strong>Manager's Gear Pick: Skechers Work Relaxed Fit</strong>
-		<p>Memory foam inside, slip-resistant rubber outside. <a href="https://www.amazon.com/s?k=Skechers+Work+Relaxed+Fit+Shoe&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
+		<p>Memory foam inside, slip-resistant rubber outside. <a href="https://www.amazon.com/dp/B003LUAOBA?tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
 	</div>
 </div>
 

@@ -14,14 +14,10 @@ relatedArticles:
   - dairy-queen-perfect-cone-curl
 heroImage: ../../assets/images/general/generic-fryer-2.webp
 faq:
-- question: Is the TurboChef actually just a microwave?
-  answer: No, a TurboChef is a high-speed hybrid oven that combines microwave energy
-    with impinged hot air convection, allowing it to brown, crisp, and caramelize
-    food in 30-90 seconds, which standard microwaves cannot do.
-- question: Are Applebee's steaks microwaved?
-  answer: No, every steak is cooked from raw on a charbroiler or flat-top griddle.
-    Microwaves and TurboChef ovens are strictly for therming sides, soups, and certain
-    pre-prepped appetizers.
+- question: Why is my TurboChef burning the outside of the food but leaving the center cold?
+  answer: This usually indicates an unbalanced cook profile or a dirty impingement plate. The convection air is hitting the food too aggressively before the microwave energy has time to penetrate the core. Check the settings and clean the upper plate.
+- question: How do I avoid cross-contamination when therming multiple sides simultaneously?
+  answer: Always use the designated, color-coded silicone therming boats for different proteins or allergens. Never stack items on top of each other, and ensure the oven interior is wiped down with a sanitized cloth between high-risk items.
 ---
 ## The "Chef Mike" Reputation — And the Real Story
 

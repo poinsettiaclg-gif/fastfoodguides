@@ -14,14 +14,10 @@ relatedArticles:
 disclaimerType: food_safety
 heroImage: ../../assets/images/general/generic-grill-2.webp
 faq:
-- question: Can customers order a burger 'hot off the broiler'?
-  answer: Yes, customers can request their burger 'hot off the broiler' (often abbreviated
-    as HOB) to ensure the patty doesn't come from the holding cabinet. during
-    busy drive-thru rushes, this will significantly slow down the speed of service.
-- question: Who makes the Burger King broiler?
-  answer: The automated chain broilers used by Burger King are primarily manufactured
-    by Nieco. They use a conveyor system and gas flames to cook the patties consistently
-    from the top and bottom simultaneously.
+- question: How do you handle a 'hot off the broiler' (HOB) request during a rush?
+  answer: When an HOB is requested during peak times, immediately communicate to the expeditor to drop a fresh patty. Warn the drive-thru runner that the order will take a full 2-3 minutes so they can park the car and prevent a line bottleneck.
+- question: How do you restart a Nieco broiler after a flameout?
+  answer: First, shut off the gas valve and clear out any patties currently on the chain. Wait at least five minutes for any built-up gas to dissipate before following the manufacturer's ignition sequence to avoid a dangerous flash-over.
 ---
 Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
 
