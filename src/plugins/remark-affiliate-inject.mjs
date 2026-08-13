@@ -53,11 +53,11 @@ function scoreRule(rule, { topic, chain, title }) {
 }
 
 /**
- * Find the index of the last heading node (depth 2 = ## heading) in the
+ * Find the index of the first heading node (depth 2 = ## heading) in the
  * MDAST `children` array. Returns -1 if none found.
  */
-function findLastH2Index(children) {
-  for (let i = children.length - 1; i >= 0; i--) {
+function findFirstH2Index(children) {
+  for (let i = 0; i < children.length; i++) {
     if (children[i].type === 'heading' && children[i].depth === 2) {
       return i;
     }
@@ -112,13 +112,13 @@ export default function remarkAffiliateInject() {
       value: bestRule.calloutHtml,
     };
 
-    // ── 5. Inject: before the last H2 if possible, else at the end ──
-    const lastH2 = findLastH2Index(tree.children);
+    // ── 5. Inject: before the first H2 if possible, else at the end ──
+    const firstH2 = findFirstH2Index(tree.children);
 
-    if (lastH2 > 0) {
-      // Insert just before the last H2 so the callout appears near
-      // the end of the article body but above the closing section.
-      tree.children.splice(lastH2, 0, calloutNode);
+    if (firstH2 > 0) {
+      // Insert just before the first H2 so the callout appears near
+      // the top of the article body, right after the introduction.
+      tree.children.splice(firstH2, 0, calloutNode);
     } else {
       // Fallback: append at the very end.
       tree.children.push(calloutNode);
