@@ -57,7 +57,7 @@ If you already have a decent pair of non-slip boots but the bottoms are wearing 
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/81+2wV+oU5L._AC_UY695_.jpg" alt="Timberland PRO Anti-Fatigue Insoles" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/81+2wV+oU5L._AC_UY695_.jpg" alt="Timberland PRO Anti-Fatigue Insoles" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Timberland PRO Anti-Fatigue Technology Replacement Insole</h4>
@@ -81,7 +81,7 @@ If you suffer from plantar fasciitis or flat feet, shock absorption isn't enough
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71wZq-7lG2L._AC_UY695_.jpg" alt="Powerstep Pinnacle Insoles" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71wZq-7lG2L._AC_UY695_.jpg" alt="Powerstep Pinnacle Insoles" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Powerstep Pinnacle Shoe Insoles</h4>
@@ -105,7 +105,7 @@ This is the nuclear option for high arches and heavy-duty structural alignment.
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71B9u6eMwqL._AC_UY695_.jpg" alt="Superfeet Green Insoles" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71B9u6eMwqL._AC_UY695_.jpg" alt="Superfeet Green Insoles" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Superfeet GREEN Professional-Grade Orthotic Insert</h4>

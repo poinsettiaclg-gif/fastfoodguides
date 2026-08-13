@@ -92,7 +92,7 @@ Rinse your blender pitcher with a quick blast of water between every drink. A 2-
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71p-jHwGq1L._AC_SX679_.jpg" alt="Vitamix "The Quiet One" Commercial Blender" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71p-jHwGq1L._AC_SX679_.jpg" alt="Vitamix "The Quiet One" Commercial Blender" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Vitamix "The Quiet One" Commercial Blender</h4>

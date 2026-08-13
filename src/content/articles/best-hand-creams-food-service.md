@@ -31,7 +31,7 @@ This is the holy grail for mechanics, construction workers, and line cooks. It c
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71mB45qQ-OL._AC_SX679_.jpg" alt="O'Keeffe's Working Hands" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71mB45qQ-OL._AC_SX679_.jpg" alt="O'Keeffe's Working Hands" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">O'Keeffe's Working Hands Hand Cream</h4>

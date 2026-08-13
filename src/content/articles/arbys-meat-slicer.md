@@ -90,7 +90,7 @@ The blade does not get replaced often, but it gets professionally sharpened on a
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71o0X4p+-sL._AC_SX679_.jpg" alt="KWS Premium Commercial Meat Slicer" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71o0X4p+-sL._AC_SX679_.jpg" alt="KWS Premium Commercial Meat Slicer" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">KWS Premium Commercial Meat Slicer</h4>

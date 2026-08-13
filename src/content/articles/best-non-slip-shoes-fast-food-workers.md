@@ -31,7 +31,7 @@ There's a reason corporate mandates these in a lot of employee handbooks. The tr
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71b2V5L2nJL._AC_UY695_.jpg" alt="Shoes for Crews" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71b2V5L2nJL._AC_UY695_.jpg" alt="Shoes for Crews" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Shoes for Crews (Ollie II)</h4>
@@ -56,7 +56,7 @@ If you spend any time near the three-compartment sink or running the Hobart dish
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71rM2b6N-tL._AC_UY695_.jpg" alt="Crocs Bistro" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71rM2b6N-tL._AC_UY695_.jpg" alt="Crocs Bistro" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Crocs Bistro Clog (Slip Resistant)</h4>

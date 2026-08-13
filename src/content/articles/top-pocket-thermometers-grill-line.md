@@ -33,7 +33,7 @@ This is the workhorse of the line. It reads in 3 seconds. That difference betwee
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/61k9P1dK-EL._AC_SX679_.jpg" alt="ThermoPro" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/61k9P1dK-EL._AC_SX679_.jpg" alt="ThermoPro" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">ThermoPro TP19H Waterproof Thermometer</h4>

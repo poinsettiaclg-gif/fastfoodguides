@@ -163,7 +163,7 @@ Russell Roseberry
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/71b2V5L2nJL._AC_UY695_.jpg" alt="Shoes for Crews Non-Slip Clogs" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/71b2V5L2nJL._AC_UY695_.jpg" alt="Shoes for Crews Non-Slip Clogs" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Skechers for Work Food Service Shoe</h4>

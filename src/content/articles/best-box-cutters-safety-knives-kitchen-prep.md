@@ -51,7 +51,7 @@ This is the gold standard for heavy-duty kitchen prep. It is rugged, reliable, a
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/61Nl-jD8QPL._AC_SX679_.jpg" alt="OLFA SK-4 Safety Knife" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/61Nl-jD8QPL._AC_SX679_.jpg" alt="OLFA SK-4 Safety Knife" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">OLFA SK-4 Self-Retracting Safety Knife</h4>
@@ -75,7 +75,7 @@ If you need a tool that handles both slicing boxes and splitting packing tape wi
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/61p-2fC-34L._AC_SX679_.jpg" alt="Pacific Handy Cutter S5" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/61p-2fC-34L._AC_SX679_.jpg" alt="Pacific Handy Cutter S5" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Pacific Handy Cutter S5 3-in-1 Safety Cutter</h4>
@@ -99,7 +99,7 @@ For professional butchers or high-volume commissaries that have severe safety pr
 
 <div class="product-card">
 	<div class="product-card-image">
-		<img src="https://m.media-amazon.com/images/I/61N9l8LpMhL._AC_SX679_.jpg" alt="Martor Secunorm 500" loading="lazy" width="100" height="100" />
+		<img src="../../assets/images/products/61N9l8LpMhL._AC_SX679_.jpg" alt="Martor Secunorm 500" loading="lazy" width="100" height="100" />
 	</div>
 	<div class="product-card-content">
 		<h4 class="product-card-title">Martor Secunorm 500 Safety Knife</h4>
