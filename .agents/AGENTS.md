@@ -39,3 +39,17 @@ faq:
     answer: "Detailed operational answer."
 ---
 ```
+
+## 4. STRICT LEGAL BOUNDARIES (DO NOT CROSS)
+To prevent DMCA takedowns, cease-and-desist letters, and tortious interference claims from equipment manufacturers (e.g., Taylor, Mastrena, Garland) or fast-food conglomerates, you MUST NEVER write content that:
+- Instructs employees on how to bypass safety locks, digital diagnostic loops, or health-code lockouts.
+- Encourages "trickery" (e.g., optical sensor trickery) to override machine cleaning cycles.
+- Instructs users to perform unauthorized repairs that void multi-million-dollar equipment warranties.
+**All equipment troubleshooting content must focus STRICTLY on preventative maintenance, reading/translating error codes, and recognizing when to call an authorized technician.**
+
+## 5. Strategic Monetization, Legal, & Affiliate Integration
+Before writing content or implementing site features, you MUST review the strategic blueprints located at:
+1. [`.agents/RESEARCH_STRATEGY.md`](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/.agents/RESEARCH_STRATEGY.md) - Overarching AdSense requirements, Technical SEO, and affiliate integration rules.
+2. [`.agents/NICHE_DOMINANCE_BLUEPRINT.md`](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/.agents/NICHE_DOMINANCE_BLUEPRINT.md) - Keyword strategies, actionable content outlines, B2B affiliate mapping, traffic seeding, and critical Legal "Do Not Cross" boundaries.
+3. [`.agents/COMMUNITY_RETENTION_STRATEGY.md`](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/.agents/COMMUNITY_RETENTION_STRATEGY.md) - Email newsletter architecture, "Russell's" 5-part welcome sequence, lead magnets, and audience segmentation.
+4. [`.agents/TECHNICAL_INTEGRATION_GUIDE.md`](file:///C:/Users/Poins/.gemini/antigravity/scratch/fastfoodguides.com/.agents/TECHNICAL_INTEGRATION_GUIDE.md) - Google AdSense integration, SPA/View Transitions lifecycle hooks, Zero-CLS tailwind layouts, and Server-Side affiliate tracking.

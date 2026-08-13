@@ -23,15 +23,15 @@ faq:
     you go.
 heroImage: ../../assets/images/general/generic-fryer-3.webp
 ---
-[In-N-Out](/articles/chain/in-n-out) Burger is famous for paying its people well—significantly better than the industry average, in fact. But The secret nobody tells you until you're in the weeds: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
+In-N-Out Burger is famous for paying its people well—significantly better than the industry average, in fact. But The secret nobody tells you until you're in the weeds: they don't hand you that top-tier wage on day one. You earn it, one level at a time, through a structured promotion track that might be the most disciplined career progression system in all of fast food. 
 
-It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a [Wendy's](/articles/chain/wendys) for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
+It's called the Level System, and every single Associate starts at the bottom. There are no shortcuts. No skipping ahead because you managed a Wendy's for two years. You prove yourself at each station, pass a formal evaluation, and then—and only then—do you move up and get the raise that comes with it. 
 
 ## Level 1: The Foundation (And the Filter)
 
 Every new hire starts as a Level 1 Associate. Your universe is small: the dining room, the cleanup sink, and the trash cans. You're wiping tables, sweeping floors, emptying bins, and restocking napkins. That's it. 
 
-I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. [In-N-Out](/articles/chain/in-n-out) management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
+I know what you're thinking—this sounds boring. And honestly, it is. But Level 1 is designed as a deliberate filter. In-N-Out management is watching you closely during this phase, and they're not just evaluating how well you clean a table. They want to know if you take unglamorous work seriously. Do you wipe that table without being asked? Do you notice when the napkin dispenser is running low? Do you greet customers walking through the door even though nobody told you to?
 
 Associates who show up on time, keep the dining room spotless without prompting, and bring a genuinely positive attitude get promoted to Level 2 quickly—sometimes in as little as two weeks. Those who slack off, complain about cleaning duties, or show up with a bad attitude will stay at Level 1 indefinitely. Over the years, it both ways. The ones who treat Level 1 like an audition move up fast. The ones who treat it like punishment don't last.
 

@@ -12,6 +12,8 @@ import YMYLDisclaimer from '../components/YMYLDisclaimer.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import AdPlaceholder from '../components/AdPlaceholder.astro';
 import FTCDisclosure from '../components/FTCDisclosure.astro';
+import LeadMagnetPopup from '../components/LeadMagnetPopup.astro';
+import { generateArticleSchemas, slugifyChain } from '../utils/seo';
 
 type Props = CollectionEntry<'articles'>['data'] & { slug?: string; headings?: any[] };
 
@@ -35,88 +37,28 @@ if (resolvedRelated.length < 3 && chain) {
 const chainCount = chain ? allArticles.filter(a => a.data.chain === chain).length : 0;
 const hasChainPage = chainCount >= 3;
 
-// Build breadcrumb path
-function slugifyChain(c: string): string {
-	return c.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+let pathname = Astro.url.pathname;
+if (!pathname.endsWith('/') && !pathname.split('/').pop()?.includes('.')) {
+	pathname += '/';
 }
+const canonicalURL = new URL(pathname, Astro.site);
 
-const schemas: any[] = [
-	{
-		"@type": "Article",
-		"headline": title,
-		"description": description,
-		"datePublished": pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
-		"dateModified": updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : new Date().toISOString()),
-		...(chain && { "articleSection": chain }),
-		"image": heroImage ? [new URL(heroImage.src, (Astro.site || Astro.url.origin)).href] : ["https://fastfoodguides.com/og-default.png"],
-		"inLanguage": "en",
-		"author": {
-			"@type": "Person",
-			"name": author || "Russell Roseberry",
-			"jobTitle": authorTitle || "Multi-Unit Kitchen Manager",
-			"url": new URL("/author/" + (author ? author.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-') : "russell-roseberry"), (Astro.site || Astro.url.origin)).href,
-			"image": new URL("/images/" + (author ? author.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-') : "russell-roseberry") + ".webp", (Astro.site || Astro.url.origin)).href
-		},
-		"publisher": {
-			"@type": "Organization",
-			"name": "Fast Food Guides",
-			"url": Astro.site || Astro.url.origin ? (Astro.site || Astro.url.origin).toString() : "https://fastfoodguides.com",
-			"logo": {
-				"@type": "ImageObject",
-				"url": Astro.site || Astro.url.origin ? new URL("/og-default.png", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/og-default.png"
-			}
-		},
-		"mainEntityOfPage": {
-			"@type": "WebPage",
-			"@id": Astro.url.href
-		}
-	}
-];
-
-schemas.push({
-	"@type": "BreadcrumbList",
-	"itemListElement": [
-		{
-			"@type": "ListItem",
-			"position": 1,
-			"name": "Home",
-			"item": Astro.site || Astro.url.origin ? new URL("/", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/"
-		},
-		{
-			"@type": "ListItem",
-			"position": 2,
-			"name": "Guides",
-			"item": Astro.site || Astro.url.origin ? new URL("/articles/", (Astro.site || Astro.url.origin)).href : "https://fastfoodguides.com/articles/"
-		},
-		...(hasChainPage && chain ? [{
-			"@type": "ListItem",
-			"position": 3,
-			"name": chain,
-			"item": Astro.site || Astro.url.origin ? new URL(`/articles/chain/${slugifyChain(chain)}/`, (Astro.site || Astro.url.origin)).href : `https://fastfoodguides.com/articles/chain/${slugifyChain(chain)}/`
-		}] : []),
-		{
-			"@type": "ListItem",
-			"position": hasChainPage && chain ? 4 : 3,
-			"name": title,
-			"item": Astro.url.href
-		}
-	]
+const urlOrigin = (Astro.site || Astro.url.origin).toString();
+const schemas = generateArticleSchemas({
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage: heroImage?.src,
+	author,
+	authorTitle,
+	chain,
+	slug,
+	hasChainPage,
+	urlOrigin,
+	urlHref: canonicalURL.href,
+	faq
 });
-
-if (faq && faq.length > 0) {
-	schemas.push({
-		"@type": "FAQPage",
-		"mainEntity": faq.map((q: any) => ({
-			"@type": "Question",
-			"name": q.question,
-			"acceptedAnswer": {
-				"@type": "Answer",
-				"text": q.answer
-			}
-		}))
-	});
-}
-
 
 ---
 
@@ -619,6 +561,10 @@ if (faq && faq.length > 0) {
 						}
 					</header>
 
+					<div class="editorial-note">
+						<strong>Editorial Note:</strong> This guide is based on independent frontline experience and publicly available information for educational purposes. FastFoodGuides is <strong>not affiliated with, endorsed by, or sponsored by</strong> any restaurant chain or equipment manufacturer. All trademarks belong to their respective owners.
+					</div>
+
 					{heroImage && (
 						<div class="hero-image-wrapper">
 							<Image src={heroImage} alt={title} width={800} height={450} format="webp" loading="eager" fetchpriority="high" decoding="async" />
@@ -630,7 +576,6 @@ if (faq && faq.length > 0) {
 					</div>
 
 					{disclaimerType && <YMYLDisclaimer type={disclaimerType} />}
-					
 					{hasAffiliate && <FTCDisclosure />}
 
 					<slot />
@@ -676,7 +621,7 @@ if (faq && faq.length > 0) {
 					
 					{resolvedRelated.length > 0 && (
 						<div style="margin-top: 2.5rem;" class="sidebar-trending">
-							<h3 style="font-size: 1.1em; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Trending Guides</h3>
+							<h2 style="font-size: 1.1em; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Trending Guides</h2>
 							<div style="display: flex; flex-direction: column; gap: 1rem;">
 								{resolvedRelated.map(article => (
 									<a href={`/articles/${article.id}/`} style="display: block; background: var(--bg-surface); padding: 1rem; border-radius: var(--radius-btn); border: 1px solid var(--border-subtle); transition: all 0.2s;" class="sidebar-card">
@@ -739,5 +684,6 @@ if (faq && faq.length > 0) {
 				});
 			});
 		</script>
+		<LeadMagnetPopup />
 	</body>
 </html>

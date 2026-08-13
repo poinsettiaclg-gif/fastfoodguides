@@ -105,7 +105,7 @@ The result is a system where:
 - **Taylor technicians** are often booked days out, leaving the machine down for extended periods
 - **Simple fixes** (resetting the heat cycle, adjusting a sensor, topping off the mix) require waiting for a technician rather than being handled in-house
 
-A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal legal inquiries and an [FTC investigation](https://www.ftc.gov/news-events/news/press-releases/2021/07/ftc-vote-unanimously-enforce-right-repair) into whether Taylor was engaging in anti-competitive repair practices, a situation further highlighted by [iFixit's teardown of the Taylor machine](https://www.ifixit.com/News/51614/we-tore-down-a-mcdonalds-ice-cream-machine-and-it-was-weird).
+A company called **Kytch** developed an aftermarket device that plugged into the Taylor machine's internal diagnostic port and translated the error codes into plain English on an app, allowing franchise operators to troubleshoot issues themselves. Taylor and McDonald's corporate took legal action to block Kytch's device, leading to a federal legal inquiries and an [FTC investigation](https://www.ftc.gov) into whether Taylor was engaging in anti-competitive repair practices, a situation further highlighted by [iFixit's teardown of the Taylor machine](https://www.ifixit.com/News/51614/we-tore-down-a-mcdonalds-ice-cream-machine-and-it-was-weird).
 
 ## What Crew Members Actually Deal With
 

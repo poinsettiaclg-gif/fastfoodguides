@@ -52,7 +52,7 @@ The result is ice that is approximately **80% ice and 20% air**, compared to cub
 
 ## Why Sonic Chose Nugget Ice (And Why Most Chains Don't)
 
-The decision to use nugget ice is directly tied to Sonic's business model. Unlike [McDonald's](/articles/chain/mcdonalds) or [Burger King](/articles/chain/burger-king), where food is the primary revenue driver, **Sonic generates a disproportionate amount of its revenue from drinks**. Their menu has over 1.3 million drink combinations when you factor in flavor add-ins, and their Happy Hour promotion (half-price drinks) is one of the most successful recurring promotions in fast food.
+The decision to use nugget ice is directly tied to Sonic's business model. Unlike McDonald's or Burger King, where food is the primary revenue driver, **Sonic generates a disproportionate amount of its revenue from drinks**. Their menu has over 1.3 million drink combinations when you factor in flavor add-ins, and their Happy Hour promotion (half-price drinks) is one of the most successful recurring promotions in fast food.
 
 When drinks are your core product, the ice matters. Nugget ice makes drinks taste better because:
 
@@ -70,7 +70,7 @@ The reason is simple: **cost and maintenance**. Nugget ice machines:
 - Require more frequent cleaning (the auger mechanism and water system need regular descaling)
 - Break down more often (the auger is a mechanical component with moving parts, unlike the passive freezing of cube trays)
 
-For a chain like [McDonald's](/articles/chain/mcdonalds), where drinks are secondary to burgers and fries, the ROI doesn't justify it. For Sonic, where drinks are the main attraction, it absolutely does.
+For a chain like McDonald's, where drinks are secondary to burgers and fries, the ROI doesn't justify it. For Sonic, where drinks are the main attraction, it absolutely does.
 
 ## The Operational Reality: Ice Machine Maintenance
 

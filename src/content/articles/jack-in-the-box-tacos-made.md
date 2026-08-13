@@ -32,7 +32,7 @@ The biggest shock for every new hire: you don't assemble the meat inside the tac
 
 <div class="callout callout-tip">**ProTip:** Keep the frozen tacos stored in the specialized U-shaped metal rack near the fryer to save time during a rush. This ensures you can drop them straight into the oil without fumbling.</div>
 
-The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from [Taco Bell](/articles/chain/taco-bell), reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
+The meat itself isn't traditional ground beef. It's a blend of beef and soy protein that's been processed into a smooth, almost paste-like consistency. If you're expecting something that looks like taco meat from Taco Bell, reset your expectations. This filling looks more like a thin smear of seasoned paste, and that's by design. The filling has to be thin enough to cook all the way through during the short frying time without the tortilla shell burning on the outside.
 
 <div class="callout callout-tip">**ProTip:** The meat paste is an operational necessity—regular ground beef would spill out or cook unevenly when deep-fried inside a closed shell.</div>
 

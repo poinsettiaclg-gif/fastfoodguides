@@ -23,7 +23,7 @@ faq:
     by Nieco. They use a conveyor system and gas flames to cook the patties consistently
     from the top and bottom simultaneously.
 ---
-Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike [McDonald's](/articles/chain/mcdonalds) or [Wendy's](/articles/chain/wendys), which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
+Burger King's entire brand identity is built around four words: "Flame-Grilled Whopper." Unlike McDonald's or Wendy's, which cook their burgers on flat metal surfaces, Burger King uses a massive piece of machinery that shoots actual fire at frozen beef. The first time I stood in front of one, I could feel the heat radiating through my apron from three feet away. It is the most intimidating piece of equipment in any QSR kitchen I have ever worked in, and learning to respect it is the single most important thing a new broiler cook can do. 
 
 ## How the Flame Broiler Actually Works
 

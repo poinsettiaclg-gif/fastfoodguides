@@ -21,7 +21,7 @@ faq:
     patch the hole.
 heroImage: ../../assets/images/general/generic-baking-3.webp
 ---
-Every major pizza chain has a different approach to their crust. [Domino's](/articles/chain/dominos) stretches theirs on a prep screen. [Pizza Hut](/articles/chain/pizza-hut) often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. 
+Every major pizza chain has a different approach to their crust. Domino's stretches theirs on a prep screen. Pizza Hut often uses deep-dish pans with pre-measured oil for that signature buttery bottom. But Papa John's prides itself on something fundamentally different: the Dough Slap. It's a hands-on, physical technique that turns a raw dough ball into a perfectly round, perfectly even pizza crust in under 30 seconds — and it is by far the steepest learning curve for any new hire walking into a Papa John's kitchen. 
 
 You will not be throwing dough in the air like a movie Italian chef. You will be slapping it on a stainless steel table, and the sound it makes — that rhythmic thwack-thwack-thwack — is the heartbeat of a Papa John's makeline during a Friday night rush. 
 

@@ -40,7 +40,7 @@ This is the workhorse of the line. It reads in 3 seconds. That difference betwee
 		<div class="product-card-desc">
 			<p>IP65 waterproof. You can accidentally drop it in a sani-bucket and it won't short out. Magnetic back so you can stick it to the side of the prep table.</p>
 		</div>
-		<a href="https://amzn.to/example" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
+		<a href="https://www.amazon.com/s?k=ThermoPro+TP19H+Waterproof+Thermometer&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-amazon">
 			<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:0.5em;"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
 			Check Price on Amazon
 		</a>
@@ -62,7 +62,7 @@ If you want something smaller that fits perfectly in the sleeve pocket of a chef
 	</div>
 	<div class="callout-content">
 		<strong>Manager's Gear Pick: Lavatools Javelin</strong>
-		<p>Sub-3-second reading times and an anti-microbial coating. <a href="https://amzn.to/example" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
+		<p>Sub-3-second reading times and an anti-microbial coating. <a href="https://www.amazon.com/s?k=Lavatools+Javelin+Meat+Thermometer&tag=fastfoodguides-20" target="_blank" rel="noopener noreferrer nofollow">View on Amazon <span>&rarr;</span></a></p>
 	</div>
 </div>
 
@@ -75,3 +75,18 @@ If you want something smaller that fits perfectly in the sleeve pocket of a chef
 
 Take control of your own line. Don't let corporate supply chain issues dictate whether your food is safe. Spend the $20, keep the thermometer in your apron, and run a tight shift.
 
+![Cook temping meat on a grill](../../assets/images/general/generic-grill-3.webp)
+
+## The Real Cost of False Readings
+
+It’s easy to dismiss a fast digital thermometer as a luxury, especially if you’re making minimum wage. But think about the cascading failure that happens when a slow or inaccurate thermometer gives you a bad reading during a massive lunch rush.
+
+If a cheap bi-metallic dial thermometer is miscalibrated and tells you a batch of chicken nuggets is at 165°F when it's actually at 145°F, you are serving undercooked poultry. When a customer bites into raw chicken, it doesn't just result in a comped meal—it triggers a massive corporate health crisis. The general manager gets fired, the health department shuts down the store, and the franchisee faces massive legal liability. 
+
+Conversely, if the thermometer tells you the chicken is at 145°F when it's actually at 180°F, you end up severely overcooking the product. Your food waste numbers skyrocket because you have to throw away dried-out, burnt chicken. Your ticket times implode because you are waiting an extra four minutes on the fryers. Your drive-thru line backs up into the street, and customers start driving away.
+
+### Speed is a Safety Feature
+
+In a high-volume kitchen, speed is not just about getting the customer out the door. Speed is a safety feature. A digital probe that reads in under three seconds allows a cook to rapidly temp a massive batch of burgers on a clamshell grill without holding the hood open too long, which preserves the thermal momentum of the equipment.
+
+The faster you can temp the meat, the faster you can pull it, the faster you can get the next batch down. This maintains the flow of the kitchen. When corporate sends you cheap equipment that slows down the flow, they are inadvertently forcing cooks to take dangerous shortcuts. By bringing your own professional-grade gear to the shift, you eliminate the temptation to guess on temperatures. You protect your job, you protect the customer, and you make the Friday night rush significantly less stressful.

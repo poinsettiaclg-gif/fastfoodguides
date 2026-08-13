@@ -23,7 +23,7 @@ faq:
     with iPOS tablets. A dedicated 'sequencer' manages the flow of vehicles to ensure
     double lanes merge correctly and the right order goes to the right car.
 ---
-If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a [McDonald's](/articles/chain/mcdonalds) or [Taco Bell](/articles/chain/taco-bell). The reason is a system called iPOS—Internet Point of Sale—and it is arguably the brilliantly engineered operational innovations in any kitchen. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it. 
+If you have ever pulled into a Chick-fil-A drive-thru during lunch hour and seen a line of 40 cars wrapping around the building, your first instinct was probably to leave. Then you noticed something strange: the line was actually moving. Fast. Faster than any 10-car line you have ever sat in at a McDonald's or Taco Bell. The reason is a system called iPOS—Internet Point of Sale—and it is arguably the brilliantly engineered operational innovations in any kitchen. I have spent years studying drive-thru operations across multiple chains, and nothing comes close to what Chick-fil-A has built here. They did not just improve the drive-thru. They fundamentally reinvented it. 
 
 ## Bypassing the Speaker Box Bottleneck
 

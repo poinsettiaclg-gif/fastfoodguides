@@ -33,7 +33,7 @@ This is the core issue that everything else flows from.
 
 Unlike KFC, Popeyes does not use pressure fryers for their bone-in chicken. The chicken pieces go into large open deep fryer baskets, and they cook in hot oil for approximately 12 to 14 minutes depending on whether it's dark or white meat.
 
-Twelve to fourteen minutes. Not five minutes like [McDonald's](/articles/chain/mcdonalds) nuggets. Not eight minutes like a [Chick-fil-A](/articles/chain/chick-fil-a) filet. Twelve to fourteen full minutes of fryer time from the moment the basket drops.
+Twelve to fourteen minutes. Not five minutes like McDonald's nuggets. Not eight minutes like a Chick-fil-A filet. Twelve to fourteen full minutes of fryer time from the moment the basket drops.
 
 During those 12-14 minutes, that fryer is occupied. You can't just throw more pieces into the same batch midway through. A typical Popeyes has 3-4 fryers, and each one can cook roughly 8-12 pieces per batch depending on the size. So at maximum capacity, a store might be producing 30-48 pieces of chicken every 14 minutes.
 
@@ -43,7 +43,7 @@ Now think about what happens during a lunch rush. A single family order might be
 
 This is where it gets worse. Popeyes has to predict how much chicken to cook before the rush hits. If they start a batch at 11:15 AM, it won't be ready until 11:29. If the lunch rush starts at 11:30, there is only a 1-minute window if they didn't anticipate the flow correctly.
 
-Most fast food restaurants can respond to unexpected demand in real-time. If [McDonald's](/articles/chain/mcdonalds) suddenly gets busy, they can drop more fries (3 minutes), start more nuggets (4 minutes), or fire more burgers (2-3 minutes). The recovery time is measured in single-digit minutes.
+Most fast food restaurants can respond to unexpected demand in real-time. If McDonald's suddenly gets busy, they can drop more fries (3 minutes), start more nuggets (4 minutes), or fire more burgers (2-3 minutes). The recovery time is measured in single-digit minutes.
 
 Popeyes' recovery time is 12-14 minutes minimum. If they miscalculate demand by even one batch, customers are waiting. There is no way to speed up the physics of deep frying.
 
@@ -105,7 +105,7 @@ It's not just the chicken. Popeyes' sides require real kitchen work:
 - **Coleslaw** — prep work, needs to stay cold
 - **Biscuits** — baked in batches, 12-15 minute bake time, need to be fresh
 
-Each side dish is another thing someone has to monitor, prep, and restock during service. At [Chick-fil-A](/articles/chain/chick-fil-a) or [Raising Cane's](/articles/chain/raising-canes), the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
+Each side dish is another thing someone has to monitor, prep, and restock during service. At Chick-fil-A or Raising Cane's, the side dish menu is so small that sides never become a bottleneck. At Popeyes, running out of red beans at noon means someone has to start a batch while also trying to bread chicken and work the line.
 
 ## Why Some Popeyes Are Faster Than Others
 

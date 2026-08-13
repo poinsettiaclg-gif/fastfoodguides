@@ -1,0 +1,217 @@
+---
+// src/components/LeadMagnetPopup.astro
+---
+
+<div id="lead-magnet-popup" class="lead-magnet-popup hidden" role="dialog" aria-labelledby="lead-magnet-title" aria-describedby="lead-magnet-desc">
+	<button id="lead-magnet-close" class="close-btn" aria-label="Close popup">
+		<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+	</button>
+	<div class="popup-content">
+		<div class="icon-wrapper">
+			<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-briefcase" aria-hidden="true"><rect width="20" height="14" x="2" y="7" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+		</div>
+		<div class="text-content">
+			<h3 id="lead-magnet-title">Shift Supervisor Survival Kit</h3>
+			<p id="lead-magnet-desc">Get the cheat sheets, checklists, and stress-management guides I used to survive 10 years on the line. Free PDF download.</p>
+		</div>
+	</div>
+	<form id="lead-magnet-form" class="capture-form" action="https://formspree.io/f/meeybzwj" method="POST">
+		<div class="input-group">
+			<label for="lead-email" class="sr-only">Email address</label>
+			<input type="email" id="lead-email" name="email" placeholder="Enter your email" required />
+			<button type="submit" class="btn submit-btn">Send It</button>
+		</div>
+	</form>
+</div>
+
+<style>
+	.lead-magnet-popup {
+		position: fixed;
+		bottom: 24px;
+		right: 24px;
+		width: calc(100% - 48px);
+		max-width: 440px;
+		background-color: rgba(26, 35, 50, 0.95);
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+		border: 1px solid var(--border-accent);
+		border-radius: var(--radius-card);
+		box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(16, 185, 129, 0.1);
+		padding: 1.75rem;
+		z-index: 50;
+		transform: translateY(120%);
+		opacity: 0;
+		transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.5s ease;
+	}
+
+	.lead-magnet-popup.visible {
+		transform: translateY(0);
+		opacity: 1;
+	}
+
+	.lead-magnet-popup.hidden {
+		display: none;
+	}
+
+	.close-btn {
+		position: absolute;
+		top: 12px;
+		right: 12px;
+		background: transparent;
+		border: none;
+		color: var(--text-muted);
+		cursor: pointer;
+		padding: 0;
+		width: 44px;
+		height: 44px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 50%;
+		transition: background-color var(--transition), color var(--transition);
+	}
+
+	.close-btn:hover {
+		color: var(--text-primary);
+		background-color: rgba(255, 255, 255, 0.1);
+	}
+
+	.popup-content {
+		display: flex;
+		gap: 1.25rem;
+		margin-bottom: 1.5rem;
+	}
+
+	.icon-wrapper {
+		flex-shrink: 0;
+		width: 56px;
+		height: 56px;
+		background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(6, 214, 160, 0.05));
+		border: 1px solid rgba(16, 185, 129, 0.2);
+		border-radius: var(--radius-btn);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: var(--accent);
+		box-shadow: 0 4px 12px rgba(16, 185, 129, 0.15);
+	}
+
+	.text-content h3 {
+		margin: 0 0 0.5rem 0;
+		font-size: 1.2rem;
+		color: var(--text-primary);
+	}
+
+	.text-content p {
+		margin: 0;
+		font-size: 0.95rem;
+		color: var(--text-secondary);
+		line-height: 1.5;
+	}
+
+	.capture-form .input-group {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	.capture-form input {
+		background-color: var(--bg-surface);
+		border: 1px solid var(--border-subtle);
+		border-radius: var(--radius-btn);
+		padding: 0.85rem 1rem;
+		color: var(--text-primary);
+		font-size: 1rem;
+		width: 100%;
+		transition: border-color var(--transition), box-shadow var(--transition);
+	}
+
+	.capture-form input:focus {
+		border-color: var(--accent);
+		box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+		outline: none;
+	}
+
+	.submit-btn {
+		width: 100%;
+		justify-content: center;
+		padding: 0.85rem 1.5rem;
+	}
+
+	@media (min-width: 480px) {
+		.capture-form .input-group {
+			flex-direction: row;
+		}
+		
+		.capture-form input {
+			flex-grow: 1;
+		}
+		
+		.submit-btn {
+			width: auto;
+			white-space: nowrap;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.lead-magnet-popup {
+			bottom: 16px;
+			right: 16px;
+			width: calc(100% - 32px);
+			padding: 1.5rem;
+		}
+		
+		.popup-content {
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+		}
+	}
+</style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const popup = document.getElementById('lead-magnet-popup');
+		const closeBtn = document.getElementById('lead-magnet-close');
+		const form = document.getElementById('lead-magnet-form');
+		
+		if (!popup || !closeBtn || !form) return;
+
+		// Check if user already dismissed or subscribed
+		const isDismissed = localStorage.getItem('ffg_lead_magnet_dismissed');
+		
+		if (!isDismissed) {
+			// Show after 3 seconds of page load
+			setTimeout(() => {
+				popup.classList.remove('hidden');
+				// Force reflow
+				void popup.offsetWidth;
+				popup.classList.add('visible');
+			}, 3000); 
+		}
+
+		const dismissPopup = () => {
+			popup.classList.remove('visible');
+			setTimeout(() => {
+				popup.classList.add('hidden');
+			}, 600); // Wait for transition
+			localStorage.setItem('ffg_lead_magnet_dismissed', 'true');
+		};
+
+		closeBtn.addEventListener('click', dismissPopup);
+
+		form.addEventListener('submit', () => {
+			if (typeof gtag === 'function') {
+				gtag('event', 'generate_lead', {
+					'event_category': 'lead_magnet',
+					'event_label': 'survival_kit'
+				});
+			}
+			// We don't preventDefault anymore so it actually submits
+			// Just hide the popup shortly after submit or let the redirect happen
+			setTimeout(() => {
+				dismissPopup();
+			}, 500);
+		});
+	});
+</script>

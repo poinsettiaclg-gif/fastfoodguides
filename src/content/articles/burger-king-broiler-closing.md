@@ -22,7 +22,7 @@ faq:
     and scrub them manually with abrasive pads. Sending them straight through the
     dish machine often just redistributes the thick grease.
 ---
-Every fast food restaurant has a closing task that nobody wants. At [Wendy's](/articles/chain/wendys), it is the Frosty machine. At [Domino's](/articles/chain/dominos), it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. 
+Every fast food restaurant has a closing task that nobody wants. At Wendy's, it is the Frosty machine. At Domino's, it is the dough trays. At Burger King, it is the broiler. And honestly, the broiler might be the worst of all of them, because you are not just cleaning grease off a flat surface—you are chiseling carbonized fat out of a machine that was shooting 600-degree flames at raw beef for the last 16 hours. I have closed hundreds of kitchens across multiple chains, and the BK broiler breakdown is the one task that made me seriously reconsider my career choices at 11:30 PM on a Saturday night. 
 
 ## The Cooldown Phase: Your 30-Minute Head Start
 

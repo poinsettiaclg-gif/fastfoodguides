@@ -170,7 +170,7 @@ const recentArticles = allArticles.sort((a, b) => b.data.pubDate.valueOf() - a.d
 		<main id="main-content">
 			<div class="author-header">
 				<div class="author-avatar">
-					<Image src={authorPhoto} alt="Russell Roseberry, founder of Fast Food Guides" width={120} height={120} />
+					<Image src={authorPhoto} alt="Russell Roseberry, founder of Fast Food Guides" width={120} height={120} loading="eager" fetchpriority="high" />
 				</div>
 				<div class="author-info">
 					<h1>Russell Roseberry</h1>

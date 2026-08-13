@@ -31,7 +31,7 @@ The ticket printer hasn't stopped for 45 minutes, there are twenty mobile orders
 
 ![Starbucks Morning Rush How the Bar Stays Afloat](../../assets/images/general/generic-drive-thru-3.webp)
 
-Starbucks drills a highly specific routine into every barista during training called the Beverage Routine (often documented in [Starbucks corporate partner resources](https://departments.starbucks.com/)). When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next. 
+Starbucks drills a highly specific routine into every barista during training called the Beverage Routine (often documented in [Starbucks corporate partner resources](https://www.starbucks.com)). When the rush hits and tickets are printing faster than you can read them, do not abandon it. The routine is specifically engineered to keep you moving efficiently without having to think about what comes next. 
 
 The sequence works like this:
 

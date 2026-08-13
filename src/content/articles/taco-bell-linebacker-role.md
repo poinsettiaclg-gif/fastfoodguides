@@ -94,7 +94,7 @@ There is no formal certification, but you generally need to have worked the Star
 
 ### Is the Linebacker role unique to Taco Bell?
 
-The name "Linebacker" is specific to Taco Bell's operational playbook, but the concept exists at virtually every high-volume fast food chain. [McDonald's](/articles/chain/mcdonalds) calls a similar role the "Initiator" or "Runner." [Chick-fil-A](/articles/chain/chick-fil-a) has a designated restocking position. [Starbucks](/articles/chain/starbucks) calls it the [Customer Support cycle](/articles/starbucks-customer-support-cycle). The principle is universal: keep the food builders building and have a dedicated person handle everything else.
+The name "Linebacker" is specific to Taco Bell's operational playbook, but the concept exists at virtually every high-volume fast food chain. McDonald's calls a similar role the "Initiator" or "Runner." Chick-fil-A has a designated restocking position. Starbucks calls it the [Customer Support cycle](/articles/starbucks-customer-support-cycle). The principle is universal: keep the food builders building and have a dedicated person handle everything else.
 
 ---
 

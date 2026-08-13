@@ -99,9 +99,9 @@ The Original BBQ sauce is applied in **2 to 3 layers during grilling**. The cook
 
 Dry rub ribs get seasoned **before** they hit the grill. The spice blend goes on while the ribs are still slightly tacky from the sous vide bag, which helps the rub adhere. On the grill, the spices toast and bloom in the heat, creating an aromatic crust without any sauce. These ribs showcase more of the smoke flavor since there is no sweet sauce competing with it.
 
-### Honey-[Chipotle](/articles/chain/chipotle) (Final Glaze)
+### Honey-Chipotle (Final Glaze)
 
-Honey-[Chipotle](/articles/chain/chipotle) ribs get a **final glaze after grilling**. The ribs come off the charbroiler, then the cook brushes the Honey-[Chipotle](/articles/chain/chipotle) sauce on as the last step. Because this sauce has a higher sugar content from the honey, applying it during grilling would cause it to burn rather than caramelize. The post-grill glaze keeps the sauce glossy and slightly runny rather than charred.
+Honey-Chipotle ribs get a **final glaze after grilling**. The ribs come off the charbroiler, then the cook brushes the Honey-Chipotle sauce on as the last step. Because this sauce has a higher sugar content from the honey, applying it during grilling would cause it to burn rather than caramelize. The post-grill glaze keeps the sauce glossy and slightly runny rather than charred.
 
 This level of sauce differentiation is something most guests never think about, but it's the kind of detail that [Buffalo Wild Wings Sauce Tossing: The Real Process](/articles/buffalo-wild-wings-sauce-tossing/) also takes seriously — different sauces require different application techniques to get the best result.
 

@@ -1,0 +1,54 @@
+---
+// src/components/GumroadCheckout.astro
+---
+
+<div class="checkout-container">
+  <!-- The user will provide their Gumroad link to replace the href below -->
+  <a class="gumroad-button" href="https://gumroad.com/l/placeholder" target="_blank" rel="noopener">Buy on Gumroad - $47</a>
+</div>
+
+<!-- Gumroad overlay script for seamless checkout -->
+<script defer src="https://gumroad.com/js/gumroad.js" is:inline></script>
+
+<style>
+  .checkout-container {
+    display: flex;
+    justify-content: center;
+    margin: 32px 0;
+    padding: 24px;
+    background: #f8fafc;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e2e8f0;
+  }
+
+  .gumroad-button {
+    background-color: #ff90e8; /* Gumroad Pink */
+    color: #000;
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 16px 48px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 4px 4px 0px #000;
+    width: 100%;
+    max-width: 400px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .gumroad-button:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #000;
+  }
+
+  .gumroad-button:active {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px #000;
+  }
+</style>

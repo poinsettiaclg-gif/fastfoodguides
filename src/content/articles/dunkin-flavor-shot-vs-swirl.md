@@ -22,7 +22,7 @@ faq:
     the flavor extract and aroma, adding virtually zero calories to the drink.
 heroImage: ../../assets/images/general/generic-pos-3.webp
 ---
-I managed a store near a Dunkin' for two years and ate lunch with their shift leads almost every day. The number one thing that drove them insane wasn't the 5 AM alarm or the line out the door—it was the flavor system. At [Starbucks](/articles/chain/starbucks), everything is just "syrup." At Dunkin', the flavoring is split into two completely separate product categories that look different, taste different, and have wildly different calorie counts. Pump the wrong one and you've ruined someone's morning, guaranteed yourself a remake, and backed up the line during the most unforgiving three hours in QSR. 
+I managed a store near a Dunkin' for two years and ate lunch with their shift leads almost every day. The number one thing that drove them insane wasn't the 5 AM alarm or the line out the door—it was the flavor system. At Starbucks, everything is just "syrup." At Dunkin', the flavoring is split into two completely separate product categories that look different, taste different, and have wildly different calorie counts. Pump the wrong one and you've ruined someone's morning, guaranteed yourself a remake, and backed up the line during the most unforgiving three hours in QSR. 
 
 ## Flavor Swirls: The Sweet, Creamy, Dessert-in-a-Cup Option
 

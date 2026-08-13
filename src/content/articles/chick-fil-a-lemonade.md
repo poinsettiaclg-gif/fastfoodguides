@@ -88,10 +88,10 @@ To understand how unusual Chick-fil-A's approach is, consider what every other m
 
 | Chain | Lemonade Method |
 |---|---|
-| **[McDonald's](/articles/chain/mcdonalds)** | Minute Maid syrup from a bag, mixed by the fountain machine |
-| **[Wendy's](/articles/chain/wendys)** | Minute Maid concentrate mixed with water |
-| **[Burger King](/articles/chain/burger-king)** | Fountain-dispensed from syrup |
-| **[Taco Bell](/articles/chain/taco-bell)** | Brisk brand, dispensed from a fountain |
+| **McDonald's** | Minute Maid syrup from a bag, mixed by the fountain machine |
+| **Wendy's** | Minute Maid concentrate mixed with water |
+| **Burger King** | Fountain-dispensed from syrup |
+| **Taco Bell** | Brisk brand, dispensed from a fountain |
 | **Chick-fil-A** | Fresh lemons, squeezed in-store daily |
 
 The cost difference is significant:

@@ -6,6 +6,7 @@ import sitemap from '@astrojs/sitemap';
 import partytown from '@astrojs/partytown';
 import fs from 'node:fs';
 import matter from 'gray-matter';
+import remarkAffiliateInject from './src/plugins/remark-affiliate-inject.mjs';
 
 // Parse actual chain names from frontmatter instead of naive filename splitting
 const articleFiles = fs.readdirSync('src/content/articles').filter(f => f.endsWith('.md'));
@@ -36,18 +37,29 @@ const thinTopicSlugs = Object.entries(topicCounts)
 export default defineConfig({
 	trailingSlash: 'always',
 	site: 'https://fastfoodguides.com',
+	markdown: {
+		remarkPlugins: [remarkAffiliateInject],
+	},
 	integrations: [
 		tailwind(),
-		partytown(),
+		partytown({
+			config: {
+				forward: ["dataLayer.push", "gtag"]
+			}
+		}),
 		mdx(), 
 		sitemap({
 			filter: (page) => {
 				const url = new URL(page);
 				const pathParts = url.pathname.split('/').filter(Boolean);
+				if (pathParts[0] === '404' || pathParts[0] === 'dmca') return false;
 				if (pathParts[0] === 'articles' && pathParts[1] === 'chain' && excludedChains.includes(pathParts[2])) return false;
 				if (pathParts[0] === 'articles' && pathParts[1] === 'topic' && thinTopicSlugs.includes(pathParts[2])) return false;
 				return true;
 			}
 		})
-	]
+	],
+	image: {
+		domains: ['m.media-amazon.com', 'images-na.ssl-images-amazon.com'],
+	}
 });

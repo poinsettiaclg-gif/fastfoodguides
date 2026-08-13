@@ -47,7 +47,7 @@ When a car’s timer turns from Green (under goal) to Red (over goal), the stres
 
 ## Why Do They Ask You to Pull Forward?
 
-Because Wendy's uses [fresh, never frozen beef](/articles/chain/wendys/wendys-fresh-never-frozen) and cooks fries in precise batches, food isn't just sitting around in endless quantities. 
+Because Wendy's uses fresh, never frozen beef and cooks fries in precise batches, food isn't just sitting around in endless quantities. 
 
 <div class="callout callout-tip">**ProTip:** The ZOOM Nitro system is the most common drive-thru timer used in modern Wendy's locations. It uses color-coded dashboards that flash red when an order crosses the 120-second threshold, which instantly raises the stress level on the floor.</div>
 
@@ -92,7 +92,7 @@ While magnetic loop timers track vehicle movement, the human element of payment 
 
 To prevent cars from having to pull forward, a Wendy’s kitchen operates on anticipation. 
 
-The grill cook isn't waiting for your order to pop up on the screen. They are actively forecasting. If a tour bus pulls into the parking lot, or the drive-thru camera shows a line of ten cars wrapping around the building, the grill cook instantly drops maximum batches of [square patties on the clamshell grill](/articles/chain/wendys/wendys-clamshell-grill). 
+The grill cook isn't waiting for your order to pop up on the screen. They are actively forecasting. If a tour bus pulls into the parking lot, or the drive-thru camera shows a line of ten cars wrapping around the building, the grill cook instantly drops maximum batches of square patties on the clamshell grill. 
 
 When a kitchen gets "in the weeds" (restaurant slang for falling hopelessly behind), it is usually because the grill cook failed to anticipate the rush, resulting in an empty meat cabinet. When the meat cabinet is empty, every single car has to be parked, the drive-thru timer scoreboard turns solid red, and the shift descends into chaos. 
 

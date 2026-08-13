@@ -156,9 +156,9 @@ Let me put the White Castle method in context by comparing it to how other burge
 
 **Wendy's:** Clamshell grill with a focus on thicker, square patties. Fresh beef, direct heat, seared exterior.
 
-**[Burger King](/articles/chain/burger-king):** Flame broiler with an open flame below a chain conveyor. Produces char marks and a smoky flavor.
+**Burger King:** Flame broiler with an open flame below a chain conveyor. Produces char marks and a smoky flavor.
 
-**[Five Guys](/articles/chain/five-guys):** Flat-top grill, manual flip, heavy sear on both sides. Juicy interior with a crispy exterior.
+**Five Guys:** Flat-top grill, manual flip, heavy sear on both sides. Juicy interior with a crispy exterior.
 
 **White Castle:** Steam-grilled on an onion bed, no flip, no sear, no char. Soft throughout.
 

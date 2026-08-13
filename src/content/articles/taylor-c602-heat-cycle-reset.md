@@ -1,6 +1,6 @@
 ---
-title: "Beating the Taylor C602: A Shift Manager's Survival Guide to the 'Heat Cycle' Death Loop"
-description: "How to read Taylor soft-serve machine error codes, clear a false lockout, and get your ice cream back online without a $300 service call."
+title: "Understanding the Taylor C602: A Shift Manager's Guide to Heat Cycle Lockouts"
+description: "How to read Taylor soft-serve machine error codes, perform preventative maintenance, and avoid unnecessary lockouts on your shift."
 pubDate: "2026-08-02"
 author: "Russell Roseberry"
 authorTitle: "Former Multi-Unit Kitchen Manager"
@@ -14,13 +14,13 @@ relatedArticles:
 faq:
   - question: "Why does the McDonald's ice cream machine always say it's broken?"
     answer: "Most of the time, the machine isn't mechanically broken. It locks itself out if the daily 14-day heat pasteurization cycle fails, usually because a closing crew member overfilled the hopper."
-  - question: "How do you reset a Taylor C602 heat cycle lockout?"
-    answer: "You cannot bypass a legitimate heat cycle failure without violating health codes. However, if it's a false sensor fault, you must drain the hopper, clean the thermistor prongs, and run a manual brush-clean cycle to clear the motherboard lock."
+  - question: "How do you handle a Taylor C602 heat cycle lockout?"
+    answer: "You cannot bypass a legitimate heat cycle failure without violating health codes. If a fault occurs, protocol dictates draining the hopper, performing a manual brush-clean cycle, and contacting an authorized technician if the error persists."
 ---
 
 Every shift manager has faced the Friday night nightmare. It's 6:30 PM. The drive-thru is wrapping around the building, the grill team is holding on by a thread, and suddenly, the Taylor C602 soft-serve machine starts beeping incessantly. The digital display is flashing a lockout code. Customers are demanding shakes and cones, and the 16-year-old cashier is shouting that the machine is dead. 
 
-The reality of the line is that the machine isn't mechanically broken 90 percent of the time. It is usually just soft-locked by a failed heat cycle or a dirty sensor. When the pressure is on, you do not have time to wait three hours for a repair tech to show up and charge you a massive emergency fee just to push a few buttons. This guide strips away the textbook technician jargon and gives you the exact workflow to decode the lockout screens, clear the false faults, and get the dairy flowing again.
+The reality of the line is that the machine isn't mechanically broken 90 percent of the time. It is usually just soft-locked by a failed heat cycle or a dirty sensor. This guide strips away the textbook technician jargon and gives you the exact workflow to decode the lockout screens and practice preventative maintenance so the machine doesn't lock you out in the first place.
 
 ## The Myth of the Broken Machine
 
@@ -37,7 +37,7 @@ Step by step, this is the workflow:
 2. Scroll to the **Fault Description** or **Error Log** screen.
 3. Look for the most recent fault logged by the system. You are usually going to see something like `ERROR 04: HEAT CYCLE FAILURE`, `HOPPER THERMISTOR FAULT`, or `BARREL TEMP HIGH`.
 
-If you see a mechanical failure—like a blown compressor or a shattered drive shaft—you are out of luck. Tag it out and call the technician. But if you see a heat cycle failure, you can often fix the root cause yourself. 
+If you see a mechanical failure—like a blown compressor or a shattered drive shaft—you are out of luck. Tag it out and call the technician. Even if you see a heat cycle failure, diagnosing the root cause helps you provide better information to the technician when you call them.
 
 <div class="callout callout-tip">
   **ProTip:** Never just power cycle the machine by flipping the main breaker off and on. The motherboard stores heat cycle failures in NVRAM (non-volatile memory). Flipping the breaker won't clear a health lockout. It will just waste 15 minutes of reboot time and make the machine angry.
@@ -59,9 +59,9 @@ The machine thinks the heat cycle failed because the sensor isn't registering th
   **ProTip:** When scrubbing the thermistor prongs inside the hopper, do not use a harsh abrasive pad like a green scratcher. It will score the metal and give bacteria a place to hide. Use a clean, sanitized bar towel and hot water to melt the dried dairy crust away safely.
 </div>
 
-## The Manager's Emergency Reset Protocol
+## Mandatory Health Protocol for Lockouts
 
-If you walk into an opening shift and find a heat cycle lockout, you cannot bypass it. You have to clean it. Do not try to cheat the system. This is the breakdown:
+If you walk into an opening shift and find a heat cycle lockout, you cannot bypass it. The machine requires a full breakdown. Do not try to cheat the system. This is the standard procedure:
 
 1. **Drain the Hopper:** Grab a massive clean bucket and drain every ounce of liquid mix out of the machine. If the heat cycle failed, that mix is technically unpasteurized and unsafe. You have to dump it down the prep sink. It hurts the food cost numbers, but a health department violation hurts worse.
 2. **Break Down the Barrels:** Pull the faceplate off. Remove the augers, the scraper blades, and the drive shafts. Take them straight to the three-compartment sink.

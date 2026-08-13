@@ -44,7 +44,7 @@ Beyond that, peanut oil is incredibly stable regarding flavor transfer. In a hig
 
 You cannot talk about Chick-fil-A's peanut oil without talking about the machine that holds it: the Henny Penny pressure fryer. 
 
-While chains like [McDonald's](/articles/chain/mcdonalds) or [Wendy's](/articles/chain/wendys) use traditional open-vat fryers for their nuggets and chicken patties, Chick-fil-A (and famously, [KFC](/articles/kfc-pressure-fryers)) uses pressure frying for its core bone-in and breast fillet products. 
+While chains like McDonald's or Wendy's use traditional open-vat fryers for their nuggets and chicken patties, Chick-fil-A (and famously, [KFC](/articles/kfc-pressure-fryers)) uses pressure frying for its core bone-in and breast fillet products. 
 
 ### How Pressure Frying Works
 

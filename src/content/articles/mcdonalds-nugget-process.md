@@ -78,7 +78,7 @@ The forming process uses industrial molds — the seasoned ground chicken is pre
 
 The formed nuggets pass through a battering station where they are coated in a tempura-style batter. This is a critical step because the batter is what gives a McNugget its distinctive exterior — that thin, crispy, slightly pebbled coating that crunches when you bite into it.
 
-The batter is a tempura formulation, meaning it is lighter and thinner than the heavy breading you would find on something like a [Popeyes](/articles/chain/popeyes) chicken tender or a [KFC](/articles/chain/kfc) drumstick. It is designed to create a delicate shell rather than a thick, crunchy armor. The batter contains wheat flour, corn flour, starches, leavening agents, and spices. It is applied in a thin, even coat that adheres to the formed chicken.
+The batter is a tempura formulation, meaning it is lighter and thinner than the heavy breading you would find on something like a Popeyes chicken tender or a KFC drumstick. It is designed to create a delicate shell rather than a thick, crunchy armor. The batter contains wheat flour, corn flour, starches, leavening agents, and spices. It is applied in a thin, even coat that adheres to the formed chicken.
 
 After battering, the nuggets may pass through a light breading station that adds a thin layer of fine breadcrumbs or flour for additional texture. The result is a multi-layer coating: the meat, the batter, and the exterior texture layer.
 
@@ -114,13 +114,13 @@ During a busy lunch or dinner rush, holding time is rarely an issue because nugg
 
 ## Why McNuggets Taste Different From Hand-Breaded Chicken
 
-People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like [Chick-fil-A](/articles/chain/chick-fil-a), [Popeyes](/articles/chain/popeyes), or Raising Cane's. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
+People sometimes compare McNuggets unfavorably to hand-breaded chicken from places like Chick-fil-A, Popeyes, or Raising Cane's. The comparison is understandable but fundamentally unfair because they are different products designed for different purposes.
 
 Hand-breaded chicken starts with whole pieces of chicken — breast filets, tenderloins, or bone-in pieces — that are dredged in seasoned flour, sometimes double-dipped in a buttermilk wash, and fried from raw in-store. The result is a thick, crunchy breading with a juicy, whole-muscle interior. The texture is chunkier, the bite is more substantial, and the flavor is more complex because the breading itself carries significant seasoning.
 
 McNuggets are a ground-and-formed product with a thin tempura coating. The texture is softer, more uniform, and the batter is lighter. They are designed for dippability, consistency, and kid-friendliness — not for the crunchy, heavily seasoned experience of a hand-breaded chicken sandwich.
 
-Neither approach is objectively better. They are different products solving different problems. McNuggets prioritize speed, consistency, and universal appeal. Hand-breaded chicken prioritizes bold flavor and satisfying texture. Understanding the distinction helps explain why a McNugget will never taste like a [Chick-fil-A](/articles/chain/chick-fil-a) nugget and why it is not trying to.
+Neither approach is objectively better. They are different products solving different problems. McNuggets prioritize speed, consistency, and universal appeal. Hand-breaded chicken prioritizes bold flavor and satisfying texture. Understanding the distinction helps explain why a McNugget will never taste like a Chick-fil-A nugget and why it is not trying to.
 
 ## Frequently Asked Questions
 

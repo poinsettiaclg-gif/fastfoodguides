@@ -1,0 +1,160 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`DMCA & Safe Harbor Policy | ${SITE_TITLE}`} description="DMCA Takedown and Safe Harbor Policy for Fast Food Guides." noindex={true} />
+	</head>
+	<body>
+		<a href="#main-content" class="sr-only skip-link">Skip to main content</a>
+		<Header />
+		<main id="main-content">
+			<article class="prose">
+				<h1>DMCA &amp; Safe Harbor Policy</h1>
+				<p class="last-updated">Last updated: August 10, 2026</p>
+
+				<div class="disclaimer-box">
+					<p><strong>Fast Food Guides Media LLC</strong> respects the intellectual property rights of others and expects its users to do the same. It is our policy, in appropriate circumstances and at our discretion, to disable and/or terminate the accounts of users who repeatedly infringe the copyrights or trade secrets of others.</p>
+				</div>
+
+				<h2>1. Digital Millennium Copyright Act (DMCA) Notice</h2>
+				<p>If you are a copyright owner or an agent thereof and believe that any content on this site infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Designated Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):</p>
+				<ul>
+					<li>A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+					<li>Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.</li>
+					<li>Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material (providing URLs is the best way to help us locate content quickly).</li>
+					<li>Information reasonably sufficient to permit us to contact you, such as an address, telephone number, and, if available, an electronic mail address.</li>
+					<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.</li>
+					<li>A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+				</ul>
+
+				<h2>2. Fair Use &amp; Trade Secret Assertion</h2>
+				<p>Before submitting a takedown request, please consider whether the material constitutes <strong>Fair Use</strong>. Fast Food Guides operates as an independent educational journal providing commentary, criticism, and operational insights based on public knowledge and personal experience.</p>
+				<p>We strictly prohibit the publication of proprietary trade secrets, bypassing instructions for digital lockouts, or unauthorized corporate leaks. Any references to specific manufacturers or brands (e.g., McDonald's, Taylor, Starbucks) are protected under Nominative Fair Use and First Amendment educational commentary. Frivolous or bad-faith takedown requests targeting protected speech may result in liability under Section 512(f) of the DMCA.</p>
+
+				<h2>3. Designated Copyright Agent</h2>
+				<p>Please send all DMCA notifications and legal inquiries to our Designated Agent:</p>
+				<div class="entity-notice">
+					<p>
+						<strong>Legal Compliance Officer</strong><br>
+						Fast Food Guides Media LLC<br>
+						701 S. Carson St, Ste 200<br>
+						Carson City, NV 89701<br>
+						Email: <a href="mailto:legal@fastfoodguides.com">legal@fastfoodguides.com</a>
+					</p>
+				</div>
+				<p>Please note that any automated or intimidation-based Cease &amp; Desist letters failing to adhere to this formalized legal framework will be ignored or challenged.</p>
+
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	body {
+		background-color: var(--bg-body);
+		color: var(--text-primary);
+		font-family: var(--font-atkinson), system-ui, sans-serif;
+		margin: 0;
+	}
+
+	main {
+		padding: 3rem 1.5rem 4rem;
+	}
+
+	.prose {
+		max-width: 720px;
+		margin: 0 auto;
+		line-height: 1.8;
+	}
+
+	.prose h1 {
+		font-size: 2.25rem;
+		font-weight: 800;
+		background: linear-gradient(135deg, var(--accent), #06D6A0);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		margin-bottom: 0.25rem;
+	}
+
+	.prose .last-updated {
+		color: #94A3B8;
+		font-size: 0.875rem;
+		margin-top: 0;
+		margin-bottom: 2.5rem;
+		padding-bottom: 1.5rem;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	}
+
+	.prose h2 {
+		font-size: 1.5rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		margin-top: 2.5rem;
+		margin-bottom: 1rem;
+	}
+
+	.prose p {
+		color: #94A3B8;
+		margin-bottom: 1.25rem;
+	}
+
+	.prose ul {
+		color: #94A3B8;
+		padding-left: 1.5rem;
+		margin-bottom: 1.25rem;
+	}
+
+	.prose li {
+		margin-bottom: 0.5rem;
+	}
+
+	.prose a {
+		color: var(--accent);
+		text-decoration: underline;
+		text-underline-offset: 2px;
+		transition: color 0.2s ease;
+	}
+
+	.prose a:hover {
+		color: #34D399;
+	}
+
+	.disclaimer-box {
+		background: #1a2332;
+		border-left: 4px solid var(--accent);
+		border-radius: 0 0.75rem 0.75rem 0;
+		padding: 1.25rem 1.5rem;
+		margin-bottom: 1.25rem;
+	}
+
+	.disclaimer-box p {
+		margin-bottom: 0;
+	}
+
+	.disclaimer-box strong {
+		color: var(--text-primary);
+	}
+
+	.entity-notice {
+		background: #1a2332;
+		border: 1px solid rgba(14, 165, 233, 0.3);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		margin-bottom: 1.5rem;
+	}
+	.entity-notice p {
+		margin: 0;
+		color: #CBD5E1;
+	}
+	.entity-notice strong {
+		color: var(--text-primary);
+	}
+</style>

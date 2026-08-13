@@ -363,22 +363,7 @@ button:focus-visible,
 	margin: 3em 0;
 }
 
-/* --- Card Utility --- */
-.card {
-	background-color: var(--bg-card);
-	border: 1px solid var(--border-subtle);
-	border-radius: var(--radius-card);
-	box-shadow: var(--shadow-card);
-	padding: 1.5em;
-	transition: background-color var(--transition), border-color var(--transition),
-		box-shadow var(--transition), transform var(--transition);
-}
-.card:hover {
-	background-color: var(--bg-card-hover);
-	border-color: var(--border-accent);
-	box-shadow: var(--shadow-card-hover);
-	transform: translateY(-2px);
-}
+
 
 /* --- Accessibility: Screen Reader Only --- */
 .sr-only {
@@ -537,73 +522,26 @@ button:focus-visible,
 	color: var(--text-secondary);
 }
 
-/* --- Affiliate UI Components --- */
-.product-card {
-	display: flex;
-	flex-direction: column;
-	gap: 1.5em;
-	padding: 1.5em;
-	margin: 2em 0;
-	background-color: var(--bg-surface);
-	border: 1px solid var(--border-subtle);
-	border-radius: var(--radius-card);
-	box-shadow: var(--shadow-card);
+
+.callout.callout-tip {
+	border-left-color: #3B82F6;
+	background-color: rgba(59, 130, 246, 0.1);
 }
-@media (min-width: 640px) {
-	.product-card {
-		flex-direction: row;
-		align-items: center;
-	}
+
+.editorial-note {
+	background-color: rgba(255, 255, 255, 0.03);
+	border: 1px solid rgba(255, 255, 255, 0.08);
+	border-left: 3px solid #94A3B8;
+	border-radius: 0.375rem;
+	padding: 1rem 1.25rem;
+	margin: 1.5rem 0;
+	font-size: 0.85rem;
+	color: #94A3B8;
+	line-height: 1.5;
 }
-.product-card-image {
-	flex-shrink: 0;
-	width: 120px;
-	height: 120px;
-	background-color: #fff;
-	border-radius: var(--radius-btn);
-	padding: 0.5rem;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin: 0 auto;
-}
-.product-card-image img {
-	max-height: 100%;
-	width: auto;
-}
-.product-card-content {
-	flex-grow: 1;
-}
-.product-card-title {
-	font-size: 1.25rem;
-	font-weight: 700;
-	color: var(--text-primary);
-	margin-top: 0;
-	margin-bottom: 0.5em;
-}
-.product-card-desc {
-	font-size: 0.95em;
-	color: var(--text-secondary);
-	margin-bottom: 1em;
-}
-.product-card-desc p {
-	margin-bottom: 0;
-}
-.btn-amazon {
-	background-color: #FF9900;
-	color: #111;
-	font-weight: 700;
-	border: none;
-	width: 100%;
-}
-.btn-amazon:hover {
-	background-color: #e68a00;
-	transform: translateY(-2px);
-}
-@media (min-width: 640px) {
-	.btn-amazon {
-		width: auto;
-	}
+.editorial-note strong {
+	color: #CBD5E1;
+	font-weight: 600;
 }
 .callout-gear {
 	background-color: rgba(255, 153, 0, 0.1);

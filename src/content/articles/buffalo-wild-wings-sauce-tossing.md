@@ -88,7 +88,7 @@ The combination of textured walls, measured sauce, and aggressive agitation crea
 
 ## Dry Rub Application: A Different Beast
 
-Dry rubs — Desert Heat, Lemon Pepper, Salt & Vinegar, [Chipotle](/articles/chain/chipotle) BBQ Dry Rub — are a completely different process than wet sauces, and they're less forgiving.
+Dry rubs — Desert Heat, Lemon Pepper, Salt & Vinegar, Chipotle BBQ Dry Rub — are a completely different process than wet sauces, and they're less forgiving.
 
 ### Timing Is Everything
 

@@ -55,6 +55,12 @@
             if (successMsg) {
               successMsg.style.display = 'block';
             }
+            if (typeof gtag === 'function') {
+              gtag('event', 'generate_lead', {
+                'event_category': 'newsletter',
+                'event_label': 'weekly_shift_notes'
+              });
+            }
           } else {
             submitBtn.disabled = false;
             submitBtn.textContent = 'Error. Try Again.';

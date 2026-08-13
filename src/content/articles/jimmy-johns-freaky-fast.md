@@ -57,7 +57,7 @@ I have witnessed what happens when a store falls behind on prep. Somebody called
 
 ## The Assembly Line: Under 30 Seconds, Every Time
 
-This is where the engineering really shows. A Jimmy John's sandwich line is not like a [Subway](/articles/chain/subway), where the customer stands there and directs every ingredient. At Jimmy John's, there is no customer involvement in the build. The order prints, the sandwich maker reads it, and they build it from memory at full speed.
+This is where the engineering really shows. A Jimmy John's sandwich line is not like a Subway, where the customer stands there and directs every ingredient. At Jimmy John's, there is no customer involvement in the build. The order prints, the sandwich maker reads it, and they build it from memory at full speed.
 
 The line is set up in a strict left-to-right flow:
 
@@ -84,7 +84,7 @@ Bread that does not get used by end of day is thrown out. Day-old bread is somet
 
 ## Why the Menu Is Deliberately Small
 
-Walk into a Jimmy John's and look at the menu board. Compared to [Subway](/articles/chain/subway), [Firehouse Subs](/articles/chain/firehouse-subs), or Jersey Mike's, the selection is shockingly limited. A handful of cold subs, a few club sandwiches, and that is basically it. No soup. No pizza. No salads (they briefly tried them and pulled back). No breakfast. No desserts beyond a cookie.
+Walk into a Jimmy John's and look at the menu board. Compared to Subway, Firehouse Subs, or Jersey Mike's, the selection is shockingly limited. A handful of cold subs, a few club sandwiches, and that is basically it. No soup. No pizza. No salads (they briefly tried them and pulled back). No breakfast. No desserts beyond a cookie.
 
 This is not a weakness — it is the entire strategy. Every item added to a menu adds prep time, inventory complexity, equipment needs, and decision-making for the customer. Jimmy John's keeps the menu tight because a smaller menu means:
 
@@ -99,7 +99,7 @@ The deliberate constraint forces efficiency. Every time corporate considers addi
 
 This is the decision that drives some customers crazy and is the single most misunderstood aspect of Jimmy John's. There are no toasters. No panini presses. No microwaves. No ovens used for anything except bread. Every sandwich leaves the line cold.
 
-It is not about cost savings or laziness. It is about time. A toaster oven adds 60 to 90 seconds to a sandwich build. A panini press adds two minutes or more. At [Subway](/articles/chain/subway), the toasting step is one of the primary bottlenecks during a lunch rush — the oven queue backs up, sandwiches pile on the counter waiting for a slot, and the whole line grinds down.
+It is not about cost savings or laziness. It is about time. A toaster oven adds 60 to 90 seconds to a sandwich build. A panini press adds two minutes or more. At Subway, the toasting step is one of the primary bottlenecks during a lunch rush — the oven queue backs up, sandwiches pile on the counter waiting for a slot, and the whole line grinds down.
 
 Jimmy John's eliminated that bottleneck entirely by refusing to toast. The bread is baked fresh, the ingredients are high quality, and the sandwich is designed to be eaten cold. That is the product. If you want a hot sandwich, Jimmy John's will politely suggest you go somewhere else. They would rather lose a customer who insists on toasting than add 90 seconds to every order for every customer who does not care.
 

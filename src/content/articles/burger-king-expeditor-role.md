@@ -86,7 +86,7 @@ When the Expo falls behind, the entire operation starts to collapse. Bags stack 
 
 ### How is the Expo role different from similar positions at other chains?
 
-The core concept is the same across most QSR chains—someone stands between the kitchen and the customer to verify accuracy and control flow. At [Taco Bell](/articles/chain/taco-bell), this role is called the [Linebacker](/articles/taco-bell-linebacker-role), and it functions similarly. The key difference at Burger King is the broiler complexity: because the broiler runs on a continuous conveyor, the Expo has to coordinate with a cooking system that has a fixed cycle time. You cannot speed up the broiler. The patties take exactly as long as they take. So the Expo has to think further ahead than they would at a chain with instant-cook equipment.
+The core concept is the same across most QSR chains—someone stands between the kitchen and the customer to verify accuracy and control flow. At Taco Bell, this role is called the [Linebacker](/articles/taco-bell-linebacker-role), and it functions similarly. The key difference at Burger King is the broiler complexity: because the broiler runs on a continuous conveyor, the Expo has to coordinate with a cooking system that has a fixed cycle time. You cannot speed up the broiler. The patties take exactly as long as they take. So the Expo has to think further ahead than they would at a chain with instant-cook equipment.
 
 ---
 

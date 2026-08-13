@@ -35,9 +35,9 @@ I spent years in QSR kitchens, and the Wingstop system was one of the more inter
 
 This is the part that surprises most customers when they learn about it. Wingstop wings are not marinated. They're not brined overnight. They're not pre-seasoned before frying. The raw wings are simply breaded with a seasoned flour dredge and dropped into the fryer plain. 
 
-The fryers at Wingstop run at approximately 350°F to 375°F, and wings cook for roughly 12 to 14 minutes depending on size. Wingstop uses pressure-free open fryers — no lids, no pressure systems like you'd see at [KFC](/articles/chain/kfc). The wings cook in standard frying oil until the exterior is crispy and the internal temperature hits 165°F minimum.
+The fryers at Wingstop run at approximately 350°F to 375°F, and wings cook for roughly 12 to 14 minutes depending on size. Wingstop uses pressure-free open fryers — no lids, no pressure systems like you'd see at KFC. The wings cook in standard frying oil until the exterior is crispy and the internal temperature hits 165°F minimum.
 
-The breading itself is a light flour-based coating. It's not a heavy batter like you'd find at a fish-and-chips shop, and it's not a double-dredge like [Popeyes](/articles/chain/popeyes) uses. Wingstop wants a thin, crispy shell that can absorb sauce without turning into a soggy mess. The coating is just thick enough to provide crunch and create texture for the sauce or rub to cling to.
+The breading itself is a light flour-based coating. It's not a heavy batter like you'd find at a fish-and-chips shop, and it's not a double-dredge like Popeyes uses. Wingstop wants a thin, crispy shell that can absorb sauce without turning into a soggy mess. The coating is just thick enough to provide crunch and create texture for the sauce or rub to cling to.
 
 When the wings come out of the fryer, they go into a stainless steel staging area to drain briefly — usually about 30 seconds to a minute. This lets the excess oil drip off so the sauce doesn't slide right off an oil-slicked surface. This drain time is short but critical. Skip it, and your sauce slides off. Let them sit too long, and the wings start cooling down and the coating loses its crispness.
 

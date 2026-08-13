@@ -80,7 +80,7 @@ Some stores use what's informally called a buttermilk "soak." After the dough is
 
 ## Hand-Cutting vs. Stamping: The Technique That Makes or Breaks the Biscuit
 
-This is where Bojangles separates itself from the [McDonald's](/articles/chain/mcdonalds) and Burger Kings of the world. Bojangles uses a **handheld biscuit cutter** — a round, sharp-edged metal ring — not a hydraulic stamp press or a pre-formed mold.
+This is where Bojangles separates itself from the McDonald's and Burger Kings of the world. Bojangles uses a **handheld biscuit cutter** — a round, sharp-edged metal ring — not a hydraulic stamp press or a pre-formed mold.
 
 ### The Golden Rule: Never Twist
 

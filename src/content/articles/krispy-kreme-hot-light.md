@@ -132,7 +132,7 @@ Krispy Kreme's decision to make the production line visible to customers was one
 
 This transparency serves a dual purpose. First, it's entertainment that increases dwell time and positive associations with the brand. Second, it's proof of freshness. When you can literally watch your doughnut being made, you don't need to be told it's fresh—you can see it. That visual proof carries more credibility than any “baked fresh daily” sign ever could.
 
-Contrast this with how bread is made at [Subway](/articles/chain/subway), where the baking happens in the back and customers only see finished product—read [the Subway bread baking process](/articles/subway-bread-baking-process) for that breakdown. Or compare it to the Hardee's biscuit maker, who works in the predawn hours before customers even arrive—[that process is detailed here](/articles/hardees-biscuit-maker-shift). Krispy Kreme puts the production front and center, and it works.
+Contrast this with how bread is made at Subway, where the baking happens in the back and customers only see finished product—read [the Subway bread baking process](/articles/subway-bread-baking-process) for that breakdown. Or compare it to the Hardee's biscuit maker, who works in the predawn hours before customers even arrive—[that process is detailed here](/articles/hardees-biscuit-maker-shift). Krispy Kreme puts the production front and center, and it works.
 
 ## The Numbers Behind the Line
 

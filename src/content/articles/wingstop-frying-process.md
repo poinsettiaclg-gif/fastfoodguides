@@ -29,7 +29,7 @@ But let's talk about the fryer, because there is a lot of misunderstanding about
 
 ![How Wingstop Actually Cooks Their Wings (It](../../assets/images/general/generic-coffee.webp)
 
-This trips people up. Wingstop's bone-in wings arrive at the store on refrigerated trucks, not frozen solid in a Sysco box. They go straight into the walk-in cooler and stay there until they hit the fryer. There is no thawing step, no overnight pull-to-thaw protocol like you'd see at a Starbucks or Chick-fil-A. The chicken is fresh and cold, sitting between 33°F and 40°F per [FDA cold storage guidelines](https://www.fda.gov/food/people-risk-foodborne-illness/meat-poultry-seafood-food-safety-those-risk).
+This trips people up. Wingstop's bone-in wings arrive at the store on refrigerated trucks, not frozen solid in a Sysco box. They go straight into the walk-in cooler and stay there until they hit the fryer. There is no thawing step, no overnight pull-to-thaw protocol like you'd see at a Starbucks or Chick-fil-A. The chicken is fresh and cold, sitting between 33°F and 40°F per FDA Food Safety regulations.
 
 The boneless wings are a different story. Those come in pre-breaded and refrigerated, already coated with a seasoned batter by the supplier. The cook just grabs a portion and drops them straight into the oil.
 
@@ -73,7 +73,7 @@ This post-fry saucing is important for food safety and quality. You can't put a 
 
 Soybean oil doesn't last forever. Over the course of a busy shift, the fryer oil accumulates carbonized food particles, loose bits of skin, and degraded fat compounds. If you don't filter regularly, the oil darkens, starts smoking at lower temperatures, and gives the wings an off taste.
 
-Standard practice is to filter the oil at least once per shift using the built-in filtration system — [most commercial fryers from Frymaster or Pitco](https://www.frymaster.com/fryers) have an integrated pump that drains the oil through filter paper and back into the vat. The cook cleans out the sediment tray, replaces the filter media, and tops off the oil level with fresh soybean oil from a jug.
+Standard practice is to filter the oil at least once per shift using the built-in filtration system — [most commercial fryers from Frymaster or Pitco](https://www.frymaster.com) have an integrated pump that drains the oil through filter paper and back into the vat. The cook cleans out the sediment tray, replaces the filter media, and tops off the oil level with fresh soybean oil from a jug.
 
 The deeper clean is the periodic boil-out. You drain all the oil, fill the vat with water and a commercial degreasing solution, boil it for 20 to 30 minutes, scrub the interior walls and heating elements, rinse everything, and then dry the vat completely before refilling with fresh oil. Skipping this step is how you end up with a carbon-encrusted element that can't hold temperature, and that's when your wings start coming out inconsistent.
 

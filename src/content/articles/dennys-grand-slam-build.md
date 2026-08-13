@@ -50,7 +50,7 @@ Nobody draws lines on the grill or anything — you just learn to keep your real
 
 ### Pancakes: Mixed From Powder, Poured by Hand
 
-Denny's pancake batter comes from a dry mix, similar to what [IHOP](/articles/chain/ihop) uses. A prep cook mixes it in large batches using a specific water-to-mix ratio — we used a big plastic pitcher with measurement lines on the side. The batter sits in a squeeze bottle or is ladled directly onto the flat-top.
+Denny's pancake batter comes from a dry mix, similar to what IHOP uses. A prep cook mixes it in large batches using a specific water-to-mix ratio — we used a big plastic pitcher with measurement lines on the side. The batter sits in a squeeze bottle or is ladled directly onto the flat-top.
 
 You pour two rounds about 4-5 inches in diameter. At 350°F, you're watching for the surface to bubble and the edges to set — usually about 90 seconds to two minutes on the first side. Flip once, cook for another 60-90 seconds. The key indicator is color: you want a uniform golden brown, not the spotty leopard-print pattern you get when the grill is too hot or the batter is too thick.
 
@@ -176,7 +176,7 @@ It's a hard job, and the Grand Slam — as simple as it looks on the menu — is
 
 ## The Grand Slam Is a Skill Check
 
-Every chain restaurant has that one menu item that defines what the kitchen is about. At [Waffle House](/articles/chain/waffle-house), it's the hash brown system. At [IHOP](/articles/chain/ihop), it's the pancake consistency. At Denny's, it's the Grand Slam.
+Every chain restaurant has that one menu item that defines what the kitchen is about. At Waffle House, it's the hash brown system. At IHOP, it's the pancake consistency. At Denny's, it's the Grand Slam.
 
 Four components, four different cook times, all landing on the plate at the same moment, cooked exactly the way the guest wants. Multiply that by every table in the restaurant during a Sunday rush, and you've got a real test of a cook's ability to manage time, space, and heat simultaneously.
 

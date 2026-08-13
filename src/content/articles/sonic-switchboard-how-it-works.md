@@ -69,7 +69,7 @@ But mobile orders introduced a problem nobody anticipated: stall conflicts. If a
 
 ![How Does the Sonic Drive-In Switchboard Actually Work?](../../assets/images/general/generic-prep.webp)
 
-Most Sonic locations also have a traditional drive-thru lane, managed through a separate headset system similar to what you'd find at [Taco Bell](/articles/taco-bell-drive-thru-timer) or [McDonald's](/articles/chain/mcdonalds). Whether the switchboard operator is also responsible for the drive-thru depends entirely on staffing.
+Most Sonic locations also have a traditional drive-thru lane, managed through a separate headset system similar to what you'd find at [Taco Bell](/articles/taco-bell-drive-thru-timer) or McDonald's. Whether the switchboard operator is also responsible for the drive-thru depends entirely on staffing.
 
 During slow periods, one employee can handle both. During a Happy Hour rush, trying to juggle the switchboard and the drive-thru simultaneously is a recipe for missed orders, long wait times, and angry customers. A good general manager will always schedule a separate drive-thru person during peak, but staffing realities at franchise locations don't always cooperate.
 
