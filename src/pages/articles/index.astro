@@ -11,7 +11,7 @@ const secretMenus = await getCollection('secretMenus');
 const allPosts = [...articles, ...secretMenus].sort((a, b) => {
 	if (a.collection === 'articles' && b.collection === 'secretMenus') return -1;
 	if (a.collection === 'secretMenus' && b.collection === 'articles') return 1;
-	return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+	return new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf();
 });
 
 const chainCounts = allPosts.reduce((acc, post) => {
